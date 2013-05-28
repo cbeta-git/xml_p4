@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "T20n1168B.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1168B 八曼荼羅經</title>
+			<author></author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.10 $ (Big5)<date>$Date: 2009/04/23 08:01:22 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:01:22 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 20, No. 1168B &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language id="san-sd">Sanskrit-Siddam</language>
+			<language id="eng">English</language>
+			<language id="chi">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+	<change>
+		<date>20000124/11:15:17</date>
+		<respStmt><name>CW</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT (00/01/24)</item>
+	</change>
+<!--
+$Log: T20n1168B.xml,v $
+Revision 1.10  2009/04/23 08:01:22  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.9  2006/04/12 21:55:47  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.7  2006/03/25 13:00:33  saywhat
+p0677a05 SD-A65A=>SD-E3AD
+
+Revision 1.6  2004/12/22 06:50:01  saywhat
+SD-A65E => SD-A5D5
+
+Revision 1.5  2004/10/21 08:20:04  saywhat
+段落前加入圈點
+
+Revision 1.4  2004/09/10 02:53:06  saywhat
+刪除空的 juan close
+
+Revision 1.3  2004/04/20 08:39:04  maha
+「版本日期」標記修訂
+
+Revision 1.2  2003/12/22 04:20:10  saywhat
+p0676c18  E0F8→E2B7
+
+Revision 1.1.1.1  2003/05/05 04:09:23  ray
+recover cvs
+
+Revision 1.20  2002/12/05 05:20:27  saywhat
+校勘插入處理
+
+Revision 1.19  2002/11/04 10:45:39  ray
+tei.2 => TEI.2
+
+Revision 1.18  2002/07/29 09:56:47  vinking
+modified lang
+
+Revision 1.17  2002/04/08 09:05:50  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.16  2001/07/24 06:53:23  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.15  2001/06/13 10:12:23  moved
+modified normal
+
+Revision 1.14  2001/05/29 02:35:50  ray
+no message
+
+Revision 1.13  2001/03/30 05:55:38  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.12  2001/03/25 09:15:31  ray
+add <milestone>
+
+Revision 1.11  2001/02/07 06:56:35  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.10  2001/02/03 07:46:30  chris
+Added keywords $Revision: 1.10 $, $Date: 2009/04/23 08:01:22 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0676c12" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0676c13" ed="T"/><head type="no">No. 1168B [No. 1167]</head>
+<lb n="0676c14" ed="T"/><juan n="001" fun="open"><mulu n="001" type="卷"/><note n="0676019" resp="Taisho" place="foot text" type="orig">【原】三十帖策子第二十六</note><jhead>八曼荼羅經</jhead></juan>
+<lb n="0676c15" ed="T"/>
+<lb n="0676c16" ed="T"/><div1 type="jing"><p id="pT20p0676c1601"><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5A9;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5F0;</t></tt><tt type="tr"><t lang="chi">如</t><t lang="san-sd">&SD-CFCF;</t></tt><tt type="tr"><t lang="chi">是</t><t lang="san-sd">&SD-A660;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5E5;</t></tt><tt type="tr"><t lang="chi">我</t><t lang="san-sd">&SD-A5F2;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-AB62;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A557;</t></tt><tt type="tr"><t lang="chi">一</t><t lang="san-sd">&SD-A5EB;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A440;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E261;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A67A;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5E5;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5F7;</t></tt><tt type="tr"><t lang="chi">婆</t><t lang="san-sd">&SD-A5D9;</t></tt>
+<lb n="0676c17" ed="T"/>
+<lb n="0676c18" ed="T"/><tt type="tr"><t lang="chi">伽</t><t lang="san-sd">&SD-A458;</t></tt><tt type="tr"><t lang="chi">梵</t><t lang="san-sd">&SD-E2B7;</t></tt><tt type="tr"><t lang="chi">在</t><t lang="san-sd">&SD-A5BD;</t></tt><tt type="tr"><t lang="chi">布</t><t lang="san-sd">&SD-A557;</t></tt><tt type="tr"><t lang="chi">得</t><t lang="san-sd">&SD-A64A;</t></tt><tt type="tr"><t lang="chi">&CB00256;</t><t lang="san-sd">&SD-A446;</t></tt><tt type="tr"><t lang="chi">迦</t><t lang="san-sd">&SD-A658;</t></tt><tt type="tr"><t lang="chi">山</t><t lang="san-sd">&SD-A6A8;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5FD;</t></tt><tt type="tr"><t lang="chi">住</t><t lang="san-sd">&SD-A559;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-B2CC;</t></tt><tt type="tr"><t lang="chi">觀</t><t lang="san-sd">&SD-CFC6;</t></tt><tt type="tr"><t lang="chi">自</t><t lang="san-sd">&SD-B76A;</t></tt><tt type="tr"><t lang="chi">在</t><t lang="san-sd">&SD-A656;</t></tt>
+<lb n="0676c19" ed="T"/>
+<lb n="0676c20" ed="T"/><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A652;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A442;</t></tt><tt type="tr"><t lang="chi">宮</t><t lang="san-sd">&SD-A55D;</t></tt><tt type="tr"><t lang="chi">殿</t><t lang="san-sd">&SD-E0AB;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5FD;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A8E2;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5D9;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A656;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5AF;</t></tt><tt type="tr"><t lang="chi">與</t><t lang="san-sd">&SD-CFC5;</t></tt><tt type="tr"><t lang="chi">無</t><t lang="san-sd">&SD-A5AF;</t></tt><tt type="tr"><t lang="chi">量</t><t lang="san-sd">&SD-A440;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5D5;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A57D;</t></tt>
+<lb n="0676c21" ed="T"/>
+<lb n="0676c22" ed="T"/><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A67A;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-AF59;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A446;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A4DD;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5A9;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5F5;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A557;</t></tt><tt type="tr"><t lang="chi">百</t><t lang="san-sd">&SD-A662;</t></tt><tt type="tr"><t lang="chi">千</t><t lang="san-sd">&SD-A557;</t></tt><tt type="tr"><t lang="chi">句</t><t lang="san-sd">&SD-A67A;</t></tt><tt type="tr"><t lang="chi">致</t><t lang="san-sd">&SD-A6A8;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E262;</t></tt><tt type="tr"><t lang="chi">菩</t><t lang="san-sd">&SD-A5B5;</t></tt><tt type="tr"><t lang="chi">薩</t><t lang="san-sd">&SD-A640;</t></tt><tt type="tr"><t lang="chi">前</t><t lang="san-sd">&SD-CC58;</t></tt>
+<lb n="0676c23" ed="T"/>
+<lb n="0676c24" ed="T"/><tt type="tr"><t lang="chi">後</t><t lang="san-sd">&SD-A55F;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5B9;</t></tt><tt type="tr"><t lang="chi">圍</t><t lang="san-sd">&SD-A5FD;</t></tt><tt type="tr"><t lang="chi">遶</t><t lang="san-sd">&SD-E345;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A562;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-CFC5;</t></tt><tt type="tr"><t lang="chi">時</t><t lang="san-sd">&SD-A563;</t></tt><tt type="tr"><t lang="chi">有</t><t lang="san-sd">&SD-A44C;</t></tt><tt type="tr"><t lang="chi">菩</t><t lang="san-sd">&SD-A64E;</t></tt><tt type="tr"><t lang="chi">薩</t><t lang="san-sd">&SD-A5FD;</t></tt><tt type="tr"><t lang="chi">名</t><t lang="san-sd">&SD-B448;</t></tt><tt type="tr"><t lang="chi">寶</t><t lang="san-sd">&SD-A458;</t></tt><tt type="tr"><t lang="chi">藏</t><t lang="san-sd">&SD-B751;</t></tt><tt type="tr"><t lang="chi">月</t><t lang="san-sd">&SD-A47C;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E062;</t></tt>
+<lb n="0676c25" ed="T"/>
+<lb n="0676c26" ed="T"/><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A656;</t></tt><tt type="tr"><t lang="chi">光</t><t lang="san-sd">&SD-A5DA;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A6A4;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5AA;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5F0;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5D5;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A57D;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A67A;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-AF5A;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5E5;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A6A9;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A67A;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-AF64;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A557;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-AA65;</t></tt>
+<lb n="0676c27" ed="T"/>
+<lb n="0676c28" ed="T"/><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A656;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5B5;</t></tt><tt type="tr"><t lang="chi">中</t><t lang="san-sd">&SD-B7BB;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A571;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A67A;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-AF5B;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5B5;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A559;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A55F;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5DE;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E1EA;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A559;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A66E;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E176;</t></tt><tt type="tr"><t lang="chi">即</t><t lang="san-sd">&SD-A67A;</t></tt>
+<lb n="0676c29" ed="T"/>
+<lb n="0676c30" ed="T"/><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A557;</t></tt><tt type="tr"><t lang="chi">起</t><t lang="san-sd">&SD-AA67;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E263;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5F2;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A67A;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5AA;</t></tt><tt type="tr"><t lang="chi">一</t><t lang="san-sd">&SD-A575;</t></tt><tt type="tr"><t lang="chi">心</t><t lang="san-sd">&SD-E0BE;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A67A;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E043;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-CF55;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5FE;</t></tt><tt type="tr"><t lang="chi">恭</t><t lang="san-sd">&SD-A6A6;</t></tt><tt type="tr"><t lang="chi">敬</t><t lang="san-sd">&SD-A462;</t></tt><tt type="tr"><t lang="chi">合</t><t lang="san-sd">&SD-CBA7;</t></tt>
+<lb n="0676c31" ed="T"/>
+<lb n="0676c32" ed="T"/><tt type="tr"><t lang="chi">掌</t><t lang="san-sd">&SD-AF5A;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A56F;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A6B6;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A54B;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A9BE;</t></tt><tt type="tr"><t lang="chi">供</t><t lang="san-sd">&SD-A5AD;</t></tt><tt type="tr"><t lang="chi">養</t><t lang="san-sd">&SD-A5E5;</t></tt><tt type="tr"><t lang="chi">尊</t><t lang="san-sd">&SD-C9FD;</t></tt><tt type="tr"><t lang="chi">重</t><t lang="san-sd">&SD-A654;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-CBEF;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A565;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A8BF;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-AABC;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A559;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-B059;</t></tt>
+<lb n="0676c33" ed="T"/>
+<pb n="0677a" id="T20.1168B.0677a" ed="T"/>
+<lb n="0677a01" ed="T"/><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5F7;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5A9;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5D9;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A458;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E2BE;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-CDAF;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5AA;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A4B6;</t></tt><tt type="tr"><t lang="chi">頂</t><t lang="san-sd">&SD-A64C;</t></tt><tt type="tr"><t lang="chi">禮</t><t lang="san-sd">&SD-AABC;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A54B;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A8A6;</t></tt><tt type="tr"><t lang="chi">世</t><t lang="san-sd">&SD-A5D9;</t></tt><tt type="tr"><t lang="chi">尊</t><t lang="san-sd">&SD-A458;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A656;</t></tt>
+<lb n="0677a02" ed="T"/>
+<lb n="0677a03" ed="T"/><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-CF55;</t></tt><tt type="tr"><t lang="chi">作</t><t lang="san-sd">&SD-A5EB;</t></tt><tt type="tr"><t lang="chi">如</t><t lang="san-sd">&SD-A557;</t></tt><tt type="tr"><t lang="chi">是</t><t lang="san-sd">&SD-A56F;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A65E;</t></tt><tt type="tr"><t lang="chi">言</t><t lang="san-sd">&SD-A47C;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-CBEF;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-DAA1;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5F1;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5E5;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A6B2;</t></tt><tt type="tr"><t lang="chi">婆</t><t lang="san-sd">&SD-A5D9;</t></tt><tt type="tr"><t lang="chi">伽</t><t lang="san-sd">&SD-A458;</t></tt><tt type="tr"><t lang="chi">梵</t><t lang="san-sd">&SD-E2BE;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A557;</t></tt>
+<lb n="0677a04" ed="T"/>
+<lb n="0677a05" ed="T"/><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A564;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A458;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A557;</t></tt><tt type="tr"><t lang="chi">應</t><t lang="san-sd">&SD-A5E5;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A6B2;</t></tt><tt type="tr"><t lang="chi">供</t><t lang="san-sd">&SD-CA60;</t></tt><tt type="tr"><t lang="chi">正</t><t lang="san-sd">&SD-A67A;</t></tt><tt type="tr"><t lang="chi">等</t><t lang="san-sd">&SD-A8A6;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-DA40;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E3AD;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-DAAD;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E1A1;</t></tt><tt type="tr"><t lang="chi">所</t><t lang="san-sd">&SD-A47E;</t></tt><tt type="tr"><t lang="chi">有</t><t lang="san-sd">&SD-A575;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A656;</t></tt>
+<lb n="0677a06" ed="T"/>
+<lb n="0677a07" ed="T"/><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-AABC;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A575;</t></tt><tt type="tr"><t lang="chi">諭示</t><t lang="san-sd">&SD-A66C;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A67A;</t></tt><tt type="tr"><t lang="chi">教</t><t lang="san-sd">&SD-B1C1;</t></tt><tt type="tr"><t lang="chi">受</t><t lang="san-sd">&SD-A5D9;</t></tt><tt type="tr"><t lang="chi">令</t><t lang="san-sd">&SD-A458;</t></tt><tt type="tr"><t lang="chi">無</t><t lang="san-sd">&SD-A657;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5A9;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A656;</t></tt><tt type="tr"><t lang="chi">疑</t><t lang="san-sd">&SD-A441;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A66C;</t></tt><tt type="tr"><t lang="chi">惑</t><t lang="san-sd">&SD-A444;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-B76A;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E178;</t></tt>
+<lb n="0677a08" ed="T"/>
+<lb n="0677a09" ed="T"/><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-CD4B;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-AABC;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-B4FA;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A8BE;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A440;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5FD;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A54B;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5F1;</t></tt><tt type="tr"><t lang="chi">如</t><t lang="san-sd">&SD-CFCF;</t></tt><tt type="tr"><t lang="chi">是</t><t lang="san-sd">&SD-A656;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E043;</t></tt><tt type="tr"><t lang="chi">說</t><t lang="san-sd">&SD-E16F;</t></tt><tt type="tr"><t lang="chi">以</t><t lang="san-sd">&SD-A5D9;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A458;</t></tt>
+<lb n="0677a10" ed="T"/>
+<lb n="0677a11" ed="T"/><tt type="tr"><t lang="chi">佛</t><t lang="san-sd">&SD-E2BE;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5FD;</t></tt><tt type="tr"><t lang="chi">寶</t><t lang="san-sd">&SD-B448;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A458;</t></tt><tt type="tr"><t lang="chi">藏</t><t lang="san-sd">&SD-B751;</t></tt><tt type="tr"><t lang="chi">月</t><t lang="san-sd">&SD-A47C;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E1A6;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A656;</t></tt><tt type="tr"><t lang="chi">光</t><t lang="san-sd">&SD-A5DA;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A6A6;</t></tt><tt type="tr"><t lang="chi">菩</t><t lang="san-sd">&SD-A5D5;</t></tt><tt type="tr"><t lang="chi">提</t><t lang="san-sd">&SD-A57D;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A67A;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-AF59;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5EB;</t></tt>
+<lb n="0677a12" ed="T"/>
+<lb n="0677a13" ed="T"/><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A557;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A56F;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A65E;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A47C;</t></tt><tt type="tr"><t lang="chi">言</t><t lang="san-sd">&SD-A65E;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A47C;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A8BF;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A440;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5FD;</t></tt><tt type="tr"><t lang="chi">當</t><t lang="san-sd">&SD-A551;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5A9;</t></tt><tt type="tr"><t lang="chi">一</t><t lang="san-sd">&SD-A47E;</t></tt><tt type="tr"><t lang="chi">心</t><t lang="san-sd">&SD-CF55;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5E5;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5FE;</t></tt>
+<lb n="0677a14" ed="T"/>
+<lb n="0677a15" ed="T"/><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A57B;</t></tt><tt type="tr"><t lang="chi">諦</t><t lang="san-sd">&SD-A5F3;</t></tt><tt type="tr"><t lang="chi">聽</t><t lang="san-sd">&SD-A8DC;&SD-D9C6;</t></tt><tt type="tr"><t lang="chi">如</t><t lang="san-sd">&SD-CFCF;</t></tt><tt type="tr"><t lang="chi">是</t><t lang="san-sd">&SD-A656;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E043;</t></tt><tt type="tr"><t lang="chi">說</t><t lang="san-sd">&SD-E16F;</t></tt><tt type="tr"><t lang="chi">已</t><t lang="san-sd">&SD-A5FD;</t></tt><tt type="tr"><t lang="chi">寶</t><t lang="san-sd">&SD-B44E;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5FD;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-B448;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A458;</t></tt><tt type="tr"><t lang="chi">藏</t><t lang="san-sd">&SD-B751;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A47C;</t></tt>
+<lb n="0677a16" ed="T"/>
+<lb n="0677a17" ed="T"/><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E1A6;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A656;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5DA;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A6A4;</t></tt><tt type="tr"><t lang="chi">菩</t><t lang="san-sd">&SD-A5D5;</t></tt><tt type="tr"><t lang="chi">薩</t><t lang="san-sd">&SD-A57D;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A67A;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-AF5F;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5D9;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A458;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A656;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-CA56;</t></tt><tt type="tr"><t lang="chi">作</t><t lang="san-sd">&SD-A5EB;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A557;</t></tt><tt type="tr"><t lang="chi">是</t><t lang="san-sd">&SD-A56F;</t></tt>
+<lb n="0677a18" ed="T"/>
+<lb n="0677a19" ed="T"/><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A65E;</t></tt><tt type="tr"><t lang="chi">真</t><t lang="san-sd">&SD-A47C;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A657;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A47C;</t></tt><tt type="tr"><t lang="chi">言</t><t lang="san-sd">&SD-A5FC;</t></tt><tt type="tr"><t lang="chi">若</t><t lang="san-sd">&SD-A440;</t></tt><tt type="tr"><t lang="chi">有</t><t lang="san-sd">&SD-E0EB;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-C96E;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A458;</t></tt><tt type="tr"><t lang="chi">善</t><t lang="san-sd">&SD-A660;</t></tt><tt type="tr"><t lang="chi">男</t><t lang="san-sd">&SD-AB5E;</t></tt><tt type="tr"><t lang="chi">子</t><t lang="san-sd">&SD-E05C;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A444;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A64A;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5B9;</t></tt>
+<lb n="0677a20" ed="T"/>
+<lb n="0677a21" ed="T"/><tt type="tr"><t lang="chi">善</t><t lang="san-sd">&SD-AA66;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A65E;</t></tt><tt type="tr"><t lang="chi">女</t><t lang="san-sd">&SD-A444;</t></tt><tt type="tr"><t lang="chi">人</t><t lang="san-sd">&SD-A64A;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E1DA;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A6AA;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A558;</t></tt><tt type="tr"><t lang="chi">欲</t><t lang="san-sd">&SD-A47D;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-CFC6;</t></tt><tt type="tr"><t lang="chi">修</t><t lang="san-sd">&SD-CD4B;</t></tt><tt type="tr"><t lang="chi">曼</t><t lang="san-sd">&SD-A5E5;</t></tt><tt type="tr"><t lang="chi">荼</t><t lang="san-sd">&SD-C9FD;</t></tt><tt type="tr"><t lang="chi">羅</t><t lang="san-sd">&SD-A64A;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5B9;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A44A;</t></tt>
+<lb n="0677a22" ed="T"/>
+<lb n="0677a23" ed="T"/><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A440;</t></tt><tt type="tr"><t lang="chi">者</t><t lang="san-sd">&SD-E1DC;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A441;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5ED;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5D9;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A656;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A559;</t></tt><tt type="tr"><t lang="chi">彼</t><t lang="san-sd">&SD-A55D;</t></tt><tt type="tr"><t lang="chi">等</t><t lang="san-sd">&SD-A5A9;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A440;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A56D;</t></tt><tt type="tr"><t lang="chi">云</t><t lang="san-sd">&SD-A440;</t></tt><tt type="tr"><t lang="chi">何</t><t lang="san-sd">&SD-A5FD;</t></tt><tt type="tr"><t lang="chi">方</t><t lang="san-sd">&SD-A54E;</t></tt>
+<lb n="0677a24" ed="T"/>
+<lb n="0677a25" ed="T"/><tt type="tr"><t lang="chi">便</t><t lang="san-sd">&SD-A5FB;</t></tt><tt type="tr"><t lang="chi">而</t><t lang="san-sd">&SD-A5D9;</t></tt><tt type="tr"><t lang="chi">世</t><t lang="san-sd">&SD-A458;</t></tt><tt type="tr"><t lang="chi">尊</t><t lang="san-sd">&SD-A657;</t></tt><tt type="tr"><t lang="chi">告</t><t lang="san-sd">&SD-A5AA;</t></tt><tt type="tr"><t lang="chi">言</t><t lang="san-sd">&SD-A6A8;</t></tt><tt type="tr"><t lang="chi">善</t><t lang="san-sd">&SD-A67A;</t></tt><tt type="tr"><t lang="chi">哉</t><t lang="san-sd">&SD-E0C1;</t></tt><tt type="tr"><t lang="chi">善</t><t lang="san-sd">&SD-A67B;</t></tt><tt type="tr"><t lang="chi">哉</t><t lang="san-sd">&SD-E0C1;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A444;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A64A;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E043;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-AA5E;</t></tt>
+<lb n="0677a26" ed="T"/>
+<lb n="0677a27" ed="T"/><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5D9;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-AA76;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A441;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-CDA9;</t></tt><tt type="tr"><t lang="chi">賢</t><t lang="san-sd">&SD-AABC;</t></tt><tt type="tr"><t lang="chi">勇</t><t lang="san-sd">&SD-A559;</t></tt><tt type="tr"><t lang="chi">族</t><t lang="san-sd">&SD-A5DA;</t></tt><tt type="tr"><t lang="chi">姓</t><t lang="san-sd">&SD-A5AA;</t></tt><tt type="tr"><t lang="chi">子</t><t lang="san-sd">&SD-E265;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-B449;</t></tt><tt type="tr"><t lang="chi">生</t><t lang="san-sd">&SD-CFC5;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A7D7;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A678;</t></tt><tt type="tr"><t lang="chi">利</t><t lang="san-sd">&SD-A444;</t></tt><tt type="tr"><t lang="chi">益</t><t lang="san-sd">&SD-A64A;</t></tt>
+<lb n="0677a28" ed="T"/>
+<lb n="0677a29" ed="T"/><tt type="tr"><t lang="chi">多</t><t lang="san-sd">&SD-A5B9;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-AA5E;</t></tt><tt type="tr"><t lang="chi">諸</t><t lang="san-sd">&SD-A656;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E0AA;</t></tt><tt type="tr"><t lang="chi">眾</t><t lang="san-sd">&SD-A4B6;</t></tt><tt type="tr"><t lang="chi">生</t><t lang="san-sd">&SD-A5A9;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E0BC;</t></tt><tt type="tr"><t lang="chi">令</t><t lang="san-sd">&SD-A44D;</t></tt><tt type="tr"><t lang="chi">得</t><t lang="san-sd">&SD-A5F1;</t></tt><tt type="tr"><t lang="chi">安</t><t lang="san-sd">&lac;</t></tt><tt type="tr"><t lang="chi">樂</t><t lang="san-sd">&SD-E1E2;</t></tt><tt type="tr"><t lang="chi">能</t><t lang="san-sd">&SD-A563;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A67A;</t></tt><tt type="tr"><t lang="chi">生</t><t lang="san-sd">&SD-A5B9;</t></tt><tt type="tr"><t lang="chi">眾</t><t lang="san-sd">&SD-E265;</t></tt>
+<lb n="0677a30" ed="T"/>
+<lb n="0677a31" ed="T"/><tt type="tr"><t lang="chi">生</t><t lang="san-sd">&SD-B449;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E040;</t></tt><tt type="tr"><t lang="chi">三</t><t lang="san-sd">&SD-A67A;</t></tt><tt type="tr"><t lang="chi">世</t><t lang="san-sd">&SD-AF5A;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E040;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-CFC5;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A55B;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A8B2;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E0A4;</t></tt><tt type="tr"><t lang="chi">智</t><t lang="san-sd">&SD-A5A9;</t></tt><tt type="tr"><t lang="chi">慧</t><t lang="san-sd">&SD-A4B6;&SD-A5F7;</t></tt><tt type="tr"><t lang="chi">是</t><t lang="san-sd">&SD-A55D;</t></tt><tt type="tr"><t lang="chi">故</t><t lang="san-sd">&SD-A5A9;</t></tt><tt type="tr"><t lang="chi">應</t><t lang="san-sd">&SD-A6AA;</t></tt>
+<lb n="0677a32" ed="T"/>
+<lb n="0677a33" ed="T"/><tt type="tr"><t lang="chi">知</t><t lang="san-sd">&SD-CC5C;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-C9FD;</t></tt><tt type="tr"><t lang="chi">善</t><t lang="san-sd">&SD-A444;</t></tt><tt type="tr"><t lang="chi">男</t><t lang="san-sd">&SD-A64A;</t></tt><tt type="tr"><t lang="chi">子</t><t lang="san-sd">&SD-A5B9;</t></tt><tt type="tr"><t lang="chi">此</t><t lang="san-sd">&SD-AA5F;</t></tt><tt type="tr"><t lang="chi">八</t><t lang="san-sd">&SD-CD4C;</t></tt><tt type="tr"><t lang="chi">菩薩</t><t lang="san-sd">&SD-E040;&SD-A5D5;&SD-A57D;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A67A;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-AF59;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5AA;</t></tt><tt type="tr"><t lang="chi">心</t><t lang="san-sd">&SD-CC68;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A56F;</t></tt>
+<lb n="0677a34" ed="T"/>
+<lb n="0677a35" ed="T"/><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5F2;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5AB;</t></tt><tt type="tr"><t lang="chi">種</t><t lang="san-sd">&SD-A5F7;</t></tt><tt type="tr"><t lang="chi">子</t><t lang="san-sd">&SD-CC68;</t></tt><tt type="tr"><t lang="chi">字</t><t lang="san-sd">&SD-A56F;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5F1;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5A9;</t></tt><tt type="tr"><t lang="chi">由</t><t lang="san-sd">&SD-A67A;</t></tt><tt type="tr"><t lang="chi">能</t><t lang="san-sd">&SD-CBA7;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E1DA;</t></tt><tt type="tr"><t lang="chi">□</t><t lang="san-sd">&SD-E1DE;</t></tt><tt type="tr"><t lang="chi">□</t><t lang="san-sd">&SD-A640;</t></tt><tt type="tr"><t lang="chi">之</t><t lang="san-sd">&SD-A557;</t></tt><tt type="tr"><t lang="chi">者</t><t lang="san-sd">&SD-A5E6;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-AA5E;</t></tt>
+<lb n="0677a36" ed="T"/>
+<lb n="0677a37" ed="T"/><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A54B;</t></tt><tt type="tr"><t lang="chi">滅</t><t lang="san-sd">&SD-A5BF;</t></tt><tt type="tr"><t lang="chi">盡</t><t lang="san-sd">&SD-A47D;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5A9;</t></tt><tt type="tr"><t lang="chi">五</t><t lang="san-sd">&SD-CF55;</t></tt><tt type="tr"><t lang="chi">無</t><t lang="san-sd">&SD-B76A;</t></tt><tt type="tr"><t lang="chi">間</t><t lang="san-sd">&SD-A54D;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A6B4;</t></tt><tt type="tr"><t lang="chi">罪</t><t lang="san-sd">&SD-A5FB;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5F2;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A559;</t></tt><tt type="tr"><t lang="chi">一</t><t lang="san-sd">&SD-A67A;</t></tt><tt type="tr"><t lang="chi">切</t><t lang="san-sd">&SD-B7A3;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-B6BC;</t></tt>
+<lb n="0677a38" ed="T"/>
+<pb n="0677b" id="T20.1168B.0677b" ed="T"/>
+<lb n="0677b01" ed="T"/><tt type="tr"><t lang="chi">皆</t><t lang="san-sd">&SD-A67C;</t></tt><tt type="tr"><t lang="chi">得</t><t lang="san-sd">&SD-E0A7;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A47C;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-AABD;</t></tt><tt type="tr"><t lang="chi">成</t><t lang="san-sd">&SD-CEEC;</t></tt><tt type="tr"><t lang="chi">就</t><t lang="san-sd">&SD-A559;&SD-D9C6;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E074;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-CFC6;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A659;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5FD;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-B065;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A6A9;</t></tt><tt type="tr"><t lang="chi">此</t><t lang="san-sd">&SD-A5E5;</t></tt>
+<lb n="0677b02" ed="T"/>
+<lb n="0677b03" ed="T"/><tt type="tr"><t lang="chi">名</t><t lang="san-sd">&SD-E165;</t></tt><tt type="tr"><t lang="chi">如</t><t lang="san-sd">&SD-A5D9;</t></tt><tt type="tr"><t lang="chi">來</t><t lang="san-sd">&SD-A458;</t></tt><tt type="tr"><t lang="chi">胎</t><t lang="san-sd">&SD-E2BE;</t></tt><tt type="tr"><t lang="chi">藏</t><t lang="san-sd">&SD-CFC5;</t></tt><tt type="tr"><t lang="chi">以</t><t lang="san-sd">&SD-A5AF;</t></tt><tt type="tr"><t lang="chi">心</t><t lang="san-sd">&SD-A5A9;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-CC68;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A56F;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5F7;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5A9;</t></tt><tt type="tr"><t lang="chi">供</t><t lang="san-sd">&SD-E042;</t></tt><tt type="tr"><t lang="chi">養</t><t lang="san-sd">&SD-A760;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-DA75;</t></tt>
+<lb n="0677b04" ed="T"/>
+<lb n="0677b05" ed="T"/><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A6B3;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&lac;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-DAAF;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-CC58;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5F7;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-B065;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A6A9;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-D9C6;</t></tt><tt type="tr"><t lang="chi">觀</t><t lang="san-sd">&SD-CFC5;</t></tt><tt type="tr"><t lang="chi">自</t><t lang="san-sd">&SD-A656;</t></tt><tt type="tr"><t lang="chi">在</t><t lang="san-sd">&SD-A652;</t></tt><tt type="tr"><t lang="chi">菩</t><t lang="san-sd">&SD-A442;</t></tt><tt type="tr"><t lang="chi">薩</t><t lang="san-sd">&SD-A55D;</t></tt>
+<lb n="0677b06" ed="T"/>
+<lb n="0677b07" ed="T"/><tt type="tr"><t lang="chi">心</t><t lang="san-sd">&SD-E0AB;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5FD;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A8E2;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-CC68;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A56F;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5FC;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-D9C6;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5EB;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd"></t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-E266;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5FD;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A54B;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-B065;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A6A9;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-D9C6;</t></tt>
+<lb n="0677b08" ed="T"/>
+<lb n="0677b09" ed="T"/><tt type="tr"><t lang="chi">是</t><t lang="san-sd">&SD-A5EB;</t></tt><tt type="tr"><t lang="chi">名</t><t lang="san-sd">&SD-AA64;</t></tt><tt type="tr"><t lang="chi">彌</t><t lang="san-sd">&SD-A5F1;</t></tt><tt type="tr"><t lang="chi">勒</t><t lang="san-sd">&SD-A8E2;</t></tt><tt type="tr"><t lang="chi">菩</t><t lang="san-sd">&SD-CC68;</t></tt><tt type="tr"><t lang="chi">薩</t><t lang="san-sd">&SD-A56F;</t></tt><tt type="tr"><t lang="chi">心</t><t lang="san-sd">&SD-A5FC;&SD-D9C6;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-DA71;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A458;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-B752;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5F1;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-B065;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A6A9;&SD-D9C6;</t></tt>
+<lb n="0677b10" ed="T"/>
+<lb n="0677b11" ed="T"/><tt type="tr"><t lang="chi">是</t><t lang="san-sd">&SD-CFC6;</t></tt><tt type="tr"><t lang="chi">名</t><t lang="san-sd">&SD-A441;</t></tt><tt type="tr"><t lang="chi">虛</t><t lang="san-sd">&SD-A662;</t></tt><tt type="tr"><t lang="chi">空</t><t lang="san-sd">&SD-A458;</t></tt><tt type="tr"><t lang="chi">藏</t><t lang="san-sd">&SD-B751;</t></tt><tt type="tr"><t lang="chi">菩</t><t lang="san-sd">&SD-A8E2;</t></tt><tt type="tr"><t lang="chi">薩</t><t lang="san-sd">&SD-CC68;</t></tt><tt type="tr"><t lang="chi">心</t><t lang="san-sd">&SD-A56F;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5FC;&SD-D9C6;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A6BF;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A6A9;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5FD;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A4BC;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-B065;</t></tt>
+<lb n="0677b12" ed="T"/>
+<lb n="0677b13" ed="T"/><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A6A9;&SD-D9C6;</t></tt><tt type="tr"><t lang="chi">是</t><t lang="san-sd">&SD-A6B6;</t></tt><tt type="tr"><t lang="chi">名</t><t lang="san-sd">&SD-A559;</t></tt><tt type="tr"><t lang="chi">地</t><t lang="san-sd">&SD-A458;</t></tt><tt type="tr"><t lang="chi">藏</t><t lang="san-sd">&SD-B751;</t></tt><tt type="tr"><t lang="chi">菩</t><t lang="san-sd">&SD-A8E2;</t></tt><tt type="tr"><t lang="chi">薩</t><t lang="san-sd">&SD-CC68;</t></tt><tt type="tr"><t lang="chi">心</t><t lang="san-sd">&SD-A56F;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A5FC;&SD-D9C6;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-CFCF;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A558;</t></tt><tt type="tr"><t lang="chi">&lac;</t><t lang="san-sd">&SD-A848;</t></tt>
+<lb n="0677b14" ed="T"/>
+<lb n="0677b15" ed="T"/><term lang="san-sd">&SD-CD51;&SD-A65E;&SD-B065;&SD-A6A9;&SD-D9C6;&SD-A4B6;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-D9C6;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A5D9;&SD-AA76;
+<lb n="0677b16" ed="T"/>&SD-A8E2;&SD-CC68;&SD-A56F;&SD-A5F1;&SD-A444;&SD-A656;&SD-A5FD;&SD-B065;&SD-A6A9;&SD-D9C6;&SD-A656;&SD-A9BD;&SD-A5B5;&SD-A54D;&SD-A5D5;
+<lb n="0677b17" ed="T"/>&SD-A57D;&SD-A67A;&SD-CBA7;&SD-A8E2;&SD-CC68;&SD-A56F;&SD-A5F1;&SD-AB60;&SD-CFC5;&SD-A5FD;&SD-A464;&SD-B065;&SD-A6A9;&SD-D9C6;&SD-A5EF;
+<lb n="0677b18" ed="T"/>&SD-A4BA;&SD-AB5F;&SD-A5D5;&SD-A57D;&SD-A67A;&SD-AF59;&SD-A8E2;&SD-CC68;&SD-A56F;&SD-A5F1;&SD-A5AB;&SD-A67A;&SD-A5FD;&SD-A557;&SD-B065;
+<lb n="0677b19" ed="T"/>&SD-A6A9;&SD-D9C6;&SD-A67A;&SD-B7A3;&SD-A5AC;&SD-A656;&SD-E267;&SD-CACE;&SD-A54B;&SD-A5D5;&SD-A57D;&SD-A67A;&SD-AF59;&SD-A8E2;&SD-CC68;
+<lb n="0677b20" ed="T"/>&SD-A56F;&SD-A5F1;&SD-A57D;&SD-A67A;&SD-AF59;&SD-CC68;&SD-A56F;&SD-A5F2;&SD-A5AB;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A67A;&SD-A5EB;
+<lb n="0677b21" ed="T"/>&SD-A558;&SD-A5AA;&SD-A5E5;&SD-A5E5;&SD-C9FD;&SD-A64A;&SD-A440;&SD-A8E2;&SD-A5B9;&SD-A5FD;&SD-A55F;&SD-A5F1;</term></p></div1>
+</body></text></TEI.2>

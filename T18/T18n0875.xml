@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "T18n0875.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 0875 蓮華部心念誦儀軌</title>
+			<author>失譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.19 $ (Big5)<date>$Date: 2009/04/23 07:59:44 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 07:59:44 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 18, No. 875 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language id="san-sd">Sanskrit-Siddam</language>
+			<language id="eng">English</language>
+			<language id="chi">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+	<change>
+		<date>20000105/17:54:06</date>
+		<respStmt><name>CW</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT (00/01/05)</item>
+	</change>
+<!--
+$Log: T18n0875.xml,v $
+Revision 1.19  2009/04/23 07:59:44  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.18  2008/08/11 04:42:21  saywhat
+p0326c09 [季>[禾/千]]
+
+Revision 1.17  2007/06/07 05:20:08  saywhat
+p0323c20  SD-BBB1(rtre) => SD-B7A9(rve)
+
+Revision 1.16  2007/05/16 02:24:34  saywhat
+p0326b22-26 SD-DA53(k)=>SD-D7C4
+
+Revision 1.15  2006/08/15 02:20:37  saywhat
+p0324b14 SD-AF77=>SD-D9FC
+
+Revision 1.14  2006/04/12 21:55:25  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.12  2006/03/20 10:24:23  saywhat
+SD-AF77=>SD-D9FC, SD-AF71 => SD-D9F9
+
+Revision 1.11  2006/03/16 10:23:06  saywhat
+&SD-A65A;&SD-AF72;（vu dvaa）=> &SD-E3AD;& SD-D9FA;（bu ddhaa）
+
+Revision 1.10  2004/12/22 04:57:56  saywhat
+SD-A65E => SD-A5D5
+
+Revision 1.9  2004/10/17 11:34:27  saywhat
+段落前加入圈點
+
+Revision 1.8  2004/10/17 09:56:35  saywhat
+p0323a14, a21 added SD-A656
+
+Revision 1.7  2004/09/11 10:00:27  saywhat
+刪除空的 juan close
+
+Revision 1.6  2004/07/04 13:33:35  saywhat
+修訂 div 位置
+
+Revision 1.5  2004/04/20 08:38:35  maha
+「版本日期」標記修訂
+
+Revision 1.4  2004/04/20 03:25:20  maha
+將 type="inline" 或 rend="inline" 改成 place="inline"
+
+Revision 1.3  2004/04/02 09:28:12  saywhat
+　</p>→<p>
+
+Revision 1.2  2003/12/22 04:04:25  saywhat
+E0A5→E250 , E0A6→E0CC
+
+Revision 1.1.1.1  2003/05/05 04:09:06  ray
+recover cvs
+
+Revision 1.20  2002/12/04 01:47:38  saywhat
+校勘插入處理
+
+Revision 1.19  2002/11/04 10:44:22  ray
+tei.2 => TEI.2
+
+Revision 1.18  2002/07/29 09:44:54  vinking
+modified lang
+
+Revision 1.17  2002/04/08 08:58:21  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.16  2001/07/24 06:52:20  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.15  2001/06/22 08:16:22  vinking
+CD7  修訂
+
+Revision 1.14  2001/05/25 08:58:08  ray
+經號統一為四碼
+
+Revision 1.13  2001/03/30 05:48:00  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.12  2001/03/25 09:09:16  ray
+add <milestone>
+
+Revision 1.11  2001/02/07 06:53:24  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.10  2001/02/03 07:43:09  chris
+Added keywords $Revision: 1.19 $, $Date: 2009/04/23 07:59:44 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0322b10" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0322b11" ed="T"/>
+<lb n="0322b12" ed="T"/><head type="no">No. 875 [cf. Nos. 873, 874]</head>
+<lb n="0322b13" ed="T"/><juan n="001" fun="open"><mulu n="001" type="卷"/><note n="0322001" resp="Taisho" place="foot text" type="orig">【原】平安時代寫東寺三密藏藏本</note><jhead>蓮華部心念誦儀軌</jhead></juan>
+<lb n="0322b14" ed="T"/>
+<lb n="0322b15" ed="T"/><div1 type="jing"><p id="pT18p0322b1501">淨地。</p>
+<lb n="0322b16" ed="T"/><p lang="san-sd" id="pT18p0322b1601" type="dharani">&SD-D5B5;&SD-A5FD;&SD-A4BC;&SD-A5B5;&SD-A458;&SD-E05B;&SD-A67A;&SD-DA46;&SD-A57B;&SD-E1BA;</p>
+<lb n="0322b17" ed="T"/><p id="pT18p0322b1701">淨身。</p>
+<lb n="0322b18" ed="T"/><p lang="san-sd" id="pT18p0322b1801" type="dharani">&SD-DA49;&SD-A6A9;&SD-A656;&SD-A666;&SD-E05C;&SD-A67A;&SD-DA46;&SD-A57B;&SD-E2EA;</p>
+<lb n="0322b19" ed="T"/><p id="pT18p0322b1901">觀佛。</p>
+<lb n="0322b20" ed="T"/><p lang="san-sd" id="pT18p0322b2001" type="dharani">&SD-E1B9;&SD-A656;&SD-A9BD;&SD-A57C;&SD-A55F;</p>
+<lb n="0322b21" ed="T"/><p id="pT18p0322b2101">金剛起。</p>
+<lb n="0322b22" ed="T"/><p lang="san-sd" id="pT18p0322b2201" type="dharani">&SD-E074;&SD-A656;&SD-A9C3;&SD-A559;&SD-CC60;&SD-E17C;</p>
+<lb n="0322b23" ed="T"/><p id="pT18p0322b2301">阿&CB00434;。</p>
+<lb n="0322b24" ed="T"/><p lang="san-sd" id="pT18p0322b2401" type="dharani">&SD-E074;&SD-A67A;&SD-DA46;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-E042;&SD-A4B6;&SD-A5B5;&SD-B064;&SD-A5A9;&SD-A5F1;&SD-CFC6;&SD-E040;&SD-A5AB;&SD-DA48;&SD-A557;
+<lb n="0322b25" ed="T"/>&SD-A5F2;&SD-A5E7;&SD-A67A;&SD-DA46;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A656;&SD-A9BD;&SD-A67A;&SD-AF5A;&SD-A57D;&SD-CD4B;&SD-B064;&SD-A5EF;&SD-E17C;</p>
+<lb n="0322b26" ed="T"/><p id="pT18p0322b2601">寶生。</p>
+<lb n="0322b27" ed="T"/><p lang="san-sd" id="pT18p0322b2701" type="dharani">&SD-E074;&SD-A67A;&SD-DA46;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-E042;&SD-A4B6;&SD-A5DB;&SD-A674;&SD-A441;&SD-A5F1;&SD-CFC6;&SD-E040;&SD-A5AB;&SD-DA48;&SD-A557;
+<lb n="0322b28" ed="T"/>&SD-A5F2;&SD-A5E7;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A656;&SD-A9BD;&SD-A5FD;&SD-B448;&SD-A5DB;&SD-A670;&SD-A656;&SD-A5EF;　&SD-AA69;</p>
+<lb n="0322b29" ed="T"/><p id="pT18p0322b2901">無量壽。</p>
+<pb n="0322c" id="T18.0875.0322c" ed="T"/>
+<lb n="0322c01" ed="T"/><p lang="san-sd" id="pT18p0322c0101" type="dharani">&SD-E074;&SD-A67A;&SD-DA46;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-E042;&SD-A4B6;&SD-AABC;&SD-A656;&SD-C573;&SD-A5AA;&SD-A5F2;&SD-CFC6;&SD-A5AA;&SD-A5AB;&SD-DA48;
+<lb n="0322c02" ed="T"/>&SD-A557;&SD-A5F2;&SD-A67C;&SD-A67A;&SD-DA46;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A656;&SD-A9BD;&SD-A57B;&SD-E2AA;&SD-AABC;&SD-A656;&SD-C573;&SD-A5F2;&SD-E05D;
+<lb n="0322c03" ed="T"/>&SD-DA75;</p>
+<lb n="0322c04" ed="T"/><p id="pT18p0322c0401">不空成就。</p>
+<lb n="0322c05" ed="T"/><p lang="san-sd" id="pT18p0322c0501" type="dharani">&SD-E074;&SD-A67A;&SD-DA46;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-E042;&SD-A4B6;&SD-A440;&SD-E1BA;&SD-A54D;&SD-CFC6;&SD-CFC6;&SD-E040;&SD-A5AB;&SD-DA48;&SD-A557;
+<lb n="0322c06" ed="T"/>&SD-A5F2;&SD-A5E7;&SD-A67A;&SD-DA46;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A656;&SD-A9BD;&SD-A440;&SD-E1BA;&SD-A444;&SD-A642;&SD-E05D;　&SD-E17A;</p>
+<lb n="0322c07" ed="T"/><p id="pT18p0322c0701">金剛持。</p>
+<lb n="0322c08" ed="T"/><p lang="san-sd" id="pT18p0322c0801" type="dharani">&SD-E074;&SD-A67A;&SD-DA46;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A441;&SD-A5F1;&SD-A657;&SD-AE44;&SD-CA56;&SD-A656;&SD-A9BD;&SD-A656;&SD-DAAF;&SD-E040;&SD-A440;
+<lb n="0322c09" ed="T"/>&SD-A646;&SD-A5E7;&SD-DA42;&SD-A656;&SD-A9BD;&SD-A658;</p>
+<lb n="0322c10" ed="T"/><p id="pT18p0322c1001">證定。</p>
+<lb n="0322c11" ed="T"/><p lang="san-sd" id="pT18p0322c1101" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A66C;&SD-A67C;&SD-E05B;&SD-A67A;&SD-B7A3;&SD-A67A;&SD-AF5A;&SD-E040;&SD-A67A;&SD-B7A3;&SD-A67C;
+<lb n="0322c12" ed="T"/>&SD-D9F9;&SD-A5FC;&SD-A6A6;&SD-A5B5;&SD-DA4A;&SD-E05E;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-E2DD;&SD-A57D;&SD-A559;&SD-CD4B;&SD-B449;</p>
+<lb n="0322c13" ed="T"/><p id="pT18p0322c1301">遍觀。</p>
+<lb n="0322c14" ed="T"/><p lang="san-sd" id="pT18p0322c1401" type="dharani">&SD-A656;&SD-A9BD;&SD-CBEB;&SD-CD4D;&SD-A5E5;&SD-E046;</p>
+<lb n="0322c15" ed="T"/><p id="pT18p0322c1501">金剛掌。</p>
+<lb n="0322c16" ed="T"/><p lang="san-sd" id="pT18p0322c1601" type="dharani">&SD-A656;&SD-A9BD;&SD-A4B6;&SD-A64C;</p>
+<lb n="0322c17" ed="T"/><p id="pT18p0322c1701">金剛縛。</p>
+<lb n="0322c18" ed="T"/><p lang="san-sd" id="pT18p0322c1801" type="dharani">&SD-A656;&SD-A4B6;&SD-A5CD;&SD-D9F9;</p>
+<lb n="0322c19" ed="T"/><p id="pT18p0322c1901">開心。</p>
+<lb n="0322c20" ed="T"/><p lang="san-sd" id="pT18p0322c2001" type="dharani">&SD-A656;&SD-A9BD;&SD-A656;&SD-AF59;</p>
+<lb n="0322c21" ed="T"/><p id="pT18p0322c2101">入智。</p>
+<lb n="0322c22" ed="T"/><p lang="san-sd" id="pT18p0322c2201" type="dharani">&SD-A656;&SD-A9BD;&SD-A65C;&SD-A662;&SD-CFD4;</p>
+<lb n="0322c23" ed="T"/><p id="pT18p0322c2301">堅固智。</p>
+<lb n="0322c24" ed="T"/><p lang="san-sd" id="pT18p0322c2401" type="dharani">&SD-A656;&SD-A9BD;&SD-E043;&SD-CD4D;&SD-A660;</p>
+<lb n="0322c25" ed="T"/><p id="pT18p0322c2501">普賢三昧耶。</p>
+<lb n="0322c26" ed="T"/><p lang="san-sd" id="pT18p0322c2601" type="dharani">&SD-A67A;&SD-A5E5;&SD-A5F1;&SD-E0FA;</p>
+<lb n="0322c27" ed="T"/><p id="pT18p0322c2701">極喜三昧耶。</p>
+<lb n="0322c28" ed="T"/><p lang="san-sd" id="pT18p0322c2801" type="dharani">&SD-A67A;&SD-A5E5;&SD-A5F1;&SD-E05F;&SD-E0BC;&SD-A5FD;&SD-A557;&SD-E0FA;</p>
+<lb n="0322c29" ed="T"/><p id="pT18p0322c2901">降三世。</p>
+<pb n="0323a" id="T18.0875.0323a" ed="T"/>
+<lb n="0323a01" ed="T"/><p lang="san-sd" id="pT18p0323a0101" type="dharani">&SD-E074;&SD-E0BC;&SD-CACC;&SD-A5AB;&SD-E0BC;&SD-CACC;&SD-E060;&SD-E0C8;&SD-E052;&SD-E0C8;&SD-E052;&SD-E1AD;&SD-E0C8;&SD-E052;&SD-A5B5;&SD-A5F1;&SD-E060;&SD-CFC6;
+<lb n="0323a02" ed="T"/>&SD-A5A9;&SD-A5F1;&SD-E05F;&SD-A5D9;&SD-A458;&SD-A660;&SD-A656;&SD-A9BD;&SD-E060;&SD-A5C1;&SD-E046;</p>
+<lb n="0323a03" ed="T"/><p id="pT18p0323a0301">蓮花三昧耶。</p>
+<lb n="0323a04" ed="T"/><p lang="san-sd" id="pT18p0323a0401" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A5B5;&SD-DAAF;&SD-A67A;&SD-A5E5;&SD-A5F1;&SD-E041;</p>
+<lb n="0323a05" ed="T"/><p id="pT18p0323a0501">法輪。</p>
+<lb n="0323a06" ed="T"/><p lang="san-sd" id="pT18p0323a0601" type="dharani">&SD-E060;&SD-A4DA;&SD-E061;&SD-CDF7;&SD-A4DA;&SD-A5F1;&SD-A5E5;&SD-A6A9;&SD-A658;&SD-A5FE;&SD-A458;&SD-A656;&SD-A4B6;&SD-A656;&SD-A9BD;&SD-A57B;&SD-A5FD;&SD-A67A;
+<lb n="0323a07" ed="T"/>&SD-A7DD;&SD-A5A9;&SD-A4F1;</p>
+<lb n="0323a08" ed="T"/><p id="pT18p0323a0801">大慾。</p>
+<lb n="0323a09" ed="T"/><p lang="san-sd" id="pT18p0323a0901" type="dharani">&SD-E074;&SD-E0BC;&SD-A5FD;&SD-A557;&SD-A656;&SD-A9C7;　&SD-A9C8;&SD-E17C;&SD-A660;&SD-A6B0;&SD-A67A;&SD-A5E5;&SD-A5F1;&SD-E041;</p>
+<lb n="0323a10" ed="T"/><p id="pT18p0323a1001">大樂金剛。</p>
+<lb n="0323a11" ed="T"/><p lang="san-sd" id="pT18p0323a1101" type="dharani">&SD-E074;&SD-A5E5;&SD-A6A9;&SD-E0BC;&SD-A44C;&SD-A656;&SD-A9C7;&SD-A67B;&SD-A57B;&SD-A5F1;&SD-A67A;&SD-B7A3;&SD-A67A;&SD-AF5F;&SD-A8A2;&SD-A4C1;&SD-E17C;&SD-E1AF;
+<lb n="0323a12" ed="T"/>&SD-E05F;</p>
+<lb n="0323a13" ed="T"/><p id="pT18p0323a1301">召罪。</p>
+<lb n="0323a14" ed="T"/><p lang="san-sd" id="pT18p0323a1401" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A5B6;&SD-A5B5;&SD-A440;&SD-B7BB;&SD-A54B;&SD-A658;&SD-A66A;&SD-A57B;&SD-A5A9;&SD-A656;&SD-A9BD;&SD-A67A;&SD-AF59;&SD-A67A;&SD-A5E5;
+<lb n="0323a15" ed="T"/>&SD-A5F1;&SD-E17C;&SD-A5C1;&SD-E046;</p>
+<lb n="0323a16" ed="T"/><p id="pT18p0323a1601">擢罪。</p>
+<lb n="0323a17" ed="T"/><p lang="san-sd" id="pT18p0323a1701" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A5B6;&SD-A54D;&SD-A658;&SD-CDF9;&SD-A4DA;&SD-A5F1;&SD-A67A;&SD-DA46;&SD-A5B6;&SD-A5F1;&SD-A5CD;&SD-D9FA;&SD-A5AA;&SD-A5AB;&SD-AABC;
+<lb n="0323a18" ed="T"/>&SD-A5ED;&SD-A6B4;&SD-A5F1;&SD-A67A;&SD-B7A3;&SD-A5B6;&SD-A5F1;&SD-A458;&SD-A559;&SD-A8A5;&SD-A67A;&SD-B7A3;&SD-A67A;&SD-AF5A;&SD-A67A;&SD-DA46;&SD-A557;&SD-A564;
+<lb n="0323a19" ed="T"/>&SD-A458;&SD-A557;&SD-A656;&SD-A9BD;&SD-A67A;&SD-A5E5;&SD-A5F1;&SD-E17C;&SD-AA5E;&SD-E046;</p>
+<lb n="0323a20" ed="T"/><p id="pT18p0323a2001">淨三業。</p>
+<lb n="0323a21" ed="T"/><p lang="san-sd" id="pT18p0323a2101" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A440;&SD-E2AA;&SD-A658;&SD-A66A;&SD-A57B;&SD-A5F1;&SD-A67A;&SD-B7A3;&SD-A656;&SD-A5FD;&SD-A54B;&SD-A5AB;&SD-E3AD;&SD-D9F9;&SD-A67A;
+<lb n="0323a22" ed="T"/>&SD-A87E;&SD-A5A9;&SD-A67A;&SD-A5E5;&SD-A5F1;&SD-E17C;</p>
+<lb n="0323a23" ed="T"/><p id="pT18p0323a2301">菩提心。</p>
+<lb n="0323a24" ed="T"/><p lang="san-sd" id="pT18p0323a2401" type="dharani">&SD-E074;&SD-A47C;&SD-E062;&SD-B448;&SD-A644;&SD-E0BC;&SD-A5E5;&SD-B448;&SD-A5D9;&SD-AA76;&SD-A442;&SD-A5FD;&SD-A54D;&SD-A5E5;&SD-A6A9;&SD-A656;&SD-A9BD;&SD-A54D;
+<lb n="0323a25" ed="T"/>&SD-E17C;</p>
+<lb n="0323a26" ed="T"/><p id="pT18p0323a2601">普禮。</p>
+<lb n="0323a27" ed="T"/><p lang="san-sd" id="pT18p0323a2701" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A5B6;&SD-A56F;&SD-A656;&SD-CA6E;&SD-E040;&SD-A440;&SD-A646;&SD-A5E7;</p>
+<lb n="0323a28" ed="T"/><p id="pT18p0323a2801">通達心。</p>
+<lb n="0323a29" ed="T"/><p lang="san-sd" id="pT18p0323a2901" type="dharani">&SD-E074;&SD-A47E;&SD-CF55;&SD-AABC;&SD-A559;&SD-A65C;&SD-A57B;&SD-A440;&SD-A646;&SD-A5E7;</p>
+<pb n="0323b" id="T18.0875.0323b" ed="T"/>
+<lb n="0323b01" ed="T"/><p id="pT18p0323b0101">證菩提心。</p>
+<lb n="0323b02" ed="T"/><p lang="san-sd" id="pT18p0323b0201" type="dharani">&SD-E074;&SD-A5D5;&SD-A57D;&SD-A47E;&SD-CF55;&SD-E043;&SD-E2DE;&SD-A56F;&SD-A5F2;&SD-A5E7;</p>
+<lb n="0323b03" ed="T"/><p id="pT18p0323b0301">明顯。</p>
+<lb n="0323b04" ed="T"/><p lang="san-sd" id="pT18p0323b0401" type="dharani">&SD-E074;&SD-A559;&SD-CD4B;&SD-A656;&SD-A9BD;&SD-A5B5;&SD-DAAF;</p>
+<lb n="0323b05" ed="T"/><p id="pT18p0323b0501">八葉蓮花。</p>
+<lb n="0323b06" ed="T"/><p lang="san-sd" id="pT18p0323b0601" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A5B5;&SD-DAAF;&SD-E1EA;&SD-A448;&SD-A6B2;</p>
+<lb n="0323b07" ed="T"/><p id="pT18p0323b0701">觀身本尊。</p>
+<lb n="0323b08" ed="T"/><p lang="san-sd" id="pT18p0323b0801" type="dharani">&SD-E074;&SD-A5F1;&SD-A564;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-CDA9;&SD-A564;&SD-A6B2;</p>
+<lb n="0323b09" ed="T"/><p id="pT18p0323b0901">諸如來加持。</p>
+<lb n="0323b10" ed="T"/><p lang="san-sd" id="pT18p0323b1001" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-E063;&SD-A6A6;&SD-A5D5;&SD-A57D;&SD-CBEB;&SD-A5C1;&SD-A656;&SD-A9BD;&SD-A559;&SD-CD4B;</p>
+<lb n="0323b11" ed="T"/><p id="pT18p0323b1101">四如來三昧耶。</p>
+<lb n="0323b12" ed="T"/><p lang="san-sd" id="pT18p0323b1201" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A67A;&SD-AF5A;&SD-A57D;&SD-CD4B;&SD-B065;&SD-E05D;&SD-D5B4;&SD-E17C;</p>
+<lb n="0323b13" ed="T"/><p lang="san-sd" id="pT18p0323b1301" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A5A9;&SD-B449;&SD-A57D;&SD-CD4B;&SD-B065;&SD-E05D;&SD-D5B4;&SD-AA69;</p>
+<lb n="0323b14" ed="T"/><p lang="san-sd" id="pT18p0323b1401" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A57B;&SD-E2AA;&SD-A57D;&SD-CD4B;&SD-B065;&SD-E05D;&SD-D5B4;&SD-DA75;</p>
+<lb n="0323b15" ed="T"/><p lang="san-sd" id="pT18p0323b1501" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A440;&SD-E1BA;&SD-A57D;&SD-CD4B;&SD-B065;&SD-E05D;&SD-D5B4;&SD-CFD4;</p>
+<lb n="0323b16" ed="T"/><p id="pT18p0323b1601">五佛灌頂。</p>
+<lb n="0323b17" ed="T"/><p lang="san-sd" id="pT18p0323b1701" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A55D;&SD-E0AB;&SD-B76A;&SD-A5DB;&SD-A674;&SD-A440;&SD-CFC1;</p>
+<lb n="0323b18" ed="T"/><p lang="san-sd" id="pT18p0323b1801" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A67A;&SD-AF5A;&SD-A5DB;&SD-E064;&SD-A47C;&SD-E05D;&SD-E17C;</p>
+<lb n="0323b19" ed="T"/><p lang="san-sd" id="pT18p0323b1901" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A5FD;&SD-B449;&SD-A5DB;&SD-E064;&SD-A47C;&SD-E05D;&SD-DA73;</p>
+<lb n="0323b20" ed="T"/><p lang="san-sd" id="pT18p0323b2001" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A5B5;&SD-E2DF;&SD-A5DB;&SD-E064;&SD-A47C;&SD-E05D;&SD-DA75;</p>
+<lb n="0323b21" ed="T"/><p lang="san-sd" id="pT18p0323b2101" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A440;&SD-E1BA;&SD-A5DB;&SD-E064;&SD-A47C;&SD-E05D;&SD-CFD4;</p>
+<lb n="0323b22" ed="T"/><p id="pT18p0323b2201">四如來鬘。</p>
+<lb n="0323b23" ed="T"/><p lang="san-sd" id="pT18p0323b2301" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A67A;&SD-AF59;&SD-A5E6;&SD-A64B;&SD-A5DB;&SD-E064;&SD-A47C;&SD-E05D;&SD-A660;</p>
+<lb n="0323b24" ed="T"/><p lang="san-sd" id="pT18p0323b2401" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A5FD;&SD-B448;&SD-A5E5;&SD-A64B;&SD-A5DB;&SD-E064;&SD-A47C;&SD-E05D;&SD-A660;</p>
+<lb n="0323b25" ed="T"/><p lang="san-sd" id="pT18p0323b2501" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A5B5;&SD-E2DF;&SD-A5E6;&SD-A64B;&SD-A5DB;&SD-E064;&SD-A47C;&SD-E05D;&SD-A660;</p>
+<lb n="0323b26" ed="T"/><p lang="san-sd" id="pT18p0323b2601" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A440;&SD-E1BA;&SD-A5E5;&SD-A64B;&SD-A5DB;&SD-E064;&SD-A47C;&SD-E05D;&SD-A660;</p>
+<lb n="0323b27" ed="T"/><p lang="san-sd" id="pT18p0323b2701" type="dharani">&SD-E074;&SD-E065;</p>
+<lb n="0323b28" ed="T"/><p id="pT18p0323b2801">金剛拍。</p>
+<lb n="0323b29" ed="T"/><p lang="san-sd" id="pT18p0323b2901" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A55B;&SD-A8D6;&SD-E05F;</p>
+<pb n="0323c" id="T18.0875.0323c" ed="T"/>
+<lb n="0323c01" ed="T"/><p id="pT18p0323c0101">現智身。</p>
+<lb n="0323c02" ed="T"/><p lang="san-sd" id="pT18p0323c0201" type="dharani">&SD-A656;&SD-A9BD;&SD-A67A;&SD-AF59;&SD-CFD4;</p>
+<lb n="0323c03" ed="T"/><p id="pT18p0323c0301">見智身。</p>
+<lb n="0323c04" ed="T"/><p lang="san-sd" id="pT18p0323c0401" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A67A;&SD-AF59;&SD-CBEB;&SD-A8CA;&SD-A4C1;&SD-E17C;&SD-A660;&SD-A6B3;</p>
+<lb n="0323c05" ed="T"/><p id="pT18p0323c0501">如來平等三昧耶。</p>
+<lb n="0323c06" ed="T"/><p lang="san-sd" id="pT18p0323c0601" type="dharani">&SD-A67A;&SD-A5E5;&SD-A5F9;&SD-A6B2;&SD-A5E5;&SD-A6A9;&SD-A67A;&SD-A5E5;&SD-A5F9;&SD-A6B2;</p>
+<lb n="0323c07" ed="T"/><p lang="san-sd" id="pT18p0323c0701" type="dharani">&SD-E074;&SD-A658;&SD-A5E5;&SD-A650;&SD-A56F;&SD-A57D;&SD-E17C;</p>
+<lb n="0323c08" ed="T"/><p id="pT18p0323c0801">八功德水。</p>
+<lb n="0323c09" ed="T"/><p lang="san-sd" id="pT18p0323c0901" type="dharani">&SD-A6B2;&SD-A660;&SD-AABC;&SD-E0BC;&SD-A44A;</p>
+<lb n="0323c10" ed="T"/><p id="pT18p0323c1001">須彌山。</p>
+<lb n="0323c11" ed="T"/><p lang="san-sd" id="pT18p0323c1101" type="dharani">&SD-E074;&SD-CFC5;&SD-A47C;&SD-A64A;&SD-E17C;</p>
+<lb n="0323c12" ed="T"/><p id="pT18p0323c1201">小金剛輪。</p>
+<lb n="0323c13" ed="T"/><p lang="san-sd" id="pT18p0323c1301" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A47C;&SD-A947;&SD-E17C;</p>
+<lb n="0323c14" ed="T"/><p id="pT18p0323c1401">啟請。</p>
+<lb n="0323c15" ed="T"/><p lang="san-sd" id="pT18p0323c1501" type="dharani">&SD-A5F1;&SD-E066;&SD-A5AB;&SD-B7A5;&SD-B355;&SD-A67A;&SD-E067;&SD-A947;&SD-A67C;&SD-AF73;&SD-A8E3;&SD-A557;&SD-E043;&SD-A6AE;&SD-A656;&SD-A55D;&SD-A656;&SD-A9BD;
+<lb n="0323c16" ed="T"/>&SD-A444;&SD-C9FD;&SD-A64C;&SD-A6AE;&SD-A55B;&SD-E066;&SD-A557;&SD-A8A4;&SD-A5E5;&SD-E068;&SD-A67A;&SD-A570;&SD-A5A9;&SD-A5F0;</p>
+<lb n="0323c17" ed="T"/><p id="pT18p0323c1701">開門。</p>
+<lb n="0323c18" ed="T"/><p lang="san-sd" id="pT18p0323c1801" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-AF72;&SD-A646;&SD-E2DF;&SD-A4DA;&SD-A5F1;&SD-A67A;&SD-A5E5;&SD-A5F1;&SD-AABC;&SD-A65C;&SD-A662;&SD-A5F1;&SD-E17C;</p>
+<lb n="0323c19" ed="T"/><p id="pT18p0323c1901">啟請伽陀曰。</p>
+<lb n="0323c20" ed="T"/><p lang="san-sd" id="pT18p0323c2001" type="dharani">&SD-CFC6;&SD-E069;&SD-A55B;&SD-A67A;&SD-B7A9;&SD-A5DD;&SD-A656;&SD-A5A9;&SD-A440;&SD-A67B;&SD-E05B;&SD-AABC;&SD-E1F1;&SD-A5E7;&SD-E05B;&SD-A662;&SD-A66E;&SD-A440;
+<lb n="0323c21" ed="T"/>&SD-A4DB;&SD-A5FD;&SD-A5E6;&SD-E06A;&SD-A67B;&SD-A6B4;&SD-CBA7;&SD-A558;&SD-A5A9;&SD-B448;&SD-A5D9;&SD-A656;&SD-B064;&SD-A5DA;&SD-E06B;&SD-B065;&SD-A5FB;&SD-A5DD;</p>
+<lb n="0323c22" ed="T"/><p lang="san-sd" id="pT18p0323c2201" type="dharani">&SD-A65E;&SD-A5A9;&SD-B448;&SD-A5D9;&SD-A656;&SD-B064;&SD-A5D9;&SD-E06B;</p>
+<lb n="0323c23" ed="T"/><p id="pT18p0323c2301">佛海會。</p>
+<lb n="0323c24" ed="T"/><p lang="san-sd" id="pT18p0323c2401" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A67A;&SD-A5E5;&SD-A4B6;&SD-A4C1;</p>
+<lb n="0323c25" ed="T"/><p id="pT18p0323c2501">東。</p>
+<lb n="0323c26" ed="T"/><p lang="san-sd" id="pT18p0323c2601" type="dharani">&SD-A656;&SD-A9BD;&SD-A67A;&SD-AF59;&SD-A5E5;&SD-A6A9;&SD-A67A;&SD-AF59;&SD-A656;&SD-A9BD;&SD-A67A;&SD-B7A3;&SD-CA56;&SD-A564;&SD-A458;&SD-A557;&SD-A67A;&SD-A5E5;
+<lb n="0323c27" ed="T"/>&SD-CA56;&SD-A5D9;&SD-AA76;&SD-A656;&SD-A9BD;&SD-DA4A;&SD-A656;&SD-A9BD;&SD-A5B6;&SD-A54B;&SD-A5A9;&SD-A5ED;&SD-E068;&SD-A55D;</p>
+<lb n="0323c28" ed="T"/><p lang="san-sd" id="pT18p0323c2801" type="dharani">&SD-A656;&SD-A9BD;&SD-A5FE;&SD-A4B6;&SD-E0BC;&SD-E3AD;&SD-D9FA;&SD-E06C;&SD-A656;&SD-E07A;&SD-A444;&SD-A662;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-CFC5;&SD-A5ED;
+<lb n="0323c29" ed="T"/>&SD-A464;&SD-A5FE;&SD-A4B6;&SD-A656;&SD-A9BD;&SD-E06C;&SD-A656;&SD-A9BD;&SD-A440;&SD-B7BB;&SD-A5A9;&SD-A5ED;&SD-E068;&SD-A55D;</p>
+<pb n="0324a" id="T18.0875.0324a" ed="T"/>
+<lb n="0324a01" ed="T"/><p lang="san-sd" id="pT18p0324a0101" type="dharani">&SD-A656;&SD-A9BE;&SD-A5FE;&SD-A458;&SD-A5E5;&SD-A6A9;&SD-A6A4;&SD-A6CC;&SD-A656;&SD-A9BD;&SD-A657;&SD-A54B;&SD-A656;&SD-A66C;&SD-A440;&SD-A5FD;&SD-A5E6;&SD-A5FD;
+<lb n="0324a02" ed="T"/>&SD-A441;&SD-A5E5;&SD-A5E5;&SD-A6A9;&SD-A656;&SD-A9BD;&SD-A656;&SD-A9BD;&SD-A47C;&SD-A5B5;&SD-A5A9;&SD-A5ED;&SD-E068;&SD-A55D;</p>
+<lb n="0324a03" ed="T"/><p lang="san-sd" id="pT18p0324a0301" type="dharani">&SD-A656;&SD-A9BD;&SD-A67A;&SD-A57D;&SD-E0BC;&SD-A656;&SD-A9BD;&SD-E06C;&SD-A656;&SD-A9BD;&SD-A55B;&SD-E06D;&SD-A5E5;&SD-A6A9;&SD-A5FD;&SD-A55D;&SD-AABD;&SD-A5ED;
+<lb n="0324a04" ed="T"/>&SD-DA4A;&SD-A5FD;&SD-A4B6;&SD-A656;&SD-A9BD;&SD-E06C;&SD-A656;&SD-A9BD;&SD-A6A9;&SD-B7BB;&SD-A5FD;&SD-A5ED;&SD-E068;&SD-A55D;</p>
+<lb n="0324a05" ed="T"/><p lang="san-sd" id="pT18p0324a0501" type="dharani">&SD-A656;&SD-A9BD;&SD-A5FD;&SD-B448;&SD-E0BC;&SD-A656;&SD-A9BD;&SD-B6BC;&SD-A656;&SD-A9BD;&SD-A441;&SD-A662;&SD-A5E5;&SD-A6A9;&SD-A5E5;&SD-A54D;&SD-CFC6;&SD-A440;
+<lb n="0324a06" ed="T"/>&SD-A662;&SD-A458;&SD-B751;&SD-A656;&SD-A9BD;&SD-E0C3;&SD-A656;&SD-A9BD;&SD-A458;&SD-B751;&SD-A5FD;&SD-A5ED;&SD-E068;&SD-A55D;</p>
+<lb n="0324a07" ed="T"/><p lang="san-sd" id="pT18p0324a0701" type="dharani">&SD-A656;&SD-A9BD;&SD-A55D;&SD-A4B6;&SD-A5E5;&SD-A6A9;&SD-E04A;&SD-A64A;&SD-A656;&SD-A9BD;&SD-E0F3;&SD-B769;&SD-A4B8;&SD-A5FD;&SD-AABC;&SD-A5D9;&SD-A656;&SD-A9BD;
+<lb n="0324a08" ed="T"/>&SD-A5FD;&SD-B2B6;&SD-A5E5;&SD-A6A9;&SD-A55D;&SD-A4B6;&SD-AABC;&SD-A5D9;&SD-A5FD;&SD-A5ED;&SD-E068;&SD-A55D;</p>
+<lb n="0324a09" ed="T"/><p lang="san-sd" id="pT18p0324a0901" type="dharani">&SD-A656;&SD-A9BD;&SD-A446;&SD-A55B;&SD-E0BC;&SD-A67A;&SD-AF5A;&SD-B6BC;&SD-A656;&SD-A9BD;&SD-E163;&SD-A4B6;&SD-E0BC;&SD-A55F;&SD-A66E;&SD-A440;&SD-A5FD;&SD-B448;
+<lb n="0324a10" ed="T"/>&SD-A446;&SD-A55B;&SD-A5E5;&SD-A6A9;&SD-A656;&SD-A9BD;&SD-A656;&SD-A9BD;&SD-A5F1;&SD-E06D;&SD-A5A9;&SD-A5ED;&SD-E068;&SD-A55D;</p>
+<lb n="0324a11" ed="T"/><p lang="san-sd" id="pT18p0324a1101" type="dharani">&SD-A656;&SD-A9BD;&SD-A6A9;&SD-A67A;&SD-A5E5;&SD-A6A9;&SD-A6A9;&SD-A67A;&SD-A656;&SD-A9BD;&SD-B2CE;&SD-A557;&SD-A5E5;&SD-A6A9;&SD-E06F;&SD-A557;&SD-AABF;&SD-A559;
+<lb n="0324a12" ed="T"/>&SD-AABD;&SD-A5ED;&SD-DA4A;&SD-A656;&SD-A9BD;&SD-DA4A;&SD-A656;&SD-A9BD;&SD-AABF;&SD-A55D;&SD-A5A9;&SD-A5ED;&SD-E068;&SD-A55D;</p>
+<lb n="0324a13" ed="T"/><p id="pT18p0324a1301">西。</p>
+<lb n="0324a14" ed="T"/><p lang="san-sd" id="pT18p0324a1401" type="dharani">&SD-A656;&SD-A9BD;&SD-A57B;&SD-E1BA;&SD-E0BC;&SD-A67A;&SD-AF5A;&SD-B6BC;&SD-A656;&SD-A9BD;&SD-A5B5;&SD-DAAF;&SD-E0BC;&SD-A662;&SD-A57B;&SD-A440;&SD-A652;&SD-A446;
+<lb n="0324a15" ed="T"/>&SD-E0AB;&SD-A5FD;&SD-E0BC;&SD-A656;&SD-A9BD;&SD-A6B4;&SD-A656;&SD-A9BD;&SD-A55D;&SD-AA5E;&SD-A5A9;&SD-A5ED;&SD-E068;&SD-A55D;</p>
+<lb n="0324a16" ed="T"/><p lang="san-sd" id="pT18p0324a1601" type="dharani">&SD-A656;&SD-A9BD;&SD-A55A;&SD-E071;&SD-A5E5;&SD-A6A9;&SD-A5F2;&SD-A5A9;&SD-A656;&SD-A9BD;&SD-A448;&SD-A662;&SD-A5E5;&SD-A6A9;&SD-A5F5;&SD-A57B;&SD-A5EF;&SD-A4BA;
+<lb n="0324a17" ed="T"/>&SD-E2B8;&SD-A656;&SD-A9BD;&SD-E072;&SD-A5DC;&SD-B769;&SD-A656;&SD-A9BD;&SD-E3AD;&SD-D9FC;&SD-A5A9;&SD-A5ED;&SD-E068;&SD-A55D;</p>
+<lb n="0324a18" ed="T"/><p lang="san-sd" id="pT18p0324a1801" type="dharani">&SD-A656;&SD-A9BD;&SD-A6AE;&SD-A55B;&SD-A5E5;&SD-A6A9;&SD-A5E5;&SD-C9FD;&SD-A656;&SD-A9BD;&SD-A47C;&SD-A947;&SD-A5E5;&SD-A6A9;&SD-A5A9;&SD-A5F1;&SD-E0BC;&SD-AABC;
+<lb n="0324a19" ed="T"/>&SD-A656;&SD-DAB1;&SD-A5A9;&SD-A656;&SD-A9C5;&SD-A4AA;&SD-A656;&SD-A9BD;&SD-A5E5;&SD-C9FD;&SD-A5FD;&SD-A5ED;&SD-E068;&SD-A55D;</p>
+<lb n="0324a20" ed="T"/><p lang="san-sd" id="pT18p0324a2001" type="dharani">&SD-A656;&SD-A9BD;&SD-A5DA;&SD-A66E;&SD-E0BC;&SD-A658;&SD-A7F0;&SD-E06C;&SD-A656;&SD-A9BD;&SD-A4B6;&SD-A5B5;&SD-E0BC;&SD-A67C;&SD-AF73;&SD-A56F;&SD-CFC5;&SD-A657;
+<lb n="0324a21" ed="T"/>&SD-A47C;&SD-A656;&SD-A9BD;&SD-A47E;&SD-A7FC;&SD-E06C;&SD-A656;&SD-A9BD;&SD-A5DF;&SD-A66F;&SD-A5A9;&SD-A5ED;&SD-E068;&SD-A55D;</p>
+<lb n="0324a22" ed="T"/><p id="pT18p0324a2201">北。</p>
+<lb n="0324a23" ed="T"/><p lang="san-sd" id="pT18p0324a2301" type="dharani">&SD-A656;&SD-A9BD;&SD-A440;&SD-E1BA;&SD-E0BC;&SD-A656;&SD-A9BD;&SD-E073;&SD-A440;&SD-A4DA;&SD-E1BA;&SD-A656;&SD-A9BD;&SD-E0BC;&SD-A67A;&SD-B7A3;&SD-A458;&SD-A656;
+<lb n="0324a24" ed="T"/>&SD-A9BD;&SD-A5ED;&SD-A464;&SD-A5E5;&SD-A6B0;&SD-A56F;&SD-B769;&SD-A656;&SD-A9BD;&SD-A658;&SD-E0AB;&SD-A5A9;&SD-A5ED;&SD-E068;&SD-A55D;</p>
+<lb n="0324a25" ed="T"/><p lang="san-sd" id="pT18p0324a2501" type="dharani">&SD-A656;&SD-A9BD;&SD-A5FD;&SD-A6B4;&SD-A5E5;&SD-A6A9;&SD-A65C;&SD-B774;&SD-A656;&SD-A9BD;&SD-A57B;&SD-E1BA;&SD-A5E5;&SD-A6A9;&SD-CBEB;&SD-A4FE;&SD-E1DA;&SD-B76F;
+<lb n="0324a26" ed="T"/>&SD-A57B;&SD-A5A9;&SD-E0BC;&SD-A659;&SD-DA47;&SD-E06C;&SD-A656;&SD-A9BD;&SD-A659;&SD-B769;&SD-A5A9;&SD-A5ED;&SD-E068;&SD-A55D;</p>
+<lb n="0324a27" ed="T"/><p lang="san-sd" id="pT18p0324a2701" type="dharani">&SD-A656;&SD-A9BD;&SD-A5F1;&SD-A6B4;&SD-A5E5;&SD-A6B0;&SD-A5B6;&SD-A5F1;&SD-A656;&SD-A9BD;&SD-A579;&SD-E1D2;</p>
+<lb n="0324a28" ed="T"/><p lang="san-sd" id="pT18p0324a2801" type="dharani">&SD-A5E5;&SD-A6A9;&SD-A5D9;&SD-A5F1;&SD-A5E5;&SD-A5FD;&SD-AABC;&SD-A5E5;&SD-B6CA;&SD-A656;&SD-A9C3;&SD-A95F;&SD-A656;&SD-A9BD;&SD-A47C;&SD-C9FD;&SD-A5A9;&SD-A5ED;
+<lb n="0324a29" ed="T"/>&SD-E068;&SD-A55D;</p>
+<pb n="0324b" id="T18.0875.0324b" ed="T"/>
+<lb n="0324b01" ed="T"/><p lang="san-sd" id="pT18p0324b0101" type="dharani">&SD-A656;&SD-A9BD;&SD-A6A6;&SD-A57D;&SD-E0BC;&SD-A67A;&SD-A5AF;&SD-A7FB;&SD-A656;&SD-A9BD;&SD-A656;&SD-AF59;&SD-AABC;&SD-A5ED;&SD-A47C;&SD-A440;&SD-A656;&SD-A9BD;
+<lb n="0324b02" ed="T"/>&SD-E043;&SD-E2E0;&SD-E06C;</p>
+<lb n="0324b03" ed="T"/><p lang="san-sd" id="pT18p0324b0301" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A5FE;&SD-B448;&SD-CFC9;　&SD-E074;&SD-A656;&SD-A9BD;&SD-A55D;&SD-A4B6;&SD-E0B5;</p>
+<lb n="0324b04" ed="T"/><p lang="san-sd" id="pT18p0324b0401" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A446;&SD-A55B;&SD-E0B7;　&SD-E074;&SD-A656;&SD-A9BD;&SD-A6A9;&SD-A67A;&SD-A6B3;</p>
+<lb n="0324b05" ed="T"/><p lang="san-sd" id="pT18p0324b0501" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A57B;&SD-E1BA;&SD-DA75;　&SD-E074;&SD-A656;&SD-A9BD;&SD-A55A;&SD-E075;&SD-A5A7;</p>
+<lb n="0324b06" ed="T"/><p lang="san-sd" id="pT18p0324b0601" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A6AE;&SD-A55B;&SD-A5EF;　&SD-DA42;&SD-A656;&SD-A9BD;&SD-A5DA;&SD-A66E;&SD-A648;</p>
+<lb n="0324b07" ed="T"/><p lang="san-sd" id="pT18p0324b0701" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A440;&SD-E1BA;&SD-A44A;　&SD-DA42;&SD-A656;&SD-A9BD;&SD-A5FD;&SD-A6B4;&SD-A6B2;</p>
+<lb n="0324b08" ed="T"/><p lang="san-sd" id="pT18p0324b0801" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A5F1;&SD-A6B4;&SD-E1AD;　&SD-DA42;&SD-A656;&SD-A9BD;&SD-A6A6;&SD-A6AE;&SD-A660;</p>
+<lb n="0324b09" ed="T"/><p id="pT18p0324b0901">內口供養。</p>
+<lb n="0324b10" ed="T"/><p lang="san-sd" id="pT18p0324b1001" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A64B;&SD-A67A;&SD-A6B3;　&SD-DA42;&SD-A656;&SD-A9BD;&SD-A5E5;&SD-A64A;&SD-E076;</p>
+<lb n="0324b11" ed="T"/><p lang="san-sd" id="pT18p0324b1101" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-E077;&SD-A55D;&SD-E078;　&SD-DA42;&SD-A656;&SD-A9BD;&SD-CBEB;&SD-A7DD;&SD-CBA7;&SD-E046;</p>
+<lb n="0324b12" ed="T"/><p id="pT18p0324b1201">外四供養。</p>
+<lb n="0324b13" ed="T"/><p lang="san-sd" id="pT18p0324b1301" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-E0C1;&SD-A5B5;&SD-CFD4;　&SD-E074;&SD-A656;&SD-A9BD;&SD-A5B9;&SD-E1B6;&SD-E074;</p>
+<lb n="0324b14" ed="T"/><p lang="san-sd" id="pT18p0324b1401" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A652;&SD-A446;&SD-E079;　&SD-DA42;&SD-A656;&SD-A9BD;&SD-A458;&SD-D9FC;&SD-A463;</p>
+<lb n="0324b15" ed="T"/><p id="pT18p0324b1501">四攝。</p>
+<lb n="0324b16" ed="T"/><p lang="san-sd" id="pT18p0324b1601" type="dharani">&SD-E074;&SD-A656;&SD-E07A;&SD-A444;&SD-A662;&SD-A4C1;　&SD-DA42;&SD-A656;&SD-A9BD;&SD-A5B6;&SD-A662;&SD-CFC1;</p>
+<lb n="0324b17" ed="T"/><p lang="san-sd" id="pT18p0324b1701" type="dharani">&SD-DA42;&SD-A656;&SD-A9BD;&SD-CDF7;&SD-E046;&SD-A660;　&SD-DA42;&SD-A656;&SD-A9BD;&SD-A65C;&SD-A662;&SD-E05F;</p>
+<lb n="0324b18" ed="T"/><p lang="san-sd" id="pT18p0324b1801" type="dharani">&SD-E17C;&SD-E17C;</p><p id="pT18p0324b1803" place="inline">已上羯磨會。</p>
+<lb n="0324b19" ed="T"/><p id="pT18p0324b1901">五佛。</p>
+<lb n="0324b20" ed="T"/><p lang="san-sd" id="pT18p0324b2001" type="dharani">&SD-A656;&SD-A9BD;&SD-E0A4;&SD-A648;&SD-CFD4;　&SD-A656;&SD-A9BD;&SD-E0A4;&SD-A5B3;&SD-E17C;</p>
+<lb n="0324b21" ed="T"/><p lang="san-sd" id="pT18p0324b2101" type="dharani">&SD-A656;&SD-A9BD;&SD-E0A4;&SD-A5B3;&SD-AA69;　&SD-A656;&SD-A9BD;&SD-E0A4;&SD-A5A9;&SD-DA75;</p>
+<lb n="0324b22" ed="T"/><p lang="san-sd" id="pT18p0324b2201" type="dharani">&SD-A656;&SD-A9BD;&SD-E0A4;&SD-A5B3;&SD-CFD4;</p>
+<lb n="0324b23" ed="T"/><p id="pT18p0324b2301">四波羅蜜。</p>
+<lb n="0324b24" ed="T"/><p lang="san-sd" id="pT18p0324b2401" type="dharani">&SD-A656;&SD-A9BD;&SD-E07B;&SD-CFC1;　&SD-A656;&SD-A9BD;&SD-A45E;&SD-A641;&SD-AA69;</p>
+<lb n="0324b25" ed="T"/><p lang="san-sd" id="pT18p0324b2501" type="dharani">&SD-A656;&SD-A9BD;&SD-A558;&SD-A5FD;&SD-DA75;　&SD-A44C;&SD-A656;&SD-A9BF;&SD-A54D;&SD-E05F;</p>
+<lb n="0324b26" ed="T"/><p id="pT18p0324b2601">十六尊。</p>
+<lb n="0324b27" ed="T"/><p lang="san-sd" id="pT18p0324b2701" type="dharani">&SD-A67A;&SD-A5E5;&SD-A5F1;&SD-E041;　&SD-CFC6;&SD-A5A9;&SD-A5F1;&SD-B064;</p>
+<lb n="0324b28" ed="T"/><p lang="san-sd" id="pT18p0324b2801" type="dharani">&SD-CFC5;&SD-A6B0;&SD-E0BC;&SD-A44C;　&SD-A67A;&SD-E0C1;&SD-A67B;&SD-E0C1;</p>
+<lb n="0324b29" ed="T"/><p lang="san-sd" id="pT18p0324b2901" type="dharani">&SD-E0BC;&SD-A5E5;&SD-A6A9;&SD-AF63;　&SD-A643;&SD-A5BD;&SD-A7F7;&SD-A557;</p>
+<pb n="0324c" id="T18.0875.0324c" ed="T"/>
+<lb n="0324c01" ed="T"/><p lang="san-sd" id="pT18p0324c0101" type="dharani">&SD-CFC5;&SD-B6D4;&SD-AABD;&SD-CEE6;　&SD-A6A8;&SD-A6A8;&SD-E17C;&SD-A6B3;</p>
+<lb n="0324c02" ed="T"/><p lang="san-sd" id="pT18p0324c0201" type="dharani">&SD-A67A;&SD-B7A3;&SD-A441;&SD-E07C;　&SD-E254;&SD-A44C;&SD-DAA1;&SD-A56F;</p>
+<lb n="0324c03" ed="T"/><p lang="san-sd" id="pT18p0324c0301" type="dharani">&SD-E3AD;&SD-D9F9;&SD-A5D5;&SD-A57D;　&SD-AABC;&SD-A559;&SD-A662;&SD-CDC1;</p>
+<lb n="0324c04" ed="T"/><p lang="san-sd" id="pT18p0324c0401" type="dharani">&SD-E0BC;&SD-A656;&SD-A664;&SD-AF63;　&SD-A5AB;&SD-B751;&SD-A5F1;&SD-AF63;</p>
+<lb n="0324c05" ed="T"/><p lang="san-sd" id="pT18p0324c0501" type="dharani">&SD-A662;&SD-AA63;&SD-A5D9;&SD-A6B4;　&SD-A67A;&SD-B7A3;&SD-A67C;&SD-AF73;</p>
+<lb n="0324c06" ed="T"/><p id="pT18p0324c0601">八供養。</p>
+<lb n="0324c07" ed="T"/><p lang="san-sd" id="pT18p0324c0701" type="dharani">&SD-A5E5;&SD-A6A8;&SD-A5FD;&SD-A559;　&SD-A643;&SD-A5B5;&SD-A668;&SD-A5DF;</p>
+<lb n="0324c08" ed="T"/><p lang="san-sd" id="pT18p0324c0801" type="dharani">&SD-A460;&SD-AA5E;&SD-A6A3;&SD-A6D2;　&SD-A67A;&SD-B7A3;&SD-E042;&SD-A4BC;</p>
+<lb n="0324c09" ed="T"/><p lang="san-sd" id="pT18p0324c0901" type="dharani">&SD-AABC;&SD-CC68;&SD-A571;&SD-A5AB;　&SD-A5C1;&SD-A64A;&SD-A458;&SD-A5EB;</p>
+<lb n="0324c10" ed="T"/><p lang="san-sd" id="pT18p0324c1001" type="dharani">&SD-E0BC;&SD-A55D;&SD-A4B7;&SD-A961;　&SD-E0BC;&SD-A458;&SD-A4F3;&SD-C97D;</p>
+<lb n="0324c11" ed="T"/><p id="pT18p0324c1101">四攝。</p>
+<lb n="0324c12" ed="T"/><p lang="san-sd" id="pT18p0324c1201" type="dharani">&SD-CFC6;&SD-A5F1;&SD-A6AA;&SD-A4C1;　&SD-CFC6;&SD-A6AA;&SD-CFC1;&SD-CFC1;</p>
+<lb n="0324c13" ed="T"/><p lang="san-sd" id="pT18p0324c1301" type="dharani">&SD-A6AE;&SD-CDF9;&SD-A4DA;&SD-A660;　&SD-A46E;&SD-A4DA;&SD-CFD4;&SD-CFD4;</p>
+<lb n="0324c14" ed="T"/><p id="pT18p0324c1401">遍照尊。</p>
+<lb n="0324c15" ed="T"/><p lang="san-sd" id="pT18p0324c1501" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A656;&SD-A9BD;&SD-A57C;&SD-AF59;&SD-A5AD;&SD-CF55;&SD-A5FD;&SD-E042;&SD-A4B6;&SD-CDF1;&SD-A5FD;
+<lb n="0324c16" ed="T"/>&SD-A54B;&SD-A67A;&SD-A5E5;&SD-A5F7;&SD-CFC1;</p>
+<lb n="0324c17" ed="T"/><p id="pT18p0324c1701">金剛薩埵。</p>
+<lb n="0324c18" ed="T"/><p lang="san-sd" id="pT18p0324c1801" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A656;&SD-A9BD;&SD-A67A;&SD-AF59;&SD-A5AD;&SD-CF55;&SD-A5FD;&SD-E042;&SD-A4B6;&SD-CDF1;&SD-A5FD;
+<lb n="0324c19" ed="T"/>&SD-A54B;&SD-A67A;&SD-A5E5;&SD-A5F7;&SD-E17C;</p>
+<lb n="0324c20" ed="T"/><p id="pT18p0324c2001">金剛寶。</p>
+<lb n="0324c21" ed="T"/><p lang="san-sd" id="pT18p0324c2101" type="dharani">&SD-E074;&SD-A67A;&SD-B6B0;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A656;&SD-A9BD;&SD-A5FD;&SD-B448;&SD-A5AD;&SD-CF55;&SD-A5FD;&SD-E042;&SD-A4B6;&SD-CDF1;&SD-A5FD;
+<lb n="0324c22" ed="T"/>&SD-A54B;&SD-A67A;&SD-A5E5;&SD-A5F7;&SD-E17C;</p>
+<lb n="0324c23" ed="T"/><p id="pT18p0324c2301">金剛法。</p>
+<lb n="0324c24" ed="T"/><p lang="san-sd" id="pT18p0324c2401" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A656;&SD-A9BD;&SD-A57B;&SD-E1BA;&SD-A5AD;&SD-CF55;&SD-A5FD;&SD-E042;&SD-A4B6;&SD-CDF1;&SD-A5FD;
+<lb n="0324c25" ed="T"/>&SD-A54B;&SD-A67A;&SD-A5E5;&SD-A5F7;&SD-E17C;</p>
+<lb n="0324c26" ed="T"/><p id="pT18p0324c2601">金剛業。</p>
+<lb n="0324c27" ed="T"/><p lang="san-sd" id="pT18p0324c2701" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A656;&SD-A9BD;&SD-A440;&SD-E1BA;&SD-A5AD;&SD-A557;&SD-A5FD;&SD-E042;&SD-A4B6;&SD-CDF1;&SD-A5FD;
+<lb n="0324c28" ed="T"/>&SD-A54B;&SD-A67A;&SD-A5E5;&SD-A5F7;&SD-E074;</p>
+<lb n="0324c29" ed="T"/><p id="pT18p0324c2901">心上金剛縛。</p>
+<pb n="0325a" id="T18.0875.0325a" ed="T"/>
+<lb n="0325a01" ed="T"/><p id="pT18p0325a0101">東。</p>
+<lb n="0325a02" ed="T"/><p lang="san-sd" id="pT18p0325a0201" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A67A;&SD-B7A3;&SD-E1EA;&SD-A5AB;&SD-B769;&SD-A557;&SD-A5A9;&SD-E042;&SD-A4B6;&SD-CDF1;&SD-A5FD;
+<lb n="0325a03" ed="T"/>&SD-A54B;&SD-A440;&SD-E2AA;&SD-A656;&SD-A9BF;&SD-DA71;</p>
+<lb n="0325a04" ed="T"/><p id="pT18p0325a0401">右&CB00169;。</p>
+<lb n="0325a05" ed="T"/><p lang="san-sd" id="pT18p0325a0501" type="dharani">&SD-DA42;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A67A;&SD-B7A4;&SD-E1EA;&SD-A5AB;&SD-B76A;&SD-A557;&SD-A5A9;&SD-E042;&SD-A4B6;&SD-CDF1;&SD-A5FD;
+<lb n="0325a06" ed="T"/>&SD-A54B;&SD-A440;&SD-E2AA;&SD-A961;&SD-A4C1;</p>
+<lb n="0325a07" ed="T"/><p id="pT18p0325a0701">左&CB00169;。</p>
+<lb n="0325a08" ed="T"/><p lang="san-sd" id="pT18p0325a0801" type="dharani">&SD-DA42;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A67A;&SD-A444;&SD-E1EA;&SD-A5AB;&SD-B769;&SD-A557;&SD-A5AA;&SD-A5AD;&SD-A5FD;&SD-A458;&SD-A54B;
+<lb n="0325a09" ed="T"/>&SD-E042;&SD-A4B6;&SD-CDF1;&SD-A5FD;&SD-A54B;&SD-A440;&SD-E2AA;&SD-A657;&SD-A54B;&SD-E17C;&SD-A6B0;</p>
+<lb n="0325a10" ed="T"/><p id="pT18p0325a1001">要後。</p>
+<lb n="0325a11" ed="T"/><p lang="san-sd" id="pT18p0325a1101" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A67A;&SD-B7A4;&SD-E1EA;&SD-A5AB;&SD-DA48;&SD-A557;&SD-A5A9;&SD-A67B;&SD-E0C1;&SD-A441;&SD-A5FD;
+<lb n="0325a12" ed="T"/>&SD-E042;&SD-A4B6;&SD-CDF1;&SD-A5FD;&SD-A54B;&SD-A440;&SD-E1BA;&SD-A55B;&SD-CD4D;&SD-A6A7;</p>
+<lb n="0325a13" ed="T"/><p id="pT18p0325a1301">額上　南。</p>
+<lb n="0325a14" ed="T"/><p lang="san-sd" id="pT18p0325a1401" type="dharani">&SD-E074;&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A5DB;&SD-A674;&SD-A440;&SD-A5FD;&SD-B448;&SD-A8A2;&SD-A656;&SD-A9BD;&SD-A5E5;
+<lb n="0325a15" ed="T"/>&SD-A54D;&SD-E074;</p>
+<lb n="0325a16" ed="T"/><p id="pT18p0325a1601">心上。</p>
+<lb n="0325a17" ed="T"/><p lang="san-sd" id="pT18p0325a1701" type="dharani">&SD-E074;&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-E0BC;&SD-B76F;&SD-A8A2;&SD-A656;&SD-A9BD;&SD-A55D;&SD-A4B8;&SD-A5AB;&SD-E04A;
+<lb n="0325a18" ed="T"/>&SD-A64A;&SD-DA75;</p>
+<lb n="0325a19" ed="T"/><p id="pT18p0325a1901">頂上。</p>
+<lb n="0325a20" ed="T"/><p lang="san-sd" id="pT18p0325a2001" type="dharani">&SD-DA42;&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A663;&SD-A5B5;&SD-A640;&SD-E042;&SD-A5FD;&SD-A54B;&SD-A47E;&SD-CA56;&SD-A5E5;
+<lb n="0325a21" ed="T"/>&SD-A54D;&SD-E163;&SD-A4B6;&SD-A965;&SD-A8A2;&SD-A656;&SD-A9BD;&SD-E163;&SD-A4B6;&SD-A961;&SD-E0B7;</p>
+<lb n="0325a22" ed="T"/><p id="pT18p0325a2201">口上&CB01170;處。</p>
+<lb n="0325a23" ed="T"/><p lang="san-sd" id="pT18p0325a2301" type="dharani">&SD-DA42;&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A5E5;&SD-A6A9;&SD-E2E2;&SD-A559;&SD-AABD;&SD-A5ED;&SD-A7F0;&SD-A440;&SD-A644;
+<lb n="0325a24" ed="T"/>&SD-A8A2;&SD-A440;&SD-A644;&SD-A8A2;&SD-A656;&SD-A9BD;&SD-A6A8;&SD-A6A2;&SD-A6B3;</p>
+<lb n="0325a25" ed="T"/><p id="pT18p0325a2501">口上密語　西。</p>
+<lb n="0325a26" ed="T"/><p lang="san-sd" id="pT18p0325a2601" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A656;&SD-A9BD;&SD-A57B;&SD-E1BA;&SD-A558;&SD-E0BC;&SD-A5E5;&SD-A57D;&SD-E07E;&SD-E068;&SD-A5AA;
+<lb n="0325a27" ed="T"/>&SD-A5E7;&SD-A5E5;&SD-A6A9;&SD-A57B;&SD-E2AA;&SD-A961;&SD-DA75;</p>
+<lb n="0325a28" ed="T"/><p id="pT18p0325a2801">右耳。</p>
+<lb n="0325a29" ed="T"/><p lang="san-sd" id="pT18p0325a2901" type="dharani">&SD-DA42;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-AABC;&SD-E0A4;&SD-A5B6;&SD-A5FD;&SD-A5E7;&SD-A558;&SD-E07E;&SD-A5AB;&SD-B7DB;&SD-E068;&SD-A5B1;
+<lb n="0325a30" ed="T"/>&SD-A5E7;&SD-A5E5;&SD-A6A9;&SD-A46C;&SD-A66E;&SD-A5AD;&SD-A45E;&SD-A5A7;</p>
+<pb n="0325b" id="T18.0875.0325b" ed="T"/>
+<lb n="0325b01" ed="T"/><p id="pT18p0325b0101">左耳。</p>
+<lb n="0325b02" ed="T"/><p lang="san-sd" id="pT18p0325b0201" type="dharani">&SD-DA42;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A47C;&SD-A947;&SD-A6B4;&SD-A5FD;&SD-A5B5;&SD-A640;&SD-A656;&SD-DAB1;&SD-A5A9;&SD-A67A;&SD-B7A3;
+<lb n="0325b03" ed="T"/>&SD-E0BC;&SD-AA5F;&SD-A557;&SD-A5A9;&SD-A5F1;&SD-E0A1;&SD-E068;&SD-A5B1;&SD-A5E7;&SD-A67A;&SD-B7A3;&SD-A5E5;&SD-C9FD;&SD-A64A;&SD-E17C;</p>
+<lb n="0325b04" ed="T"/><p id="pT18p0325b0401">頂後。</p>
+<lb n="0325b05" ed="T"/><p lang="san-sd" id="pT18p0325b0501" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A6A6;&SD-A57C;&SD-A5DA;&SD-A66E;&SD-E3AD;&SD-D9F9;&SD-DA40;&SD-E077;&SD-A559;&SD-E07E;&SD-A458;
+<lb n="0325b06" ed="T"/>&SD-A579;&SD-E068;&SD-A5B1;&SD-A5E7;&SD-A656;&SD-A9BD;&SD-A657;&SD-A4A4;&SD-A4A9;</p>
+<lb n="0325b07" ed="T"/><p id="pT18p0325b0701">頂上　北。</p>
+<lb n="0325b08" ed="T"/><p lang="san-sd" id="pT18p0325b0801" type="dharani">&SD-DA42;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-E3AD;&SD-A5B5;&SD-A5EB;&SD-A464;&SD-A67A;&SD-E043;&SD-CDF1;&SD-A5FD;&SD-A54B;&SD-E042;&SD-A4B6;
+<lb n="0325b09" ed="T"/>&SD-A440;&SD-C34B;&SD-A440;&SD-A5FD;&SD-A440;&SD-A649;</p>
+<lb n="0325b10" ed="T"/><p id="pT18p0325b1001">右肩上。</p>
+<lb n="0325b11" ed="T"/><p lang="san-sd" id="pT18p0325b1101" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-E042;&SD-E1B5;&SD-AABC;&SD-A67A;&SD-A5FD;&SD-CDF1;&SD-A5FD;&SD-A54B;&SD-E042;&SD-A4B6;&SD-A440;
+<lb n="0325b12" ed="T"/>&SD-C34B;&SD-A442;&SD-A640;&SD-A442;&SD-E0D6;</p>
+<lb n="0325b13" ed="T"/><p id="pT18p0325b1301">右跨上。</p>
+<lb n="0325b14" ed="T"/><p lang="san-sd" id="pT18p0325b1401" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A652;&SD-A440;&SD-E04A;&SD-A64A;&SD-CDF1;&SD-A5FD;&SD-A54B;&SD-E042;&SD-A4B6;&SD-A440;&SD-C34B;
+<lb n="0325b15" ed="T"/>&SD-A5D9;&SD-A5FD;&SD-A5D9;&SD-A649;</p>
+<lb n="0325b16" ed="T"/><p id="pT18p0325b1601">置心上。</p>
+<lb n="0325b17" ed="T"/><p lang="san-sd" id="pT18p0325b1701" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A458;&SD-A5AD;&SD-A5EB;&SD-A464;&SD-A67A;&SD-E043;&SD-AA76;&SD-CDF1;&SD-A5FD;&SD-A54B;&SD-E042;
+<lb n="0325b18" ed="T"/>&SD-A4B6;&SD-A440;&SD-C34B;&SD-A444;&SD-A642;&SD-A444;&SD-A649;</p>
+<lb n="0325b19" ed="T"/><p id="pT18p0325b1901">散□外四。</p>
+<lb n="0325b20" ed="T"/><p lang="san-sd" id="pT18p0325b2001" type="dharani">&SD-DA42;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A5B9;&SD-E1B5;&SD-E042;&SD-A4B6;&SD-A5EB;&SD-A464;&SD-A67A;&SD-E043;&SD-AA76;&SD-CDF1;&SD-A5FD;
+<lb n="0325b21" ed="T"/>&SD-A54B;&SD-A67A;&SD-A5E5;&SD-A5F7;&SD-E17C;</p>
+<lb n="0325b22" ed="T"/><p id="pT18p0325b2201">燒香。</p>
+<lb n="0325b23" ed="T"/><p lang="san-sd" id="pT18p0325b2301" type="dharani">&SD-DA42;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-E0C1;&SD-A5B5;&SD-E042;&SD-A4B6;&SD-A5EB;&SD-A464;&SD-A67A;&SD-E043;&SD-AA76;&SD-CDF1;&SD-A5FD;
+<lb n="0325b24" ed="T"/>&SD-A54B;&SD-A67A;&SD-A5E5;&SD-A5F7;&SD-DA74;</p>
+<lb n="0325b25" ed="T"/><p id="pT18p0325b2501">燈。</p>
+<lb n="0325b26" ed="T"/><p lang="san-sd" id="pT18p0325b2601" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A572;&SD-A5B5;&SD-E042;&SD-A4B6;&SD-A5EB;&SD-A464;&SD-A67A;&SD-E043;&SD-AA76;&SD-CDF1;&SD-A5FD;
+<lb n="0325b27" ed="T"/>&SD-A54B;&SD-A67A;&SD-A5E5;&SD-A5F7;&SD-E17C;</p>
+<lb n="0325b28" ed="T"/><p id="pT18p0325b2801">塗香。</p>
+<lb n="0325b29" ed="T"/><p lang="san-sd" id="pT18p0325b2901" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A458;&SD-AFAB;&SD-E042;&SD-A4B6;&SD-A5EB;&SD-A464;&SD-A67A;&SD-E043;&SD-AA76;&SD-CDF1;&SD-A5FD;
+<lb n="0325b30" ed="T"/>&SD-A54B;&SD-A67A;&SD-A5E5;&SD-A5EB;&SD-E17C;</p>
+<pb n="0325c" id="T18.0875.0325c" ed="T"/>
+<lb n="0325c01" ed="T"/><p id="pT18p0325c0101">三昧耶。</p>
+<lb n="0325c02" ed="T"/><p lang="san-sd" id="pT18p0325c0201" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A5D5;&SD-A7FB;&SD-A458;&SD-A5FD;&SD-B448;&SD-A654;&SD-A441;&SD-A5FD;&SD-E042;&SD-A4B6;&SD-A5EB;
+<lb n="0325c03" ed="T"/>&SD-A464;&SD-A67A;&SD-E043;&SD-AA76;&SD-CDF1;&SD-A5FD;&SD-A54B;&SD-A67A;&SD-A5E5;&SD-A5F7;&SD-E17C;</p>
+<lb n="0325c04" ed="T"/><p id="pT18p0325c0401">戲嬉。</p>
+<lb n="0325c05" ed="T"/><p lang="san-sd" id="pT18p0325c0501" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A6A9;&SD-A8E2;&SD-A64B;&SD-A8E3;&SD-A94A;&SD-E0A2;&SD-A5FD;&SD-A559;&SD-A6A3;&SD-A6CD;&SD-CF55;
+<lb n="0325c06" ed="T"/>&SD-A5FD;&SD-E042;&SD-A4B6;&SD-A5EB;&SD-A464;&SD-A67A;&SD-E043;&SD-AA76;&SD-CDF1;&SD-A5FD;&SD-A54B;&SD-A67A;&SD-A5E5;&SD-A5F7;&SD-E17C;</p>
+<lb n="0325c07" ed="T"/><p id="pT18p0325c0701">薩埵三昧。</p>
+<lb n="0325c08" ed="T"/><p lang="san-sd" id="pT18p0325c0801" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A656;&SD-A9C3;&SD-A5B5;&SD-A5E5;&SD-A67A;&SD-A5E6;&SD-A57D;&SD-A5DA;&SD-A656;&SD-A5AA;&SD-A5B6;
+<lb n="0325c09" ed="T"/>&SD-A5A9;&SD-A65E;&SD-A4B6;&SD-A5A9;&SD-A656;&SD-A67A;&SD-A5A9;&SD-E042;&SD-A4B6;&SD-A5EB;&SD-A464;&SD-A67A;&SD-E043;&SD-AA76;&SD-CDF1;&SD-A5FD;&SD-A54B;&SD-A67A;
+<lb n="0325c10" ed="T"/>&SD-A5E5;&SD-A5F7;&SD-E17C;</p>
+<lb n="0325c11" ed="T"/><p id="pT18p0325c1101">羯磨三昧。</p>
+<lb n="0325c12" ed="T"/><p lang="san-sd" id="pT18p0325c1201" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A441;&SD-A5F1;&SD-A5AB;&SD-DA48;&SD-A557;&SD-A5A9;&SD-AABC;&SD-A4B7;&SD-A5EB;&SD-A464;&SD-A67A;
+<lb n="0325c13" ed="T"/>&SD-E043;&SD-AA76;&SD-CDF1;&SD-A5FD;&SD-A54B;&SD-A67A;&SD-A5E5;&SD-A5F7;&SD-E17C;</p>
+<lb n="0325c14" ed="T"/><p id="pT18p0325c1401">達磨三昧。</p>
+<lb n="0325c15" ed="T"/><p lang="san-sd" id="pT18p0325c1501" type="dharani">&SD-DA42;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A47E;&SD-CF55;&SD-A5AB;&SD-B76A;&SD-A557;&SD-A5A9;&SD-E042;&SD-A4B6;&SD-A5EB;&SD-A464;&SD-A67A;
+<lb n="0325c16" ed="T"/>&SD-E043;&SD-AA76;&SD-CDF1;&SD-A5FD;&SD-A54B;&SD-A67A;&SD-A5E5;&SD-A5F7;&SD-E17C;</p>
+<lb n="0325c17" ed="T"/><p id="pT18p0325c1701">寶幢三昧。</p>
+<lb n="0325c18" ed="T"/><p lang="san-sd" id="pT18p0325c1801" type="dharani">&SD-DA42;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A5E5;&SD-A6A9;&SD-A656;&SD-A9C3;&SD-CE4A;&SD-A656;&SD-A577;&SD-A5A9;&SD-A5B6;&SD-A5FD;&SD-A5E7;
+<lb n="0325c19" ed="T"/>&SD-A558;&SD-E042;&SD-A4B6;&SD-A5EB;&SD-A464;&SD-A67A;&SD-E043;&SD-AA76;&SD-CDF1;&SD-A5FD;&SD-A54B;&SD-A67A;&SD-A5E5;&SD-A5F7;&SD-E17C;</p>
+<lb n="0325c20" ed="T"/><p id="pT18p0325c2001">□香身契。</p>
+<lb n="0325c21" ed="T"/><p lang="san-sd" id="pT18p0325c2101" type="dharani">&SD-DA42;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A5AD;&SD-CF55;&SD-A5FD;&SD-A5E5;&SD-A6A9;&SD-A5D5;&SD-A7FC;&SD-A6A9;&SD-A5FD;&SD-A440;&SD-A665;
+<lb n="0325c22" ed="T"/>&SD-A64A;&SD-A5B6;&SD-A5FD;&SD-A5E7;&SD-A557;&SD-E042;&SD-A4B6;&SD-A5EB;&SD-A464;&SD-A67A;&SD-E043;&SD-AA76;&SD-CDF1;&SD-A5FD;&SD-A54B;&SD-A67A;&SD-A5E5;&SD-A5F7;
+<lb n="0325c23" ed="T"/>&SD-E17C;</p>
+<lb n="0325c24" ed="T"/><p id="pT18p0325c2401">羯磨。</p>
+<lb n="0325c25" ed="T"/><p lang="san-sd" id="pT18p0325c2501" type="dharani">&SD-DA42;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A5AD;&SD-CF55;&SD-A5FD;&SD-A5E5;&SD-A6A9;&SD-A57B;&SD-E1BA;&SD-A656;&SD-A5D5;&SD-A57B;&SD-A6B5;
+<lb n="0325c26" ed="T"/>&SD-A559;&SD-A5B5;&SD-A5FD;&SD-A5E7;&SD-A557;&SD-E042;&SD-A4B6;&SD-A5EB;&SD-A464;&SD-A67A;&SD-E043;&SD-AA76;&SD-CDF1;&SD-A5FD;&SD-A54B;&SD-A67A;&SD-A5E5;&SD-A5F7;
+<lb n="0325c27" ed="T"/>&SD-E17C;</p>
+<lb n="0325c28" ed="T"/><p id="pT18p0325c2801">&CB00508;勝精進契。</p>
+<lb n="0325c29" ed="T"/><p lang="san-sd" id="pT18p0325c2901" type="dharani">&SD-DA42;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A6A6;&SD-A67B;&SD-A5FD;&SD-A5B6;&SD-A640;&SD-A7D8;&SD-A459;&SD-A5AD;&SD-CF55;&SD-A5FD;&SD-A5E5;
+<lb n="0325c30" ed="T"/>&SD-A6A9;&SD-A659;&SD-B769;&SD-A5B6;&SD-A5FD;&SD-A5E7;&SD-A558;&SD-E042;&SD-A4B6;&SD-A5EB;&SD-A464;&SD-A67A;&SD-E043;&SD-AA76;&SD-CDF1;&SD-A5FD;&SD-A54B;&SD-A67A;
+<pb n="0326a" id="T18.0875.0326a" ed="T"/>
+<lb n="0326a01" ed="T"/>&SD-A5E5;&SD-A5F7;&SD-CFC1;</p>
+<lb n="0326a02" ed="T"/><p id="pT18p0326a0201">三摩地。</p>
+<lb n="0326a03" ed="T"/><p lang="san-sd" id="pT18p0326a0301" type="dharani">&SD-DA42;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A5AD;&SD-CF55;&SD-A5FD;&SD-A5E5;&SD-A6A9;&SD-A6A3;&SD-A6CC;&SD-A658;&SD-A6A9;&SD-A5FD;&SD-A7FB;
+<lb n="0326a04" ed="T"/>&SD-A5A9;&SD-A5B6;&SD-A5FD;&SD-A5E7;&SD-A557;&SD-E042;&SD-A4B7;&SD-A5EB;&SD-A464;&SD-A67A;&SD-E043;&SD-AA76;&SD-CDF1;&SD-A5FD;&SD-A54B;&SD-A67A;&SD-A5E5;&SD-A5F7;
+<lb n="0326a05" ed="T"/>&SD-E17C;</p>
+<lb n="0326a06" ed="T"/><p id="pT18p0326a0601">遍照尊。</p>
+<lb n="0326a07" ed="T"/><p lang="san-sd" id="pT18p0326a0701" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A5AD;&SD-CF55;&SD-A5FD;&SD-ABC1;&SD-A458;&SD-E0A3;&SD-A5F2;&SD-A656;&SD-A5FD;&SD-A54B;&SD-A657;
+<lb n="0326a08" ed="T"/>&SD-A67A;&SD-A5AA;&SD-A658;&SD-A5A9;&SD-A5F1;&SD-A5A9;&SD-A5E5;&SD-A6A9;&SD-AABC;&SD-E0A4;&SD-A5B6;&SD-A5FD;&SD-A5E7;&SD-A557;&SD-E042;&SD-A4B6;&SD-A5EB;&SD-A464;
+<lb n="0326a09" ed="T"/>&SD-A67A;&SD-E043;&SD-AA76;&SD-CDF1;&SD-A5FD;&SD-A54B;&SD-A67A;&SD-A5E5;&SD-A5F7;&SD-E17C;</p>
+<lb n="0326a10" ed="T"/><p id="pT18p0326a1001">勝上三摩地。</p>
+<lb n="0326a11" ed="T"/><p lang="san-sd" id="pT18p0326a1101" type="dharani">&SD-DA42;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A45C;&SD-A878;&SD-A5E5;&SD-A6A9;&SD-AABC;&SD-A559;&SD-A5B5;&SD-CA58;&SD-E042;&SD-A4B6;&SD-A5EB;
+<lb n="0326a12" ed="T"/>&SD-A464;&SD-A67A;&SD-E043;&SD-AA76;&SD-CDF1;&SD-A5FD;&SD-A54B;&SD-A67A;&SD-A5E5;&SD-A5F7;&SD-CFC1;</p>
+<lb n="0326a13" ed="T"/><p id="pT18p0326a1301">合指爪。</p>
+<lb n="0326a14" ed="T"/><p lang="san-sd" id="pT18p0326a1401" type="dharani">&SD-DA42;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A65E;&SD-A5AB;&SD-DA48;&SD-A557;&SD-A5A9;&SD-E042;&SD-A4B6;&SD-A5EB;&SD-A464;&SD-A67A;&SD-E043;
+<lb n="0326a15" ed="T"/>&SD-DAB0;&SD-CDF1;&SD-A5FD;&SD-A54B;&SD-A67A;&SD-A5E5;&SD-A5F7;&SD-CFC1;</p>
+<lb n="0326a16" ed="T"/><p id="pT18p0326a1601">金剛拳。</p>
+<lb n="0326a17" ed="T"/><p lang="san-sd" id="pT18p0326a1701" type="dharani">&SD-DA42;&SD-CC68;&SD-A56F;&SD-A5F1;&SD-A5AC;&SD-A670;&SD-A558;&SD-A5AB;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-E040;&SD-A67C;&SD-E059;&SD-CF56;</p>
+<lb n="0326a18" ed="T"/><p id="pT18p0326a1801">三昧耶。</p>
+<lb n="0326a19" ed="T"/><p lang="san-sd" id="pT18p0326a1901" type="dharani">&SD-A67A;&SD-B7A3;&SD-E043;&SD-E2EC;&SD-A5EB;&SD-CBF7;&SD-A5F2;&SD-A5D9;&SD-A656;&SD-A55B;</p>
+<lb n="0326a20" ed="T"/><p id="pT18p0326a2001">法印。</p>
+<lb n="0326a21" ed="T"/><p lang="san-sd" id="pT18p0326a2101" type="dharani">&SD-A5AB;&SD-A96B;&SD-A5BF;&SD-A47C;&SD-A657;&SD-E2E4;&SD-AF73;&SD-A5D9;&SD-A656;&SD-A55B;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A67A;&SD-A5E5;
+<lb n="0326a22" ed="T"/>&SD-A57B;&SD-A5F7;&SD-A5EB;&SD-CFC6;&SD-A4B6;&SD-A5F1;&SD-B448;</p>
+<lb n="0326a23" ed="T"/><p id="pT18p0326a2301">羯磨印。</p>
+<lb n="0326a24" ed="T"/><p lang="san-sd" id="pT18p0326a2401" type="dharani">&SD-CFC5;&SD-A658;&SD-A7F0;&SD-AF5A;&SD-A656;&SD-A55D;&SD-A5EB;&SD-A67A;&SD-E250;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A561;&SD-E0BD;&SD-A658;&SD-DA4A;
+<lb n="0326a25" ed="T"/>&SD-A57D;&SD-A458;&SD-A5E5;&SD-A6A6;&SD-A656;&SD-A5FD;&SD-A67A;&SD-A5DE;&SD-CF55;</p>
+<lb n="0326a26" ed="T"/><p id="pT18p0326a2601">金剛三昧。</p>
+<lb n="0326a27" ed="T"/><p lang="san-sd" id="pT18p0326a2701" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A67A;&SD-AF59;&SD-A67A;&SD-A5E5;&SD-A5F1;&SD-A5E5;&SD-A5AD;&SD-A5B6;&SD-A64A;&SD-A5F1;&SD-A656;&SD-A9BD;&SD-A67A;&SD-AF59;&SD-AFB1;
+<lb n="0326a28" ed="T"/>&SD-A5B1;&SD-A5B5;&SD-A559;&SD-CD4B;&SD-CBEB;&SD-A6B0;&SD-A5EB;&SD-A5D9;&SD-A656;&SD-A5E7;&SD-E0BC;&SD-A55B;&SD-A844;&SD-A5EB;&SD-A5D9;&SD-A656;&SD-CFC5;&SD-A5AD;
+<lb n="0326a29" ed="T"/>&SD-A5FD;&SD-E0CC;&SD-A5EB;&SD-A5D9;&SD-A656;&SD-E0BC;&SD-A5B9;&SD-A8DE;&SD-A5EB;&SD-A5D9;&SD-A656;&SD-A67A;&SD-B7A3;&SD-A67C;&SD-E0A7;&SD-A5EB;&SD-AABC;&SD-A5F1;
+<pb n="0326b" id="T18.0875.0326b" ed="T"/>
+<lb n="0326b01" ed="T"/>&SD-DA79;&SD-A67A;&SD-B7A3;&SD-A440;&SD-B75D;&SD-E0BC;&SD-A47C;&SD-A5EB;&SD-A47E;&SD-CF55;&SD-AB65;&SD-A5F1;&SD-A444;&SD-A642;&SD-CFC1;&SD-A6A8;&SD-A6A8;&SD-A6A8;
+<lb n="0326b02" ed="T"/>&SD-A6A8;&SD-E05F;&SD-A5D9;&SD-A458;&SD-A660;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A656;&SD-A9BD;&SD-A5E6;&SD-A5E5;&SD-E1BF;&SD-A47C;&SD-A656;
+<lb n="0326b03" ed="T"/>&SD-A9C0;&SD-A5D9;&SD-A656;&SD-A5E5;&SD-A6A9;&SD-A67A;&SD-A5E5;&SD-A5F1;&SD-A67A;&SD-AF5A;&SD-DA71;</p>
+<lb n="0326b04" ed="T"/><p id="pT18p0326b0401">蓮華部三昧。</p>
+<lb n="0326b05" ed="T"/><p lang="san-sd" id="pT18p0326b0501" type="dharani">&SD-DA42;&SD-A5B5;&SD-DAAF;&SD-A67A;&SD-AF59;&SD-A67A;&SD-A5E5;&SD-A5F1;&SD-A5AD;&SD-A5B6;&SD-A64A;&SD-A5F1;&SD-A5B5;&SD-DAAF;&SD-A67A;&SD-AF59;&SD-AFED;&SD-A5B1;
+<lb n="0326b06" ed="T"/>&SD-A5B5;&SD-A559;&SD-CD4B;&SD-CBEB;&SD-A6B0;&SD-A5EB;&SD-A6A8;&SD-A656;&SD-E0BC;&SD-A55F;&SD-A8DE;&SD-A5EB;&SD-A5D9;&SD-A656;&SD-E0BC;&SD-A5AD;&SD-A5FD;&SD-E0CC;
+<lb n="0326b07" ed="T"/>&SD-A5EB;&SD-A5D9;&SD-A656;&SD-E0BC;&SD-A5B9;&SD-A8DE;&SD-A5EB;&SD-A5D9;&SD-A656;&SD-A67A;&SD-B7A3;&SD-A67C;&SD-E0A7;&SD-A5EB;&SD-AABC;&SD-A5F1;&SD-DA79;&SD-A67A;
+<lb n="0326b08" ed="T"/>&SD-B7A3;&SD-A440;&SD-E1BA;&SD-E0BC;&SD-A47C;&SD-A5EB;&SD-A47E;&SD-CA58;&SD-AB65;&SD-A5F1;&SD-A444;&SD-A642;&SD-CFC1;&SD-A6A8;&SD-A6A8;&SD-A6A8;&SD-A6A8;&SD-A6B0;
+<lb n="0326b09" ed="T"/>&SD-A5D9;&SD-A458;&SD-A660;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A5B5;&SD-DAAF;&SD-A5E6;&SD-A5E5;&SD-E0B1;&SD-A47C;&SD-A5B5;&SD-B1DC;&SD-A5D9;
+<lb n="0326b10" ed="T"/>&SD-A656;&SD-A5E5;&SD-A6A9;&SD-A67A;&SD-A5E5;&SD-A5F1;&SD-A67A;&SD-AF59;&SD-DA75;</p>
+<lb n="0326b11" ed="T"/><p id="pT18p0326b1101">旋轉真言。</p>
+<lb n="0326b12" ed="T"/><p lang="san-sd" id="pT18p0326b1201" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A45C;&SD-A878;&SD-A4B7;&SD-A5B5;&SD-A67A;&SD-A5E5;&SD-A5F7;&SD-CFC1;</p>
+<lb n="0326b13" ed="T"/><p id="pT18p0326b1301">奉送。</p>
+<lb n="0326b14" ed="T"/><p lang="san-sd" id="pT18p0326b1401" type="dharani">&SD-DA42;&SD-CBA7;&SD-A55F;&SD-A67A;&SD-B7A3;&SD-A661;&SD-A67A;&SD-AF5A;&SD-B6BC;&SD-A67C;&SD-AF73;&SD-B6C8;&SD-CF55;&SD-A5F1;&SD-A564;&SD-A5AD;&SD-A459;&SD-A458;
+<lb n="0326b15" ed="T"/>&SD-DA79;&SD-A56D;&SD-E3AD;&SD-D9F9;&SD-A658;&SD-A66E;&SD-A5FB;&SD-A5B9;&SD-A5A9;&SD-A5FD;&SD-A458;&SD-A5E5;&SD-A5A9;&SD-A5F1;&SD-A55B;&SD-E074;&SD-A5B5;&SD-DAAF;
+<lb n="0326b16" ed="T"/>&SD-A67A;&SD-AF59;&SD-E0A8;</p>
+<lb n="0326b17" ed="T"/><p id="pT18p0326b1701">寶印。</p>
+<lb n="0326b18" ed="T"/><p lang="san-sd" id="pT18p0326b1801" type="dharani">&SD-E074;&SD-A656;&SD-E04A;&SD-A5FD;&SD-A5DB;&SD-A670;&SD-A47C;&SD-E05D;&SD-A67A;&SD-B7A3;&SD-E043;&SD-AA76;&SD-A5ED;&SD-CBEB;&SD-A6AB;&SD-A444;&SD-A642;&SD-A656;
+<lb n="0326b19" ed="T"/>&SD-A5FD;&SD-A440;&SD-A656;&SD-A4A4;&SD-A5A9;&SD-A660;&SD-A656;&SD-A9BD;&SD-A55B;&SD-A8D6;&SD-E05F;</p>
+<lb n="0326b20" ed="T"/>
+<lb n="0326b21" ed="T"/><p lang="san-sd" id="pT18p0326b2101" type="dharani">&SD-CFC5;&SD-B76A;&SD-A67C;&SD-A557;</p>
+<lb n="0326b22" ed="T"/><p lang="san-sd" id="pT18p0326b2201" type="dharani">&SD-A5A9;&SD-A5ED;&SD-A5E7;&SD-A558;&SD-A5D9;&SD-A5F1;&SD-A5A9;&SD-A5ED;&SD-A5E7;&SD-A557;&SD-A5F5;&SD-A66E;&SD-D7C4;&SD-A5A9;&SD-A5ED;&SD-A5A9;&SD-A5EB;&SD-A47E;
+<lb n="0326b23" ed="T"/>&SD-A7D7;&SD-A45C;&SD-A54B;&SD-A440;&SD-A5FD;&SD-E1EA;&SD-A5AF;&SD-D7C4;&SD-A5A9;&SD-A5ED;&SD-A5E7;&SD-A558;&SD-A5D9;&SD-A5F1;&SD-A4B8;&SD-A5A9;&SD-A5F1;&SD-A55D;
+<lb n="0326b24" ed="T"/>&SD-A5ED;&SD-A5AF;&SD-E0BC;&SD-A44C;&SD-A656;&SD-E2ED;&SD-A440;&SD-A5A9;&SD-A440;&SD-A658;&SD-A47E;&SD-AA5E;&SD-A440;&SD-A5A9;&SD-E040;&SD-D7C4;&SD-A5E5;&SD-E0A2;
+<lb n="0326b25" ed="T"/>&SD-A5FD;&SD-A5E6;&SD-E0BC;&SD-A458;&SD-A557;&SD-E0BC;&SD-A55E;&SD-A5FD;&SD-A654;&SD-CBA7;&SD-E040;&SD-D7C4;&SD-A557;&SD-A657;&SD-E0E1;&SD-A5F1;&SD-DAAF;&SD-A557;
+<lb n="0326b26" ed="T"/>&SD-A45C;&SD-A54B;&SD-A8E2;&SD-A57D;&SD-A5E5;&SD-A562;&SD-D7C4;&SD-AABC;&SD-A5F1;&SD-A5E7;&SD-E0A9;&SD-A5E5;&SD-E0AA;&SD-A45C;&SD-A54B;&SD-A5FD;&SD-B448;&SD-A6A6;
+<lb n="0326b27" ed="T"/>&SD-A47C;&SD-E069;</p>
+<lb n="0326b28" ed="T"/><p lang="san-sd" id="pT18p0326b2801" type="dharani">&SD-E074;&SD-A5A9;&SD-A5F0;&SD-E1AF;&SD-E17C;&SD-AA69;&SD-DA75;&SD-DA71;&SD-A4C1;&SD-E17C;&SD-E1AF;&SD-E05F;</p>
+<lb n="0326b29" ed="T"/><p lang="san-sd" id="pT18p0326b2901" type="dharani">&SD-A5A9;&SD-A5F0;</p>
+<pb n="0326c" id="T18.0875.0326c" ed="T"/>
+<lb n="0326c01" ed="T"/><p lang="san-sd" id="pT18p0326c0101" type="dharani">&SD-A656;&SD-A9BD;&SD-A57B;&SD-A55B;&SD-A57B;&SD-B75D;&SD-CFCF;&SD-A440;&SD-A659;&SD-A57D;&SD-A5FD;&SD-DA79;</p>
+<lb n="0326c02" ed="T"/><p id="pT18p0326c0201">略念誦　行道及草草時念誦法。</p>
+<lb n="0326c03" ed="T"/><p id="pT18p0326c0301">先護身自器世間至被甲　次結小金剛輪印
+<lb n="0326c04" ed="T"/>真言誦之　次結根本印誦根本真言加持四
+<lb n="0326c05" ed="T"/>處　次金剛合掌置頂上誦<term lang="san-sd">&SD-DA42;</term>字二十一遍是
+<lb n="0326c06" ed="T"/>供養法也　次結根本印念誦根本真言二十
+<lb n="0326c07" ed="T"/>一遍以下不必捻珠數自茲以後隨宜行耳。</p></div1>
+<lb n="0326c08" ed="T"/><div1 type="W"><p id="pT18p0326c0801">寫本云。</p>
+<lb n="0326c09" ed="T"/><p id="pT18p0326c0901">永長二<app><lem wit="【CBETA】" resp="CBETA.maha">&CB05383;</lem><rdg wit="【大】">季</rdg></app>四月二十七日奉寫了僧賢尊。</p>
+<lb n="0326c10" ed="T"/><p id="pT18p0326c1001">請來之內以般若寺僧正手筆之本書之。</p></div1>
+</body></text></TEI.2>

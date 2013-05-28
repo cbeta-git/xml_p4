@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="big5" ?>
+<!ENTITY CB00057 "<gaiji uniflag='1' cb='CB00057' des='[口*兄]' uni='546A' nor='咒' mojikyo='M003443' mofont='Mojikyo M101' mochar='5DCD'/>" >
+<!ENTITY CB00085 "<gaiji uniflag='1' cb='CB00085' des='[口*縛]' uni='56A9' mojikyo='M004555' mofont='Mojikyo M101' mochar='7768'/>" >
+<!ENTITY CB00107 "<gaiji uniflag='1' cb='CB00107' des='[女*石]' uni='59AC' nor='妒' mojikyo='M006121' mofont='Mojikyo M102' mochar='5FBD'/>" >
+<!ENTITY CB00135 "<gaiji uniflag='1' cb='CB00135' des='[仁-二+爾]' uni='511E' nor='你' mojikyo='M001244' mofont='Mojikyo M101' mochar='914B'/>" >
+<!ENTITY CB00230 "<gaiji uniflag='1' cb='CB00230' des='[去*ㄗ]' uni='5374' nor='卻' mojikyo='M002856' mofont='Mojikyo M101' mochar='4F09'/>" >
+<!ENTITY CB00248 "<gaiji uniflag='0' cb='CB00248' des='[打-丁+致]' uni='3A16' mojikyo='M012411' mofont='Mojikyo M103' mochar='6CBB'/>" >
+<!ENTITY CB00256 "<gaiji uniflag='1' cb='CB00256' des='[打-丁+羅]' uni='651E' mojikyo='M013022' mofont='Mojikyo M103' mochar='5CB1'/>" >
+<!ENTITY CB00262 "<gaiji uniflag='1' cb='CB00262' des='[目*尼]' uni='7724' mojikyo='M023247' mofont='Mojikyo M105' mochar='572D'/>" >
+<!ENTITY CB00264 "<gaiji uniflag='1' cb='CB00264' des='[目*侯]' uni='777A' mojikyo='M023523' mofont='Mojikyo M105' mochar='5D6F'/>" >
+<!ENTITY CB00337 "<gaiji uniflag='1' cb='CB00337' des='[狂-王+者]' uni='732A' nor='豬' mojikyo='M020534' mofont='Mojikyo M104' mochar='6142'/>" >
+<!ENTITY CB00418 "<gaiji uniflag='1' cb='CB00418' des='[者*見]' uni='89A9' nor='睹' mojikyo='M034913' mofont='Mojikyo M107' mochar='4F3A'/>" >
+<!ENTITY CB00425 "<gaiji uniflag='1' cb='CB00425' des='[金*本]' uni='9262' nor='缽' mojikyo='M040317' mofont='Mojikyo M108' mochar='5019'/>" >
+<!ENTITY CB00508 "<gaiji uniflag='1' cb='CB00508' des='[鬥@(豆*寸)]' uni='9B2A' nor='鬥' mojikyo='M045649' mofont='Mojikyo M109' mochar='5438'/>" >
+<!ENTITY CB00513 "<gaiji uniflag='1' cb='CB00513' des='[專*瓦]' uni='750E' mojikyo='M057507' mofont='Mojikyo M111' mochar='8102'/>" >
+<!ENTITY CB00614 "<gaiji uniflag='1' cb='CB00614' des='[爵-(采-木)+(樊-大)]' uni='6B1D' nor='鬱' mojikyo='M015978' mofont='Mojikyo M103' mochar='7B28'/>" >
+<!ENTITY CB00691 "<gaiji uniflag='1' cb='CB00691' des='[口*麗]' uni='56C7' mojikyo='M004628' mofont='Mojikyo M101' mochar='79A7'/>" >
+<!ENTITY CB00848 "<gaiji uniflag='0' cb='CB00848' des='[黍-禾+利]' uni='2A3ED' nor='黎' mojikyo='M017903' mofont='Mojikyo M104' mochar='5BB0'/>" >
+<!ENTITY CB00904 "<gaiji uniflag='0' cb='CB00904' des='[改-己+孛]' uni='3A8D' nor='勃' mojikyo='M013211' mofont='Mojikyo M103' mochar='67D8'/>" >
+<!ENTITY CB01231 "<gaiji uniflag='0' cb='CB01231' des='[口*歇]' uni='20FD2' nor='喝' mojikyo='M004373' mofont='Mojikyo M101' mochar='733E'/>" >
+<!ENTITY CB03550 "<gaiji uniflag='0' cb='CB03550' des='[日*歇]' />" >
+<!ENTITY CB03674 "<gaiji uniflag='0' cb='CB03674' des='[腦-月+骨]' />" >
+<!ENTITY CI0001 "<gaiji uniflag='1' cb='CBx0001' des='礔[石*歷]' uni='7914;7930;' nor='霹靂' cx='礔＆CB00269；' mojikyo='M024583' mofont='Mojikyo M105' mochar='83DF'/>" >
+<!ENTITY SD-A448 "<gaiji uniflag='' cb='SD-A448' cbdia='ko' udia='ko' sdchar='人'/>" >
+<!ENTITY SD-A458 "<gaiji uniflag='' cb='SD-A458' cbdia='ga' udia='ga' sdchar='丫'/>" >
+<!ENTITY SD-A47E "<gaiji uniflag='' cb='SD-A47E' cbdia='ci' udia='ci' sdchar='才'/>" >
+<!ENTITY SD-A4DC "<gaiji uniflag='' cb='SD-A4DC' cbdia='.ti' udia='&#x1E6D;i' sdchar='廿'/>" >
+<!ENTITY SD-A54B "<gaiji uniflag='' cb='SD-A54B' cbdia='.na' udia='&#x1E47;a' sdchar='仕'/>" >
+<!ENTITY SD-A557 "<gaiji uniflag='' cb='SD-A557' cbdia='ta' udia='ta' sdchar='凹'/>" >
+<!ENTITY SD-A558 "<gaiji uniflag='' cb='SD-A558' cbdia='taa' udia='t&#x0101;' sdchar='出'/>" >
+<!ENTITY SD-A559 "<gaiji uniflag='' cb='SD-A559' cbdia='ti' udia='ti' sdchar='凸'/>" >
+<!ENTITY SD-A564 "<gaiji uniflag='' cb='SD-A564' cbdia='thaa' udia='th&#x0101;' sdchar='卡'/>" >
+<!ENTITY SD-A56F "<gaiji uniflag='' cb='SD-A56F' cbdia='da' udia='da' sdchar='叨'/>" >
+<!ENTITY SD-A57B "<gaiji uniflag='' cb='SD-A57B' cbdia='dha' udia='dha' sdchar='叻'/>" >
+<!ENTITY SD-A57D "<gaiji uniflag='' cb='SD-A57D' cbdia='dhi' udia='dhi' sdchar='囚'/>" >
+<!ENTITY SD-A5A9 "<gaiji uniflag='' cb='SD-A5A9' cbdia='na' udia='na' sdchar='巧'/>" >
+<!ENTITY SD-A5AB "<gaiji uniflag='' cb='SD-A5AB' cbdia='ni' udia='ni' sdchar='市'/>" >
+<!ENTITY SD-A5B5 "<gaiji uniflag='' cb='SD-A5B5' cbdia='pa' udia='pa' sdchar='扔'/>" >
+<!ENTITY SD-A5B6 "<gaiji uniflag='' cb='SD-A5B6' cbdia='paa' udia='p&#x0101;' sdchar='扒'/>" >
+<!ENTITY SD-A5D5 "<gaiji uniflag='' cb='SD-A5D5' cbdia='bo' udia='bo' sdchar='白'/>" >
+<!ENTITY SD-A5D9 "<gaiji uniflag='' cb='SD-A5D9' cbdia='bha' udia='bha' sdchar='矛'/>" >
+<!ENTITY SD-A5E5 "<gaiji uniflag='' cb='SD-A5E5' cbdia='ma' udia='ma' sdchar='亙'/>" >
+<!ENTITY SD-A5E7 "<gaiji uniflag='' cb='SD-A5E7' cbdia='mi' udia='mi' sdchar='亦'/>" >
+<!ENTITY SD-A5ED "<gaiji uniflag='' cb='SD-A5ED' cbdia='mo' udia='mo' sdchar='伕'/>" >
+<!ENTITY SD-A5F1 "<gaiji uniflag='' cb='SD-A5F1' cbdia='ya' udia='ya' sdchar='伏'/>" >
+<!ENTITY SD-A5F5 "<gaiji uniflag='' cb='SD-A5F5' cbdia='yu' udia='yu' sdchar='仰'/>" >
+<!ENTITY SD-A5FB "<gaiji uniflag='' cb='SD-A5FB' cbdia='ya.m' udia='ya&#x1E43;' sdchar='兇'/>" >
+<!ENTITY SD-A5FD "<gaiji uniflag='' cb='SD-A5FD' cbdia='ra' udia='ra' sdchar='先'/>" >
+<!ENTITY SD-A640 "<gaiji uniflag='' cb='SD-A640' cbdia='ri' udia='ri' sdchar='共'/>" >
+<!ENTITY SD-A642 "<gaiji uniflag='' cb='SD-A642' cbdia='ru' udia='ru' sdchar='冰'/>" >
+<!ENTITY SD-A650 "<gaiji uniflag='' cb='SD-A650' cbdia='le' udia='le' sdchar='同'/>" >
+<!ENTITY SD-A656 "<gaiji uniflag='' cb='SD-A656' cbdia='va' udia='va' sdchar='向'/>" >
+<!ENTITY SD-A657 "<gaiji uniflag='' cb='SD-A657' cbdia='vaa' udia='v&#x0101;' sdchar='名'/>" >
+<!ENTITY SD-A658 "<gaiji uniflag='' cb='SD-A658' cbdia='vi' udia='vi' sdchar='合'/>" >
+<!ENTITY SD-A666 "<gaiji uniflag='' cb='SD-A666' cbdia='`su' udia='&#x015B;u' sdchar='圩'/>" >
+<!ENTITY SD-A66E "<gaiji uniflag='' cb='SD-A66E' cbdia='.sa' udia='&#x1E63;a' sdchar='好'/>" >
+<!ENTITY SD-A67A "<gaiji uniflag='' cb='SD-A67A' cbdia='sa' udia='sa' sdchar='屹'/>" >
+<!ENTITY SD-A6A6 "<gaiji uniflag='' cb='SD-A6A6' cbdia='sa.m' udia='sa&#x1E43;' sdchar='戌'/>" >
+<!ENTITY SD-A6A8 "<gaiji uniflag='' cb='SD-A6A8' cbdia='ha' udia='ha' sdchar='成'/>" >
+<!ENTITY SD-A6A9 "<gaiji uniflag='' cb='SD-A6A9' cbdia='haa' udia='h&#x0101;' sdchar='扣'/>" >
+<!ENTITY SD-A8A5 "<gaiji uniflag='' cb='SD-A8A5' cbdia='bhya.h' udia='bhya&#x1E25;' sdchar='言'/>" >
+<!ENTITY SD-A8A6 "<gaiji uniflag='' cb='SD-A8A6' cbdia='mya' udia='mya' sdchar='谷'/>" >
+<!ENTITY SD-A8E2 "<gaiji uniflag='' cb='SD-A8E2' cbdia='sya' udia='sya' sdchar='兩'/>" >
+<!ENTITY SD-AABC "<gaiji uniflag='' cb='SD-AABC' cbdia='pra' udia='pra' sdchar='盲'/>" >
+<!ENTITY SD-AF59 "<gaiji uniflag='' cb='SD-AF59' cbdia='tva' udia='tva' sdchar='玆'/>" >
+<!ENTITY SD-B065 "<gaiji uniflag='' cb='SD-B065' cbdia='svaa' udia='sv&#x0101;' sdchar='送'/>" >
+<!ENTITY SD-B2CC "<gaiji uniflag='' cb='SD-B2CC' cbdia='sma' udia='sma' sdchar='絆'/>" >
+<!ENTITY SD-B769 "<gaiji uniflag='' cb='SD-B769' cbdia='rya' udia='rya' sdchar='搏'/>" >
+<!ENTITY SD-B7A3 "<gaiji uniflag='' cb='SD-B7A3' cbdia='rva' udia='rva' sdchar='楠'/>" >
+<!ENTITY SD-CD4D "<gaiji uniflag='' cb='SD-CD4D' cbdia='.s.ti' udia='&#x1E63;&#x1E6D;i' sdchar='泏'/>" >
+<!ENTITY SD-CEE4 "<gaiji uniflag='' cb='SD-CEE4' cbdia='pta' udia='pta' sdchar='挕'/>" >
+<!ENTITY SD-CF55 "<gaiji uniflag='' cb='SD-CF55' cbdia='tta' udia='tta' sdchar='柰'/>" >
+<!ENTITY SD-CFC5 "<gaiji uniflag='' cb='SD-CFC5' cbdia='a' udia='a' sdchar='狣'/>" >
+<!ENTITY SD-D957 "<gaiji uniflag='' cb='SD-D957' sdchar='揨'/>" >
+<!ENTITY SD-D9F9 "<gaiji uniflag='' cb='SD-D9F9' cbdia='ddha' udia='ddha' sdchar='湀'/>" >
+<!ENTITY SD-D9FA "<gaiji uniflag='' cb='SD-D9FA' cbdia='ddhaa' udia='ddh&#x0101;' sdchar='湑'/>" >
+<!ENTITY SD-D9FC "<gaiji uniflag='' cb='SD-D9FC' cbdia='ddhe' udia='ddhe' sdchar='渃'/>" >
+<!ENTITY SD-DA40 "<gaiji uniflag='' cb='SD-DA40' cbdia='ksa.m' udia='ksa&#x1E43;' sdchar='湨'/>" >
+<!ENTITY SD-DA42 "<gaiji uniflag='' cb='SD-DA42' cbdia='o.m' udia='o&#x1E43;' sdchar='湡'/>" >
+<!ENTITY SD-E040 "<gaiji uniflag='' cb='SD-E040' cbdia='naa.m' udia='n&#x0101;&#x1E43;' sdchar='觡'/>" >
+<!ENTITY SD-E059 "<gaiji uniflag='' cb='SD-E059' cbdia='ddhya' udia='ddhya' sdchar='貄'/>" >
+<!ENTITY SD-E0AA "<gaiji uniflag='' cb='SD-E0AA' cbdia='hu' udia='hu' sdchar='鄋'/>" >
+<!ENTITY SD-E0BC "<gaiji uniflag='' cb='SD-E0BC' cbdia='su' udia='su' sdchar='鉏'/>" >
+<!ENTITY SD-E3AD "<gaiji uniflag='' cb='SD-E3AD' cbdia='bu' udia='bu' sdchar='蒤'/>" >

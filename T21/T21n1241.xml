@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "T21n1241.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1241 伽馱金剛真言</title>
+			<author></author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.6 $ (Big5)<date>$Date: 2009/04/23 08:01:44 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:01:44 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 21, No. 1241 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language id="eng">English</language>
+			<language id="chi">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+	<change>
+		<date>20000131/09:31:29</date>
+		<respStmt><name>CW</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT (00/01/05)</item>
+	</change>
+<!--
+$Log: T21n1241.xml,v $
+Revision 1.6  2009/04/23 08:01:44  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.5  2006/04/12 21:55:54  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.3  2004/04/20 08:39:10  maha
+「版本日期」標記修訂
+
+Revision 1.2  2003/06/23 06:16:50  saywhat
+[＊]校勘插入XML
+
+Revision 1.1.1.1  2003/05/05 04:09:27  ray
+recover cvs
+
+Revision 1.15  2002/11/28 10:06:36  saywhat
+校勘插入處理
+
+Revision 1.14  2002/11/04 10:46:13  ray
+tei.2 => TEI.2
+
+Revision 1.13  2002/10/21 08:13:34  ray
+移動 <anchor>+<note>, <anchor>+雙圈
+
+Revision 1.12  2002/10/07 13:13:02  moved
+modified
+
+Revision 1.11  2002/07/29 09:57:19  vinking
+modified lang
+
+Revision 1.10  2002/04/08 09:07:12  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.9  2001/11/05 06:14:14  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.8  2001/07/24 06:53:37  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.7  2001/03/30 05:57:27  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.6  2001/03/25 09:18:35  ray
+add <milestone>
+
+Revision 1.5  2001/02/07 06:57:18  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.4  2001/02/03 07:47:11  chris
+Added keywords $Revision: 1.6 $, $Date: 2009/04/23 08:01:44 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0202c06" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0202c07" ed="T"/>
+<lb n="0202c08" ed="T"/><head type="no">No. 1241</head><div1 type="dharani">
+<lb n="0202c09" ed="T"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><note n="0202023" resp="Taisho" place="foot text" type="orig">【原】三十帖策子第二十六，【甲】黃檗版淨嚴等加筆本</note>伽馱金剛真言</jhead></juan>
+<lb n="0202c10" ed="T"/>
+<lb n="0202c11" ed="T"/><p id="pT21p0202c1101" type="dharani">那慕　囉怛那　怛囉夜野　那莫　失旃荼
+<lb n="0202c12" ed="T"/>&CB00085;日囉<note place="inline">二合</note>　跛拏曳　摩訶&CB01223;乞叉　細那
+<lb n="0202c13" ed="T"/>　跛哆曳　那謨　皤哦&CB00085;底　阿哩也&CB00085;日囉
+<lb n="0202c14" ed="T"/><note place="inline">二合</note>　哦馱哩　阿禰笴　囉思彌<note place="inline">二合</note>　娑哆
+<lb n="0202c15" ed="T"/>　娑賀薩<note n="0202024" resp="Taisho" place="foot text" type="orig">囉＝羅【甲】＊</note><app n="0202024"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【甲】">羅</rdg></app><note place="inline">二合</note>　&CB00425;囉<note place="inline"><note n="0202025" resp="Taisho" place="foot text" type="orig">（二）＋合【甲】＊</note><app n="0202025"><lem wit="【大】">合</lem><rdg resp="Taisho" wit="【甲】">二合</rdg></app></note>　<note n="0202026" resp="Taisho" place="foot text" type="orig">（&CB00085;）＋日【甲】</note><app n="0202026"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【甲】">&CB00085;日</rdg></app>囉<note place="inline">二合</note>　哩哆
+<lb n="0202c16" ed="T"/>　地&CB00425;哆<note place="inline">二合</note>　底惹者細　嗚哦囉<note place="inline">二合</note>　毘
+<lb n="0202c17" ed="T"/>摩皤耶&CB00135;笴曳　喻耆曳　毘沙麼<note place="inline">二合</note>　皤
+<lb n="0202c18" ed="T"/>耆&CB00135;曳　沙母佉曳　馱&CB00085;<note place="inline">二合</note>　馱舍禰
+<lb n="0202c19" ed="T"/>　怛囉<note place="inline">二合</note>曳　尾計&CB00069;那<note place="inline">二合</note>　計死曳　阿禰
+<lb n="0202c20" ed="T"/>笴　尾尾馱　嚕跛　吠<note n="0202027" resp="Taisho" place="foot text" type="orig">娑＝沙【甲】</note><app n="0202027"><lem wit="【大】">娑</lem><rdg resp="Taisho" wit="【甲】">沙</rdg></app>馱囉　&CB00135;曳伊
+<lb n="0202c21" ed="T"/>翳醯呬　皤<note n="0202028" resp="Taisho" place="foot text" type="orig">哦＝&CB00344;【甲】</note><app n="0202028"><lem wit="【大】">哦</lem><rdg resp="Taisho" wit="【甲】">&CB00344;</rdg></app>&CB00085;底　摩賀&CB00085;日囉<note place="inline">二合</note>　哦
+<lb n="0202c22" ed="T"/>馱哩　怛囉<note place="inline">二合</note>耶嚷　囉怛那<note place="inline">二合</note>&CB03509;　娑底
+<lb n="0202c23" ed="T"/>曳<note place="inline">二合</note>那　怛&CB00135;也佗　唵　阿笴荼　阿笴
+<lb n="0202c24" ed="T"/>荼　&CB00085;<anchor id="fxT21p0202c01"/>囉提畔　摩醯捨&CB00085;<note place="inline">二合</note><note n="0202029" resp="Taisho" place="foot text" type="orig">楞＝&CB03123;【甲】＊</note><app n="0202029"><lem wit="【大】">楞</lem><rdg resp="Taisho" wit="【甲】">&CB03123;</rdg></app>　哦嚕
+<lb n="0202c25" ed="T"/>騰尾瑟弩<note place="inline">二合</note>　古摩<app source="0202029" type="＊"><lem wit="【大】">楞</lem><rdg resp="Taisho" wit="【甲】">&CB03123;</rdg></app>　皤囉<note place="inline">二合</note>　賀<note n="0202030" resp="Taisho" place="foot text" type="orig">麼＝摩【甲】</note><app n="0202030"><lem wit="【大】">麼</lem><rdg resp="Taisho" wit="【甲】">摩</rdg></app>
+<lb n="0202c26" ed="T"/>&CB03509;　印&CB04011;楞<note place="inline">二合</note>　左&CB04011;<note n="0202031" resp="Taisho" place="foot text" type="orig">&CB03123;＝楞【甲】＊</note><app n="0202031"><lem wit="【大】">&CB03123;</lem><rdg resp="Taisho" wit="【甲】">楞</rdg></app><note place="inline">二合</note>　阿地&CB00077;<note place="inline">丁已</note>
+<lb n="0202c27" ed="T"/>&CB01223;乞洗<note place="inline">二合</note>囉乞叉<note n="0202032" resp="Taisho" place="foot text" type="orig">〔二合〕－【甲】</note><app n="0202032"><lem wit="【大】"><note place="inline">二合</note></lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>僧　部等　比捨嚕
+<lb n="0202c28" ed="T"/>苟畔澄　阿耆&CB00135;<note place="inline">二合</note>耶瞢<note place="inline">用比</note>　&CB00085;嚕&CB03509;　古
+<lb n="0202c29" ed="T"/>吠楞　地&CB00069;<note place="inline">二合</note>哆囉瑟置<app source="0202031" type="＊"><lem wit="【大】">&CB03123;</lem><rdg resp="Taisho" wit="【甲】">楞</rdg></app><note place="inline">二合</note>　尾嚕荼
+<pb n="0203a" id="T21.1241.0203a" ed="T"/>
+<lb n="0203a01" ed="T"/>&CB00040;　尾嚕跛乞洗<note place="inline">二合上</note>僧　古笴&CB00069;能<note place="inline">二合</note>　底
+<lb n="0203a02" ed="T"/>哩<note place="inline">二合</note>笴&CB00069;<note n="0203001" resp="Taisho" place="foot text" type="orig">能＋（二合）夾註【甲】</note><app n="0203001"><lem wit="【大】">能</lem><rdg resp="Taisho" wit="【甲】">能<note place="inline">二合</note></rdg></app>　薩土<note place="inline">二合</note>　囉笴&CB00069;能<note place="inline">二合</note>
+<lb n="0203a03" ed="T"/>瞿笴&CB00069;能<note place="inline">二合</note>　摩賀笴&CB00069;能<note place="inline">二合</note>　摩賀笴楞
+<lb n="0203a04" ed="T"/>　那地計舍&CB00085;<note place="inline">二合</note>&CB03123;　毘凌<note place="inline">二合</note>義哩　微那
+<lb n="0203a05" ed="T"/>也&CB00040;　尾那<note n="0203002" resp="Taisho" place="foot text" type="orig">耶＝也【甲】</note><app n="0203002"><lem wit="【大】">耶</lem><rdg resp="Taisho" wit="【甲】">也</rdg></app>&CB00040;　馱摩&CB00040;半左&CB00040;　盧賀
+<lb n="0203a06" ed="T"/>&CB00040;　灑瑟微<note place="inline">二合</note>弟&CB00085;　古吒也<note place="inline">二合</note>義哩&CB00040;
+<lb n="0203a07" ed="T"/>　土力伽<note place="inline">二合</note>笴底也<note place="inline">二合</note>耶女<note place="inline">澄反</note>凌<note place="inline">二合</note>　摩賀
+<lb n="0203a08" ed="T"/>笴底也<note place="inline">二合</note>耶女凌<note place="inline">二合</note>　伊<note place="inline">翳反</note>灑女凌<note place="inline">二合</note>
+<lb n="0203a09" ed="T"/>　乃哩底養　耶娑悉尾<note place="inline">二合</note>女凌<note place="inline">二合</note>　笴哩
+<lb n="0203a10" ed="T"/>　摩賀笴凌　&CB00085;日囉<note place="inline"><app source="0202025" type="＊"><lem wit="【大】">合</lem><rdg resp="Taisho" wit="【甲】">二合</rdg></app></note>笴凌　主囉笴凌
+<lb n="0203a11" ed="T"/>　阿哦&CB00135;<note place="inline"><app source="0202025" type="＊"><lem wit="【大】">合</lem><rdg resp="Taisho" wit="【甲】">二合</rdg></app></note>孕　&CB00085;耶毘養<note place="inline"><app source="0202025" type="＊"><lem wit="【大】">合</lem><rdg resp="Taisho" wit="【甲】">二合</rdg></app></note>　灑哩笴&CB00085;底
+<lb n="0203a12" ed="T"/>　娑哆乞洗<note place="inline"><app source="0202025" type="＊"><lem wit="【大】">合</lem><rdg resp="Taisho" wit="【甲】">二合</rdg></app></note>　娑仡&CB00077;<note place="inline">二合</note>　印馱羅<note place="inline">二合</note>
+<lb n="0203a13" ed="T"/>&CB00135;　&CB00085;羅<note place="inline">二合</note>訶麼<note place="inline">二合</note>&CB00135;姑麼&CB04014;　麼醯薩&CB00085;
+<lb n="0203a14" ed="T"/><note place="inline">二合</note>&CB04014;　吠瑟拏<note place="inline"><app source="0202025" type="＊"><lem wit="【大】">合</lem><rdg resp="Taisho" wit="【甲】">二合</rdg></app></note>尾　蘇皤&CB04326;　左母<note n="0203003" resp="Taisho" place="foot text" type="orig">娘＝孃【甲】</note><app n="0203003"><lem wit="【大】">娘</lem><rdg resp="Taisho" wit="【甲】">孃</rdg></app>
+<lb n="0203a15" ed="T"/><note place="inline">二合</note>　嘍地&CB04014;<note place="inline">二合</note>　&CB00085;囉&CB04003;　苟吠&CB04014;　曳吉
+<lb n="0203a16" ed="T"/>&CB00135;<note place="inline"><app source="0202025" type="＊"><lem wit="【大】">合</lem><rdg resp="Taisho" wit="【甲】">二合</rdg></app></note>曳　娑麼曳　底瑟&CB00062;<note place="inline">二合</note>底<note n="0203004" resp="Taisho" place="foot text" type="orig">黨＝&CB14610;【甲】</note><app n="0203004"><lem wit="【大】">黨</lem><rdg resp="Taisho" wit="【甲】">&CB14610;</rdg></app>　阿
+<lb n="0203a17" ed="T"/>&CB00085;&CB00069;多<note place="inline">二合</note>　已寫弭　始渠楞<note place="inline">二合</note>　其&CB00069;<note place="inline">二
+<lb n="0203a18" ed="T"/>合</note>訶娜<note place="inline">二合</note>　其&CB00069;<note place="inline">二合</note>訶<note n="0203005" resp="Taisho" place="foot text" type="orig">娜＋（二合）夾註【甲】</note><app n="0203005"><lem wit="【大】">娜</lem><rdg resp="Taisho" wit="【甲】">娜<note place="inline">二合</note></rdg></app>　唵　遇嚕遇
+<lb n="0203a19" ed="T"/>嚕　虎嚕虎嚕　主魯主魯　母魯母魯　馱
+<lb n="0203a20" ed="T"/>摩馱摩　囉哦囉哦　布囉布囉布囉耶　布
+<lb n="0203a21" ed="T"/>囉耶　阿尾娑阿尾娑　皤哦&CB00085;底　摩訶&CB00085;
+<lb n="0203a22" ed="T"/>日囉<note place="inline">二合</note>哦馱哩　死馱失者<note place="inline">二合</note>&CB03293;<note place="inline">地也</note>　摩
+<lb n="0203a23" ed="T"/>訶&CB00085;日囉<note place="inline">二合</note>　跛&CB00135;　羅若跛耶底　唵　乞
+<lb n="0203a24" ed="T"/>哩<note place="inline">二合</note>　訶醯　訶訶訶　吽破吒　薩&CB00085;<note place="inline">二合</note>
+<lb n="0203a25" ed="T"/>訶</p>
+<lb n="0203a26" ed="T"/><juan n="001" fun="close"><jhead>伽馱金剛真<note n="0203006" resp="Taisho" place="foot text" type="orig">此下甲本奧書云貞享四年中春十三挍&CB00677;了淨嚴四十九載，元祿十六年正月廿三日以淨嚴和上之本再校了尊教</note>言</jhead></juan></div1>
+</body></text></TEI.2>

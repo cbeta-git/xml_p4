@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "T18n0854.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 0854 胎藏梵字真言</title>
+			<author>失譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.29 $ (Big5)<date>$Date: 2009/04/23 07:59:43 $</date></edition>
+	</editionStmt>
+	<extent>2卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 07:59:43 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 18, No. 854 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language id="san-sd">Sanskrit-Siddam</language>
+			<language id="eng">English</language>
+			<language id="chi">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+	<change>
+		<date>20000105/17:54:03</date>
+		<respStmt><name>CW</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT (00/01/05)</item>
+	</change>
+<!--
+$Log: T18n0854.xml,v $
+Revision 1.29  2009/04/23 07:59:43  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.28  2008/09/29 13:31:18  saywhat
+p0167c04,p0167b29  SD-A5CF(bi) 改成 SD-A658(vi)
+
+Revision 1.27  2007/05/13 14:17:44  saywhat
+p0164c07[SD-A558>SD-CA57]; p0164c10[SD-A557>SD-A55D],[SD-A64A>SD-A650]
+
+Revision 1.25  2007/05/02 02:25:11  saywhat
+劉老師提出的修訂：p0164c07-c08,c11,c20-21,... SD-A5CF=>SD-A658等等
+
+Revision 1.24  2006/09/07 05:24:50  saywhat
+p0168b06,p0171a30  SD-AF79 => SD-E4BB
+
+Revision 1.23  2006/08/14 12:33:52  saywhat
+p0164c08 &SD-AF77; => &SD-D9FC;
+
+Revision 1.22  2006/08/12 15:00:13  saywhat
+p0164c12 &SD-A666;&SD-AF77; => &SD-A666;&SD-D9FC;
+
+Revision 1.21  2006/04/12 21:55:24  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.19  2006/03/20 14:24:29  saywhat
+SD-A65A => SD-E3AD , SD-AF72 => SD-D9FA , SD-AF71 => SD-D9F9
+
+Revision 1.18  2006/03/20 04:33:09  saywhat
+&SD-A65A;（vu）=> &SD-E3AD;（bu）, &SD-AF72;（dvaa）=> &SD-D9FA;（ddhaa）, &SD-AF71;（dva）=> &SD-D9F9;（ddha）
+
+Revision 1.17  2006/03/16 10:23:06  saywhat
+&SD-A65A;&SD-AF72;（vu dvaa）=> &SD-E3AD;& SD-D9FA;（bu ddhaa）
+
+Revision 1.16  2004/12/22 04:29:10  saywhat
+SD-A65E => SD-A5D5
+
+Revision 1.15  2004/10/17 11:34:27  saywhat
+段落前加入圈點
+
+Revision 1.14  2004/10/17 03:41:24  saywhat
+p0168c03 added SD-A658
+
+Revision 1.13  2004/09/11 10:10:36  saywhat
+刪除空的 juan close
+
+Revision 1.12  2004/09/11 10:09:21  saywhat
+刪除空的 juan close
+
+Revision 1.11  2004/04/20 08:38:33  maha
+「版本日期」標記修訂
+
+Revision 1.10  2004/04/20 03:25:19  maha
+將 type="inline" 或 rend="inline" 改成 place="inline"
+
+Revision 1.9  2004/04/02 09:27:46  saywhat
+　</p>→<p>
+
+Revision 1.8  2004/03/16 02:18:38  ray
+resp 屬性 統一格式為 CBETA.xxx
+
+Revision 1.7  2004/02/20 07:06:06  moved
+modified："校勘括號不對稱"修訂
+
+Revision 1.6  2004/01/02 05:53:40  maha
+<note mod>裡的corr2app
+
+Revision 1.5  2003/12/29 01:47:02  saywhat
+run cbent
+
+Revision 1.4  2003/12/22 04:00:39  saywhat
+E0F8→E2B7
+
+Revision 1.3  2003/06/23 06:13:20  saywhat
+[＊]校勘插入XML
+
+Revision 1.2  2003/06/16 03:11:00  saywhat
+修訂「疑似對應的＊校勘」
+
+Revision 1.1.1.1  2003/05/05 04:09:05  ray
+recover cvs
+
+Revision 1.34  2002/12/04 01:47:33  saywhat
+校勘插入處理
+
+Revision 1.33  2002/11/04 10:44:19  ray
+tei.2 => TEI.2
+
+Revision 1.32  2002/10/07 13:09:48  moved
+modified
+
+Revision 1.31  2002/07/29 09:44:51  vinking
+modified lang
+
+Revision 1.30  2002/07/12 05:31:08  saywhat
+修訂校勘數字位置
+
+Revision 1.29  2002/04/08 08:58:17  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.28  2001/07/24 06:52:13  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.27  2001/06/22 08:16:22  vinking
+CD7  修訂
+
+Revision 1.26  2001/06/20 06:29:09  saywhat
+<p>　→<p>
+
+Revision 1.25  2001/06/19 13:55:33  saywhat
+modified normal
+
+Revision 1.24  2001/06/18 11:50:27  saywhat
+modified siddham
+
+Revision 1.23  2001/05/28 08:17:49  vinking
+modified 比對報告修訂。
+
+Revision 1.22  2001/05/25 08:58:05  ray
+經號統一為四碼
+
+Revision 1.21  2001/03/30 05:47:53  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.20  2001/03/25 09:09:12  ray
+add <milestone>
+
+Revision 1.19  2001/03/06 02:10:53  RAY
+by csy
+
+Revision 1.18  2001/02/07 06:53:05  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.17  2001/02/03 07:42:47  chris
+Added keywords $Revision: 1.29 $, $Date: 2009/04/23 07:59:43 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<pb n="0164c" id="T18.0854.0164c" ed="T"/>
+<lb n="0164c01" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0164c02" ed="T"/><head type="no">No. 854</head>
+<lb n="0164c03" ed="T"/><juan n="001" fun="open"><mulu n="001" type="卷"/><note n="0164008" resp="Taisho" place="foot text" type="orig">【原】平安時代寫興然本東寺三密藏藏本，【甲】平安時代淳祐寫石山寺藏本</note><jhead>胎藏梵字真言上卷</jhead></juan>
+<lb n="0164c04" ed="T"/>
+<lb n="0164c05" ed="T"/><div1 type="jing"><p id="pT18p0164c0501">灑淨真言。</p>
+<lb n="0164c06" ed="T"/><p lang="san-sd" id="pT18p0164c0601" type="dharani">&SD-D5B5;&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFC5;&SD-DA44;&SD-A559;&SD-A67A;&SD-A5EB;&SD-D7C4;&SD-A458;&SD-A458;
+<lb n="0164c07" ed="T"/>&SD-A5A9;&SD-A67A;&SD-A5EB;&SD-D7C4;&SD-A67A;&SD-A5E5;<note n="0164009" resp="Taisho" place="foot text" type="orig">&SD-A558;＝&SD-CA57;【甲】</note><note n="0164009" resp="CBETA" type="mod">&SD-A558;＝&SD-CA57;【甲】【CB】</note><app n="0164009"><lem resp="CBETA.say" wit="【CBETA】">&SD-CA57;</lem><rdg wit="【大】">&SD-A558;</rdg><rdg resp="Taisho" wit="【甲】">&SD-CA57;</rdg></app>&SD-A5AD;&SD-A458;&SD-A55D;&SD-D7C4;&SD-DA44;&SD-CBA7;&SD-A559;&SD-A658;&SD-A666;
+<lb n="0164c08" ed="T"/>&SD-D9FC;&SD-D7C4;&SD-A57B;&SD-DA77;&SD-A57C;&SD-A55B;&SD-A658;&SD-A66A;&SD-A57B;&SD-A5AB;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0164c09" ed="T"/><p id="pT18p0164c0901"><note n="0164010" resp="Taisho" place="foot text" type="orig">持地＝地神【甲】</note><app n="0164010"><lem wit="【大】">持地</lem><rdg resp="Taisho" wit="【甲】">地神</rdg></app>真言曰。</p>
+<lb n="0164c10" ed="T"/><p lang="san-sd" id="pT18p0164c1001" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A67A;&SD-DA46;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-D7C4;&SD-A57D;&SD-CD4C;
+<lb n="0164c11" ed="T"/>&SD-A5AA;<note n="0164011" resp="Taisho" place="foot text" type="orig">&SD-A57D;＝&SD-A559;【甲】</note><app n="0164011"><lem wit="【大】">&SD-A57D;</lem><rdg resp="Taisho" wit="【甲】">&SD-A559;</rdg></app>&SD-CD4D;<note n="0164012" resp="Taisho" place="foot text" type="orig">&SD-A557;＝&SD-A55D;【甲】</note><note n="0164012" resp="CBETA" type="mod">&SD-A557;＝&SD-A55D;【甲】【CB】</note><app n="0164012"><lem resp="CBETA.say" wit="【CBETA】">&SD-A55D;</lem><rdg wit="【大】">&SD-A557;</rdg><rdg resp="Taisho" wit="【甲】">&SD-A55D;</rdg></app>&SD-CFC5;&SD-A47C;<note n="0164013" resp="Taisho" place="foot text" type="orig">&SD-A64A;＝&SD-A650;【甲】</note><note n="0164013" resp="CBETA" type="mod">&SD-A64A;＝&SD-A650;【甲】【CB】</note><app n="0164013"><lem resp="CBETA.say" wit="【CBETA】">&SD-A650;</lem><rdg wit="【大】">&SD-A64A;</rdg><rdg resp="Taisho" wit="【甲】">&SD-A650;</rdg></app>&SD-D7C4;&SD-A658;&SD-A5E5;&SD-A650;&SD-D7C4;&SD-B2CC;&SD-A5FD;&SD-A551;&SD-D7C4;
+<lb n="0164c12" ed="T"/>&SD-DA44;&SD-CBA7;&SD-A559;&SD-A5B5;&SD-A640;&SD-A666;&SD-D9FC;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0164c13" ed="T"/><p id="pT18p0164c1301">持香水真言曰（押紙。已下經二具緣品）。</p>
+<lb n="0164c14" ed="T"/><p lang="san-sd" id="pT18p0164c1401" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-DAAA;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFC5;&SD-B349;&SD-A5F7;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0164c15" ed="T"/><p id="pT18p0164c1501"><note n="0164014" resp="Taisho" place="foot text" type="orig">〔略〕－【甲】</note><app n="0164014"><lem wit="【大】">略</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>奉持護摩真言曰。</p>
+<lb n="0164c16" ed="T"/><p lang="san-sd" id="pT18p0164c1601" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;<note n="0164015" resp="Taisho" place="foot text" type="orig">&SD-CFD4;＝&SD-E17A;【甲】</note><app n="0164015"><lem wit="【大】">&SD-CFD4;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17A;</rdg></app>&SD-A5E5;&SD-A6A9;&SD-A663;&SD-CA58;&SD-A458;&SD-A557;&SD-A663;&SD-CA58;
+<lb n="0164c17" ed="T"/>&SD-A440;&SD-A5FD;&SD-D7C4;&SD-DA44;&SD-A662;&SD-A5E5;&SD-A57B;&SD-DA77;&SD-A5AB;&SD-E2F7;&SD-A557;&SD-D7C4;&SD-CFC5;<note n="0164016" resp="Taisho" place="foot text" type="orig">&SD-A5DA;＝&SD-A5D9;【甲】</note><app n="0164016"><lem wit="【大】">&SD-A5DA;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5D9;</rdg></app>&SD-A656;<note n="0164017" resp="Taisho" place="foot text" type="orig">&SD-DA49;＝&SD-B064;【甲】</note><app n="0164017"><lem wit="【大】">&SD-DA49;</lem><rdg resp="Taisho" wit="【甲】">&SD-B064;</rdg></app>&SD-A6A9;
+<lb n="0164c18" ed="T"/>&SD-A656;&SD-A57B;&SD-B7C7;&SD-A67A;<note n="0164018" resp="Taisho" place="foot text" type="orig">&SD-E347;＝&SD-A5EB;【甲】</note><app n="0164018"><lem wit="【大】">&SD-E347;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5EB;</rdg></app><note n="0164019" resp="Taisho" place="foot text" type="orig">&SD-A5AA;＝&SD-CF56;【甲】</note><app n="0164019"><lem wit="【大】">&SD-A5AA;</lem><rdg resp="Taisho" wit="【甲】">&SD-CF56;</rdg></app>&SD-AABD;&SD-CEE4;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0164c19" ed="T"/><p id="pT18p0164c1901">大力大護明妃真言曰。</p>
+<lb n="0164c20" ed="T"/><p lang="san-sd" id="pT18p0164c2001" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-DA46;&SD-A557;&SD-A564;&SD-A458;&SD-A55D;&SD-A8A2;&SD-D7C4;&SD-A67A;&SD-DA46;&SD-A5D9;&SD-A5F1;&SD-A658;&SD-A458;&SD-A55D;&SD-D9F8;
+<lb n="0164c21" ed="T"/>&SD-D7C4;&SD-A658;&SD-E0AB;&SD-E043;&SD-A452;&SD-D9F8;&SD-D7C4;&SD-A67A;&SD-DA46;&SD-A564;&SD-D7C4;&SD-A6B2;&SD-A456;&SD-D7C4;&SD-A5FD;&SD-A6B4;&SD-A5E5;&SD-A6A9;
+<lb n="0164c22" ed="T"/>&SD-A656;&SD-A650;&SD-D7C4;&SD-A67A;&SD-B7A3;&SD-A557;<note n="0164020" resp="Taisho" place="foot text" type="orig">&SD-A563;＝&SD-A564;【甲】</note><note n="0164020" resp="CBETA" type="mod">&SD-A563;＝&SD-A564;【甲】【CB】</note><app n="0164020"><lem resp="CBETA.say" wit="【CBETA】">&SD-A564;</lem><rdg wit="【大】">&SD-A563;</rdg><rdg resp="Taisho" wit="【甲】">&SD-A564;</rdg></app>&SD-A458;&SD-A557;&SD-D7C4;&SD-A5B9;&SD-B76F;&SD-A5AB;<note n="0164021" resp="Taisho" place="foot text" type="orig">&SD-E149;＝&SD-E149;【甲】</note><app n="0164021"><lem wit="【大】">&SD-E149;</lem><rdg resp="Taisho" wit="【甲】">&SD-E149;</rdg></app>&SD-A55D;<note n="0164022" resp="Taisho" place="foot text" type="orig">&SD-DA74;＝&SD-E17C;【甲】＊</note><app n="0164022"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app>
+<lb n="0164c23" ed="T"/><app source="0164022" type="＊"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app>&SD-AA5F;&SD-E046;&SD-AA5F;&SD-E046;&SD-D7C4;&SD-CFC5;&SD-DA44;&SD-A5AB;&SD-A6A8;&SD-A55D;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0164c24" ed="T"/><p id="pT18p0164c2401">入佛三昧耶真言曰。</p>
+<lb n="0164c25" ed="T"/><p lang="san-sd" id="pT18p0164c2501" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFC5;&SD-A67A;&SD-A5EB;&SD-AA60;<note n="0164023" resp="Taisho" place="foot text" type="orig">&SD-E347;＝&SD-A67A;【甲】＊</note><note n="0164023" resp="CBETA" type="mod"><todo type="＊"/>&SD-E347;＝&SD-A67A;【甲】＊，＝&SD-A67A;【CB】</note><app n="0164023"><lem resp="劉鐘穗老師" wit="【CBETA】">&SD-A67A;</lem><rdg wit="【大】">&SD-E347;</rdg><rdg resp="Taisho" wit="【甲】">&SD-A67A;</rdg></app>&SD-A5EB;&SD-D7C4;&SD-A67A;
+<lb n="0164c26" ed="T"/>&SD-A5E5;&SD-A5F7;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0164c27" ed="T"/><p id="pT18p0164c2701">法界生真言曰。</p>
+<lb n="0164c28" ed="T"/><p lang="san-sd" id="pT18p0164c2801" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A57B;&SD-DA77;<note n="0164024" resp="Taisho" place="foot text" type="orig">&SD-A57B;＝&SD-E177;【甲】＊</note><app n="0164024"><lem wit="【大】">&SD-A57B;</lem><rdg resp="Taisho" wit="【甲】">&SD-E177;</rdg></app>&SD-A55B;&SD-D7C4;<note n="0164025" resp="Taisho" place="foot text" type="orig">&SD-DA49;&SD-A6A9;＝&SD-B064;&SD-A5D9;【甲】</note><app n="0164025"><lem wit="【大】">&SD-DA49;&SD-A6A9;</lem><rdg resp="Taisho" wit="【甲】">&SD-B064;&SD-A5D9;</rdg></app>&SD-A656;
+<lb n="0164c29" ed="T"/>&SD-A448;&SD-A6B2;&SD-D5B4;</p>
+<pb n="0165a" id="T18.0854.0165a" ed="T"/>
+<lb n="0165a01" ed="T"/><p id="pT18p0165a0101">金剛薩埵真言曰。</p>
+<lb n="0165a02" ed="T"/><p lang="san-sd" id="pT18p0165a0201" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A656;&SD-A9BD;<note n="0165001" resp="Taisho" place="foot text" type="orig">&SD-E0C4;＝&SD-A555;【甲】</note><app n="0165001"><lem wit="【大】">&SD-E0C4;</lem><rdg resp="Taisho" wit="【甲】">&SD-A555;</rdg></app>&SD-D7C4;&SD-A656;&SD-DA76;&SD-E1EA;&SD-A448;<note n="0165002" resp="Taisho" place="foot text" type="orig">&SD-E347;＝&SD-A6B2;【甲】</note><note n="0165002" resp="CBETA" type="mod">&SD-E347;＝&SD-A6B2;【甲】【CB】</note><app n="0165002"><lem resp="劉鐘穗老師" wit="【CBETA】">&SD-A6B2;</lem><rdg wit="【大】">&SD-E347;</rdg><rdg resp="Taisho" wit="【甲】">&SD-A6B2;</rdg></app>&SD-D5B4;</p>
+<lb n="0165a03" ed="T"/><p id="pT18p0165a0301">金剛鎧真言曰。</p>
+<lb n="0165a04" ed="T"/><p lang="san-sd" id="pT18p0165a0401" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A656;&SD-A9BD;&SD-A555;&SD-D7C4;&SD-A656;&SD-A9BD;&SD-A440;&SD-A656;&SD-A47C;<app source="0164022" type="＊"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app>&SD-D5B4;</p>
+<lb n="0165a05" ed="T"/><p id="pT18p0165a0501">如來眼真言<note n="0165003" resp="Taisho" place="foot text" type="orig">曰＋（又能寂母真言）【甲】</note><app n="0165003"><lem wit="【大】">曰</lem><rdg resp="Taisho" wit="【甲】">曰又能寂母真言</rdg></app>。</p>
+<lb n="0165a06" ed="T"/><p lang="san-sd" id="pT18p0165a0601" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A47C;&SD-A6B8;&SD-B9E9;&SD-A656;&SD-A652;
+<lb n="0165a07" ed="T"/>&SD-A440;&SD-A5F1;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165a08" ed="T"/><p id="pT18p0165a0801">塗香真言曰。</p>
+<lb n="0165a09" ed="T"/><p lang="san-sd" id="pT18p0165a0901" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-A658;&SD-A666;&SD-D9F9;&SD-A458;&SD-CAA4;&SD-DAAE;&SD-A656;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165a10" ed="T"/><p id="pT18p0165a1001"><note n="0165004" resp="Taisho" place="foot text" type="orig">華＝華鬘【甲】</note><app n="0165004"><lem wit="【大】">華</lem><rdg resp="Taisho" wit="【甲】">華鬘</rdg></app>供養真言曰。</p>
+<lb n="0165a11" ed="T"/><p lang="san-sd" id="pT18p0165a1101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A5E5;&SD-A6A9;&SD-A5EC;&SD-E1E2;&SD-A87C;&SD-CCAA;&SD-A55D;&SD-DA49;
+<lb n="0165a12" ed="T"/>&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165a13" ed="T"/><p id="pT18p0165a1301">燒香真言曰。</p>
+<lb n="0165a14" ed="T"/><p lang="san-sd" id="pT18p0165a1401" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A57B;&SD-DA77;<app source="0164024" type="＊"><lem wit="【大】">&SD-A57B;</lem><rdg resp="Taisho" wit="【甲】">&SD-E177;</rdg></app>&SD-AF59;&SD-A5AD;&SD-A458;&SD-A55D;&SD-DA49;
+<lb n="0165a15" ed="T"/>&SD-A6A9;&SD-D7C4;</p>
+<lb n="0165a16" ed="T"/><p id="pT18p0165a1601">飲食真言曰。</p>
+<lb n="0165a17" ed="T"/><p lang="san-sd" id="pT18p0165a1701" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFC5;&SD-A5FD;&SD-A5FD;&SD-A440;&SD-A5FD;&SD-A5FD;&SD-A656;&SD-A64C;&SD-B6C8;
+<lb n="0165a18" ed="T"/><note n="0165005" resp="Taisho" place="foot text" type="orig">&SD-A575;＋（&SD-A5E7;&SD-A656;&SD-A654;&SD-A56F;&SD-A575;）&M062403;【甲】</note><app n="0165005"><lem wit="【大】">&SD-A575;</lem><rdg resp="【甲】" wit="【？】">&SD-A575;&SD-A5E7;&SD-A656;&SD-A654;&SD-A56F;&SD-A575;</rdg></app>&SD-A5E5;&SD-A6A9;&SD-A656;&SD-E056;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165a19" ed="T"/><p id="pT18p0165a1901">燈明真言曰。</p>
+<lb n="0165a20" ed="T"/><p lang="san-sd" id="pT18p0165a2001" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-B5D7;&SD-D7C4;&SD-CDF1;&SD-A5FD;&SD-A54B;
+<lb n="0165a21" ed="T"/>&SD-A656;&SD-A5DA;&SD-A67A;&SD-A5A9;&SD-D7C4;&SD-A458;&SD-A458;&SD-A5B2;&SD-A570;&SD-B769;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165a22" ed="T"/><p id="pT18p0165a2201">閼伽真言曰。</p>
+<lb n="0165a23" ed="T"/><p lang="san-sd" id="pT18p0165a2301" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A458;&SD-A458;&SD-A5A9;&SD-A67A;&SD-A5E6;&SD-A67A;&SD-A5E5;&SD-DA49;
+<lb n="0165a24" ed="T"/>&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165a25" ed="T"/><p id="pT18p0165a2501">如來頂相真言曰。</p>
+<lb n="0165a26" ed="T"/><p lang="san-sd" id="pT18p0165a2601" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A458;&SD-A458;&SD-A5AA;&SD-A5A9;&SD-CA56;&SD-CDF1;&SD-A5FD;&SD-A54B;&SD-D7C4;
+<lb n="0165a27" ed="T"/>&SD-A658;&SD-A666;&SD-D9F9;&SD-A57B;&SD-DA77;&SD-A5AB;&SD-E149;&SD-A55D;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165a28" ed="T"/><p id="pT18p0165a2801">如來甲真言曰。</p>
+<lb n="0165a29" ed="T"/><p lang="san-sd" id="pT18p0165a2901" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;<note n="0165006" resp="Taisho" place="foot text" type="orig">〔&SD-DA44;&SD-A47C;&SD-C9FD;〕－&M062403;【甲】</note><app n="0165006"><lem wit="【大】">&SD-DA44;&SD-A47C;&SD-C9FD;</lem><rdg resp="【甲】" wit="【？】">&lac;</rdg></app>&SD-A656;&SD-A9BD;&SD-E04A;&SD-A64A;&SD-D7C4;
+<lb n="0165a30" ed="T"/>&SD-A658;&SD-CDF5;&SD-A5FD;<app source="0164022" type="＊"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app>&SD-D5B4;</p>
+<lb n="0165a31" ed="T"/><p id="pT18p0165a3101">如來舌真言。</p>
+<pb n="0165b" id="T18.0854.0165b" ed="T"/>
+<lb n="0165b01" ed="T"/><p lang="san-sd" id="pT18p0165b0101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A5E5;&SD-A6A9;&SD-A5E5;&SD-A6A9;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A4B8;
+<lb n="0165b02" ed="T"/>&SD-B070;&SD-D7C4;&SD-A67A;&SD-A7D7;&SD-A57B;&SD-B75D;&SD-DA44;&SD-A559;&SD-CD4D;&SD-A557;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165b03" ed="T"/><p id="pT18p0165b0301">如來圓光真言曰。</p>
+<lb n="0165b04" ed="T"/><p lang="san-sd" id="pT18p0165b0401" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-E04A;&SD-A64B;&SD-A5E6;&SD-A64C;&SD-A5AB;&SD-D7C4;&SD-A557;&SD-A564;&SD-A458;
+<lb n="0165b05" ed="T"/>&SD-A558;&SD-B5D7;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165b06" ed="T"/><p id="pT18p0165b0601">無礙力真言曰（押紙云。已下第二卷普通
+<lb n="0165b07" ed="T"/>真言藏品）。</p>
+<lb n="0165b08" ed="T"/><p lang="san-sd" id="pT18p0165b0801" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A67A;&SD-A5E5;&SD-A558;&SD-A5AD;&SD-A458;&SD-A557;&SD-A656;&SD-A5FD;&SD-A4B6;
+<lb n="0165b09" ed="T"/>&SD-A57B;&SD-B75D;&SD-A5AB;&SD-B5ED;&SD-A557;&SD-D7C4;&SD-A5E5;&SD-A6A9;&SD-A5E5;&SD-A6A8;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165b10" ed="T"/><p id="pT18p0165b1001">彌勒菩薩真言曰。</p>
+<lb n="0165b11" ed="T"/><p lang="san-sd" id="pT18p0165b1101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFC5;&SD-A4B8;&SD-A561;&SD-A4B6;<note n="0165007" resp="Taisho" place="foot text" type="orig">&SD-A5F7;＝&SD-A5F1;【甲】</note><app n="0165007"><lem wit="【大】">&SD-A5F7;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5F1;</rdg></app>&SD-D7C4;&SD-A67A;&SD-DA46;
+<lb n="0165b12" ed="T"/>&SD-A67A;&SD-AF5A;&SD-A662;&SD-A5F2;&SD-A5AD;&SD-A458;&SD-A557;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165b13" ed="T"/><p id="pT18p0165b1301">虛空藏真言曰。</p>
+<lb n="0165b14" ed="T"/><p lang="san-sd" id="pT18p0165b1401" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFC5;<note n="0165008" resp="Taisho" place="foot text" type="orig">&SD-A441;＝&SD-A440;【甲】</note><app n="0165008"><lem wit="【大】">&SD-A441;</lem><rdg resp="Taisho" wit="【甲】">&SD-A440;</rdg></app>&SD-A662;&SD-A67A;&SD-A5E5;&SD-A558;&SD-A5AD;&SD-A458;
+<lb n="0165b15" ed="T"/><note n="0165009" resp="Taisho" place="foot text" type="orig">&SD-A558;＝&SD-A557;【甲】</note><app n="0165009"><lem wit="【大】">&SD-A558;</lem><rdg resp="Taisho" wit="【甲】">&SD-A557;</rdg></app>&SD-D7C4;&SD-A658;&SD-A47E;&SD-E0B7;&SD-A5CD;&SD-A5FD;&SD-A57B;&SD-A5FD;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165b16" ed="T"/><p id="pT18p0165b1601">除蓋障真言曰。</p>
+<lb n="0165b17" ed="T"/><p lang="san-sd" id="pT18p0165b1701" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;<note n="0165010" resp="Taisho" place="foot text" type="orig">&SD-E17A;＝&SD-CFD4;【甲】</note><app n="0165010"><lem wit="【大】">&SD-E17A;</lem><rdg resp="Taisho" wit="【甲】">&SD-CFD4;</rdg></app>&SD-A67A;&SD-AF59;&SD-A6AA;&SD-A558;&SD-A87C;&SD-CCAA;&SD-A557;
+<lb n="0165b18" ed="T"/>&SD-D7C4;&SD-AA68;&SD-AA68;&SD-A648;&SD-A648;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165b19" ed="T"/><p id="pT18p0165b1901">觀自在真言曰。</p>
+<lb n="0165b20" ed="T"/><p lang="san-sd" id="pT18p0165b2001" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A67A;&SD-DA46;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A656;&SD-A652;&SD-A442;
+<lb n="0165b21" ed="T"/><note n="0165011" resp="Taisho" place="foot text" type="orig">&SD-A557;＝&SD-A558;【甲】</note><app n="0165011"><lem wit="【大】">&SD-A557;</lem><rdg resp="Taisho" wit="【甲】">&SD-A558;</rdg></app>&SD-D7C4;&SD-A440;&SD-A643;&SD-A54B;&SD-A5E5;&SD-A5F1;&SD-D7C4;&SD-A5FD;&SD-A5FD;&SD-A5FD;<app source="0164022" type="＊"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app>&SD-A4C1;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165b22" ed="T"/><p id="pT18p0165b2201">得大勢至真言曰。</p>
+<lb n="0165b23" ed="T"/><p lang="san-sd" id="pT18p0165b2301" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;<note n="0165012" resp="Taisho" place="foot text" type="orig">&SD-A4B6;&SD-A4B6;＝&SD-A4C0;&SD-A4C0;【甲】</note><app n="0165012"><lem wit="【大】">&SD-A4B6;&SD-A4B6;</lem><rdg resp="Taisho" wit="【甲】">&SD-A4C0;&SD-A4C0;</rdg></app>&SD-A6A7;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165b24" ed="T"/><p id="pT18p0165b2401">多羅尊真言曰。</p>
+<lb n="0165b25" ed="T"/><p lang="san-sd" id="pT18p0165b2501" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A440;&SD-A643;&SD-A551;&SD-DAAE;&SD-A65C;&SD-D7C4;&SD-A558;&SD-A644;&SD-A558;
+<lb n="0165b26" ed="T"/>&SD-A640;&SD-A54D;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165b27" ed="T"/><p id="pT18p0165b2701">毘俱胝真言曰。</p>
+<lb n="0165b28" ed="T"/><p lang="san-sd" id="pT18p0165b2801" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A67A;&SD-DA46;&SD-A5D9;&SD-A5F1;&SD-AA5F;<note n="0165013" resp="Taisho" place="foot text" type="orig">&SD-E347;&SD-E347;＝&SD-A67A;&SD-A5AB;【甲】</note><app n="0165013"><lem wit="【大】">&SD-E347;&SD-E347;</lem><rdg resp="Taisho" wit="【甲】">&SD-A67A;&SD-A5AB;</rdg></app><app source="0164022" type="＊"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app>
+<lb n="0165b29" ed="T"/>&SD-CDF1;&SD-E046;&SD-A5F1;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165b30" ed="T"/><p id="pT18p0165b3001">白處尊真言曰。</p>
+<lb n="0165b31" ed="T"/><p lang="san-sd" id="pT18p0165b3101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A658;&SD-A66E;&SD-A5F1;&SD-D7C4;&SD-A6A6;
+<pb n="0165c" id="T18.0854.0165c" ed="T"/>
+<lb n="0165c01" ed="T"/>&SD-A5D9;&SD-A65C;&SD-D7C4;&SD-A5B5;&SD-DAAF;&SD-A5E6;<note n="0165014" resp="Taisho" place="foot text" type="orig">&SD-E0D7;＝&SD-A64C;【甲】</note><note n="0165014" resp="CBETA" type="mod">&SD-E0D7;＝&SD-A64C;【甲】【CB】</note><app n="0165014"><lem resp="CBETA.say" wit="【CBETA】">&SD-A64C;</lem><rdg wit="【大】">&SD-E0D7;</rdg><rdg resp="Taisho" wit="【甲】">&SD-A64C;</rdg></app>&SD-A5AB;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165c02" ed="T"/><p id="pT18p0165c0201">何耶揭嘌&CB00085;真言曰。</p>
+<lb n="0165c03" ed="T"/><p lang="san-sd" id="pT18p0165c0301" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;<app source="0164022" type="＊"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app>&SD-A44D;&SD-A56F;&SD-A549;<note n="0165015" resp="Taisho" place="foot text" type="orig">&SD-A4C0;＝&SD-A4B6;【甲】</note><app n="0165015"><lem wit="【大】">&SD-A4C0;</lem><rdg resp="Taisho" wit="【甲】">&SD-A4B6;</rdg></app>&SD-D7C4;&SD-CDF1;&SD-E046;
+<lb n="0165c04" ed="T"/>&SD-A5F1;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165c05" ed="T"/><p id="pT18p0165c0501">地藏菩薩真言曰。</p>
+<lb n="0165c06" ed="T"/><p lang="san-sd" id="pT18p0165c0601" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A6A8;&SD-A6A8;&SD-A6A8;&SD-D7C4;&SD-E0BC;&SD-A557;&SD-A5AD;&SD-D7C4;&SD-DA49;
+<lb n="0165c07" ed="T"/>&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165c08" ed="T"/><p id="pT18p0165c0801">文殊師利真言曰。</p>
+<lb n="0165c09" ed="T"/><p lang="san-sd" id="pT18p0165c0901" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A6AE;&SD-A6AE;&SD-A444;&SD-A5E6;&SD-A5FD;&SD-A440;&SD-D7C4;&SD-A658;&SD-E043;
+<lb n="0165c10" ed="T"/>&SD-E04D;&SD-A5B5;&SD-A563;&SD-B066;&SD-A557;&SD-D7C4;&SD-B2CC;&SD-A5FD;&SD-D957;&SD-DA44;&SD-A559;&SD-E1CD;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165c11" ed="T"/><p id="pT18p0165c1101">金剛手真言曰。</p>
+<lb n="0165c12" ed="T"/><p lang="san-sd" id="pT18p0165c1201" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A656;&SD-A9BD;&SD-A555;&SD-D7C4;&SD-A47C;<note n="0165016" resp="Taisho" place="foot text" type="orig">&SD-C9FD;＝&SD-A4F2;【甲】</note><app n="0165016"><lem wit="【大】">&SD-C9FD;</lem><rdg resp="Taisho" wit="【甲】">&SD-A4F2;</rdg></app>&SD-A5E5;&SD-A6A9;&SD-A646;&SD-A66E;&SD-A54B;
+<lb n="0165c13" ed="T"/><app source="0164022" type="＊"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app>&SD-D5B4;</p>
+<lb n="0165c14" ed="T"/><p id="pT18p0165c1401">忙&CB00757;計真言曰。</p>
+<lb n="0165c15" ed="T"/><p lang="san-sd" id="pT18p0165c1501" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A656;&SD-A9BD;&SD-A555;&SD-AA60;&SD-A4DA;&SD-AA60;&SD-A4DA;&SD-D7C4;&SD-A4B6;&SD-A5FB;&SD-A559;&SD-D7C4;&SD-DA49;
+<lb n="0165c16" ed="T"/>&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165c17" ed="T"/><p id="pT18p0165c1701">金剛鎖真言曰。</p>
+<lb n="0165c18" ed="T"/><p lang="san-sd" id="pT18p0165c1801" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A656;&SD-A9BD;&SD-A555;&SD-D7C4;<app source="0164022" type="＊"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app>&SD-A5CD;&SD-E3CE;&SD-A5CD;&SD-E3CE;&SD-A5F1;&SD-D7C4;&SD-A5ED;
+<lb n="0165c19" ed="T"/>&SD-A4DA;&SD-A5ED;&SD-A4DA;&SD-A5F1;&SD-D7C4;&SD-A656;&SD-A9C3;&SD-DAAE;&SD-A65C;&SD-D7C4;&SD-A67A;&SD-DA46;&SD-E146;&SD-DA44;&SD-A559;&SD-A6A8;&SD-A55D;&SD-D7C4;
+<lb n="0165c20" ed="T"/>&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165c21" ed="T"/><p id="pT18p0165c2101">金剛月靨真言曰。</p>
+<lb n="0165c22" ed="T"/><p lang="san-sd" id="pT18p0165c2201" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A656;&SD-A9BD;&SD-A555;<note n="0165017" resp="Taisho" place="foot text" type="orig">&SD-AA61;＝&SD-E050;【甲】</note><note n="0165017" resp="CBETA" type="mod">&SD-AA61;＝&SD-E050;【甲】【CB】</note><app n="0165017"><lem resp="CBETA.say" wit="【CBETA】">&SD-E050;</lem><rdg wit="【大】">&SD-AA61;</rdg><rdg resp="Taisho" wit="【甲】">&SD-E050;</rdg></app><app source="0164022" type="＊"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app>&SD-A5C1;&SD-A4DA;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165c23" ed="T"/><p id="pT18p0165c2301">金剛針真言曰。</p>
+<lb n="0165c24" ed="T"/><p lang="san-sd" id="pT18p0165c2401" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A656;&SD-A9BD;&SD-A555;&SD-D7C4;&SD-A67A;&SD-B7A3;&SD-A57B;&SD-E1BA;&SD-A5AB;<note n="0165018" resp="Taisho" place="foot text" type="orig">&SD-A65C;＝&SD-B7A9;【甲】</note><app n="0165018"><lem wit="【大】">&SD-A65C;</lem><rdg resp="Taisho" wit="【甲】">&SD-B7A9;</rdg></app>&SD-A57B;&SD-A5AB;
+<lb n="0165c25" ed="T"/>&SD-A656;&SD-A9BD;&SD-E0BC;&SD-A47E;&SD-A656;&SD-A5FD;&SD-A575;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165c26" ed="T"/><p id="pT18p0165c2601">一切持金剛真言曰。</p>
+<lb n="0165c27" ed="T"/><p lang="san-sd" id="pT18p0165c2701" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A656;&SD-A9BD;&SD-A555;&SD-D7C4;<app source="0164022" type="＊"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app><app source="0164022" type="＊"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app><app source="0164022" type="＊"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app>&SD-A5C1;&SD-E046;&SD-A5C1;&SD-E046;
+<lb n="0165c28" ed="T"/>&SD-A4C0;&SD-A4C0;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0165c29" ed="T"/><p id="pT18p0165c2901">一切奉教真言曰。</p>
+<lb n="0165c30" ed="T"/><p lang="san-sd" id="pT18p0165c3001" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A656;&SD-A9BD;&SD-A555;&SD-D7C4;&SD-A6AE;&SD-A6AE;<note n="0165019" resp="Taisho" place="foot text" type="orig">&SD-E0DB;＝&SD-E1A1;【甲】</note><app n="0165019"><lem wit="【大】">&SD-E0DB;</lem><rdg resp="Taisho" wit="【甲】">&SD-E1A1;</rdg></app>&SD-A47E;&SD-A5FE;&SD-A5F1;&SD-A67C;&SD-D7C4;
+<lb n="0165c31" ed="T"/>&SD-E0C8;&SD-E052;&SD-E0C8;&SD-E052;&SD-D7C4;&SD-A44D;&SD-A56F;&SD-A44D;&SD-A56F;&SD-A5B5;&SD-A640;&SD-E042;&SD-A5FD;&SD-A5F1;&SD-D7C4;&SD-A67A;&SD-B7A3;&SD-E1A1;
+<pb n="0166a" id="T18.0854.0166a" ed="T"/>
+<lb n="0166a01" ed="T"/>&SD-A440;&SD-A5FE;&SD-A555;<note n="0166001" resp="Taisho" place="foot text" type="orig">&SD-B065;&SD-DA44;＝&SD-B064;【甲】</note><app n="0166001"><lem wit="【大】">&SD-B065;&SD-DA44;</lem><rdg resp="Taisho" wit="【甲】">&SD-B064;</rdg></app>&SD-A559;&SD-E0A4;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166a02" ed="T"/><p id="pT18p0166a0201">釋迦牟尼真言曰。</p>
+<lb n="0166a03" ed="T"/><p lang="san-sd" id="pT18p0166a0301" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A67A;&SD-DA46;&SD-ABC1;&SD-A662;&SD-A5AB;&SD-A67A;&SD-E347;&SD-A5A9;&SD-D7C4;
+<lb n="0166a04" ed="T"/>&SD-A67A;&SD-DA46;&SD-A57B;&SD-E1BA;&SD-A656;&SD-A664;&SD-A5FE;&SD-AABC;&SD-CEE4;&SD-D7C4;&SD-A458;&SD-A458;&SD-A5A9;&SD-A67A;<note n="0166002" resp="Taisho" place="foot text" type="orig">&SD-A5E6;＝&SD-A5E5;【甲】</note><app n="0166002"><lem wit="【大】">&SD-A5E6;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5E5;</rdg></app>&SD-A67A;
+<lb n="0166a05" ed="T"/>&SD-A5E5;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166a06" ed="T"/><p id="pT18p0166a0601">毫相真言曰。</p>
+<lb n="0166a07" ed="T"/><p lang="san-sd" id="pT18p0166a0701" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A656;<note n="0166003" resp="Taisho" place="foot text" type="orig">&SD-A5FE;＝&SD-A5FD;【甲】</note><app n="0166003"><lem wit="【大】">&SD-A5FE;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5FD;</rdg></app>&SD-A575;&SD-A656;&SD-A5FD;&SD-AABD;&SD-CEEA;
+<lb n="0166a08" ed="T"/><app source="0164022" type="＊"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app>&SD-D5B4;</p>
+<lb n="0166a09" ed="T"/><p id="pT18p0166a0901">一切諸佛頂真言曰。</p>
+<lb n="0166a10" ed="T"/><p lang="san-sd" id="pT18p0166a1001" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A660;&SD-A660;&SD-A660;<app source="0164022" type="＊"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app><app source="0164022" type="＊"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app><note n="0166004" resp="Taisho" place="foot text" type="orig">〔&SD-A5C1;&SD-E046;〕－【甲】</note><app n="0166004"><lem wit="【大】">&SD-A5C1;
+<lb n="0166a11" ed="T"/>&SD-E046;</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166a12" ed="T"/><p id="pT18p0166a1201">無能勝真言曰。</p>
+<lb n="0166a13" ed="T"/><p lang="san-sd" id="pT18p0166a1301" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-E054;&SD-E054;&SD-E2C8;&SD-E2C8;&SD-E2C0;&SD-E2C0;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166a14" ed="T"/><p id="pT18p0166a1401">無能勝妃真言曰。</p>
+<lb n="0166a15" ed="T"/><p lang="san-sd" id="pT18p0166a1501" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFC5;&SD-A5B6;&SD-A5FE;&SD-A4B8;<note n="0166005" resp="Taisho" place="foot text" type="orig">&SD-A557;＝&SD-A55D;【甲】</note><note n="0166005" resp="CBETA" type="mod">&SD-A557;＝&SD-A55D;【甲】【CB】</note><app n="0166005"><lem resp="CBETA.say" wit="【CBETA】">&SD-A55D;</lem><rdg wit="【大】">&SD-A557;</rdg><rdg resp="Taisho" wit="【甲】">&SD-A55D;</rdg></app>&SD-D7C4;&SD-A4B6;&SD-A5FB;
+<lb n="0166a16" ed="T"/>&SD-A559;&SD-A557;&SD-A4F4;&SD-A55D;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166a17" ed="T"/><p id="pT18p0166a1701">地神真言曰。</p>
+<lb n="0166a18" ed="T"/><p lang="san-sd" id="pT18p0166a1801" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CBF7;&SD-A565;&SD-A8C5;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166a19" ed="T"/><p id="pT18p0166a1901">毘紐天真言曰。</p>
+<lb n="0166a20" ed="T"/><p lang="san-sd" id="pT18p0166a2001" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;<note n="0166006" resp="Taisho" place="foot text" type="orig">&SD-E347;＝&SD-A658;【甲】</note><note n="0166006" resp="CBETA" type="mod">&SD-E347;＝&SD-A658;【甲】【CB】</note><app n="0166006"><lem resp="劉鐘穗老師" wit="【CBETA】">&SD-A658;</lem><rdg wit="【大】">&SD-E347;</rdg><rdg resp="Taisho" wit="【甲】">&SD-A658;</rdg></app><note n="0166007" resp="Taisho" place="foot text" type="orig">&SD-E1E1;＝&SD-E0C7;【甲】</note><app n="0166007"><lem wit="【大】">&SD-E1E1;</lem><rdg resp="Taisho" wit="【甲】">&SD-E0C7;</rdg></app>&SD-A65C;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166a21" ed="T"/><p id="pT18p0166a2101">伊舍那天真言曰。</p>
+<lb n="0166a22" ed="T"/><p lang="san-sd" id="pT18p0166a2201" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A643;&SD-DAB0;&SD-A5F2;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166a23" ed="T"/><p id="pT18p0166a2301">風神真言曰。</p>
+<lb n="0166a24" ed="T"/><p lang="san-sd" id="pT18p0166a2401" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A657;&SD-A5F1;&SD-A65C;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166a25" ed="T"/><p id="pT18p0166a2501">六美音<note n="0166008" resp="Taisho" place="foot text" type="orig">天＋（真言曰）【甲】</note><app n="0166008"><lem wit="【大】">天</lem><rdg resp="Taisho" wit="【甲】">天真言曰</rdg></app>。</p>
+<lb n="0166a26" ed="T"/><p lang="san-sd" id="pT18p0166a2601" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-E0BC;&SD-A5FD;<note n="0166009" resp="Taisho" place="foot text" type="orig">&SD-DA49;＝&SD-B064;【甲】</note><app n="0166009"><lem wit="【大】">&SD-DA49;</lem><rdg resp="Taisho" wit="【甲】">&SD-B064;</rdg></app>&SD-A7DE;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166a27" ed="T"/><p id="pT18p0166a2701">羅剎<note n="0166010" resp="Taisho" place="foot text" type="orig">主＝王【甲】</note><app n="0166010"><lem wit="【大】">主</lem><rdg resp="Taisho" wit="【甲】">王</rdg></app>真言曰。</p>
+<lb n="0166a28" ed="T"/><p lang="san-sd" id="pT18p0166a2801" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;<note n="0166011" resp="Taisho" place="foot text" type="orig">&SD-A5FE;＝&SD-A5FD;【甲】</note><app n="0166011"><lem wit="【大】">&SD-A5FE;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5FD;</rdg></app>&SD-A6B4;&SD-A67B;&SD-A57D;&SD-A5B5;&SD-A557;&SD-A5F7;&SD-D7C4;
+<lb n="0166a29" ed="T"/>&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166a30" ed="T"/><p id="pT18p0166a3001">四閻魔真言曰。</p>
+<lb n="0166a31" ed="T"/><p lang="san-sd" id="pT18p0166a3101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A65D;&SD-A656;<note n="0166012" resp="Taisho" place="foot text" type="orig">&SD-B064;＝&SD-DA49;【甲】</note><app n="0166012"><lem wit="【大】">&SD-B064;</lem><rdg resp="Taisho" wit="【甲】">&SD-DA49;</rdg></app>&SD-A558;&SD-A5F1;&SD-D7C4;&SD-DA49;
+<pb n="0166b" id="T18.0854.0166b" ed="T"/>
+<lb n="0166b01" ed="T"/>&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166b02" ed="T"/><p id="pT18p0166b0201">三死王真言曰。</p>
+<lb n="0166b03" ed="T"/><p lang="san-sd" id="pT18p0166b0301" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-DA78;&SD-A7D7;&SD-A65C;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166b04" ed="T"/><p id="pT18p0166b0401">黑夜神真言曰。</p>
+<lb n="0166b05" ed="T"/><p lang="san-sd" id="pT18p0166b0501" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A441;&SD-A64A;&SD-A5FE;&SD-E2C1;&SD-A5F7;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166b06" ed="T"/><p id="pT18p0166b0601">七母等真言曰。</p>
+<lb n="0166b07" ed="T"/><p lang="san-sd" id="pT18p0166b0701" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;<note n="0166013" resp="Taisho" place="foot text" type="orig">&SD-A5E5;＝&SD-A5E6;【甲】</note><app n="0166013"><lem wit="【大】">&SD-A5E5;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5E6;</rdg></app>&SD-CBE3;&SD-D9F8;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166b08" ed="T"/><p id="pT18p0166b0801">釋提桓因真言曰。</p>
+<lb n="0166b09" ed="T"/><p lang="san-sd" id="pT18p0166b0901" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A662;&SD-A947;&SD-A5F1;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166b10" ed="T"/><p id="pT18p0166b1001">&CB00085;嚕拏<note n="0166014" resp="Taisho" place="foot text" type="orig">龍＋（王）【甲】</note><app n="0166014"><lem wit="【大】">龍</lem><rdg resp="Taisho" wit="【甲】">龍王</rdg></app>真言曰。</p>
+<lb n="0166b11" ed="T"/><p lang="san-sd" id="pT18p0166b1101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFC5;&SD-E0FD;&SD-A5B5;&SD-A557;&SD-A5F7;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166b12" ed="T"/><p id="pT18p0166b1201">五梵天真言曰。</p>
+<lb n="0166b13" ed="T"/><p lang="san-sd" id="pT18p0166b1301" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-DA44;&SD-A4B6;&SD-A5B5;&SD-A557;&SD-A5F7;&SD-D7C4;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166b14" ed="T"/><p id="pT18p0166b1401">日天真言曰。</p>
+<lb n="0166b15" ed="T"/><p lang="san-sd" id="pT18p0166b1501" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFC5;&SD-A571;<note n="0166015" resp="Taisho" place="foot text" type="orig">&SD-A7D8;＝&SD-A7D7;【甲】</note><app n="0166015"><lem wit="【大】">&SD-A7D8;</lem><rdg resp="Taisho" wit="【甲】">&SD-A7D7;</rdg></app>&SD-A5F1;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166b16" ed="T"/><p id="pT18p0166b1601">月天真言。</p>
+<lb n="0166b17" ed="T"/><p lang="san-sd" id="pT18p0166b1701" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A47C;&SD-E1A6;&SD-A5F1;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166b18" ed="T"/><p id="pT18p0166b1801">十諸龍真言。</p>
+<lb n="0166b19" ed="T"/><p lang="san-sd" id="pT18p0166b1901" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A5EB;&SD-A464;&SD-A662;&SD-A5AC;&SD-A5F7;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166b20" ed="T"/><p id="pT18p0166b2001">難陀跋難陀真言曰。</p>
+<lb n="0166b21" ed="T"/><p lang="san-sd" id="pT18p0166b2101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A5A9;&SD-CA74;&SD-A5B5;&SD-A5A9;&SD-CA6E;<note n="0166016" resp="Taisho" place="foot text" type="orig">&SD-A5F1;＝&SD-A5F7;【甲】</note><app n="0166016"><lem wit="【大】">&SD-A5F1;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5F7;</rdg></app>&SD-D7C4;&SD-DA49;
+<lb n="0166b22" ed="T"/>&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166b23" ed="T"/><p id="pT18p0166b2301">虛空眼明妃真言曰。</p>
+<lb n="0166b24" ed="T"/><p lang="san-sd" id="pT18p0166b2401" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A458;&SD-A458;&SD-A5A9;&SD-A656;&SD-A5FD;&SD-A64A;&SD-A6B4;&SD-A551;&SD-D7C4;
+<lb n="0166b25" ed="T"/>&SD-A458;&SD-A458;&SD-A5A9;&SD-A67A;<note n="0166017" resp="Taisho" place="foot text" type="orig">&SD-A5E5;&SD-A5F1;＝&SD-A5EB;&SD-A5F7;【甲】</note><app n="0166017"><lem wit="【大】">&SD-A5E5;&SD-A5F1;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5EB;&SD-A5F7;</rdg></app>&SD-D7C4;&SD-A67A;&SD-DA46;&SD-A55F;&SD-CCAA;&SD-A558;&SD-D7C4;&SD-A5DB;&SD-A67B;&SD-A5FD;&SD-A6A6;
+<lb n="0166b26" ed="T"/>&SD-A5D9;&SD-A65C;&SD-D7C4;&SD-E04A;&SD-A64A;&SD-A5AA;&SD-A5ED;&SD-A465;&SD-E040;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166b27" ed="T"/><p id="pT18p0166b2701">不動主真言曰。</p>
+<lb n="0166b28" ed="T"/><p lang="san-sd" id="pT18p0166b2801" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A656;&SD-A9BD;&SD-A555;&SD-D7C4;&SD-A47C;<note n="0166018" resp="Taisho" place="foot text" type="orig">&SD-A4FA;＝&SD-A5AD;【甲】</note><app n="0166018"><lem wit="【大】">&SD-A4FA;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5AD;</rdg></app>&SD-A5E5;&SD-A6A9;&SD-A646;&SD-A66E;&SD-A54B;&SD-D7C4;</p>
+<lb n="0166b29" ed="T"/><p lang="san-sd" id="pT18p0166b2901" type="dharani">&SD-CDF1;&SD-E046;&SD-A5F1;<app source="0164022" type="＊"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app>&SD-E1F3;&SD-A440;&SD-E045;&SD-E05D;&SD-D5B4;</p>
+<lb n="0166b30" ed="T"/><p id="pT18p0166b3001">降三世真言曰。</p>
+<lb n="0166b31" ed="T"/><p lang="san-sd" id="pT18p0166b3101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A656;&SD-A9BD;&SD-A555;&SD-D7C4;&SD-A6A8;&SD-A6A8;&SD-A6A8;&SD-D7C4;&SD-A658;&SD-B2CC;&SD-A5F7;&SD-D7C4;&SD-A67A;
+<pb n="0166c" id="T18.0854.0166c" ed="T"/>
+<lb n="0166c01" ed="T"/>&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-D7C4;&SD-A658;&SD-A66E;&SD-A5F1;<note n="0166019" resp="Taisho" place="foot text" type="orig">&SD-A6A6;＝&SD-A67A;【甲】</note><app n="0166019"><lem wit="【大】">&SD-A6A6;</lem><rdg resp="Taisho" wit="【甲】">&SD-A67A;</rdg></app>&SD-A5D9;&SD-A656;&SD-D7C4;&SD-E269;&SD-A652;&SD-A6C0;&SD-A658;
+<lb n="0166c02" ed="T"/>&SD-A4B6;&SD-A5F1;<app source="0164022" type="＊"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app>&SD-A4C1;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166c03" ed="T"/><p id="pT18p0166c0301">聲聞真言曰。</p>
+<lb n="0166c04" ed="T"/><p lang="san-sd" id="pT18p0166c0401" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;<note n="0166020" resp="Taisho" place="foot text" type="orig">&SD-A446;＝&SD-A6AE;【甲】</note><app n="0166020"><lem wit="【大】">&SD-A446;</lem><rdg resp="Taisho" wit="【甲】">&SD-A6AE;</rdg></app>&SD-A55B;&SD-DA44;&SD-A7D7;&SD-A5F1;&SD-D7C4;&SD-A658;&SD-A458;
+<lb n="0166c05" ed="T"/>&SD-A557;&SD-A440;&SD-DA77;&SD-A5AB;&SD-B5ED;&SD-A557;&SD-D7C4;<app source="0164022" type="＊"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app>&SD-D5B4;</p>
+<lb n="0166c06" ed="T"/><p id="pT18p0166c0601">緣覺真言曰。</p>
+<lb n="0166c07" ed="T"/><p lang="san-sd" id="pT18p0166c0701" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;<note n="0166021" resp="Taisho" place="foot text" type="orig">&SD-A661;＋（&SD-DA49;&SD-A6A9;）【甲】</note><app n="0166021"><lem wit="【大】">&SD-A661;</lem><rdg resp="Taisho" wit="【甲】">&SD-A661;&SD-DA49;&SD-A6A9;</rdg></app>&SD-D5B4;</p>
+<lb n="0166c08" ed="T"/><p id="pT18p0166c0801">普一切諸佛菩薩心真言曰。</p>
+<lb n="0166c09" ed="T"/><p lang="san-sd" id="pT18p0166c0901" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A67A;&SD-B7A3;&SD-E3AD;&SD-D9FA;&SD-A5D5;&SD-A57D;&SD-A67A;&SD-AF59;&SD-D7C4;
+<lb n="0166c10" ed="T"/>&SD-CC68;&SD-A56F;&SD-A5FB;&SD-A849;&SD-A65C;&SD-A662;&SD-E2C3;&SD-D7C4;&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-B7A3;&SD-A658;&SD-A575;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166c11" ed="T"/><p id="pT18p0166c1101">普<note n="0166022" resp="Taisho" place="foot text" type="orig">〔世〕－【甲】</note><app n="0166022"><lem wit="【大】">世</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>明妃真言曰。</p>
+<lb n="0166c12" ed="T"/><p lang="san-sd" id="pT18p0166c1201" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A652;&SD-A441;&SD-A652;<note n="0166023" resp="Taisho" place="foot text" type="orig">&SD-A441;＝&SD-A440;【甲】</note><app n="0166023"><lem wit="【大】">&SD-A441;</lem><rdg resp="Taisho" wit="【甲】">&SD-A440;</rdg></app>&SD-A440;&SD-A5FE;&SD-A5F1;&SD-D7C4;
+<lb n="0166c13" ed="T"/>&SD-A67A;&SD-DA46;&SD-A575;&SD-A656;<note n="0166024" resp="Taisho" place="foot text" type="orig">&SD-A5A9;＝&SD-A5AA;【甲】</note><note n="0166024" resp="CBETA" type="mod">&SD-A5A9;＝&SD-A5AA;【甲】【CB】</note><app n="0166024"><lem resp="CBETA.say" wit="【CBETA】">&SD-A5AA;</lem><rdg wit="【大】">&SD-A5A9;</rdg><rdg resp="Taisho" wit="【甲】">&SD-A5AA;</rdg></app>&SD-A458;&SD-A5F1;&SD-A6B4;&SD-A458;&SD-E3CE;&SD-B7A4;&SD-D7C4;&SD-CFC5;&SD-E0BC;&SD-A5FD;&SD-A458;&SD-A643;
+<lb n="0166c14" ed="T"/>&SD-A4F2;&SD-E1A1;&SD-A56F;&SD-A5FD;&SD-D7C4;&SD-A5E5;<note n="0166025" resp="Taisho" place="foot text" type="orig">&SD-A6A9;＝&SD-A6B0;【甲】</note><app n="0166025"><lem wit="【大】">&SD-A6A9;</lem><rdg resp="Taisho" wit="【甲】">&SD-A6B0;</rdg></app>&SD-A5FD;&SD-A459;&SD-A571;&SD-D7C4;&SD-CC68;&SD-A56F;&SD-A5F2;&SD-D7C4;&SD-A849;&SD-A440;
+<lb n="0166c15" ed="T"/>&SD-B7BB;&SD-A5F1;&SD-D7C4;&SD-A658;&SD-A47E;&SD-DA4C;&SD-A458;&SD-A559;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166c16" ed="T"/><p id="pT18p0166c1601">一切諸佛真言曰。</p>
+<lb n="0166c17" ed="T"/><p lang="san-sd" id="pT18p0166c1701" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A67A;&SD-DA46;&SD-A564;&SD-D7C4;&SD-A658;&SD-A5E5;&SD-A559;&SD-A658;&SD-A442;
+<lb n="0166c18" ed="T"/>&SD-A5FD;<note n="0166026" resp="Taisho" place="foot text" type="orig">&SD-A54C;＝&SD-A54B;【甲】</note><note n="0166026" resp="CBETA" type="mod"><app><lem resp="CBETA.say">&SD-E1F1;</lem><rdg wit="【大】">&SD-A54C;</rdg></app>＝&SD-A54B;【甲】</note><app n="0166026"><lem wit="【大】">&SD-E1F1;</lem><rdg resp="Taisho" wit="【甲】">&SD-A54B;</rdg></app>&SD-D7C4;&SD-A57B;&SD-DA77;&SD-A57C;&SD-A55B;&SD-A5AB;&SD-B5ED;&SD-A557;&SD-A6A6;<note n="0166027" resp="Taisho" place="foot text" type="orig">&SD-A5E5;&SD-A6A9;＝&SD-A6A6;&SD-A6A8;【甲】</note><note n="0166027" resp="CBETA" type="mod">&SD-A5E5;&SD-A6A9;＝&SD-A6A6;&SD-A6A8;【甲】【CB】</note><app n="0166027"><lem resp="CBETA.say" wit="【CBETA】">&SD-A6A6;&SD-A6A8;</lem><rdg wit="【大】">&SD-A5E5;&SD-A6A9;</rdg><rdg resp="Taisho" wit="【甲】">&SD-A6A6;&SD-A6A8;</rdg></app>&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166c19" ed="T"/><p id="pT18p0166c1901">不可越守護門真言曰。</p>
+<lb n="0166c20" ed="T"/><p lang="san-sd" id="pT18p0166c2001" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A4F2;&SD-B6D4;&SD-B7BB;&SD-A5E5;&SD-A6A9;&SD-A646;&SD-A66E;
+<lb n="0166c21" ed="T"/>&SD-A54B;&SD-D7C4;&SD-A44D;&SD-A56F;&SD-A5F1;&SD-A67A;&SD-E2B7;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-E1B7;&SD-A444;&SD-A643;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166c22" ed="T"/><p id="pT18p0166c2201">相向守護門真言曰。</p>
+<lb n="0166c23" ed="T"/><p lang="san-sd" id="pT18p0166c2301" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFC5;&SD-A5DB;&SD-E043;&SD-A44C;&SD-A6AE;&SD-A5E5;&SD-A6A9;&SD-AABC;&SD-A47C;
+<lb n="0166c24" ed="T"/>&SD-A4FA;&SD-D7C4;&SD-CFC5;&SD-A5DB;&SD-E043;<note n="0166028" resp="Taisho" place="foot text" type="orig">&SD-A44D;＝&SD-A44C;【甲】</note><app n="0166028"><lem wit="【大】">&SD-A44D;</lem><rdg resp="Taisho" wit="【甲】">&SD-A44C;</rdg></app>&SD-D7C4;&SD-E0C8;&SD-E052;&SD-A44C;&SD-A56F;&SD-A5F1;&SD-D7C4;&SD-A442;&SD-A47E;&SD-A5FD;&SD-A5F1;
+<lb n="0166c25" ed="T"/>&SD-A67C;&SD-D7C4;&SD-A67A;&SD-A5E5;&SD-A5F1;&SD-A5E5;&SD-A5AD;&SD-B2CC;&SD-A5FD;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0166c26" ed="T"/><p id="pT18p0166c2601">大結界真言曰。</p>
+<lb n="0166c27" ed="T"/><p lang="san-sd" id="pT18p0166c2701" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A67A;&SD-DA46;&SD-E1F3;&SD-A5AD;&SD-A458;&SD-A55D;&SD-D7C4;&SD-A656;&SD-AFAB;
+<lb n="0166c28" ed="T"/>&SD-A5F1;&SD-A67D;&SD-A5EF;&SD-D7C4;&SD-A5E5;&SD-A6A9;&SD-A67A;&SD-A5E5;&SD-A5F1;&SD-A5AB;&SD-B5ED;&SD-A55D;&SD-D7C4;&SD-B2CC;&SD-A5FD;&SD-A54B;&SD-CFC5;&SD-DA44;
+<lb n="0166c29" ed="T"/>&SD-A559;&SD-A6A8;<note n="0166029" resp="Taisho" place="foot text" type="orig">&SD-A575;＝&SD-A55D;【甲】</note><app n="0166029"><lem wit="【大】">&SD-A575;</lem><rdg resp="Taisho" wit="【甲】">&SD-A55D;</rdg></app>&SD-D7C4;&SD-A57B;&SD-A440;&SD-A57B;&SD-A440;&SD-D7C4;&SD-A47C;&SD-A5FD;&SD-A47C;&SD-A5FD;&SD-D7C4;&SD-A656;&SD-AFAB;&SD-D7C4;
+<lb n="0166c30" ed="T"/>&SD-A56F;&SD-A662;&SD-E2C5;&SD-A66C;&SD-D7C4;&SD-A67A;&SD-DA46;&SD-A557;&SD-A564;&SD-A458;&SD-A558;<note n="0166030" resp="Taisho" place="foot text" type="orig">&SD-A4F2;＝&SD-A5AD;【甲】</note><app n="0166030"><lem wit="【大】">&SD-A4F2;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5AD;</rdg></app>&SD-E0A4;&SD-A55D;&SD-D7C4;&SD-DA44;&SD-A656;
+<lb n="0166c31" ed="T"/>&SD-A5FD;&SD-A57B;&SD-B75D;&SD-A64A;&SD-D9F9;&SD-A5CF;&SD-A4B6;&SD-A5F7;&SD-D7C4;&SD-A5D9;&SD-A458;&SD-A656;&SD-A559;&SD-D7C4;&SD-A5CF;&SD-A444;&SD-A643;&SD-A5CF;
+<pb n="0167a" id="T18.0854.0167a" ed="T"/>
+<lb n="0167a01" ed="T"/>&SD-A444;&SD-A650;&SD-D7C4;&SD-A650;<note n="0167001" resp="Taisho" place="foot text" type="orig">&SD-A64C;＝&SD-E0E8;【甲】</note><app n="0167001"><lem wit="【大】">&SD-A64C;</lem><rdg resp="Taisho" wit="【甲】">&SD-E0E8;</rdg></app>&SD-A5B9;&SD-A640;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0167a02" ed="T"/><p id="pT18p0167a0201">菩提心真言。</p>
+<lb n="0167a03" ed="T"/><p lang="san-sd" id="pT18p0167a0301" type="dharani">&SD-A5D5;&SD-A57D;&SD-CFC5;&SD-D5B4;</p>
+<lb n="0167a04" ed="T"/><p id="pT18p0167a0401">菩提行真言。</p>
+<lb n="0167a05" ed="T"/><p lang="san-sd" id="pT18p0167a0501" type="dharani">&SD-A47C;&SD-DA48;&SD-CFC6;&SD-D5B4;</p>
+<lb n="0167a06" ed="T"/><p id="pT18p0167a0601">成菩提真言曰。</p>
+<lb n="0167a07" ed="T"/><p lang="san-sd" id="pT18p0167a0701" type="dharani">&SD-A6A6;&SD-A5D5;&SD-A57D;&SD-CFD3;&SD-D5B4;</p>
+<lb n="0167a08" ed="T"/><p id="pT18p0167a0801">涅槃真言曰。</p>
+<lb n="0167a09" ed="T"/><p lang="san-sd" id="pT18p0167a0901" type="dharani">&SD-A5AB;&SD-B7A4;&SD-A54B;&SD-D7C4;&SD-CFD4;&SD-D5B4;</p>
+<lb n="0167a10" ed="T"/><p id="pT18p0167a1001">降三世真言曰。</p>
+<lb n="0167a11" ed="T"/><p lang="san-sd" id="pT18p0167a1101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A656;&SD-A9BD;&SD-A555;&SD-D7C4;&SD-AA5E;&SD-A652;&SD-A6C0;&SD-A5CF;&SD-A4B6;&SD-A5F1;&SD-E266;&SD-D5B4;</p>
+<lb n="0167a12" ed="T"/><p id="pT18p0167a1201">不動尊真言曰。</p>
+<lb n="0167a13" ed="T"/><p lang="san-sd" id="pT18p0167a1301" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A656;&SD-A9BD;&SD-A555;&SD-D7C4;<note n="0167002" resp="Taisho" place="foot text" type="orig">&SD-E347;＝&SD-E045;【甲】</note><app n="0167002"><lem wit="【大】">&SD-E347;</lem><rdg resp="Taisho" wit="【甲】">&SD-E045;</rdg></app>&SD-D5B4;</p>
+<lb n="0167a14" ed="T"/><p id="pT18p0167a1401">無動尊真言曰。</p>
+<lb n="0167a15" ed="T"/><p lang="san-sd" id="pT18p0167a1501" type="dharani">&SD-CFC5;&SD-A47C;&SD-A64A;&SD-A5A9;&SD-E278;&SD-D5B4;</p>
+<lb n="0167a16" ed="T"/><p id="pT18p0167a1601">除蓋障真言曰。</p>
+<lb n="0167a17" ed="T"/><p lang="san-sd" id="pT18p0167a1701" type="dharani">&SD-A67A;&SD-B7A3;&SD-A5AC;&SD-A656;&SD-A5FD;&SD-A54B;&SD-A5CF;&SD-E2C6;&SD-A5DC;&SD-D5B4;</p>
+<lb n="0167a18" ed="T"/><p id="pT18p0167a1801">除蓋障真言曰。</p>
+<lb n="0167a19" ed="T"/><p lang="san-sd" id="pT18p0167a1901" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFD4;&SD-D5B4;</p>
+<lb n="0167a20" ed="T"/><p id="pT18p0167a2001">觀自在真言曰。</p>
+<lb n="0167a21" ed="T"/><p lang="san-sd" id="pT18p0167a2101" type="dharani">&SD-CFC5;&SD-A656;&SD-A652;&SD-A442;&SD-A55D;&SD-E0AB;&SD-A5FD;&SD-D7C4;&SD-A6A7;&SD-D5B4;</p>
+<lb n="0167a22" ed="T"/><p id="pT18p0167a2201">金剛手真言曰。</p>
+<lb n="0167a23" ed="T"/><p lang="san-sd" id="pT18p0167a2301" type="dharani">&SD-A656;&SD-A9BD;&SD-A5B6;&SD-A54D;&SD-D7C4;&SD-A656;&SD-A9BD;&SD-A555;&SD-A661;&SD-D5B4;</p>
+<lb n="0167a24" ed="T"/><p id="pT18p0167a2401">文殊師利真言曰。</p>
+<lb n="0167a25" ed="T"/><p lang="san-sd" id="pT18p0167a2501" type="dharani">&SD-E1BF;&SD-A4BA;&SD-E2B8;&SD-D7C4;&SD-E3AD;<note n="0167003" resp="Taisho" place="foot text" type="orig">&SD-D9F9;＝&SD-D9FA;【甲】</note><app n="0167003"><lem wit="【大】">&SD-D9F9;</lem><rdg resp="Taisho" wit="【甲】">&SD-D9FA;</rdg></app>&SD-E040;&SD-A5EF;&SD-D5B4;</p>
+<lb n="0167a26" ed="T"/><p id="pT18p0167a2601">虛空<note n="0167004" resp="Taisho" place="foot text" type="orig">眼＝藏【甲】</note><app n="0167004"><lem wit="【大】">眼</lem><rdg resp="Taisho" wit="【甲】">藏</rdg></app>真言曰。</p>
+<lb n="0167a27" ed="T"/><p lang="san-sd" id="pT18p0167a2701" type="dharani">&SD-A458;&SD-A458;&SD-A5A9;&SD-A652;&SD-A47C;&SD-A5AA;&SD-D7C4;&SD-A462;&SD-D5B4;</p>
+<lb n="0167a28" ed="T"/><p id="pT18p0167a2801">法界真言曰。</p>
+<lb n="0167a29" ed="T"/><p lang="san-sd" id="pT18p0167a2901" type="dharani">&SD-A57B;&SD-DA77;&SD-A57C;&SD-AA69;&SD-A648;&SD-D5B4;</p>
+<lb n="0167a30" ed="T"/><p id="pT18p0167a3001">大勤勇真言。</p>
+<pb n="0167b" id="T18.0854.0167b" ed="T"/>
+<lb n="0167b01" ed="T"/><p lang="san-sd" id="pT18p0167b0101" type="dharani">&SD-A5E5;&SD-A6A9;<note n="0167005" resp="Taisho" place="foot text" type="orig">&SD-A659;＝&SD-A5CF;【甲】</note><app n="0167005"><lem wit="【大】">&SD-A659;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5CF;</rdg></app>&SD-A649;&SD-D7C4;&SD-A456;&SD-D5B4;</p>
+<lb n="0167b02" ed="T"/><p id="pT18p0167b0201">水自在真言曰。</p>
+<lb n="0167b03" ed="T"/><p lang="san-sd" id="pT18p0167b0301" type="dharani">&SD-A4B6;&SD-A651;&SD-E0AB;<note n="0167006" resp="Taisho" place="foot text" type="orig">&SD-A5FE;＝&SD-A5FD;【甲】</note><app n="0167006"><lem wit="【大】">&SD-A5FE;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5FD;</rdg></app>&SD-D7C4;&SD-A4C0;&SD-D5B4;</p>
+<lb n="0167b04" ed="T"/><p id="pT18p0167b0401">多羅尊真言曰。</p>
+<lb n="0167b05" ed="T"/><p lang="san-sd" id="pT18p0167b0501" type="dharani">&SD-A558;&SD-A5FE;&SD-A575;&SD-A659;&SD-D7C4;&SD-A561;&SD-D5B4;</p>
+<lb n="0167b06" ed="T"/><p id="pT18p0167b0601">毘俱胝真言曰。</p>
+<lb n="0167b07" ed="T"/><p lang="san-sd" id="pT18p0167b0701" type="dharani">&SD-D9F8;&SD-D7C4;&SD-CC44;&SD-A444;&SD-A4DD;&SD-D5B4;</p>
+<lb n="0167b08" ed="T"/><p id="pT18p0167b0801">得大勢至真言曰。</p>
+<lb n="0167b09" ed="T"/><p lang="san-sd" id="pT18p0167b0901" type="dharani">&SD-A6A6;&SD-D7C4;&SD-A5E5;&SD-A6A9;&SD-DA49;&SD-A5E5;&SD-AABD;&SD-CEEF;&SD-D5B4;</p>
+<lb n="0167b10" ed="T"/><p id="pT18p0167b1001">白處尊真言曰。</p>
+<lb n="0167b11" ed="T"/><p lang="san-sd" id="pT18p0167b1101" type="dharani">&SD-A5BF;&SD-D7C4;&SD-A5B5;<note n="0167007" resp="Taisho" place="foot text" type="orig">&SD-A4F8;＝&SD-A4F2;【甲】</note><app n="0167007"><lem wit="【大】">&SD-A4F8;</lem><rdg resp="Taisho" wit="【甲】">&SD-A4F2;</rdg></app>&SD-A5FD;&SD-A657;&SD-A67C;&SD-A5AC;&SD-D5B4;</p>
+<lb n="0167b12" ed="T"/><p id="pT18p0167b1201">何耶揭嘌&CB00085;真言曰。</p>
+<lb n="0167b13" ed="T"/><p lang="san-sd" id="pT18p0167b1301" type="dharani">&SD-A6B2;&SD-D7C4;&SD-A6A8;&SD-A5F1;&SD-A962;&SD-A661;&SD-D5B4;</p>
+<lb n="0167b14" ed="T"/><p id="pT18p0167b1401">耶輸陀羅真言曰。</p>
+<lb n="0167b15" ed="T"/><p lang="san-sd" id="pT18p0167b1501" type="dharani">&SD-A5FB;&SD-D7C4;&SD-A5F1;&SD-A66A;&SD-A57B;&SD-A5FE;&SD-D5B4;</p>
+<lb n="0167b16" ed="T"/><p id="pT18p0167b1601">寶<note n="0167008" resp="Taisho" place="foot text" type="orig">手＝掌【甲】</note><app n="0167008"><lem wit="【大】">手</lem><rdg resp="Taisho" wit="【甲】">掌</rdg></app>真言。</p>
+<lb n="0167b17" ed="T"/><p lang="san-sd" id="pT18p0167b1701" type="dharani"><note n="0167009" resp="Taisho" place="foot text" type="orig">&SD-A6A6;＝&SD-A67A;【甲】</note><app n="0167009"><lem wit="【大】">&SD-A6A6;</lem><rdg resp="Taisho" wit="【甲】">&SD-A67A;</rdg></app>&SD-D7C4;&SD-A5FD;&SD-B448;&SD-A5B6;&SD-A54D;&SD-D5B4;</p>
+<lb n="0167b18" ed="T"/><p id="pT18p0167b1801">光網真言曰。</p>
+<lb n="0167b19" ed="T"/><p lang="san-sd" id="pT18p0167b1901" type="dharani">&SD-A4C0;&SD-D7C4;&SD-A4B6;&SD-A64C;&SD-A5AC;&SD-DA44;&SD-A5D9;&SD-D5B4;</p>
+<lb n="0167b20" ed="T"/><p id="pT18p0167b2001">釋迦牟尼真言曰。</p>
+<lb n="0167b21" ed="T"/><p lang="san-sd" id="pT18p0167b2101" type="dharani">&SD-A5E4;&SD-D7C4;<note n="0167010" resp="Taisho" place="foot text" type="orig">&SD-A662;＝&SD-A663;【甲】</note><app n="0167010"><lem wit="【大】">&SD-A662;</lem><rdg resp="Taisho" wit="【甲】">&SD-A663;</rdg></app>&SD-A6C0;&SD-E043;&SD-A5AB;&SD-D5B4;</p>
+<lb n="0167b22" ed="T"/><p id="pT18p0167b2201"><note n="0167011" resp="Taisho" place="foot text" type="orig">□＝三【甲】</note><app n="0167011"><lem wit="【大】">□</lem><rdg resp="Taisho" wit="【甲】">三</rdg></app>佛頂真言曰。</p>
+<lb n="0167b23" ed="T"/><p lang="san-sd" id="pT18p0167b2301" type="dharani"><app source="0164022" type="＊"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app><app source="0164022" type="＊"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app>&SD-A6A6;&SD-E1AD;&SD-D7C4;<app source="0164022" type="＊"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app>&SD-E2F1;&SD-D7C4;&SD-CFC9;&SD-E0C7;&SD-A66E;&SD-DA4C;<note n="0167012" resp="Taisho" place="foot text" type="orig">&SD-A5FB;＝&SD-A5F1;【甲】</note><app n="0167012"><lem wit="【大】">&SD-A5FB;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5F1;</rdg></app>&SD-D5B4;</p>
+<lb n="0167b24" ed="T"/><p id="pT18p0167b2401">白傘蓋佛頂真言曰。</p>
+<lb n="0167b25" ed="T"/><p lang="san-sd" id="pT18p0167b2501" type="dharani">&SD-A654;&SD-D7C4;&SD-A67C;&SD-A558;&SD-A557;&SD-A5B5;&SD-DA4C;&SD-D5B4;</p>
+<lb n="0167b26" ed="T"/><p id="pT18p0167b2601">勝佛頂真言曰。</p>
+<lb n="0167b27" ed="T"/><p lang="san-sd" id="pT18p0167b2701" type="dharani">&SD-A66C;&SD-D7C4;&SD-A4B6;&SD-A5F9;&SD-E0C7;&SD-A66E;&SD-D5B4;</p>
+<lb n="0167b28" ed="T"/><p id="pT18p0167b2801">最勝佛頂真言曰。</p>
+<lb n="0167b29" ed="T"/><p lang="san-sd" id="pT18p0167b2901" type="dharani">&SD-A665;&SD-A67D;&SD-D7C4;&SD-A658;&SD-A4B6;&SD-A5F9;&SD-E0C7;&SD-A66E;&SD-D5B4;</p>
+<pb n="0167c" id="T18.0854.0167c" ed="T"/>
+<lb n="0167c01" ed="T"/><p id="pT18p0167c0101">光聚佛頂真言。</p>
+<lb n="0167c02" ed="T"/><p lang="san-sd" id="pT18p0167c0201" type="dharani">&SD-E053;&SD-D7C4;&SD-A55D;&SD-A4BC;&SD-A5FE;&SD-A664;&SD-D5B4;</p>
+<lb n="0167c03" ed="T"/><p id="pT18p0167c0301">除障佛頂真言。</p>
+<lb n="0167c04" ed="T"/><p lang="san-sd" id="pT18p0167c0401" type="dharani">&SD-ABAD;&SD-D7C4;&SD-A658;&SD-A442;&SD-A5FD;&SD-A54B;&SD-A5BF;&SD-A4A6;&SD-E0C7;&SD-A66E;&SD-D5B4;</p>
+<lb n="0167c05" ed="T"/><p id="pT18p0167c0501">世明妃真言曰。</p>
+<lb n="0167c06" ed="T"/><p lang="san-sd" id="pT18p0167c0601" type="dharani">&SD-A561;&SD-A6B2;&SD-A5BF;&SD-A6B2;&SD-A5FB;&SD-D7C4;&SD-A5CF;&SD-A7F0;&SD-A5FE;&SD-E0C7;&SD-A652;&SD-A446;&SD-D5B4;</p>
+<lb n="0167c07" ed="T"/><p id="pT18p0167c0701">無能勝真言曰。</p>
+<lb n="0167c08" ed="T"/><p lang="san-sd" id="pT18p0167c0801" type="dharani">&SD-E1AD;&SD-D7C4;&SD-CFC5;&SD-A5B5;&SD-A5FE;&SD-A4B8;&SD-A5FE;&SD-D5B4;</p>
+<lb n="0167c09" ed="T"/><p id="pT18p0167c0901">地神真言曰。</p>
+<lb n="0167c10" ed="T"/><p lang="san-sd" id="pT18p0167c1001" type="dharani"><note n="0167013" resp="Taisho" place="foot text" type="orig">&SD-A5CF;＝&SD-A5D0;【甲】</note><app n="0167013"><lem wit="【大】">&SD-A5CF;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5D0;</rdg></app>&SD-D7C4;&SD-CBF7;&SD-A565;&SD-A659;&SD-D5B4;</p>
+<lb n="0167c11" ed="T"/><p id="pT18p0167c1101">計設尼真言曰。</p>
+<lb n="0167c12" ed="T"/><p lang="san-sd" id="pT18p0167c1201" type="dharani">&SD-A442;&SD-A64C;&SD-D7C4;&SD-A446;&SD-A664;&SD-A5AC;&SD-D5B4;</p>
+<lb n="0167c13" ed="T"/><p id="pT18p0167c1301">烏婆計設尼真言曰。</p>
+<lb n="0167c14" ed="T"/><p lang="san-sd" id="pT18p0167c1401" type="dharani">&SD-A571;&SD-A64C;&SD-D7C4;&SD-CFC9;&SD-A5B5;&SD-A446;&SD-A664;&SD-A5AC;&SD-D5B4;</p>
+<lb n="0167c15" ed="T"/><p id="pT18p0167c1501">質多羅童子真言曰。</p>
+<lb n="0167c16" ed="T"/><p lang="san-sd" id="pT18p0167c1601" type="dharani">&SD-A5E7;&SD-A64C;&SD-D7C4;&SD-A47E;<note n="0167014" resp="Taisho" place="foot text" type="orig">&SD-AA5F;＝&SD-A558;【甲】</note><app n="0167014"><lem wit="【大】">&SD-AA5F;</lem><rdg resp="Taisho" wit="【甲】">&SD-A558;</rdg></app>&SD-D5B4;</p>
+<lb n="0167c17" ed="T"/><p id="pT18p0167c1701">財惠童子真言曰。</p>
+<lb n="0167c18" ed="T"/><p lang="san-sd" id="pT18p0167c1801" type="dharani">&SD-A6AA;&SD-A64C;&SD-D7C4;&SD-A656;&SD-E0BC;&SD-A5E5;&SD-A559;&SD-D5B4;</p>
+<lb n="0167c19" ed="T"/><p id="pT18p0167c1901">除疑怪真言曰。</p>
+<lb n="0167c20" ed="T"/><p lang="san-sd" id="pT18p0167c2001" type="dharani">&SD-A6A8;&SD-A67A;<note n="0167015" resp="Taisho" place="foot text" type="orig">&SD-E040;＝&SD-A5B3;【甲】＊</note><app n="0167015"><lem wit="【大】">&SD-E040;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5B3;</rdg></app>&SD-D7C4;&SD-A6B1;&SD-A444;&SD-A6A8;&SD-A64C;&SD-A5B4;&SD-D5B4;</p>
+<lb n="0167c21" ed="T"/><p id="pT18p0167c2101">施一切眾生無畏真言曰。</p>
+<lb n="0167c22" ed="T"/><p lang="san-sd" id="pT18p0167c2201" type="dharani">&SD-A5FD;&SD-A67A;<app source="0167015" type="＊"><lem wit="【大】">&SD-E040;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5B3;</rdg></app>&SD-D7C4;&SD-A67A;&SD-DA46;&SD-A67A;&SD-AF5A;&SD-A5D9;&SD-A5FB;&SD-A56F;&SD-A575;&SD-D5B4;</p>
+<lb n="0167c23" ed="T"/><p id="pT18p0167c2301">除一切惡趣真言曰。</p>
+<lb n="0167c24" ed="T"/><p lang="san-sd" id="pT18p0167c2401" type="dharani"><note n="0167016" resp="Taisho" place="foot text" type="orig">&SD-E347;＝&SD-E0E9;【甲】</note><app n="0167016"><lem wit="【大】">&SD-E347;</lem><rdg resp="Taisho" wit="【甲】">&SD-E0E9;</rdg></app>&SD-A67A;&SD-A5B3;&SD-D7C4;&SD-A67A;&SD-DA46;&SD-A5B6;&SD-A5F2;&SD-A4B6;&SD-A6B3;&SD-D5B4;</p>
+<lb n="0167c25" ed="T"/><p id="pT18p0167c2501">哀愍惠真言曰。</p>
+<lb n="0167c26" ed="T"/><p lang="san-sd" id="pT18p0167c2601" type="dharani"><note n="0167017" resp="Taisho" place="foot text" type="orig">&SD-E347;＝&SD-A5CF;&SD-E161;【甲】</note><app n="0167017"><lem wit="【大】">&SD-E347;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5CF;&SD-E161;</rdg></app>&SD-A67A;&SD-A5B3;&SD-D7C4;<note n="0167018" resp="Taisho" place="foot text" type="orig">&SD-E347;＝&SD-A5B5;&SD-A640;&SD-AA5F;&SD-A662;&SD-A5F1;&SD-A5E5;&SD-A559;【甲】</note><app n="0167018"><lem wit="【大】">&SD-E347;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5B5;&SD-A640;&SD-AA5F;&SD-A662;&SD-A5F1;&SD-A5E5;&SD-A559;</rdg></app></p>
+<lb n="0167c27" ed="T"/><p id="pT18p0167c2701">大慈生真言。</p>
+<lb n="0167c28" ed="T"/><p lang="san-sd" id="pT18p0167c2801" type="dharani">&SD-A4F0;&SD-D7C4;&SD-A5E5;&SD-A6A9;&SD-A5EC;&SD-E1E2;&SD-E2C7;&SD-CCAA;&SD-A557;&SD-D5B4;</p>
+<lb n="0167c29" ed="T"/><p id="pT18p0167c2901">大<note n="0167019" resp="Taisho" place="foot text" type="orig">□＝悲【甲】</note><app n="0167019"><lem wit="【大】">□</lem><rdg resp="Taisho" wit="【甲】">悲</rdg></app>纏真言曰。</p>
+<lb n="0167c30" ed="T"/><p lang="san-sd" id="pT18p0167c3001" type="dharani">&SD-A5FB;&SD-D7C4;&SD-A5E5;&SD-A6A9;&SD-A440;&SD-A643;&SD-E1F1;&SD-DA44;<note n="0167020" resp="Taisho" place="foot text" type="orig">&SD-A559;＝&SD-A4F4;【甲】</note><app n="0167020"><lem wit="【大】">&SD-A559;</lem><rdg resp="Taisho" wit="【甲】">&SD-A4F4;</rdg></app>&SD-A557;&SD-D5B4;</p>
+<pb n="0168a" id="T18.0854.0168a" ed="T"/>
+<lb n="0168a01" ed="T"/><p id="pT18p0168a0101">除一切熱惱真言曰。</p>
+<lb n="0168a02" ed="T"/><p lang="san-sd" id="pT18p0168a0201" type="dharani">&SD-E241;<note n="0168001" resp="Taisho" place="foot text" type="orig">&SD-E347;＝&SD-A67A;【甲】</note><app n="0168001"><lem wit="【大】">&SD-E347;</lem><rdg resp="Taisho" wit="【甲】">&SD-A67A;</rdg></app>&SD-B7A3;&SD-A570;&SD-A6A8;&SD-DA44;<note n="0168002" resp="Taisho" place="foot text" type="orig">&SD-A662;＝&SD-A663;【甲】</note><app n="0168002"><lem wit="【大】">&SD-A662;</lem><rdg resp="Taisho" wit="【甲】">&SD-A663;</rdg></app>&SD-A5E7;&SD-A5A9;&SD-D5B4;</p>
+<lb n="0168a03" ed="T"/><p id="pT18p0168a0301">不<note n="0168003" resp="Taisho" place="foot text" type="orig">〔可〕－【甲】</note><app n="0168003"><lem wit="【大】">可</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>思議真言曰。</p>
+<lb n="0168a04" ed="T"/><p lang="san-sd" id="pT18p0168a0401" type="dharani">&SD-D1F4;&SD-D7C4;&SD-CFC5;&SD-A47E;&SD-E0ED;&SD-A5E5;&SD-A559;&SD-A56F;&SD-CF55;&SD-D5B4;</p>
+<lb n="0168a05" ed="T"/><p id="pT18p0168a0501">地藏旗真言曰。</p>
+<lb n="0168a06" ed="T"/><p lang="san-sd" id="pT18p0168a0601" type="dharani">&SD-A6A8;&SD-A6A8;&SD-A6A8;&SD-D7C4;&SD-A5CF;&SD-A67A;&SD-DA46;<note n="0168004" resp="Taisho" place="foot text" type="orig">&SD-A663;＝&SD-A662;【甲】</note><app n="0168004"><lem wit="【大】">&SD-A663;</lem><rdg resp="Taisho" wit="【甲】">&SD-A662;</rdg></app>&SD-A5B5;&SD-A640;&SD-E042;&SD-A5FE;&SD-A440;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0168a07" ed="T"/><p id="pT18p0168a0701">寶處真言曰。</p>
+<lb n="0168a08" ed="T"/><p lang="san-sd" id="pT18p0168a0801" type="dharani">&SD-A579;&SD-A4C0;&SD-D7C4;&SD-A5FD;&SD-DA4B;&SD-A440;&SD-A5FD;&SD-D5B4;</p>
+<lb n="0168a09" ed="T"/><p id="pT18p0168a0901">寶手真言曰。</p>
+<lb n="0168a10" ed="T"/><p lang="san-sd" id="pT18p0168a1001" type="dharani"><note n="0168005" resp="Taisho" place="foot text" type="orig">&SD-A66E;＝&SD-A678;【甲】</note><app n="0168005"><lem wit="【大】">&SD-A66E;</lem><rdg resp="Taisho" wit="【甲】">&SD-A678;</rdg></app>&SD-D7C4;&SD-A5FD;&SD-B448;&SD-A5B6;&SD-A54D;&SD-D5B4;</p>
+<lb n="0168a11" ed="T"/><p id="pT18p0168a1101">持地真言曰。</p>
+<lb n="0168a12" ed="T"/><p lang="san-sd" id="pT18p0168a1201" type="dharani">&SD-A47A;&SD-D7C4;&SD-A57B;&SD-A5FD;&SD-A54D;&SD-AFAB;&SD-A5FD;&SD-A4D8;&SD-D5B4;</p>
+<lb n="0168a13" ed="T"/><p id="pT18p0168a1301">寶印手真言曰。</p>
+<lb n="0168a14" ed="T"/><p lang="san-sd" id="pT18p0168a1401" type="dharani">&SD-A5CB;&SD-D7C4;&SD-A5FD;&SD-B448;&SD-E043;&SD-AA77;&SD-A6A8;&SD-CDA9;&SD-D5B4;</p>
+<lb n="0168a15" ed="T"/><p id="pT18p0168a1501">堅固意真言曰。</p>
+<lb n="0168a16" ed="T"/><p lang="san-sd" id="pT18p0168a1601" type="dharani"><note n="0168006" resp="Taisho" place="foot text" type="orig">&SD-E0C4;＝&SD-A555;【甲】</note><app n="0168006"><lem wit="【大】">&SD-E0C4;</lem><rdg resp="Taisho" wit="【甲】">&SD-A555;</rdg></app>&SD-D7C4;&SD-CBEB;&SD-A4FE;&SD-A7FC;<note n="0168007" resp="Taisho" place="foot text" type="orig">&SD-A662;＝&SD-A663;【甲】</note><app n="0168007"><lem wit="【大】">&SD-A662;</lem><rdg resp="Taisho" wit="【甲】">&SD-A663;</rdg></app>&SD-A5F1;&SD-D5B4;</p>
+<lb n="0168a17" ed="T"/><p id="pT18p0168a1701">虛空無垢真言曰。</p>
+<lb n="0168a18" ed="T"/><p lang="san-sd" id="pT18p0168a1801" type="dharani">&SD-A6B2;&SD-D7C4;&SD-A458;&SD-A458;&SD-A5AA;&SD-A5E5;&SD-A64A;&SD-D5B4;</p>
+<lb n="0168a19" ed="T"/><p id="pT18p0168a1901">虛空惠真言曰。</p>
+<lb n="0168a20" ed="T"/><p lang="san-sd" id="pT18p0168a2001" type="dharani">&SD-E2C8;&SD-D7C4;&SD-A458;&SD-A458;&SD-A5A9;&SD-A5E5;&SD-A55D;&SD-D5B4;</p>
+<lb n="0168a21" ed="T"/><p id="pT18p0168a2101">清淨惠真言曰。</p>
+<lb n="0168a22" ed="T"/><p lang="san-sd" id="pT18p0168a2201" type="dharani">&SD-A458;&SD-A561;&SD-D7C4;&SD-A5CF;&SD-A666;&SD-D9F9;&SD-A5E5;&SD-A55D;&SD-D5B4;</p>
+<lb n="0168a23" ed="T"/><p id="pT18p0168a2301">行<note n="0168008" resp="Taisho" place="foot text" type="orig">□＝慧【甲】</note><app n="0168008"><lem wit="【大】">□</lem><rdg resp="Taisho" wit="【甲】">慧</rdg></app>真言曰。</p>
+<lb n="0168a24" ed="T"/><p lang="san-sd" id="pT18p0168a2401" type="dharani">&SD-A57D;&SD-A648;&SD-D7C4;&SD-A640;&SD-DA4C;&SD-A5E5;&SD-A55D;&SD-D5B4;</p>
+<lb n="0168a25" ed="T"/><p id="pT18p0168a2501"><note n="0168009" resp="Taisho" place="foot text" type="orig">□＝安【甲】</note><app n="0168009"><lem wit="【大】">□</lem><rdg resp="Taisho" wit="【甲】">安</rdg></app>惠真言曰。</p>
+<lb n="0168a26" ed="T"/><p lang="san-sd" id="pT18p0168a2601" type="dharani"><note n="0168010" resp="Taisho" place="foot text" type="orig">&SD-E347;＝&SD-DA74;【甲】</note><app n="0168010"><lem wit="【大】">&SD-E347;</lem><rdg resp="Taisho" wit="【甲】">&SD-DA74;</rdg></app>&SD-A67C;&SD-A5FD;&SD-E3AD;&SD-D9FC;&SD-D5B4;</p>
+<lb n="0168a27" ed="T"/><p id="pT18p0168a2701"><note n="0168011" resp="Taisho" place="foot text" type="orig">□＝諸奉教者真言曰【甲】</note><app n="0168011"><lem wit="【大】">□</lem><rdg resp="Taisho" wit="【甲】">諸奉教者真言曰</rdg></app>。</p>
+<lb n="0168a28" ed="T"/><p lang="san-sd" id="pT18p0168a2801" type="dharani"><note n="0168012" resp="Taisho" place="foot text" type="orig">&SD-E347;＝&SD-A57D;【甲】</note><app n="0168012"><lem wit="【大】">&SD-E347;</lem><rdg resp="Taisho" wit="【甲】">&SD-A57D;</rdg></app>&SD-E2B8;<note n="0168013" resp="Taisho" place="foot text" type="orig">&SD-A6A8;＝&SD-A6B2;【甲】</note><app n="0168013"><lem wit="【大】">&SD-A6A8;</lem><rdg resp="Taisho" wit="【甲】">&SD-A6B2;</rdg></app>&SD-AB5B;&SD-D7C4;<note n="0168014" resp="Taisho" place="foot text" type="orig">&SD-A442;＝&SD-A440;【甲】</note><app n="0168014"><lem wit="【大】">&SD-A442;</lem><rdg resp="Taisho" wit="【甲】">&SD-A440;</rdg></app>&SD-A5FE;&SD-E1F1;&SD-D5B4;</p>
+<lb n="0168a29" ed="T"/><p id="pT18p0168a2901">諸菩薩所說真言曰。</p>
+<pb n="0168b" id="T18.0854.0168b" ed="T"/>
+<lb n="0168b01" ed="T"/><p lang="san-sd" id="pT18p0168b0101" type="dharani">&SD-A6BF;&SD-A4F2;&SD-A557;&SD-A5FD;&SD-A5FB;&SD-A44A;&SD-D7C4;&SD-A5F1;&SD-A56B;&SD-E142;&SD-A5D5;&SD-A57D;&SD-A67A;&SD-AF5A;&SD-D5B4;</p>
+<lb n="0168b02" ed="T"/><p id="pT18p0168b0201">淨居真言曰。</p>
+<lb n="0168b03" ed="T"/><p lang="san-sd" id="pT18p0168b0301" type="dharani">&SD-A5A9;&SD-A5ED;&SD-A5FD;&SD-A5E5;&SD-A57B;&SD-B75D;&SD-A6A6;&SD-A5D9;&SD-A656;&SD-A5CF;&SD-A5D9;&SD-A656;&SD-D7C4;&SD-A440;<note n="0168015" resp="Taisho" place="foot text" type="orig">&SD-A563;＝&SD-A564;【甲】</note><app n="0168015"><lem wit="【大】">&SD-A563;</lem><rdg resp="Taisho" wit="【甲】">&SD-A564;</rdg></app>&SD-A5A9;&SD-A6A6;
+<lb n="0168b04" ed="T"/>&SD-A6A6;&SD-A67A;&SD-A55D;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0168b05" ed="T"/><p id="pT18p0168b0501">淨居天真言曰。</p>
+<lb n="0168b06" ed="T"/><p lang="san-sd" id="pT18p0168b0601" type="dharani">&SD-A666;&SD-E4BB;<note n="0168016" resp="Taisho" place="foot text" type="orig">&SD-A656;&SD-A6A9;＝&SD-A656;&SD-A67B;【甲】</note><app n="0168016"><lem wit="【大】">&SD-A656;&SD-A6A9;</lem><rdg resp="Taisho" wit="【甲】">&SD-A656;&SD-A67B;</rdg></app>&SD-D5B4;</p>
+<lb n="0168b07" ed="T"/><p id="pT18p0168b0701">羅剎婆真言曰。</p>
+<lb n="0168b08" ed="T"/><p lang="san-sd" id="pT18p0168b0801" type="dharani">&SD-A951;&SD-A446;&SD-A640;&SD-D7C4;&SD-A5FE;&SD-A6B4;<note n="0168017" resp="Taisho" place="foot text" type="orig">&SD-A67A;　&SD-A67B;【甲】</note><note n="0168017" resp="CBETA" type="mod">&SD-A67A;<app><lem resp="CBETA.say">＝</lem><rdg wit="【大】">&lac-space;</rdg></app>&SD-A67B;【甲】</note><app n="0168017"><lem wit="【大】">&SD-A67A;</lem><rdg resp="Taisho" wit="【甲】">&SD-A67B;</rdg></app>&SD-D5B4;</p>
+<lb n="0168b09" ed="T"/><p id="pT18p0168b0901">諸荼吉尼真言曰。</p>
+<lb n="0168b10" ed="T"/><p lang="san-sd" id="pT18p0168b1001" type="dharani"><note n="0168018" resp="Taisho" place="foot text" type="orig">&SD-DA75;＝&SD-ABA6;【甲】</note><app n="0168018"><lem wit="【大】">&SD-DA75;</lem><rdg resp="Taisho" wit="【甲】">&SD-ABA6;</rdg></app>&SD-A6B3;&SD-D7C4;<note n="0168019" resp="Taisho" place="foot text" type="orig">&SD-A4F2;＝&SD-A4F3;【甲】</note><app n="0168019"><lem wit="【大】">&SD-A4F2;</lem><rdg resp="Taisho" wit="【甲】">&SD-A4F3;</rdg></app>&SD-A442;&SD-A5AC;&SD-E040;&SD-D5B4;</p>
+<lb n="0168b11" ed="T"/><p id="pT18p0168b1101">藥叉女真言曰。</p>
+<lb n="0168b12" ed="T"/><p lang="san-sd" id="pT18p0168b1201" type="dharani">&SD-A5F1;&SD-A6B4;&SD-A5CF;&SD-A7F0;&SD-A57B;&SD-A640;&SD-D7C4;&SD-A5F1;&SD-A6B6;&SD-A54E;&SD-E040;&SD-D5B4;</p>
+<lb n="0168b13" ed="T"/><p id="pT18p0168b1301">諸毘舍遮真言曰。</p>
+<lb n="0168b14" ed="T"/><p lang="san-sd" id="pT18p0168b1401" type="dharani">&SD-A5B7;&SD-A47E;&SD-A5B7;&SD-A47E;&SD-D7C4;&SD-A5B7;&SD-A663;&SD-A47E;&SD-A5AC;&SD-E040;&SD-D5B4;</p>
+<lb n="0168b15" ed="T"/><p id="pT18p0168b1501">諸部多羅真言曰。</p>
+<lb n="0168b16" ed="T"/><p lang="san-sd" id="pT18p0168b1601" type="dharani">&SD-E24E;&SD-E241;&SD-A45C;&SD-CFC7;&SD-A5EF;&SD-A6A6;&SD-A55D;&SD-D7C4;&SD-A5DE;&SD-A558;&SD-E040;&SD-D7C4;</p>
+<lb n="0168b17" ed="T"/><p id="pT18p0168b1701">諸阿修羅真言曰。</p>
+<lb n="0168b18" ed="T"/><p lang="san-sd" id="pT18p0168b1801" type="dharani">&SD-A5FD;&SD-A4E4;&SD-A5FD;&SD-A4E4;&SD-E1AE;&SD-A561;&SD-AAEC;&SD-D7C4;&SD-CFC5;&SD-CFC5;&SD-DA44;&SD-D5B4;</p>
+<lb n="0168b19" ed="T"/><p id="pT18p0168b1901">諸摩&CB00264;囉伽真言曰。</p>
+<lb n="0168b20" ed="T"/><p lang="san-sd" id="pT18p0168b2001" type="dharani">&SD-A5FE;&SD-D7C4;&SD-A458;&SD-A5FD;&SD-A654;&SD-E0D0;&SD-A5FD;&SD-E0D7;&SD-D5B4;</p>
+<lb n="0168b21" ed="T"/><p id="pT18p0168b2101">摩&CB00264;羅伽真言曰。</p>
+<lb n="0168b22" ed="T"/><p lang="san-sd" id="pT18p0168b2201" type="dharani">&SD-A5E5;&SD-A6B0;&SD-A5FD;&SD-A458;&SD-D5B4;</p>
+<lb n="0168b23" ed="T"/><p id="pT18p0168b2301">諸緊那羅真言曰。</p>
+<lb n="0168b24" ed="T"/><p lang="san-sd" id="pT18p0168b2401" type="dharani">&SD-A6A8;&SD-A44C;&SD-A67A;&SD-A5B3;&SD-A5CF;&SD-A6A8;&SD-A67A;&SD-A5B3;&SD-D7C4;&SD-A442;&SD-CA56;&SD-A5FD;&SD-E0C4;&SD-D5B4;</p>
+<lb n="0168b25" ed="T"/><p id="pT18p0168b2501">諸人真言曰。</p>
+<lb n="0168b26" ed="T"/><p lang="san-sd" id="pT18p0168b2601" type="dharani">&SD-CFC7;&SD-DA7A;&SD-A5B5;&SD-A648;&SD-A5E5;&SD-E0C2;&SD-A5E5;&SD-A5F7;&SD-A5EB;&SD-B064;&SD-A6A9;&SD-A5E5;&SD-A5AD;&SD-A8D6;<note n="0168020" resp="Taisho" place="foot text" type="orig">&SD-A555;＝&SD-E0C4;【甲】</note><app n="0168020"><lem wit="【大】">&SD-A555;</lem><rdg resp="Taisho" wit="【甲】">&SD-E0C4;</rdg></app>&SD-D5B4;
+<lb n="0168b27" ed="T"/>&SD-A4E6;&SD-D5B4;</p>
+<lb n="0168b28" ed="T"/><p id="pT18p0168b2801">無所不至真言曰　已下第三卷（押紙云。
+<lb n="0168b29" ed="T"/>已下第三卷悉地出現品）。</p>
+<lb n="0168b30" ed="T"/><p lang="san-sd" id="pT18p0168b3001" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A644;&SD-A8A2;&SD-D7C4;&SD-A5CF;&SD-E0AB;&SD-E043;&SD-A452;&SD-D9F8;&SD-A67A;&SD-DA46;
+<pb n="0168c" id="T18.0854.0168c" ed="T"/>
+<lb n="0168c01" ed="T"/>&SD-A564;&SD-D7C4;&SD-CFC5;&SD-CFC6;&SD-CFD3;&SD-CFD4;&SD-D5B4;</p>
+<lb n="0168c02" ed="T"/><p id="pT18p0168c0201"><note n="0168021" resp="Taisho" place="foot text" type="orig">□＝虛【甲】</note><app n="0168021"><lem wit="【大】">□</lem><rdg resp="Taisho" wit="【甲】">虛</rdg></app>空藏明妃真言曰。</p>
+<lb n="0168c03" ed="T"/><p lang="san-sd" id="pT18p0168c0301" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-DA46;&SD-A557;&SD-A564;&SD-A458;&SD-A55D;&SD-A8A2;&SD-D7C4;&SD-A658;&SD-E0AB;&SD-E043;&SD-A452;&SD-D9F8;&SD-D7C4;&SD-A67A;&SD-DA46;
+<lb n="0168c04" ed="T"/>&SD-A564;&SD-A456;&SD-D7C4;&SD-D1F3;&SD-CCAA;&SD-A55D;&SD-CDF1;&SD-A5FD;&SD-A6AB;&SD-A5EF;&SD-D7C4;&SD-A458;&SD-A458;&SD-A5A9;&SD-A44A;&SD-D7C4;&SD-DA49;
+<lb n="0168c05" ed="T"/>&SD-A6A9;&SD-D5B4;</p>
+<lb n="0168c06" ed="T"/><p id="pT18p0168c0601">滿足一切金剛字句真言曰。</p>
+<lb n="0168c07" ed="T"/><p lang="san-sd" id="pT18p0168c0701" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-E17A;&SD-A5CF;&SD-A5FD;<app source="0164022" type="＊"><lem wit="【大】">&SD-DA74;</lem><rdg resp="Taisho" wit="【甲】">&SD-E17C;</rdg></app>&SD-A456;&SD-D5B4;</p>
+<lb n="0168c08" ed="T"/><p id="pT18p0168c0801">無礙力明妃真言曰（押紙云。已下第三卷
+<lb n="0168c09" ed="T"/>轉字輪&M062462;&M062431;&M062473;行品）。</p>
+<lb n="0168c10" ed="T"/><p lang="san-sd" id="pT18p0168c1001" type="dharani">&SD-A557;&SD-DA4A;&SD-A564;&SD-A458;&SD-A458;<note n="0168022" resp="Taisho" place="foot text" type="orig">&SD-A5A9;＝&SD-A5AA;【甲】</note><app n="0168022"><lem wit="【大】">&SD-A5A9;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5AA;</rdg></app>&SD-A67A;&SD-A5EB;&SD-D7C4;&SD-CFC5;&SD-DA44;&SD-A559;&SD-A67A;&SD-A5EB;&SD-D7C4;&SD-A67A;&SD-DA46;
+<lb n="0168c11" ed="T"/>&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A67A;&SD-CA56;<note n="0168023" resp="Taisho" place="foot text" type="orig">&SD-CBE3;＝&SD-A5AD;【甲】</note><app n="0168023"><lem wit="【大】">&SD-CBE3;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5AD;</rdg></app>&SD-A458;&SD-D7C4;&SD-A458;&SD-A458;&SD-A5A9;&SD-A67A;&SD-A5E5;&SD-D7C4;　&SD-A656;
+<lb n="0168c12" ed="T"/>&SD-A5FD;&SD-A64A;&SD-A6B4;&SD-A551;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0168c13" ed="T"/><p id="pT18p0168c1301">救世者真言曰。</p>
+<lb n="0168c14" ed="T"/><p lang="san-sd" id="pT18p0168c1401" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFC5;&SD-D5B4;</p>
+<lb n="0168c15" ed="T"/><p id="pT18p0168c1501">無能害力明妃真言曰。</p>
+<lb n="0168c16" ed="T"/><p lang="san-sd" id="pT18p0168c1601" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A55D;&SD-D9F8;&SD-D7C4;&SD-A67A;&SD-B7A3;&SD-E043;&SD-A452;&SD-D9F8;&SD-D7C4;&SD-CFC5;&SD-A67A;
+<lb n="0168c17" ed="T"/>&SD-A5EB;&SD-A5B5;&SD-A5FD;&SD-A5EB;&SD-D7C4;&SD-CFC5;&SD-A47C;&SD-A650;&SD-D7C4;&SD-A458;&SD-A458;<note n="0168024" resp="Taisho" place="foot text" type="orig">&SD-A5AF;＝&SD-A55D;【甲】</note><app n="0168024"><lem wit="【大】">&SD-A5AF;</lem><rdg resp="Taisho" wit="【甲】">&SD-A55D;</rdg></app>&SD-D7C4;&SD-B2CC;&SD-A5FD;&SD-A551;&SD-D7C4;
+<lb n="0168c18" ed="T"/>&SD-A67A;&SD-B7A3;&SD-AA5F;&SD-A5AD;&SD-A458;&SD-A55D;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0168c19" ed="T"/><p id="pT18p0168c1901">置字句。</p>
+<lb n="0168c20" ed="T"/><p lang="san-sd" id="pT18p0168c2001" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-A5EF;&SD-D5B4;</p><p id="pT18p0168c2011" place="inline">已下第四卷。</p>
+<lb n="0168c21" ed="T"/>
+<milestone n="2" unit="juan"/>
+<lb n="0168c22" ed="T"/><juan n="002" fun="open"><mulu n="002" type="卷"/><jhead>胎藏梵字真言下卷</jhead></juan>
+<lb n="0168c23" ed="T"/>
+<lb n="0168c24" ed="T"/><p id="pT18p0168c2401"><note n="0168025" resp="Taisho" place="foot text" type="orig">（無等）＋力【甲】</note><app n="0168025"><lem wit="【大】">力</lem><rdg resp="Taisho" wit="【甲】">無等力</rdg></app>三昧。</p>
+<lb n="0168c25" ed="T"/><p lang="san-sd" id="pT18p0168c2501" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFC5;&SD-A67A;&SD-A5EB;&SD-D7C4;&SD-AA60;&SD-A67A;&SD-A5EB;&SD-D7C4;&SD-A67A;
+<lb n="0168c26" ed="T"/>&SD-A5E5;&SD-A5F7;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0168c27" ed="T"/><p id="pT18p0168c2701"><note n="0168026" resp="Taisho" place="foot text" type="orig">（淨）＋法【甲】</note><app n="0168026"><lem wit="【大】">法</lem><rdg resp="Taisho" wit="【甲】">淨法</rdg></app>界生。</p>
+<lb n="0168c28" ed="T"/><p lang="san-sd" id="pT18p0168c2801" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A57B;&SD-DA77;&SD-A57B;&SD-A55B;&SD-D7C4;&SD-B064;&SD-A5D9;&SD-A656;&SD-A448;
+<lb n="0168c29" ed="T"/>&SD-A6B2;&SD-D5B4;</p>
+<pb n="0169a" id="T18.0854.0169a" ed="T"/>
+<lb n="0169a01" ed="T"/><p id="pT18p0169a0101">法輪。</p>
+<lb n="0169a02" ed="T"/><p lang="san-sd" id="pT18p0169a0201" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A656;&SD-A9BD;&SD-A555;&SD-D7C4;&SD-A656;&SD-A9BD;&SD-E1EA;&SD-A448;&SD-A6B2;</p>
+<lb n="0169a03" ed="T"/><p id="pT18p0169a0301">大惠刀。</p>
+<lb n="0169a04" ed="T"/><p lang="san-sd" id="pT18p0169a0401" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A5E5;&SD-A6A9;&SD-A44C;<note n="0169001" resp="Taisho" place="foot text" type="orig">&SD-DAAE;＝&SD-B5B1;【甲】</note><app n="0169001"><lem wit="【大】">&SD-DAAE;</lem><rdg resp="Taisho" wit="【甲】">&SD-B5B1;</rdg></app>&SD-A5CF;&SD-A5FD;&SD-A4B6;&SD-D7C4;
+<lb n="0169a05" ed="T"/>&SD-A57B;&SD-DA77;&SD-A6A6;&SD-A56F;&SD-E2E7;&SD-A440;&SD-A67A;&SD-A6A8;&SD-A4B6;&SD-D7C4;&SD-A67A;&SD-E04C;&SD-A5F1;<note n="0169002" resp="Taisho" place="foot text" type="orig">&SD-A56F;＝&SD-CBEB;【甲】</note><app n="0169002"><lem wit="【大】">&SD-A56F;</lem><rdg resp="Taisho" wit="【甲】">&SD-CBEB;</rdg></app>&SD-CD4D;&SD-DAA1;&SD-A56F;
+<lb n="0169a06" ed="T"/>&SD-A440;&SD-D7C4;&SD-A557;&SD-A564;&SD-A458;&SD-A558;<note n="0169003" resp="Taisho" place="foot text" type="orig">&SD-A5CF;＝&SD-A57D;【甲】</note><app n="0169003"><lem wit="【大】">&SD-A5CF;</lem><rdg resp="Taisho" wit="【甲】">&SD-A57D;</rdg></app>&SD-E043;&SD-E04D;&SD-A5AB;&SD-B5ED;&SD-A557;&SD-D7C4;&SD-A5CF;&SD-A5FE;&SD-A458;&SD-A57B;
+<lb n="0169a07" ed="T"/>&SD-DA77;&SD-A5AB;&SD-B5ED;&SD-A557;<anchor id="fxT18p0169a01"/>&SD-DA74;&SD-D5B4;</p>
+<lb n="0169a08" ed="T"/><p id="pT18p0169a0801">法螺。</p>
+<lb n="0169a09" ed="T"/><p lang="san-sd" id="pT18p0169a0901" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFD3;&SD-D5B4;</p>
+<lb n="0169a10" ed="T"/><p id="pT18p0169a1001">蓮花。</p>
+<lb n="0169a11" ed="T"/><p lang="san-sd" id="pT18p0169a1101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;<note n="0169004" resp="Taisho" place="foot text" type="orig">&SD-CFD4;＝&SD-E17A;【甲】</note><note n="0169004" resp="CBETA" type="mod"><todo type="c"/>&SD-CFD4;＝&SD-E17A;【甲】</note>&SD-E17A;&SD-D5B4;</p>
+<lb n="0169a12" ed="T"/><p id="pT18p0169a1201">金剛大惠。</p>
+<lb n="0169a13" ed="T"/><p lang="san-sd" id="pT18p0169a1301" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A656;&SD-A9BD;&SD-E070;<anchor id="fxT18p0169a02"/>&SD-DA74;&SD-D5B4;</p>
+<lb n="0169a14" ed="T"/><p id="pT18p0169a1401">如來頂。</p>
+<lb n="0169a15" ed="T"/><p lang="san-sd" id="pT18p0169a1501" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;<anchor id="fxT18p0169a03"/>&SD-DA74;<anchor id="fxT18p0169a04"/>&SD-DA74;&SD-D5B4;</p>
+<lb n="0169a16" ed="T"/><p id="pT18p0169a1601">毫相。</p>
+<lb n="0169a17" ed="T"/><p lang="san-sd" id="pT18p0169a1701" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-E17A;&SD-A6B2;&SD-A4C1;&SD-D5B4;</p>
+<lb n="0169a18" ed="T"/><p id="pT18p0169a1801">大&CB00425;。</p>
+<lb n="0169a19" ed="T"/><p lang="san-sd" id="pT18p0169a1901" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A5E4;&SD-D5B4;</p>
+<lb n="0169a20" ed="T"/><p id="pT18p0169a2001">施無畏。</p>
+<lb n="0169a21" ed="T"/><p lang="san-sd" id="pT18p0169a2101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A67A;&SD-B7A3;&SD-A564;&SD-D7C4;&SD-A4B8;&SD-A5A9;&SD-A4B8;&SD-A5A9;&SD-A5D9;
+<lb n="0169a22" ed="T"/>&SD-A5F1;&SD-A5AA;&SD-A662;&SD-A5A9;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0169a23" ed="T"/><p id="pT18p0169a2301">與願。</p>
+<lb n="0169a24" ed="T"/><p lang="san-sd" id="pT18p0169a2401" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A656;&SD-A5FD;&SD-A56F;&SD-A656;&SD-A9BD;&SD-E1EA;&SD-A440;&SD-DA49;
+<lb n="0169a25" ed="T"/>&SD-A6A9;&SD-D5B4;</p>
+<lb n="0169a26" ed="T"/><p id="pT18p0169a2601">怖魔。</p>
+<lb n="0169a27" ed="T"/><p lang="san-sd" id="pT18p0169a2701" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A5E5;&SD-A6A9;&SD-A656;&SD-A5E7;&SD-A656;&SD-A559;&SD-D7C4;&SD-A56F;&SD-A662;
+<lb n="0169a28" ed="T"/>&SD-A656;&SD-A652;&SD-DAAE;&SD-A65C;&SD-D7C4;&SD-A5E5;&SD-A6A9;<note n="0169005" resp="Taisho" place="foot text" type="orig">&SD-A5EB;＝&SD-A5EC;【甲】</note><app n="0169005"><lem wit="【大】">&SD-A5EB;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5EC;</rdg></app>&SD-E1E2;&SD-A878;&SD-CCAA;<note n="0169006" resp="Taisho" place="foot text" type="orig">&SD-A557;＝&SD-A55D;【甲】</note><app n="0169006"><lem wit="【大】">&SD-A557;</lem><rdg resp="Taisho" wit="【甲】">&SD-A55D;</rdg></app>&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0169a29" ed="T"/><p id="pT18p0169a2901">悲生<note n="0169007" resp="Taisho" place="foot text" type="orig">願＝眼【甲】</note><app n="0169007"><lem wit="【大】">願</lem><rdg resp="Taisho" wit="【甲】">眼</rdg></app>。</p>
+<lb n="0169a30" ed="T"/><p lang="san-sd" id="pT18p0169a3001" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A458;&SD-A458;&SD-A5A9;&SD-A656;&SD-A557;&SD-A64A;&SD-A6B4;&SD-A54B;&SD-D7C4;
+<pb n="0169b" id="T18.0854.0169b" ed="T"/>
+<lb n="0169b01" ed="T"/>&SD-A440;<note n="0169008" resp="Taisho" place="foot text" type="orig">&SD-A642;&SD-E0C2;＝&SD-A643;&SD-A4F2;【甲】</note><app n="0169008"><lem wit="【大】">&SD-A642;&SD-E0C2;</lem><rdg resp="Taisho" wit="【甲】">&SD-A643;&SD-A4F2;</rdg></app>&SD-A5E5;&SD-A5F1;&SD-D7C4;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A47C;&SD-E2C9;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0169b02" ed="T"/><p id="pT18p0169b0201">索。</p>
+<lb n="0169b03" ed="T"/><p lang="san-sd" id="pT18p0169b0301" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A6AE;&SD-A6AE;&SD-A5E5;&SD-A6A9;&SD-A5B6;&SD-A662;&SD-D7C4;&SD-DA44;&SD-A67A;
+<lb n="0169b04" ed="T"/>&SD-A647;&SD-A570;<note n="0169009" resp="Taisho" place="foot text" type="orig">&SD-B769;＝&SD-A5F1;【甲】</note><app n="0169009"><lem wit="【大】">&SD-B769;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5F1;</rdg></app>&SD-A67A;&SD-AF59;<note n="0169010" resp="Taisho" place="foot text" type="orig">&SD-A57B;＝&SD-E177;【甲】</note><app n="0169010"><lem wit="【大】">&SD-A57B;</lem><rdg resp="Taisho" wit="【甲】">&SD-E177;</rdg></app>&SD-A55B;&SD-A5CF;&SD-A5ED;&SD-A6A8;&SD-A440;&SD-D7C4;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A57D;
+<lb n="0169b05" ed="T"/>&SD-E043;&SD-E04D;&SD-A5AB;&SD-B5ED;&SD-A557;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0169b06" ed="T"/><p id="pT18p0169b0601"><note n="0169011" resp="Taisho" place="foot text" type="orig">鉤＋（召）【甲】</note><app n="0169011"><lem wit="【大】">鉤</lem><rdg resp="Taisho" wit="【甲】">鉤召</rdg></app>。</p>
+<lb n="0169b07" ed="T"/><p lang="san-sd" id="pT18p0169b0701" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;<note n="0169012" resp="Taisho" place="foot text" type="orig">&SD-E17A;＝&SD-CFD4;【甲】</note><app n="0169012"><lem wit="【大】">&SD-E17A;</lem><rdg resp="Taisho" wit="【甲】">&SD-CFD4;</rdg></app>&SD-A67A;&SD-B7A3;&SD-AA5F;&SD-DA44;&SD-A559;&SD-A6A8;
+<lb n="0169b08" ed="T"/>&SD-A55D;&SD-D7C4;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A444;&SD-A663;&SD-D7C4;&SD-A5D5;&SD-A57D;&SD-A47C;<note n="0169013" resp="Taisho" place="foot text" type="orig">&SD-B769;＝&SD-B76A;【甲】</note><app n="0169013"><lem wit="【大】">&SD-B769;</lem><rdg resp="Taisho" wit="【甲】">&SD-B76A;</rdg></app>&SD-A5B5;&SD-A640;&SD-E042;&SD-A5FD;
+<lb n="0169b09" ed="T"/>&SD-A440;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0169b10" ed="T"/><p id="pT18p0169b1001">如來心。</p>
+<lb n="0169b11" ed="T"/><p lang="san-sd" id="pT18p0169b1101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-E0A4;&SD-A5B1;&SD-DAAE;&SD-A656;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0169b12" ed="T"/><p id="pT18p0169b1201"><note n="0169014" resp="Taisho" place="foot text" type="orig">（如來）＋臍【甲】</note><app n="0169014"><lem wit="【大】">臍</lem><rdg resp="Taisho" wit="【甲】">如來臍</rdg></app>。</p>
+<lb n="0169b13" ed="T"/><p lang="san-sd" id="pT18p0169b1301" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFC5;<note n="0169015" resp="Taisho" place="foot text" type="orig">&SD-DA78;＝&SD-E043;【甲】</note><app n="0169015"><lem wit="【大】">&SD-DA78;</lem><rdg resp="Taisho" wit="【甲】">&SD-E043;</rdg></app>&SD-A55F;&SD-DAAE;&SD-A656;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0169b14" ed="T"/><p id="pT18p0169b1401"><note n="0169016" resp="Taisho" place="foot text" type="orig">（如來）＋腰【甲】</note><app n="0169016"><lem wit="【大】">腰</lem><rdg resp="Taisho" wit="【甲】">如來腰</rdg></app>。</p>
+<lb n="0169b15" ed="T"/><p lang="san-sd" id="pT18p0169b1501" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A6A6;&SD-A5D9;&SD-A656;&SD-DA49;
+<lb n="0169b16" ed="T"/>&SD-A6A9;&SD-D5B4;</p>
+<lb n="0169b17" ed="T"/><p id="pT18p0169b1701"><note n="0169017" resp="Taisho" place="foot text" type="orig">（如來）＋藏【甲】</note><app n="0169017"><lem wit="【大】">藏</lem><rdg resp="Taisho" wit="【甲】">如來藏</rdg></app>。</p>
+<lb n="0169b18" ed="T"/><p lang="san-sd" id="pT18p0169b1801" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A55D;&SD-D9F8;&SD-A648;&SD-A648;&SD-A649;&SD-A649;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0169b19" ed="T"/><p id="pT18p0169b1901">大結界。</p>
+<lb n="0169b20" ed="T"/><p lang="san-sd" id="pT18p0169b2001" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A650;<note n="0169018" resp="Taisho" place="foot text" type="orig">&SD-E3AD;&SD-A5B9;＝&SD-E0E8;&SD-E3AD;【甲】</note><app n="0169018"><lem wit="【大】">&SD-E3AD;&SD-A5B9;</lem><rdg resp="Taisho" wit="【甲】">&SD-E0E8;&SD-E3AD;</rdg></app>&SD-A640;&SD-A5CF;&SD-A444;&SD-A640;&SD-A5CF;
+<lb n="0169b21" ed="T"/>&SD-A444;<note n="0169019" resp="Taisho" place="foot text" type="orig">&SD-A640;＝&SD-A650;【甲】</note><app n="0169019"><lem wit="【大】">&SD-A640;</lem><rdg resp="Taisho" wit="【甲】">&SD-A650;</rdg></app>&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0169b22" ed="T"/><p id="pT18p0169b2201">無堪忍大護。</p>
+<lb n="0169b23" ed="T"/><p lang="san-sd" id="pT18p0169b2301" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A55D;&SD-D9F8;&SD-D7C4;&SD-A67A;&SD-B7A3;&SD-A5D9;&SD-A5F1;&SD-A5CF;&SD-A458;&SD-A55D;&SD-D9F8;
+<lb n="0169b24" ed="T"/>&SD-D7C4;&SD-A5CF;&SD-E0AB;&SD-E043;&SD-A452;&SD-D9F8;&SD-A67A;&SD-DA46;<note n="0169020" resp="Taisho" place="foot text" type="orig">&SD-E347;＝&SD-A564;&SD-A6B2;&SD-A456;【甲】</note><app n="0169020"><lem wit="【大】">&SD-E347;</lem><rdg resp="Taisho" wit="【甲】">&SD-A564;&SD-A6B2;&SD-A456;</rdg></app>&SD-D7C4;&SD-A5FD;&SD-A6B4;<note n="0169021" resp="Taisho" place="foot text" type="orig">&SD-A5EF;＝&SD-A5E5;【甲】</note><app n="0169021"><lem wit="【大】">&SD-A5EF;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5E5;</rdg></app>&SD-A6A9;&SD-A656;&SD-A650;&SD-D7C4;
+<lb n="0169b25" ed="T"/>&SD-A67A;&SD-DA46;&SD-A557;&SD-A564;&SD-A458;&SD-A558;<note n="0169022" resp="Taisho" place="foot text" type="orig">&SD-A5B9;＝&SD-E3AD;【甲】</note><app n="0169022"><lem wit="【大】">&SD-A5B9;</lem><rdg resp="Taisho" wit="【甲】">&SD-E3AD;</rdg></app><note n="0169023" resp="Taisho" place="foot text" type="orig">&SD-B76F;＝&SD-E044;【甲】</note><app n="0169023"><lem wit="【大】">&SD-B76F;</lem><rdg resp="Taisho" wit="【甲】">&SD-E044;</rdg></app>&SD-A5AB;&SD-B5ED;&SD-A55D;&SD-D5B4;<anchor id="fxT18p0169b01"/>&SD-DA74;<anchor id="fxT18p0169b02"/>&SD-DA74;<note n="0169024" resp="Taisho" place="foot text" type="orig">&SD-DA4C;＝&SD-AA5F;【甲】</note><app n="0169024"><lem wit="【大】">&SD-DA4C;</lem><rdg resp="Taisho" wit="【甲】">&SD-AA5F;</rdg></app>
+<lb n="0169b26" ed="T"/>&SD-E046;&SD-D7C4;&SD-CFC5;&SD-DA44;&SD-A559;&SD-A6A8;&SD-A55D;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0169b27" ed="T"/><p id="pT18p0169b2701">普光。</p>
+<lb n="0169b28" ed="T"/><p lang="san-sd" id="pT18p0169b2801" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-E04A;&SD-A64B;<note n="0169025" resp="Taisho" place="foot text" type="orig">&SD-A5E5;＝&SD-A5E6;【甲】</note><app n="0169025"><lem wit="【大】">&SD-A5E5;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5E6;</rdg></app>&SD-A64C;&SD-A5AB;&SD-D7C4;&SD-A557;&SD-A564;
+<lb n="0169b29" ed="T"/>&SD-A458;&SD-A558;<note n="0169026" resp="Taisho" place="foot text" type="orig">&SD-E2CA;＝&SD-E1AA;【甲】</note><app n="0169026"><lem wit="【大】">&SD-E2CA;</lem><rdg resp="Taisho" wit="【甲】">&SD-E1AA;</rdg></app>&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0169b30" ed="T"/><p id="pT18p0169b3001">如來甲。</p>
+<lb n="0169b31" ed="T"/><p lang="san-sd" id="pT18p0169b3101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-DA44;&SD-A47C;&SD-C9FD;&SD-A656;&SD-DA76;&SD-E04A;&SD-A64A;&SD-D7C4;&SD-A5CF;
+<pb n="0169c" id="T18.0854.0169c" ed="T"/>
+<lb n="0169c01" ed="T"/>&SD-CDF5;&SD-A5FD;<anchor id="fxT18p0169c01"/>&SD-DA74;&SD-D5B4;</p>
+<lb n="0169c02" ed="T"/><p id="pT18p0169c0201">如來舌。</p>
+<lb n="0169c03" ed="T"/><p lang="san-sd" id="pT18p0169c0301" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A4B8;&SD-B070;&SD-A67A;&SD-A7D7;&SD-A57B;
+<lb n="0169c04" ed="T"/>&SD-DA77;&SD-DA44;&SD-A559;&SD-CD4D;&SD-A557;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0169c05" ed="T"/><p id="pT18p0169c0501">如來語。</p>
+<lb n="0169c06" ed="T"/><p lang="san-sd" id="pT18p0169c0601" type="dharani">&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A656;&SD-E1E6;&SD-D7C4;&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A557;&SD-A564;
+<lb n="0169c07" ed="T"/>&SD-A458;&SD-A558;&SD-A5E5;&SD-A6A9;&SD-A656;&SD-E1E6;&SD-A5CF;&SD-E0AB;<note n="0169027" resp="Taisho" place="foot text" type="orig">&SD-A4B6;＝&SD-D9FD;【甲】</note><app n="0169027"><lem wit="【大】">&SD-A4B6;</lem><rdg resp="Taisho" wit="【甲】">&SD-D9FD;</rdg></app>&SD-A5A9;&SD-A5E5;&SD-A6B0;&SD-A56F;&SD-A5F1;&SD-D7C4;&SD-DA49;
+<lb n="0169c08" ed="T"/>&SD-A6A9;&SD-D5B4;</p>
+<lb n="0169c09" ed="T"/><p id="pT18p0169c0901">如來牙。</p>
+<lb n="0169c10" ed="T"/><p lang="san-sd" id="pT18p0169c1001" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A579;&SD-E1D2;&SD-D7C4;&SD-A5FD;
+<lb n="0169c11" ed="T"/><note n="0169028" resp="Taisho" place="foot text" type="orig">&SD-A67A;＝&SD-A67B;【甲】</note><note n="0169028" resp="CBETA" type="mod"><todo type="c"/>&SD-A67A;＝&SD-A67B;【甲】</note>&SD-A67B;&SD-A95F;&SD-D7C4;&SD-A6A6;<note n="0169029" resp="Taisho" place="foot text" type="orig">&SD-AABD;＝&SD-DA44;【甲】</note><app n="0169029"><lem wit="【大】">&SD-AABD;</lem><rdg resp="Taisho" wit="【甲】">&SD-DA44;</rdg></app>&SD-A5B5;&SD-A440;&SD-D7C4;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-D7C4;&SD-A5CF;&SD-A66E;
+<lb n="0169c12" ed="T"/>&SD-A5F1;&SD-A6A6;&SD-A5D9;&SD-A656;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0169c13" ed="T"/><p id="pT18p0169c1301">如來辯說。</p>
+<lb n="0169c14" ed="T"/><p lang="san-sd" id="pT18p0169c1401" type="dharani">&SD-DA44;&SD-A559;&SD-A6A6;&SD-A5CF;&SD-E043;&SD-DAB0;&SD-D7C4;&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFC5;&SD-A47E;
+<lb n="0169c15" ed="T"/><note n="0169030" resp="Taisho" place="foot text" type="orig">&SD-E0ED;＝&SD-E1D4;【甲】</note><app n="0169030"><lem wit="【大】">&SD-E0ED;</lem><rdg resp="Taisho" wit="【甲】">&SD-E1D4;</rdg></app>&SD-CE4E;&SD-A557;&SD-D7C4;&SD-A643;&SD-A5B5;&SD-A656;<note n="0169031" resp="Taisho" place="foot text" type="orig">&SD-E0F1;＝&SD-DA40;【甲】</note><app n="0169031"><lem wit="【大】">&SD-E0F1;</lem><rdg resp="Taisho" wit="【甲】">&SD-DA40;</rdg></app>&SD-A67A;&SD-A5E5;&SD-CA56;&SD-DA44;&SD-D7C4;&SD-CEE4;&SD-A5CF;&SD-A666;&SD-D9FA;
+<lb n="0169c16" ed="T"/>&SD-B064;&SD-A5FD;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0169c17" ed="T"/><p id="pT18p0169c1701">如來十力。</p>
+<lb n="0169c18" ed="T"/><p lang="san-sd" id="pT18p0169c1801" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A56F;&SD-A662;&SD-A656;&SD-E0BF;&SD-A458;&SD-A57B;&SD-A5FD;&SD-D7C4;
+<lb n="0169c19" ed="T"/><anchor id="fxT18p0169c02"/>&SD-CFC1;&SD-A6A6;&SD-A4C0;&SD-D7C4;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0169c20" ed="T"/><p id="pT18p0169c2001">如來念處。</p>
+<lb n="0169c21" ed="T"/><p lang="san-sd" id="pT18p0169c2101" type="dharani">&SD-E2B5;&SD-A7DB;&SD-A5B5;<note n="0169032" resp="Taisho" place="foot text" type="orig">&SD-B064;＝&SD-E0F3;【甲】</note><app n="0169032"><lem wit="【大】">&SD-B064;</lem><rdg resp="Taisho" wit="【甲】">&SD-E0F3;</rdg></app>&SD-A5A9;&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A557;&SD-A564;&SD-A458;
+<lb n="0169c22" ed="T"/>&SD-A557;&SD-E2B5;&SD-A559;&SD-D7C4;&SD-A67A;&SD-AF59;&SD-A6AA;&SD-AF5A;<note n="0169033" resp="Taisho" place="foot text" type="orig">&SD-A878;＝&SD-A87C;【甲】</note><app n="0169033"><lem wit="【大】">&SD-A878;</lem><rdg resp="Taisho" wit="【甲】">&SD-A87C;</rdg></app>&SD-CCAA;<note n="0169034" resp="Taisho" place="foot text" type="orig">&SD-A559;＝&SD-A557;【甲】</note><app n="0169034"><lem wit="【大】">&SD-A559;</lem><rdg resp="Taisho" wit="【甲】">&SD-A557;</rdg></app>&SD-D7C4;&SD-A458;&SD-A458;&SD-A5A9;&SD-A67A;&SD-A5E6;
+<lb n="0169c23" ed="T"/>&SD-A67A;&SD-A5E5;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0169c24" ed="T"/><p id="pT18p0169c2401">平等開悟。</p>
+<lb n="0169c25" ed="T"/><p lang="san-sd" id="pT18p0169c2501" type="dharani">&SD-A67A;&SD-A5E5;<note n="0169035" resp="Taisho" place="foot text" type="orig">&SD-CA57;＝&SD-CA56;【甲】</note><app n="0169035"><lem wit="【大】">&SD-CA57;</lem><rdg resp="Taisho" wit="【甲】">&SD-CA56;</rdg></app>&SD-A5D5;&SD-A57E;<note n="0169036" resp="Taisho" place="foot text" type="orig">&SD-A5AB;＝&SD-A5AC;【甲】</note><app n="0169036"><lem wit="【大】">&SD-A5AB;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5AC;</rdg></app>&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A67A;&SD-DA46;
+<lb n="0169c26" ed="T"/>&SD-A57B;&SD-B75D;&SD-A67A;&SD-A5E5;&SD-CA57;&SD-AABD;&SD-CEE4;&SD-D7C4;&SD-A557;&SD-A564;&SD-A458;<note n="0169037" resp="Taisho" place="foot text" type="orig">&SD-A55F;＝&SD-A558;【甲】</note><app n="0169037"><lem wit="【大】">&SD-A55F;</lem><rdg resp="Taisho" wit="【甲】">&SD-A558;</rdg></app>&SD-A5AD;&SD-A458;&SD-A557;&SD-D7C4;&SD-DA49;
+<lb n="0169c27" ed="T"/>&SD-A6A9;&SD-D5B4;</p>
+<lb n="0169c28" ed="T"/><p id="pT18p0169c2801">如來<note n="0169038" resp="Taisho" place="foot text" type="orig">昧＝珠【甲】</note><app n="0169038"><lem wit="【大】">昧</lem><rdg resp="Taisho" wit="【甲】">珠</rdg></app>。</p>
+<lb n="0169c29" ed="T"/><p lang="san-sd" id="pT18p0169c2901" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A67A;&SD-A5E5;&SD-CA57;&SD-A5AD;&SD-A458;&SD-A557;&SD-A5CF;&SD-A5FD;&SD-A4B6;
+<lb n="0169c30" ed="T"/>&SD-A57B;&SD-DA77;&SD-A5AB;&SD-B5ED;&SD-A557;&SD-A5E5;&SD-A6A9;&SD-A5E5;&SD-A6A9;&SD-DA49;&SD-A6A9;&SD-D7C4;</p>
+<lb n="0169c31" ed="T"/><p id="pT18p0169c3101">慈氏菩薩。</p>
+<pb n="0170a" id="T18.0854.0170a" ed="T"/>
+<lb n="0170a01" ed="T"/><p lang="san-sd" id="pT18p0170a0101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFC5;&SD-A4B8;&SD-A561;&SD-A4B6;&SD-A5F1;&SD-A67A;&SD-DA46;&SD-A67A;&SD-AF5A;
+<lb n="0170a02" ed="T"/>&SD-A662;<note n="0170001" resp="Taisho" place="foot text" type="orig">&SD-A5F1;＝&SD-A5F2;【甲】</note><app n="0170001"><lem wit="【大】">&SD-A5F1;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5F2;</rdg></app>&SD-A5AD;&SD-A458;&SD-A557;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170a03" ed="T"/><p id="pT18p0170a0301">虛空藏。</p>
+<lb n="0170a04" ed="T"/><p lang="san-sd" id="pT18p0170a0401" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFC6;&SD-A441;&SD-A662;&SD-A67A;&SD-A5E5;&SD-A558;&SD-A5AD;&SD-A458;&SD-A557;
+<lb n="0170a05" ed="T"/>&SD-A5CF;&SD-A47E;&SD-E0B7;&SD-A656;&SD-A5FD;&SD-A57B;&SD-A5FD;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170a06" ed="T"/><p id="pT18p0170a0601">除蓋障。</p>
+<lb n="0170a07" ed="T"/><p lang="san-sd" id="pT18p0170a0701" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-DA71;&SD-A67A;<note n="0170002" resp="Taisho" place="foot text" type="orig">&SD-DA46;＝&SD-AF59;【甲】</note><app n="0170002"><lem wit="【大】">&SD-DA46;</lem><rdg resp="Taisho" wit="【甲】">&SD-AF59;</rdg></app>&SD-A6AA;&SD-A558;&SD-A87C;&SD-CCAA;&SD-A557;&SD-AA68;
+<lb n="0170a08" ed="T"/>&SD-AA68;&SD-A648;&SD-A648;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170a09" ed="T"/><p id="pT18p0170a0901">觀自在。</p>
+<lb n="0170a10" ed="T"/><p lang="san-sd" id="pT18p0170a1001" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A67A;&SD-DA46;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A656;&SD-A652;&SD-A442;
+<lb n="0170a11" ed="T"/>&SD-A557;&SD-A440;<note n="0170003" resp="Taisho" place="foot text" type="orig">&SD-A642;＝&SD-A643;【甲】＊</note><app n="0170003"><lem wit="【大】">&SD-A642;</lem><rdg resp="Taisho" wit="【甲】">&SD-A643;</rdg></app>&SD-A54B;&SD-A5E5;&SD-A5F1;&SD-A5FD;&SD-A5FD;&SD-A5FD;<anchor id="fxT18p0170a01"/>&SD-DA74;&SD-A4C1;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170a12" ed="T"/><p id="pT18p0170a1201">得大勢至。</p>
+<lb n="0170a13" ed="T"/><p lang="san-sd" id="pT18p0170a1301" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A4C0;&SD-A4C0;&SD-A6A7;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170a14" ed="T"/><p id="pT18p0170a1401">多羅菩薩。</p>
+<lb n="0170a15" ed="T"/><p lang="san-sd" id="pT18p0170a1501" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-A558;&SD-A644;&SD-A558;&SD-A640;&SD-A54D;&SD-D7C4;&SD-A440;<app source="0170003" type="＊"><lem wit="【大】">&SD-A642;</lem><rdg resp="Taisho" wit="【甲】">&SD-A643;</rdg></app>&SD-A551;
+<lb n="0170a16" ed="T"/>&SD-DAAE;&SD-A65C;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170a17" ed="T"/><p id="pT18p0170a1701">毘俱胝。</p>
+<lb n="0170a18" ed="T"/><p lang="san-sd" id="pT18p0170a1801" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A67A;&SD-DA46;&SD-A5D9;&SD-A5F1;&SD-AA5F;&SD-A67A;&SD-A5AB;&SD-D7C4;
+<lb n="0170a19" ed="T"/><anchor id="fxT18p0170a03"/>&SD-DA74;&SD-CDF1;&SD-E046;&SD-A5F1;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170a20" ed="T"/><p id="pT18p0170a2001">白處尊。</p>
+<lb n="0170a21" ed="T"/><p lang="san-sd" id="pT18p0170a2101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A557;&SD-A564;&SD-A458;<note n="0170004" resp="Taisho" place="foot text" type="orig">&SD-A557;＝&SD-A558;【甲】</note><app n="0170004"><lem wit="【大】">&SD-A557;</lem><rdg resp="Taisho" wit="【甲】">&SD-A558;</rdg></app>&SD-A5CF;&SD-A66E;&SD-A5F1;<note n="0170005" resp="Taisho" place="foot text" type="orig">&SD-A67A;＝&SD-A6A6;【甲】</note><app n="0170005"><lem wit="【大】">&SD-A67A;</lem><rdg resp="Taisho" wit="【甲】">&SD-A6A6;</rdg></app>
+<lb n="0170a22" ed="T"/>&SD-A5D9;&SD-A65C;&SD-D7C4;&SD-A5B5;&SD-DAAF;<note n="0170006" resp="Taisho" place="foot text" type="orig">&SD-A5E6;＝&SD-A5E5;【甲】</note><app n="0170006"><lem wit="【大】">&SD-A5E6;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5E5;</rdg></app>&SD-A64C;&SD-A5AB;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170a23" ed="T"/><p id="pT18p0170a2301">何耶<note n="0170007" resp="Taisho" place="foot text" type="orig">蘗哩婆＝揭哩&CB00085;【甲】</note><note n="0170007" resp="CBETA" type="mod"><app><lem resp="CBETA.Maha">&CB03442;</lem><rdg wit="【大】">蘗</rdg></app>哩婆＝揭哩&CB00085;【甲】</note><app n="0170007"><lem wit="【大】">&CB03442;哩婆</lem><rdg resp="Taisho" wit="【甲】">揭哩&CB00085;</rdg></app>。</p>
+<lb n="0170a24" ed="T"/><p lang="san-sd" id="pT18p0170a2401" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;<anchor id="fxT18p0170a04"/>&SD-DA74;&SD-A44C;&SD-A56F;&SD-A5F1;&SD-A549;&SD-A4B6;&SD-CDF1;&SD-E046;
+<lb n="0170a25" ed="T"/>&SD-A5F1;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170a26" ed="T"/><p id="pT18p0170a2601">地藏菩薩。</p>
+<lb n="0170a27" ed="T"/><p lang="san-sd" id="pT18p0170a2701" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A6A8;&SD-A6A8;&SD-A6A8;&SD-E0BC;&SD-A557;&SD-A5AD;&SD-D7C4;&SD-DA49;
+<lb n="0170a28" ed="T"/>&SD-A6A9;&SD-D7C4;</p>
+<lb n="0170a29" ed="T"/><p id="pT18p0170a2901">曼珠室<note n="0170008" resp="Taisho" place="foot text" type="orig">哩＝利【甲】</note><app n="0170008"><lem wit="【大】">哩</lem><rdg resp="Taisho" wit="【甲】">利</rdg></app>。</p>
+<lb n="0170a30" ed="T"/><p lang="san-sd" id="pT18p0170a3001" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A6AE;&SD-A6AE;&SD-A444;&SD-A5E6;&SD-A5FD;&SD-A440;&SD-D7C4;&SD-A5CF;&SD-E043;
+<lb n="0170a31" ed="T"/>&SD-E04D;&SD-A5B5;&SD-A564;<note n="0170009" resp="Taisho" place="foot text" type="orig">&SD-B066;＝&SD-A5F3;【甲】＊</note><app n="0170009"><lem wit="【大】">&SD-B066;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5F3;</rdg></app>&SD-A557;&SD-D7C4;&SD-B2CC;&SD-A5FD;&SD-B2CC;&SD-A5FD;&SD-D7C4;&SD-DA44;&SD-A559;&SD-E1CD;&SD-D7C4;&SD-DA49;&SD-A6A9;
+<pb n="0170b" id="T18.0854.0170b" ed="T"/>
+<lb n="0170b01" ed="T"/>&SD-D5B4;</p>
+<lb n="0170b02" ed="T"/><p id="pT18p0170b0201">光網菩薩。</p>
+<lb n="0170b03" ed="T"/><p lang="san-sd" id="pT18p0170b0301" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A6AE;&SD-A6AE;&SD-A444;&SD-A5E6;&SD-A5FD;&SD-D7C4;&SD-A5E6;&SD-A5F1;&SD-A458;
+<lb n="0170b04" ed="T"/>&SD-A557;&SD-B064;&SD-A6A9;&SD-A5DA;&SD-A656;<app source="0170009" type="＊"><lem wit="【大】">&SD-B066;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5F3;</rdg></app>&SD-A557;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170b05" ed="T"/><p id="pT18p0170b0501">無垢光。</p>
+<lb n="0170b06" ed="T"/><p lang="san-sd" id="pT18p0170b0601" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-A6A9;&SD-A444;&SD-A5E6;&SD-A5FD;&SD-D7C4;&SD-A5CF;&SD-A47E;&SD-DA4C;&SD-A458;&SD-A559;
+<lb n="0170b07" ed="T"/>&SD-A444;&SD-A5E6;&SD-A5FD;&SD-D7C4;&SD-A5E5;&SD-A5AD;&SD-B2CC;&SD-A5FD;&SD-D7C4;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170b08" ed="T"/><p id="pT18p0170b0801">計設尼。</p>
+<lb n="0170b09" ed="T"/><p lang="san-sd" id="pT18p0170b0901" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-A6AE;&SD-A6AE;&SD-A444;&SD-A5E6;&SD-A640;&SD-A446;&SD-D7C4;&SD-A56F;&SD-A5F2;&SD-E0A4;
+<lb n="0170b10" ed="T"/>&SD-E040;&SD-D7C4;&SD-B2CC;<note n="0170010" resp="Taisho" place="foot text" type="orig">&SD-A5FD;＋（&SD-B2CC;&SD-A5FD;）【甲】</note><app n="0170010"><lem wit="【大】">&SD-A5FD;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5FD;&SD-B2CC;&SD-A5FD;</rdg></app>&SD-AABC;&SD-A559;<note n="0170011" resp="Taisho" place="foot text" type="orig">&SD-D9FD;＝&unrec;【甲】</note>&SD-E0A4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170b11" ed="T"/><p id="pT18p0170b1101">烏波計始&CB00135;。</p>
+<lb n="0170b12" ed="T"/><p lang="san-sd" id="pT18p0170b1201" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A5DB;&SD-CA6E;<note n="0170012" resp="Taisho" place="foot text" type="orig">&SD-A5F1;＝&SD-A5F2;【甲】</note><app n="0170012"><lem wit="【大】">&SD-A5F1;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5F2;</rdg></app>&SD-E0A4;&SD-A5B3;&SD-D7C4;&SD-A6AE;&SD-A444;
+<lb n="0170b13" ed="T"/><note n="0170013" resp="Taisho" place="foot text" type="orig">&SD-A5E6;＝&SD-A5E5;【甲】</note><app n="0170013"><lem wit="【大】">&SD-A5E6;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5E5;</rdg></app>&SD-A640;&SD-A446;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170b14" ed="T"/><p id="pT18p0170b1401">地惠<note n="0170014" resp="Taisho" place="foot text" type="orig">幢＋（菩薩）&M062403;【甲】</note><app n="0170014"><lem wit="【大】">幢</lem><rdg resp="【甲】" wit="【？】">幢菩薩</rdg></app>。</p>
+<lb n="0170b15" ed="T"/><p lang="san-sd" id="pT18p0170b1501" type="dharani">&SD-A656;&SD-E0BC;&SD-A5E5;&SD-A7D8;&SD-D7C4;&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A6AE;&SD-B2CC;&SD-A5FD;&SD-E0A4;
+<lb n="0170b16" ed="T"/>&SD-A5A9;&SD-A440;&SD-A55B;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170b17" ed="T"/><p id="pT18p0170b1701">請召童子。</p>
+<lb n="0170b18" ed="T"/><p lang="san-sd" id="pT18p0170b1801" type="dharani"><note n="0170015" resp="Taisho" place="foot text" type="orig">&SD-CFC5;＝&SD-CFC6;【甲】＊</note><app n="0170015"><lem wit="【大】">&SD-CFC5;</lem><rdg resp="Taisho" wit="【甲】">&SD-CFC6;</rdg></app>&SD-A440;&SD-B7BB;&SD-A5F7;&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;<app source="0170015" type="＊"><lem wit="【大】">&SD-CFC5;</lem><rdg resp="Taisho" wit="【甲】">&SD-CFC6;</rdg></app>&SD-A440;&SD-B7BB;&SD-A5F1;
+<lb n="0170b19" ed="T"/>&SD-D7C4;&SD-A67A;<note n="0170016" resp="Taisho" place="foot text" type="orig">&SD-DA46;＝&SD-E2B7;【甲】</note><app n="0170016"><lem wit="【大】">&SD-DA46;</lem><rdg resp="Taisho" wit="【甲】">&SD-E2B7;</rdg></app>&SD-A444;<app source="0170003" type="＊"><lem wit="【大】">&SD-A642;</lem><rdg resp="Taisho" wit="【甲】">&SD-A643;</rdg></app>&SD-CFC6;&SD-E0A4;&SD-D7C4;&SD-A444;&SD-A5E6;<note n="0170017" resp="Taisho" place="foot text" type="orig">&SD-E347;＝&SD-A644;【甲】</note><app n="0170017"><lem wit="【大】">&SD-E347;</lem><rdg resp="Taisho" wit="【甲】">&SD-A644;</rdg></app>&SD-A8E2;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170b20" ed="T"/><p id="pT18p0170b2001">不思議童子。</p>
+<lb n="0170b21" ed="T"/><p lang="san-sd" id="pT18p0170b2101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFC6;<note n="0170018" resp="Taisho" place="foot text" type="orig">&SD-E347;＝&SD-A5CF;&SD-B2CC;【甲】</note><app n="0170018"><lem wit="【大】">&SD-E347;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5CF;&SD-B2CC;</rdg></app>&SD-A5F1;&SD-A5AC;&SD-A5F7;&SD-D7C4;&SD-DA49;
+<lb n="0170b22" ed="T"/>&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170b23" ed="T"/><p id="pT18p0170b2301">大愛樂亦名除疑怪。</p>
+<lb n="0170b24" ed="T"/><p lang="san-sd" id="pT18p0170b2401" type="dharani"><note n="0170019" resp="Taisho" place="foot text" type="orig">&SD-A448;＝&SD-A449;【甲】</note><app n="0170019"><lem wit="【大】">&SD-A448;</lem><rdg resp="Taisho" wit="【甲】">&SD-A449;</rdg></app>&SD-A444;&SD-A6A8;&SD-A64C;&SD-D7C4;&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A5CF;&SD-A5E5;&SD-A559;
+<lb n="0170b25" ed="T"/>&SD-DAA1;&SD-A56F;&SD-A440;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170b26" ed="T"/><p id="pT18p0170b2601">施無畏。</p>
+<lb n="0170b27" ed="T"/><p lang="san-sd" id="pT18p0170b2701" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-CFC6;&SD-A5D9;&SD-A5F1;&SD-A56F;&SD-A56F;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170b28" ed="T"/><p id="pT18p0170b2801">除惡趣。</p>
+<lb n="0170b29" ed="T"/><p lang="san-sd" id="pT18p0170b2901" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-CFC5;&SD-A87C;&SD-D9F9;&SD-A5FD;&SD-A54D;&SD-A67A;&SD-AF5A;&SD-A57C;&SD-E04E;&SD-D7C4;
+<lb n="0170b30" ed="T"/>&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170b31" ed="T"/><p id="pT18p0170b3101">救護惠。</p>
+<pb n="0170c" id="T18.0854.0170c" ed="T"/>
+<lb n="0170c01" ed="T"/><p lang="san-sd" id="pT18p0170c0101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A6AE;&SD-A5E5;&SD-A6A9;&SD-A5E5;&SD-A6A8;&SD-B2CC;&SD-A5FD;&SD-DA44;&SD-A559;
+<lb n="0170c02" ed="T"/>&SD-E1CD;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170c03" ed="T"/><p id="pT18p0170c0301">大慈生。</p>
+<lb n="0170c04" ed="T"/><p lang="san-sd" id="pT18p0170c0401" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-B064;&SD-A4A4;&SD-A55F;&SD-CCAA;&SD-A557;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170c05" ed="T"/><p id="pT18p0170c0501">悲<note n="0170020" resp="Taisho" place="foot text" type="orig">施＝旋【甲】</note><app n="0170020"><lem wit="【大】">施</lem><rdg resp="Taisho" wit="【甲】">旋</rdg></app>潤。</p>
+<lb n="0170c06" ed="T"/><p lang="san-sd" id="pT18p0170c0601" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-A440;<app source="0170003" type="＊"><lem wit="【大】">&SD-A642;</lem><rdg resp="Taisho" wit="【甲】">&SD-A643;</rdg></app>&SD-CA44;&SD-AAF2;&SD-A4F4;&SD-A557;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170c07" ed="T"/><p id="pT18p0170c0701">除一切熱惱。</p>
+<lb n="0170c08" ed="T"/><p lang="san-sd" id="pT18p0170c0801" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-A6AE;&SD-A656;&SD-A5FD;&SD-A56F;&SD-A656;&SD-A5FD;<note n="0170021" resp="Taisho" place="foot text" type="orig">&SD-AABD;＝&SD-DA44;【甲】</note><app n="0170021"><lem wit="【大】">&SD-AABD;</lem><rdg resp="Taisho" wit="【甲】">&SD-DA44;</rdg></app>&SD-CEE4;&SD-DA49;
+<lb n="0170c09" ed="T"/>&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170c10" ed="T"/><p id="pT18p0170c1001">不思議惠。</p>
+<lb n="0170c11" ed="T"/><p lang="san-sd" id="pT18p0170c1101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-A67A;&SD-B7A4;&SD-A663;&SD-A5B5;&SD-A640;<note n="0170022" resp="Taisho" place="foot text" type="orig">&SD-E042;＝&SD-A5B9;【甲】</note><app n="0170022"><lem wit="【大】">&SD-E042;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5B9;</rdg></app>&SD-A5FD;&SD-A440;&SD-DA49;
+<lb n="0170c12" ed="T"/>&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170c13" ed="T"/><p id="pT18p0170c1301">地藏旗。</p>
+<lb n="0170c14" ed="T"/><p lang="san-sd" id="pT18p0170c1401" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A6A8;&SD-A6A8;&SD-A6A8;&SD-A5CF;&SD-B2CC;<note n="0170023" resp="Taisho" place="foot text" type="orig">&SD-A5F9;＝&SD-A5F7;【甲】</note><app n="0170023"><lem wit="【大】">&SD-A5F9;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5F7;</rdg></app>&SD-DA49;
+<lb n="0170c15" ed="T"/>&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170c16" ed="T"/><p id="pT18p0170c1601">寶處。</p>
+<lb n="0170c17" ed="T"/><p lang="san-sd" id="pT18p0170c1701" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A6AE;&SD-A5E5;&SD-A6A9;&SD-A5E5;&SD-A6A8;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170c18" ed="T"/><p id="pT18p0170c1801">寶手。</p>
+<lb n="0170c19" ed="T"/><p lang="san-sd" id="pT18p0170c1901" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A5FD;<note n="0170024" resp="Taisho" place="foot text" type="orig">&SD-A4FA;＝&SD-E147;【甲】</note><app n="0170024"><lem wit="【大】">&SD-A4FA;</lem><rdg resp="Taisho" wit="【甲】">&SD-E147;</rdg></app><note n="0170025" resp="Taisho" place="foot text" type="orig">&SD-E347;＝&SD-DAAE;&SD-A656;【甲】</note><app n="0170025"><lem wit="【大】">&SD-E347;</lem><rdg resp="Taisho" wit="【甲】">&SD-DAAE;&SD-A656;</rdg></app>&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170c20" ed="T"/><p id="pT18p0170c2001">持地。</p>
+<lb n="0170c21" ed="T"/><p lang="san-sd" id="pT18p0170c2101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-A57B;&SD-A5FD;&SD-E051;&SD-A57B;&SD-A5FD;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170c22" ed="T"/><p id="pT18p0170c2201">寶印手。</p>
+<lb n="0170c23" ed="T"/><p lang="san-sd" id="pT18p0170c2301" type="dharani">&SD-A5A9;&SD-A5FD;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A5FD;&SD-B448;&SD-A5AB;<note n="0170026" resp="Taisho" place="foot text" type="orig">&SD-A4B8;＝&SD-B5EF;【甲】</note><app n="0170026"><lem wit="【大】">&SD-A4B8;</lem><rdg resp="Taisho" wit="【甲】">&SD-B5EF;</rdg></app>&SD-A557;&SD-D7C4;&SD-DA49;&SD-A6A9;
+<lb n="0170c24" ed="T"/>&SD-D5B4;</p>
+<lb n="0170c25" ed="T"/><p id="pT18p0170c2501">堅固意。</p>
+<lb n="0170c26" ed="T"/><p lang="san-sd" id="pT18p0170c2601" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A656;&SD-A9BD;&SD-A6A6;&SD-A5D9;&SD-A656;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170c27" ed="T"/><p id="pT18p0170c2701">虛空無垢。</p>
+<lb n="0170c28" ed="T"/><p lang="san-sd" id="pT18p0170c2801" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A458;&SD-A458;&SD-A5AA;<note n="0170027" resp="Taisho" place="foot text" type="orig">&SD-CA56;＝&SD-A557;【甲】</note><app n="0170027"><lem wit="【大】">&SD-CA56;</lem><rdg resp="Taisho" wit="【甲】">&SD-A557;</rdg></app>&SD-A460;&SD-A47C;&SD-A5FD;&SD-D7C4;
+<lb n="0170c29" ed="T"/>&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0170c30" ed="T"/><p id="pT18p0170c3001">虛空惠。</p>
+<lb n="0170c31" ed="T"/><p lang="san-sd" id="pT18p0170c3101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A47C;&SD-A947;&SD-A656;&SD-E0EA;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<pb n="0171a" id="T18.0854.0171a" ed="T"/>
+<lb n="0171a01" ed="T"/><p id="pT18p0171a0101">蓮花印。</p>
+<lb n="0171a02" ed="T"/><p lang="san-sd" id="pT18p0171a0201" type="dharani">&SD-A444;&SD-A656;&SD-A64A;&SD-A5F1;&SD-DA49;&SD-A6A9;&SD-D7C4;&SD-E043;&SD-AA77;&SD-E042;&SD-DA46;<note n="0171001" resp="Taisho" place="foot text" type="orig">&SD-E154;＝&SD-E166;【甲】</note><app n="0171001"><lem wit="【大】">&SD-E154;</lem><rdg resp="Taisho" wit="【甲】">&SD-E166;</rdg></app>&SD-A47E;&SD-A571;&SD-A66E;&SD-AF73;&SD-A440;
+<lb n="0171a03" ed="T"/>&SD-A67C;&SD-A557;&SD-D5B4;</p>
+<lb n="0171a04" ed="T"/><p id="pT18p0171a0401">清淨惠。</p>
+<lb n="0171a05" ed="T"/><p lang="san-sd" id="pT18p0171a0501" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A57B;&SD-B75D;&SD-A6A6;&SD-A5D9;&SD-A656;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0171a06" ed="T"/><p id="pT18p0171a0601">行惠。</p>
+<lb n="0171a07" ed="T"/><p lang="san-sd" id="pT18p0171a0701" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A5B5;&SD-DAAF;&SD-A64A;&SD-A5F1;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0171a08" ed="T"/><p id="pT18p0171a0801"><note n="0171002" resp="Taisho" place="foot text" type="orig">同前＝安住惠【甲】</note><app n="0171002"><lem wit="【大】">同前</lem><rdg resp="Taisho" wit="【甲】">安住惠</rdg></app>。</p>
+<lb n="0171a09" ed="T"/><p lang="san-sd" id="pT18p0171a0901" type="dharani"><note n="0171003" resp="Taisho" place="foot text" type="orig">（&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;）＋&SD-A656;【甲】</note><app n="0171003"><lem wit="【大】">&SD-A656;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-A656;</rdg></app>&SD-A9BD;&SD-ADDF;&SD-A5FD;&SD-E3AD;&SD-E04F;&SD-D7C4;&SD-E042;&SD-DA46;<note n="0171004" resp="Taisho" place="foot text" type="orig">&SD-A656;＝&SD-A5B5;【甲】</note><app n="0171004"><lem wit="【大】">&SD-A656;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5B5;</rdg></app>&SD-E1EA;&SD-DA4C;&SD-D5B4;</p>
+<lb n="0171a10" ed="T"/><p id="pT18p0171a1001">金剛手。</p>
+<lb n="0171a11" ed="T"/><p lang="san-sd" id="pT18p0171a1101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A656;&SD-A9BD;&SD-A440;&SD-A5FD;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0171a12" ed="T"/><p id="pT18p0171a1201">執金剛。</p>
+<lb n="0171a13" ed="T"/><p lang="san-sd" id="pT18p0171a1301" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A656;&SD-A9BD;<note n="0171005" resp="Taisho" place="foot text" type="orig">&SD-A555;＝&SD-E0C4;【甲】</note><app n="0171005"><lem wit="【大】">&SD-A555;</lem><rdg resp="Taisho" wit="【甲】">&SD-E0C4;</rdg></app>&SD-A47C;&SD-C9FD;<note n="0171006" resp="Taisho" place="foot text" type="orig">&SD-E347;＝&SD-A5E5;【甲】</note><app n="0171006"><lem wit="【大】">&SD-E347;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5E5;</rdg></app>&SD-A6A9;&SD-A646;&SD-A66E;<note n="0171007" resp="Taisho" place="foot text" type="orig">&SD-E347;＝&SD-A54B;&SD-DA74;【甲】</note><app n="0171007"><lem wit="【大】">&SD-E347;</lem><rdg resp="Taisho" wit="【甲】">&SD-A54B;&SD-DA74;</rdg></app>&SD-E347;</p>
+<lb n="0171a14" ed="T"/><p id="pT18p0171a1401">金剛拳。</p>
+<lb n="0171a15" ed="T"/><p lang="san-sd" id="pT18p0171a1501" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A656;&SD-A9BD;&SD-A54B;&SD-D7C4;&SD-CDF9;&SD-A4DA;&SD-A5F1;&SD-A656;&SD-A9BD;&SD-A6A6;&SD-A5D9;&SD-A65C;&SD-D7C4;
+<lb n="0171a16" ed="T"/>&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0171a17" ed="T"/><p id="pT18p0171a1701">無能勝。</p>
+<lb n="0171a18" ed="T"/><p lang="san-sd" id="pT18p0171a1801" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A656;&SD-A9BD;&SD-A555;&SD-D7C4;&SD-E1DA;<note n="0171008" resp="Taisho" place="foot text" type="orig">&SD-B7A3;＝&SD-B6D4;【甲】</note><app n="0171008"><lem wit="【大】">&SD-B7A3;</lem><rdg resp="Taisho" wit="【甲】">&SD-B6D4;</rdg></app>&SD-B7BB;&SD-A5E5;&SD-A6A9;&SD-A646;&SD-A66E;
+<lb n="0171a19" ed="T"/>&SD-A54B;&SD-D7C4;&SD-A44C;&SD-A56F;&SD-A5F1;&SD-A67A;&SD-E2B7;&SD-CDA9;&SD-A564;&SD-A458;&SD-A5FE;&SD-E1CD;&SD-A444;<app source="0170003" type="＊"><lem wit="【大】">&SD-A642;</lem><rdg resp="Taisho" wit="【甲】">&SD-A643;</rdg></app>&SD-D7C4;&SD-DA49;&SD-A6A9;
+<lb n="0171a20" ed="T"/>&SD-D5B4;</p>
+<lb n="0171a21" ed="T"/><p id="pT18p0171a2101">阿毘目佉。</p>
+<lb n="0171a22" ed="T"/><p lang="san-sd" id="pT18p0171a2201" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A656;&SD-A9BD;&SD-A555;&SD-D7C4;&SD-A6AE;&SD-CFC5;&SD-A5DB;&SD-E043;&SD-A44C;&SD-A5E5;&SD-A6A9;&SD-DA44;&SD-A47C;
+<lb n="0171a23" ed="T"/>&SD-C9FD;&SD-D7C4;&SD-A44C;&SD-A56F;&SD-A5F1;&SD-E1A1;<note n="0171009" resp="Taisho" place="foot text" type="orig">&SD-A47C;＝&SD-A47E;【甲】</note><app n="0171009"><lem wit="【大】">&SD-A47C;</lem><rdg resp="Taisho" wit="【甲】">&SD-A47E;</rdg></app>&SD-A5FD;&SD-A5F1;&SD-A67C;&SD-D7C4;&SD-A67A;&SD-A5E5;&SD-A5F1;&SD-A5E5;&SD-A5AD;&SD-B2CC;
+<lb n="0171a24" ed="T"/>&SD-A5FD;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0171a25" ed="T"/><p id="pT18p0171a2501">釋迦牟尼&CB00425;。</p>
+<lb n="0171a26" ed="T"/><p lang="san-sd" id="pT18p0171a2601" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A67A;&SD-DA46;<note n="0171010" resp="Taisho" place="foot text" type="orig">&SD-ABC3;＝&SD-ABBB;【甲】</note><app n="0171010"><lem wit="【大】">&SD-ABC3;</lem><rdg resp="Taisho" wit="【甲】">&SD-ABBB;</rdg></app>&SD-A662;&SD-A5AB;<note n="0171011" resp="Taisho" place="foot text" type="orig">&SD-E0F3;＝&SD-E0BC;【甲】</note><app n="0171011"><lem wit="【大】">&SD-E0F3;</lem><rdg resp="Taisho" wit="【甲】">&SD-E0BC;</rdg></app>&SD-A56F;
+<lb n="0171a27" ed="T"/>&SD-A5A9;&SD-D7C4;&SD-A67A;&SD-DA46;&SD-A57B;&SD-B75D;&SD-A656;&SD-A664;&SD-A5FE;<note n="0171012" resp="Taisho" place="foot text" type="orig">&SD-AABD;＝&SD-DA44;【甲】</note><app n="0171012"><lem wit="【大】">&SD-AABD;</lem><rdg resp="Taisho" wit="【甲】">&SD-DA44;</rdg></app><note n="0171013" resp="Taisho" place="foot text" type="orig">&SD-CEE4;＋（&SD-AABD;&SD-CEE4;）【甲】</note><app n="0171013"><lem wit="【大】">&SD-CEE4;</lem><rdg resp="Taisho" wit="【甲】">&SD-CEE4;&SD-AABD;&SD-CEE4;</rdg></app>&SD-D7C4;&SD-A458;&SD-A458;&SD-A5A9;&SD-A67A;&SD-A5E6;
+<lb n="0171a28" ed="T"/>&SD-A67A;&SD-A5E5;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0171a29" ed="T"/><p id="pT18p0171a2901">一切佛頂。</p>
+<lb n="0171a30" ed="T"/><p lang="san-sd" id="pT18p0171a3001" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-E4BB;&SD-E040;&SD-D7C4;&SD-A660;&SD-A660;<anchor id="fxT18p0171a02"/>&SD-DA74;<anchor id="fxT18p0171a03"/>&SD-DA74;<anchor id="fxT18p0171a04"/>&SD-DA74;&SD-A5C1;&SD-E046;
+<pb n="0171b" id="T18.0854.0171b" ed="T"/>
+<lb n="0171b01" ed="T"/>&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0171b02" ed="T"/><p id="pT18p0171b0201">阿修羅。</p>
+<lb n="0171b03" ed="T"/><p lang="san-sd" id="pT18p0171b0301" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A458;&SD-A5FD;&SD-A64A;&SD-A5FB;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0171b04" ed="T"/><p id="pT18p0171b0401">乾闥婆。</p>
+<lb n="0171b05" ed="T"/><p lang="san-sd" id="pT18p0171b0501" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A5CF;&SD-A666;&SD-D9FA;&SD-DA49;&SD-A5FD;<note n="0171014" resp="Taisho" place="foot text" type="orig">〔&SD-A5FD;〕－【甲】</note><app n="0171014"><lem wit="【大】">&SD-A5FD;</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app><note n="0171015" resp="Taisho" place="foot text" type="orig">&SD-A656;＝&SD-A657;【甲】</note><app n="0171015"><lem wit="【大】">&SD-A656;</lem><rdg resp="Taisho" wit="【甲】">&SD-A657;</rdg></app>&SD-A6AA;
+<lb n="0171b06" ed="T"/>&SD-A5AB;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0171b07" ed="T"/><p id="pT18p0171b0701">藥叉。</p>
+<lb n="0171b08" ed="T"/><p lang="san-sd" id="pT18p0171b0801" type="dharani">&SD-A5F1;&SD-A6B4;&SD-D7C4;&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A5CD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A5F1;&SD-A6BA;&SD-E0AB;&SD-A5FD;&SD-D7C4;&SD-DA49;
+<lb n="0171b09" ed="T"/>&SD-A6A9;&SD-D5B4;</p>
+<lb n="0171b10" ed="T"/><p id="pT18p0171b1001">藥叉女。</p>
+<lb n="0171b11" ed="T"/><p lang="san-sd" id="pT18p0171b1101" type="dharani">&SD-A5F1;&SD-A6B6;&SD-A54E;&SD-A5F1;&SD-A6B4;&SD-A5CF;&SD-A7F0;&SD-A57B;&SD-A640;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0171b12" ed="T"/><p id="pT18p0171b1201">毘舍遮。</p>
+<lb n="0171b13" ed="T"/><p lang="san-sd" id="pT18p0171b1301" type="dharani">&SD-A5CF;&SD-A663;&SD-A47D;<note n="0171016" resp="Taisho" place="foot text" type="orig">&SD-E040;＝&SD-A5B3;【甲】</note><app n="0171016"><lem wit="【大】">&SD-E040;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5B3;</rdg></app>&SD-D7C4;&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A5B7;&SD-A663;&SD-A47C;
+<lb n="0171b14" ed="T"/>&SD-A458;&SD-A5AB;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0171b15" ed="T"/><p id="pT18p0171b1501">毘舍<note n="0171017" resp="Taisho" place="foot text" type="orig">&CB03453;＝支【甲】</note><app n="0171017"><lem wit="【大】">&CB03453;</lem><rdg resp="Taisho" wit="【甲】">支</rdg></app>。</p>
+<lb n="0171b16" ed="T"/><p lang="san-sd" id="pT18p0171b1601" type="dharani">&SD-A5B7;&SD-A663;&SD-A4A1;&SD-D7C4;&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A5B7;&SD-A47E;&SD-A5B7;&SD-A47E;&SD-D5B4;
+<lb n="0171b17" ed="T"/>&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0171b18" ed="T"/><p id="pT18p0171b1801">一切執曜。</p>
+<lb n="0171b19" ed="T"/><p lang="san-sd" id="pT18p0171b1901" type="dharani">&SD-A67A;&SD-DA46;&SD-A95F;&SD-A6A8;&SD-D7C4;&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A95F;&SD-A6AF;&SD-E0AB;&SD-B769;</p>
+<lb n="0171b20" ed="T"/><p id="pT18p0171b2001">一切宿命。</p>
+<lb n="0171b21" ed="T"/><p lang="san-sd" id="pT18p0171b2101" type="dharani">&SD-A67A;&SD-DA46;&SD-A5E5;&SD-A6B4;&SD-AA5F;&SD-D7C4;&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A5E5;&SD-A6B4;&SD-DA4C;
+<lb n="0171b22" ed="T"/>&SD-A5AB;&SD-B8A2;&SD-A56F;<note n="0171018" resp="Taisho" place="foot text" type="orig">&SD-A5AC;＝&SD-A5AB;【甲】</note><app n="0171018"><lem wit="【大】">&SD-A5AC;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5AB;</rdg></app>&SD-A5F7;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0171b23" ed="T"/><p id="pT18p0171b2301">諸羅剎娑。</p>
+<lb n="0171b24" ed="T"/><p lang="san-sd" id="pT18p0171b2401" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A5FE;&SD-A6B4;&SD-A67B;&SD-A57D;&SD-A5B5;&SD-A5FD;&SD-A5F7;&SD-D7C4;&SD-DA49;
+<lb n="0171b25" ed="T"/>&SD-A6A9;&SD-D5B4;</p>
+<lb n="0171b26" ed="T"/><p id="pT18p0171b2601">諸荼吉尼。</p>
+<lb n="0171b27" ed="T"/><p lang="san-sd" id="pT18p0171b2701" type="dharani">&SD-E0A2;&SD-A442;&SD-A5AC;&SD-D7C4;&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-ABA6;&SD-A6B3;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0171b28" ed="T"/><p id="pT18p0171b2801">字輪　第五卷。</p>
+<lb n="0171b29" ed="T"/><p lang="san-sd" id="pT18p0171b2901" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFC5;&SD-D5B4;</p>
+<lb n="0171b30" ed="T"/><p lang="san-sd" id="pT18p0171b3001" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A67A;&SD-D5B4;</p>
+<pb n="0171c" id="T18.0854.0171c" ed="T"/>
+<lb n="0171c01" ed="T"/><p lang="san-sd" id="pT18p0171c0101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A656;&SD-A9BD;<note n="0171019" resp="Taisho" place="foot text" type="orig">&SD-A5AB;＝&SD-A555;【甲】＊</note><note n="0171019" resp="CBETA" type="mod"><app><lem resp="CBETA.say">&SD-A555;</lem><rdg wit="【大】">&SD-A5AB;</rdg></app>＝<app><lem resp="CBETA.say">&SD-A5AB;</lem><rdg wit="【大】">&SD-A555;</rdg></app>【甲】＊</note><app n="0171019"><lem wit="【大】">&SD-A555;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5AB;</rdg></app>&SD-D7C4;&SD-A656;&SD-D5B4;</p>
+<lb n="0171c02" ed="T"/><p lang="san-sd" id="pT18p0171c0201" type="dharani">&SD-A440;&SD-A44C;&SD-A458;&SD-A464;&SD-D7C4;&SD-A47C;&SD-DA79;&SD-A4B6;&SD-A643;&SD-D5B4;</p>
+<lb n="0171c03" ed="T"/><p lang="san-sd" id="pT18p0171c0301" type="dharani">&SD-A4DA;&SD-A4E6;&SD-A5AD;&SD-A4FE;&SD-D7C4;&SD-A557;&SD-A564;&SD-A56F;&SD-A57B;&SD-D5B4;</p>
+<lb n="0171c04" ed="T"/><p lang="san-sd" id="pT18p0171c0401" type="dharani">&SD-A5B5;&SD-A5C1;&SD-A5CD;&SD-A5D9;&SD-D7C4;&SD-A5F1;&SD-A5FD;&SD-A64A;&SD-A656;</p>
+<lb n="0171c05" ed="T"/><p lang="san-sd" id="pT18p0171c0501" type="dharani">&SD-A662;&SD-A66E;&SD-A67A;&SD-A6A8;&SD-D7C4;&SD-A6B4;&SD-D5B4;</p><p id="pT18p0171c0508" place="inline"><note n="0171020" resp="Taisho" place="foot text" type="orig">（（短呼…轉））八字＝（（右此一轉皆上聲呼之））九字【甲】</note><app word-count="8" n="0171020"><lem wit="【大】">短呼皆上聲此一轉</lem><rdg resp="Taisho" wit="【甲】">右此一轉皆上聲呼之</rdg></app>。</p>
+<lb n="0171c06" ed="T"/><p lang="san-sd" id="pT18p0171c0601" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFC6;&SD-D5B4;</p>
+<lb n="0171c07" ed="T"/><p lang="san-sd" id="pT18p0171c0701" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A67B;&SD-D5B4;</p>
+<lb n="0171c08" ed="T"/><p lang="san-sd" id="pT18p0171c0801" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A656;&SD-A9BD;<app source="0171019" type="＊"><lem wit="【大】">&SD-A555;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5AB;</rdg></app>&SD-D7C4;&SD-A657;</p>
+<lb n="0171c09" ed="T"/><p lang="san-sd" id="pT18p0171c0901" type="dharani">&SD-A440;&SD-A44C;&SD-A458;&SD-A464;&SD-D7C4;&SD-A47C;&SD-DA79;&SD-A4B6;&SD-A4C2;&SD-D7C4;</p>
+<lb n="0171c10" ed="T"/><p lang="san-sd" id="pT18p0171c1001" type="dharani">&SD-A4DA;&SD-A4E6;&SD-A5AD;&SD-A4FE;&SD-D7C4;&SD-A557;&SD-A564;&SD-A56F;&SD-A57B;&SD-D7C4;</p>
+<lb n="0171c11" ed="T"/><p lang="san-sd" id="pT18p0171c1101" type="dharani">&SD-A5B5;&SD-A5C1;&SD-A5CD;&SD-A5D9;&SD-D7C4;&SD-A5F1;&SD-A5FD;&SD-A64A;&SD-A656;&SD-D7C4;</p>
+<lb n="0171c12" ed="T"/><p lang="san-sd" id="pT18p0171c1201" type="dharani">&SD-A662;&SD-A66E;&SD-A67A;&SD-A6A8;&SD-A6B4;&SD-D5B4;</p><p id="pT18p0171c1207" place="inline"><note n="0171021" resp="Taisho" place="foot text" type="orig">（（長呼…轉））十字＝（（右此一轉皆去聲呼之））九字【甲】</note><app word-count="10" n="0171021"><lem wit="【大】">長呼也此去聲右此一轉</lem><rdg resp="Taisho" wit="【甲】">右此一轉皆去聲呼之</rdg></app>。</p>
+<lb n="0171c13" ed="T"/><p lang="san-sd" id="pT18p0171c1301" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFD3;&SD-D5B4;</p>
+<lb n="0171c14" ed="T"/><p lang="san-sd" id="pT18p0171c1401" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A6A6;&SD-D5B4;</p>
+<lb n="0171c15" ed="T"/><p lang="san-sd" id="pT18p0171c1501" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A660;</p>
+<lb n="0171c16" ed="T"/><p lang="san-sd" id="pT18p0171c1601" type="dharani">&SD-A44A;&SD-A456;&SD-A462;&SD-A46E;&SD-D7C4;&SD-A4A8;&SD-DAA5;&SD-A4C0;&SD-A4CC;&SD-D7C4;</p>
+<lb n="0171c17" ed="T"/><p lang="san-sd" id="pT18p0171c1701" type="dharani">&SD-A4E4;&SD-A4F0;&SD-E0C0;&SD-A5CB;&SD-D7C4;&SD-A561;&SD-A56D;&SD-A579;&SD-A5A7;&SD-D7C4;</p>
+<lb n="0171c18" ed="T"/><p lang="san-sd" id="pT18p0171c1801" type="dharani">&SD-A5BF;&SD-A5CB;&SD-A5D7;&SD-A549;&SD-D7C4;&SD-A5FB;&SD-A648;&SD-A654;&SD-A660;&SD-D7C4;</p>
+<lb n="0171c19" ed="T"/><p lang="san-sd" id="pT18p0171c1901" type="dharani">&SD-A66C;&SD-A8D6;&SD-A6A6;&SD-A6B2;&SD-A6BE;&SD-D5B4;</p><p id="pT18p0171c1907" place="inline"><note n="0171022" resp="Taisho" place="foot text" type="orig">（（第一…轉））九字＝（（右一轉皆帶第十一轉））九字【甲】</note><app word-count="9" n="0171022"><lem wit="【大】">第一轉皆帶右此一轉</lem><rdg resp="Taisho" wit="【甲】">右一轉皆帶第十一轉</rdg></app>。</p>
+<lb n="0171c20" ed="T"/><p lang="san-sd" id="pT18p0171c2001" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFD4;&SD-D5B4;</p>
+<lb n="0171c21" ed="T"/><p lang="san-sd" id="pT18p0171c2101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A6A7;&SD-D5B4;</p>
+<lb n="0171c22" ed="T"/><p lang="san-sd" id="pT18p0171c2201" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-A656;&SD-A9BD;<app source="0171019" type="＊"><lem wit="【大】">&SD-A555;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5AB;</rdg></app>&SD-A661;&SD-D5B4;</p>
+<lb n="0171c23" ed="T"/><p lang="san-sd" id="pT18p0171c2301" type="dharani">&SD-A44B;&SD-A457;&SD-A463;&SD-A46F;&SD-D7C4;&SD-A4A9;&SD-DAA6;&SD-A4C1;&SD-A4CD;&SD-D7C4;</p>
+<lb n="0171c24" ed="T"/><p lang="san-sd" id="pT18p0171c2401" type="dharani">&SD-A4E5;&SD-A4F1;&SD-A4FD;&SD-A5E4;&SD-D7C4;&SD-A562;&SD-A56E;&SD-A57A;&SD-A5A8;&SD-D7C4;</p>
+<lb n="0171c25" ed="T"/><p lang="san-sd" id="pT18p0171c2501" type="dharani">&SD-A5C0;&SD-A5CC;&SD-A5D8;&SD-A5E4;&SD-D7C4;&SD-A5FC;&SD-A649;&SD-A655;&SD-A661;&SD-D7C4;</p>
+<lb n="0171c26" ed="T"/><p lang="san-sd" id="pT18p0171c2601" type="dharani">&SD-A66D;&SD-A679;&SD-A6A7;&SD-A6B3;&SD-A6BF;&SD-D5B4;</p><p id="pT18p0171c2607" place="inline"><note n="0171023" resp="Taisho" place="foot text" type="orig">（（聲呼…轉））七字＝（（右一轉皆入聲呼））七字【甲】</note><app word-count="7" n="0171023"><lem wit="【大】">聲呼皆入右一轉</lem><rdg resp="Taisho" wit="【甲】">右一轉皆入聲呼</rdg></app>。</p>
+<lb n="0171c27" ed="T"/><p lang="san-sd" id="pT18p0171c2701" type="dharani">&SD-CFC8;&SD-CFC7;&SD-CFC9;&SD-CFCA;&SD-CFCF;&SD-CFD0;&SD-CFD1;&SD-CFD2;&SD-D5B4;</p>
+<lb n="0171c28" ed="T"/><p lang="san-sd" id="pT18p0171c2801" type="dharani">&SD-A4DA;&SD-A4C8;&SD-A54B;&SD-A5A9;&SD-A5E5;&SD-D7C4;&SD-A4DB;&SD-E26A;&SD-A54C;&SD-A5AA;&SD-A5E6;</p>
+<lb n="0171c29" ed="T"/><p lang="san-sd" id="pT18p0171c2901" type="dharani">&SD-A47A;&SD-A4C8;&SD-A555;&SD-A5B3;&SD-A5EF;&SD-D7C4;&SD-A4E5;&SD-A4D9;&SD-A556;&SD-A5B4;&SD-A5F0;</p>
+<lb n="0171c30" ed="T"/><p id="pT18p0171c3001">大真言王。</p>
+<lb n="0171c31" ed="T"/><p lang="san-sd" id="pT18p0171c3101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFC5;&SD-A67A;&SD-A5E6;&SD-CEE4;&SD-D7C4;&SD-A57B;&SD-B75D;&SD-A57C;&SD-A55B;</p>
+<pb n="0172a" id="T18.0854.0172a" ed="T"/>
+<lb n="0172a01" ed="T"/><p lang="san-sd" id="pT18p0172a0101" type="dharani">&SD-D7C4;&SD-A458;&SD-E057;&SD-A458;&SD-A558;&SD-E040;&SD-A67A;&SD-DA46;&SD-A564;&SD-D7C4;</p>
+<lb n="0172a02" ed="T"/><p lang="san-sd" id="pT18p0172a0201" type="dharani">&SD-E0B5;&SD-A456;&SD-CFD3;&SD-CFD4;</p>
+<lb n="0172a03" ed="T"/><p lang="san-sd" id="pT18p0172a0301" type="dharani">&SD-A6A6;&SD-A6A7;&SD-D7C4;&SD-A6B2;&SD-A6B3;&SD-D7C4;&SD-A648;&SD-A649;&SD-D7C4;&SD-A660;&SD-A661;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0172a04" ed="T"/><p lang="san-sd" id="pT18p0172a0401" type="dharani"><anchor id="fxT18p0172a01"/>&SD-DA74;&SD-A648;&SD-A649;&SD-D7C4;<note n="0172001" resp="Taisho" place="foot text" type="orig">&SD-ABA3;＝&SD-ABAE;【甲】</note><app n="0172001"><lem wit="【大】">&SD-ABA3;</lem><rdg resp="Taisho" wit="【甲】">&SD-ABAE;</rdg></app>&SD-A6B3;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;&SD-A648;&SD-A649;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0172a05" ed="T"/><p id="pT18p0172a0501"><note n="0172002" resp="Taisho" place="foot text" type="orig">□＝大威德【甲】</note><app n="0172002"><lem wit="【大】">□</lem><rdg resp="Taisho" wit="【甲】">大威德</rdg></app>□□生。</p>
+<lb n="0172a06" ed="T"/><p lang="san-sd" id="pT18p0172a0601" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A648;&SD-A649;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0172a07" ed="T"/><p id="pT18p0172a0701">金剛不壞。</p>
+<lb n="0172a08" ed="T"/><p lang="san-sd" id="pT18p0172a0801" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A660;&SD-A661;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0172a09" ed="T"/><p id="pT18p0172a0901">蓮花藏。</p>
+<lb n="0172a10" ed="T"/><p lang="san-sd" id="pT18p0172a1001" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A6A6;&SD-A6A7;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0172a11" ed="T"/><p id="pT18p0172a1101">萬德莊嚴。</p>
+<lb n="0172a12" ed="T"/><p lang="san-sd" id="pT18p0172a1201" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A6B2;&SD-A6B3;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0172a13" ed="T"/><p id="pT18p0172a1301">一切支分生。</p>
+<lb n="0172a14" ed="T"/><p lang="san-sd" id="pT18p0172a1401" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFD3;&SD-CFD4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0172a15" ed="T"/><p id="pT18p0172a1501">世尊陀羅尼。</p>
+<lb n="0172a16" ed="T"/><p lang="san-sd" id="pT18p0172a1601" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-E3AD;&SD-D9FA;<note n="0172003" resp="Taisho" place="foot text" type="orig">&SD-A57C;＝&SD-A57B;【甲】</note><app n="0172003"><lem wit="【大】">&SD-A57C;</lem><rdg resp="Taisho" wit="【甲】">&SD-A57B;</rdg></app><note n="0172004" resp="Taisho" place="foot text" type="orig">&SD-A5FD;＝&SD-A648;【甲】</note><app n="0172004"><lem wit="【大】">&SD-A5FD;</lem><rdg resp="Taisho" wit="【甲】">&SD-A648;</rdg></app><note n="0172005" resp="Taisho" place="foot text" type="orig">&SD-A54D;＋（&SD-B2CC;&SD-A5AB;&SD-A656;&SD-A64B;&SD-A57C;&SD-A5A9;&SD-A440;&SD-A640;）【甲】</note><app n="0172005"><lem wit="【大】">&SD-A54D;</lem><rdg resp="Taisho" wit="【甲】">&SD-A54D;&SD-B2CC;&SD-A5AB;&SD-A656;&SD-A64B;&SD-A57C;&SD-A5A9;&SD-A440;&SD-A640;</rdg></app>&SD-D7C4;<note n="0172006" resp="Taisho" place="foot text" type="orig">（&SD-A57B;&SD-A5FD;&SD-A57B;&SD-A5FD;&SD-A57C;&SD-A5FD;&SD-A5F1;）＋&SD-A57C;【甲】</note><app n="0172006"><lem wit="【大】">&SD-A57C;</lem><rdg resp="Taisho" wit="【甲】">&SD-A57B;&SD-A5FD;&SD-A57B;&SD-A5FD;&SD-A57C;&SD-A5FD;&SD-A5F1;&SD-A57C;</rdg></app>
+<lb n="0172a17" ed="T"/>&SD-A5FD;&SD-A5F1;&SD-A67A;&SD-B7AD;&SD-D7C4;&SD-A5D9;&SD-A458;&SD-A656;&SD-A559;&SD-D7C4;&SD-CFC6;&SD-A441;&SD-A5FD;&SD-A656;&SD-A559;&SD-D7C4;&SD-A67A;&SD-A5E5;
+<lb n="0172a18" ed="T"/>&SD-A5F7;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0172a19" ed="T"/><p id="pT18p0172a1901">法住真言。</p>
+<lb n="0172a20" ed="T"/><p lang="san-sd" id="pT18p0172a2001" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5A9;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;<note n="0172007" resp="Taisho" place="foot text" type="orig">&SD-E17A;＝&SD-B554;【甲】</note><note n="0172007" resp="CBETA" type="mod"><app><lem resp="CBETA.say">&SD-DA71;</lem><rdg wit="【大】">&SD-E17A;</rdg></app>＝&SD-B554;【甲】</note><app n="0172007"><lem wit="【大】">&SD-DA71;</lem><rdg resp="Taisho" wit="【甲】">&SD-B554;</rdg></app>&SD-A65C;&SD-A56F;&SD-A658;&SD-A575;&SD-D7C4;&SD-DA49;
+<lb n="0172a21" ed="T"/>&SD-A6A9;&SD-D5B4;</p>
+<lb n="0172a22" ed="T"/><p id="pT18p0172a2201">迅疾持真言。</p>
+<lb n="0172a23" ed="T"/><p lang="san-sd" id="pT18p0172a2301" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A5E5;&SD-A6A9;&SD-A5F9;&SD-A458;&SD-A5F9;&SD-A45A;&SD-A5AB;&SD-D7C4;&SD-A5F9;
+<lb n="0172a24" ed="T"/>&SD-A45E;&SD-E0AB;&SD-A640;&SD-D7C4;&SD-A456;&SD-A4B6;&SD-A641;&SD-A446;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0172a25" ed="T"/><p id="pT18p0172a2501">百光通照　下第六卷。</p>
+<lb n="0172a26" ed="T"/><p lang="san-sd" id="pT18p0172a2601" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-CFD3;&SD-D5B4;</p>
+<lb n="0172a27" ed="T"/><p id="pT18p0172a2701">加持句真言。</p>
+<lb n="0172a28" ed="T"/><p lang="san-sd" id="pT18p0172a2801" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-A5E5;&SD-CA56;&SD-E3AD;&SD-D9FA;&SD-E040;&SD-D7C4;&SD-A67A;&SD-DA46;&SD-A564;&SD-E2CE;&SD-E2CE;&SD-D7C4;&SD-AA68;&SD-AA68;&SD-E24E;
+<lb n="0172a29" ed="T"/>&SD-E24E;&SD-D7C4;&SD-A57B;&SD-A648;&SD-A57B;&SD-A648;&SD-D7C4;<note n="0172008" resp="Taisho" place="foot text" type="orig">&SD-CDF2;＝&SD-CDF1;【甲】＊</note><app n="0172008"><lem wit="【大】">&SD-CDF2;</lem><rdg resp="Taisho" wit="【甲】">&SD-CDF1;</rdg></app>&SD-A5B5;&SD-A5F1;<app source="0172008" type="＊"><lem wit="【大】">&SD-CDF2;</lem><rdg resp="Taisho" wit="【甲】">&SD-CDF1;</rdg></app>&SD-A5B5;&SD-A5F1;&SD-D7C4;&SD-E3AD;&SD-D9FA;&SD-A67A;
+<lb n="0172a30" ed="T"/>&SD-A7D7;<note n="0172009" resp="Taisho" place="foot text" type="orig">&SD-A656;＝&SD-A657;【甲】</note><app n="0172009"><lem wit="【大】">&SD-A656;</lem><rdg resp="Taisho" wit="【甲】">&SD-A657;</rdg></app>&SD-A57B;&SD-B75D;&SD-A67A;&SD-A7D7;&SD-A657;&SD-D7C4;<note n="0172010" resp="Taisho" place="foot text" type="orig">&SD-DA40;＝&SD-A6A6;【甲】</note><app n="0172010"><lem wit="【大】">&SD-DA40;</lem><rdg resp="Taisho" wit="【甲】">&SD-A6A6;</rdg></app>&SD-A464;&SD-A67A;&SD-A7D7;&SD-A440;&SD-A657;<note n="0172011" resp="Taisho" place="foot text" type="orig">&SD-DA49;＝&SD-B064;【甲】</note><app n="0172011"><lem wit="【大】">&SD-DA49;</lem><rdg resp="Taisho" wit="【甲】">&SD-B064;</rdg></app>&SD-A440;
+<lb n="0172a31" ed="T"/>&SD-A657;<anchor id="fxT18p0172a03"/>&SD-DA74;<anchor id="fxT18p0172a04"/>&SD-DA74;<note n="0172012" resp="Taisho" place="foot text" type="orig">&SD-E347;＝&SD-A65C;【甲】</note><app n="0172012"><lem wit="【大】">&SD-E347;</lem><rdg resp="Taisho" wit="【甲】">&SD-A65C;</rdg></app>&SD-A56F;&SD-A5CF;&SD-A575;&SD-D7C4;&SD-DA49;&SD-A6A9;&SD-D5B4;&SD-A4E6;&SD-D5B4;&SD-A67A;&SD-A5E6;&SD-CEE4;
+<pb n="0172b" id="T18.0854.0172b" ed="T"/>
+<lb n="0172b01" ed="T"/>&SD-D5B4;&SD-A4E6;&SD-D7C4;</p></div1>
+<lb n="0172b02" ed="T"/><note n="0172013" resp="Taisho" place="foot text" type="orig">〔書本云…興然本〕－【甲】，甲本奧云求學沙門淳祐手書願以此功德普及於一切我等與眾生皆共成佛道</note><app word-count="35" n="0172013"><lem wit="【大】"><div1 type="W"><p id="pT18p0172b0201">書本云。</p>
+<lb n="0172b03" ed="T"/><p id="pT18p0172b0301">長承二年九月一日以御筆本奉書寫畢云
+<lb n="0172b04" ed="T"/>云件本隆海僧都本云云</p>
+<lb n="0172b05" ed="T"/><p id="pT18p0172b0501">　　　　交了</p>
+<lb n="0172b06" ed="T"/><p id="pT18p0172b0601">　　　　　興然本</p></div1></lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app><note n="0172013" type="rest" place="foot">甲本奧云求學沙門淳祐手書願以此功德普及於一切我等與眾生皆共成佛道</note>
+</body></text></TEI.2>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "T19n0974D.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 0974D 佛頂尊勝陀羅尼注義</title>
+			<author>唐 不空譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.10 $ (Big5)<date>$Date: 2009/04/23 08:00:03 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:00:03 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 19, No. 974D &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language id="eng">English</language>
+			<language id="chi">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+	<change>
+		<date>20000127/11:51:06</date>
+		<respStmt><name>CW</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT (00/01/05)</item>
+	</change>
+<!--
+$Log: T19n0974D.xml,v $
+Revision 1.10  2009/04/23 08:00:03  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.9  2006/04/12 21:55:34  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.7  2006/01/04 09:38:45  saywhat
+p0388b26,c06 [口*縛][曰>日]囉
+
+Revision 1.6  2004/10/14 16:25:33  saywhat
+段落前加入圈點
+
+Revision 1.5  2004/09/10 03:55:22  saywhat
+刪除空的 juan close
+
+Revision 1.4  2004/04/30 09:01:08  saywhat
+p0388c18 刪除空的<p></p>標記
+
+Revision 1.3  2004/04/20 08:38:45  maha
+「版本日期」標記修訂
+
+Revision 1.2  2004/04/20 03:25:24  maha
+將 type="inline" 或 rend="inline" 改成 place="inline"
+
+Revision 1.1.1.1  2003/05/05 04:09:14  ray
+recover cvs
+
+Revision 1.14  2002/11/27 11:26:25  saywhat
+校勘插入處理
+
+Revision 1.13  2002/11/04 10:44:57  ray
+tei.2 => TEI.2
+
+Revision 1.12  2002/07/29 09:56:09  vinking
+modified lang
+
+Revision 1.11  2002/04/08 09:03:11  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.10  2001/11/05 06:13:19  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.9  2001/07/24 06:52:47  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.8  2001/05/25 08:59:11  ray
+經號統一為四碼
+
+Revision 1.7  2001/03/30 06:45:12  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.6  2001/03/25 09:12:58  ray
+add <milestone>
+
+Revision 1.5  2001/02/07 06:54:45  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.4  2001/02/03 07:44:41  chris
+Added keywords $Revision: 1.10 $, $Date: 2009/04/23 08:00:03 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0388b04" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0388b05" ed="T"/>
+<lb n="0388b06" ed="T"/>
+<lb n="0388b07" ed="T"/><head type="no">No. 974D</head>
+<lb n="0388b08" ed="T"/><juan n="001" fun="open"><mulu n="001" type="卷"/><note n="0388001" resp="Taisho" place="foot text" type="orig">【原】大日本續藏經</note><jhead>佛頂尊勝陀羅尼注義</jhead></juan>
+<lb n="0388b09" ed="T"/>
+<lb n="0388b10" ed="T"/><byline type="Translator">大興善寺三藏沙門大廣智
+<lb n="0388b11" ed="T"/>不空奉　詔譯</byline>
+<lb n="0388b12" ed="T"/><div1 type="dharani"><p id="pT19p0388b1201" type="dharani">曩謨婆<note place="inline">上</note>&CB00344;&CB00085;帝<note place="inline">歸命世尊</note>怛&CB00770;<note place="inline">二合</note>路枳也<note place="inline">三世亦三界</note>
+<lb n="0388b13" ed="T"/>&CB00425;囉<note place="inline">二合</note>底尾始瑟吒<note place="inline">二合</note>野<note place="inline">最殊勝</note>沒馱<note place="inline">引</note>也<note place="inline">大覺者</note>
+<lb n="0388b14" ed="T"/>婆&CB00344;&CB00085;帝<note place="inline">同前</note>怛&CB00135;也他<note place="inline">引。所謂。亦即說</note>唵<note place="inline">亦云一切法本不生。
+<lb n="0388b15" ed="T"/>亦云三藏。亦云如來無見頂相也</note>尾戍馱也<note place="inline">淨除</note>尾戍馱也娑摩娑
+<lb n="0388b16" ed="T"/>摩三滿多<note place="inline">上</note>&CB00085;婆娑<note place="inline">普遍照曜</note>娑頗<note place="inline">二合</note>囉拏<note place="inline">舒遍</note>&CB03442;
+<lb n="0388b17" ed="T"/>底&CB00344;訶曩<note place="inline">六趣稠林</note>娑&CB00085;<note place="inline">二合</note>婆<note place="inline">去</note>&CB00085;尾舜<note place="inline">入</note>弟<note place="inline">自性清淨</note>阿
+<lb n="0388b18" ed="T"/>毘詵者&CB00418;&CB00805;<note place="inline">灌頂我</note>素&CB03442;多<note place="inline">善逝</note>&CB00085;囉&CB00085;者曩<note place="inline">引。殊勝言
+<lb n="0388b19" ed="T"/>教</note>阿蜜哩<note place="inline">二合</note>多<note place="inline">去</note>毘灑罽<note place="inline">甘露灌頂。亦云不死句灌頂。露者法身解脫</note>
+<lb n="0388b20" ed="T"/>阿<note place="inline">引</note>訶囉阿訶囉<note place="inline">云唯願攝受。唯垂授攝受。亦云遍攘脫諸苦惱</note>阿欲散
+<lb n="0388b21" ed="T"/>馱<note place="inline">引</note>囉抳<note place="inline">任持受命</note>戍馱也戍馱也<note place="inline">清淨修修</note>&CB00344;&CB00344;曩尾戍
+<lb n="0388b22" ed="T"/>第<note place="inline">如虛空清淨</note>鄔瑟膩<note place="inline">二合</note>沙尾惹也尾舜<note place="inline">入</note>第<note place="inline">佛頂最清
+<lb n="0388b23" ed="T"/>淨</note>娑訶娑囉<note place="inline">二合</note>囉濕弭<note place="inline">二合<note n="0388002" resp="Taisho" place="foot text" type="orig">十＝千？</note><sic cert="?" n="0388002" resp="Taisho" corr="千">十</sic>光明</note>散祖&CB00135;帝<note place="inline">驚覺</note>
+<lb n="0388b24" ed="T"/>薩&CB00085;怛他<note place="inline">引</note>&CB03442;多地瑟吒<note place="inline">二合引</note>曩<note place="inline">引</note>地瑟恥<note place="inline">二合</note>
+<lb n="0388b25" ed="T"/>多<note place="inline">一切如來神力所加持</note>摩訶母捺哩<note place="inline">二合。印契。若廣釋。身印語印心印。金剛印。如理
+<lb n="0388b26" ed="T"/>趣般若說</note>&CB00085;<app><lem resp="CBETA.maha" wit="【CBETA】">日</lem><rdg wit="【大】">曰</rdg></app>囉<note place="inline">二合</note>迦也僧訶多<note place="inline">上</note>曩尾舜第<note place="inline">金剛鉤鎖
+<lb n="0388b27" ed="T"/>身清淨</note>薩&CB00085;<note place="inline">引</note>&CB00085;囉拏播野訥&CB03442;底跛哩尾舜弟
+<lb n="0388b28" ed="T"/><note place="inline">一<note n="0388003" resp="Taisho" place="foot text" type="orig">切＋（障）？</note><sic cert="?" n="0388003" resp="Taisho" corr="切障">切</sic>清淨。一切障者。所謂業障報障煩惱障。皆得清淨也</note>&CB00425;羅<note place="inline">二合</note>底&CB00135;靺多
+<lb n="0388b29" ed="T"/>也阿欲舜<note place="inline">入</note>第<note place="inline">壽命增長皆得清淨</note>三麼耶地瑟恥<note place="inline">二合</note>帝
+<pb n="0388c" id="T19.0974D.0388c" ed="T"/>
+<lb n="0388c01" ed="T"/><note place="inline">誓願加持</note>麼抳麼抳摩訶麼抳<note place="inline">世寶法寶。所謂福德智慧<note n="0388004" resp="Taisho" place="foot text" type="orig">三＝二？</note><sic cert="?" n="0388004" resp="Taisho" corr="二">三</sic>種資糧</note>怛他
+<lb n="0388c02" ed="T"/>多步多句致跛哩舜<note place="inline">入</note>第<note place="inline">真如實際遍滿清淨</note>尾薩普<note place="inline"><note n="0388005" resp="Taisho" place="foot text" type="orig">六＝二&M062485;【原】</note><sic n="0388005" resp="【原】" corr="二">六</sic>合</note>
+<lb n="0388c03" ed="T"/>吒沒地舜<note place="inline">入</note>第<note place="inline">顯現智慧清淨</note>惹也惹也<note place="inline">最勝最勝。真俗二諦</note>尾惹
+<lb n="0388c04" ed="T"/>也尾惹也<note place="inline"><note n="0388006" resp="Taisho" place="foot text" type="orig">昧勝勝＝殊勝殊勝&M062485;【原】</note><sic n="0388006" resp="【原】" corr="殊勝殊勝">昧勝勝</sic>悲智二門</note>娑麼<note place="inline">二合</note>囉娑麼<note place="inline">二合</note>囉<note place="inline">念<note n="0388007" resp="Taisho" place="foot text" type="orig">待＝持？</note><sic cert="?" n="0388007" resp="Taisho" corr="持">待</sic>
+<lb n="0388c05" ed="T"/>定慧<note n="0388008" resp="Taisho" place="foot text" type="orig">相＋（應）？</note><sic cert="?" n="0388008" resp="Taisho" corr="相應">相</sic></note>薩&CB00085;沒馱<note place="inline">引</note>地瑟恥<note place="inline">二合</note>多舜第<note place="inline">入而佛加持清淨</note>&CB00085;
+<lb n="0388c06" ed="T"/>曰&CB00942;<note place="inline">二合菩提心堅固如金剛也</note>&CB00085;<app><lem resp="CBETA.maha" wit="【CBETA】">日</lem><rdg wit="【大】">曰</rdg></app>囉<note place="inline">二合</note>&CB03442;陛<note place="inline">證金剛藏</note>&CB00085;曰覽
+<lb n="0388c07" ed="T"/><note place="inline">二合</note>婆&CB00085;<note place="inline">願成金剛</note>&CB00418;麼麼<note place="inline"><note n="0388009" resp="Taisho" place="foot text" type="orig">或＝我？</note><sic cert="?" n="0388009" resp="Taisho" corr="我">或</sic>議或為他念誦稱彼名字</note>設哩嚂薩&CB00085;
+<lb n="0388c08" ed="T"/>薩怛&CB00085;<note place="inline">二合</note>難<note place="inline">引</note>者迦也尾舜弟<note place="inline">一切有情身清<note n="0388010" resp="Taisho" place="foot text" type="orig">清＝淨？</note><sic cert="?" n="0388010" resp="Taisho" corr="淨">清</sic></note>薩&CB00085;
+<lb n="0388c09" ed="T"/>&CB03442;底跛哩舜第<note place="inline">一切趣皆清淨</note>薩&CB00085;怛他&CB03442;多三麼濕
+<lb n="0388c10" ed="T"/>&CB00085;<note place="inline">二合</note>娑地瑟恥<note place="inline">二合</note>帝<note place="inline">一切如來安慰<note n="0388011" resp="Taisho" place="foot text" type="orig">命＝令？</note><sic cert="?" n="0388011" resp="Taisho" corr="令">命</sic>得加持</note>沒&CB00833;<note place="inline">二合</note>沒
+<lb n="0388c11" ed="T"/>&CB00833;<note place="inline">二合</note>&CB00155;馱也<note place="inline">令悟能覺。令悟能覺</note>舜第<note place="inline">普遍清淨</note>薩&CB00085;怛他
+<lb n="0388c12" ed="T"/><note place="inline">引</note>&CB03442;多<note place="inline">引</note>地瑟<note place="inline">二合馱</note>曩地瑟恥<note place="inline">二合</note>多<note place="inline">一切如來神力所加持</note>
+<lb n="0388c13" ed="T"/>摩訶母怛&CB03272;<note place="inline">二合大印。所謂大印由入毘盧遮那曼荼羅。受灌頂已後。灌頂師受得本尊瑜伽三
+<lb n="0388c14" ed="T"/>麼地。觀智一念淨心。瑜伽相應行者別尊心等同毘盧遮那及諸菩薩。能現入相成道。速證薩婆若智也</note></p><p id="pT19p0388c1441" place="inline">娑&CB00085;
+<lb n="0388c15" ed="T"/>訶者涅槃義。所謂四涅槃。一自性清淨涅槃。
+<lb n="0388c16" ed="T"/>二有餘依涅槃。三無餘依涅槃。四無住處涅
+<lb n="0388c17" ed="T"/>槃。如上所譯。唐梵敵對。顯句標釋。</p></div1>
+<lb n="0388c18" ed="T"/>
+<lb n="0388c19" ed="T"/><div1 type="W"><p id="pT19p0388c1901">寶永二年<note place="inline">乙酉</note>冬十二月十三日以如來藏
+<lb n="0388c20" ed="T"/>本書寫竟　　兜率谷雞頭院闍梨嚴覺</p>
+<lb n="0388c21" ed="T"/>
+<lb n="0388c22" ed="T"/><p id="pT19p0388c2201">享保三歲戊戌九月令得忍寫校正了</p>
+<lb n="0388c23" ed="T"/><p id="pT19p0388c2301">　　　　　　　　　　　　　　慈泉</p>
+<lb n="0388c24" ed="T"/><p id="pT19p0388c2401">文政六年癸未六月以東叡山真如院本令
+<lb n="0388c25" ed="T"/>他寫自校之了　　　　　　　　龍肝</p></div1>
+</body></text></TEI.2>

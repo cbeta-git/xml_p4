@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "T19n1005B.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1005B 寶樓閣經梵字真言</title>
+			<author></author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.10 $ (Big5)<date>$Date: 2009/04/23 08:00:05 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:00:05 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 19, No. 1005B &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language id="san-sd">Sanskrit-Siddam</language>
+			<language id="eng">English</language>
+			<language id="chi">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+	<change>
+		<date>20000127/11:51:14</date>
+		<respStmt><name>CW</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT (00/01/05)</item>
+	</change>
+<!--
+$Log: T19n1005B.xml,v $
+Revision 1.10  2009/04/23 08:00:05  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.9  2006/08/15 02:53:46  saywhat
+p0635b28 SD-AF77=>SD-D9FC
+
+Revision 1.8  2006/04/12 21:55:37  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.6  2006/03/16 10:26:31  saywhat
+&SD-A65A;&SD-AF72;（vu dvaa）=> &SD-E3AD;&SD-D9FA;（bu ddhaa）
+
+Revision 1.5  2004/10/14 16:25:34  saywhat
+段落前加入圈點
+
+Revision 1.4  2004/09/10 03:51:31  saywhat
+刪除空的 juan close
+
+Revision 1.3  2004/07/05 09:09:05  saywhat
+修訂 div 位置
+
+Revision 1.2  2004/04/20 08:38:48  maha
+「版本日期」標記修訂
+
+Revision 1.1.1.1  2003/05/05 04:09:17  ray
+recover cvs
+
+Revision 1.16  2002/11/27 11:26:32  saywhat
+校勘插入處理
+
+Revision 1.15  2002/11/04 10:45:00  ray
+tei.2 => TEI.2
+
+Revision 1.14  2002/07/29 09:56:12  vinking
+modified lang
+
+Revision 1.13  2002/04/08 09:03:14  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.12  2001/07/24 06:52:53  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.11  2001/03/30 06:45:19  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.10  2001/03/25 09:13:02  ray
+add <milestone>
+
+Revision 1.9  2001/02/23 00:33:09  RAY
+<lb n="0635c26"/>加入&,
+
+Revision 1.8  2001/02/07 06:55:06  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.7  2001/02/03 07:45:02  chris
+Added keywords $Revision: 1.10 $, $Date: 2009/04/23 08:00:05 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0634b07" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0634b08" ed="T"/>
+<lb n="0634b09" ed="T"/><head type="no">No. 1005B</head>
+<lb n="0634b10" ed="T"/><juan n="001" fun="open"><mulu n="001" type="卷"/><note n="0634005" resp="Taisho" place="foot text" type="orig">【原】承安元年寫東寺三密藏本</note><jhead>寶樓閣經梵字真言</jhead></juan>
+<lb n="0634b11" ed="T"/>
+<lb n="0634b12" ed="T"/><div1 type="other"><p id="pT19p0634b1201">驚覺。</p>
+<lb n="0634b13" ed="T"/><p lang="san-sd" id="pT19p0634b1301" type="dharani">&SD-D5B5;&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A55D;&SD-A8A2;&SD-A5EB;&SD-A559;&SD-CD55;&SD-A559;
+<lb n="0634b14" ed="T"/>&SD-A56F;&SD-E1CC;&SD-A571;&SD-A668;&SD-E074;&SD-A5E5;&SD-A54D;&SD-A656;&SD-A9BD;&SD-ADE9;&SD-A56F;&SD-A5F1;&SD-A656;&SD-A9C3;
+<lb n="0634b15" ed="T"/>&SD-A5E6;&SD-A5FD;&SD-A6A3;&SD-A848;&SD-A658;&SD-AA77;&SD-A5B5;&SD-A652;&SD-A6A8;&SD-A5A9;&SD-A656;&SD-A9BD;&SD-A458;&SD-B751;
+<lb n="0634b16" ed="T"/>&SD-AA5F;&SD-A67A;&SD-A5F1;&SD-AA5F;&SD-A67A;&SD-A5F1;&SD-A67A;&SD-B7A3;&SD-A5E6;&SD-A5FD;&SD-A5D9;&SD-A656;&SD-A5AA;&SD-A5AB;
+<lb n="0634b17" ed="T"/>&SD-E2F6;&SD-E2F6;&SD-A6A6;&SD-A57B;&SD-A5FD;&SD-A67A;&SD-A57B;&SD-A5FD;&SD-E3AD;&SD-D9FA;&SD-A5EC;&SD-AA61;&SD-A67A;&SD-B7A3;
+<lb n="0634b18" ed="T"/>&SD-A557;&SD-A564;&SD-A458;&SD-A557;</p>
+<lb n="0634b19" ed="T"/><p id="pT19p0634b1901">驚覺。</p>
+<lb n="0634b20" ed="T"/><p lang="san-sd" id="pT19p0634b2001" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A5E5;&SD-A54D;&SD-A662;&SD-AA60;&SD-A571;&SD-CEEC;&SD-AEB8;
+<lb n="0634b21" ed="T"/>&SD-A650;&SD-AEB8;&SD-A650;&SD-A57B;&SD-E1BA;&SD-A57C;&SD-A55B;&SD-A458;&SD-B757;&SD-A5E5;&SD-A54D;&SD-A5E5;&SD-A54D;&SD-A5E5;
+<lb n="0634b22" ed="T"/>&SD-A6A9;&SD-A5E5;&SD-A54D;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-ADE9;&SD-E1EA;&SD-A54D;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0634b23" ed="T"/><p id="pT19p0634b2301">根本。</p>
+<lb n="0634b24" ed="T"/><p lang="san-sd" id="pT19p0634b2401" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-E040;&SD-E074;&SD-A658;&SD-A5B9;&SD-A64A;&SD-A458;
+<lb n="0634b25" ed="T"/>&SD-B757;&SD-A5E5;&SD-A54D;&SD-AABC;&SD-A5DF;&SD-A557;&SD-A564;&SD-A558;&SD-A5AB;&SD-A56F;&SD-E2E7;&SD-A5AF;&SD-A5E5;&SD-A54D;
+<lb n="0634b26" ed="T"/>&SD-A5E5;&SD-A54D;&SD-E0BC;&SD-AABC;&SD-A5DF;&SD-A658;&SD-A5E5;&SD-A650;&SD-A67B;&SD-A458;&SD-A5FD;&SD-A458;&SD-CACF;&SD-A644;
+<lb n="0634b27" ed="T"/>&SD-E17C;&SD-E17C;&SD-AEB8;&SD-A64A;&SD-AEB8;&SD-A64A;&SD-E3AD;&SD-D9FA;&SD-A658;&SD-A652;&SD-A442;&SD-A55D;&SD-A666;&SD-A861;
+<lb n="0634b28" ed="T"/>&SD-A57D;&SD-CD4D;&SD-A557;&SD-A458;&SD-B757;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0634b29" ed="T"/><p id="pT19p0634b2901">心及隨心。</p>
+<pb n="0634c" id="T19.1005B.0634c" ed="T"/>
+<lb n="0634c01" ed="T"/><p lang="san-sd" id="pT19p0634c0101" type="dharani">&SD-E074;&SD-A5E5;&SD-A54D;&SD-A656;&SD-A9C5;&SD-E17C;&SD-D5B4;</p>
+<lb n="0634c02" ed="T"/><p id="pT19p0634c0201">隨心。</p>
+<lb n="0634c03" ed="T"/><p lang="san-sd" id="pT19p0634c0301" type="dharani">&SD-E074;&SD-A5E5;&SD-A54D;&SD-AFAB;&SD-A644;&SD-E17C;&SD-A5C1;&SD-E046;</p>
+<lb n="0634c04" ed="T"/><p id="pT19p0634c0401">坐。</p>
+<lb n="0634c05" ed="T"/><p lang="san-sd" id="pT19p0634c0501" type="dharani">&SD-E074;&SD-A5E5;&SD-A54D;&SD-A444;&SD-C9FD;&SD-A64C;&SD-CFC1;&SD-CFC1;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0634c06" ed="T"/><p id="pT19p0634c0601">結壇界。</p>
+<lb n="0634c07" ed="T"/><p lang="san-sd" id="pT19p0634c0701" type="dharani">&SD-E074;&SD-A5E5;&SD-A54D;&SD-A656;&SD-A4B6;&SD-A5F7;&SD-A57B;&SD-A5FD;&SD-A57B;&SD-A5FD;&SD-CFC1;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0634c08" ed="T"/><p id="pT19p0634c0801">結十方界。</p>
+<lb n="0634c09" ed="T"/><p lang="san-sd" id="pT19p0634c0901" type="dharani">&SD-E074;&SD-AEB8;&SD-A64C;&SD-A557;&SD-A5E5;&SD-A54D;&SD-A642;&SD-A47E;&SD-A5FE;&SD-A8CA;&SD-E347;&SD-CFC1;&SD-CFC1;&SD-A5C1;
+<lb n="0634c10" ed="T"/>&SD-E046;&SD-D5B4;</p>
+<lb n="0634c11" ed="T"/><p id="pT19p0634c1101">碎毘那夜迦。</p>
+<lb n="0634c12" ed="T"/><p lang="san-sd" id="pT19p0634c1201" type="dharani">&SD-E074;&SD-A5E5;&SD-A54D;&SD-AABC;&SD-A5DA;&SD-A656;&SD-A559;&SD-A6A8;&SD-A5FD;&SD-A6A8;&SD-A5FD;&SD-CFC1;&SD-CFC1;&SD-A5C1;
+<lb n="0634c13" ed="T"/>&SD-E046;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0634c14" ed="T"/><p id="pT19p0634c1401">頂髻。</p>
+<lb n="0634c15" ed="T"/><p lang="san-sd" id="pT19p0634c1501" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A5E5;&SD-A54D;&SD-A559;&SD-CD4B;&SD-A559;&SD-CD4B;&SD-CFC1;&SD-CFC1;&SD-A5C1;&SD-E046;&SD-D5B4;</p>
+<lb n="0634c16" ed="T"/><p id="pT19p0634c1601">加持衣。</p>
+<lb n="0634c17" ed="T"/><p lang="san-sd" id="pT19p0634c1701" type="dharani">&SD-E074;&SD-A5E5;&SD-A54D;&SD-A658;&SD-A5B9;&SD-A650;&SD-A57D;&SD-A640;&SD-A57D;&SD-A640;&SD-CFC1;&SD-A5C1;&SD-E046;&SD-D5B4;</p>
+<lb n="0634c18" ed="T"/><p id="pT19p0634c1801">洗嗽。</p>
+<lb n="0634c19" ed="T"/><p lang="san-sd" id="pT19p0634c1901" type="dharani">&SD-E074;&SD-A658;&SD-A741;&SD-A656;&SD-A559;&SD-A6A8;&SD-A5FD;&SD-A6A8;&SD-A5FD;&SD-A5E5;&SD-A6A9;&SD-A5E5;&SD-A54D;&SD-CFC1;
+<lb n="0634c20" ed="T"/>&SD-CFC1;&SD-A5C1;&SD-E046;&SD-D5B4;</p>
+<lb n="0634c21" ed="T"/><p id="pT19p0634c2101">洗浴。</p>
+<lb n="0634c22" ed="T"/><p lang="san-sd" id="pT19p0634c2201" type="dharani">&SD-E074;&SD-E0BC;&SD-A5AB;&SD-B75D;&SD-A64A;&SD-A656;&SD-A559;&SD-A6A8;&SD-A5FD;&SD-A6A8;&SD-A5FD;&SD-A5B6;&SD-A5BF;&SD-A5E7;
+<lb n="0634c23" ed="T"/>&SD-A64C;&SD-A5E7;&SD-CFC1;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0634c24" ed="T"/><p id="pT19p0634c2401">法護。</p>
+<lb n="0634c25" ed="T"/><p lang="san-sd" id="pT19p0634c2501" type="dharani">&SD-E074;&SD-A5E5;&SD-A54D;&SD-AFAC;&SD-A640;&SD-CFC1;&SD-CFC1;&SD-A5C1;&SD-E046;&SD-D5B4;</p>
+<lb n="0634c26" ed="T"/><p id="pT19p0634c2601">神線。</p>
+<lb n="0634c27" ed="T"/><p lang="san-sd" id="pT19p0634c2701" type="dharani">&SD-E074;&SD-A57D;&SD-A640;&SD-A57D;&SD-A640;&SD-A5E5;&SD-A54B;&SD-A440;&SD-A640;&SD-CFC1;&SD-CFC1;&SD-A5C1;&SD-E046;&SD-D5B4;</p>
+<lb n="0634c28" ed="T"/><p id="pT19p0634c2801">獻花。</p>
+<lb n="0634c29" ed="T"/><p lang="san-sd" id="pT19p0634c2901" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-E042;&SD-A4B6;&SD-A5E5;&SD-A54D;&SD-CFC1;&SD-CFC1;&SD-D5B4;</p>
+<pb n="0635a" id="T19.1005B.0635a" ed="T"/>
+<lb n="0635a01" ed="T"/><p id="pT19p0635a0101">塗香。</p>
+<lb n="0635a02" ed="T"/><p lang="san-sd" id="pT19p0635a0201" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A458;&SD-AFAB;&SD-A5E5;&SD-A54D;&SD-CDF1;&SD-A5FD;&SD-A54B;
+<lb n="0635a03" ed="T"/>&SD-CFC1;&SD-D5B4;</p>
+<lb n="0635a04" ed="T"/><p id="pT19p0635a0401">燒香。</p>
+<lb n="0635a05" ed="T"/><p lang="san-sd" id="pT19p0635a0501" type="dharani">&SD-E074;&SD-AEB8;&SD-A64C;&SD-A557;&SD-A5E5;&SD-A54D;&SD-CFC5;&SD-AAE6;&SD-A444;&SD-A4DA;&SD-CDF1;&SD-A5FD;&SD-A54B;&SD-A658;
+<lb n="0635a06" ed="T"/>&SD-A458;&SD-A559;&SD-CFC1;&SD-D5B4;</p>
+<lb n="0635a07" ed="T"/><p id="pT19p0635a0701">燈。</p>
+<lb n="0635a08" ed="T"/><p lang="san-sd" id="pT19p0635a0801" type="dharani">&SD-E074;&SD-AEB8;&SD-A64C;&SD-A557;&SD-A664;&SD-A458;&SD-A644;&SD-A57B;&SD-A656;&SD-A64A;&SD-CFC1;&SD-CFC1;&SD-A5C1;&SD-E046;
+<lb n="0635a09" ed="T"/>&SD-D5B4;</p>
+<lb n="0635a10" ed="T"/><p id="pT19p0635a1001">食。</p>
+<lb n="0635a11" ed="T"/><p lang="san-sd" id="pT19p0635a1101" type="dharani">&SD-E074;&SD-AABC;&SD-A656;&SD-A5FE;&SD-A95F;&SD-A656;&SD-A559;&SD-A67A;&SD-A5FD;&SD-A67A;&SD-A5FD;&SD-CFC1;&SD-CFC1;&SD-D5B4;</p>
+<lb n="0635a12" ed="T"/><p id="pT19p0635a1201">閼伽。</p>
+<lb n="0635a13" ed="T"/><p lang="san-sd" id="pT19p0635a1301" type="dharani">&SD-E074;&SD-A5E5;&SD-A6A9;&SD-A5E5;&SD-A54D;&SD-E042;&SD-A5FD;&SD-A5F1;&SD-A57B;&SD-A5FD;&SD-A57B;&SD-A5FD;&SD-CFC1;&SD-CFC1;
+<lb n="0635a14" ed="T"/>&SD-D5B4;</p>
+<lb n="0635a15" ed="T"/><p id="pT19p0635a1501">供物及食等。</p>
+<lb n="0635a16" ed="T"/><p lang="san-sd" id="pT19p0635a1601" type="dharani">&SD-E074;&SD-AEB8;&SD-A64A;&SD-CDF5;&SD-A5FD;&SD-A458;&SD-A458;&SD-A5A9;&SD-AABC;&SD-A558;&SD-A5FD;&SD-A54D;&SD-CFC1;&SD-CFC1;
+<lb n="0635a17" ed="T"/>&SD-D5B4;</p>
+<lb n="0635a18" ed="T"/><p id="pT19p0635a1801">加持念珠。</p>
+<lb n="0635a19" ed="T"/><p lang="san-sd" id="pT19p0635a1901" type="dharani">&SD-E074;&SD-A642;&SD-A47E;&SD-A5FD;&SD-A5E5;&SD-A54D;&SD-AABC;&SD-A656;&SD-DAB1;&SD-A5F1;&SD-CFC1;</p>
+<lb n="0635a20" ed="T"/><p id="pT19p0635a2001">念誦先誦此真言。</p>
+<lb n="0635a21" ed="T"/><p lang="san-sd" id="pT19p0635a2101" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A5E5;&SD-A54D;&SD-A440;&SD-A5FD;&SD-E1A1;&SD-A440;&SD-A640;&SD-CFC1;&SD-CFC1;&SD-A5C1;&SD-E046;
+<lb n="0635a22" ed="T"/>&SD-D5B4;</p>
+<lb n="0635a23" ed="T"/><p id="pT19p0635a2301">結趺坐。</p>
+<lb n="0635a24" ed="T"/><p lang="san-sd" id="pT19p0635a2401" type="dharani">&SD-E074;&SD-E0BC;&SD-AABC;&SD-A656;&SD-E0EA;&SD-A557;&SD-A65C;&SD-A45E;&SD-A5E5;&SD-A54D;&SD-A5E5;&SD-A54D;&SD-B065;&SD-A6A9;
+<lb n="0635a25" ed="T"/>&SD-D5B4;</p>
+<lb n="0635a26" ed="T"/><p id="pT19p0635a2601">驚覺一切如來。</p>
+<lb n="0635a27" ed="T"/><p lang="san-sd" id="pT19p0635a2701" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A657;&SD-A5F5;&SD-A4B6;&SD-A656;&SD-A557;&SD-A5FD;&SD-A557;
+<lb n="0635a28" ed="T"/>&SD-A5FD;&SD-CFC1;&SD-A5E5;&SD-A54D;&SD-A441;&SD-A5A9;&SD-A5AF;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0635a29" ed="T"/><p id="pT19p0635a2901">請一切如來。</p>
+<pb n="0635b" id="T19.1005B.0635b" ed="T"/>
+<lb n="0635b01" ed="T"/><p lang="san-sd" id="pT19p0635b0101" type="dharani">&SD-E074;&SD-E0BC;&SD-A658;&SD-AABC;&SD-A64A;&SD-AABC;&SD-A656;&SD-A644;&SD-E0C1;&SD-A642;&SD-E0C1;&SD-A642;&SD-CFC1;&SD-CFC1;
+<lb n="0635b02" ed="T"/>&SD-D5B4;</p>
+<lb n="0635b03" ed="T"/><p id="pT19p0635b0301">求願。</p>
+<lb n="0635b04" ed="T"/><p lang="san-sd" id="pT19p0635b0401" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A57D;&SD-CD4B;&SD-A5A9;&SD-A658;&SD-CF55;&SD-A67A;&SD-A5FD;
+<lb n="0635b05" ed="T"/>&SD-A6B4;&SD-A54B;&SD-A656;&SD-A9C3;&SD-CFC1;&SD-CFC1;&SD-D5B4;</p>
+<lb n="0635b06" ed="T"/><p id="pT19p0635b0601">求菩薩願。</p>
+<lb n="0635b07" ed="T"/><p lang="san-sd" id="pT19p0635b0701" type="dharani">&SD-E074;&SD-E0BC;&SD-A658;&SD-A5B9;&SD-A64A;&SD-A656;&SD-A56F;&SD-A5AF;&SD-A6A8;&SD-A5FD;&SD-A6A8;&SD-A5FD;&SD-CFC1;&SD-CFC1;
+<lb n="0635b08" ed="T"/>&SD-D5B4;</p>
+<lb n="0635b09" ed="T"/><p id="pT19p0635b0901">請一切天龍。</p>
+<lb n="0635b10" ed="T"/><p lang="san-sd" id="pT19p0635b1001" type="dharani">&SD-E074;&SD-CFC5;&SD-A5DB;&SD-A67A;&SD-A5E5;&SD-A5F1;&SD-A656;&SD-A9C3;&SD-A57B;&SD-A5FD;&SD-A57B;&SD-A5FD;&SD-CFC1;&SD-D5B4;</p>
+<lb n="0635b11" ed="T"/><p id="pT19p0635b1101">請四天王等。</p>
+<lb n="0635b12" ed="T"/><p lang="san-sd" id="pT19p0635b1201" type="dharani">&SD-E074;&SD-A5E5;&SD-A54D;&SD-A65C;&SD-A458;&SD-A656;&SD-A559;&SD-CFC1;&SD-D5B4;</p>
+<lb n="0635b13" ed="T"/><p id="pT19p0635b1301">加持弟子。</p>
+<lb n="0635b14" ed="T"/><p lang="san-sd" id="pT19p0635b1401" type="dharani">&SD-E074;&SD-A666;&SD-A5D9;&SD-A5E5;&SD-A54D;&SD-E0AA;&SD-A64A;&SD-E0AA;&SD-A64A;&SD-CFC1;&SD-D5B4;</p>
+<lb n="0635b15" ed="T"/><p id="pT19p0635b1501">令弟子入壇。</p>
+<lb n="0635b16" ed="T"/><p lang="san-sd" id="pT19p0635b1601" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-ADE9;&SD-A56F;&SD-A5F1;&SD-A656;&SD-A9BF;&SD-A54D;&SD-A57B;
+<lb n="0635b17" ed="T"/>&SD-A5FE;&SD-A57B;&SD-A5FE;&SD-CFC1;&SD-CFC1;&SD-D5B4;</p>
+<lb n="0635b18" ed="T"/><p id="pT19p0635b1801">獻一切佛一切菩薩諸天等食。</p>
+<lb n="0635b19" ed="T"/><p lang="san-sd" id="pT19p0635b1901" type="dharani">&SD-E074;&SD-A659;&SD-A5FD;&SD-A4BC;&SD-A458;&SD-A458;&SD-A5A9;&SD-A657;&SD-A6AA;&SD-A559;&SD-A64A;&SD-E0AA;&SD-A64A;&SD-E0AA;
+<lb n="0635b20" ed="T"/>&SD-CFC1;&SD-CFC1;&SD-D5B4;</p>
+<lb n="0635b21" ed="T"/><p id="pT19p0635b2101">訶送諸聖眾。</p>
+<lb n="0635b22" ed="T"/><p lang="san-sd" id="pT19p0635b2201" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A656;&SD-A9BD;&SD-A444;&SD-A652;&SD-A571;&SD-A55D;&SD-B2CC;
+<lb n="0635b23" ed="T"/>&SD-A5FD;&SD-A54D;&SD-A658;&SD-A458;&SD-A55D;&SD-AEB8;&SD-A64A;&SD-AEB8;&SD-A64A;&SD-CFC1;&SD-CFC1;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0635b24" ed="T"/><p id="pT19p0635b2401">獻物護身。</p>
+<lb n="0635b25" ed="T"/><p lang="san-sd" id="pT19p0635b2501" type="dharani">&SD-E074;&SD-A5E5;&SD-A54D;&SD-E0B1;&SD-A5D9;&SD-A5AB;&SD-A65C;&SD-A458;&SD-A656;&SD-A559;&SD-A5FD;&SD-A6B4;&SD-A5FD;&SD-A6B4;
+<lb n="0635b26" ed="T"/>&SD-A5EF;&SD-CFC1;&SD-D5B4;</p>
+<lb n="0635b27" ed="T"/><p id="pT19p0635b2701">為弟子灌頂。</p>
+<lb n="0635b28" ed="T"/><p lang="san-sd" id="pT19p0635b2801" type="dharani">&SD-E074;&SD-A5E5;&SD-A6A9;&SD-A658;&SD-A5B9;&SD-A64A;&SD-AABC;&SD-A559;&SD-CD4D;&SD-A557;&SD-A67C;&SD-D9FC;&SD-CFC5;&SD-A5DB;
+<lb n="0635b29" ed="T"/>&SD-A670;&SD-A47C;&SD-A5EF;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A5DB;&SD-A674;&SD-E1FD;&SD-A5D9;&SD-A5FD;
+<pb n="0635c" id="T19.1005B.0635c" ed="T"/>
+<lb n="0635c01" ed="T"/>&SD-A5D9;&SD-A5FD;&SD-A6A6;&SD-A5D9;&SD-CFC1;&SD-A6A6;&SD-A5D9;&SD-A5FD;&SD-CFC1;&SD-CFC1;&SD-D5B4;</p>
+<lb n="0635c02" ed="T"/><p id="pT19p0635c0201">法供養護摩。</p>
+<lb n="0635c03" ed="T"/><p lang="san-sd" id="pT19p0635c0301" type="dharani">&SD-E074;&SD-B065;&SD-A6A9;&SD-A5B5;&SD-A559;&SD-A5DE;&SD-B755;&SD-A661;&SD-CFC1;&SD-CFC1;&SD-A5C1;&SD-E046;&SD-D5B4;</p>
+<lb n="0635c04" ed="T"/><p id="pT19p0635c0401">我今悉皆禮。</p>
+<lb n="0635c05" ed="T"/><p lang="san-sd" id="pT19p0635c0501" type="dharani">&SD-E074;&SD-A5E5;&SD-A5AB;&SD-A5E5;&SD-A54D;&SD-AABC;&SD-A656;&SD-A5FD;&SD-AABC;&SD-A656;&SD-A5FD;&SD-A45C;&SD-E0C3;&SD-A5B5;
+<lb n="0635c06" ed="T"/>&SD-B1DF;&SD-A5E5;&SD-A6A9;&SD-AABC;&SD-A5DF;&SD-B065;&SD-A6A9;</p>
+<lb n="0635c07" ed="T"/><p id="pT19p0635c0701">普遍光明如來心。</p>
+<lb n="0635c08" ed="T"/><p lang="san-sd" id="pT19p0635c0801" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-ADE9;&SD-A56F;&SD-A5F1;&SD-A5E5;&SD-A54D;&SD-AEB8;&SD-A64A;
+<lb n="0635c09" ed="T"/>&SD-A55D;&SD-CFC6;&SD-A658;&SD-CD4D;&SD-A5F1;&SD-CFC1;&SD-D5B4;</p>
+<lb n="0635c10" ed="T"/><p id="pT19p0635c1001">一切如來心印。</p>
+<lb n="0635c11" ed="T"/><p lang="san-sd" id="pT19p0635c1101" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-AABC;&SD-A656;&SD-A5FD;&SD-A642;&SD-A95F;&SD-A5E5;&SD-A54D;
+<lb n="0635c12" ed="T"/>&SD-E2B9;&SD-D5B4;</p>
+<lb n="0635c13" ed="T"/><p id="pT19p0635c1301">一切如來普遍大寶三昧耶。</p>
+<lb n="0635c14" ed="T"/><p lang="san-sd" id="pT19p0635c1401" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-A5DB;&SD-A6A6;&SD-A65E;&SD-A57B;&SD-A5A9;&SD-A656;&SD-A9C3;
+<lb n="0635c15" ed="T"/>&SD-E2B9;&SD-CFC1;&SD-D5B4;</p>
+<lb n="0635c16" ed="T"/><p id="pT19p0635c1601">一切如來莊嚴大寶光。</p>
+<lb n="0635c17" ed="T"/><p lang="san-sd" id="pT19p0635c1701" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A57D;&SD-CD4C;&SD-A5A9;&SD-A5E5;&SD-A54D;&SD-A5E5;&SD-A54D;
+<lb n="0635c18" ed="T"/>&SD-E2B9;&SD-CFC1;&SD-A5C1;&SD-E046;&SD-D5B4;</p>
+<lb n="0635c19" ed="T"/><p id="pT19p0635c1901">金剛師子座。</p>
+<lb n="0635c20" ed="T"/><p lang="san-sd" id="pT19p0635c2001" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-AABC;&SD-A656;&SD-A5FD;&SD-A5E5;&SD-A54D;&SD-A5FD;&SD-A47E;
+<lb n="0635c21" ed="T"/>&SD-A644;&SD-CFC1;&SD-E2B9;&SD-A5C1;&SD-E046;&SD-D5B4;</p>
+<lb n="0635c22" ed="T"/><p id="pT19p0635c2201">大寶出生灌頂。</p>
+<lb n="0635c23" ed="T"/><p lang="san-sd" id="pT19p0635c2301" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A658;&SD-A5E5;&SD-A64A;&SD-A6A6;&SD-A5D9;&SD-A65C;&SD-CFC1;
+<lb n="0635c24" ed="T"/>&SD-CFC1;&SD-D5B4;</p>
+<lb n="0635c25" ed="T"/><p id="pT19p0635c2501">摧魔熾然法輪神通加持。</p>
+<lb n="0635c26" ed="T"/><p lang="san-sd" id="pT19p0635c2601" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A558;&SD-A564;&SD-A458;&SD-A557;&SD-A67A;&SD-A5E5;&SD-A5F1;&SD-A5E5;&SD-A54D;&SD-A656;&SD-A9C3;
+<lb n="0635c27" ed="T"/>&SD-CFC1;&SD-CFC1;&SD-D5B4;</p>
+<lb n="0635c28" ed="T"/><p id="pT19p0635c2801">無能勝。</p>
+<lb n="0635c29" ed="T"/><p lang="san-sd" id="pT19p0635c2901" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A558;&SD-A564;&SD-A458;&SD-A558;&SD-A4B6;&SD-A5F1;&SD-CFC5;&SD-A4B8;&SD-A557;&SD-A656;&SD-A9C3;
+<pb n="0636a" id="T19.1005B.0636a" ed="T"/>
+<lb n="0636a01" ed="T"/>&SD-CFC1;&SD-CFC1;&SD-D5B4;</p>
+<lb n="0636a02" ed="T"/><p id="pT19p0636a0201">一切如來轉法輪。</p>
+<lb n="0636a03" ed="T"/><p lang="san-sd" id="pT19p0636a0301" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A57B;&SD-E1BA;&SD-A57C;&SD-A55B;&SD-A5E5;&SD-A6A9;&SD-A5E5;
+<lb n="0636a04" ed="T"/>&SD-A54D;&SD-A664;&SD-A44C;&SD-A644;&SD-A6A8;&SD-A5FD;&SD-A6A8;&SD-E2B9;&SD-E2B9;&SD-A5C1;&SD-E046;&SD-D5B4;</p>
+<lb n="0636a05" ed="T"/><p id="pT19p0636a0501">金剛手。</p>
+<lb n="0636a06" ed="T"/><p lang="san-sd" id="pT19p0636a0601" type="dharani">&SD-E074;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A5E5;&SD-A6A9;&SD-A656;&SD-A9BE;&SD-AEB8;&SD-A5FD;&SD-A57B;
+<lb n="0636a07" ed="T"/>&SD-A5FD;&SD-A57B;&SD-A5FD;&SD-CFC1;&SD-CFC1;&SD-A5C1;&SD-E046;&SD-D5B4;</p>
+<lb n="0636a08" ed="T"/><p id="pT19p0636a0801">寶金剛菩薩。</p>
+<lb n="0636a09" ed="T"/><p lang="san-sd" id="pT19p0636a0901" type="dharani">&SD-E074;&SD-E0C1;&SD-A642;&SD-E0C1;&SD-A642;&SD-A5E5;&SD-A54D;&SD-A5E5;&SD-A54D;&SD-A5E5;&SD-A6A9;&SD-A5E5;&SD-A54D;&SD-A658;
+<lb n="0636a10" ed="T"/>&SD-A741;&SD-A7D7;&SD-A54D;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0636a11" ed="T"/><p id="pT19p0636a1101">四大天主。</p>
+<lb n="0636a12" ed="T"/><p lang="san-sd" id="pT19p0636a1201" type="dharani">&SD-E074;&SD-A652;&SD-A446;&SD-A5B6;&SD-A64C;&SD-A55D;&SD-A4B6;&SD-A5F1;&SD-A4B6;&SD-A5F1;&SD-CFC1;&SD-D5B4;</p>
+<lb n="0636a13" ed="T"/><p id="pT19p0636a1301">吉祥天女。</p>
+<lb n="0636a14" ed="T"/><p lang="san-sd" id="pT19p0636a1401" type="dharani">&SD-E074;&SD-A658;&SD-A5E5;&SD-A5FE;&SD-A95F;&SD-A656;&SD-A559;&SD-A67A;&SD-A5D9;&SD-A5FD;&SD-CFC1;</p>
+<lb n="0636a15" ed="T"/><p id="pT19p0636a1501">&CB00424;棄尼天女。</p>
+<lb n="0636a16" ed="T"/><p lang="san-sd" id="pT19p0636a1601" type="dharani">&SD-E074;&SD-A579;&SD-E0F0;&SD-A54D;&SD-A658;&SD-A67A;&SD-A5FD;&SD-CFC1;&SD-D5B4;</p>
+<lb n="0636a17" ed="T"/><p id="pT19p0636a1701">使者天女。</p>
+<lb n="0636a18" ed="T"/><p lang="san-sd" id="pT19p0636a1801" type="dharani">&SD-E074;&SD-CFC6;&SD-A458;&SD-A5E5;&SD-A5F1;&SD-A57E;&SD-A5FD;&SD-A5EF;&SD-A6FD;&SD-CF6D;&SD-A6A9;&SD-A67C;&SD-A5AB;&SD-CFC1;
+<lb n="0636a19" ed="T"/>&SD-D5B4;</p>
+<lb n="0636a20" ed="T"/><p id="pT19p0636a2001">曼荼羅中一切聖眾。</p>
+<lb n="0636a21" ed="T"/><p lang="san-sd" id="pT19p0636a2101" type="dharani">&SD-E074;&SD-A67A;&SD-A5E5;&SD-CA57;&SD-A441;&SD-A64A;&SD-A5B5;&SD-A640;&SD-AABC;&SD-A5FD;&SD-A54D;&SD-A57B;&SD-A440;&SD-A57B;
+<lb n="0636a22" ed="T"/>&SD-A440;&SD-CFC1;&SD-CFC1;&SD-D5B4;</p>
+<lb n="0636a23" ed="T"/><p id="pT19p0636a2301">花齒天女。</p>
+<lb n="0636a24" ed="T"/><p lang="san-sd" id="pT19p0636a2401" type="dharani">&SD-E074;&SD-A67A;&SD-A5FD;&SD-A67A;&SD-A5FD;&SD-A658;&SD-A67A;&SD-A5FE;&SD-CFC1;&SD-CFC1;</p></div1>
+<lb n="0636a25" ed="T"/><div1 type="W"><p id="pT19p0636a2501">　承安元年六月十日於仁和寺以常林房
+<lb n="0636a26" ed="T"/>御本書寫　　本云以根本御本書之云
+<lb n="0636a27" ed="T"/>云</p>
+<lb n="0636a28" ed="T"/><p id="pT19p0636a2801">　　　　　　　　　金剛　　顯耀</p></div1>
+</body></text></TEI.2>

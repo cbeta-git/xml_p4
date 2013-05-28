@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "T08n0249.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+%ENTY;
+%CBENT;
+]>
+<TEI.2><teiHeader><fileDesc>
+<titleStmt>
+<title>Taisho Tripitaka, Electronic version, No. 0249 佛說帝釋般若波羅蜜多心經</title>
+<author>宋 施護譯</author>
+<respStmt>
+<resp>Electronic Version by</resp><name>CBETA</name></respStmt></titleStmt>
+<editionStmt><edition>$Revision: 1.18 $ (Big5)<date>$Date: 2012/08/27 03:14:21 $</date>新式標點版</edition></editionStmt>
+<extent>1卷</extent>
+<publicationStmt><distributor><name>中華電子佛典協會 (CBETA)</name>
+<address><addrLine>service@cbeta.org</addrLine></address>
+</distributor>
+<availability><p>Available for non-commercial use when distributed with this header intact.</p></availability>
+<date>$Date: 2012/08/27 03:14:21 $</date></publicationStmt>
+<sourceDesc><bibl>Taisho Tripitaka Vol. 08, No. 249</bibl></sourceDesc></fileDesc>
+<encodingDesc><projectDesc>
+<p lang="eng" type="ly">Tripitaka Koreana as provided by Mr. Christian Wittern / proofread by Electronic Buddhadharma Society (EBS), CBETA OCR Group, Punctuated text as provided by CBETA, Others</p>
+<p lang="chi" type="ly">維習安大德提供之高麗藏 CD 經文／佛教電腦資訊庫功德會校對，CBETA 自行掃瞄辨識，CBETA 提供新式標點，其他</p>
+</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language id="eng">English</language>
+			<language id="chi">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+<change>
+<date>19990721/18:35:54</date>
+<respStmt><name>CW</name><resp>ed.</resp></respStmt>
+<item>converted to XML with CBXML.BAT (99/6/30)</item>
+</change>
+<!--
+$Log: T08n0249.xml,v $
+Revision 1.18  2012/08/27 03:14:21  maha
+修訂新標小圓點及著重號
+
+Revision 1.17  2009/04/23 07:57:09  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.16  2007/12/14 15:38:55  saywhat
+CBETA提供新式標點 => CBETA 提供新式標點
+
+Revision 1.15  2007/03/13 15:25:52  saywhat
+新標提供者 "CTPP" 改作 "CBETA"
+
+Revision 1.14  2006/12/01 03:16:26  saywhat
+p0847b04,...,p0847b27 依高麗藏修訂經文
+
+Revision 1.13  2006/04/12 21:54:27  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.11  2006/03/19 05:04:18  saywhat
+修訂咒語小注，如：(二合)(引) => (二合、引)
+
+Revision 1.10  2005/12/26 11:05:55  saywhat
+新式標點版
+
+Revision 1.9  2004/10/11 10:52:38  saywhat
+段落前加入圈點
+
+Revision 1.8  2004/09/20 04:20:53  saywhat
+p0847a23 [合>引], p0847b15 [引合>合引]
+
+Revision 1.7  2004/05/19 08:52:42  saywhat
+added juan & jhead
+
+Revision 1.6  2004/04/20 08:37:21  maha
+「版本日期」標記修訂
+
+Revision 1.5  2004/02/27 05:56:56  ray
+add cvs log
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0846b15" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0846b16" ed="T"/>
+<lb n="0846b17" ed="T"/><head type="no">No. 249</head>
+<lb n="0846b18" ed="T"/><juan n="001" fun="open"><mulu n="1" type="卷"/><jhead><title><note n="0846001" resp="Taisho" place="foot text" type="orig">〔佛說〕－【宋】【元】【宮】</note><app n="0846001"><lem wit="【大】">佛說</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">&lac;</rdg></app>帝釋般若波羅蜜多心經</title></jhead></juan>
+<lb n="0846b19" ed="T"/>
+<lb n="0846b20" ed="T"/><byline><note n="0846002" resp="Taisho" place="foot text" type="orig">（宋）＋西【明】</note><app n="0846002"><lem wit="【大】">西</lem><rdg resp="Taisho" wit="【明】">宋西</rdg></app>天<note n="0846003" resp="Taisho" place="foot text" type="orig">〔譯經〕－【明】</note><app n="0846003"><lem wit="【大】">譯經</lem><rdg resp="Taisho" wit="【明】">&lac;</rdg></app>三藏朝散大夫試鴻臚卿
+<lb n="0846b21" ed="T"/>傳法大師<note n="0846004" resp="Taisho" place="foot text" type="orig">〔臣〕－【明】</note><app n="0846004"><lem wit="【大】">臣</lem><rdg resp="Taisho" wit="【明】">&lac;</rdg></app>施護奉　詔譯</byline>
+<lb n="0846b22" ed="T"/><div1 type="jing"><p id="pT08p0846b2201">如是我聞：</p><p id="pT08p0846b2205" place="inline">一時，佛在王舍城鷲&CB00123;山中，有無
+<lb n="0846b23" ed="T"/>數大苾芻眾，復十俱胝童子相菩薩摩訶薩。</p>
+<lb n="0846b24" ed="T"/><p id="pT08p0846b2401">爾時，世尊告帝釋天主：「憍尸迦！此般若波羅
+<lb n="0846b25" ed="T"/>蜜，其義甚深。非一非異，非相非無相，非取
+<lb n="0846b26" ed="T"/>非捨，非增非損，非有煩惱非無煩惱，非捨
+<lb n="0846b27" ed="T"/>非不捨，非住非不住，非相應非不相應，非
+<lb n="0846b28" ed="T"/>煩惱非不煩惱，非緣非不緣，非實非不實，非
+<lb n="0846b29" ed="T"/>法非不法，非有所歸非無所歸，非實際非不
+<pb n="0846c" id="T08.0249.0846c" ed="T"/>
+<lb n="0846c01" ed="T"/>實際。</p><p id="pT08p0846c0103" place="inline">「憍尸迦！如是一切法平等，般若波羅
+<lb n="0846c02" ed="T"/>蜜亦平等；一切法寂靜，般若波羅蜜亦寂靜；
+<lb n="0846c03" ed="T"/>一切法不動，般若波羅蜜亦不動；一切法分
+<lb n="0846c04" ed="T"/>別，般若波羅蜜亦分別；一切法怖畏，般若波
+<lb n="0846c05" ed="T"/>羅蜜亦怖畏；一切法了知，般若波羅蜜亦了
+<lb n="0846c06" ed="T"/>知；一切法一味，般若波羅蜜亦一味；一切法
+<lb n="0846c07" ed="T"/>不生，般若波羅蜜亦不生；一切法不滅，般若
+<lb n="0846c08" ed="T"/>波羅蜜亦不滅；一切法虛空妄想，般若波羅
+<lb n="0846c09" ed="T"/>蜜亦虛空妄想；色無邊，般若波羅蜜亦無
+<lb n="0846c10" ed="T"/>邊，如是受、想、行、識無邊，般若波羅蜜亦無邊；
+<lb n="0846c11" ed="T"/>地界無邊，般若波羅蜜亦無邊，如是水界、火
+<lb n="0846c12" ed="T"/>界、風界、空界、識界無邊，般若波羅蜜亦無邊；
+<lb n="0846c13" ed="T"/>金剛平等，般若波羅蜜亦平等；一切法不壞，
+<lb n="0846c14" ed="T"/>般若波羅蜜亦不壞；一切法性不可得，般若
+<lb n="0846c15" ed="T"/>波羅蜜亦不可得；一切法性平等，般若波羅
+<lb n="0846c16" ed="T"/>蜜亦平等；一切法無性，般若波羅蜜亦無性；
+<lb n="0846c17" ed="T"/>一切法不思議，般若波羅蜜亦不思議；如是
+<lb n="0846c18" ed="T"/>布施波羅蜜、持戒波羅蜜、忍辱波羅蜜、精進
+<lb n="0846c19" ed="T"/>波羅蜜、禪定波羅蜜、方便波羅蜜、願波羅蜜
+<lb n="0846c20" ed="T"/>力波羅蜜、智波羅蜜亦不可思議；三業清淨，
+<lb n="0846c21" ed="T"/>般若波羅蜜亦清淨。如是般若波羅蜜，其義
+<lb n="0846c22" ed="T"/>無邊。</p>
+<lb n="0846c23" ed="T"/><p id="pT08p0846c2301">「復次，憍尸迦！所有十八空。何等十八空？內空、
+<lb n="0846c24" ed="T"/>外空、內外空、空空、大空、勝義空、有為空、無
+<lb n="0846c25" ed="T"/>為空、無際空、無變異空、無始空、本性空、自
+<lb n="0846c26" ed="T"/>相空、無相空、無性空、自性空、無性自性空、
+<lb n="0846c27" ed="T"/>一切法空。頌曰：</p>
+<lb n="0846c28" ed="T"/><lg id="lgT08p0846c2801" rend="margin-left:1em;text-indent:-1em" type="v5"><l>「如星如燈、翳，</l><l>夢、幻及泡、露，</l>
+<lb n="0846c29" ed="T"/><l>如電亦如雲，</l><l>應作如是觀。</l>
+<pb n="0847a" id="T08.0249.0847a" ed="T"/>
+<lb n="0847a01" ed="T"/><l>我今略說此，</l><l>般若波羅蜜，</l>
+<lb n="0847a02" ed="T"/><l>不生亦不滅，</l><l>不斷亦不常，</l>
+<lb n="0847a03" ed="T"/><l>非一非多義，</l><l>非來亦非去，</l>
+<lb n="0847a04" ed="T"/><l>如是十二緣，</l><l>止息令寂靜，</l>
+<lb n="0847a05" ed="T"/><l>正等正覺說。</l><l>恭信最上師，</l>
+<lb n="0847a06" ed="T"/><l>歸依十方佛，</l><l>過現及未來，</l>
+<lb n="0847a07" ed="T"/><l>三寶波羅蜜。</l><l>無量功德海，</l>
+<lb n="0847a08" ed="T"/><l>供養諸如來，</l><l>大明真祕密。</l></lg>
+<lb n="0847a09" ed="T"/><p id="pT08p0847a0901">「真言曰：</p>
+<lb n="0847a10" ed="T"/><p id="pT08p0847a1001">「怛&CB00135;也<note place="inline">二合</note>他<note place="inline">引</note>　&CB00425;囉<note place="inline">二合</note>倪&CB00425;囉<note place="inline">二合</note>倪　摩賀<note place="inline">引</note>&CB00425;囉
+<lb n="0847a11" ed="T"/><note place="inline">二合</note>倪&CB00425;囉<note place="inline">二合</note>倪&CB00085;婆<note place="inline">引</note>細　&CB00425;囉<note place="inline">二合</note>倪魯迦迦哩<note place="inline">引</note>
+<lb n="0847a12" ed="T"/>阿倪也<note place="inline">二合</note>曩尾馱摩&CB00135;<note place="inline">去</note>　悉提<note place="inline">引</note>　蘇悉提　悉&CB00833;
+<lb n="0847a13" ed="T"/><note place="inline">切身</note>&CB00418;&CB00805;婆&CB00344;&CB00085;帝　薩哩<note n="0847001" resp="Taisho" place="foot text" type="orig">&CB00680;＝&CB00680;【明】＊</note><app n="0847001"><lem wit="【大】">&CB00680;</lem><rdg resp="Taisho" wit="【明】">&CB00680;</rdg></app><note place="inline">二合、引</note>&CB00344;遜那哩<note place="inline">去</note>　跋
+<lb n="0847a14" ed="T"/>訖帝<note place="inline">二合</note>晚娑&CB00619;<note place="inline">引</note>　&CB00425;囉<note place="inline">二合</note>娑<note place="inline">引</note>哩多賀悉帝<note place="inline">二合、引</note>
+<lb n="0847a15" ed="T"/>三摩<note place="inline">引</note>娑&CB00085;<note place="inline">二合</note>娑迦哩　悉&CB00833;<note place="inline">切身</note>悉&CB00833;<note place="inline">切身</note>　沒&CB00833;沒&CB00833;
+<lb n="0847a16" ed="T"/>　劍波劍波　左&CB00256;左&CB00256;　囉<note place="inline">引</note>&CB00085;<note n="0847002" resp="Taisho" place="foot text" type="orig">囉＝羅【三】</note><note n="0847002" resp="CBETA" type="mod">囉＝羅【宋】【元】【明】</note><app n="0847002"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【宋】【元】【明】">羅</rdg></app><note place="inline">引</note>&CB00085;　阿<note place="inline">引</note>&CB00344;蹉
+<lb n="0847a17" ed="T"/>阿<note place="inline">引</note>&CB00344;蹉　婆&CB00344;<note n="0847003" resp="Taisho" place="foot text" type="orig">&CB00085;＝囉【三】＊</note><note n="0847003" resp="CBETA" type="mod">&CB00085;＝囉【宋】＊【元】＊【明】＊</note><app n="0847003"><lem wit="【大】">&CB00085;</lem><rdg resp="Taisho" wit="【宋】【元】【明】">囉</rdg></app>帝摩<note place="inline">引</note>尾&CB00256;　莎娑&CB00085;<note place="inline">二合、引</note>賀
+<lb n="0847a18" ed="T"/><note place="inline">引</note></p>
+<lb n="0847a19" ed="T"/><p id="pT08p0847a1901">「曩謨達哩謨<note place="inline">二合</note>捺&CB00344;<note place="inline">二合</note>多寫冒地薩埵寫　摩賀
+<lb n="0847a20" ed="T"/><note place="inline">引</note>薩埵寫　摩賀<note place="inline">引</note>迦嚕尼迦寫　曩謨娑那<note place="inline">引</note>&CB00425;
+<lb n="0847a21" ed="T"/>囉<note place="inline">二合</note>嚕禰怛寫冒地薩埵寫　摩賀<note place="inline">引</note>薩埵寫　摩
+<lb n="0847a22" ed="T"/>賀<note place="inline">引</note>迦嚕尼迦寫　曩謨<note place="inline">入</note>&CB00425;囉<note place="inline">二合</note>倪也<note place="inline">二合</note>波<note place="inline">引</note>囉
+<lb n="0847a23" ed="T"/>彌多<note place="inline">引</note>曳<note place="inline">引</note>怛&CB00135;也<note place="inline">二合</note>他牟&CB00135;達哩彌<note place="inline">二合、<app><lem resp="CBETA.maha" wit="【CBETA】【麗】" cf1="K34n1190_p0216c02">引</lem><rdg wit="【大】">合</rdg></app></note>　僧&CB00344;
+<lb n="0847a24" ed="T"/>囉<note place="inline">二合</note>賀達哩彌<note place="inline">二合</note>　阿努&CB00344;囉<note place="inline">二合</note>賀達哩彌<note place="inline">二合</note>　尾目
+<lb n="0847a25" ed="T"/>訖多<note place="inline">二合</note>達哩彌<note place="inline">二合</note>薩埵<note place="inline">引</note>努&CB00344;囉<note place="inline">二合</note>賀達哩彌<note place="inline">二合</note>
+<lb n="0847a26" ed="T"/>　吠室囉<note place="inline">二合</note><app source="0847003" type="＊"><lem wit="【大】">&CB00085;</lem><rdg resp="Taisho" wit="【宋】【元】【明】">囉</rdg></app><note n="0847004" resp="Taisho" place="foot text" type="orig">拏＝努【三】【宮】＊</note><note n="0847004" resp="CBETA" type="mod">拏＝努【宋】【元】【明】【宮】＊</note><app n="0847004"><lem wit="【大】">拏</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">努</rdg></app>達哩彌<note place="inline">二合</note>　三滿多<note place="inline">引</note>努波哩
+<lb n="0847a27" ed="T"/>&CB00085;哩多<note place="inline">二合</note>曩達哩彌<note place="inline">二合、引</note>虞<app source="0847004" type="＊"><lem wit="【大】">拏</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">努</rdg></app>&CB00344;囉<note place="inline">二合</note>賀僧&CB00344;
+<lb n="0847a28" ed="T"/>囉<note place="inline">二合</note>賀達哩彌<note place="inline">二合、引</note>　薩哩&CB00085;<note place="inline">二合</note>怛囉<note place="inline">二合、引</note>努&CB00344;
+<lb n="0847a29" ed="T"/>多達哩彌<note place="inline">二合、引</note>　薩哩&CB00085;<note place="inline">二合</note>迦<note place="inline">引</note>羅波哩&CB00425;囉<note place="inline">二合、引</note>
+<pb n="0847b" id="T08.0249.0847b" ed="T"/>
+<lb n="0847b01" ed="T"/>波<app source="0847004" type="＊"><lem wit="【大】">拏</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">努</rdg></app>達哩彌<note place="inline">二合、引</note>　娑&CB00085;<note place="inline">二合、引</note>賀<note place="inline">引</note>　&CB00425;囉<note place="inline">二合</note>倪也<note place="inline">二合</note>
+<lb n="0847b02" ed="T"/>波<note place="inline">引</note>囉彌多<note place="inline">引</note>　曳<note place="inline">引</note>怛&CB00135;也<note place="inline">二合</note>他<note place="inline">引</note>　阿佉&CB00135;曩佉
+<lb n="0847b03" ed="T"/>&CB00135;阿佉曩&CB00135;佉&CB00135;阿&CB00085;羅晚馱&CB00135;半那&CB00135;半
+<lb n="0847b04" ed="T"/>那&CB00135;&CB00425;<app><lem wit="【CBETA】【麗】" resp="CBETA.maha" cf1="K34n1190_p0216c15">捺</lem><rdg wit="【大】">&CB00706;</rdg></app>哩　<app><lem wit="【CBETA】【麗】" resp="CBETA.maha" cf1="K34n1190_p0216c15">娑</lem><rdg wit="【大】">裟</rdg></app>&CB00085;<note place="inline">二合、引</note>賀<note place="inline">引</note></p>
+<lb n="0847b05" ed="T"/><p id="pT08p0847b0501">「曩謨&CB00425;囉<note place="inline">二合</note>倪也<note place="inline">二合</note>波<note place="inline">引</note>囉彌多<note place="inline">引</note>　曳<note place="inline">引</note>怛&CB00135;也
+<lb n="0847b06" ed="T"/><note place="inline">二合</note>他<note place="inline">引</note>昂&CB00344;<note place="inline">引</note>昂&CB00344;<note place="inline">引</note>曩帝囉<note place="inline">引</note>昂&CB00344;<note place="inline">引</note>曩帝曩
+<lb n="0847b07" ed="T"/><note place="inline">引</note><app source="0847003" type="＊"><lem wit="【大】">&CB00085;</lem><rdg resp="Taisho" wit="【宋】【元】【明】">囉</rdg></app>婆<note place="inline">引</note><app><lem wit="【CBETA】【麗】" resp="CBETA.maha" cf1="K34n1190_p0216c19">娑</lem><rdg wit="【大】">裟</rdg></app>昂&CB00344;<note place="inline">引</note>娑<app source="0847003" type="＊"><lem wit="【大】">&CB00085;</lem><rdg resp="Taisho" wit="【宋】【元】【明】">囉</rdg></app><note place="inline">二合、引</note>賀</p>
+<lb n="0847b08" ed="T"/><p id="pT08p0847b0801">「曩謨&CB00425;囉<note place="inline">二合</note>倪也<note place="inline">二合</note>波<note place="inline">引</note>囉彌多<note place="inline">引</note>　曳怛&CB00135;也<note place="inline">二合</note>
+<lb n="0847b09" ed="T"/>他<note place="inline">引</note>　室哩<note place="inline">二合</note>曳<note place="inline">引</note>室哩<note place="inline">二合</note>曳<note place="inline">引</note>　牟&CB00135;室哩<note place="inline">二合</note>曳<note place="inline">引</note>
+<lb n="0847b10" ed="T"/>　牟&CB00135;室哩<note place="inline">二合</note>野細　娑&CB00085;<note place="inline">二合、引</note>賀<note n="0847005" resp="Taisho" place="foot text" type="orig">〔引〕－【宋】【元】【宮】＊</note><app n="0847005"><lem wit="【大】"><note place="inline">引</note></lem><rdg resp="Taisho" wit="【宋】【元】【宮】">&lac;</rdg></app>　&CB00425;囉<note place="inline">二合</note>倪也<note place="inline">二合</note>
+<lb n="0847b11" ed="T"/>波<note place="inline">引</note>囉彌多<note place="inline">引</note>　曳<note place="inline">引</note>怛&CB00135;也<note place="inline">二合</note>他　唵<note place="inline">引</note>　&CB00085;<note n="0847006" resp="Taisho" place="foot text" type="orig">&CB00759;＝囉【三】</note><note n="0847006" resp="CBETA" type="mod">&CB00759;＝囉【宋】【元】【明】</note><app n="0847006"><lem wit="【大】">&CB00759;</lem><rdg resp="Taisho" wit="【宋】【元】【明】">囉</rdg></app><note place="inline">二合</note>　未
+<lb n="0847b12" ed="T"/>&CB00619;<note place="inline">引</note>　娑&CB00085;<note place="inline">二合、引</note>賀<app source="0847005" type="＊"><lem wit="【大】"><note place="inline">引</note></lem><rdg resp="Taisho" wit="【宋】【元】【宮】">&lac;</rdg></app></p>
+<lb n="0847b13" ed="T"/><p id="pT08p0847b1301">「曩謨&CB00425;囉<note place="inline">二合</note>倪也<note place="inline">二合</note>波<note place="inline">引</note>囉禰多<note place="inline">引</note>曳<note place="inline">引</note>怛&CB00135;也
+<lb n="0847b14" ed="T"/><note place="inline">二合</note>他<note place="inline">引</note>唵紇凌<note place="inline">二合</note>室凌<note place="inline">二合</note>特凌<note place="inline">二合</note>室嚕<note place="inline">二合</note>帝特哩
+<lb n="0847b15" ed="T"/><note place="inline">二合</note>帝娑蜜哩<note place="inline">二合</note>&CB00344;帝尾曳<note place="inline">引</note>惹娑&CB00085;<note place="inline">二<app><lem resp="CBETA.maha" wit="【CBETA】【麗】" cf1="K34n1190_p0217a08">合</lem><rdg wit="【大】">引</rdg></app>、<app><lem resp="CBETA.maha" wit="【CBETA】【麗】" cf1="K34n1190_p0217a08">引</lem><rdg wit="【大】">合</rdg></app></note>賀<app source="0847005" type="＊"><lem wit="【大】"><note place="inline">引</note></lem><rdg resp="Taisho" wit="【宋】【元】【宮】">&lac;</rdg></app></p>
+<lb n="0847b16" ed="T"/><p id="pT08p0847b1601">「曩謨&CB00425;囉<note place="inline">二合</note>倪也<note place="inline">二合</note>波<note place="inline">引</note>囉彌多<note place="inline">引</note>曳怛&CB00135;也<note place="inline">二合</note>
+<lb n="0847b17" ed="T"/>他<note place="inline">引</note><app source="0847001" type="＊"><lem wit="【大】">&CB00680;</lem><rdg resp="Taisho" wit="【明】">&CB00680;</rdg></app>&CB00085;哩&CB00680;&CB00085;哩摩賀<note place="inline">引</note>&CB00680;&CB00085;哩度嚕度嚕
+<lb n="0847b18" ed="T"/>摩賀<note place="inline">引</note>度嚕娑&CB00085;<note place="inline">二合、引</note>賀<note place="inline">引</note></p>
+<lb n="0847b19" ed="T"/><p id="pT08p0847b1901">「曩謨&CB00425;囉<note place="inline">二合</note>倪也<note place="inline">二合</note>波<note place="inline">引</note>囉彌多<note place="inline">引</note>曳<note place="inline">引</note>怛&CB00135;也
+<lb n="0847b20" ed="T"/><note place="inline">二合</note>他<note place="inline">引</note>虎帝虎帝<app><lem wit="【CBETA】【麗】" resp="CBETA.maha" cf1="K34n1190_p0217a14">虎</lem><rdg wit="【大】">&lac;</rdg></app>多<note place="inline">引</note>設&CB00135;薩哩&CB00085;<note place="inline">二合</note>迦哩摩
+<lb n="0847b21" ed="T"/><note place="inline">二合</note>&CB00085;囉<app><lem wit="【CBETA】【麗】" resp="CBETA.maha" cf1="K34n1190_p0217a16">拏</lem><rdg wit="【大】">挐</rdg></app>&CB00135;娑&CB00085;<note place="inline">二合、引</note>賀<app source="0847005" type="＊"><lem wit="【大】"><note place="inline">引</note></lem><rdg resp="Taisho" wit="【宋】【元】【宮】">&lac;</rdg></app></p>
+<lb n="0847b22" ed="T"/><p id="pT08p0847b2201">「曩謨&CB00425;囉<note place="inline">二合</note>倪也<note place="inline">二合</note>波<note place="inline">引</note>囉彌多<note place="inline">引</note>曳<note place="inline">引</note>怛&CB00135;也
+<lb n="0847b23" ed="T"/><note place="inline">二合</note>他<note place="inline">引</note>唵<note place="inline">引</note>阿嚕黎迦娑&CB00085;<note place="inline">二合、引</note>賀<note place="inline">引</note></p>
+<lb n="0847b24" ed="T"/><p id="pT08p0847b2401">「曩謨&CB00425;囉倪也<note place="inline">二合</note>波<note place="inline">引</note>囉彌多<note place="inline">引</note>曳<note place="inline">引</note>怛&CB00135;也<note place="inline">二合</note>
+<lb n="0847b25" ed="T"/>他<note place="inline">引</note>唵<note place="inline">引</note>薩哩&CB00085;<note place="inline">二合</note>尾&CB00418;<note place="inline">入聲</note>娑&CB00085;<note place="inline">二合、引</note>賀<app source="0847005" type="＊"><lem wit="【大】"><note place="inline">引</note></lem><rdg resp="Taisho" wit="【宋】【元】【宮】">&lac;</rdg></app></p>
+<lb n="0847b26" ed="T"/><p id="pT08p0847b2601">「曩謨&CB00425;囉<note place="inline">二合</note>倪也<note place="inline">二合</note>波<note place="inline">引</note>囉彌多<note place="inline">引</note><note n="0847007" resp="Taisho" place="foot text" type="orig">曳＝曳引【三】【宮】</note><note n="0847007" resp="CBETA" type="mod">曳＝曳引【宋】【元】【明】【宮】</note><app n="0847007"><lem wit="【大】">曳</lem><rdg resp="Taisho" wit="【宋】【元】【明】【宮】">曳引</rdg></app>怛&CB00135;也
+<lb n="0847b27" ed="T"/><note place="inline">二合</note>他<note place="inline">引</note>&CB00344;帝&CB00344;帝波<note place="inline">引</note>&CB00772;&CB00344;帝波<note place="inline">引</note><app><lem wit="【CBETA】【麗】" resp="CBETA.maha" cf1="K34n1190_p0217b02">&lac;</lem><rdg wit="【大】">帝</rdg></app>囉僧&CB00344;帝
+<lb n="0847b28" ed="T"/>冒地娑&CB00085;<note place="inline">二合、引</note><note n="0847008" resp="Taisho" place="foot text" type="orig">賀＝賀引【明】</note><app n="0847008"><lem wit="【大】">賀</lem><rdg resp="Taisho" wit="【明】">賀引</rdg></app>」</p>
+<lb n="0847b29" ed="T"/><p id="pT08p0847b2901">爾時，世尊說此經已，帝釋天主及諸菩薩摩
+<pb n="0847c" id="T08.0249.0847c" ed="T"/>
+<lb n="0847c01" ed="T"/>訶薩、天、人、乾闥婆、阿修羅等，一切大眾，聞佛
+<lb n="0847c02" ed="T"/>所說，皆大歡喜，信受奉行。</p></div1>
+<lb n="0847c03" ed="T"/><juan n="001" fun="close"><jhead><title><note n="0847009" resp="Taisho" place="foot text" type="orig">〔佛說〕－【宋】【元】【宮】</note><app n="0847009"><lem wit="【大】">佛說</lem><rdg resp="Taisho" wit="【宋】【元】【宮】">&lac;</rdg></app>帝釋般若波羅蜜多心經</title></jhead></juan>
+</body></text></TEI.2>

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "T19n0974B.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 0974B 佛頂尊勝陀羅尼</title>
+			<author></author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.10 $ (Big5)<date>$Date: 2009/04/23 08:00:03 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:00:03 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 19, No. 974B &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language id="san-sd">Sanskrit-Siddam</language>
+			<language id="eng">English</language>
+			<language id="chi">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+	<change>
+		<date>20000127/11:51:06</date>
+		<respStmt><name>CW</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT (00/01/05)</item>
+	</change>
+<!--
+$Log: T19n0974B.xml,v $
+Revision 1.10  2009/04/23 08:00:03  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.9  2006/08/15 01:30:46  saywhat
+依楊小姐的建議修訂悉曇字，如將SD-AF77改成SD-D9FC等
+
+Revision 1.8  2006/04/12 21:55:34  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.6  2006/03/22 06:52:54  saywhat
+SD-A65A=>SD-E3AD, SD-AF72=>SD-D9FA, SD-AF71=>SD-D9F9
+
+Revision 1.5  2004/12/22 05:37:45  saywhat
+SD-A65E => SD-A5D5
+
+Revision 1.4  2004/10/14 16:25:33  saywhat
+段落前加入圈點
+
+Revision 1.3  2004/07/05 12:48:33  saywhat
+修訂 div 位置
+
+Revision 1.2  2004/04/20 08:38:45  maha
+「版本日期」標記修訂
+
+Revision 1.1.1.1  2003/05/05 04:09:14  ray
+recover cvs
+
+Revision 1.23  2002/11/27 11:26:24  saywhat
+校勘插入處理
+
+Revision 1.22  2002/11/04 10:44:57  ray
+tei.2 => TEI.2
+
+Revision 1.21  2002/07/29 09:56:09  vinking
+modified lang
+
+Revision 1.20  2002/04/08 09:03:11  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.19  2001/11/05 06:13:19  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.18  2001/07/24 06:52:47  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.17  2001/06/26 10:08:34  vinking
+added jhead
+
+Revision 1.16  2001/06/15 12:19:24  vinking
+CD7 修訂
+
+Revision 1.15  2001/05/29 09:12:53  saywhat
+modified <note type='inline"> under </t>
+
+Revision 1.14  2001/05/28 07:51:34  vinking
+modified <sg><note place="inline"> to <sg>
+
+Revision 1.13  2001/05/25 08:59:11  ray
+經號統一為四碼
+
+Revision 1.12  2001/03/30 06:45:12  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.11  2001/03/25 09:12:58  ray
+add <milestone>
+
+Revision 1.10  2001/02/23 00:30:44  RAY
+去行尾空格 (by csy)
+
+Revision 1.9  2001/02/07 06:54:44  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.8  2001/02/03 07:44:40  chris
+Added keywords $Revision: 1.10 $, $Date: 2009/04/23 08:00:03 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0384b15" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0384b16" ed="T"/>
+<lb n="0384b17" ed="T"/>
+<lb n="0384b18" ed="T"/>
+<lb n="0384b19" ed="T"/><head type="no">No. 974B</head>
+<lb n="0384b20" ed="T"/><juan n="001" fun="open"><mulu n="001" type="卷"/><note n="0384008" resp="Taisho" place="foot text" type="orig">【原】東寺三密藏古寫本</note><jhead>佛頂尊勝陀羅尼</jhead></juan>
+<lb n="0384b21" ed="T"/>
+<lb n="0384b22" ed="T"/><div1 type="dharani"><p id="pT19p0384b2201" type="dharani"><tt><t lang="san-sd">&SD-D5B5;</t><t lang="chi">&lac;</t></tt><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">曩</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi"><yin><zi>謨</zi><sg>引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5D9;</t><t lang="chi">婆</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB00344;</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">縛</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi"><yin><zi>帝</zi><sg>引</sg></yin><note place="inline">歸命世尊</note></t></tt><tt><t lang="san-sd">&SD-AA65;</t><t lang="chi"><yin><zi>怛&CB02735;</zi><sg>二合引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A652;</t><t lang="chi">路</t></tt>
+<lb n="0384b23" ed="T"/>
+<lb n="0384b24" ed="T"/><tt><t lang="san-sd">&SD-A6C1;</t>
+<t lang="chi"><yin><zi>枳也</zi><sg>二合</sg></yin><note place="inline">三世亦云三界</note></t></tt><tt><t lang="san-sd">&SD-AABC;</t><t lang="chi"><yin><zi>&CB00425;羅</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A559;</t><t lang="chi">底</t></tt><tt><t lang="san-sd">&SD-A658;</t><t lang="chi">尾</t></tt><tt><t lang="san-sd">&SD-A664;</t><t lang="chi">始</t></tt><tt><t lang="san-sd">&SD-CD4B;</t><t lang="chi"><yin><zi>瑟吒</zi><sg>二合引</sg></yin></t></tt>
+<lb n="0384b25" ed="T"/>
+<lb n="0384b26" ed="T"/><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">野<note place="inline">最殊勝也</note></t></tt><tt><t lang="san-sd">&SD-E3AD;</t><t lang="chi">沒</t></tt><tt><t lang="san-sd">&SD-D9FA;</t><t lang="chi">馱</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">野<note place="inline">大覺</note></t></tt><tt><t lang="san-sd">&SD-A5D9;</t><t lang="chi">婆</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB00344;</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">縛</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">帝<note place="inline">世尊。已上第一歸敬尊德門</note></t></tt>
+<lb n="0384b27" ed="T"/>
+<lb n="0384b28" ed="T"/><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-DA4A;</t><t lang="chi"><yin><zi>&CB00135;也</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi">他<note place="inline">所謂之義。即說之義</note></t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵<note place="inline">三身無見頂相義。已上第二影表法身門</note></t></tt>
+<lb n="0384b29" ed="T"/>
+<pb n="0384c" id="T19.0974B.0384c" ed="T"/>
+<lb n="0384c01" ed="T"/><tt><t lang="san-sd">&SD-A658;</t><t lang="chi">尾</t></tt><tt><t lang="san-sd">&SD-A66A;</t><t lang="chi"><yin><zi>戍</zi><sg>引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A57B;</t><t lang="chi">馱</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">野</t></tt><tt><t lang="san-sd">&SD-A658;</t><t lang="chi">尾</t></tt><tt><t lang="san-sd"><app><lem resp="CBETA.say" wit="【CBETA】">&SD-A66A;</lem><rdg wit="【大】">&SD-A662;</rdg></app></t><t lang="chi">戍</t></tt><tt><t lang="san-sd">&SD-A57B;</t><t lang="chi">馱</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">野<note place="inline">清淨</note></t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi"><yin><zi>娑</zi><sg>上</sg></yin></t></tt>
+<lb n="0384c02" ed="T"/>
+<lb n="0384c03" ed="T"/><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">麼</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">娑</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">麼</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi"><yin><zi>三</zi><sg>去</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">滿</t></tt><tt><t lang="san-sd">&SD-CA57;</t><t lang="chi"><yin><zi>跢</zi><sg>去引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">縛</t></tt><tt><t lang="san-sd">&SD-A5D9;</t><t lang="chi">婆</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩<note place="inline">普遍照曜</note></t></tt>
+<lb n="0384c04" ed="T"/>
+<lb n="0384c05" ed="T"/><tt><t lang="san-sd">&SD-CDF1;</t><t lang="chi"><yin><zi>婆頗</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi"><yin><zi>羅</zi><sg>轉舌呼</sg></yin></t></tt><tt><t lang="san-sd">&SD-A54B;</t><t lang="chi"><yin><zi>拏</zi><sg>鼻</sg></yin><note place="inline">舒遍</note></t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB00344;</t></tt><tt><t lang="san-sd">&SD-A559;</t><t lang="chi">底</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB00344;</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">賀</t></tt><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">曩<note place="inline">六種稠林</note></t></tt>
+<lb n="0384c06" ed="T"/>
+<lb n="0384c07" ed="T"/><tt><t lang="san-sd">&SD-B065;</t><t lang="chi"><yin><zi>娑縛</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd"><app><lem resp="CBETA.say" wit="【CBETA】" cf1="T19n0973_p0377b11">&SD-A5DA;</lem><rdg wit="【大】">&SD-A6A9;</rdg></app></t><t lang="chi"><yin><zi>婆</zi><sg>去引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">縛</t></tt><tt><t lang="san-sd">&SD-A658;</t><t lang="chi">尾</t></tt><tt><t lang="san-sd">&SD-A666;</t><t lang="chi">&CB03573;</t></tt><tt><t lang="san-sd">&SD-D9FC;&SD-D7C4;</t><t lang="chi">第<note place="inline">自然清淨。已上第三淨除惡趣門</note></t></tt>
+<lb n="0384c08" ed="T"/>
+<lb n="0384c09" ed="T"/><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-A5DB;</t><t lang="chi">鼻</t></tt><tt><t lang="san-sd">&SD-E064;</t><t lang="chi">詵</t></tt><tt><t lang="san-sd">&SD-A47C;</t><t lang="chi">左</t></tt><tt><t lang="san-sd">&SD-A55B;</t><t lang="chi">&CB00418;</t></tt><tt><t lang="san-sd">&SD-E05D;</t><t lang="chi"><yin><zi>&CB00805;</zi><sg>引</sg></yin><note place="inline">灌頂我</note></t></tt><tt><t lang="san-sd">&SD-E0BC;</t><t lang="chi">素</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB00344;</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">哆<note place="inline">善逝</note></t></tt>
+<lb n="0384c10" ed="T"/>
+<lb n="0384c11" ed="T"/><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">縛</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">縛</t></tt><tt><t lang="san-sd">&SD-A47C;</t><t lang="chi">左</t></tt><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">曩<note place="inline">殊勝言教</note></t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-DA78;</t><t lang="chi"><yin><zi>蜜&CB00069;</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A558;</t><t lang="chi"><yin><zi>多</zi><sg>去</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5DB;</t><t lang="chi">鼻</t></tt>
+<lb n="0384c12" ed="T"/>
+<lb n="0384c13" ed="T"/><tt><t lang="san-sd">&SD-A675;</t><t lang="chi">麗</t></tt><tt><t lang="san-sd">&SD-A447;</t><t lang="chi">罽</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">曼</t></tt><tt><t lang="san-sd">&SD-E0F5;</t><t lang="chi"><yin><zi>怛羅</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5B5;</t><t lang="chi">跛</t></tt><tt><t lang="san-sd">&SD-A576;&SD-D7C4;</t><t lang="chi">乃<note place="inline">甘露。又云灌頂不死句</note></t></tt>
+<lb n="0384c14" ed="T"/>
+<lb n="0384c15" ed="T"/><tt><t lang="san-sd">&SD-CFC6;</t><t lang="chi"><yin><zi>阿</zi><sg>去引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A6A8;</t><t lang="chi">賀</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi"><yin><zi>阿</zi><sg>去引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A6A8;</t><t lang="chi">賀</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅<note place="inline">唯願攝受攝受攝受又三遍攘勝諸苦惱</note></t></tt>
+<lb n="0384c16" ed="T"/>
+<lb n="0384c17" ed="T"/><tt><t lang="san-sd">&SD-CFC6;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-E0F7;</t><t lang="chi">庾</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">散</t></tt><tt><t lang="san-sd">&SD-CA7B;</t><t lang="chi"><yin><zi>馱</zi><sg>引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A54D;</t><t lang="chi">抳<note place="inline">堅住持壽命。已上第四善明灌頂門</note></t></tt><tt><t lang="san-sd">&SD-A66A;</t><t lang="chi"><yin><zi>戍</zi><sg>引</sg></yin></t></tt>
+<lb n="0384c18" ed="T"/>
+<lb n="0384c19" ed="T"/><tt><t lang="san-sd">&SD-A57B;</t><t lang="chi">馱</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">野</t></tt><tt><t lang="san-sd">&SD-A66A;</t><t lang="chi"><yin><zi>戍</zi><sg>引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A57B;</t><t lang="chi">馱</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">野</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB00344;</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB00344;</t></tt><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">曩</t></tt><tt><t lang="san-sd">&SD-A658;</t><t lang="chi">尾</t></tt><tt><t lang="san-sd">&SD-A666;</t><t lang="chi">&CB03573;</t></tt><tt><t lang="san-sd">&SD-D9FC;</t><t lang="chi">第<note place="inline">如虛空清淨</note></t></tt>
+<lb n="0384c20" ed="T"/>
+<lb n="0384c21" ed="T"/><tt><t lang="san-sd">&SD-CFC9;</t><t lang="chi">鄔</t></tt><tt><t lang="san-sd">&SD-E0C7;</t><t lang="chi"><yin><zi>瑟抳</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A66E;</t><t lang="chi">灑<note place="inline">佛頂</note></t></tt><tt><t lang="san-sd">&SD-A658;</t><t lang="chi">尾</t></tt><tt><t lang="san-sd">&SD-A4B6;</t><t lang="chi">惹</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">野</t></tt><tt><t lang="san-sd">&SD-A658;</t><t lang="chi">尾</t></tt><tt><t lang="san-sd">&SD-A666;</t><t lang="chi">&CB03573;</t></tt>
+<lb n="0384c22" ed="T"/>
+<lb n="0384c23" ed="T"/><tt><t lang="san-sd">&SD-D9FC;</t><t lang="chi">第<note place="inline">最勝清淨</note></t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">娑</t></tt><tt><t lang="san-sd">&SD-A6A8;</t><t lang="chi">賀</t></tt><tt><t lang="san-sd">&SD-AB75;</t><t lang="chi"><yin><zi>娑羅</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-B2CE;</t><t lang="chi"><yin><zi>濕茗</zi><sg>二合</sg></yin><note place="inline">千光明</note></t></tt><tt><t lang="san-sd">&SD-A6A6;</t><t lang="chi">散</t></tt>
+<lb n="0384c24" ed="T"/>
+<lb n="0384c25" ed="T"/><tt><t lang="san-sd">&SD-A4A6;</t><t lang="chi">祖</t></tt><tt><t lang="san-sd">&SD-A571;</t><t lang="chi">&CB00135;</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">帝<note place="inline">驚覺</note></t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-B7A3;</t><t lang="chi">縛</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi">多</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB00344;</t></tt><tt><t lang="san-sd">&SD-A558;</t><t lang="chi"><yin><zi>多</zi><sg>去引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">縛</t></tt>
+<lb n="0384c26" ed="T"/>
+<lb n="0384c27" ed="T"/><tt><t lang="san-sd">&SD-A652;</t><t lang="chi"><yin><zi>路</zi><sg>去</sg></yin></t></tt><tt><t lang="san-sd">&SD-A440;</t><t lang="chi">伽</t></tt><tt><t lang="san-sd">&SD-A5AB;</t><t lang="chi">&CB00576;</t></tt><tt><t lang="san-sd">&SD-A66E;</t><t lang="chi"><yin><zi>娑</zi><sg>上</sg></yin></t></tt><tt><t lang="san-sd">&SD-D9FA;</t><t lang="chi"><yin><zi>吒&CB00915;</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A5E7;</t><t lang="chi">&CB02755;</t></tt><tt><t lang="san-sd">&SD-A558;</t><t lang="chi"><yin><zi>哆</zi><sg>去引</sg></yin></t></tt>
+<lb n="0384c28" ed="T"/>
+<lb n="0384c29" ed="T"/><tt><t lang="san-sd">&SD-A5B5;</t><t lang="chi">跛</t></tt><tt><t lang="san-sd">&SD-A640;</t><t lang="chi">哩</t></tt><tt><t lang="san-sd">&SD-AABC;</t><t lang="chi">布</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A54D;</t><t lang="chi">抳</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-B7A3;</t><t lang="chi">縛</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi"><yin><zi>他</zi><sg>去引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB00344;</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">多</t></tt>
+<lb n="0384c30" ed="T"/>
+<pb n="0385a" id="T19.0974B.0385a" ed="T"/>
+<lb n="0385a01" ed="T"/><tt><t lang="san-sd">&SD-CC68;</t><t lang="chi"><yin><zi>仡哩</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A56F;</t><t lang="chi">娜</t></tt><tt><t lang="san-sd">&SD-A5F2;</t><t lang="chi"><yin><zi>野</zi><sg>引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A57D;</t><t lang="chi">地</t></tt><tt><t lang="san-sd">&SD-CD4B;</t><t lang="chi"><yin><zi>瑟&CB00109;</zi><sg>二合引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">曩</t></tt><tt><t lang="san-sd">&SD-A57D;</t><t lang="chi">地</t></tt><tt><t lang="san-sd">&SD-CD4D;</t><t lang="chi"><yin><zi>瑟恥</zi><sg>二合</sg></yin></t></tt>
+<lb n="0385a02" ed="T"/>
+<lb n="0385a03" ed="T"/><tt><t lang="san-sd">&SD-A557;&SD-D7C4;</t><t lang="chi">哆<note place="inline">一切如來神力所加持</note></t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">賀</t></tt><tt><t lang="san-sd">&SD-E043;</t><t lang="chi">母</t></tt><tt><t lang="san-sd">&SD-AA78;</t><t lang="chi"><yin><zi>捺&CB00619;</zi><sg>二合</sg></yin><note place="inline">印契</note></t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">縛</t></tt>
+<lb n="0385a04" ed="T"/>
+<lb n="0385a05" ed="T"/><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi"><yin><zi>曰羅</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A441;</t><t lang="chi"><yin><zi>迦</zi><sg>引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">野</t></tt><tt><t lang="san-sd">&SD-A6A6;</t><t lang="chi">僧</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">賀</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi"><yin><zi>哆</zi><sg>上</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">曩</t></tt><tt><t lang="san-sd">&SD-A658;</t><t lang="chi">尾</t></tt><tt><t lang="san-sd">&SD-A666;</t><t lang="chi">&CB03573;</t></tt>
+<lb n="0385a06" ed="T"/>
+<lb n="0385a07" ed="T"/><tt><t lang="san-sd">&SD-D9FC;</t><t lang="chi">第<note place="inline">金剛鉤鎖身清淨</note></t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-B7A3;</t><t lang="chi"><yin><zi>縛</zi><sg>去</sg></yin></t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">縛</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A54D;&SD-D7C4;</t><t lang="chi"><yin><zi>拏</zi><sg>鼻</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5B5;</t><t lang="chi">播</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">野</t></tt><tt><t lang="san-sd">&SD-AA76;</t><t lang="chi">訥</t></tt>
+<lb n="0385a08" ed="T"/>
+<lb n="0385a09" ed="T"/><tt><t lang="san-sd">&lac;</t><t lang="chi">哩</t></tt><tt><t lang="san-sd">&SD-B5B1;</t><t lang="chi"><yin><zi>&CB03442;</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A559;</t><t lang="chi">底</t></tt><tt><t lang="san-sd">&SD-A5B5;</t><t lang="chi">跛</t></tt><tt><t lang="san-sd">&SD-A640;</t><t lang="chi">哩</t></tt><tt><t lang="san-sd">&SD-A658;</t><t lang="chi">尾</t></tt><tt><t lang="san-sd">&SD-A666;</t><t lang="chi">&CB03573;</t></tt><tt><t lang="san-sd">&SD-D9FC;</t><t lang="chi">第<note place="inline">一切障清淨也。所謂業障報障煩惱障也。得清淨云云。已上第五神力加持門</note></t></tt>
+<lb n="0385a10" ed="T"/>
+<lb n="0385a11" ed="T"/><tt><t lang="san-sd">&SD-AABC;</t><t lang="chi"><yin><zi>&CB00425;羅</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A559;</t><t lang="chi">底</t></tt><tt><t lang="san-sd">&SD-A5AB;</t><t lang="chi">&CB00576;</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">&CB02594;</t></tt>
+<lb n="0385a12" ed="T"/>
+<lb n="0385a13" ed="T"/><tt><t lang="san-sd">&SD-DAB1;</t><t lang="chi">囉</t></tt><tt><t lang="san-sd">&SD-D7C4;</t><t lang="chi"><yin><zi>多</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">野</t></tt><tt><t lang="san-sd">&SD-CFC6;</t><t lang="chi"><yin><zi>阿</zi><sg>去引</sg></yin></t></tt><tt><t lang="san-sd">&SD-E0F7;</t><t lang="chi">欲</t></tt><tt><t lang="san-sd">&SD-A666;</t><t lang="chi">&CB03573;</t></tt><tt><t lang="san-sd">&SD-D9FC;</t><t lang="chi">第<note place="inline">壽命增長皆得清淨</note></t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">三</t></tt>
+<lb n="0385a14" ed="T"/>
+<lb n="0385a15" ed="T"/><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">麼</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi"><yin><zi>野</zi><sg>引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A57D;</t><t lang="chi">地</t></tt><tt><t lang="san-sd">&SD-CD4B;</t><t lang="chi"><yin><zi>瑟恥</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">帝<note place="inline">誓願加持</note></t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">麼</t></tt><tt><t lang="san-sd">&SD-A54D;</t><t lang="chi">抳</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">麼</t></tt><tt><t lang="san-sd">&SD-A54D;</t><t lang="chi">抳</t></tt>
+<lb n="0385a16" ed="T"/>
+<lb n="0385a17" ed="T"/><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">麼</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">賀</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">麼</t></tt><tt><t lang="san-sd">&SD-A54D;</t><t lang="chi">尼<note place="inline">世寶亦云法寶。所謂福惠二種資糧。已上第六壽命增長門</note></t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt>
+<lb n="0385a18" ed="T"/>
+<lb n="0385a19" ed="T"/><tt><t lang="san-sd">&SD-A564;</t><t lang="chi">闥</t></tt><tt><t lang="san-sd">&SD-A558;</t><t lang="chi"><yin><zi>哆</zi><sg>去引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5DE;</t><t lang="chi">部</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">多</t></tt><tt><t lang="san-sd">&SD-A448;</t><t lang="chi">句</t></tt><tt><t lang="san-sd">&SD-A4DC;</t><t lang="chi">致</t></tt><tt><t lang="san-sd">&SD-A5B5;</t><t lang="chi">跛</t></tt><tt><t lang="san-sd">&SD-A640;</t><t lang="chi">哩</t></tt><tt><t lang="san-sd">&SD-A666;</t><t lang="chi">&CB03573;</t></tt><tt><t lang="san-sd">&SD-D9FC;</t><t lang="chi">第<note place="inline">真如實際遍滿清淨</note></t></tt>
+<lb n="0385a20" ed="T"/>
+<lb n="0385a21" ed="T"/><tt><t lang="san-sd">&SD-A658;</t><t lang="chi">尾</t></tt><tt><t lang="san-sd">&SD-CDF5;</t><t lang="chi"><yin><zi>娑普</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A4DA;&SD-D7C4;</t><t lang="chi">吒</t></tt><tt><t lang="san-sd">&SD-E3AD;</t><t lang="chi">沒</t></tt><tt><t lang="san-sd">&SD-D9FB;</t><t lang="chi">地</t></tt><tt><t lang="san-sd">&SD-A666;</t><t lang="chi">&CB03573;</t></tt><tt><t lang="san-sd">&SD-D9FC;</t><t lang="chi">第<note place="inline">顯現智惠清淨</note></t></tt><tt><t lang="san-sd">&SD-A4B6;</t><t lang="chi">惹</t></tt>
+<lb n="0385a22" ed="T"/>
+<lb n="0385a23" ed="T"/><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">野</t></tt><tt><t lang="san-sd">&SD-A4B6;</t><t lang="chi">惹</t></tt><tt><t lang="san-sd">&SD-A5F1;&SD-D7C4;</t><t lang="chi">野</t></tt><tt><t lang="san-sd">&SD-A658;</t><t lang="chi">尾</t></tt><tt><t lang="san-sd">&SD-A4B6;</t><t lang="chi">惹</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">野</t></tt><tt><t lang="san-sd">&SD-A658;</t><t lang="chi">尾</t></tt><tt><t lang="san-sd">&SD-A4B6;</t><t lang="chi">惹</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">野<note place="inline">最勝最勝即是真俗二諦法門</note></t></tt>
+<lb n="0385a24" ed="T"/>
+<lb n="0385a25" ed="T"/><tt><t lang="san-sd">&SD-B2CC;</t><t lang="chi"><yin><zi>娑麼</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-B2CC;</t><t lang="chi"><yin><zi>娑麼</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅<note place="inline">念持定惠相應。已上第七定惠相應門</note></t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt>
+<lb n="0385a26" ed="T"/>
+<lb n="0385a27" ed="T"/><tt><t lang="san-sd">&SD-B7A3;</t><t lang="chi">&CB00085;</t></tt><tt><t lang="san-sd">&SD-E3AD;</t><t lang="chi">沒</t></tt><tt><t lang="san-sd">&SD-D9FA;</t><t lang="chi"><yin><zi>馱</zi><sg>引</sg></yin><note place="inline">一切諸佛</note></t></tt><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">曩</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi">謨</t></tt><tt><t lang="san-sd">&SD-A658;</t><t lang="chi">毘</t></tt><tt><t lang="san-sd">&SD-A5B5;</t><t lang="chi">婆</t></tt><tt><t lang="san-sd">&SD-A8CA;</t><t lang="chi">尸</t></tt><tt><t lang="san-sd">&SD-A5AF;</t><t lang="chi">寧</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi">他</t></tt>
+<lb n="0385a28" ed="T"/>
+<lb n="0385a29" ed="T"/><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB03442;</t></tt><tt><t lang="san-sd">&SD-A558;</t><t lang="chi">多</t></tt><tt><t lang="san-sd">&SD-A5F1;&SD-D7C4;</t><t lang="chi">野<note place="inline">敬禮毘婆尸如來</note></t></tt><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">曩</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi">謨</t></tt><tt><t lang="san-sd">&SD-A664;</t><t lang="chi">尸</t></tt><tt><t lang="san-sd">&SD-A44E;</t><t lang="chi">棄</t></tt><tt><t lang="san-sd">&SD-A5AF;</t><t lang="chi">曩</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi">他</t></tt>
+<lb n="0385a30" ed="T"/>
+<pb n="0385b" id="T19.0974B.0385b" ed="T"/>
+<lb n="0385b01" ed="T"/><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB03442;</t></tt><tt><t lang="san-sd">&SD-A558;</t><t lang="chi">多</t></tt><tt><t lang="san-sd">&SD-A5F1;&SD-D7C4;</t><t lang="chi">野<note place="inline">敬禮尸棄如來</note></t></tt><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">曩</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi">謨</t></tt><tt><t lang="san-sd">&SD-A658;</t><t lang="chi">毘</t></tt><tt><t lang="san-sd">&SD-A662;</t><t lang="chi">舍</t></tt><tt><t lang="san-sd">&SD-A5DE;</t><t lang="chi">浮吠</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi">他</t></tt>
+<lb n="0385b02" ed="T"/>
+<lb n="0385b03" ed="T"/><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB03442;</t></tt><tt><t lang="san-sd">&SD-A558;</t><t lang="chi">多</t></tt><tt><t lang="san-sd">&SD-A5F1;&SD-D7C4;</t><t lang="chi">野<note place="inline">敬禮毘沙浮如來</note></t></tt><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">曩</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi">謨</t></tt><tt><t lang="san-sd">&SD-A947;</t><t lang="chi">迦羅</t></tt><tt><t lang="san-sd">&SD-A440;</t><t lang="chi">拘</t></tt><tt><t lang="san-sd">&SD-A6A6;</t><t lang="chi">孫</t></tt><tt><t lang="san-sd">&SD-A57B;</t><t lang="chi">馱</t></tt>
+<lb n="0385b04" ed="T"/>
+<lb n="0385b05" ed="T"/><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">野</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi">他</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB03442;</t></tt><tt><t lang="san-sd">&SD-A558;</t><t lang="chi">多</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">野<note place="inline">敬禮拘樓孫如來</note></t></tt><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">曩</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi">謨</t></tt><tt><t lang="san-sd">&SD-A440;</t><t lang="chi">迦</t></tt><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">曩</t></tt>
+<lb n="0385b06" ed="T"/>
+<lb n="0385b07" ed="T"/><tt><t lang="san-sd">&SD-A440;</t><t lang="chi">迦</t></tt><tt><t lang="san-sd">&SD-E043;</t><t lang="chi">牟</t></tt><tt><t lang="san-sd">&SD-A54D;</t><t lang="chi">曩</t></tt><tt><t lang="san-sd">&SD-A5F7;</t><t lang="chi">曳</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi">他</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB03442;</t></tt><tt><t lang="san-sd">&SD-A558;</t><t lang="chi">多</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">野<note place="inline">敬禮拘那含牟尼如來</note></t></tt><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">曩</t></tt>
+<lb n="0385b08" ed="T"/>
+<lb n="0385b09" ed="T"/><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi">謨</t></tt><tt><t lang="san-sd">&SD-A440;</t><t lang="chi">迦</t></tt><tt><t lang="san-sd">&SD-A8CA;</t><t lang="chi">葉</t></tt><tt><t lang="san-sd">&SD-A5B5;</t><t lang="chi">婆</t></tt><tt><t lang="san-sd">&SD-A5F2;</t><t lang="chi">野</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi">他</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB03442;</t></tt><tt><t lang="san-sd">&SD-A558;</t><t lang="chi">多</t></tt><tt><t lang="san-sd">&SD-A5F1;&SD-D7C4;</t><t lang="chi">野<note place="inline">敬禮迦葉如來</note></t></tt>
+<lb n="0385b10" ed="T"/>
+<lb n="0385b11" ed="T"/><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">曩</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi">謨</t></tt><tt><t lang="san-sd">&SD-A662;</t><t lang="chi">尺</t></tt><tt><t lang="san-sd">&SD-A6C0;</t><t lang="chi">迦</t></tt><tt><t lang="san-sd">&SD-E043;</t><t lang="chi">牟</t></tt><tt><t lang="san-sd">&SD-A5AB;</t><t lang="chi">曩</t></tt><tt><t lang="san-sd">&SD-A5F7;</t><t lang="chi">曳</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi">他</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB03442;</t></tt><tt><t lang="san-sd">&SD-A558;</t><t lang="chi">多</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">野<note place="inline">敬禮尺迦牟尼如來</note></t></tt>
+<lb n="0385b12" ed="T"/>
+<lb n="0385b13" ed="T"/><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">曩</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi">謨</t></tt><tt><t lang="san-sd">&SD-CFC6;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-B769;</t><t lang="chi"><yin><zi>利耶</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">縛</t></tt><tt><t lang="san-sd">&SD-A652;</t><t lang="chi">路</t></tt><tt><t lang="san-sd">&SD-A442;</t><t lang="chi">枳</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">帝</t></tt>
+<lb n="0385b14" ed="T"/>
+<lb n="0385b15" ed="T"/><tt><t lang="san-sd">&SD-E0AB;</t><t lang="chi"><yin><zi>濕縛</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">野</t></tt><tt><t lang="san-sd">&SD-A5D5;</t><t lang="chi">&CB00155;</t></tt><tt><t lang="san-sd">&SD-A57D;</t><t lang="chi">地</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-AF59;&SD-D7C4;</t><t lang="chi">多縛<note place="inline">敬禮聖觀自在菩薩</note></t></tt><tt><t lang="san-sd">&SD-A57D;</t><t lang="chi">地</t></tt>
+<lb n="0385b16" ed="T"/>
+<lb n="0385b17" ed="T"/><tt><t lang="san-sd">&SD-CD4D;</t><t lang="chi"><yin><zi>瑟恥</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">多</t></tt><tt><t lang="san-sd">&SD-A666;</t><t lang="chi">&CB03573;</t></tt><tt><t lang="san-sd">&SD-D9FC;</t><t lang="chi">第<note place="inline">加持清淨</note></t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">縛</t></tt><tt><t lang="san-sd">&SD-A9BF;</t><t lang="chi"><yin><zi>曰哩</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">縛</t></tt>
+<lb n="0385b18" ed="T"/>
+<lb n="0385b19" ed="T"/><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi"><yin><zi>曰羅</zi><sg>二合引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB03442;</t></tt><tt><t lang="san-sd">&SD-B757;</t><t lang="chi">陛<note place="inline">金剛藏</note></t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">縛</t></tt><tt><t lang="san-sd"><app><lem resp="CBETA.say" wit="【CBETA】" cf1="T19n0973_p0373a07">&SD-E07A;</lem><rdg wit="【大】">&SD-A9BE;</rdg></app></t><t lang="chi"><yin><zi>曰覽</zi><sg>二合引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5DA;</t><t lang="chi"><yin><zi>婆</zi><sg>去引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">浮</t></tt>
+<lb n="0385b20" ed="T"/>
+<lb n="0385b21" ed="T"/><tt><t lang="san-sd">&SD-A55B;</t><t lang="chi">&CB00418;<note place="inline">願成金剛</note></t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">麼</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">麼<note place="inline">是我之義自稱姓名。為他人即稱他姓名。已上第八金剛供養門</note></t></tt><tt><t lang="san-sd">&SD-A662;</t><t lang="chi">設</t></tt>
+<lb n="0385b22" ed="T"/>
+<lb n="0385b23" ed="T"/><tt><t lang="san-sd">&SD-A640;</t><t lang="chi">哩</t></tt><tt><t lang="san-sd">&SD-A648;</t><t lang="chi">覽</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-B7A3;</t><t lang="chi">縛</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-AF59;</t><t lang="chi"><yin><zi>怛縛</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5B3;</t><t lang="chi"><yin><zi>難</zi><sg>上引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A47C;</t><t lang="chi">左</t></tt><tt><t lang="san-sd">&SD-A440;</t><t lang="chi">迦</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">野</t></tt>
+<lb n="0385b24" ed="T"/>
+<lb n="0385b25" ed="T"/><tt><t lang="san-sd">&SD-A5B5;</t><t lang="chi">跛</t></tt><tt><t lang="san-sd">&SD-A640;</t><t lang="chi">哩</t></tt><tt><t lang="san-sd">&SD-A658;</t><t lang="chi">尾</t></tt><tt><t lang="san-sd">&SD-A666;</t><t lang="chi">&CB03573;</t></tt><tt><t lang="san-sd">&SD-D9FC;</t><t lang="chi">第<note place="inline">一切有情身得清淨</note></t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-B7A3;</t><t lang="chi">縛</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB00344;</t></tt><tt><t lang="san-sd">&SD-A559;</t><t lang="chi">底</t></tt><tt><t lang="san-sd">&SD-A5B5;</t><t lang="chi">跛</t></tt>
+<lb n="0385b26" ed="T"/>
+<lb n="0385b27" ed="T"/><tt><t lang="san-sd">&SD-A640;</t><t lang="chi">哩</t></tt><tt><t lang="san-sd">&SD-A666;</t><t lang="chi">&CB03573;</t></tt><tt><t lang="san-sd">&SD-D9FC;&SD-D7C4;</t><t lang="chi">第<note place="inline">一切趣皆清淨</note></t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-B7A3;</t><t lang="chi">縛</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi">他</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB03442;</t></tt><tt><t lang="san-sd">&SD-A558;</t><t lang="chi"><yin><zi>多</zi><sg>去引</sg></yin></t></tt>
+<lb n="0385b28" ed="T"/>
+<lb n="0385b29" ed="T"/><tt><t lang="san-sd">&SD-E0BD;</t><t lang="chi"><yin><zi>室者</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5EB;</t><t lang="chi">銘</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi"><yin><zi>三</zi><sg>去</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">麼</t></tt><tt><t lang="san-sd">&SD-E0AB;</t><t lang="chi"><yin><zi>濕縛</zi><sg>二合引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">娑</t></tt><tt><t lang="san-sd">&SD-A5FB;</t><t lang="chi">琰</t></tt><tt><t lang="san-sd">&SD-A55B;</t><t lang="chi">&CB00418;</t></tt>
+<lb n="0385b30" ed="T"/>
+<pb n="0385c" id="T19.0974B.0385c" ed="T"/>
+<lb n="0385c01" ed="T"/><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-B7A3;</t><t lang="chi">縛</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi"><yin><zi>他</zi><sg>去引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB03442;</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">多</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi"><yin><zi>三</zi><sg>去</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5E6;</t><t lang="chi"><yin><zi>麼</zi><sg>鼻去</sg></yin></t></tt><tt><t lang="san-sd">&SD-E0AB;</t><t lang="chi"><yin><zi>濕縛</zi><sg>二合</sg></yin></t></tt>
+<lb n="0385c02" ed="T"/>
+<lb n="0385c03" ed="T"/><tt><t lang="san-sd">&SD-A67B;</t><t lang="chi">娑</t></tt><tt><t lang="san-sd">&SD-A57D;</t><t lang="chi">地</t></tt><tt><t lang="san-sd">&SD-CD4B;</t><t lang="chi"><yin><zi>瑟恥</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">帝<note place="inline">一切如來安慰令得加持</note></t></tt><tt><t lang="san-sd">&SD-E3AD;</t><t lang="chi">沒</t></tt><tt><t lang="san-sd">&SD-E059;</t><t lang="chi"><yin><zi>地野</zi><sg>二合</sg></yin></t></tt>
+<lb n="0385c04" ed="T"/>
+<lb n="0385c05" ed="T"/><tt><t lang="san-sd">&SD-E3AD;</t><t lang="chi">沒</t></tt><tt><t lang="san-sd">&SD-E059;</t><t lang="chi"><yin><zi>地野</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A658;</t><t lang="chi">尾</t></tt><tt><t lang="san-sd">&SD-E3AD;</t><t lang="chi">沒</t></tt><tt><t lang="san-sd">&SD-E059;</t><t lang="chi"><yin><zi>地野</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A658;</t><t lang="chi">尾</t></tt><tt><t lang="san-sd">&SD-E3AD;</t><t lang="chi">沒</t></tt>
+<lb n="0385c06" ed="T"/>
+<lb n="0385c07" ed="T"/><tt><t lang="san-sd">&SD-E059;&SD-D7C4;</t><t lang="chi"><yin><zi>地野</zi><sg>二合</sg></yin><note place="inline">所覺所覺</note></t></tt><tt><t lang="san-sd">&SD-A5D5;</t><t lang="chi">&CB00155;</t></tt><tt><t lang="san-sd">&SD-A57B;</t><t lang="chi">馱</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">野</t></tt><tt><t lang="san-sd">&SD-A5D5;</t><t lang="chi">&CB00155;</t></tt><tt><t lang="san-sd">&SD-A57B;</t><t lang="chi">馱</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">野</t></tt><tt><t lang="san-sd">&SD-A658;</t><t lang="chi">尾</t></tt><tt><t lang="san-sd">&SD-A5D5;</t><t lang="chi">&CB00155;</t></tt><tt><t lang="san-sd">&SD-A57B;</t><t lang="chi">馱</t></tt>
+<lb n="0385c08" ed="T"/>
+<lb n="0385c09" ed="T"/><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">野</t></tt><tt><t lang="san-sd">&SD-A658;</t><t lang="chi">尾</t></tt><tt><t lang="san-sd">&SD-A5D5;</t><t lang="chi">&CB00155;</t></tt><tt><t lang="san-sd">&SD-A57B;</t><t lang="chi">馱</t></tt><tt><t lang="san-sd">&SD-A5F1;&SD-D7C4;</t><t lang="chi">野<note place="inline">能令覺悟。能令有情速得覺悟</note></t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">三</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">滿</t></tt><tt><t lang="san-sd">&SD-CA56;</t><t lang="chi">跛</t></tt>
+<lb n="0385c10" ed="T"/>
+<lb n="0385c11" ed="T"/><tt><t lang="san-sd">&SD-A5B5;</t><t lang="chi">跛</t></tt><tt><t lang="san-sd">&SD-A640;</t><t lang="chi">哩</t></tt><tt><t lang="san-sd">&SD-A666;</t><t lang="chi">&CB03573;</t></tt><tt><t lang="san-sd">&SD-D9FC;&SD-D7C4;</t><t lang="chi">第<note place="inline">普遍清淨</note></t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-B7A3;</t><t lang="chi">縛</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi"><yin><zi>他</zi><sg>去引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB03442;</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">多</t></tt>
+<lb n="0385c12" ed="T"/>
+<lb n="0385c13" ed="T"/><tt><t lang="san-sd">&SD-CC68;</t><t lang="chi"><yin><zi>仡哩</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A56F;</t><t lang="chi">娜</t></tt><tt><t lang="san-sd">&SD-A5F2;</t><t lang="chi"><yin><zi>野</zi><sg>引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A57D;</t><t lang="chi">地</t></tt><tt><t lang="san-sd">&SD-CD4B;</t><t lang="chi"><yin><zi>瑟&CB00109;</zi><sg>二合引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">曩</t></tt><tt><t lang="san-sd">&SD-A57D;</t><t lang="chi">地</t></tt>
+<lb n="0385c14" ed="T"/>
+<lb n="0385c15" ed="T"/><tt><t lang="san-sd">&SD-CD4B;</t><t lang="chi"><yin><zi>瑟恥</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A557;&SD-D7C4;</t><t lang="chi">多<note place="inline">一切如來神力所加持</note></t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">麼</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi"><yin><zi>賀</zi><sg>引</sg></yin></t></tt><tt><t lang="san-sd">&SD-E043;</t><t lang="chi">母</t></tt><tt><t lang="san-sd">&SD-AA78;</t><t lang="chi">捺</t></tt><tt><t lang="san-sd">&SD-D7C4;</t><t lang="chi"><yin><zi>哩</zi><sg>二合</sg></yin><note place="inline">大印。所謂如來大印。已上第九普證清淨門</note></t></tt>
+<lb n="0385c16" ed="T"/>
+<lb n="0385c17" ed="T"/><tt><t lang="san-sd">&SD-B065;</t><t lang="chi"><yin><zi>娑縛</zi><sg>二合引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A6A9;&SD-D950;&SD-A67A;&SD-A5E5;&SD-CEE4;</t><t lang="chi"><yin><zi>賀</zi><sg>引</sg></yin><note place="inline">吉祥之句。又云成就之義。已上第十成就涅槃門</note></t></tt></p>
+<lb n="0385c18" ed="T"/>
+<lb n="0385c19" ed="T"/>
+<lb n="0385c20" ed="T"/><p id="pT19p0385c2001">師云。此陀羅尼凡有九本。所謂杜行鎧月照
+<lb n="0385c21" ed="T"/>三藏。義淨三藏。佛陀波利善無畏三藏。金剛
+<lb n="0385c22" ed="T"/>智三藏。不空三藏等所譯本。及法崇注釋。弘
+<lb n="0385c23" ed="T"/>法大師所傳梵本等也。之中今以弘法大師
+<lb n="0385c24" ed="T"/>梵本。與金剛智三藏所譯加字具足漢字本
+<lb n="0385c25" ed="T"/>所雙書也。件梵本是弘法大師在唐之日。惠
+<lb n="0385c26" ed="T"/>果阿闍梨所授多羅葉梵本也。七佛及觀音
+<lb n="0385c27" ed="T"/>梵號裁干此中。異他梵本也。後人知之。</p></div1>
+<lb n="0385c28" ed="T"/><juan n="001" fun="close"><jhead>佛頂尊勝陀羅尼</jhead></juan>
+<lb n="0385c29" ed="T"/><div1 type="W"><p id="pT19p0385c2901">　建久二年辛</p></div1>
+</body></text></TEI.2>

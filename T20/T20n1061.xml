@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "T20n1061.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1061 千手千眼觀自在菩薩廣大圓滿無礙大悲心陀羅尼&CB00057;本</title>
+			<author>唐 金剛智譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.16 $ (Big5)<date>$Date: 2012/08/27 03:15:13 $</date>新式標點版</edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/08/27 03:15:13 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 20, No. 1061 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA, Punctuated text as provided by The Seeland Monastery</p>
+		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供，西蓮淨苑提供新式標點</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language id="san-sd">Sanskrit-Siddam</language>
+			<language id="eng">English</language>
+			<language id="chi">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+	<change>
+		<date>20000124/11:15:04</date>
+		<respStmt><name>CW</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT (00/01/24)</item>
+	</change>
+<!--
+$Log: T20n1061.xml,v $
+Revision 1.16  2012/08/27 03:15:13  maha
+修訂新標小圓點及著重號
+
+Revision 1.15  2009/04/23 08:01:18  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.14  2007/09/24 10:11:00  saywhat
+TK修訂：p0112a20[刺>剌],p0112b01[[口*(隸-木+匕)]>[口*(隸-木+士)]],p0112a15[[木*奈]>捺]
+
+Revision 1.13  2006/12/17 15:01:22  saywhat
+新式標點版
+
+Revision 1.12  2006/09/07 03:23:23  saywhat
+p0113b25   SD-CDC1 => SD-E4BA
+
+Revision 1.11  2006/04/12 21:55:40  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.9  2006/03/23 06:30:13  saywhat
+p0113b22 [haa>]
+
+Revision 1.8  2006/03/18 04:18:30  saywhat
+p0113a27  SD-A5CD => SD-A656
+
+Revision 1.7  2005/11/24 04:44:40  saywhat
+悉曇字修訂： CFEB => A5CD, CFEF => A5FD
+
+Revision 1.6  2005/10/29 02:25:04  saywhat
+p0113a02 SD-CA56=>SD-DA4B, … …, p0113c01 [SD-A646>SD-A642]
+
+Revision 1.5  2004/12/22 06:50:01  saywhat
+SD-A65E => SD-A5D5
+
+Revision 1.4  2004/12/15 03:18:01  saywhat
+p0113a02行尾的<div1 type="W">移到下一行行首
+
+Revision 1.3  2004/10/21 08:20:03  saywhat
+段落前加入圈點
+
+Revision 1.2  2004/04/20 08:38:52  maha
+「版本日期」標記修訂
+
+Revision 1.1.1.1  2003/05/05 04:09:18  ray
+recover cvs
+
+Revision 1.18  2002/12/05 05:20:18  saywhat
+校勘插入處理
+
+Revision 1.17  2002/11/04 10:45:29  ray
+tei.2 => TEI.2
+
+Revision 1.16  2002/07/29 09:56:39  vinking
+modified lang
+
+Revision 1.15  2002/04/08 09:05:42  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.14  2001/11/05 06:13:35  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.13  2001/07/24 06:53:01  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.12  2001/03/30 05:55:14  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.11  2001/03/25 09:15:21  ray
+add <milestone>
+
+Revision 1.10  2001/02/07 06:55:32  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.9  2001/02/03 07:45:29  chris
+Added keywords $Revision: 1.16 $, $Date: 2012/08/27 03:15:13 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<pb n="0112a" id="T20.1061.0112a" ed="T"/>
+<lb n="0112a01" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0112a02" ed="T"/><head type="no">No. 1061 [cf. Nos. 1056-1058, 1060, 1062-1064]</head>
+<lb n="0112a03" ed="T"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><note n="0112001" resp="Taisho" place="foot text" type="orig">【原】麗本</note>千手千眼觀自在菩薩廣大圓滿
+<lb n="0112a04" ed="T"/>無礙大悲心陀羅尼&CB00057;本一卷</jhead></juan>
+<lb n="0112a05" ed="T"/>
+<lb n="0112a06" ed="T"/><byline type="Translator">大唐贈開府儀同三司諡大弘教
+<lb n="0112a07" ed="T"/>三藏沙門金剛智奉　詔譯</byline>
+<lb n="0112a08" ed="T"/><div1 type="dharani"><p id="pT20p0112a0801" type="dharani"><note n="0112002" resp="Taisho" place="foot text" type="orig">梵字真言附載於卷末</note>曩慕　囉<note place="inline">引</note>怛曩<note place="inline">二合</note>怛囉<note place="inline">二合</note>夜耶<note place="inline">一</note>　曩莫　阿<note place="inline">引</note>
+<lb n="0112a09" ed="T"/>哩夜<note place="inline">二合</note><note place="inline">二</note>　&CB00085;&CB00080;枳諦濕&CB00085;<note place="inline">二合</note>囉<note place="inline">引</note>耶<note place="inline">三</note>　&CB00155;<note place="inline">毛上音、下同</note>
+<lb n="0112a10" ed="T"/>地薩多&CB00085;<note place="inline">二合、下同</note>耶<note place="inline">四</note>　莽<note place="inline">浮聲呼</note>賀薩多&CB00085;<note place="inline">同上</note>耶<note place="inline">五</note>
+<lb n="0112a11" ed="T"/>　莽<note place="inline">浮聲呼</note>賀迦<note place="inline">去</note>嚕聹<note place="inline">卷舌呼</note>迦<note place="inline">引</note>耶<note place="inline">六</note>　薩摩<note place="inline">上</note>滿陀
+<lb n="0112a12" ed="T"/><note place="inline">上</note>曩<note place="inline">七</note>　泚娜曩迦囉<note place="inline">引</note>耶<note place="inline">八</note>　薩摩<note place="inline">上</note>　婆&CB00085;<note place="inline">九</note>　娑母
+<lb n="0112a13" ed="T"/><note place="inline">浮聲呼</note>捺嘮<note place="inline">二合</note>　酢灑拏<note place="inline">卷舌呼</note>迦囉耶<note place="inline">十</note>　薩摩<note place="inline">上</note>　彌
+<lb n="0112a14" ed="T"/>夜<note place="inline">二合</note>地<note place="inline">十一</note>　跛囉<note place="inline">二合</note>捨莽<note place="inline">浮聲呼</note>曩迦囉<note place="inline">引</note>耶<note place="inline">十
+<lb n="0112a15" ed="T"/>二</note>　薩謎底多庾<note place="inline">二合</note>　跛<app><lem wit="【CBETA】【麗】" resp="CBETA.maha" cf1="K36n1270_p0624a13">捺</lem><rdg wit="【大】">&CB00178;</rdg></app>囉<note place="inline">二合</note>&CB00085;<note place="inline">十三</note>　尾那捨
+<lb n="0112a16" ed="T"/>曩<note place="inline">浮聲呼</note>迦囉<note place="inline">引</note>耶<note place="inline">十四</note>　薩摩<note place="inline">上</note>　婆曳數<note place="inline">十五</note>　怛囉
+<lb n="0112a17" ed="T"/><note place="inline">二合</note>拏迦囉<note place="inline">去、引</note>耶<note place="inline">十六</note>　嚲思每<note place="inline">二合</note>　曩莽思吉
+<lb n="0112a18" ed="T"/>哩<note place="inline">三合</note>多&CB00085;<note place="inline">二合</note>　伊<note place="inline">去</note>那摩阿哩夜<note place="inline">二合</note><note place="inline">十七</note>　&CB00085;&CB00080;枳
+<lb n="0112a19" ed="T"/>帝濕&CB00085;<note place="inline">二合</note>囉　皤使單　&CB00135;羅建&CB00109;閉<note place="inline">十八</note>　曩<note place="inline">引</note>莽
+<lb n="0112a20" ed="T"/>纈哩<note place="inline">二合</note>娜耶<note place="inline">十九</note>　摩物<app><lem wit="【CBETA】【麗】" resp="CBETA.maha" cf1="K36n1270_p0624a19">剌</lem><rdg wit="【大】">刺</rdg></app><note place="inline">二合</note>嚲　以使夜<note place="inline">二合</note>
+<lb n="0112a21" ed="T"/>弭<note place="inline">二十</note>　薩末<note place="inline">引</note>他些馱建<note place="inline">二十一</note>　戍畔　阿爾延<note place="inline">二十二</note><note place="inline">引</note>　
+<lb n="0112a22" ed="T"/>　薩摩　部跢南<note place="inline">二十三</note>　婆&CB00085;末&CB00344;　尾戍馱劍<note place="inline">二十四</note>　怛&CB00135;
+<lb n="0112a23" ed="T"/>也<note place="inline">二合</note>他<note place="inline">二十五</note>　唵<note place="inline">二十六</note>　阿<note place="inline">引</note>&CB00080;計　阿<note place="inline">引</note>&CB00080;迦莽底
+<lb n="0112a24" ed="T"/><note place="inline">二十七</note>　&CB00080;迦<note place="inline">引</note>底訖&CB01836;<note place="inline">二合</note>諦　傒　賀&CB00942;　阿哩夜<note place="inline">二十八</note>
+<lb n="0112a25" ed="T"/>　&CB00085;&CB00080;枳諦濕&CB00085;<note place="inline">二合</note>羅<note place="inline">二十九</note>　莽<note place="inline">浮聲呼</note>賀&CB00155;地薩多
+<lb n="0112a26" ed="T"/>&CB00085;<note place="inline">二合</note><note place="inline">三十</note>　傒　&CB00155;地薩多&CB00085;<note place="inline">二合</note><note place="inline">三十一</note>　傒　莽<note place="inline">浮聲呼</note>賀&CB00155;地
+<lb n="0112a27" ed="T"/>薩多&CB00085;<note place="inline">二合</note><note place="inline">三十二</note>　傒　比哩<note place="inline">二合</note>也　&CB00155;地薩多&CB00085;<note place="inline">二合</note><note place="inline">三十三</note>　
+<lb n="0112a28" ed="T"/>　傒　莽<note place="inline">浮聲呼</note>賀迦<note place="inline">引</note>嚕聹<note place="inline">卷舌呼</note>迦<note place="inline">三十四</note>　徙莽<note place="inline">二合</note>囉　纈
+<pb n="0112b" id="T20.1061.0112b" ed="T"/>
+<lb n="0112b01" ed="T"/>哩<note place="inline">二合</note>娜延<note place="inline">三十五</note>　呬呬　賀<app><lem wit="【CBETA】【麗】" resp="CBETA.maha" cf1="K36n1270_p0624b09" cf2="T20n1061_p0112b08">&CB00942;</lem><rdg wit="【大】">&CB03276;</rdg></app>　阿哩耶<note place="inline">三十六</note>　&CB00085;&CB00080;枳
+<lb n="0112b02" ed="T"/>諦濕&CB00085;<note place="inline">二合</note>囉<note place="inline">三十七</note>　莽<note place="inline">浮聲呼</note>傒　濕&CB00085;<note place="inline">二合</note>囉<note place="inline">三十八</note>　跛
+<lb n="0112b03" ed="T"/>囉莽<note place="inline">浮聲呼</note>　多囉<note place="inline">二合</note>質多<note place="inline">三十九</note>　莽<note place="inline">浮聲呼</note>賀迦嚕聹<note place="inline">卷舌
+<lb n="0112b04" ed="T"/>呼</note>迦<note place="inline">四十</note>　矩嚕　矩嚕　羯滿　些大耶　些大耶<note place="inline">四十一</note>
+<lb n="0112b05" ed="T"/>　尾&CB00135;延<note place="inline">二合</note><note place="inline">四十二</note>　聹傒　禰傒多　&CB00085;&CB01836;<note place="inline">四十三</note>　迦滿　&CB00344;莽
+<lb n="0112b06" ed="T"/><note place="inline">四十四</note>　尾捍&CB00344;莽　尾&CB00344;莽　悉陀<note place="inline">上</note>　諭儗<note place="inline">引</note>濕&CB00085;<note place="inline">二
+<lb n="0112b07" ed="T"/>合</note>囉<note place="inline">四十五</note>　杜嚕　杜嚕　尾演底<note place="inline">四十六</note>　莽賀尾演底<note place="inline">四十
+<lb n="0112b08" ed="T"/>七</note>　馱囉　馱羅　達&CB00942;印涅&CB00942;<note place="inline">三合</note>濕&CB00085;<note place="inline">二合</note>羅<note place="inline">四十八</note>
+<lb n="0112b09" ed="T"/>　左&CB00256;　左&CB00256;　尾莽<note place="inline">浮聲呼</note>邏　莽羅<note place="inline">四十九</note>　阿哩夜<note place="inline">二合</note><note place="inline">五十</note>　&CB00085;
+<lb n="0112b10" ed="T"/>&CB00080;枳帝濕&CB00085;<note place="inline">二合</note>羅<note place="inline">去</note><note place="inline">五十一</note>　爾曩　訖哩<note place="inline">二合</note>使拏<note place="inline">二合</note>
+<lb n="0112b11" ed="T"/><note place="inline">五十二</note>　惹吒<note place="inline">引</note>莽<note place="inline">浮聲呼</note>矩吒<note place="inline">五十三</note>　&CB00085;覽摩　跛羅<note place="inline">二合</note>
+<lb n="0112b12" ed="T"/>覽摩　尾覽摩<note place="inline">五十四</note>　莽<note place="inline">浮聲呼</note>賀徙陀<note place="inline">上</note>尾&CB00135;夜<note place="inline">二合</note>
+<lb n="0112b13" ed="T"/>馱囉<note place="inline">五十五</note>　皤羅　皤囉　莽賀皤囉<note place="inline">五十六</note>　麼&CB00256;　麼&CB00256;　莽
+<lb n="0112b14" ed="T"/>賀麼&CB00256;<note place="inline">五十七</note>　左囉　左囉　莽賀左囉<note place="inline">五十八</note>　訖哩<note place="inline">二合</note>
+<lb n="0112b15" ed="T"/>史拏<note place="inline">二合</note>物&CB00069;<note place="inline">二合</note>拏&CB00135;&CB00069;伽<note place="inline">五十九</note>　訖哩<note place="inline">二合</note>史
+<lb n="0112b16" ed="T"/>拏<note place="inline">二合</note>跛乞灑<note place="inline">二合</note>　怩茄<note place="inline">去</note>跢曩<note place="inline">浮聲呼</note><note place="inline">六十</note>　傒　跛娜
+<lb n="0112b17" ed="T"/>莽<note place="inline">二合</note>賀徙多<note place="inline">二合</note><note place="inline">六十一</note>　左羅　左羅　聹舍　左&CB00942;濕&CB00085;
+<lb n="0112b18" ed="T"/><note place="inline">二合</note>囉<note place="inline">六十二</note>　訖哩<note place="inline">二合</note>史拏<note place="inline">二合</note>薩囉跛　訖哩<note place="inline">二合</note>
+<lb n="0112b19" ed="T"/>嚲也爾諭<note place="inline">二合</note>跛尾多<note place="inline">六十三</note>　翳傒兮　莽<note place="inline">浮聲呼</note>賀&CB00085;
+<lb n="0112b20" ed="T"/>囉賀母<note place="inline">浮聲呼</note>佉<note place="inline">六十四</note>　怛哩<note place="inline">二合</note>補囉娜賀寧濕&CB00085;
+<lb n="0112b21" ed="T"/><note place="inline">二合</note>囉<note place="inline">六十五</note>　曩囉也拏　&CB00085;&CB00080;跛<note place="inline">六十六</note>　&CB00085;羅　末&CB00344;　阿
+<lb n="0112b22" ed="T"/><note place="inline">上</note>唎　傒　聹羅建&CB00109;　傒　麼賀迦<note place="inline">去</note>羅<note place="inline">六十七</note>　賀羅賀
+<lb n="0112b23" ed="T"/>羅<note place="inline">六十八</note>　尾沙<note place="inline">上</note>　怩爾跢　&CB00080;迦寫<note place="inline">六十九</note>　囉<note place="inline">去</note>&CB00344;尾沙
+<lb n="0112b24" ed="T"/><note place="inline">上</note>尾曩<note place="inline">引</note>捨曩<note place="inline">七十</note>　那味<note place="inline">二合</note>沙<note place="inline">上</note>尾沙<note place="inline">上</note>　尾曩
+<lb n="0112b25" ed="T"/>捨曩<note place="inline">七十一</note>　慕賀尾沙<note place="inline">上</note>　尾曩<note place="inline">引</note>捨曩<note place="inline">七十二</note>　戶嚕　戶
+<lb n="0112b26" ed="T"/>嚕　莽羅　戶嚕　賀&CB00942;<note place="inline">七十三</note>　莽賀　跛那莽<note place="inline">二合</note>曩<note place="inline">引</note>婆
+<lb n="0112b27" ed="T"/><note place="inline">七十四</note>　薩囉　薩囉<note place="inline">七十五</note>　徙哩　徙哩<note place="inline">七十六</note>　蘇嚕　蘇嚕<note place="inline">七十
+<lb n="0112b28" ed="T"/>七</note>　母嚕　母嚕<note place="inline">七十八</note>　母地也<note place="inline">二合</note>　母地也<note place="inline">二合</note><note place="inline">七十九</note>　&CB00155;
+<pb n="0112c" id="T20.1061.0112c" ed="T"/>
+<lb n="0112c01" ed="T"/>大也<note place="inline">二合</note>　&CB00155;大也<note place="inline">二合</note><note place="inline">八十</note>　弭帝<note place="inline">八十一</note>　&CB00135;囉建&CB00109;　翳
+<lb n="0112c02" ed="T"/>醯兮　摩莽思體<note place="inline">二合</note>多徙應<note place="inline">二合</note>賀　母佉<note place="inline">八十二</note>　賀
+<lb n="0112c03" ed="T"/>娑　賀娑<note place="inline">八十三</note>　悶左　悶左<note place="inline">八十四</note>　莽賀　吒<note place="inline">去</note>吒<note place="inline">上</note>賀珊
+<lb n="0112c04" ed="T"/><note place="inline">八十五</note>　翳　醯兮抱　莽賀悉陀<note place="inline">上</note>諭詣濕&CB00085;<note place="inline">二合</note>羅<note place="inline">八十
+<lb n="0112c05" ed="T"/>六</note>　娑拏　娑拏　&CB00085;<note place="inline">引</note>濟<note place="inline">八十七</note>　些大耶　些大耶　尾&CB00135;
+<lb n="0112c06" ed="T"/>延<note place="inline">二合</note><note place="inline">八十八</note>　徙莽囉　徙莽羅<note place="inline">八十九</note>　瞻　婆&CB00344;滿單　&CB00080;枳
+<lb n="0112c07" ed="T"/>多　尾&CB00080;枳單<note place="inline">九十</note>　&CB00080;計濕&CB00085;<note place="inline">二合</note>&CB01836;<note place="inline">去</note>　怛他<note place="inline">上</note>&CB00344;
+<lb n="0112c08" ed="T"/>單<note place="inline">九十一</note>　娜娜<note place="inline">引</note>醯　名娜哩捨<note place="inline">二合</note>曩<note place="inline">九十二</note>　迦莽寫
+<lb n="0112c09" ed="T"/>　那哩<note place="inline">二合</note>捨難<note place="inline">九十三</note>　跛囉<note place="inline">二合</note>紇邏<note place="inline">二合</note>娜耶
+<lb n="0112c10" ed="T"/>莽曩　莎賀<note place="inline">九十四</note>　悉馱也　莎賀<note place="inline">九十五</note>　莽賀悉馱也
+<lb n="0112c11" ed="T"/>　莎賀<note place="inline">九十六</note>　莽賀悉馱也　莎賀<note place="inline">九十七</note>　悉馱諭詣濕&CB00085;
+<lb n="0112c12" ed="T"/><note place="inline">二合</note>邏耶　莎賀<note place="inline">九十八</note>　&CB00135;羅建&CB00109;耶　莎賀<note place="inline">九十九</note>　&CB00085;囉
+<lb n="0112c13" ed="T"/><note place="inline">引</note>賀母佉<note place="inline">去</note>耶　莎賀<note place="inline">一百</note>　莽賀娜邏　徙應<note place="inline">二合</note>賀
+<lb n="0112c14" ed="T"/>母佉耶　莎賀<note place="inline">一百一</note>　悉馱尾&CB00135;夜<note place="inline">二合</note>達邏耶　莎賀
+<lb n="0112c15" ed="T"/><note place="inline">一百二</note>　跛娜莽<note place="inline">二合</note>賀薩跢<note place="inline">二合</note>耶　莎賀<note place="inline">一百三</note>　訖哩<note place="inline">二
+<lb n="0112c16" ed="T"/>合</note>史拏<note place="inline">二合</note>薩波訖哩<note place="inline">二合</note>&CB00833;也爾諭<note place="inline">二合</note>跛尾
+<lb n="0112c17" ed="T"/>跢耶　莎賀<note place="inline">一百四</note>　莽賀&CB00256;矩吒陀<note place="inline">上</note>邏<note place="inline">去</note>耶　莎賀<note place="inline">一百
+<lb n="0112c18" ed="T"/>五</note>　斫羯囉<note place="inline">去</note>庾馱耶　莎賀<note place="inline">一百六</note>　勝佉<note place="inline">去</note>攝那&CB00135;&CB00155;
+<lb n="0112c19" ed="T"/>馱曩<note place="inline">去</note>耶　莎賀<note place="inline">一百七</note>　摩莽思建<note place="inline">二合</note>陀<note place="inline">上</note>味沙<note place="inline">上</note>
+<lb n="0112c20" ed="T"/>思體<note place="inline">二合</note>多訖哩<note place="inline">二合</note>史拏<note place="inline">二合</note>爾曩<note place="inline">去</note>耶　莎賀
+<lb n="0112c21" ed="T"/><note place="inline">一百<app><lem resp="CBETA.maha" wit="【CBETA】">八</lem><rdg wit="【大】">九</rdg></app></note>　弭夜<note place="inline">二合</note>佉囉<note place="inline">二合</note>折莽&CB00135;&CB00085;娑曩<note place="inline">去</note>耶　莎
+<lb n="0112c22" ed="T"/>賀<app><lem resp="CBETA.maha" wit="【CBETA】"><note place="inline">一百九</note></lem><rdg wit="【大】">&lac;</rdg></app>　&CB00080;計濕&CB00085;<note place="inline">二合</note>羅<note place="inline">去</note>耶　莎賀<note place="inline">一百一十</note>　薩摩<note place="inline">上</note>　悉第
+<lb n="0112c23" ed="T"/>濕&CB00085;<note place="inline">二合</note>羅耶　莎賀<note place="inline">一百一十一</note>　曩慕　婆&CB00344;&CB00085;諦　阿<note place="inline">引</note>
+<lb n="0112c24" ed="T"/>哩夜<note place="inline">二合</note>&CB00085;&CB00080;枳諦濕&CB00085;<note place="inline">二合</note>囉<note place="inline">去</note>耶　&CB00155;地薩怛
+<lb n="0112c25" ed="T"/>&CB00085;<note place="inline">二合</note>耶　莽賀薩怛&CB00085;<note place="inline">二合</note>耶　莽賀迦<note place="inline">去</note>嚕聹迦
+<lb n="0112c26" ed="T"/>耶<note place="inline">一百一十二</note>　悉殿<note place="inline">二合</note>&CB00418;　名　滿多羅<note place="inline">二合</note>跛娜耶　莎
+<lb n="0112c27" ed="T"/>賀<note place="inline">一百一十三</note></p>
+<lb n="0112c28" ed="T"/><juan n="001" fun="close"><jhead>千手千眼觀自在菩薩廣大圓滿無礙大悲心
+<pb n="0113a" id="T20.1061.0113a" ed="T"/>
+<lb n="0113a01" ed="T"/>陀羅尼&CB00057;一卷</jhead></juan></div1>
+<lb n="0113a02" ed="T"/><div1 type="W"><p lang="san-sd" id="pT20p0113a0201" type="dharani"><note n="0113001" resp="Taisho" place="foot text" type="orig">此梵字真言依靈雲寺版普通真言藏載之</note>&SD-A5A9;&SD-A5ED;&SD-A5FE;&SD-DA4B;&SD-AA5E;&SD-A5F2;&SD-A5F1;&SD-A5A9;&SD-A5F0;&SD-CFC6;&SD-DA48;&SD-A656;&SD-A652;&SD-A442;
+<lb n="0113a03" ed="T"/>&SD-A55D;&SD-E0AB;&SD-A5FE;&SD-A5F1;&SD-A5D5;&SD-A57D;&SD-A67A;&SD-AF5A;&SD-A5F1;&SD-A5E5;&SD-A6A9;&SD-A67A;&SD-AF5A;&SD-A5F1;
+<lb n="0113a04" ed="T"/>&SD-A5E5;&SD-A6A9;&SD-A441;&SD-A642;&SD-A54D;&SD-A441;&SD-A5F1;&SD-A67A;&SD-B7A3;&SD-A5CD;&SD-CA7A;&SD-A5A9;&SD-DAA1;&SD-A56F;
+<lb n="0113a05" ed="T"/>&SD-A5A9;&SD-A440;&SD-A5FE;&SD-A5F1;&SD-A67A;&SD-B7A3;&SD-A5D9;&SD-A656;&SD-A67A;&SD-E043;&SD-AAA2;&SD-E0BC;&SD-A6B4;&SD-A54B;
+<lb n="0113a06" ed="T"/>&SD-A440;&SD-A5FE;&SD-A5F1;&SD-A67A;&SD-B7A3;&SD-A8BE;&SD-A57D;&SD-AABC;&SD-A662;&SD-A5E5;&SD-A5A9;&SD-A440;&SD-A5FE;&SD-A5F1;
+<lb n="0113a07" ed="T"/>&SD-A67A;&SD-B7A9;&SD-A559;&SD-A7DB;&SD-A5D9;&SD-E04B;&SD-A656;&SD-A658;&SD-A5AA;&SD-A662;&SD-A5A9;&SD-A440;&SD-A5FE;&SD-A5F1;
+<lb n="0113a08" ed="T"/>&SD-A67A;&SD-B7A3;&SD-A5D9;&SD-A5F7;&SD-A8DE;&SD-AA5E;&SD-A54B;&SD-A440;&SD-A5FE;&SD-A5F1;&SD-A557;&SD-B2D3;&SD-A5A9;&SD-A5E5;
+<lb n="0113a09" ed="T"/>&SD-E0CE;&SD-AF5A;&SD-CFC7;&SD-A5A9;&SD-A5E6;&SD-B76A;&SD-A656;&SD-A652;&SD-A442;&SD-A55D;&SD-E0AB;&SD-A5FD;&SD-A5D9;&SD-A670;
+<lb n="0113a10" ed="T"/>&SD-A561;&SD-A5AB;&SD-A5FD;&SD-A44A;&SD-A4DA;&SD-A5DF;&SD-A5AA;&SD-A5E5;&SD-CC68;&SD-A56F;&SD-A5F1;&SD-A5E5;&SD-AB51;&SD-A557;
+<lb n="0113a11" ed="T"/>&SD-CFC7;&SD-E15F;&SD-A5E7;&SD-A67A;&SD-B7A4;&SD-A563;&SD-A67A;&SD-A57B;&SD-A44A;&SD-A666;&SD-A660;&SD-CFC5;&SD-A4B8;&SD-A5FB;
+<lb n="0113a12" ed="T"/>&SD-A67A;&SD-B7A3;&SD-A5DE;&SD-A557;&SD-A5B3;&SD-A5D9;&SD-A656;&SD-A5E5;&SD-B5B1;&SD-A658;&SD-A666;&SD-D9F9;&SD-A44A;&SD-A557;
+<lb n="0113a13" ed="T"/>&SD-DA4A;&SD-A564;&SD-DA42;&SD-CFC6;&SD-A652;&SD-A446;&SD-CFC6;&SD-A652;&SD-A440;&SD-A5E5;&SD-A559;&SD-A652;&SD-A441;&SD-A559;
+<lb n="0113a14" ed="T"/>&SD-A951;&SD-A55D;&SD-A6AE;&SD-A6A8;&SD-A644;&SD-CFC6;&SD-B76A;&SD-A656;&SD-A652;&SD-A442;&SD-A55D;&SD-E0AB;&SD-A5FD;&SD-A5E5;
+<lb n="0113a15" ed="T"/>&SD-A6A9;&SD-A5D5;&SD-A57D;&SD-A67A;&SD-AF59;&SD-A6AE;&SD-A5D5;&SD-A57D;&SD-A67A;&SD-AF59;&SD-A6AE;&SD-A5E5;&SD-A6A9;&SD-A65E;
+<lb n="0113a16" ed="T"/>&SD-A57D;&SD-A67A;&SD-AF59;&SD-A6AE;&SD-A658;&SD-B769;&SD-A5D5;&SD-A57D;&SD-A67A;&SD-AF59;&SD-A6AE;&SD-A5E5;&SD-A6A9;&SD-A441;
+<lb n="0113a17" ed="T"/>&SD-A642;&SD-A54D;&SD-A441;&SD-B2CF;&SD-A5FD;&SD-CC68;&SD-A56F;&SD-A5FB;&SD-A6AA;&SD-A6AA;&SD-A6A8;&SD-A644;&SD-CFC6;&SD-DA48;
+<lb n="0113a18" ed="T"/>&SD-A656;&SD-A652;&SD-A442;&SD-A55D;&SD-E0AB;&SD-A5FD;&SD-A5E5;&SD-A6AE;&SD-E0AB;&SD-A5FD;&SD-A5B5;&SD-A5FD;&SD-A5E5;&SD-AA5E;
+<lb n="0113a19" ed="T"/>&SD-A47E;&SD-CF55;&SD-A5E5;&SD-A6A9;&SD-A441;&SD-A642;&SD-A54D;&SD-A441;&SD-A444;&SD-A642;&SD-A444;&SD-A642;&SD-A440;&SD-B767;
+<lb n="0113a20" ed="T"/>&SD-A67A;&SD-A57B;&SD-A5F1;&SD-A67A;&SD-A57B;&SD-A5F1;&SD-A658;&SD-E1E3;&SD-A54D;&SD-A6AE;&SD-A54D;&SD-A6AE;&SD-A557;&SD-A656;
+<lb n="0113a21" ed="T"/>&SD-A648;&SD-A440;&SD-A5EF;&SD-A458;&SD-A5E5;&SD-A658;&SD-A458;&SD-A5E5;&SD-A67C;&SD-D9F9;&SD-A5F5;&SD-A45E;&SD-E0AB;&SD-A5FD;
+<lb n="0113a22" ed="T"/>&SD-E0C1;&SD-A642;&SD-E0C1;&SD-A642;&SD-A658;&SD-A5F1;&SD-CA58;&SD-A5E5;&SD-A6A9;&SD-A658;&SD-A5F1;&SD-CA58;&SD-A57B;&SD-A5FD;
+<lb n="0113a23" ed="T"/>&SD-A57B;&SD-A5FD;&SD-A57B;&SD-A644;&SD-CFC7;&SD-E1C9;&SD-E0AB;&SD-A5FD;&SD-A47C;&SD-A64A;&SD-A47C;&SD-A64A;&SD-A658;&SD-A5E5;
+<lb n="0113a24" ed="T"/>&SD-A64A;&SD-A5E5;&SD-A5FD;&SD-CFC6;&SD-B76A;&SD-A656;&SD-A652;&SD-A442;&SD-A55D;&SD-E0AB;&SD-A5FD;&SD-A4B8;&SD-A5A9;&SD-CBA7;
+<lb n="0113a25" ed="T"/>&SD-E244;&SD-A4B6;&SD-A4DB;&SD-A5E5;&SD-A444;&SD-A4DA;&SD-A656;&SD-A648;&SD-A5E5;&SD-AABC;&SD-A648;&SD-A5E5;&SD-A658;&SD-A648;
+<lb n="0113a26" ed="T"/>&SD-A5E5;&SD-A5E5;&SD-A6A9;&SD-A67C;&SD-D9F9;&SD-A658;&SD-A7EF;&SD-A57B;&SD-A5FD;&SD-A656;&SD-A5FD;&SD-A656;&SD-A5FD;&SD-A5E5;
+<lb n="0113a27" ed="T"/>&SD-A6A9;&SD-A656;&SD-A5FD;&SD-A5CD;&SD-A64A;&SD-A5CD;&SD-A64A;&SD-A5E5;&SD-A6A9;&SD-A5CD;&SD-A64A;&SD-A47C;&SD-A5FD;&SD-A47C;
+<lb n="0113a28" ed="T"/>&SD-A5FD;&SD-A5E5;&SD-A6A9;&SD-A47C;&SD-A5FD;&SD-CBA7;&SD-E244;&SD-CC58;&SD-A54B;&SD-A572;&SD-E2E9;&SD-CBA7;&SD-E244;&SD-A5B5;
+<lb n="0113a29" ed="T"/>&SD-A6B4;&SD-A572;&SD-E2E9;&SD-A557;&SD-A5A9;&SD-A6AE;&SD-A5B5;&SD-DAAF;&SD-A6A8;&SD-CDAB;&SD-A47C;&SD-A5FD;&SD-A47C;&SD-A5FD;
+<pb n="0113b" id="T20.1061.0113b" ed="T"/>
+<lb n="0113b01" ed="T"/>&SD-A571;&SD-A662;&SD-A47C;&SD-A650;&SD-E0AB;&SD-A5FD;&SD-CBA7;&SD-E244;&SD-A67A;&SD-A5FD;&SD-A5B5;&SD-CBA7;&SD-A557;&SD-A5F1;
+<lb n="0113b02" ed="T"/>&SD-A75D;&SD-A5B5;&SD-A658;&SD-A557;&SD-CFCF;&SD-E0AF;&SD-A6AE;&SD-A5E5;&SD-A6A9;&SD-A656;&SD-A5FD;&SD-A6A8;&SD-E043;&SD-A44C;
+<lb n="0113b03" ed="T"/>&SD-AA60;&SD-E042;&SD-A5FD;&SD-A56F;&SD-A6A8;&SD-A5AF;&SD-E0AB;&SD-A5FD;&SD-A5A9;&SD-A5FD;&SD-A5F1;&SD-A54B;&SD-A656;&SD-A642;
+<lb n="0113b04" ed="T"/>&SD-A5B5;&SD-A656;&SD-A5FD;&SD-A5E5;&SD-B5B1;&SD-CFC5;&SD-A640;&SD-A6AE;&SD-A5AB;&SD-A5FD;&SD-A44A;&SD-A4DA;&SD-A6AE;&SD-A5E5;
+<lb n="0113b05" ed="T"/>&SD-A6A9;&SD-A441;&SD-A5FD;&SD-A6A8;&SD-A5FD;&SD-A6A8;&SD-A5FD;&SD-A658;&SD-A66E;&SD-A5AB;&SD-B5EF;&SD-A557;&SD-A652;&SD-A440;
+<lb n="0113b06" ed="T"/>&SD-A8E2;&SD-A5FE;&SD-A458;&SD-A658;&SD-A66E;&SD-A658;&SD-A5AA;&SD-A662;&SD-A5A9;&SD-AF73;&SD-A66E;&SD-A658;&SD-A66E;&SD-A658;
+<lb n="0113b07" ed="T"/>&SD-A5AA;&SD-A662;&SD-A5A9;&SD-E043;&SD-A6A8;&SD-A658;&SD-A66E;&SD-A658;&SD-A5AA;&SD-A662;&SD-A5A9;&SD-E0AA;&SD-A64E;&SD-E0AA;
+<lb n="0113b08" ed="T"/>&SD-A64E;&SD-A5E5;&SD-A5FD;&SD-E0AA;&SD-A64E;&SD-A6A8;&SD-A650;&SD-A5E5;&SD-A6A9;&SD-A5B5;&SD-DAAF;&SD-A5AA;&SD-A5D9;&SD-A67A;
+<lb n="0113b09" ed="T"/>&SD-A5FD;&SD-A67A;&SD-A5FD;&SD-A67C;&SD-A640;&SD-A67C;&SD-A640;&SD-E0BC;&SD-A642;&SD-E0BC;&SD-A642;&SD-E043;&SD-A642;&SD-E043;
+<lb n="0113b10" ed="T"/>&SD-A642;&SD-A5D1;&SD-E059;&SD-A5D1;&SD-E059;&SD-A5D5;&SD-D9F9;&SD-A5F1;&SD-A5D5;&SD-D9F9;&SD-A5F1;&SD-A5EC;&SD-A55D;&SD-A5AB;
+<lb n="0113b11" ed="T"/>&SD-A5FD;&SD-A44A;&SD-A4DA;&SD-CFCF;&SD-E0AF;&SD-A6AE;&SD-A5E5;&SD-A5E5;&SD-CDB7;&SD-A557;&SD-E160;&SD-A6A8;&SD-E043;&SD-A44C;
+<lb n="0113b12" ed="T"/>&SD-A6A8;&SD-A67A;&SD-A6A8;&SD-A67A;&SD-E1BF;&SD-A47C;&SD-E1BF;&SD-A47C;&SD-A5E5;&SD-A6A9;&SD-A4DB;&SD-A4DA;&SD-A6A8;&SD-A6A6;
+<lb n="0113b13" ed="T"/>&SD-CFCF;&SD-E0AF;&SD-A6AE;&SD-A5BF;&SD-A5E5;&SD-A6A9;&SD-A67C;&SD-D9F9;&SD-A5F5;&SD-A45E;&SD-E0AB;&SD-A5FD;&SD-A67A;&SD-A54B;
+<lb n="0113b14" ed="T"/>&SD-A67A;&SD-A54B;&SD-A657;&SD-A4A4;&SD-A67A;&SD-A57B;&SD-A5F1;&SD-A67A;&SD-A57B;&SD-A5F1;&SD-A658;&SD-E1E3;&SD-B2CF;&SD-A5FD;
+<lb n="0113b15" ed="T"/>&SD-B2CE;&SD-A5FD;&SD-A66C;&SD-A5D9;&SD-A458;&SD-A660;&SD-A561;&SD-A652;&SD-A442;&SD-A557;&SD-A658;&SD-A652;&SD-A442;&SD-A561;
+<lb n="0113b16" ed="T"/>&SD-A652;&SD-A446;&SD-E0AB;&SD-A648;&SD-A557;&SD-A564;&SD-A458;&SD-A561;&SD-A56F;&SD-A570;&SD-A6AE;&SD-A5EB;&SD-A56F;&SD-E2E7;
+<lb n="0113b17" ed="T"/>&SD-A5A9;&SD-A440;&SD-A5E5;&SD-A8E2;&SD-A56F;&SD-E2E7;&SD-A5B3;&SD-AABC;&SD-A947;&SD-A56F;&SD-A5F1;&SD-A5E5;&SD-A5A9;&SD-B065;
+<lb n="0113b18" ed="T"/>&SD-A6A9;&SD-A67C;&SD-D9FA;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-A5E5;&SD-A6A9;&SD-A67C;&SD-D9FA;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-A67C;
+<lb n="0113b19" ed="T"/>&SD-D9FA;&SD-A5F9;&SD-A45E;&SD-E0AB;&SD-A5FD;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-A5AB;&SD-A5FD;&SD-A44A;&SD-A4DA;&SD-A5F1;&SD-B065;
+<lb n="0113b20" ed="T"/>&SD-A6A9;&SD-A656;&SD-A5FE;&SD-A6A8;&SD-E043;&SD-A44D;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-A5E5;&SD-A6A9;&SD-A56F;&SD-A5FD;&SD-E160;
+<lb n="0113b21" ed="T"/>&SD-A6A8;&SD-E043;&SD-A44C;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-A67C;&SD-D9F9;&SD-A658;&SD-E059;&SD-A57B;&SD-A5FD;&SD-A5F1;&SD-B065;
+<lb n="0113b22" ed="T"/>&SD-A6A9;&SD-A5B5;&SD-DAAF;&SD-A6A8;&SD-CDA9;&SD-A5F1;&SD-B065;&SD-A6A9;<app><lem resp="CBETA.say" wit="【CBETA】" cf1="T20n1061_p0112c15">&lac;</lem><rdg wit="【大】">&SD-A6A9;</rdg></app>&SD-CBA7;&SD-E244;&SD-A67A;&SD-B6EC;&SD-CBA7;
+<lb n="0113b23" ed="T"/>&SD-A7FB;&SD-A5F1;&SD-A75D;&SD-A5B5;&SD-A658;&SD-A557;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-A5E5;&SD-A6A9;&SD-A64A;&SD-A444;&SD-A4DA;
+<lb n="0113b24" ed="T"/>&SD-A57B;&SD-A5FE;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-A47C;&SD-A947;&SD-A5F5;&SD-A57B;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-A662;&SD-C96F;
+<lb n="0113b25" ed="T"/>&SD-A662;&SD-E4BA;&SD-A5AB;&SD-A5D5;&SD-D9F9;&SD-A5AA;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-A5E5;&SD-A5E5;&SD-CC70;&SD-CA6E;&SD-A658;
+<lb n="0113b26" ed="T"/>&SD-A66E;&SD-CDB7;&SD-A557;&SD-CBA7;&SD-E244;&SD-A4B8;&SD-A5AA;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-A8BF;&SD-A96B;&SD-A47C;&SD-A5E5;
+<lb n="0113b27" ed="T"/>&SD-A5AB;&SD-A656;&SD-A67A;&SD-A5AA;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-A652;&SD-A446;&SD-E0AB;&SD-A5FE;&SD-A5F1;&SD-B065;&SD-A6A9;
+<lb n="0113b28" ed="T"/>&SD-A67A;&SD-B7A3;&SD-A67C;&SD-D9FC;&SD-E0AB;&SD-A5FD;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-A5A9;&SD-A5ED;&SD-A5D9;&SD-A458;&SD-A656;
+<lb n="0113b29" ed="T"/>&SD-A55D;&SD-CFC6;&SD-B76A;&SD-A656;&SD-A652;&SD-A442;&SD-A55D;&SD-E0AB;&SD-A5FE;&SD-A5F1;&SD-A5D5;&SD-A57D;&SD-A67A;&SD-AF5A;
+<pb n="0113c" id="T20.1061.0113c" ed="T"/>
+<lb n="0113c01" ed="T"/>&SD-A5F1;&SD-A5E5;&SD-A6A9;&SD-A67A;&SD-AF5A;&SD-A5F1;&SD-A5E5;&SD-A6A9;&SD-A441;<app><lem resp="CBETA.say" wit="【CBETA】" cf1="T20n1061_p0113a19" cf2="T20n1061_p0113a04">&SD-A642;</lem><rdg wit="【大】">&SD-A646;</rdg></app>&SD-A54D;&SD-A441;&SD-A5F1;&SD-A67C;
+<lb n="0113c02" ed="T"/>&SD-E059;&SD-E148;&SD-A5EB;&SD-A656;&SD-E0F5;&SD-A5B5;&SD-A570;&SD-A5F1;&SD-B065;&SD-A6A9;</p></div1>
+</body></text></TEI.2>

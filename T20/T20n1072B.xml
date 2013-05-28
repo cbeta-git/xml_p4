@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "T20n1072B.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1072B 馬頭觀音心陀羅尼</title>
+			<author></author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.9 $ (Big5)<date>$Date: 2009/04/23 08:01:18 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:01:18 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 20, No. 1072B &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language id="san-sd">Sanskrit-Siddam</language>
+			<language id="eng">English</language>
+			<language id="chi">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+	<change>
+		<date>20000124/11:15:05</date>
+		<respStmt><name>CW</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT (00/01/24)</item>
+	</change>
+<!--
+$Log: T20n1072B.xml,v $
+Revision 1.9  2009/04/23 08:01:18  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.8  2006/04/12 21:55:41  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.6  2006/03/25 10:22:55  saywhat
+p0170a29 SD-A65A=>SD-E3AD, SD-AF71=>SD-D9F9
+
+Revision 1.5  2004/12/22 06:50:01  saywhat
+SD-A65E => SD-A5D5
+
+Revision 1.4  2004/10/21 08:20:03  saywhat
+段落前加入圈點
+
+Revision 1.3  2004/09/10 03:39:04  saywhat
+刪除空的 juan close
+
+Revision 1.2  2004/04/20 08:38:53  maha
+「版本日期」標記修訂
+
+Revision 1.1.1.1  2003/05/05 04:09:19  ray
+recover cvs
+
+Revision 1.18  2002/12/05 05:20:19  saywhat
+校勘插入處理
+
+Revision 1.17  2002/11/04 10:45:30  ray
+tei.2 => TEI.2
+
+Revision 1.16  2002/07/29 09:56:40  vinking
+modified lang
+
+Revision 1.15  2002/04/08 09:05:43  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.14  2001/11/05 06:13:38  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.13  2001/07/24 06:53:04  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.12  2001/03/25 09:15:21  ray
+add <milestone>
+
+Revision 1.11  2001/02/07 06:55:38  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.10  2001/02/03 07:45:35  chris
+Added keywords $Revision: 1.9 $, $Date: 2009/04/23 08:01:18 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0170a10" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0170a11" ed="T"/>
+<lb n="0170a12" ed="T"/>
+<lb n="0170a13" ed="T"/><head type="no">No. 1072B</head>
+<lb n="0170a14" ed="T"/><juan n="001" fun="open"><mulu n="001" type="卷"/><note n="0170004" resp="Taisho" place="foot text" type="orig">【原】東寺三密藏古寫本</note><jhead>馬頭觀音心陀羅尼</jhead></juan>
+<lb n="0170a15" ed="T"/><div1 type="dharani"><p lang="san-sd" id="pT20p0170a1501" type="dharani">&SD-D5B5;&SD-A5A9;&SD-A5ED;&SD-A5FD;&SD-B448;&SD-AA5E;&SD-A5F1;&SD-A5F1;&SD-D7C4;&SD-A5A9;&SD-A5F0;&SD-CFC6;&SD-B76A;&SD-A656;&SD-A652;
+<lb n="0170a16" ed="T"/>&SD-A442;&SD-A55D;&SD-E0AB;&SD-A5FE;&SD-A5F1;&SD-D7C4;&SD-A5D5;&SD-A57D;&SD-A67A;&SD-AF59;&SD-A5F1;&SD-D7C4;&SD-A5E5;&SD-A6A9;&SD-A67A;
+<lb n="0170a17" ed="T"/>&SD-AF5A;&SD-A5F1;&SD-D7C4;&SD-A5E5;&SD-A6A9;&SD-A441;&SD-A642;&SD-A54D;&SD-A441;&SD-A5F1;&SD-D7C4;&SD-CFCF;&SD-A8A2;&SD-A5A9;&SD-A5E5;
+<lb n="0170a18" ed="T"/>&SD-E0CE;&SD-AF5A;&SD-D7C4;&SD-E1F2;&SD-A579;&SD-A5E6;&SD-B76A;&SD-A656;&SD-A652;&SD-A442;&SD-A55D;&SD-E0AB;&SD-A5FD;&SD-D7C4;&SD-E043;
+<lb n="0170a19" ed="T"/>&SD-A66A;&SD-C97D;&SD-CA48;&SD-A6A8;&SD-A5F1;&SD-A962;&SD-A656;&SD-CC68;&SD-A56F;&SD-A5F1;　&SD-A5ED;&SD-A656;&SD-CA60;&SD-A5F3;
+<lb n="0170a20" ed="T"/>&SD-A855;&SD-A5E7;&SD-D5B4;&SD-CFCF;&SD-E0AF;&SD-A6AA;&SD-A5E5;&SD-A6A9;&SD-D7C4;&SD-A656;&SD-A9BD;&SD-D957;&SD-A656;&SD-A9BD;&SD-A5A9;
+<lb n="0170a21" ed="T"/>&SD-A44C;&SD-D5B4;&SD-A656;&SD-A9BE;&SD-A646;&SD-A5E5;&SD-D7C4;&SD-A656;&SD-A9BD;&SD-A446;&SD-A662;&SD-D7C4;&SD-A656;&SD-A9BD;&SD-E1F5;
+<lb n="0170a22" ed="T"/>&SD-A5FD;&SD-D957;&SD-A656;&SD-A9BD;&SD-A579;&SD-E1D2;&SD-D7C4;&SD-A6A8;&SD-A5A9;&SD-D957;&SD-D7C4;&SD-A56F;&SD-A6A8;&SD-D957;&SD-D7C4;
+<lb n="0170a23" ed="T"/>&SD-A5B5;&SD-A47C;&SD-D957;&SD-D7C4;&SD-A458;&SD-E052;&SD-D957;&SD-D7C4;&SD-A656;&SD-AFAB;&SD-D957;&SD-D7C4;&SD-A5FD;&SD-CCAB;&SD-D957;
+<lb n="0170a24" ed="T"/>&SD-D7C4;&SD-A6A8;&SD-A67A;&SD-D957;&SD-A4B6;&SD-B27A;&SD-D957;&SD-D7C4;&SD-A4CE;&SD-A9E1;&SD-D957;&SD-E0C1;&SD-A5A9;&SD-D957;&SD-A658;
+<lb n="0170a25" ed="T"/>&SD-E0C1;&SD-A5A9;&SD-D957;&SD-A5E5;&SD-A564;&SD-D957;&SD-A440;&SD-A8A6;&SD-D957;&SD-A440;&SD-A5C1;&SD-D957;&SD-A67A;&SD-B7A3;&SD-A575;
+<lb n="0170a26" ed="T"/>&SD-E2BE;&SD-A67A;&SD-B7A3;&SD-A5AA;&SD-E072;&SD-A67A;&SD-B7A3;&SD-A5F1;&SD-E0DA;&SD-D7C4;&SD-A67A;&SD-B7A3;&SD-A658;&SD-A6AA;&SD-A6AE;
+<lb n="0170a27" ed="T"/>&SD-A4E6;&SD-E0BE;&SD-D7C4;&SD-A67A;&SD-B7A3;&SD-A658;&SD-E25A;&SD-AABC;&SD-A658;&SD-A662;&SD-D957;&SD-D7C4;&SD-A6A8;&SD-A5F1;&SD-A962;
+<lb n="0170a28" ed="T"/>&SD-A656;&SD-A658;&SD-A66E;&SD-AB6B;&SD-A5F1;&SD-D7C4;&SD-AABC;&SD-AEB8;&SD-A64A;&SD-D957;&SD-CFC6;&SD-A658;&SD-A662;&SD-D957;&SD-A658;
+<lb n="0170a29" ed="T"/>&SD-A662;&SD-A656;&SD-A9BD;&SD-E1F5;&SD-A5FD;&SD-A5E5;&SD-A658;&SD-A654;&SD-D7C4;&SD-E3AD;&SD-D9F9;&SD-A57B;&SD-E1BA;&SD-A6A6;&SD-A464;
+<pb n="0170b" id="T20.1072B.0170b" ed="T"/>
+<lb n="0170b01" ed="T"/>&SD-A656;&SD-A47C;&SD-A5A9;&SD-D7C4;&SD-A5E5;&SD-A5AD;&SD-B2CC;&SD-A5FD;&SD-A4B6;&SD-A559;&SD-A5E5;&SD-A5AD;&SD-B2CC;&SD-A5FD;&SD-CC68;
+<lb n="0170b02" ed="T"/>&SD-A56F;&SD-A5F1;&SD-D7C4;&SD-A5E5;&SD-A5AD;&SD-B2CC;&SD-A5FD;&SD-A658;&SD-A443;&SD-A5FD;&SD-D7C4;&SD-A458;&SD-B5ED;&SD-D957;&SD-A5A9;
+<lb n="0170b03" ed="T"/>&SD-E1E4;&SD-D957;&SD-A5E5;&SD-A56F;&SD-A45C;&SD-E245;&SD-D957;&SD-A658;&SD-A5AB;&SD-A6A8;&SD-A5A9;&SD-A6A8;&SD-A5A9;&SD-DA74;&SD-DA74;
+<lb n="0170b04" ed="T"/>&SD-A5C1;&SD-A4DA;&SD-A5C1;&SD-E046;&SD-B065;&SD-A6A9;&SD-D5B4;</p></div1>
+<lb n="0170b05" ed="T"/><div1 type="W"><p id="pT20p0170b0501">以隆　僧都本書寫之件本大師御筆<note place="inline">云云</note>
+<lb n="0170b06" ed="T"/>後日以般若寺僧正御手跡本比交以朱付
+<lb n="0170b07" ed="T"/>點本也。</p></div1>
+</body></text></TEI.2>

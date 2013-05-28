@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "T21n1415.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1415 大金剛妙高山樓閣陀羅尼</title>
+			<author>宋 施護譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.9 $ (Big5)<date>$Date: 2009/04/23 08:01:49 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:01:49 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 21, No. 1415 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language id="eng">English</language>
+			<language id="chi">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+	<change>
+		<date>20000131/09:31:55</date>
+		<respStmt><name>CW</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT (00/01/05)</item>
+	</change>
+<!--
+$Log: T21n1415.xml,v $
+Revision 1.9  2009/04/23 08:01:49  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.8  2006/04/12 21:56:04  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.6  2004/04/20 08:39:20  maha
+「版本日期」標記修訂
+
+Revision 1.5  2003/06/26 02:53:20  saywhat
+<corr>→<app>
+
+Revision 1.4  2003/06/23 06:16:52  saywhat
+[＊]校勘插入XML
+
+Revision 1.3  2003/05/26 11:39:21  saywhat
+【宋】【元】【明】＊改成【宋】＊【元】＊【明】＊
+
+Revision 1.2  2003/05/21 05:44:38  saywhat
+modified star
+
+Revision 1.1.1.1  2003/05/05 04:09:34  ray
+recover cvs
+
+Revision 1.14  2002/11/28 10:06:47  saywhat
+校勘插入處理
+
+Revision 1.13  2002/11/04 10:46:18  ray
+tei.2 => TEI.2
+
+Revision 1.12  2002/10/07 13:13:07  moved
+modified
+
+Revision 1.11  2002/07/29 09:57:27  vinking
+modified lang
+
+Revision 1.10  2002/04/08 09:07:20  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.9  2001/11/05 06:14:38  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.8  2001/07/24 06:54:02  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.7  2001/03/30 05:57:54  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.6  2001/03/25 09:18:47  ray
+add <milestone>
+
+Revision 1.5  2001/02/07 06:58:32  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.4  2001/02/03 07:48:22  chris
+Added keywords $Revision: 1.9 $, $Date: 2009/04/23 08:01:49 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0928c06" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0928c07" ed="T"/>
+<lb n="0928c08" ed="T"/><head type="no">No. 1415</head><div1 type="dharani">
+<lb n="0928c09" ed="T"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><note n="0928011" resp="Taisho" place="foot text" type="orig">【原】麗本</note>大金剛妙高山樓閣陀羅尼</jhead></juan>
+<lb n="0928c10" ed="T"/>
+<lb n="0928c11" ed="T"/><byline type="Translator"><note n="0928012" resp="Taisho" place="foot text" type="orig">（（西天…臣））二十字＝（（三藏法師））四字【宋】【元】，（（宋西天三藏朝散大夫試鴻臚少卿傳教大師））十八字【明】</note><note n="0928012" resp="CBETA" type="mod">（（西天…臣））二十字＝（（三藏法師））四字【宋】【元】，＝（（宋西天三藏朝散大夫試鴻臚少卿傳教大師））十八字【明】</note><app word-count="20" n="0928012"><lem wit="【大】">西天譯經三藏朝散大夫試鴻臚少卿
+<lb n="0928c12" ed="T"/>傳法大師臣</lem><rdg resp="Taisho" wit="【宋】【元】">三藏法師</rdg><rdg resp="Taisho" wit="【明】">宋西天三藏朝散大夫試鴻臚少卿傳教大師</rdg></app>施護奉　詔譯</byline>
+<lb n="0928c13" ed="T"/><p id="pT21p0928c1301" type="dharani">曩謨<note place="inline">引</note>囉怛曩<note place="inline">二合</note>怛囉<note place="inline">二合</note>夜<note place="inline">引</note>野曩麼薩哩
+<lb n="0928c14" ed="T"/>&CB00085;<note place="inline">二合</note>沒馱&CB00155;地薩怛吠<note place="inline">二合引</note>毘藥<note place="inline">二合</note>阿他<note place="inline">引</note>
+<lb n="0928c15" ed="T"/>堵<note place="inline">引</note>&CB00085;日囉<note place="inline">二合</note>骨嚕<note place="inline">二合</note>馱尾也<note place="inline">二合</note>契也<note place="inline">二合</note>
+<lb n="0928c16" ed="T"/>寫弭曩謨<note place="inline">引</note>沒馱<note place="inline">引</note>野曩謨<note place="inline">引</note>達麼野曩麼僧
+<lb n="0928c17" ed="T"/>伽<note place="inline">引</note>野曩麼薩&CB00425;哆<note place="inline">二合</note>毘藥<note place="inline">二合</note>三藐三沒
+<lb n="0928c18" ed="T"/><note n="0928013" resp="Taisho" place="foot text" type="orig">弟＝第【三】＊</note><note n="0928013" resp="CBETA" type="mod">弟＝第【宋】＊【元】＊【明】＊</note><app n="0928013"><lem wit="【大】">弟</lem><rdg resp="Taisho" wit="【宋】【元】【明】">第</rdg></app><note place="inline">引</note>毘藥<note place="inline">二合</note>娑室囉<note place="inline">二合<note n="0928014" resp="Taisho" place="foot text" type="orig">〔引〕－【三】＊</note><note n="0928014" resp="CBETA" type="mod">〔引〕－【宋】＊【元】＊【明】＊</note><app n="0928014"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【宋】【元】【明】">&lac;</rdg></app></note>&CB00085;迦&CB00155;<note place="inline">引</note>地薩怛
+<lb n="0928c19" ed="T"/><note n="0928015" resp="Taisho" place="foot text" type="orig">&CB00085;＝囉【元】【明】</note><app n="0928015"><lem wit="【大】">&CB00085;</lem><rdg resp="Taisho" wit="【元】【明】">囉</rdg></app><note place="inline">二合</note>僧契<note place="inline">引</note>毘藥<note place="inline">二合</note>曩麼室戰<note place="inline">二合</note>拏&CB00085;日
+<lb n="0928c20" ed="T"/>囉<note place="inline">二合</note>播<note place="inline">引</note>拏曳<note place="inline">引</note>摩賀<note place="inline">引</note>藥乞叉<note place="inline">二合</note>細<note place="inline">引</note>曩<note place="inline">引</note>
+<lb n="0928c21" ed="T"/>地&CB00425;哆曳<note place="inline">引</note>曩謨<note place="inline">引</note>&CB00085;日覽<note place="inline">二合</note>俱舍尾&CB00135;也
+<lb n="0928c22" ed="T"/><note place="inline">二合</note>囉<note place="inline">引</note>惹<note place="inline">引</note>野曩謨<note place="inline">引</note>&CB00085;<note n="0928016" resp="Taisho" place="foot text" type="orig">〔日〕－【宋】＊</note><app n="0928016"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【宋】">&lac;</rdg></app>囉<note place="inline">二合</note>商迦羅<note place="inline">引</note>
+<lb n="0928c23" ed="T"/>野曩謨<note place="inline">引</note>&CB00085;<app source="0928016" type="＊"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【宋】">&lac;</rdg></app>囉<note place="inline">二合</note>娑曩<note place="inline">引</note>野曩謨<note place="inline">引</note>&CB00085;<app source="0928016" type="＊"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【宋】">&lac;</rdg></app>
+<lb n="0928c24" ed="T"/>囉<note place="inline">二合</note>吠<note place="inline">引</note>&CB00344;<note place="inline">引</note>野曩謨<note place="inline">引</note>&CB00085;<app source="0928016" type="＊"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【宋】">&lac;</rdg></app>囉<note place="inline">二合</note>難拏<note place="inline">引</note>
+<lb n="0928c25" ed="T"/>野曩謨<note place="inline">引</note>&CB00085;<app source="0928016" type="＊"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【宋】">&lac;</rdg></app>囉<note place="inline">二合</note>囉訖旦<note place="inline">二合</note>&CB00344;野曩謨<note place="inline">引</note>
+<lb n="0928c26" ed="T"/>摩賀<note place="inline">引</note>未羅野曩謨<note place="inline">引</note>&CB00085;<app source="0928016" type="＊"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【宋】">&lac;</rdg></app>囉<note place="inline">二合</note>尾捺囉
+<lb n="0928c27" ed="T"/><note place="inline">二合引</note>播拏<note place="inline">引</note>野曩謨<note place="inline">引</note>捺囉<note place="inline">二合</note>尾拏野曩謨<note place="inline">引</note>
+<lb n="0928c28" ed="T"/>&CB00085;<app source="0928016" type="＊"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【宋】">&lac;</rdg></app>囉<note place="inline">二合</note>枳&CB00619;枳羅<note place="inline">引</note>野曩謨<note place="inline">引</note>&CB00085;<app source="0928016" type="＊"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【宋】">&lac;</rdg></app>囉
+<lb n="0928c29" ed="T"/><note place="inline">二合</note>麼羅<note place="inline">引</note>野曩謨<note place="inline">引</note>&CB00085;<app source="0928016" type="＊"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【宋】">&lac;</rdg></app>囉<note place="inline">二合</note>迦<note place="inline">引</note>羅<note place="inline">引</note>野
+<pb n="0929a" id="T21.1415.0929a" ed="T"/>
+<lb n="0929a01" ed="T"/>曩謨<note place="inline">引</note>&CB00085;日囉<note place="inline">二合</note>護哆<note place="inline">引</note>娑曩野曩謨<note place="inline">引</note>&CB00085;
+<lb n="0929a02" ed="T"/><app source="0928016" type="＊"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【宋】">&lac;</rdg></app>囉<note place="inline">二合</note>室凌<note place="inline">二合</note>佉羅野曩謨<note place="inline">引</note>酥悉<app source="0928013" type="＊"><lem wit="【大】">弟</lem><rdg resp="Taisho" wit="【宋】【元】【明】">第</rdg></app>迦
+<lb n="0929a03" ed="T"/>囉<note place="inline">引</note>野尾&CB00135;也<note place="inline">二合</note>囉<note place="inline">引</note>惹<note place="inline">引</note>野曩謨<note place="inline">引</note>阿波囉
+<lb n="0929a04" ed="T"/><note place="inline">引</note>&CB00768;哆野曩麼室戰<note place="inline">二合</note>拏沙瑟致<note place="inline">二合</note>毘喻<note place="inline">二合
+<lb n="0929a05" ed="T"/>引</note>&CB00085;<app source="0928016" type="＊"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【宋】">&lac;</rdg></app>囉<note place="inline">二合</note>捺囉<note place="inline">二合</note>底毘藥<note place="inline">二合</note>曩謨<note place="inline">引</note>&CB00085;
+<lb n="0929a06" ed="T"/><app source="0928016" type="＊"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【宋】">&lac;</rdg></app>囉<note place="inline">二合</note>骨嚕<note place="inline">二合</note><note n="0929001" resp="Taisho" place="foot text" type="orig">弟＝第【元】【明】</note><app n="0929001"><lem wit="【大】">弟</lem><rdg resp="Taisho" wit="【元】【明】">第</rdg></app><note place="inline">引</note>毘藥<note place="inline">二合</note>帝<note place="inline">引</note>衫<note place="inline">引</note>薩
+<lb n="0929a07" ed="T"/>哩吠<note place="inline">二合引</note>衫<note place="inline">引</note>曩麼娑訖哩<note place="inline"><note n="0929002" resp="Taisho" place="foot text" type="orig">三＝二【明】</note><app n="0929002"><lem wit="【大】">三</lem><rdg resp="Taisho" wit="【明】">二</rdg></app>合</note>怛&CB00085;<note place="inline">二合<app source="0928014" type="＊"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【宋】【元】【明】">&lac;</rdg></app></note>布
+<lb n="0929a08" ed="T"/>曩布曩骨嚕<note place="inline">二合</note>馱阿&CB00085;<note place="inline">引</note>賀曳瑟也<note place="inline">二合引</note>彌薩
+<lb n="0929a09" ed="T"/>怛曳<note place="inline">二合</note>怛三摩曳<note place="inline">引</note>曩左怛&CB00135;也<note place="inline">二合</note>他<note place="inline">引</note>酥
+<lb n="0929a10" ed="T"/>嚕酥嚕酥嚕酥嚕喻嚕喻嚕喻嚕賀曩賀曩賀
+<lb n="0929a11" ed="T"/>曩那賀那賀那賀&CB00425;左&CB00425;左&CB00425;左染婆染婆染
+<lb n="0929a12" ed="T"/>婆惹野&CB00085;底&CB00085;<app source="0928016" type="＊"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【宋】">&lac;</rdg></app>囉<note place="inline">二合</note>播<note place="inline">引</note>尼摩賀<note place="inline">引</note>末羅
+<lb n="0929a13" ed="T"/>度左囉骨嚕<note place="inline">二合引</note>馱曩戰拏尾捺囉<note place="inline">二合引</note>波迦怛
+<lb n="0929a14" ed="T"/>囉<note place="inline">二合引</note>娑迦囉乞叉<note place="inline">二合</note>迦扇<note place="inline">引</note>底迦保瑟致<note place="inline">二
+<lb n="0929a15" ed="T"/>合</note>迦染婆曩薩擔<note place="inline">二合</note>婆曩謨<note place="inline">引</note>賀曩素<note place="inline">引</note>沙拏
+<lb n="0929a16" ed="T"/>佉<note place="inline">引</note>軀哩那<note place="inline">二合</note>枳囉拏薩擔<note place="inline">二合</note>婆迦賀<note place="inline">引</note>賀
+<lb n="0929a17" ed="T"/><note place="inline">引</note>婆&CB00344;&CB00680;<note place="inline">引</note>&CB00085;<note n="0929003" resp="Taisho" place="foot text" type="orig">〔日〕－【三】＊</note><note n="0929003" resp="CBETA" type="mod">〔日〕－【宋】＊【元】＊【明】＊</note><app n="0929003"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【宋】【元】【明】">&lac;</rdg></app>囉<note place="inline">二合</note>播<note place="inline">引</note>尼度嚕度嚕祖
+<lb n="0929a18" ed="T"/>嚕祖嚕迦羅迦羅野他<note place="inline">引</note>迦朗婆&CB00344;&CB00680;&CB00085;<app source="0929003" type="＊"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【宋】【元】【明】">&lac;</rdg></app>
+<lb n="0929a19" ed="T"/>囉<note place="inline">二合</note>骨嚕<note place="inline">二合</note>馱摩賀<note place="inline">引</note>末羅呬<note place="inline">引</note>呬<note place="inline">引</note>摩嚕
+<lb n="0929a20" ed="T"/>摩賀<note place="inline">引</note>部<note place="inline">引</note>部<note place="inline">引</note>嚕嚕嚕<note place="inline">引</note>捺囉<note place="inline">二合</note>嚕捺囉<note place="inline">二
+<lb n="0929a21" ed="T"/>合</note>唧&CB00619;唧&CB00619;吽吽&CB00760;吒&CB00760;吒喻巘哆儗&CB00135;<note place="inline">二合</note>
+<lb n="0929a22" ed="T"/>惹&CB00344;怛&CB00680;<note place="inline">二合引</note>怛摩<note place="inline">二合</note>謨<note place="inline">引</note>賀曩迦囉<note place="inline">引</note>野吽
+<lb n="0929a23" ed="T"/>吽&CB00760;吒尾&CB00135;也<note place="inline">二合</note>囉<note place="inline">引</note>惹摩賀<note place="inline">引</note>吒吒賀<note place="inline">引</note>娑
+<lb n="0929a24" ed="T"/><note place="inline">引</note>野吽吽&CB00760;吒能瑟吒囉<note place="inline">三合引</note>迦囉<note place="inline">引</note>拏野吽
+<lb n="0929a25" ed="T"/>吽&CB00760;吒摩賀<note place="inline">引</note>帝<note place="inline">引</note>惹野吽吽&CB00760;吒訖哩<note place="inline">二合</note>瑟
+<lb n="0929a26" ed="T"/>拏<note place="inline">二合</note>唧怛囉<note place="inline">二合</note>賓&CB00344;羅<note place="inline">引</note>野吽吽&CB00760;吒入&CB00085;
+<lb n="0929a27" ed="T"/><note place="inline">二合</note>&CB00619;哆尾娑普<note place="inline">二合</note>凌&CB00344;摩羅<note place="inline">引</note>吒賀<note place="inline">引</note>娑<note place="inline">引</note>
+<lb n="0929a28" ed="T"/>野吽吽&CB00760;吒摩賀<note place="inline">引</note>倍<note n="0929004" resp="Taisho" place="foot text" type="orig">囉＝羅【三】</note><note n="0929004" resp="CBETA" type="mod">囉＝羅【宋】【元】【明】</note><app n="0929004"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【宋】【元】【明】">羅</rdg></app>&CB00085;捫左捫左吒吒
+<lb n="0929a29" ed="T"/>賀<note place="inline">引</note>娑<note place="inline">引</note>野吽吽&CB00760;吒怛哩<note place="inline">二合</note>路<note place="inline">引</note>枳也<note place="inline">二合</note>
+<pb n="0929b" id="T21.1415.0929b" ed="T"/>
+<lb n="0929b01" ed="T"/>婆焰迦囉<note place="inline">引</note>野吽吽&CB00760;吒薩哩&CB00085;<note place="inline">二合</note>部多尾
+<lb n="0929b02" ed="T"/>馱摩曩迦囉<note place="inline">引</note>野吽吽&CB00760;吒呬<note place="inline">引</note>呬<note place="inline">引</note>度嚕度
+<lb n="0929b03" ed="T"/>嚕尾<note place="inline">引</note>尾<note place="inline">引</note>度度弭弭馱<note place="inline">引</note>&CB00085;馱<note place="inline">引</note>&CB00085;&CB00418;嚕&CB00418;嚕
+<lb n="0929b04" ed="T"/>娑摩娑摩劍波劍波枳&CB00619;枳&CB00619;吽吽&CB00760;吒薩普
+<lb n="0929b05" ed="T"/><note place="inline">二合</note>致哆迦摩羅沙吒怛凌<note place="inline">三合</note>設&CB00085;捺曩<note place="inline">引</note>野
+<lb n="0929b06" ed="T"/>吽吽&CB00760;吒摩賀<note place="inline">引</note>&CB00768;賀&CB00085;<note place="inline">二合</note>哆努尾濕&CB00085;<note place="inline">二合</note>
+<lb n="0929b07" ed="T"/>囉<note place="inline">引</note>野吽吽&CB00760;吒頻那頻那吽吽&CB00760;吒滿馱滿
+<lb n="0929b08" ed="T"/>馱吽吽&CB00760;吒<note n="0929005" resp="Taisho" place="foot text" type="orig">&CB00085;＝縛【元】</note><app n="0929005"><lem wit="【大】">&CB00085;</lem><rdg resp="Taisho" wit="【元】">縛</rdg></app><app source="0929003" type="＊"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【宋】【元】【明】">&lac;</rdg></app>囉<note place="inline">二合</note>俱羅三摩野摩努
+<lb n="0929b09" ed="T"/>娑摩<note place="inline">二合</note>囉吽吽&CB00760;吒訥哩難<note place="inline">二合引</note>哆喃<note place="inline">引</note>捺摩
+<lb n="0929b10" ed="T"/>迦<note place="inline">引</note>野吽吽&CB00760;吒左羅左羅吽吽&CB00760;吒護嚕護
+<lb n="0929b11" ed="T"/>嚕吽吽&CB00760;吒薩哩&CB00085;<note place="inline">二合</note>尾近曩<note place="inline">二合</note>尾曩<note place="inline">引</note>野
+<lb n="0929b12" ed="T"/>迦<note place="inline">引</note>喃<note place="inline">引</note>尾曩<note place="inline">引</note>娑摩吽吽&CB00760;吒仡哩<note place="inline">二合</note>恨拏
+<lb n="0929b13" ed="T"/><note place="inline">二合</note>仡哩<note place="inline">二合</note>恨拏<note place="inline">二合</note>吽吽&CB00760;吒吒吒吽吽&CB00760;
+<lb n="0929b14" ed="T"/>吒尾摩那摩賀<note place="inline">引</note>薩怛&CB00085;<note place="inline">二合</note>&CB00085;<app source="0929003" type="＊"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【宋】【元】【明】">&lac;</rdg></app>囉<note place="inline">二合</note>播
+<lb n="0929b15" ed="T"/>尼囉憾涅哩<note place="inline">二合</note>茶野他<note place="inline">引</note>設訖堵<note place="inline">二合引</note>悉婆&CB00344;
+<lb n="0929b16" ed="T"/>&CB00680;<note place="inline">引</note>怛他<note place="inline">引</note>怛&CB00680;<note place="inline">二合</note>&CB00425;囉<note place="inline">二合</note>底必哩<note place="inline">二合</note>搓
+<lb n="0929b17" ed="T"/>護<note place="inline">引</note>曳<note place="inline">引</note>摩摩播也<note place="inline">二合</note>呬哆迦<note place="inline">引</note>摩薩哩&CB00085;<note place="inline">二
+<lb n="0929b18" ed="T"/>合</note>薩怛&CB00085;<note place="inline">二合</note>怛體&CB00085;左伊難&CB00085;<app source="0929003" type="＊"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【宋】【元】【明】">&lac;</rdg></app>囉<note place="inline">二合</note>酥
+<lb n="0929b19" ed="T"/>&CB00085;日哩<note place="inline">二合引</note>拏謨<note place="inline">引</note>左曩<note place="inline">二合</note>旦<note place="inline">引</note>娑頗<note place="inline">二合引</note>羅
+<lb n="0929b20" ed="T"/>曳瑟也<note place="inline">二合引</note>弭帝<note place="inline">引</note>曳<note place="inline">引</note>摩摩薩哩&CB00085;<note place="inline">二合</note>薩怛
+<lb n="0929b21" ed="T"/>吠<note place="inline">二合引</note>毘藥<note place="inline">二合</note>阿呬哆迦謨<note place="inline">引</note>怛寫帝<note place="inline">引</note>吽吽
+<lb n="0929b22" ed="T"/>&CB00760;吒伊難左&CB00085;日&CB00772;<note place="inline">二<app><lem wit="【CBETA】">合</lem><rdg wit="【大】">含</rdg></app></note>酥&CB00085;日哩<note place="inline">二合</note>&CB00085;日囉
+<lb n="0929b23" ed="T"/><note place="inline">二合</note>野娑&CB00085;<note place="inline">二合引</note>賀<note place="inline">引</note>摩賀<note place="inline">引</note>&CB00085;日囉<note place="inline">二合</note>野娑
+<lb n="0929b24" ed="T"/>&CB00085;<note place="inline">二合引</note>賀<note place="inline">引</note>&CB00085;日囉<note place="inline">二合</note>骨嚕<note place="inline">二合引</note>馱野娑&CB00085;<note place="inline">二合引</note>
+<lb n="0929b25" ed="T"/>賀<note place="inline">引</note>&CB00085;日囉<note place="inline">二合</note>散馱<note place="inline">引</note>囉野娑&CB00085;<note place="inline">二合引</note>賀<note place="inline">引</note>&CB00085;
+<lb n="0929b26" ed="T"/><app source="0929003" type="＊"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【宋】【元】【明】">&lac;</rdg></app>囉<note place="inline">二合</note>彌佉<note n="0929006" resp="Taisho" place="foot text" type="orig">羅＝日囉【元】【明】</note><app n="0929006"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【元】【明】">日囉</rdg></app><note place="inline">引</note>野娑&CB00085;<note place="inline">二合引</note>賀<note place="inline">引</note>&CB00085;<app source="0929003" type="＊"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【宋】【元】【明】">&lac;</rdg></app>
+<lb n="0929b27" ed="T"/>囉<note place="inline">二合</note>商迦羅<note place="inline">引</note>野娑&CB00085;<note place="inline">二合引</note>賀<note place="inline">引</note>唧怛囉<note place="inline">二合</note>
+<lb n="0929b28" ed="T"/>賓&CB00344;羅<note place="inline">引</note>野娑&CB00085;<note place="inline">二合引</note>賀<note place="inline">引</note>訖哩<note place="inline">二合</note>瑟拏<note place="inline">二合</note>
+<lb n="0929b29" ed="T"/>健拏<note place="inline">引</note>野娑&CB00085;<note place="inline">二合引</note>賀<note place="inline">引</note>唧怛囉<note place="inline">二合</note>迦<note place="inline">引</note>羅<note n="0929007" resp="Taisho" place="foot text" type="orig">〔引〕－【宋】【元】</note><app n="0929007"><lem wit="【大】"><note place="inline">引</note></lem><rdg resp="Taisho" wit="【宋】【元】">&lac;</rdg></app>
+<pb n="0929c" id="T21.1415.0929c" ed="T"/>
+<lb n="0929c01" ed="T"/>野娑&CB00085;<note place="inline">二合引</note>賀<note place="inline">引</note>呬呬娑&CB00085;<note place="inline">二合引</note>賀<note place="inline">引</note>嚕哆嚕哆
+<lb n="0929c02" ed="T"/>娑&CB00085;<note place="inline">二合引</note>賀<note place="inline">引</note>野他<note place="inline">引</note>&CB00085;<note place="inline">引</note>禰怛他<note place="inline">引</note>迦<note place="inline">引</note>哩<note n="0929008" resp="Taisho" place="foot text" type="orig">娑＝婆【宋】</note><app n="0929008"><lem wit="【大】">娑</lem><rdg resp="Taisho" wit="【宋】">婆</rdg></app>
+<lb n="0929c03" ed="T"/>&CB00085;<note place="inline">二合引</note>賀<note place="inline">引</note>訖哩<note place="inline">二合</note>瑟拏<note place="inline">二合</note>唧怛囉<note place="inline">二合</note>賓&CB00344;
+<lb n="0929c04" ed="T"/>羅<note place="inline">引</note>野娑&CB00085;<note place="inline">二合引</note>賀<note place="inline">引</note>阿儗&CB00135;<note place="inline">二合</note>入&CB00085;<note place="inline">二合</note>羅
+<lb n="0929c05" ed="T"/><note place="inline">引</note>娑涅<note n="0929009" resp="Taisho" place="foot text" type="orig">哩＝里【三】</note><note n="0929009" resp="CBETA" type="mod">哩＝里【宋】【元】【明】</note><app n="0929009"><lem wit="【大】">哩</lem><rdg resp="Taisho" wit="【宋】【元】【明】">里</rdg></app><note place="inline">二合</note>舍禰&CB00425;哆<note place="inline">二合</note>帝<note place="inline">引</note>惹<note place="inline">引</note>野娑&CB00085;
+<lb n="0929c06" ed="T"/><note place="inline">二合引</note>賀<note place="inline">引</note></p>
+<lb n="0929c07" ed="T"/><p id="pT21p0929c0701" type="dharani">禰喻<note place="inline">二合</note>底摩賀<note place="inline">引</note>薩怛&CB00085;<note place="inline">二合引</note>野娑&CB00085;<note place="inline">二合引</note>賀<note place="inline">引</note>
+<lb n="0929c08" ed="T"/>&CB00425;囉<note place="inline">二合</note>底仡哩<note place="inline">二合</note>恨拏<note place="inline">二合</note>三摩野<note place="inline">引</note>野娑
+<lb n="0929c09" ed="T"/>&CB00085;<note place="inline">二合引</note>賀<note place="inline">引</note>布惹<note place="inline">引</note>&CB00085;<app source="0929003" type="＊"><lem wit="【大】">日</lem><rdg resp="Taisho" wit="【宋】【元】【明】">&lac;</rdg></app>囉<note place="inline">二合</note>俱羅<note place="inline">引</note>野娑&CB00085;
+<lb n="0929c10" ed="T"/><note place="inline">二合引</note>賀<note place="inline">引</note>薩哩&CB00085;<note place="inline">二合</note>哆喻<note place="inline">引</note>&CB00425;捺囉<note place="inline">二合</note>吠<note place="inline">引</note>毘
+<lb n="0929c11" ed="T"/>藥<note place="inline">二合</note>娑&CB00085;<note place="inline">二合引</note>賀<note place="inline">引</note>阿囉他<note place="inline">二合</note>迦<note place="inline">引</note>摩哆<note place="inline">引</note>薩
+<lb n="0929c12" ed="T"/>哩吠<note place="inline">二合引</note>摩努<note place="inline">引</note>囉他波哩布囉迦<note place="inline">引</note>婆&CB00085;<note place="inline">引</note>呬
+<lb n="0929c13" ed="T"/>唧&CB00619;唧&CB00619;唧&CB00619;彌&CB00619;彌&CB00619;彌&CB00619;吽吽&CB00760;吒娑
+<lb n="0929c14" ed="T"/>&CB00085;<note place="inline">二合引</note>賀<note place="inline">引</note>阿謨迦娑<note place="inline">引</note>哆羅難底<note n="0929010" resp="Taisho" place="foot text" type="orig">&CB00135;＝他【三】</note><note n="0929010" resp="CBETA" type="mod">&CB00135;＝他【宋】【元】【明】</note><app n="0929010"><lem wit="【大】">&CB00135;</lem><rdg resp="Taisho" wit="【宋】【元】【明】">他</rdg></app>吽吽&CB00760;
+<lb n="0929c15" ed="T"/>吒左&CB00418;哩摩<note place="inline">二合</note>賀<note place="inline">引</note>囉<note place="inline">引</note>惹<note place="inline">引</note>迦曳迦<note place="inline">引</note>喃<note place="inline">引</note>
+<lb n="0929c16" ed="T"/>娑補怛囉<note place="inline">二合</note>捺<note place="inline">引</note>囉迦<note place="inline">引</note>&CB00085;輸滿<note place="inline">引</note>馱末喃<note place="inline">引</note>
+<lb n="0929c17" ed="T"/>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波野吽吽&CB00760;吒尾
+<lb n="0929c18" ed="T"/>捺囉<note place="inline">二合引</note>波野吽吽&CB00760;吒怛哩<note place="inline">二合</note>野悉怛凌<note place="inline">三
+<lb n="0929c19" ed="T"/>合</note>娑<note place="inline">引</note>喃<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波野
+<lb n="0929c20" ed="T"/>吽吽&CB00760;吒設骨嚕<note place="inline">二合引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍
+<lb n="0929c21" ed="T"/>波<note place="inline">引</note>波野吽吽&CB00760;吒彌孕<note place="inline">二合</note>捺囉<note place="inline">二合</note>三婆&CB00085;
+<lb n="0929c22" ed="T"/>喃娑補怛囉<note place="inline">二合</note>捺<note place="inline">引</note>囉迦<note place="inline">引</note>&CB00085;輸沒哩<note place="inline">二合</note>馱
+<lb n="0929c23" ed="T"/>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波野吽
+<lb n="0929c24" ed="T"/>吽&CB00760;吒沒囉<note place="inline">二合引</note>憾摩<note place="inline">二合</note>拏<note place="inline">引</note>喃<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>
+<lb n="0929c25" ed="T"/>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波野吽吽&CB00760;吒夜<note place="inline">引</note>摩<note place="inline">引</note>喃
+<lb n="0929c26" ed="T"/>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波野吽吽&CB00760;吒&CB00418;
+<lb n="0929c27" ed="T"/>史哆<note place="inline">引</note>喃<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波野
+<lb n="0929c28" ed="T"/>吽吽&CB00760;吒&CB00135;哩摩<note place="inline">二合引</note>拏囉底喃<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃
+<lb n="0929c29" ed="T"/><note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波野吽吽&CB00760;吒波哩&CB00135;哩彌
+<pb n="0930a" id="T21.1415.0930a" ed="T"/>
+<lb n="0930a01" ed="T"/><note place="inline">二合</note>哆&CB00085;娑挽底喃<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>娑補怛囉
+<lb n="0930a02" ed="T"/><note place="inline">二合</note>捺<note place="inline">引</note>囉迦<note place="inline">引</note>&CB00085;輸滿馱&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍
+<lb n="0930a03" ed="T"/>波<note place="inline">引</note>波野吽吽&CB00760;吒沒囉<note place="inline">二合</note>憾摩<note place="inline">二合</note>迦<note place="inline">引</note>曳
+<lb n="0930a04" ed="T"/>喃<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波野吽吽&CB00760;
+<lb n="0930a05" ed="T"/>吒沒囉<note place="inline">二合</note>憾摩<note place="inline">二合</note>布嚕<note place="inline">引</note>呬哆<note place="inline">引</note>喃<note place="inline">引</note>禰<note place="inline">引</note>
+<lb n="0930a06" ed="T"/>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波野吽吽&CB00760;吒阿&CB00425;
+<lb n="0930a07" ed="T"/>囉<note place="inline">二合</note>摩<note place="inline">引</note>拏<note place="inline">引</note>婆<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>娑&CB00085;喃劍波
+<lb n="0930a08" ed="T"/><note place="inline">引</note>波野吽吽&CB00760;吒阿婆<note place="inline">引</note></p>
+<lb n="0930a09" ed="T"/><p id="pT21p0930a0901" type="dharani">室左<note place="inline">二合</note>囉<note place="inline">引</note>&CB00718;<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波
+<lb n="0930a10" ed="T"/><note place="inline">引</note>波野吽吽&CB00760;吒&CB00425;底哆輸婆<note place="inline">引</note>喃<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>
+<lb n="0930a11" ed="T"/>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波野吽吽&CB00760;吒阿&CB00425;囉<note place="inline">二合</note>
+<lb n="0930a12" ed="T"/>摩<note place="inline">引</note>拏酥婆<note place="inline">引</note>喃<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波
+<lb n="0930a13" ed="T"/><note place="inline">引</note>波野吽吽&CB00760;吒輸婆訖哩<note place="inline">二合</note>槎哆<note place="inline">二合</note>喃<note place="inline">引</note>
+<lb n="0930a14" ed="T"/>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波野吽吽&CB00760;吒阿
+<lb n="0930a15" ed="T"/>曩婆囉<note place="inline">二合</note>迦<note place="inline">引</note>喃<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍
+<lb n="0930a16" ed="T"/>波<note place="inline">引</note>波野吽吽&CB00760;吒奔尼也<note place="inline">二合</note>&CB00425;囉<note place="inline">二合</note>室囉
+<lb n="0930a17" ed="T"/><note place="inline">二合</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波
+<lb n="0930a18" ed="T"/>野吽吽&CB00760;吒勿哩<note place="inline">二合</note>賀頗羅<note place="inline">引</note>喃<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>
+<lb n="0930a19" ed="T"/>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波野吽吽&CB00760;吒阿勿哩<note place="inline">二合</note>
+<lb n="0930a20" ed="T"/>賀<note place="inline">引</note>&CB00718;<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波野吽
+<lb n="0930a21" ed="T"/>吽&CB00760;吒阿怛播<note place="inline">引</note>喃<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍
+<lb n="0930a22" ed="T"/>波<note place="inline">引</note>波野吽吽&CB00760;吒酥涅哩舍<note place="inline">二合</note>曩<note place="inline">引</note>喃<note place="inline">引</note>禰
+<lb n="0930a23" ed="T"/><note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波野吽吽&CB00760;吒娑<note place="inline">引</note>
+<lb n="0930a24" ed="T"/>哆羅酥涅哩舍<note place="inline">二合</note>曩禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍
+<lb n="0930a25" ed="T"/>波<note place="inline">引</note>波野吽吽&CB00760;吒阿迦&CB00135;瑟吒<note place="inline">二合引</note>喃<note place="inline">引</note>禰<note place="inline">引</note>
+<lb n="0930a26" ed="T"/>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波野吽吽&CB00760;吒阿迦<note place="inline">引</note>
+<lb n="0930a27" ed="T"/>舍喃怛也<note place="inline">二合</note>野哆曩<note place="inline">引</note>喃<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆
+<lb n="0930a28" ed="T"/>&CB00085;喃劍波<note place="inline">引</note>波野吽吽&CB00760;吒尾惹拏<note place="inline">二合</note>曩<note place="inline">引</note>曩
+<lb n="0930a29" ed="T"/>怛也<note place="inline">二合引</note>野哆曩<note place="inline">引</note>喃<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃
+<pb n="0930b" id="T21.1415.0930b" ed="T"/>
+<lb n="0930b01" ed="T"/>劍波<note place="inline">引</note>波野吽吽&CB00760;吒阿緊左怛也<note place="inline">二合</note>野哆
+<lb n="0930b02" ed="T"/>曩<note place="inline">引</note>喃<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波野吽
+<lb n="0930b03" ed="T"/>吽&CB00760;吒乃<note place="inline">引</note>&CB00085;僧惹拏<note place="inline">二合</note>曩<note place="inline">引</note>僧惹拏<note place="inline">二合</note>野
+<lb n="0930b04" ed="T"/>哆曩<note place="inline">引</note>喃<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波野
+<lb n="0930b05" ed="T"/>吽吽&CB00760;吒麼<note place="inline">引</note>囉寫播<note place="inline">引</note>閉喃<note place="inline">引</note>娑補怛囉<note place="inline">二合</note>
+<lb n="0930b06" ed="T"/>波哩&CB00085;<note place="inline">引</note>哩<note place="inline">引</note>拏禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>
+<lb n="0930b07" ed="T"/>波野吽吽&CB00760;吒阿曩&CB00085;怛&CB00425;哆<note place="inline">二合</note>寫曩<note place="inline">引</note>&CB00344;
+<lb n="0930b08" ed="T"/>囉<note place="inline">引</note></p>
+<lb n="0930b09" ed="T"/><p id="pT21p0930b0901" type="dharani">惹<note place="inline">引</note>寫禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波野吽吽
+<lb n="0930b10" ed="T"/>&CB00760;吒摩賀<note place="inline">引</note>三母捺囉<note place="inline">二合</note>&CB00135;&CB00085;<note place="inline">引</note>細&CB00135;喃<note place="inline">引</note>左
+<lb n="0930b11" ed="T"/>&CB00418;哩婆<note place="inline">二合</note>儗&CB00135;喃<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍
+<lb n="0930b12" ed="T"/>波波野吽吽&CB00760;吒阿地目訖哆<note place="inline">二合</note>迦<note place="inline">引</note>舍摩
+<lb n="0930b13" ed="T"/><note place="inline">二合</note>舍<note place="inline">引</note>曩&CB00085;<note place="inline">引</note>細曩寫摩賀<note place="inline">引</note>迦<note place="inline">引</note>羅寫禰<note place="inline">引</note>
+<lb n="0930b14" ed="T"/>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波野吽吽&CB00760;吒俱胝
+<lb n="0930b15" ed="T"/>&CB00085;哩沙<note place="inline">二合</note>&CB00135;&CB00085;<note place="inline">引</note>細&CB00135;喃<note place="inline">引</note>麼<note place="inline">引</note>怛哩<note place="inline">二合</note>&CB00344;
+<lb n="0930b16" ed="T"/>拏寫禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波野吽吽&CB00760;
+<lb n="0930b17" ed="T"/>吒娑<note place="inline">引</note>呬迦酥怛寫摩賀<note place="inline">引</note>賽&CB00135;也<note place="inline">二合</note>&CB00425;底喃
+<lb n="0930b18" ed="T"/><note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波野吽吽&CB00760;吒
+<lb n="0930b19" ed="T"/>阿瑟吒<note place="inline">二合</note>尾孕<note place="inline">二合</note>設底喃<note place="inline">引</note>摩賀<note place="inline">引</note>藥乞叉
+<lb n="0930b20" ed="T"/><note place="inline">二合</note>細<note place="inline">引</note>曩<note place="inline">引</note>&CB00425;底喃<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃
+<lb n="0930b21" ed="T"/>劍波<note place="inline">引</note>波野吽吽&CB00760;吒阿細底曩<note place="inline">引</note>喃<note place="inline">引</note>&CB00344;娑
+<lb n="0930b22" ed="T"/>賀娑囉<note place="inline">二合</note>&CB00718;<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>
+<lb n="0930b23" ed="T"/>波野吽吽&CB00760;吒尾瑟尼所<note place="inline">切此切聲字與上瑟字二合用</note>摩呬<note place="inline">引</note>
+<lb n="0930b24" ed="T"/>濕&CB00085;<note place="inline">二合</note>囉寫野補怛囉<note place="inline">二合</note>波哩&CB00085;<note place="inline">引</note>囉寫禰
+<lb n="0930b25" ed="T"/><note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>波野吽吽&CB00760;吒玉呬
+<lb n="0930b26" ed="T"/>也<note place="inline">二合</note>迦<note place="inline">引</note>喃<note place="inline">引</note>禰<note place="inline">引</note>&CB00085;<note place="inline">引</note>喃<note place="inline">引</note>婆&CB00085;喃劍波<note place="inline">引</note>
+<lb n="0930b27" ed="T"/>波野吽吽&CB00760;吒部<note place="inline">引</note>部<note place="inline">引</note>玉呬也<note place="inline">二合</note>迦緊底瑟
+<lb n="0930b28" ed="T"/>吒<note place="inline">二合</note>細<note place="inline">引</note>捫左<note place="inline">引</note>吒賀<note place="inline">引</note>三尸伽&CB00772;<note place="inline">二合</note>捫左
+<lb n="0930b29" ed="T"/>捺哩舍<note place="inline">二合</note>焰野他<note place="inline">引</note>末凌吽吽&CB00760;吒部<note place="inline">引</note>部<note place="inline">引</note>
+<pb n="0930c" id="T21.1415.0930c" ed="T"/>
+<lb n="0930c01" ed="T"/>骨嚕<note place="inline">二合引</note>馱薩哩&CB00085;<note place="inline">二合</note>沒馱<note place="inline">引</note>努惹拏<note place="inline">二合</note>哆
+<lb n="0930c02" ed="T"/>阿進怛也<note place="inline">二合</note>末羅波囉<note place="inline">引</note>訖囉<note place="inline">二合</note>摩阿迦哩
+<lb n="0930c03" ed="T"/>沙<note place="inline">二合</note>野阿迦哩沙<note place="inline">二合</note>野尸伽&CB00772;<note place="inline">二合</note>尸伽&CB00772;
+<lb n="0930c04" ed="T"/><note place="inline">二合</note>薩哩&CB00085;<note place="inline">二合</note>禰<note place="inline">引</note>&CB00085;曩<note place="inline">引</note>&CB00344;夜乞叉<note place="inline">二合</note>囉
+<lb n="0930c05" ed="T"/><note place="inline">引</note>乞<note n="0930001" resp="Taisho" place="foot text" type="orig">叉＝入【元】【明】</note><app n="0930001"><lem wit="【大】">叉</lem><rdg resp="Taisho" wit="【元】【明】">入</rdg></app><note place="inline">二合</note>娑巘馱哩&CB00085;<note place="inline">二合引</note>酥囉&CB00344;嚕拏緊
+<lb n="0930c06" ed="T"/>曩囉摩護<note place="inline">引</note>羅&CB00344;供畔<note place="inline">引</note>拏毘舍左阿波娑摩
+<lb n="0930c07" ed="T"/><note place="inline">二合引</note>嚕<note place="inline">引</note>怛摩<note place="inline">二合引</note>捺布怛曩羯吒布怛曩<note place="inline">引</note>禰
+<lb n="0930c08" ed="T"/>孕<note place="inline">二合</note>曩<note place="inline">引</note>設野曩<note place="inline">引</note>設野囉乞叉<note place="inline">二合</note>囉乞叉
+<lb n="0930c09" ed="T"/><note place="inline">二合</note>摩摩吽吽&CB00760;吒薩哩&CB00085;<note place="inline">二合</note>設&CB00418;嚕<note place="inline">二合</note>&CB00718;
+<lb n="0930c10" ed="T"/><note place="inline">引</note>訖囉<note place="inline">二合</note>摩尾訖囉<note place="inline">二合</note>摩尾特&CB00680;<note place="inline">二合</note>舍野
+<lb n="0930c11" ed="T"/>吽吽&CB00760;吒&CB00760;吒阿謨劍曩<note place="inline">引</note>舍野吽吽&CB00760;吒&CB00768;
+<lb n="0930c12" ed="T"/>尾旦曩<note place="inline">引</note>舍野吽吽&CB00760;吒阿謨劍尾捺囉<note place="inline">二合引</note>
+<lb n="0930c13" ed="T"/>波野吽吽&CB00760;吒囉乞叉<note place="inline">二合</note>囉乞叉<note place="inline">二合</note>摩摩寫
+<lb n="0930c14" ed="T"/>薩哩吠<note place="inline">二合</note>毘喻<note place="inline">二合引</note>&CB00425;捺囉<note place="inline">二合</note>&CB00155;<note place="inline">引</note>波娑哩
+<lb n="0930c15" ed="T"/>詣<note place="inline">二合引</note>毘藥<note place="inline">二合</note>吽吽&CB00760;吒禰<note place="inline">引</note>&CB00085;仡囉<note place="inline">二合</note>賀
+<lb n="0930c16" ed="T"/>曩<note place="inline">引</note>&CB00344;仡囉<note place="inline">二合</note>賀藥乞叉<note place="inline">二合</note>仡囉<note place="inline">二合</note>賀囉
+<lb n="0930c17" ed="T"/><note place="inline">引</note>乞叉<note place="inline">二合</note>娑仡囉<note place="inline">二合</note>賀必哩<note place="inline">二合引</note>哆仡囉<note place="inline">二合</note>
+<lb n="0930c18" ed="T"/>賀毘舍左仡囉<note place="inline">二合</note>賀薩哩&CB00085;<note place="inline">二合</note>仡囉<note place="inline">二合</note>呬
+<lb n="0930c19" ed="T"/><note place="inline">引</note>毘藥<note place="inline">二合</note>吽吽&CB00760;吒入&CB00085;<note place="inline">二合</note>囉<note place="inline">引</note>噎迦<note place="inline">引</note>呬
+<lb n="0930c20" ed="T"/>迦<note place="inline">引</note>禰尾<note place="inline">二合</note>底野迦<note place="inline">引</note>怛哩<note place="inline">二合引</note>底野迦<note place="inline">引</note>左
+<lb n="0930c21" ed="T"/>&CB00418;哩他<note place="inline">二合</note>迦薩哩&CB00085;<note place="inline">二合</note>入&CB00085;<note place="inline">二合</note>囉<note place="inline">引</note>尾沙
+<lb n="0930c22" ed="T"/>摩入&CB00085;<note place="inline">二合</note>囉<note place="inline">引</note>吽吽&CB00760;吒末馱滿馱曩哆<note place="inline">引</note>拏
+<lb n="0930c23" ed="T"/>曩哆哩惹<note place="inline">二合</note>曩&CB00425;囉<note place="inline">二合</note>賀囉拏薩哩吠<note place="inline">二合</note>
+<lb n="0930c24" ed="T"/>毘喻<note place="inline">二合引</note>&CB00425;捺囉<note place="inline">二合</note>吠毘藥<note place="inline">二合</note>薩哩&CB00085;<note place="inline">二合</note>
+<lb n="0930c25" ed="T"/>嚕<note place="inline">引</note>&CB00344;摩<note place="inline">引</note>囉努哩鼻<note place="inline">二合</note>乞叉<note place="inline">二合</note>建<note place="inline">引</note>哆<note place="inline">引</note>
+<lb n="0930c26" ed="T"/>哩<note place="inline">引</note>毘藥<note place="inline">二合</note>吽吽&CB00760;吒謨<note place="inline">引</note>賀野謨<note place="inline">引</note>賀野波
+<lb n="0930c27" ed="T"/>囉作羯囉<note place="inline">二合</note>賽&CB00135;焰<note place="inline">二合</note>吽吽&CB00760;吒薩哩&CB00085;
+<lb n="0930c28" ed="T"/><note place="inline">二合</note>迦&CB00619;迦羅賀畔拏曩尾仡囉<note place="inline">二合</note>賀尾&CB00085;<note place="inline">引</note>
+<lb n="0930c29" ed="T"/>禰<note place="inline">引</note>毘藥<note place="inline">二合</note>惹焰俱嚕俱嚕吽吽&CB00760;吒薩哩
+<pb n="0931a" id="T21.1415.0931a" ed="T"/>
+<lb n="0931a01" ed="T"/>&CB00085;<note place="inline">二合</note>波<note place="inline">引</note>閉<note place="inline">引</note>毘喻<note place="inline">二合引</note>尾曩<note place="inline">引</note>舍野吽吽&CB00760;
+<lb n="0931a02" ed="T"/>吒扇<note place="inline">引</note>底濕&CB00085;<note place="inline">二合</note>悉怛野<note place="inline">三合引</note>野&CB00135;<note place="inline">引</note>剎<note place="inline">引</note>&CB00805;
+<lb n="0931a03" ed="T"/><note place="inline">切身</note>俱嚕俱嚕娑<note place="inline">引</note>馱野娑<note place="inline">引</note>馱野&CB00085;日囉<note place="inline">二合</note>
+<lb n="0931a04" ed="T"/>骨嚕<note place="inline">二合引</note>馱摩賀<note place="inline">引</note>末羅唧&CB00619;唧&CB00619;彌&CB00619;彌&CB00619;
+<lb n="0931a05" ed="T"/>羅<note n="0931001" resp="Taisho" place="foot text" type="orig">羅＋（&CB00619;）【三】</note><note n="0931001" resp="CBETA" type="mod">羅＋（&CB00619;）【宋】【元】【明】</note><app n="0931001"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【宋】【元】【明】">羅&CB00619;</rdg></app>薩哩&CB00085;<note place="inline">二合</note>惹<note place="inline">引</note>藍摩<note place="inline">引</note>嚕布嚕布&CB00619;<note place="inline">引</note>
+<lb n="0931a06" ed="T"/>哆<note place="inline">引</note>嚕藍摩<note place="inline">引</note>嚕藍佉僧祖嚕祖&CB00619;<note place="inline">引</note>憾<note place="inline">引</note>&CB00805;<note place="inline">引</note>
+<lb n="0931a07" ed="T"/>烏哩閉<note place="inline">二合</note>布哩閉<note place="inline">二合</note>俱哩閉<note place="inline">二合</note>&CB00425;囉<note place="inline">二合</note>
+<lb n="0931a08" ed="T"/>布囉尼<note place="inline">二合</note>尼伽囉<note place="inline">二合</note>囉尼喻<note place="inline">二合</note>酥嚕酥嚕
+<lb n="0931a09" ed="T"/>母嚕母嚕酥母酥母嚕地迦致迦致迦致迦致
+<lb n="0931a10" ed="T"/>迦致降<note place="inline">二合</note>迦致<note place="inline">引</note>惹曳<note place="inline">引</note>尾惹曳<note place="inline">引</note>惹野帝<note place="inline">引</note>
+<lb n="0931a11" ed="T"/>尾惹野帝<note place="inline">引</note>鼻<note place="inline">引</note>細<note place="inline">引</note>摩賀<note place="inline">引</note>哩祁<note place="inline">二合</note>伽三部
+<lb n="0931a12" ed="T"/>旦<note place="inline">引</note>&CB00344;彌耨哆波羅<note place="inline">引</note>野尼努瑟吒<note place="inline">二合引</note>曩<note place="inline">引</note>努
+<lb n="0931a13" ed="T"/>娑<note place="inline">引</note>娑迦訥哩難<note place="inline">二合</note>哆<note place="inline">引</note><note n="0931002" resp="Taisho" place="foot text" type="orig">南＝喃【三】</note><note n="0931002" resp="CBETA" type="mod">南＝喃【宋】【元】【明】</note><app n="0931002"><lem wit="【大】">南</lem><rdg resp="Taisho" wit="【宋】【元】【明】">喃</rdg></app><note place="inline">引</note>捺摩迦<note n="0931003" resp="Taisho" place="foot text" type="orig">橈＝撓【三】</note><note n="0931003" resp="CBETA" type="mod">橈＝撓【宋】【元】【明】</note><app n="0931003"><lem wit="【大】">橈</lem><rdg resp="Taisho" wit="【宋】【元】【明】">撓</rdg></app>捺
+<lb n="0931a14" ed="T"/>囉<note place="inline">二合引</note>&CB00718;<note place="inline">引</note>尾捺囉<note place="inline">二合引</note>波迦尾囉&CB00718;<note place="inline">引</note>尾囉酥
+<lb n="0931a15" ed="T"/>摩也<note place="inline">二合</note>喃<note place="inline">引</note>酥毘藥<note place="inline">二合</note>阿悉馱<note place="inline">引</note>喃<note place="inline">引</note>悉弟
+<lb n="0931a16" ed="T"/>迦囉阿悉馱<note place="inline">引</note>喃<note place="inline">引</note>左尾曩<note place="inline">引</note>舍迦囉薩哩&CB00085;
+<lb n="0931a17" ed="T"/><note place="inline">二合</note>怛他<note place="inline">引</note>&CB00344;哆<note place="inline">引</note>三摩囉他<note place="inline">二合</note>麼<note place="inline">引</note>閉<note place="inline">引</note>哆
+<lb n="0931a18" ed="T"/>薩哩&CB00085;<note place="inline">二合</note>沒馱<note place="inline">引</note>波哩喻<note place="inline">二合</note>波<note place="inline">引</note>悉<note n="0931004" resp="Taisho" place="foot text" type="orig">哆＝多【三】</note><note n="0931004" resp="CBETA" type="mod">哆＝多【宋】【元】【明】</note><app n="0931004"><lem wit="【大】">哆</lem><rdg resp="Taisho" wit="【宋】【元】【明】">多</rdg></app>薩哩
+<lb n="0931a19" ed="T"/>&CB00085;<note place="inline">二合</note>&CB00085;日囉<note place="inline">二合</note>俱羅<note place="inline">引</note>地瑟恥<note place="inline">二合</note>哆曀呬
+<lb n="0931a20" ed="T"/>曳<note place="inline">二合引</note>呬三摩野摩努波<note place="inline">引</note>羅野薩哩&CB00085;<note place="inline">二合</note>迦
+<lb n="0931a21" ed="T"/>哩摩<note place="inline">二合</note>尼彌<note place="inline">引</note>娑<note place="inline">引</note>馱野曩謨<note place="inline">引</note>倍囉&CB00085;&CB00085;日
+<lb n="0931a22" ed="T"/>囉<note place="inline">二合</note>馱囉<note place="inline">引</note>野&CB00085;日囉<note place="inline">二合</note>播<note place="inline">引</note>拏曳<note place="inline">引</note>悉馱
+<lb n="0931a23" ed="T"/><note n="0931005" resp="Taisho" place="foot text" type="orig">室＝哩【元】【明】</note><app n="0931005"><lem wit="【大】">室</lem><rdg resp="Taisho" wit="【元】【明】">哩</rdg></app>戰<note place="inline">二合</note>拏&CB00085;日囉<note place="inline">二合</note>播<note place="inline">引</note>尼囉<note place="inline">引</note>惹拏<note place="inline">二合</note>
+<lb n="0931a24" ed="T"/>波野底娑&CB00085;<note place="inline">二合引</note>賀<note place="inline">引</note>薩哩&CB00085;<note place="inline">二合</note>沒馱<note place="inline">引</note>地瑟
+<lb n="0931a25" ed="T"/>恥<note place="inline">二合</note>哆<note place="inline">引</note>野娑&CB00085;<note place="inline">二合引</note>賀<note place="inline">引</note></p>
+<lb n="0931a26" ed="T"/><juan n="001" fun="close"><jhead>大金剛妙高山樓閣陀羅尼</jhead></juan></div1>
+</body></text></TEI.2>

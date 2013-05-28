@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "T20n1134B.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1134B 金剛壽命陀羅尼經</title>
+			<author>唐 不空譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.8 $ (Big5)<date>$Date: 2009/04/23 08:01:21 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:01:21 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 20, No. 1134B &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language id="san-sd">Sanskrit-Siddam</language>
+			<language id="eng">English</language>
+			<language id="chi">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+	<change>
+		<date>20000124/11:15:15</date>
+		<respStmt><name>CW</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT (00/01/24)</item>
+	</change>
+<!--
+$Log: T20n1134B.xml,v $
+Revision 1.8  2009/04/23 08:01:21  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.7  2006/04/12 21:55:46  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.5  2004/12/15 03:30:10  saywhat
+p0578a02行尾的<div1 type="W">移到下一行行首
+
+Revision 1.4  2004/10/21 08:20:04  saywhat
+段落前加入圈點
+
+Revision 1.3  2004/04/20 08:39:02  maha
+「版本日期」標記修訂
+
+Revision 1.2  2004/04/20 03:25:30  maha
+將 type="inline" 或 rend="inline" 改成 place="inline"
+
+Revision 1.1.1.1  2003/05/05 04:09:22  ray
+recover cvs
+
+Revision 1.21  2002/12/05 05:20:25  saywhat
+校勘插入處理
+
+Revision 1.20  2002/11/04 10:45:37  ray
+tei.2 => TEI.2
+
+Revision 1.19  2002/07/29 09:56:46  vinking
+modified lang
+
+Revision 1.18  2002/04/08 09:05:48  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.17  2001/11/05 06:13:53  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.16  2001/07/24 06:53:18  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.15  2001/05/29 02:35:50  ray
+no message
+
+Revision 1.14  2001/05/28 09:37:49  saywhat
+modified <sg.........><note........> to <sg..........>
+
+Revision 1.13  2001/05/28 07:51:54  vinking
+modified <sg><note place="inline"> to <sg>
+
+Revision 1.12  2001/03/30 05:55:32  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.11  2001/03/25 09:15:29  ray
+add <milestone>
+
+Revision 1.10  2001/02/07 06:56:19  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.9  2001/02/03 07:46:15  chris
+Added keywords $Revision: 1.8 $, $Date: 2009/04/23 08:01:21 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0577b12" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0577b13" ed="T"/>
+<lb n="0577b14" ed="T"/><head type="no">No. 1134B [cf. Nos. 1133, 1134A]</head>
+<lb n="0577b15" ed="T"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><note n="0577008" resp="Taisho" place="foot text" type="orig">【原】享和元年刊長谷寺藏本</note>金剛壽命陀羅尼經</jhead></juan>
+<lb n="0577b16" ed="T"/>
+<lb n="0577b17" ed="T"/><byline type="Translator">特進試鴻臚卿大辨正
+<lb n="0577b18" ed="T"/>大廣智三藏奉　詔譯</byline>
+<lb n="0577b19" ed="T"/><div1 type="jing"><p id="pT20p0577b1901">爾時毘盧遮那如來。於色界頂第四禪成等
+<lb n="0577b20" ed="T"/>正覺。即下須彌山頂。於金剛寶樓閣。盡虛空
+<lb n="0577b21" ed="T"/>遍法界一切如來皆悉雲集。前後圍繞異口同
+<lb n="0577b22" ed="T"/>音。唯願世尊轉妙法輪甚深祕密。所謂金剛
+<lb n="0577b23" ed="T"/>界輪。降三世教令輪。遍調伏法輪。一切義成
+<lb n="0577b24" ed="T"/>就輪。如是四輪從毘盧遮那心出。一一輪皆
+<lb n="0577b25" ed="T"/>有三十七聖者。一一真言一一三摩地。一一
+<lb n="0577b26" ed="T"/>契印威儀軌持。大悲願力。於雜染佛剎。於淨
+<lb n="0577b27" ed="T"/>妙世界。或隱或顯。轉輪利樂度諸眾生各各
+<lb n="0577b28" ed="T"/>不同。毘盧遮那佛。受諸如來請已。欲轉法輪。
+<lb n="0577b29" ed="T"/>時即入三摩地。觀見摩醯首羅大自在天。剛
+<pb n="0577c" id="T20.1134B.0577c" ed="T"/>
+<lb n="0577c01" ed="T"/>強難化執持邪見。非我寂靜大悲之身堪任
+<lb n="0577c02" ed="T"/>調伏。於是世尊入悲怒三摩地。從胸臆間出
+<lb n="0577c03" ed="T"/>現五&CB00123;金剛大菩提心。流出四面八臂威德
+<lb n="0577c04" ed="T"/>熾盛奇特難&CB00418;降三世金剛菩薩身。遍禮毘
+<lb n="0577c05" ed="T"/>盧遮那如來及一切諸佛。唯願世尊示教於
+<lb n="0577c06" ed="T"/>我。何所作為。佛告降三世菩薩。汝今降伏彼
+<lb n="0577c07" ed="T"/>難調伏諸大天等。令悉歸依諸佛法僧發菩
+<lb n="0577c08" ed="T"/>提心。尋即降伏一切諸天。盡皆歸依佛法僧
+<lb n="0577c09" ed="T"/>眾。唯大自在天。<note n="0577009" resp="Taisho" place="foot text" type="orig">特＝恃&M062403;【原】</note><app n="0577009"><lem wit="【大】">特</lem><rdg resp="【原】" wit="【？】">恃</rdg></app>大威德而生拒敵。降三
+<lb n="0577c10" ed="T"/>世菩薩種種苦治乃至於死<note place="inline">左踏大天右踏天后</note>於是毘盧
+<lb n="0577c11" ed="T"/>遮那如來。入大悲愍三摩地已。即說金剛壽
+<lb n="0577c12" ed="T"/>命陀羅尼。復入金剛壽命三昧耶。及結密印
+<lb n="0577c13" ed="T"/>加持摩醯首羅天王。還復得甦重增壽命。歸
+<lb n="0577c14" ed="T"/>依諸佛發菩提心。灌頂受記證得八地位。金
+<lb n="0577c15" ed="T"/>剛壽命真<note n="0577010" resp="Taisho" place="foot text" type="orig">言＋（曰）&M062403;【原】</note><app n="0577010"><lem wit="【大】">言</lem><rdg resp="【原】" wit="【？】">言曰</rdg></app>。</p>
+<lb n="0577c16" ed="T"/><p id="pT20p0577c1601" type="dharani"><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">&CB00085;</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi"><yin><zi>日囉</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5F5;</t><t lang="chi">喻</t></tt><tt><t lang="san-sd">&SD-A675;</t><t lang="chi">曬</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi"><yin><zi>薩&CB00085;</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi"><yin><zi>訶</zi><sg>引</sg></yin></t></tt></p>
+<lb n="0577c17" ed="T"/>
+<lb n="0577c18" ed="T"/><p id="pT20p0577c1801">佛告執金剛菩薩。若有善男子善女人。受持
+<lb n="0577c19" ed="T"/>念誦每日三時時別千遍。過現所有惡業因
+<lb n="0577c20" ed="T"/>緣短命夭壽。由持此真言故信心清淨。業障
+<lb n="0577c21" ed="T"/>消滅更增壽命。若有修習三摩地者。現生不
+<lb n="0577c22" ed="T"/>轉父母生身。獲五神通陵空自在。</p><p id="pT20p0577c2214" place="inline">次當誦護
+<lb n="0577c23" ed="T"/>身被甲真言曰。</p>
+<lb n="0577c24" ed="T"/><p id="pT20p0577c2401" type="dharani"><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-E0B0;</t><t lang="chi"><yin><zi>砧</zi><sg type="fangie">&CB00353;簪反</sg></yin></t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">&CB00085;</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi"><yin><zi>日囉</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-E0F7;</t><t lang="chi">欲</t></tt></p>
+<lb n="0577c25" ed="T"/>
+<lb n="0577c26" ed="T"/><p id="pT20p0577c2601">次當觀<term lang="san-sd">&SD-A5FC;</term>欲字。光明晃曜遍照。成大金剛壽
+<lb n="0577c27" ed="T"/>命菩薩。次以四字明引請菩薩。降入壇中受
+<lb n="0577c28" ed="T"/>諸供養。四字密言曰。</p>
+<lb n="0577c29" ed="T"/><p id="pT20p0577c2901" type="dharani"><tt><t lang="san-sd">&SD-A4C1;</t><t lang="chi">惹</t></tt><tt><t lang="san-sd">&SD-CFC1;</t><t lang="chi">吽</t></tt><tt><t lang="san-sd">&SD-A660;</t><t lang="chi">&CB00680;</t></tt><tt><t lang="san-sd">&SD-E05F;</t><t lang="chi">斛</t></tt></p>
+<lb n="0577c30" ed="T"/>
+<pb n="0578a" id="T20.1134B.0578a" ed="T"/>
+<lb n="0578a01" ed="T"/><p id="pT20p0578a0101">爾時大眾聞佛所說信受奉行。</p>
+<lb n="0578a02" ed="T"/><juan n="001" fun="close"><jhead>金剛壽命陀羅尼經</jhead></juan></div1>
+<lb n="0578a03" ed="T"/><div1 type="W"><p id="pT20p0578a0301">延寶四年五月。寫&CB01267;尾藏本。律師淨嚴天
+<lb n="0578a04" ed="T"/>明元辛丑年寫宇治慧心院本。慈忍今年
+<lb n="0578a05" ed="T"/>得件本令寫之。挍勘以印版。蓋此經者。前
+<lb n="0578a06" ed="T"/>經之略出。為不堪者唯示眼精。非是別本
+<lb n="0578a07" ed="T"/>也。　　和州長谷寺寓居劬勞釋快道記</p>
+<lb n="0578a08" ed="T"/><p id="pT20p0578a0801">一挍加筆畢　　癸亥四月六日　慈順</p></div1>
+</body></text></TEI.2>

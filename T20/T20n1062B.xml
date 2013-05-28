@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "T20n1062B.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1062B 世尊聖者千眼千首千足千舌千臂觀自在菩提薩埵怛&CB00085;廣大圓滿無礙大悲心陀羅尼</title>
+			<author></author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.10 $ (Big5)<date>$Date: 2009/04/23 08:01:18 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:01:18 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 20, No. 1062B &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language id="san-sd">Sanskrit-Siddam</language>
+			<language id="eng">English</language>
+			<language id="chi">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+	<change>
+		<date>20000124/11:15:04</date>
+		<respStmt><name>CW</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT (00/01/24)</item>
+	</change>
+<!--
+$Log: T20n1062B.xml,v $
+Revision 1.10  2009/04/23 08:01:18  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.9  2007/05/16 02:31:54  saywhat
+p0114b08 SD-DA53(k)=>SD-D7C4
+
+Revision 1.8  2006/04/12 21:55:40  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.6  2004/12/22 06:50:01  saywhat
+SD-A65E => SD-A5D5
+
+Revision 1.5  2004/10/21 08:20:03  saywhat
+段落前加入圈點
+
+Revision 1.4  2004/09/10 03:41:01  saywhat
+刪除空的 juan close
+
+Revision 1.3  2004/04/20 08:38:52  maha
+「版本日期」標記修訂
+
+Revision 1.2  2004/02/09 13:26:38  saywhat
+p0114b02~03有兩個 head，刪除一個。
+
+Revision 1.1.1.1  2003/05/05 04:09:19  ray
+recover cvs
+
+Revision 1.16  2002/12/05 05:20:18  saywhat
+校勘插入處理
+
+Revision 1.15  2002/11/04 10:45:29  ray
+tei.2 => TEI.2
+
+Revision 1.14  2002/07/29 09:56:39  vinking
+modified lang
+
+Revision 1.13  2002/04/08 09:05:42  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.12  2001/07/24 06:53:02  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.11  2001/03/30 05:55:14  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.10  2001/03/25 09:15:21  ray
+add <milestone>
+
+Revision 1.9  2001/02/07 06:55:33  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.8  2001/02/03 07:45:30  chris
+Added keywords $Revision: 1.10 $, $Date: 2009/04/23 08:01:18 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<pb n="0114b" id="T20.1062B.0114b" ed="T"/>
+<lb n="0114b01" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0114b02" ed="T"/><head type="no">No. 1062B [cf. 1056-1058, 1060-1062A,
+<lb n="0114b03" ed="T"/> 1063, 1064]</head>
+<lb n="0114b04" ed="T"/><juan n="001" fun="open"><mulu n="001" type="卷"/><note n="0114001" resp="Taisho" place="foot text" type="orig">【原】策子第二十九帖</note><jhead>世尊聖者千眼千首千足千舌千
+<lb n="0114b05" ed="T"/>臂觀自在菩提薩埵怛&CB00085;廣大圓
+<lb n="0114b06" ed="T"/>滿無礙大悲心陀羅尼</jhead></juan>
+<lb n="0114b07" ed="T"/>
+<lb n="0114b08" ed="T"/><div1 type="dharani"><p lang="san-sd" id="pT20p0114b0801" type="dharani">&SD-D5B5;&SD-A5A9;&SD-A5ED;&SD-A5FD;&SD-B448;&SD-AA5E;&SD-A5F2;&SD-A5F1;&SD-D7C4;&SD-A5A9;&SD-A5F0;&SD-CFC6;&SD-B769;&SD-A656;&SD-A652;
+<lb n="0114b09" ed="T"/>&SD-A442;&SD-A55D;&SD-E0AB;&SD-A5FE;&SD-A5F1;　&SD-A5D5;&SD-A57D;&SD-A67A;&SD-AF5A;&SD-A5F1;　&SD-A5E5;&SD-A6A9;&SD-A67A;
+<lb n="0114b10" ed="T"/>&SD-AF5A;&SD-A5F1;　&SD-A5E5;&SD-A6A9;&SD-A441;&SD-A642;&SD-A54D;&SD-A441;&SD-A5F1;　&SD-A5E5;&SD-A441;&SD-A659;&SD-A5FE;
+<lb n="0114b11" ed="T"/>&SD-A5F1;　&SD-A67A;&SD-A6A8;&SD-AB76;&SD-A6B5;&SD-A5F1;　&SD-A67A;&SD-A6A8;&SD-AB75;&SD-A665;&SD-A66F;&SD-A5F1;
+<lb n="0114b12" ed="T"/>&SD-A67A;&SD-A6A8;&SD-AB75;&SD-A5B5;&SD-A56F;&SD-A5F1;　&SD-A67A;&SD-A6A8;&SD-AB75;&SD-A4B8;&SD-AF72;&SD-A5F1;　&SD-A67A;
+<lb n="0114b13" ed="T"/>&SD-A6A8;&SD-AB75;&SD-A5DD;&SD-A4B7;&SD-A5F1;　&SD-CFCF;&SD-A6AA;&SD-A5D9;&SD-A458;&SD-E1AF;　&SD-A5AA;&SD-DA48;&SD-A656;
+<lb n="0114b14" ed="T"/>&SD-A652;&SD-A442;&SD-A55D;&SD-E0AB;&SD-A5FD;　&SD-CFC9;&SD-A95F;&SD-CFC5;&SD-E1EA;&SD-A95F;　&SD-A5E5;&SD-A6A9;&SD-CFC9;
+<lb n="0114b15" ed="T"/>&SD-A95F;&SD-A5E5;&SD-A6A9;&SD-A5AA;&SD-A56F;　&SD-A442;&SD-A64C;&SD-A442;&SD-A64C;&SD-A442;&SD-A64C;&SD-A442;&SD-A64C;
+<lb n="0114b16" ed="T"/>&SD-A5E7;&SD-A64C;&SD-A5E7;&SD-A64C;&SD-A5E7;&SD-A64C;　&SD-A47E;&SD-A64C;&SD-A47E;&SD-A64C;&SD-A47E;&SD-A64C;&SD-A47E;&SD-A64C;
+<lb n="0114b17" ed="T"/>&SD-A5A9;&SD-A4DE;&SD-A5A9;&SD-A4DE;&SD-A5A9;&SD-A4DE;&SD-A5A9;&SD-A4DE;　&SD-A947;&SD-A67A;&SD-A947;&SD-A67A;&SD-A947;&SD-A67A;
+<lb n="0114b18" ed="T"/>&SD-A947;&SD-A67A;　&SD-A444;&SD-A642;&SD-A444;&SD-A642;&SD-A444;&SD-A642;&SD-A444;&SD-A642;　&SD-CFCF;&SD-E0AF;&SD-A6AA;
+<lb n="0114b19" ed="T"/>　&SD-A5E5;&SD-A6A9;&SD-A659;&SD-A5FD;　&SD-A656;&SD-A654;&SD-A56F;&SD-A56F;&SD-A659;&SD-B773;&SD-A56F;&SD-A56F;&SD-A67A;
+<lb n="0114b20" ed="T"/>&SD-A660;　&SD-A441;&SD-A5EF;&SD-A5EB;　&SD-AABC;&SD-A5F1;&SD-DA79;&SD-A665;&SD-A975;　&SD-A656;&SD-A66C;&SD-A5EB;
+<lb n="0114b21" ed="T"/>&SD-A5FE;&SD-E1D2;　&SD-A67A;&SD-A5FE;&SD-A4B6;&SD-A44A;&SD-A444;&SD-A642;　&SD-A67A;&SD-A6A8;&SD-AB75;&SD-A5DD;&SD-A4B6;
+<lb n="0114b22" ed="T"/>　&SD-A67A;&SD-A6A8;&SD-AB75;&SD-A659;&SD-A5FD;　&SD-A652;&SD-A446;&SD-E0AB;&SD-A5FD;　&SD-A67B;&SD-A57B;&SD-A5F1;
+<lb n="0114b23" ed="T"/>　&SD-A67A;&SD-A570;&SD-A67C;&SD-E0A7;&SD-A5EB;&SD-A5D9;&SD-A656;　&SD-A57B;&SD-A5FD;&SD-A577;&SD-A5D9;&SD-A656;
+<lb n="0114b24" ed="T"/>&SD-CFC5;&SD-A967;&SD-A5D9;&SD-A657;&SD-A5E7;　&SD-E074;&SD-A5A9;&SD-A5ED;&SD-E068;&SD-A55D;　&SD-A5D9;&SD-A458;&SD-A660;
+<lb n="0114b25" ed="T"/>&SD-B449;&SD-B76A;&SD-A656;&SD-A652;&SD-A442;&SD-A55D;&SD-E2EF;&SD-A5FD;　&SD-AABC;&SD-A5B9;&SD-A7FB;&SD-AABC;&SD-A67D;&SD-A56F;
+<lb n="0114b26" ed="T"/>&SD-A5F0;&SD-A656;&SD-A5FD;&SD-A577;&SD-A5E5;&SD-A5E5;　&SD-A5D9;&SD-A657;&SD-A6AA;　&SD-B065;&SD-A6A9;&SD-D5B4;</p></div1>
+</body></text></TEI.2>

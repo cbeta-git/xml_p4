@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "T21n1213.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1213 千臂軍荼利梵字真言</title>
+			<author></author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.9 $ (Big5)<date>$Date: 2009/04/23 08:01:43 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:01:43 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 21, No. 1213 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language id="san-sd">Sanskrit-Siddam</language>
+			<language id="eng">English</language>
+			<language id="chi">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+	<change>
+		<date>20000131/09:31:25</date>
+		<respStmt><name>CW</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT (00/01/05)</item>
+	</change>
+<!--
+$Log: T21n1213.xml,v $
+Revision 1.9  2009/04/23 08:01:43  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.8  2006/04/12 21:55:52  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.6  2006/03/26 04:17:42  saywhat
+p0072b13 SD-A65A=>SD-E3AD, SD-AF71=>SD-D9F9
+
+Revision 1.5  2004/10/22 04:09:41  saywhat
+段落前加入圈點
+
+Revision 1.4  2004/09/09 10:06:04  saywhat
+刪除空的 juan close
+
+Revision 1.3  2004/04/30 09:19:27  saywhat
+p0072b25 刪除空的<p></p>標記
+
+Revision 1.2  2004/04/20 08:39:08  maha
+「版本日期」標記修訂
+
+Revision 1.1.1.1  2003/05/05 04:09:26  ray
+recover cvs
+
+Revision 1.13  2002/11/28 10:06:34  saywhat
+校勘插入處理
+
+Revision 1.12  2002/11/04 10:46:11  ray
+tei.2 => TEI.2
+
+Revision 1.11  2002/07/29 09:57:18  vinking
+modified lang
+
+Revision 1.10  2002/04/08 09:07:11  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.9  2001/07/24 06:53:33  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.8  2001/03/25 09:18:33  ray
+add <milestone>
+
+Revision 1.7  2001/02/07 06:57:04  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.6  2001/02/03 07:46:58  chris
+Added keywords $Revision: 1.9 $, $Date: 2009/04/23 08:01:43 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0072b02" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0072b03" ed="T"/>
+<lb n="0072b04" ed="T"/><head type="no">No. 1213</head>
+<lb n="0072b05" ed="T"/><juan n="001" fun="open"><mulu n="001" type="卷"/><note n="0072003" resp="Taisho" place="foot text" type="orig">【原】石山寺藏古寫本</note><jhead>千臂軍荼利梵字真言</jhead></juan>
+<lb n="0072b06" ed="T"/>
+<lb n="0072b07" ed="T"/><div1 type="jing"><p id="pT21p0072b0701">千臂軍荼利真言曰。</p>
+<lb n="0072b08" ed="T"/><p lang="san-sd" id="pT21p0072b0801" type="dharani">&SD-D5B5;&SD-A5A9;&SD-A5ED;&SD-A5FD;&SD-B448;&SD-AA5E;&SD-A5F2;&SD-A5F1;&SD-D7C4;&SD-A5A9;&SD-A5F0;&SD-E0BD;&SD-C9FD;&SD-A656;
+<lb n="0072b09" ed="T"/>&SD-A9BD;&SD-A5B6;&SD-A54B;&SD-A5F7;&SD-D7C4;&SD-A5E5;&SD-A6A9;&SD-A5F1;&SD-A6B4;&SD-A6A2;&SD-A5AA;&SD-A5B5;&SD-A557;&SD-A5F7;
+<lb n="0072b10" ed="T"/>&SD-D7C4;&SD-A5A9;&SD-A5ED;&SD-A656;&SD-A9BD;&SD-A94F;&SD-A57B;&SD-A5F1;&SD-D7C4;&SD-A5AB;&SD-A7D7;&SD-AABC;&SD-AABC;&SD-E04A;
+<lb n="0072b11" ed="T"/>&SD-A64C;&SD-A557;&SD-A572;&SD-CF55;&SD-D7C4;&SD-A656;&SD-A9BD;&SD-A440;&SD-A5FE;&SD-A5F1;&SD-D7C4;&SD-CFC9;&SD-A440;&SD-A5FD;
+<lb n="0072b12" ed="T"/>&SD-A579;&SD-E1F8;&SD-E1A3;&SD-A4DA;&SD-A5D9;&SD-A5F1;&SD-D7C4;&SD-A5E0;&SD-A5FD;&SD-A657;&SD-A5F1;&SD-D7C4;&SD-CFC5;&SD-A67C;
+<lb n="0072b13" ed="T"/>&SD-E043;&SD-A67A;&SD-A64A;&SD-D7C4;&SD-E3AD;&SD-D9F9;&SD-A95F;&SD-A662;&SD-E04D;&SD-D7C4;&SD-A66A;&SD-A64A;&SD-A5B5;&SD-A5FD;
+<lb n="0072b14" ed="T"/>&SD-A66A;&SD-A5B6;&SD-A662;&SD-A6A8;&SD-CDAA;&SD-A5F1;&SD-D7C4;&SD-A656;&SD-A9BD;&SD-A440;&SD-A5A9;&SD-A441;&SD-D7C4;&SD-A656;
+<lb n="0072b15" ed="T"/>&SD-A9BD;&SD-A65D;&SD-A55C;&SD-B769;&SD-D7C4;&SD-A64C;&SD-CBA7;&SD-CF56;&SD-A662;&SD-A640;&SD-A64B;&SD-A5F1;&SD-D7C4;&SD-A67A;
+<lb n="0072b16" ed="T"/>&SD-B7A3;&SD-A5AA;&SD-A458;&SD-A5F1;&SD-A6B4;&SD-A5FD;&SD-A6B4;&SD-A67B;&SD-D7C4;&SD-CFC5;&SD-E0BC;&SD-A5FD;&SD-AAC2;&SD-A557;
+<lb n="0072b17" ed="T"/>&SD-D7C4;&SD-A5B7;&SD-A663;&SD-A47C;&SD-A658;&SD-B355;&SD-D7C4;&SD-A658;&SD-A5A9;&SD-A5F1;&SD-A440;&SD-A4B8;&SD-A658;&SD-E040;
+<lb n="0072b18" ed="T"/>&SD-A557;&SD-A440;&SD-A5FE;&SD-A5F1;&SD-D7C4;&SD-A557;&SD-DA4A;&SD-A564;&SD-E074;&SD-CFC5;&SD-DA78;&SD-A557;&SD-A444;&SD-C9FD;
+<lb n="0072b19" ed="T"/>&SD-A64C;&SD-D7C4;&SD-E0AA;&SD-A64C;&SD-D957;&SD-D7C4;&SD-E1D3;&SD-A64E;&SD-D957;&SD-E043;&SD-A64E;&SD-D957;&SD-D7C4;&SD-A6A8;
+<lb n="0072b20" ed="T"/>&SD-A5A9;&SD-D957;&SD-A56F;&SD-A6A8;&SD-D957;&SD-D7C4;&SD-A5B5;&SD-A47C;&SD-D957;&SD-D7C4;&SD-A5E5;&SD-A563;&SD-A444;&SD-C9FD;
+<lb n="0072b21" ed="T"/>&SD-A64C;&SD-D7C4;&SD-E1F0;&SD-C0A6;&SD-A5B3;&SD-A557;&SD-A54C;&SD-A5F1;&SD-D7C4;&SD-A656;&SD-A9C5;&SD-A54B;&SD-D7C4;&SD-DA74;
+<lb n="0072b22" ed="T"/>&SD-CFC1;&SD-CFC1;&SD-CFC1;&SD-CFC1;&SD-CFC1;&SD-D7C4;&SD-A5C1;&SD-E046;&SD-D957;&SD-A5C1;&SD-E046;&SD-D957;&SD-A5C1;&SD-E046;
+<lb n="0072b23" ed="T"/>&SD-A5C1;&SD-E046;&SD-D957;&SD-D7C4;&SD-A94F;&SD-A57B;&SD-B349;&SD-A5F1;&SD-A444;&SD-A642;&SD-D957;&SD-D7C4;&SD-E0BC;&SD-A642;
+<lb n="0072b24" ed="T"/>&SD-D957;&SD-A55B;&SD-A642;&SD-D957;&SD-D7C4;&SD-A6A8;&SD-A6A8;&SD-A6A8;&SD-D7C4;&SD-A6AA;&SD-A6AA;&SD-A6AA;&SD-D7C4;&SD-E0AA;
+<lb n="0072b25" ed="T"/>&SD-E0AA;&SD-E0AA;&SD-A67C;&SD-E1E3;&SD-A55B;&SD-D7C4;&SD-A5E5;&SD-E04B;&SD-A5B5;&SD-A56F;&SD-B065;&SD-A6A9;&SD-D5B4;</p></div1>
+<lb n="0072b26" ed="T"/><div1 type="W"><p id="pT21p0072b2601">梵書千臂軍荼利陀羅尼</p>
+<lb n="0072b27" ed="T"/><p id="pT21p0072b2701">　大唐青龍寺東塔院內供奉傳法灌頂故
+<lb n="0072b28" ed="T"/>大阿闍梨義操梵書記</p></div1>
+</body></text></TEI.2>

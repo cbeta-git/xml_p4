@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "T21n1315.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1315 施諸餓鬼飲食及水法</title>
+			<author>唐 不空譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.10 $ (Big5)<date>$Date: 2009/04/23 08:01:47 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:01:47 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 21, No. 1315 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language id="san-sd">Sanskrit-Siddam</language>
+			<language id="eng">English</language>
+			<language id="chi">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+	<change>
+		<date>20000131/09:31:38</date>
+		<respStmt><name>CW</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT (00/01/05)</item>
+	</change>
+<!--
+$Log: T21n1315.xml,v $
+Revision 1.10  2009/04/23 08:01:47  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.9  2006/04/12 21:55:57  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.7  2006/03/26 04:02:50  saywhat
+p0467b26 SD-A65A=>SD-E3AD, SD-AF72=>SD-D9FA
+
+Revision 1.6  2004/11/14 03:17:27  maha
+將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
+
+Revision 1.5  2004/10/22 04:03:44  saywhat
+段落前加入圈點
+
+Revision 1.4  2004/04/20 08:39:14  maha
+「版本日期」標記修訂
+
+Revision 1.3  2004/01/02 05:54:01  maha
+<note mod>裡的corr2app
+
+Revision 1.2  2003/06/23 06:16:51  saywhat
+[＊]校勘插入XML
+
+Revision 1.1.1.1  2003/05/05 04:09:30  ray
+recover cvs
+
+Revision 1.21  2002/11/28 10:06:40  saywhat
+校勘插入處理
+
+Revision 1.20  2002/11/04 10:46:15  ray
+tei.2 => TEI.2
+
+Revision 1.19  2002/10/07 13:13:03  moved
+modified
+
+Revision 1.18  2002/07/29 09:57:22  vinking
+modified lang
+
+Revision 1.17  2002/04/08 09:07:15  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.16  2001/11/14 04:11:45  vinking
+modified
+
+Revision 1.15  2001/11/05 06:14:24  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.14  2001/07/24 06:53:47  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.13  2001/07/10 06:33:06  vinking
+added <sg>
+
+Revision 1.12  2001/05/29 02:37:52  ray
+悉漢行行對照, 兩行行號都標
+
+Revision 1.11  2001/05/28 07:52:58  vinking
+modified <sg><note place="inline"> to <sg>
+
+Revision 1.10  2001/03/30 05:57:38  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.9  2001/03/25 09:18:39  ray
+add <milestone>
+
+Revision 1.8  2001/02/07 06:57:48  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.7  2001/02/03 07:47:40  chris
+Added keywords $Revision: 1.10 $, $Date: 2009/04/23 08:01:47 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<pb n="0466c" id="T21.1315.0466c" ed="T"/>
+<lb n="0466c01" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0466c02" ed="T"/>
+<lb n="0466c03" ed="T"/><head type="no">No. 1315</head><div1 type="jing">
+<lb n="0466c04" ed="T"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><note n="0466011" resp="Taisho" place="foot text" type="orig">【原】黃檗版淨嚴等加筆本，【甲】三十帖策子第二十六</note>施諸餓鬼飲食及水法<note place="inline">并手印</note></jhead></juan>
+<lb n="0466c05" ed="T"/>
+<lb n="0466c06" ed="T"/><byline type="Translator"><note n="0466012" resp="Taisho" place="foot text" type="orig">〔特進…三藏〕十二字－【甲】</note><app word-count="12" n="0466012"><lem wit="【大】">特進試鴻臚卿大興善寺三藏</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>沙門
+<lb n="0466c07" ed="T"/>大廣智不空<note n="0466013" resp="Taisho" place="foot text" type="orig">奉詔＝三藏【甲】</note><app n="0466013"><lem wit="【大】">奉　詔</lem><rdg resp="Taisho" wit="【甲】">三藏</rdg></app>譯</byline>
+<lb n="0466c08" ed="T"/><p id="pT21p0466c0801">先出眾生食。事須如法。周匝種種皆著並
+<lb n="0466c09" ed="T"/>須淨好。或一分或少許或一器。皆須安淨銅
+<lb n="0466c10" ed="T"/>器中如法。如無銅器白瓷亦得。如無瓷器可
+<lb n="0466c11" ed="T"/>用漆器。其飲食須和清水。面向東立坐亦得
+<lb n="0466c12" ed="T"/>作法。</p>
+<lb n="0466c13" ed="T"/><p id="pT21p0466c1301">夫欲施一切餓鬼飲食者。先須發廣大心普
+<lb n="0466c14" ed="T"/>請餓鬼。<note n="0466014" resp="Taisho" place="foot text" type="orig">先＋（請）【甲】</note><app n="0466014"><lem wit="【大】">先</lem><rdg resp="Taisho" wit="【甲】">先請</rdg></app>誦此偈至<note n="0466015" resp="Taisho" place="foot text" type="orig">〔心〕－【甲】</note><app n="0466015"><lem wit="【大】">心</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>一遍。然<note n="0466016" resp="Taisho" place="foot text" type="orig">〔後〕－【甲】</note><app n="0466016"><lem wit="【大】">後</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>作<note n="0466017" resp="Taisho" place="foot text" type="orig">〔召〕－【甲】</note><app n="0466017"><lem wit="【大】">召</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>
+<lb n="0466c15" ed="T"/>請法。所獲福利果報不可校量。</p>
+<lb n="0466c16" ed="T"/><lg id="lgT21p0466c1601"><l>比丘比丘尼<note place="inline">某甲</note>發心奉持</l><l>一器淨食</l>
+<lb n="0466c17" ed="T"/><l>普施十方</l><l>窮盡虛空</l><l>周遍法界</l>
+<lb n="0466c18" ed="T"/><l>微塵剎中</l><l>所有國土</l><l>一切餓鬼</l>
+<lb n="0466c19" ed="T"/><l>先亡久遠</l><l>山川地主</l><l>乃至曠野</l>
+<lb n="0466c20" ed="T"/><l>諸鬼神等</l><l>請來集此</l><l>我今悲愍</l>
+<lb n="0466c21" ed="T"/><l>普施汝食</l><l>願汝各各</l><l>受我此食</l>
+<lb n="0466c22" ed="T"/><l>轉將供養</l><l>盡虛空界</l><l>以佛及聖</l>
+<lb n="0466c23" ed="T"/><l>一切有情</l><l>汝與有情</l><l>普皆飽滿</l>
+<lb n="0466c24" ed="T"/><l>亦願汝身</l><l>乘此&CB00057;食</l><l>離苦解脫</l>
+<lb n="0466c25" ed="T"/><l>生天受樂</l><l>十方淨土</l><l>隨意遊往</l>
+<lb n="0466c26" ed="T"/><l>發菩提心</l><l>行菩提道</l><l>當來作佛</l>
+<lb n="0466c27" ed="T"/><l>永莫退轉</l><l>前得道者</l><l>誓相度脫</l>
+<lb n="0466c28" ed="T"/><l>又願汝等</l><l>晝夜恒常</l><l>擁護於我</l>
+<lb n="0466c29" ed="T"/><l>滿我所願</l><l>願施此食</l><l>所生功德</l>
+<pb n="0467a" id="T21.1315.0467a" ed="T"/>
+<lb n="0467a01" ed="T"/><l>普將&CB00327;施</l><l>法界有情</l><l>與諸有情</l>
+<lb n="0467a02" ed="T"/><l>平等共有</l><l>共諸有情</l><l>同將此福</l>
+<lb n="0467a03" ed="T"/><l>盡將迴向</l><l>真如法界</l><l>無上菩提</l>
+<lb n="0467a04" ed="T"/><l>一切智智</l><l>願速成佛</l><l>勿招餘果</l>
+<lb n="0467a05" ed="T"/><l>願<note n="0467001" resp="Taisho" place="foot text" type="orig">乘＝我【甲】</note><app n="0467001"><lem wit="【大】">乘</lem><rdg resp="Taisho" wit="【甲】">我</rdg></app>此法</l><l>疾得成佛</l></lg>
+<lb n="0467a06" ed="T"/><p id="pT21p0467a0601">合掌當心誦此偈。以印作召請　開喉印　以
+<lb n="0467a07" ed="T"/>右手大指與中指。面相捻。餘三指相去。微作
+<lb n="0467a08" ed="T"/>曲勢即是。名普集印　&CB00057;曰。</p>
+<lb n="0467a09" ed="T"/><p id="pT21p0467a0901" type="dharani"><note n="0467002" resp="Taisho" place="foot text" type="orig">甲本梵字總無之</note><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">曩</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi"><note n="0467003" resp="Taisho" place="foot text" type="orig">謨＝慕【甲】</note><app n="0467003"><lem wit="【大】">謨</lem><rdg resp="Taisho" wit="【甲】">慕</rdg></app></t></tt><tt><t lang="san-sd">&SD-A5DE;</t><t lang="chi">步</t></tt><tt><t lang="san-sd">&SD-A5B9;</t><t lang="chi"><yin><zi>布</zi><sg><note n="0467004" resp="Taisho" place="foot text" type="orig">〔入〕－【甲】＊</note><app n="0467004"><lem wit="【大】">入</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app></sg></yin></t></tt><tt><t lang="san-sd">&SD-A640;</t><t lang="chi"><note n="0467005" resp="Taisho" place="foot text" type="orig">哩＝唎【甲】＊</note><app n="0467005"><lem wit="【大】">哩</lem><rdg resp="Taisho" wit="【甲】">唎</rdg></app></t></tt><tt><t lang="san-sd">&SD-A440;</t><t lang="chi">迦</t></tt><tt><t lang="san-sd">&SD-A640;</t><t lang="chi"><app source="0467005" type="＊"><lem wit="【大】">哩</lem><rdg resp="Taisho" wit="【甲】">唎</rdg></app></t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi"><note n="0467006" resp="Taisho" place="foot text" type="orig">多＝哆【甲】＊</note><app n="0467006"><lem wit="【大】">多</lem><rdg resp="Taisho" wit="【甲】">哆</rdg></app></t></tt><tt><t lang="san-sd">&SD-A640;</t><t lang="chi"><app source="0467005" type="＊"><lem wit="【大】">哩</lem><rdg resp="Taisho" wit="【甲】">唎</rdg></app></t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi"><yin><zi>他</zi><sg><note n="0467007" resp="Taisho" place="foot text" type="orig">〔引〕－【甲】＊</note><app n="0467007"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app></sg></yin></t></tt>
+<lb n="0467a10" ed="T"/>
+<lb n="0467a11" ed="T"/><tt><t lang="san-sd">&SD-A458;</t><t lang="chi"><note n="0467008" resp="Taisho" place="foot text" type="orig">&CB00617;＝揭【甲】＊</note><app n="0467008"><lem wit="【大】">&CB00617;</lem><rdg resp="Taisho" wit="【甲】">揭</rdg></app></t></tt><tt><t lang="san-sd">&SD-A558;</t><t lang="chi"><app source="0467006" type="＊"><lem wit="【大】">多</lem><rdg resp="Taisho" wit="【甲】">哆</rdg></app></t></tt><tt><t lang="san-sd">&SD-A5F1;&SD-D9C6;</t><t lang="chi">也</t></tt></p>
+<lb n="0467a12" ed="T"/>
+<lb n="0467a13" ed="T"/><p id="pT21p0467a1301">作此印誦此&CB00057;一七遍。廣運悲心。願令法界
+<lb n="0467a14" ed="T"/>微塵剎中。一切餓鬼悉皆雲集。</p>
+<lb n="0467a15" ed="T"/><p id="pT21p0467a1501">又誦開地獄門及咽喉&CB00057;曰。</p>
+<lb n="0467a16" ed="T"/><p id="pT21p0467a1601" type="dharani"><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A5DE;</t><t lang="chi">步</t></tt><tt><t lang="san-sd">&SD-A5B9;</t><t lang="chi"><yin><zi>布</zi><sg><app source="0467004" type="＊"><lem wit="【大】">入</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app></sg></yin></t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi"><note n="0467009" resp="Taisho" place="foot text" type="orig">帝＝諦【甲】＊</note><note n="0467009" resp="CBETA" type="mod"><todo type="＊"/>帝＝諦【甲】＊</note><app n="0467009"><lem wit="【大】">帝</lem><rdg resp="Taisho" wit="【甲】">諦</rdg></app></t></tt><tt><t lang="san-sd">&SD-A640;</t><t lang="chi"><app source="0467005" type="＊"><lem wit="【大】">哩</lem><rdg resp="Taisho" wit="【甲】">唎</rdg></app></t></tt><tt><t lang="san-sd">&SD-A440;</t><t lang="chi">迦</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">多</t></tt><tt><t lang="san-sd">&SD-A640;</t><t lang="chi"><app source="0467005" type="＊"><lem wit="【大】">哩</lem><rdg resp="Taisho" wit="【甲】">唎</rdg></app></t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi">他</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi"><app source="0467008" type="＊"><lem wit="【大】">&CB00617;</lem><rdg resp="Taisho" wit="【甲】">揭</rdg></app></t></tt>
+<lb n="0467a17" ed="T"/>
+<lb n="0467a18" ed="T"/><tt><t lang="san-sd">&SD-A558;</t><t lang="chi"><yin><zi><app source="0467006" type="＊"><lem wit="【大】">多</lem><rdg resp="Taisho" wit="【甲】">哆</rdg></app></zi><sg><app source="0467007" type="＊"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app></sg></yin></t></tt><tt><t lang="san-sd">&SD-A5F1;&SD-D9C6;</t><t lang="chi">也</t></tt></p>
+<lb n="0467a19" ed="T"/>
+<lb n="0467a20" ed="T"/><p id="pT21p0467a2001">誦此&CB00057;時。以左手執持食器。以右手作前召
+<lb n="0467a21" ed="T"/>請印。唯改一誦&CB00057;一彈指。以大指與中指頭
+<lb n="0467a22" ed="T"/>相捻。彈指作聲即是。餘三指開稍微曲此名
+<lb n="0467a23" ed="T"/>破地獄門及開咽喉印。爾時如來。即說無量
+<lb n="0467a24" ed="T"/>威德自在光明勝妙之力加持飲食陀羅尼曰。</p>
+<lb n="0467a25" ed="T"/><p id="pT21p0467a2501" type="dharani"><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">曩</t></tt><tt><t lang="san-sd">&SD-A5F0;</t><t lang="chi"><note n="0467010" resp="Taisho" place="foot text" type="orig">莫＝慕【甲】＊</note><app n="0467010"><lem wit="【大】">莫</lem><rdg resp="Taisho" wit="【甲】">慕</rdg></app></t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-B7A3;</t><t lang="chi"><note n="0467011" resp="Taisho" place="foot text" type="orig">&CB00085;＝婆【甲】</note><app n="0467011"><lem wit="【大】">&CB00085;</lem><rdg resp="Taisho" wit="【甲】">婆</rdg></app></t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi"><note n="0467012" resp="Taisho" place="foot text" type="orig">他＋（去）夾註【甲】＊</note><app n="0467012"><lem wit="【大】">他</lem><rdg resp="Taisho" wit="【甲】">他<note place="inline">去</note></rdg></app></t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB00617;</t></tt><tt><t lang="san-sd">&SD-A558;</t><t lang="chi"><note n="0467013" resp="Taisho" place="foot text" type="orig">多&CB00085;嚕吉帝＝哆引一縛路枳帝二【甲】</note>多</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">&CB00085;</t></tt><tt><t lang="san-sd">&SD-A652;</t><t lang="chi">嚕</t></tt><tt><t lang="san-sd">&SD-A442;</t><t lang="chi">吉</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">帝</t></tt>
+<lb n="0467a26" ed="T"/>
+<lb n="0467a27" ed="T"/><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi"><note n="0467014" resp="Taisho" place="foot text" type="orig">唵＋（跋囉上跋囉三）【甲】</note><app n="0467014"><lem wit="【大】">唵</lem><rdg resp="Taisho" wit="【甲】">唵跋囉上跋囉三</rdg></app></t></tt><tt><t lang="san-sd">&SD-A6A6;</t><t lang="chi">三</t></tt><tt><t lang="san-sd">&SD-A5D9;</t><t lang="chi"><note n="0467015" resp="Taisho" place="foot text" type="orig">婆羅＝跋囉【甲】</note><note n="0467015" resp="CBETA" type="mod"><app><lem resp="CBETA.Maha">娑</lem><rdg wit="【大】">婆</rdg></app>羅＝跋囉【甲】</note>娑</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A6A6;</t><t lang="chi">三</t></tt><tt><t lang="san-sd">&SD-A5D9;</t><t lang="chi"><note n="0467016" resp="Taisho" place="foot text" type="orig">婆羅＝跋囉四【甲】</note>婆</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-DA74;&SD-D9C6;</t><t lang="chi"><yin><zi>吽</zi><sg><note n="0467017" resp="Taisho" place="foot text" type="orig">引＝虎叫【甲】</note><app n="0467017"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】">虎叫</rdg></app></sg></yin></t></tt></p>
+<lb n="0467a28" ed="T"/>
+<lb n="0467a29" ed="T"/><p id="pT21p0467a2901">誦此&CB00057;一七遍。一切餓鬼<note n="0467018" resp="Taisho" place="foot text" type="orig">各＋（各）【甲】</note><app n="0467018"><lem wit="【大】">各</lem><rdg resp="Taisho" wit="【甲】">各各</rdg></app>皆得摩伽陀國
+<pb n="0467b" id="T21.1315.0467b" ed="T"/>
+<lb n="0467b01" ed="T"/>所用之斗<note n="0467019" resp="Taisho" place="foot text" type="orig">〔七〕－【甲】</note><app n="0467019"><lem wit="【大】">七</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>七<note n="0467020" resp="Taisho" place="foot text" type="orig">斛＝斗【甲】</note><app n="0467020"><lem wit="【大】">斛</lem><rdg resp="Taisho" wit="【甲】">斗</rdg></app>之食。食已皆得生天或
+<lb n="0467b02" ed="T"/>生淨土。能令行者業障消除增益壽命。現世
+<lb n="0467b03" ed="T"/>獲<note n="0467021" resp="Taisho" place="foot text" type="orig">無量無邊福＝福無量無邊【甲】</note><app n="0467021"><lem wit="【大】">無量無邊福</lem><rdg resp="Taisho" wit="【甲】">福無量無邊</rdg></app>。況當來世。<note n="0467022" resp="Taisho" place="foot text" type="orig">〔即〕－【甲】</note><app n="0467022"><lem wit="【大】">即</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>作手印誦此
+<lb n="0467b04" ed="T"/><note n="0467023" resp="Taisho" place="foot text" type="orig">〔真言〕－【甲】＊</note><app n="0467023"><lem wit="【大】">真言</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>加持飲食。以右手大指。摩中指甲三兩
+<lb n="0467b05" ed="T"/>遍。三指直<note n="0467024" resp="Taisho" place="foot text" type="orig">〔立〕－【甲】</note><app n="0467024"><lem wit="【大】">立</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>之。又以大指捻頭指。彈指作
+<lb n="0467b06" ed="T"/>聲。一誦&CB00057;一彈指即是。</p>
+<lb n="0467b07" ed="T"/><p id="pT21p0467b0701">又誦蒙甘露法味<app source="0467023" type="＊"><lem wit="【大】">真言</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>。作施無畏印。以右手
+<lb n="0467b08" ed="T"/>&CB00594;臂。展五指直上即是。真言曰。</p>
+<lb n="0467b09" ed="T"/><p id="pT21p0467b0901" type="dharani"><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">曩</t></tt><tt><t lang="san-sd">&SD-A5F0;</t><t lang="chi"><app source="0467010" type="＊"><lem wit="【大】">莫</lem><rdg resp="Taisho" wit="【甲】">慕</rdg></app></t></tt><tt><t lang="san-sd">&SD-E0BC;</t><t lang="chi"><note n="0467025" resp="Taisho" place="foot text" type="orig">蘇＋（上）夾註【甲】</note><app n="0467025"><lem wit="【大】">蘇</lem><rdg resp="Taisho" wit="【甲】">蘇<note place="inline">上</note></rdg></app></t></tt><tt><t lang="san-sd">&SD-A643;</t><t lang="chi">嚕</t></tt><tt><t lang="san-sd">&SD-A5B5;</t><t lang="chi"><note n="0467026" resp="Taisho" place="foot text" type="orig">頗也＝播也二合去一【甲】</note>頗</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">也</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi"><app source="0467012" type="＊"><lem wit="【大】">他</lem><rdg resp="Taisho" wit="【甲】">他<note place="inline">去</note></rdg></app></t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB00617;</t></tt><tt><t lang="san-sd">&SD-A558;</t><t lang="chi"><app source="0467006" type="＊"><lem wit="【大】">多</lem><rdg resp="Taisho" wit="【甲】">哆</rdg></app></t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi"><note n="0467027" resp="Taisho" place="foot text" type="orig">也＋（二）夾註【甲】</note><app n="0467027"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【甲】">也<note place="inline">二</note></rdg></app></t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt>
+<lb n="0467b10" ed="T"/>
+<lb n="0467b11" ed="T"/><tt><t lang="san-sd">&SD-A7EF;</t><t lang="chi"><note n="0467028" resp="Taisho" place="foot text" type="orig">&CB00135;也他唵蘇＝姪嬭也反他去三唵四蘇二合【甲】</note>&CB00135;也</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi">他</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-AB7A;</t><t lang="chi">蘇嚕</t></tt><tt><t lang="san-sd">&SD-AB7A;</t><t lang="chi"><note n="0467029" resp="Taisho" place="foot text" type="orig">蘇嚕＝蘇上嚕五【甲】</note><app n="0467029"><lem wit="【大】">蘇嚕</lem><rdg resp="Taisho" wit="【甲】">蘇上嚕五</rdg></app></t></tt><tt><t lang="san-sd">&SD-DA44;</t><t lang="chi"><note n="0467030" resp="Taisho" place="foot text" type="orig">&CB00425;＝跋【甲】＊</note><app n="0467030"><lem wit="【大】">&CB00425;</lem><rdg resp="Taisho" wit="【甲】">跋</rdg></app>羅</t></tt><tt><t lang="san-sd">&SD-AB7A;</t><t lang="chi">蘇<note n="0467031" resp="Taisho" place="foot text" type="orig">嚕＋（六）夾註【甲】</note><app n="0467031"><lem wit="【大】">嚕</lem><rdg resp="Taisho" wit="【甲】">嚕<note place="inline">六</note></rdg></app></t></tt><tt><t lang="san-sd">&SD-DA44;</t><t lang="chi"><app source="0467030" type="＊"><lem wit="【大】">&CB00425;</lem><rdg resp="Taisho" wit="【甲】">跋</rdg></app>羅</t></tt>
+<lb n="0467b12" ed="T"/>
+<lb n="0467b13" ed="T"/><tt><t lang="san-sd">&SD-AB7A;</t><t lang="chi">蘇<note n="0467032" resp="Taisho" place="foot text" type="orig">嚕＋（七）夾註【甲】</note><app n="0467032"><lem wit="【大】">嚕</lem><rdg resp="Taisho" wit="【甲】">嚕<note place="inline">七</note></rdg></app></t></tt><tt><t lang="san-sd">&SD-DA49;</t><t lang="chi"><yin><zi>娑<note n="0467033" resp="Taisho" place="foot text" type="orig">&CB00085;＝縛【甲】</note><app n="0467033"><lem wit="【大】">&CB00085;</lem><rdg resp="Taisho" wit="【甲】">縛</rdg></app></zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-A6A9;&SD-D9C6;</t><t lang="chi"><yin><zi><note n="0467034" resp="Taisho" place="foot text" type="orig">賀＝訶【甲】</note><app n="0467034"><lem wit="【大】">賀</lem><rdg resp="Taisho" wit="【甲】">訶</rdg></app></zi><sg><app source="0467007" type="＊"><lem wit="【大】">引</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app></sg></yin></t></tt></p>
+<lb n="0467b14" ed="T"/>
+<lb n="0467b15" ed="T"/><p id="pT21p0467b1501">作前施無畏印。誦此<note n="0467035" resp="Taisho" place="foot text" type="orig">〔&CB00057;〕－&M062485;【原】</note><sic n="0467035" resp="【原】" corr="＆lac；">&CB00057;</sic>施甘露真言一七遍。
+<lb n="0467b16" ed="T"/>能令飲食及水。變成無量乳及甘露。能開一
+<lb n="0467b17" ed="T"/>切餓鬼咽喉。能令飲食廣得增多平等得<note n="0467036" resp="Taisho" place="foot text" type="orig">〔喫〕－【甲】</note><app n="0467036"><lem wit="【大】">喫</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>
+<lb n="0467b18" ed="T"/>也。</p>
+<lb n="0467b19" ed="T"/><p id="pT21p0467b1901">次作毘盧遮那一字心水輪觀真言<note n="0467037" resp="Taisho" place="foot text" type="orig">〔印〕－【甲】</note><app n="0467037"><lem wit="【大】">印</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>。先想
+<lb n="0467b20" ed="T"/>此<term lang="san-sd">&SD-E1AF;</term>&CB00680;字<note n="0467038" resp="Taisho" place="foot text" type="orig">於＝以【甲】</note><app n="0467038"><lem wit="【大】">於</lem><rdg resp="Taisho" wit="【甲】">以</rdg></app>右手心中。猶如乳色。變為<note n="0467039" resp="Taisho" place="foot text" type="orig">〔八〕－【甲】</note><app n="0467039"><lem wit="【大】">八</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>
+<lb n="0467b21" ed="T"/>功德海。流出一切甘露醍醐。即引手臨食器
+<lb n="0467b22" ed="T"/>上<note n="0467040" resp="Taisho" place="foot text" type="orig">〔&CB00057;曰〕－&M062485;【原】</note><sic n="0467040" resp="【原】" corr="＆lac；">&CB00057;<note n="0467041" resp="Taisho" place="foot text" type="orig">〔曰誦〕－【甲】</note><note n="0467041" resp="CBETA" type="mod"><todo type="a"/>〔曰誦〕－【甲】</note>曰</sic>。誦此<term lang="san-sd">&SD-E1AF;</term><note n="0467042" resp="Taisho" place="foot text" type="orig">〔&CB00680;〕－【甲】</note><app n="0467042"><lem wit="【大】">&CB00680;</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>字一七遍。即展開五
+<lb n="0467b23" ed="T"/>指。向下臨食器中。觀想乳等從字中流出。猶
+<lb n="0467b24" ed="T"/>如日月乳海。一切鬼等皆得飽滿無有乏少。
+<lb n="0467b25" ed="T"/>此名普施一切餓鬼印真言曰。</p>
+<lb n="0467b26" ed="T"/><p id="pT21p0467b2601" type="dharani"><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">曩</t></tt><tt><t lang="san-sd">&SD-A5F0;</t><t lang="chi"><app source="0467010" type="＊"><lem wit="【大】">莫</lem><rdg resp="Taisho" wit="【甲】">慕</rdg></app></t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">三</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi"><note n="0467043" resp="Taisho" place="foot text" type="orig">滿多＝漫多一【甲】</note>滿</t></tt><tt><t lang="san-sd">&SD-CA56;</t><t lang="chi">多</t></tt><tt><t lang="san-sd">&SD-E3AD;</t><t lang="chi"><note n="0467044" resp="Taisho" place="foot text" type="orig">沒＝勃【甲】</note><app n="0467044"><lem wit="【大】">沒</lem><rdg resp="Taisho" wit="【甲】">勃</rdg></app></t></tt><tt><t lang="san-sd">&SD-D9FA;</t><t lang="chi">馱</t></tt><tt><t lang="san-sd">&SD-E040;</t><t lang="chi"><note n="0467045" resp="Taisho" place="foot text" type="orig">喃&CB00680;去＝喃二縛&CB00292;二合三【甲】</note>喃</t></tt><tt><t lang="san-sd">&SD-A660;&SD-D9C6;</t><t lang="chi"><yin><zi>&CB00680;</zi><sg>去</sg></yin></t></tt></p>
+<lb n="0467b27" ed="T"/>
+<lb n="0467b28" ed="T"/><p id="pT21p0467b2801">觀想誦此&CB00057;一七遍已。寫於淨地無人行處。
+<lb n="0467b29" ed="T"/>或水池邊樹下。唯不得寫於桃樹柳樹石榴
+<pb n="0467c" id="T21.1315.0467c" ed="T"/>
+<lb n="0467c01" ed="T"/>樹下。寫訖更為至心。稱五如來名號三遍功
+<lb n="0467c02" ed="T"/>德無量。</p>
+<lb n="0467c03" ed="T"/><p id="pT21p0467c0301" type="dharani"><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi"><note n="0467046" resp="Taisho" place="foot text" type="orig">〔曩謨…也〕二十字－【甲】</note>曩</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi">謨</t></tt><tt><t lang="san-sd">&SD-A5D9;</t><t lang="chi">薄</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">伽</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">筏</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">帝</t></tt><tt><t lang="san-sd">&SD-DA44;</t><t lang="chi">&CB00425;囉</t></tt><tt><t lang="san-sd">&SD-A5DE;</t><t lang="chi">步</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">多</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">囉</t></tt><tt><t lang="san-sd">&SD-B449;</t><t lang="chi">怛曩</t></tt>
+<lb n="0467c04" ed="T"/>
+<lb n="0467c05" ed="T"/><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">也</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi">他</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB00617;</t></tt><tt><t lang="san-sd">&SD-A558;</t><t lang="chi"><yin><zi>多</zi><sg>引</sg></yin></t></tt><tt><t lang="san-sd"></t></tt><tt><t lang="san-sd">&SD-A5F1;&SD-D9C6;</t><t lang="chi">也</t></tt></p>
+<lb n="0467c06" ed="T"/>
+<lb n="0467c07" ed="T"/><p id="pT21p0467c0701"><note n="0467047" resp="Taisho" place="foot text" type="orig">曩謨＝南無【甲】＊</note><app n="0467047"><lem wit="【大】">曩謨</lem><rdg resp="Taisho" wit="【甲】">南無</rdg></app>寶勝如來<note n="0467048" resp="Taisho" place="foot text" type="orig">除慳乃至滿八字甲本作細註</note><note n="0467048" resp="CBETA" type="mod">（除慳貪業福德圓滿）八字本文＝（除慳貪業福德圓滿）八字細註【甲】</note><app n="0467048"><lem wit="【大】">除慳<note n="0467049" resp="Taisho" place="foot text" type="orig">貪＝&CB00385;【甲】</note><app n="0467049"><lem wit="【大】">貪</lem><rdg resp="Taisho" wit="【甲】">&CB00385;</rdg></app>業<note n="0467050" resp="Taisho" place="foot text" type="orig">（得）＋福【甲】</note><app n="0467050"><lem wit="【大】">福</lem><rdg resp="Taisho" wit="【甲】">得福</rdg></app>德圓<note n="0467051" resp="Taisho" place="foot text" type="orig">滿＋（也）【甲】</note><app n="0467051"><lem wit="【大】">滿</lem><rdg resp="Taisho" wit="【甲】">滿也</rdg></app></lem><rdg resp="Taisho" wit="【甲】"><note place="inline">除慳貪業福德圓滿</note></rdg></app>。</p>
+<lb n="0467c08" ed="T"/><p id="pT21p0467c0801" type="dharani"><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi"><note n="0467052" resp="Taisho" place="foot text" type="orig">〔曩謨…也〕十六字－【甲】</note>曩</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi">謨</t></tt><tt><t lang="san-sd">&SD-A5D9;</t><t lang="chi">薄</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">伽</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">筏</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">帝</t></tt><tt><t lang="san-sd">&SD-E0BC;</t><t lang="chi">蘇</t></tt><tt><t lang="san-sd">&SD-A643;</t><t lang="chi">嚕</t></tt><tt><t lang="san-sd">&SD-A5F2;</t><t lang="chi">波</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi">他</t></tt>
+<lb n="0467c09" ed="T"/>
+<lb n="0467c10" ed="T"/><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB00617;</t></tt><tt><t lang="san-sd">&SD-A558;</t><t lang="chi"><yin><zi>多</zi><sg>引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5F1;&SD-D9C6;</t><t lang="chi">也</t></tt></p>
+<lb n="0467c11" ed="T"/>
+<lb n="0467c12" ed="T"/><p id="pT21p0467c1201"><app source="0467047" type="＊"><lem wit="【大】">曩謨</lem><rdg resp="Taisho" wit="【甲】">南無</rdg></app>妙色身如來<note n="0467053" resp="Taisho" place="foot text" type="orig">破醜陋形四字甲本作細註</note><note n="0467053" resp="CBETA" type="mod">（破醜陋形）四字本文＝（破醜陋形）四字細註【甲】</note><app n="0467053"><lem wit="【大】">破醜陋形</lem><rdg resp="Taisho" wit="【甲】"><note place="inline">破醜陋形</note></rdg></app><note n="0467054" resp="Taisho" place="foot text" type="orig">〔相好圓滿〕－【甲】</note><app n="0467054"><lem wit="【大】">相好圓滿</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>。</p>
+<lb n="0467c13" ed="T"/><p id="pT21p0467c1301" type="dharani"><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi"><note n="0467055" resp="Taisho" place="foot text" type="orig">〔曩謨…耶〕十九字－【甲】</note>曩</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi">謨</t></tt><tt><t lang="san-sd">&SD-A5D9;</t><t lang="chi">婆</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">伽</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">筏</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">帝</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-DA78;</t><t lang="chi">蜜&CB00069;</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">帝</t></tt><tt><t lang="san-sd">&SD-A5FE;</t><t lang="chi">囉</t></tt><tt><t lang="san-sd">&SD-A4B6;</t><t lang="chi">惹</t></tt>
+<lb n="0467c14" ed="T"/>
+<lb n="0467c15" ed="T"/><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi">他</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB00617;</t></tt><tt><t lang="san-sd">&SD-A558;</t><t lang="chi"><yin><zi>多</zi><sg>引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5F1;&SD-D9C6;</t><t lang="chi">耶</t></tt></p>
+<lb n="0467c16" ed="T"/>
+<lb n="0467c17" ed="T"/><p id="pT21p0467c1701"><app source="0467047" type="＊"><lem wit="【大】">曩謨</lem><rdg resp="Taisho" wit="【甲】">南無</rdg></app>甘露王如來<note n="0467056" resp="Taisho" place="foot text" type="orig">灌法乃至樂八字甲本作細註</note><note n="0467056" resp="CBETA" type="mod">（灌法身心令受快樂）八字本文＝（灌法身心令受快樂）八字細註【甲】</note><app n="0467056"><lem wit="【大】">灌法身心令受快<note n="0467057" resp="Taisho" place="foot text" type="orig">樂＋（也）【甲】</note><app n="0467057"><lem wit="【大】">樂</lem><rdg resp="Taisho" wit="【甲】">樂也</rdg></app></lem><rdg resp="Taisho" wit="【甲】"><note place="inline">灌法身心令受快樂</note></rdg></app>。</p>
+<lb n="0467c18" ed="T"/><p id="pT21p0467c1801" type="dharani"><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi"><note n="0467058" resp="Taisho" place="foot text" type="orig">〔曩謨…也〕二十一字－【甲】</note>曩</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi">謨</t></tt><tt><t lang="san-sd">&SD-A5D9;</t><t lang="chi">婆</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">伽</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">筏</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">帝</t></tt><tt><t lang="san-sd">&SD-A658;</t><t lang="chi">尾</t></tt><tt><t lang="san-sd">&SD-A5B9;</t><t lang="chi">布</t></tt><tt><t lang="san-sd">&SD-A64A;</t><t lang="chi">邏</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB00617;</t></tt><tt><t lang="san-sd">&SD-AA5F;</t><t lang="chi"><yin><zi>怛羅</zi><sg>二合</sg></yin></t></tt>
+<lb n="0467c19" ed="T"/>
+<lb n="0467c20" ed="T"/><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi">他</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB00617;</t></tt><tt><t lang="san-sd">&SD-A558;</t><t lang="chi"><yin><zi>多</zi><sg>引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5F1;&SD-D9C6;</t><t lang="chi">也</t></tt></p>
+<lb n="0467c21" ed="T"/>
+<lb n="0467c22" ed="T"/><p id="pT21p0467c2201"><app source="0467047" type="＊"><lem wit="【大】">曩謨</lem><rdg resp="Taisho" wit="【甲】">南無</rdg></app>廣博身如來<note n="0467059" resp="Taisho" place="foot text" type="orig">咽喉寬大四字甲本作細註</note><note n="0467059" resp="CBETA" type="mod">（咽喉寬大）四字本文＝（咽喉寬大）四字細註【甲】</note><app n="0467059"><lem wit="【大】">咽喉寬大</lem><rdg resp="Taisho" wit="【甲】"><note place="inline">咽喉寬大</note></rdg></app><note n="0467060" resp="Taisho" place="foot text" type="orig">〔受妙味〕－【甲】</note><app n="0467060"><lem wit="【大】">受妙味</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>。</p>
+<pb n="0468a" id="T21.1315.0468a" ed="T"/>
+<lb n="0468a01" ed="T"/><p id="pT21p0468a0101" type="dharani"><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi"><note n="0468001" resp="Taisho" place="foot text" type="orig">〔曩謨…耶〕二十字－【甲】</note>曩</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi">謨</t></tt><tt><t lang="san-sd">&SD-A5D9;</t><t lang="chi">婆</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">伽</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">筏</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">帝</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-A5D9;</t><t lang="chi">婆</t></tt><tt><t lang="san-sd">&SD-A5FB;</t><t lang="chi">演</t></tt><tt><t lang="san-sd">&SD-A440;</t><t lang="chi">迦</t></tt><tt><t lang="san-sd">&SD-A5FE;</t><t lang="chi"><yin><zi>羅</zi><sg>引</sg></yin></t></tt>
+<lb n="0468a02" ed="T"/>
+<lb n="0468a03" ed="T"/><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi"><yin><zi>他</zi><sg>引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB00617;</t></tt><tt><t lang="san-sd">&SD-A558;</t><t lang="chi"><yin><zi>多</zi><sg>引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A5F1;&SD-D9C6;</t><t lang="chi">耶</t></tt></p>
+<lb n="0468a04" ed="T"/>
+<lb n="0468a05" ed="T"/><p id="pT21p0468a0501"><app source="0467047" type="＊"><lem wit="【大】">曩謨</lem><rdg resp="Taisho" wit="【甲】">南無</rdg></app>離怖畏如來<note n="0468002" resp="Taisho" place="foot text" type="orig">恐怖乃至趣八字甲本作細註</note><note n="0468002" resp="CBETA" type="mod">（恐怖悉除離餓鬼趣）八字本文＝（恐怖悉除離餓鬼趣）八字細註【甲】</note><app n="0468002"><lem wit="【大】">恐怖悉除離餓鬼趣</lem><rdg resp="Taisho" wit="【甲】"><note place="inline">恐怖悉除離餓鬼趣</note></rdg></app>。</p>
+<lb n="0468a06" ed="T"/><p id="pT21p0468a0601">行者若能如此。為稱五如來名者。以佛威光
+<lb n="0468a07" ed="T"/>加被彼故。能令一切餓鬼等。無量罪滅無量
+<lb n="0468a08" ed="T"/>福生。得妙色廣博得無怖畏所得飲食。變成
+<lb n="0468a09" ed="T"/>甘露美妙之食。速離苦身生天淨土。</p>
+<lb n="0468a10" ed="T"/><p id="pT21p0468a1001">若施食已。行者當更為諸鬼神等。<note n="0468003" resp="Taisho" place="foot text" type="orig">〔誦〕－【甲】</note><app n="0468003"><lem wit="【大】">誦</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>受菩薩
+<lb n="0468a11" ed="T"/>三昧耶戒陀羅尼。每誦三<note n="0468004" resp="Taisho" place="foot text" type="orig">遍＋（出金剛大道場大明&CB00057;經）【甲】</note><app n="0468004"><lem wit="【大】">遍</lem><rdg resp="Taisho" wit="【甲】">遍出金剛大道場大明&CB00057;經</rdg></app>真言曰<note n="0468005" resp="Taisho" place="foot text" type="orig">〔印合掌也〕－【甲】</note><app n="0468005"><lem wit="【大】"><note place="inline">印合掌也</note></lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>。</p>
+<lb n="0468a12" ed="T"/><p id="pT21p0468a1201" type="dharani"><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">三</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi"><note n="0468006" resp="Taisho" place="foot text" type="orig">摩＝昧【甲】</note><app n="0468006"><lem wit="【大】">摩</lem><rdg resp="Taisho" wit="【甲】">昧</rdg></app></t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶</t></tt><tt><t lang="san-sd">&SD-E041;&SD-D9C6;</t><t lang="chi">薩怛<note n="0468007" resp="Taisho" place="foot text" type="orig">梵＝&CB01227;婆&CB00292;反【甲】</note><app n="0468007"><lem wit="【大】">梵</lem><rdg resp="Taisho" wit="【甲】">&CB01227;婆&CB00292;反</rdg></app></t></tt></p>
+<lb n="0468a13" ed="T"/>
+<lb n="0468a14" ed="T"/><p id="pT21p0468a1401">誦三遍已。一切鬼神皆得堪聞甚深祕法。盡
+<lb n="0468a15" ed="T"/>得具足三昧耶戒獲無量福。</p>
+<lb n="0468a16" ed="T"/><p id="pT21p0468a1601">已施諸餓鬼悉皆飽滿訖。當須以陀羅尼法
+<lb n="0468a17" ed="T"/>發遣。方得歸於本所。發遣解脫真言<note n="0468008" resp="Taisho" place="foot text" type="orig">曰＝云是解脫金剛明誦之度厄也&CB00057;曰【甲】</note><app n="0468008"><lem wit="【大】">曰</lem><rdg resp="Taisho" wit="【甲】">云是解脫金剛明誦之度厄也&CB00057;曰</rdg></app>。</p>
+<lb n="0468a18" ed="T"/><p id="pT21p0468a1801" type="dharani"><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi"><note n="0468009" resp="Taisho" place="foot text" type="orig">&CB00085;日囉目乞灑＝麼惹羅二合慕羯叉二合【甲】</note>&CB00085;</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-E043;</t><t lang="chi">目</t></tt><tt><t lang="san-sd">&SD-A6B4;</t><t lang="chi">乞灑</t></tt><tt><t lang="san-sd">&SD-E0A8;&SD-D9C6;</t><t lang="chi">穆</t></tt></p>
+<lb n="0468a19" ed="T"/>
+<lb n="0468a20" ed="T"/><p id="pT21p0468a2001">若誦發遣&CB00057;。先作<note n="0468010" resp="Taisho" place="foot text" type="orig">&CB00057;＝手&M062485;【原】，〔&CB00057;〕－【甲】</note><app n="0468010"><lem wit="【大】"><sic resp="【原】" corr="手">&CB00057;</sic></lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>印。以右手作拳。以大
+<lb n="0468a21" ed="T"/>指捻頭指。仰掌彈指作聲。是名發遣<note n="0468011" resp="Taisho" place="foot text" type="orig">啟＝契&M062485;【原】</note><sic n="0468011" resp="【原】" corr="契">啟</sic>。每
+<lb n="0468a22" ed="T"/>寫食了誦一七遍彈指。能令一切鬼神。得此
+<lb n="0468a23" ed="T"/>食已當得去也。若不發遣不得去也。</p>
+<lb n="0468a24" ed="T"/><p id="pT21p0468a2401">若不具足如是法者。施諸餓鬼皆不得周匝。
+<lb n="0468a25" ed="T"/>或有得者或有不得者。虛用功力深可愍哉。</p>
+<lb n="0468a26" ed="T"/><p id="pT21p0468a2601">若有行者發菩提心。能如是修行<note n="0468012" resp="Taisho" place="foot text" type="orig">〔者〕－【甲】</note><app n="0468012"><lem wit="【大】">者</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>。具足此
+<lb n="0468a27" ed="T"/>法施諸餓鬼者。一切餓鬼皆得飽滿無有乏
+<lb n="0468a28" ed="T"/>少。持法之人悉應知之。若以加持飲食陀羅
+<lb n="0468a29" ed="T"/>尼。持一器淨食寫淨流水中。能令一切婆羅
+<pb n="0468b" id="T21.1315.0468b" ed="T"/>
+<lb n="0468b01" ed="T"/>門仙皆得此食食已異口同音&CB00057;願。此人於
+<lb n="0468b02" ed="T"/>現世中即得延壽。其人具足梵天威德行梵
+<lb n="0468b03" ed="T"/>天行。若以此&CB00057;&CB00057;一切供養佛物。若水若香
+<lb n="0468b04" ed="T"/>花飲食。皆&CB00057;二十一遍。<note n="0468013" resp="Taisho" place="foot text" type="orig">〔而〕－【甲】</note><app n="0468013"><lem wit="【大】">而</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>然供養佛。即如
+<lb n="0468b05" ed="T"/><note n="0468014" resp="Taisho" place="foot text" type="orig">〔是〕－【甲】</note><app n="0468014"><lem wit="【大】">是</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>種種。以供養十方一切諸佛無異。</p>
+<lb n="0468b06" ed="T"/><juan n="001" fun="close"><jhead>施燋面餓鬼一切鬼神陀羅尼經要決</jhead></juan>
+<lb n="0468b07" ed="T"/><p id="pT21p0468b0701" type="W"><note n="0468015" resp="Taisho" place="foot text" type="orig">以下甲本無</note><note n="0468015" resp="CBETA" type="mod"><todo type="a"/>以下甲本無</note>別有救面然餓鬼陀羅尼經唐實叉難陀譯。</p>
+<lb n="0468b08" ed="T"/><p id="pT21p0468b0801" type="W">貞享四年中春二十日一校了　淨嚴<note place="inline">四十九載</note></p>
+<lb n="0468b09" ed="T"/><p id="pT21p0468b0901" type="W">元祿十六年二月十七日　以淨嚴和上本
+<lb n="0468b10" ed="T"/>再校了　　尊教</p>
+<lb n="0468b11" ed="T"/><p id="pT21p0468b1101" type="W">寶永三丙戌之春　得此密軌　戊子之冬
+<lb n="0468b12" ed="T"/>十月二十二日一校了　　性寂</p></div1>
+</body></text></TEI.2>

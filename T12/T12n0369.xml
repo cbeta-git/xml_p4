@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "T12n0369.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 0369 阿彌陀佛說&CB00057;</title>
+			<author></author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.11 $ (Big5)<date>$Date: 2012/08/27 03:14:38 $</date>新式標點版</edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/08/27 03:14:38 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 12, No. 369 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA, CBETA OCR Group, Punctuated text as provided by CBETA</p>
+		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供，CBETA 自行掃瞄辨識，CBETA 新式標點</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language id="chi">Chinese</language>
+			<language id="eng">English</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+	<change>
+		<date>19990628/19:58:30</date>
+		<respStmt><name>CW</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT (99/6/28)</item>
+	</change>
+<!--
+$Log: T12n0369.xml,v $
+Revision 1.11  2012/08/27 03:14:38  maha
+修訂新標小圓點及著重號
+
+Revision 1.10  2011/04/22 07:05:47  eva
+上傳 新式標點版
+
+Revision 1.9  2009/04/23 07:58:01  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.8  2006/04/12 21:54:40  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.6  2004/09/15 02:45:12  saywhat
+juan加上jhead, 刪除空的 juan close
+
+Revision 1.5  2004/04/20 08:37:42  maha
+「版本日期」標記修訂
+
+Revision 1.4  2004/02/27 00:38:05  ray
+add cvs log
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0352a20" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0352a21" ed="T"/>
+<lb n="0352a22" ed="T"/><head type="no">No. 369</head>
+<lb n="0352a23" ed="T"/><juan n="001" fun="open"><mulu n="1" type="卷"/><jhead>阿彌陀佛說&CB00057;</jhead></juan>
+<lb n="0352a24" ed="T"/>
+<lb n="0352a25" ed="T"/><div1 type="jing"><p id="pT12p0352a2501" type="dharani">那<note place="inline">上</note>謨菩<note place="inline">上</note>陀夜<note place="inline">藥可反，下同</note>那謨&CB00501;囉<note place="inline">上</note>摩夜那
+<lb n="0352a26" ed="T"/>謨僧伽夜那摩<note place="inline">上</note>阿<note place="inline">上</note>弭多婆<note place="inline">上</note>夜跢<note place="inline">丁可反，下同</note>
+<lb n="0352a27" ed="T"/>他伽<note place="inline">上</note>多夜阿<note place="inline">上</note>囉<note place="inline">上</note>訶<note place="inline">上</note>羝三藐三菩<note place="inline">上</note>陀
+<lb n="0352a28" ed="T"/>夜跢姪<note place="inline">地也反，下同</note>他阿<note place="inline">上</note>弭唎<note place="inline">上</note>羝阿<note place="inline">上</note>弭唎都
+<lb n="0352a29" ed="T"/>婆<note place="inline">上</note>鼙<note place="inline">菩繼反，下同</note>阿<note place="inline">上</note>弭唎跢三婆<note place="inline">上</note>鼙阿<note place="inline">上</note>弭
+<pb n="0352b" id="T12.0369.0352b" ed="T"/>
+<lb n="0352b01" ed="T"/>唎跢鼻<note place="inline">菩弭反</note>迦<note place="inline">上</note>&CB01836;羝伽弭&CB00135;伽<note place="inline">上</note>伽<note place="inline">上</note>那<note place="inline">上</note>
+<lb n="0352b02" ed="T"/>稽<note place="inline">居移反</note>唎底<note place="inline">都&CB00135;反</note>迦<note place="inline">上</note>&CB02253;婆<note place="inline">上</note>囉<note place="inline">上</note>皤波跢叉
+<lb n="0352b03" ed="T"/><note place="inline">楚我反</note>焰迦&CB02253;<note place="inline">一切惡業</note>娑<note place="inline">上</note>婆訶<note place="inline">若能如法受持，決定得生彌陀佛國</note></p></div1>
+</body></text></TEI.2>

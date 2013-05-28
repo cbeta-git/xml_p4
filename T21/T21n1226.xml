@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "T21n1226.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1226 烏芻&CB00612;明王儀軌梵字</title>
+			<author></author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.9 $ (Big5)<date>$Date: 2010/03/07 04:46:33 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2010/03/07 04:46:33 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 21, No. 1226 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language id="san-sd">Sanskrit-Siddam</language>
+			<language id="eng">English</language>
+			<language id="chi">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+	<change>
+		<date>20000131/09:31:27</date>
+		<respStmt><name>CW</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT (00/01/05)</item>
+	</change>
+<!--
+$Log: T21n1226.xml,v $
+Revision 1.9  2010/03/07 04:46:33  saywhat
+p0141b23 &SD-A656; 改成 &SD-A5CD; ,..., p0142b01&SD-A5B7;  改成 &SD-A565;
+
+Revision 1.8  2009/04/23 08:01:44  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.7  2006/04/12 21:55:53  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.5  2006/03/26 04:37:31  saywhat
+p0142b04 SD-AF72=>SD-D9FA
+
+Revision 1.4  2004/10/22 04:03:43  saywhat
+段落前加入圈點
+
+Revision 1.3  2004/06/09 04:28:00  saywhat
+<pb>後的</p></div>移到上一行
+
+Revision 1.2  2004/04/20 08:39:09  maha
+「版本日期」標記修訂
+
+Revision 1.1.1.1  2003/05/05 04:09:26  ray
+recover cvs
+
+Revision 1.14  2002/11/28 10:06:35  saywhat
+校勘插入處理
+
+Revision 1.13  2002/11/04 10:46:12  ray
+tei.2 => TEI.2
+
+Revision 1.12  2002/07/29 09:57:19  vinking
+modified lang
+
+Revision 1.11  2002/04/08 09:07:11  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.10  2001/07/24 06:53:36  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.9  2001/03/30 05:57:24  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.8  2001/03/25 09:18:34  ray
+add <milestone>
+
+Revision 1.7  2001/02/07 06:57:11  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.6  2001/02/03 07:47:04  chris
+Added keywords $Revision: 1.9 $, $Date: 2010/03/07 04:46:33 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0141b13" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0141b14" ed="T"/>
+<lb n="0141b15" ed="T"/>
+<lb n="0141b16" ed="T"/><head type="no">No. 1226</head><div1 type="other">
+<lb n="0141b17" ed="T"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><note n="0141050" resp="Taisho" place="foot text" type="orig">平安時代淳祐寫石山寺藏本</note>烏芻&CB00612;明王儀軌梵字</jhead></juan>
+<lb n="0141b18" ed="T"/>
+<lb n="0141b19" ed="T"/><p lang="san-sd" id="pT21p0141b1901" type="dharani">&SD-E074;&SD-A557;&SD-A564;&SD-A458;&SD-A55F;&SD-CE4A;&SD-A657;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0141b20" ed="T"/><p lang="san-sd" id="pT21p0141b2001" type="dharani">&SD-E074;&SD-A5B5;&SD-E2A4;&SD-CE4A;&SD-A657;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0141b21" ed="T"/><p lang="san-sd" id="pT21p0141b2101" type="dharani">&SD-E074;&SD-A656;&SD-A9C5;&SD-CE4A;&SD-A657;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0141b22" ed="T"/><p lang="san-sd" id="pT21p0141b2201" type="dharani">&SD-E074;&SD-A656;&SD-A9C5;&SD-B34B;&SD-AABC;&SD-A572;&SD-CEE5;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0141b23" ed="T"/><p lang="san-sd" id="pT21p0141b2301" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A94F;&SD-A57B;&SD-A5E5;&SD-A6A9;&SD-A5CD;&SD-A64A;&SD-A6A8;&SD-A5A9;&SD-A56F;&SD-A6A8;&SD-A5B5;
+<lb n="0141b24" ed="T"/>&SD-A47C;&SD-A658;&SD-A56D;&SD-A67A;&SD-A5F1;&SD-D1F3;&SD-DA79;&SD-B2C0;&SD-A94F;&SD-A57B;&SD-E17C;&SD-A5C1;&SD-E046;&SD-B065;
+<lb n="0141b25" ed="T"/>&SD-A6A9;&SD-D5B4;</p>
+<lb n="0141b26" ed="T"/><p lang="san-sd" id="pT21p0141b2601" type="dharani">&SD-E074;&SD-E04A;&SD-A64A;&SD-E04A;&SD-A64A;&SD-A67A;&SD-B7A3;&SD-E1DA;&SD-CD4B;&SD-CDA9;&SD-CACC;&SD-A5F1;&SD-CDA9;&SD-CACC;
+<lb n="0141b27" ed="T"/>&SD-A5F1;&SD-E1DA;&SD-B6D4;&SD-A5FD;&SD-E1DA;&SD-CD4C;&SD-A5AB;&SD-A657;&SD-A5FD;&SD-A5F1;&SD-A5FD;&SD-A6B4;&SD-A5FD;&SD-A6B4;
+<lb n="0141b28" ed="T"/>&SD-E05D;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0141b29" ed="T"/><p lang="san-sd" id="pT21p0141b2901" type="dharani">&SD-E074;&SD-A67A;&SD-B7A4;&SD-A458;&SD-A4C0;&SD-A5E5;&SD-A6A9;&SD-A55D;&SD-A4C0;&SD-A656;&SD-A9BE;&SD-A662;&SD-A5AB;&SD-A656;
+<pb n="0141c" id="T21.1226.0141c" ed="T"/>
+<lb n="0141c01" ed="T"/>&SD-A5F1;&SD-CDA9;&SD-CACC;&SD-A5F1;&SD-E17C;&SD-A5C1;&SD-E046;&SD-D5B4;</p>
+<lb n="0141c02" ed="T"/><p lang="san-sd" id="pT21p0141c0201" type="dharani">&SD-E074;&SD-A94F;&SD-A57B;&SD-A5A9;&SD-E17C;&SD-A4C1;&SD-D5B4;</p>
+<lb n="0141c03" ed="T"/><p lang="san-sd" id="pT21p0141c0301" type="dharani">&SD-E074;&SD-E17C;&SD-A5C1;&SD-E046;&SD-D1F3;&SD-A95F;&SD-A667;&SD-A64A;&SD-A5B6;&SD-A54D;&SD-E17C;&SD-E17C;&SD-E17C;&SD-A5C1;
+<lb n="0141c04" ed="T"/>&SD-E046;&SD-A5C1;&SD-E046;&SD-A5C1;&SD-E046;&SD-DA42;&SD-A75D;&SD-A559;&SD-A5AB;&SD-A5AA;&SD-A56F;&SD-E17C;&SD-E17C;&SD-E17C;
+<lb n="0141c05" ed="T"/>&SD-A5C1;&SD-E046;&SD-A5C1;&SD-E046;&SD-A5C1;&SD-E046;&SD-E074;&SD-E074;&SD-E074;&SD-A5E5;&SD-A6A9;&SD-A656;&SD-A64A;&SD-B065;
+<lb n="0141c06" ed="T"/>&SD-A6A9;&SD-D5B4;</p>
+<lb n="0141c07" ed="T"/><p lang="san-sd" id="pT21p0141c0701" type="dharani">&SD-E074;&SD-A442;&SD-A64C;&SD-A442;&SD-A64C;&SD-A656;&SD-A9BD;&SD-A656;&SD-A9BF;&SD-A5DE;&SD-B7A3;&SD-AFAB;&SD-A656;&SD-AFAB;
+<lb n="0141c08" ed="T"/>&SD-E17C;&SD-A5C1;&SD-E046;</p>
+<lb n="0141c09" ed="T"/><p lang="san-sd" id="pT21p0141c0901" type="dharani">&SD-E074;&SD-A67A;&SD-A5FD;&SD-A67A;&SD-A5FD;&SD-A656;&SD-A9BD;&SD-AABD;&SD-A440;&SD-A5FD;&SD-E17C;&SD-A5C1;&SD-E046;</p>
+<lb n="0141c10" ed="T"/><p lang="san-sd" id="pT21p0141c1001" type="dharani">&SD-E074;&SD-A658;&SD-A5E5;&SD-A652;&SD-A56F;&SD-A57D;&SD-B065;&SD-A6A9;</p>
+<lb n="0141c11" ed="T"/><p lang="san-sd" id="pT21p0141c1101" type="dharani">&SD-E074;&SD-CFC5;&SD-A47C;&SD-A64A;&SD-E17C;</p>
+<lb n="0141c12" ed="T"/><p lang="san-sd" id="pT21p0141c1201" type="dharani">&SD-E074;&SD-CFC5;&SD-A47C;&SD-A64A;&SD-A659;&SD-A644;&SD-B065;&SD-A6A9;</p>
+<lb n="0141c13" ed="T"/><p lang="san-sd" id="pT21p0141c1301" type="dharani">&SD-E074;&SD-A440;&SD-A5E5;&SD-A64A;&SD-B065;&SD-A6A9;</p>
+<lb n="0141c14" ed="T"/><p lang="san-sd" id="pT21p0141c1401" type="dharani">&SD-A5A9;&SD-A5F0;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A55D;&SD-A8A2;&SD-A658;&SD-E0AB;&SD-E043;&SD-A452;&SD-A8A5;
+<lb n="0141c15" ed="T"/>&SD-A67A;&SD-B7A3;&SD-A564;&SD-E1B9;&SD-D1F3;&SD-CCAA;&SD-A55D;&SD-CDF1;&SD-A5FD;&SD-A6AB;&SD-A5EF;&SD-A458;&SD-A458;&SD-A5A9;
+<lb n="0141c16" ed="T"/>&SD-A44A;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0141c17" ed="T"/><p lang="san-sd" id="pT21p0141c1701" type="dharani">&SD-E074;&SD-E0BC;&SD-A67C;&SD-D9FB;&SD-A440;&SD-A640;&SD-E04A;&SD-A64C;&SD-A558;&SD-A5B3;&SD-A557;&SD-E1F0;&SD-DAB1;&SD-A5F7;
+<lb n="0141c18" ed="T"/>&SD-E04A;&SD-A64A;&SD-E04A;&SD-A64A;&SD-A5CD;&SD-E3CE;&SD-A5CD;&SD-E3CE;&SD-A6A8;&SD-A5A9;&SD-A6A8;&SD-A5A9;&SD-E17C;&SD-A5C1;
+<lb n="0141c19" ed="T"/>&SD-E046;&SD-D5B4;</p>
+<lb n="0141c20" ed="T"/><p lang="san-sd" id="pT21p0141c2001" type="dharani">&SD-E074;&SD-A55B;&SD-A642;&SD-A55B;&SD-A642;&SD-E17C;&SD-D5B4;</p>
+<pb n="0142a" id="T21.1226.0142a" ed="T"/>
+<lb n="0142a01" ed="T"/>
+<lb n="0142a02" ed="T"/><p lang="san-sd" id="pT21p0142a0201" type="dharani">&SD-A5A9;&SD-A5E5;&SD-E1A4;&SD-A565;&SD-A441;&SD-E040;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A558;&SD-E040;&SD-E074;
+<lb n="0142a03" ed="T"/>&SD-A656;&SD-A9C7;&SD-A45A;&SD-A849;&SD-A440;&SD-B7BB;&SD-A5F1;&SD-E0AF;&SD-A6AA;&SD-A5D9;&SD-A458;&SD-A660;&SD-B065;&SD-A6A9;
+<lb n="0142a04" ed="T"/>&SD-D5B4;</p>
+<lb n="0142a05" ed="T"/><p lang="san-sd" id="pT21p0142a0501" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-CBEF;&SD-E15D;&SD-CFCF;&SD-E0AF;&SD-A6AA;&SD-A5D9;&SD-A458;&SD-A660;&SD-A656;&SD-A9BD;&SD-CBEF;
+<lb n="0142a06" ed="T"/>&SD-E15D;&SD-E074;&SD-A656;&SD-A9BD;&SD-A94F;&SD-A57B;&SD-A5E5;&SD-A6A9;&SD-A656;&SD-A64A;&SD-A440;&SD-A5FD;&SD-A440;&SD-A5FD;
+<lb n="0142a07" ed="T"/>&SD-DA7B;&SD-CA6E;&SD-DA7B;&SD-CA6E;&SD-E17C;&SD-A5C1;&SD-E046;&SD-D5B4;</p>
+<lb n="0142a08" ed="T"/><p lang="san-sd" id="pT21p0142a0801" type="dharani">&SD-E074;&SD-A658;&SD-CDF5;&SD-A5FD;&SD-AA76;&SD-A6B4;&SD-A656;&SD-A9BD;&SD-A5BF;&SD-A4B6;&SD-A5A9;&SD-E17C;&SD-A5C1;&SD-E046;
+<lb n="0142a09" ed="T"/>&SD-D5B4;</p>
+<lb n="0142a10" ed="T"/><p lang="san-sd" id="pT21p0142a1001" type="dharani">&SD-E074;&SD-CFC5;&SD-A67A;&SD-A5EF;&SD-A45A;&SD-A5AB;&SD-E17C;&SD-A5C1;&SD-E046;&SD-D5B4;</p>
+<lb n="0142a11" ed="T"/><p lang="san-sd" id="pT21p0142a1101" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-A659;&SD-A5FE;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0142a12" ed="T"/><p lang="san-sd" id="pT21p0142a1201" type="dharani">&SD-A5E5;&SD-A6A9;&SD-A5CD;&SD-A64B;&SD-A5F1;&SD-A47C;&SD-C9FE;&SD-A5F1;&SD-A658;&SD-A7F0;&SD-A5FE;&SD-A4B6;&SD-A5F1;&SD-A56F;
+<lb n="0142a13" ed="T"/>&SD-CA40;&SD-A5AF;&SD-A658;&SD-A5AA;&SD-A5F1;&SD-A440;&SD-CBEF;&SD-E15D;&SD-A558;&SD-E2CD;&SD-A5F1;&SD-A5A9;&SD-A5F0;&SD-A94F;
+<lb n="0142a14" ed="T"/>&SD-A57C;&SD-A5F1;&SD-A656;&SD-A9BF;&SD-A551;&SD-D5B4;</p>
+<lb n="0142a15" ed="T"/><p lang="san-sd" id="pT21p0142a1501" type="dharani">&SD-E074;&SD-A444;&SD-A64A;&SD-E3CE;&SD-A640;&SD-A5CD;&SD-E3CE;&SD-A5CD;&SD-E3CE;&SD-E17C;&SD-A5C1;&SD-E046;&SD-D5B4;</p>
+<lb n="0142a16" ed="T"/><p lang="san-sd" id="pT21p0142a1601" type="dharani">&SD-E074;&SD-B052;&SD-A55D;&SD-A5E5;&SD-A6A9;&SD-B052;&SD-A55D;&SD-A44C;&SD-A56F;&SD-A5AF;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0142a17" ed="T"/><p lang="san-sd" id="pT21p0142a1701" type="dharani">&SD-E074;&SD-A656;&SD-A9BD;&SD-CBEF;&SD-E15D;&SD-D5B4;</p>
+<lb n="0142a18" ed="T"/><p lang="san-sd" id="pT21p0142a1801" type="dharani">&SD-E074;&SD-E1A5;&SD-E04A;&SD-A64A;&SD-CFC1;&SD-D5B4;</p>
+<lb n="0142a19" ed="T"/><p lang="san-sd" id="pT21p0142a1901" type="dharani">&SD-E074;&SD-A442;&SD-A64C;&SD-A442;&SD-A64C;&SD-A656;&SD-A9BD;&SD-E17C;&SD-A5C1;&SD-E046;&SD-D5B4;</p>
+<lb n="0142a20" ed="T"/><p lang="san-sd" id="pT21p0142a2001" type="dharani">&SD-E074;&SD-CFCF;&SD-E0AF;&SD-A6AA;&SD-A5E5;&SD-A6A9;&SD-A5DE;&SD-A557;&SD-A575;&SD-A656;&SD-B7BD;&SD-AF73;&SD-A4B6;&SD-A67A;
+<lb n="0142a21" ed="T"/>&SD-CF55;&SD-A5E5;&SD-E0C8;&SD-A6AA;&SD-AF5A;&SD-E1DA;&SD-A559;&SD-A5E5;&SD-A6A8;&SD-A5FD;&SD-A5E5;&SD-B2CE;&SD-A6A6;&SD-A5AB;
+<lb n="0142a22" ed="T"/>&SD-A6AA;&SD-A55F;&SD-A5D9;&SD-A656;&SD-CFC5;&SD-B34B;&SD-A5F7;&SD-A6A8;&SD-A8BE;&SD-A440;&SD-A8BE;&SD-A657;&SD-A6A9;&SD-A5AA;
+<lb n="0142a23" ed="T"/>&SD-A5F1;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0142a24" ed="T"/><p lang="san-sd" id="pT21p0142a2401" type="dharani">&SD-E074;&SD-CFC5;&SD-CC48;&SD-A55D;&SD-A6A8;&SD-A5A9;&SD-A6A8;&SD-A5A9;&SD-E17C;&SD-A5C1;&SD-E046;&SD-D5B4;</p>
+<lb n="0142a25" ed="T"/><p lang="san-sd" id="pT21p0142a2501" type="dharani">&SD-E074;&SD-A656;&SD-A5FD;&SD-A56F;&SD-A656;&SD-A9BD;&SD-E2A5;&SD-D5B4;</p>
+<lb n="0142a26" ed="T"/><p lang="san-sd" id="pT21p0142a2601" type="dharani">&SD-CFC5;&SD-B349;&SD-A5F7;&SD-A6A8;&SD-A8BE;&SD-A440;&SD-A8BE;&SD-A657;&SD-A6A8;&SD-A5AA;&SD-A5F1;&SD-A572;&SD-A854;&SD-A572;
+<lb n="0142a27" ed="T"/>&SD-A854;&SD-A572;&SD-A5B5;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0142a28" ed="T"/><p lang="san-sd" id="pT21p0142a2801" type="dharani">&SD-E042;&SD-A4B8;&SD-A55F;&SD-A67C;&SD-A5E5;&SD-A5F2;&SD-A5D9;&SD-E2AF;&SD-A458;&SD-DA79;&SD-CFC5;&SD-B34B;&SD-B064;&SD-A5D9;
+<lb n="0142a29" ed="T"/>&SD-A656;&SD-E040;&SD-A5B9;&SD-A5A9;&SD-A5FD;&SD-A855;&SD-A458;&SD-A5E6;&SD-A56F;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<pb n="0142b" id="T21.1226.0142b" ed="T"/>
+<lb n="0142b01" ed="T"/><p lang="san-sd" id="pT21p0142b0101" type="dharani">&SD-A5A9;&SD-A5F0;&SD-E1A4;&SD-A565;&SD-A441;&SD-E040;&SD-A67A;&SD-B7A3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-E040;&SD-E0B5;
+<lb n="0142b02" ed="T"/>&SD-A658;&SD-A5FD;&SD-A4B8;&SD-A658;&SD-A5FD;&SD-A4B8;&SD-A5E5;&SD-A6A9;&SD-A656;&SD-A9BF;&SD-A67A;&SD-A557;&SD-A67A;&SD-A557;
+<lb n="0142b03" ed="T"/>&SD-A67B;&SD-A5FD;&SD-A55D;&SD-A67B;&SD-A5FD;&SD-A55D;&SD-AA5E;&SD-A5F3;&SD-AA5E;&SD-A5F3;&SD-A658;&SD-A57B;&SD-A5E5;&SD-A5AB;
+<lb n="0142b04" ed="T"/>&SD-A67A;&SD-CACC;&SD-A4B6;&SD-A5AB;&SD-A557;&SD-A5FD;&SD-A5E5;&SD-A559;&SD-A67C;&SD-D9FA;&SD-A965;&SD-E1C5;&SD-B065;&SD-A6A9;
+<lb n="0142b05" ed="T"/>&SD-D5B4;</p>
+<lb n="0142b06" ed="T"/><p lang="san-sd" id="pT21p0142b0601" type="dharani">&SD-E074;&SD-A642;&SD-AA77;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0142b07" ed="T"/><p lang="san-sd" id="pT21p0142b0701" type="dharani">&SD-E074;&SD-A662;&SD-A948;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0142b08" ed="T"/><p lang="san-sd" id="pT21p0142b0801" type="dharani">&SD-E074;&SD-CFC5;&SD-B349;&SD-A5F7;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0142b09" ed="T"/><p lang="san-sd" id="pT21p0142b0901" type="dharani">&SD-E074;&SD-A65D;&SD-A656;&SD-B065;&SD-A558;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0142b10" ed="T"/><p lang="san-sd" id="pT21p0142b1001" type="dharani">&SD-E074;&SD-A5FD;&SD-A6B4;&SD-A67B;&SD-A57D;&SD-A5B5;&SD-A558;&SD-A5F7;&SD-B065;&SD-D5B4;</p>
+<lb n="0142b11" ed="T"/><p lang="san-sd" id="pT21p0142b1101" type="dharani">&SD-E074;&SD-A5EB;&SD-A464;&SD-A662;&SD-A5AA;&SD-A5F1;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0142b12" ed="T"/><p lang="san-sd" id="pT21p0142b1201" type="dharani">&SD-E074;&SD-A657;&SD-A5F1;&SD-A65C;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0142b13" ed="T"/><p lang="san-sd" id="pT21p0142b1301" type="dharani">&SD-E074;&SD-A5F1;&SD-A6B4;&SD-A658;&SD-DA4A;&SD-A57B;&SD-A640;&SD-B065;&SD-A6A9;&SD-D5B4;</p>
+<lb n="0142b14" ed="T"/><juan n="001" fun="close"><jhead>烏芻&CB00612;摩儀軌一卷</jhead></juan></div1>
+</body></text></TEI.2>

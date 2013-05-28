@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "T18n0877.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 0877 金剛頂經毘盧遮那一百八尊法身契印</title>
+			<author>唐 善無畏．一行譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.17 $ (Big5)<date>$Date: 2009/04/23 07:59:44 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 07:59:44 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 18, No. 877 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language id="san-sd">Sanskrit-Siddam</language>
+			<language id="eng">English</language>
+			<language id="chi">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+	<change>
+		<date>20000105/17:54:07</date>
+		<respStmt><name>CW</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT (00/01/05)</item>
+	</change>
+<!--
+$Log: T18n0877.xml,v $
+Revision 1.17  2009/04/23 07:59:44  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.16  2006/09/07 04:22:52  saywhat
+p0334c25  SD-AF79 => SD-E4BB
+
+Revision 1.15  2006/08/15 02:02:32  saywhat
+p0334c25 SD-AF77=>SD-D9FC
+
+Revision 1.14  2006/04/12 21:55:25  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.12  2006/03/20 04:28:43  saywhat
+&SD-A65A;（vu）=> &SD-E3AD;（bu）, &SD-AF72;（dvaa）=> &SD-D9FA;（ddhaa）
+
+Revision 1.11  2006/03/16 07:19:23  saywhat
+p0333c21  SD-AF72 => SD-D9FA
+
+Revision 1.10  2004/12/22 05:00:31  saywhat
+SD-A65E => SD-A5D5
+
+Revision 1.9  2004/11/14 03:17:19  maha
+將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
+
+Revision 1.8  2004/10/17 11:34:27  saywhat
+段落前加入圈點
+
+Revision 1.7  2004/09/11 09:58:16  saywhat
+刪除空的 juan close
+
+Revision 1.6  2004/07/04 13:32:03  saywhat
+修訂 div 位置
+
+Revision 1.5  2004/04/20 08:38:35  maha
+「版本日期」標記修訂
+
+Revision 1.4  2004/01/02 05:53:41  maha
+<note mod>裡的corr2app
+
+Revision 1.3  2003/06/26 02:50:38  saywhat
+<corr>→<app>
+
+Revision 1.2  2003/06/23 06:13:21  saywhat
+[＊]校勘插入XML
+
+Revision 1.1.1.1  2003/05/05 04:09:06  ray
+recover cvs
+
+Revision 1.37  2003/01/13 09:33:32  saywhat
+p.332b27 移動校勘[23] 位置
+
+Revision 1.36  2002/12/11 05:23:59  saywhat
+modified footnote 0332026
+
+Revision 1.35  2002/12/09 07:18:33  saywhat
+added CBETA按
+
+Revision 1.34  2002/12/04 01:47:38  saywhat
+校勘插入處理
+
+Revision 1.33  2002/11/04 10:44:22  ray
+tei.2 => TEI.2
+
+Revision 1.32  2002/10/07 13:09:51  moved
+modified
+
+Revision 1.31  2002/09/27 09:53:24  saywhat
+modified sidham
+
+Revision 1.30  2002/07/29 09:44:54  vinking
+modified lang
+
+Revision 1.29  2002/06/17 07:56:43  saywhat
+T18 經文修訂 20020605(maha).txt
+
+Revision 1.28  2002/04/08 08:58:21  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.27  2001/11/05 06:12:49  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.26  2001/07/24 06:52:20  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.25  2001/07/06 05:48:43  saywhat
+modified p0335a04 markup
+
+Revision 1.24  2001/06/19 13:55:36  saywhat
+modified normal
+
+Revision 1.23  2001/06/18 11:50:28  saywhat
+modified siddham
+
+Revision 1.22  2001/05/29 04:17:09  vinking
+modified </tt><note> ==> <note></t></tt>
+
+Revision 1.21  2001/05/28 09:22:05  vinking
+modified <sg type="fangie"><note place="inline"> to <sg type="fangie">
+
+Revision 1.20  2001/05/25 08:58:08  ray
+經號統一為四碼
+
+Revision 1.19  2001/05/25 07:06:24  ray
+行行悉漢對照, 兩個 <lb> 都要標
+
+Revision 1.18  2001/03/30 05:48:00  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.17  2001/03/25 09:09:16  ray
+add <milestone>
+
+Revision 1.16  2001/02/07 06:53:26  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.15  2001/02/03 07:43:10  chris
+Added keywords $Revision: 1.17 $, $Date: 2009/04/23 07:59:44 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0331b10" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0331b11" ed="T"/>
+<lb n="0331b12" ed="T"/>
+<lb n="0331b13" ed="T"/><head type="no">No. 877</head>
+<lb n="0331b14" ed="T"/><juan n="001" fun="open"><mulu n="001" type="卷"/><note n="0331016" resp="Taisho" place="foot text" type="orig">【原】縮冊大藏經，【甲】仁平元年寫高山寺藏本，【乙】保延三年寫高山寺藏本，【丙】帖策子第二十，【丁】黃蘗板淨嚴等校訂加筆本塚本賢曉氏藏</note><jhead>金剛頂經毘盧遮那<app><lem wit="【CBETA】">一</lem><rdg wit="【大】">　</rdg></app>百八尊法
+<lb n="0331b15" ed="T"/>身契印</jhead></juan>
+<lb n="0331b16" ed="T"/>
+<lb n="0331b17" ed="T"/><byline type="Translator">善無畏三藏一行和上同譯</byline>
+<lb n="0331b18" ed="T"/><div1 type="jing"><p id="pT18p0331b1801">一切如來入自己身密<note n="0331017" resp="Taisho" place="foot text" type="orig">語＋（曰）【甲】【乙】，語下丁本朱書曰即是諸佛加持密言</note><app n="0331017"><lem wit="【大】">語</lem><rdg resp="Taisho" wit="【甲】【乙】">語曰</rdg></app><note n="0331017" type="rest" place="foot">語下丁本朱書曰即是諸佛加持密言</note>。</p>
+<lb n="0331b19" ed="T"/><p id="pT18p0331b1901" type="dharani"><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi"><note n="0331018" resp="Taisho" place="foot text" type="orig">（諸佛加持）＋唵【甲】</note><app n="0331018"><lem wit="【大】">唵</lem><rdg resp="Taisho" wit="【甲】">諸佛加持唵</rdg></app></t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-B7A3;</t><t lang="chi">&CB00085;</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi">他</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">揭</t></tt><tt><t lang="san-sd"><note n="0331019" resp="Taisho" place="foot text" type="orig">&SD-A558;＝&SD-A557;【甲】</note><app n="0331019"><lem wit="【大】">&SD-A558;</lem><rdg resp="Taisho" wit="【甲】">&SD-A557;</rdg></app></t><t lang="chi">多</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-A5DB;</t><t lang="chi">毘</t></tt><tt><t lang="san-sd">&SD-CFD3;</t><t lang="chi">三</t></tt><tt><t lang="san-sd">&SD-A5D5;</t><t lang="chi">菩</t></tt><tt><t lang="san-sd">&SD-A57D;</t><t lang="chi">提</t></tt>
+<lb n="0331b20" ed="T"/>
+<lb n="0331b21" ed="T"/><tt><t lang="san-sd">&SD-CBEB;</t><t lang="chi">涅哩</t></tt><tt><t lang="san-sd">&SD-A4FE;</t><t lang="chi">荼<note place="inline">堅牢</note></t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi"><note n="0331020" resp="Taisho" place="foot text" type="orig">跋＝&CB07662;【乙】</note><app n="0331020"><lem wit="【大】">跋</lem><rdg resp="Taisho" wit="【乙】">&CB07662;</rdg></app></t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">折羅</t></tt><tt><t lang="san-sd">&SD-A559;</t><t lang="chi">底</t></tt><tt><t lang="san-sd">&SD-CD4B;</t><t lang="chi">瑟吒<note place="inline">一切如來正等菩提金剛堅牢安住我心</note></t></tt>
+<lb n="0331b22" ed="T"/>
+<lb n="0331b23" ed="T"/></p>
+<lb n="0331b24" ed="T"/><lg id="lgT18p0331b2401"><l>稽首毘盧遮那佛</l><l>一切如來金剛頂</l></lg>
+<lb n="0331b25" ed="T"/><p id="pT18p0331b2501"><note n="0331021" resp="Taisho" place="foot text" type="orig">〔金剛…心〕六字－【乙】【丙】</note><app word-count="6" n="0331021"><lem wit="【大】">金剛薩埵大心</lem><rdg resp="Taisho" wit="【乙】【丙】">&lac;</rdg></app>。</p>
+<lb n="0331b26" ed="T"/><p id="pT18p0331b2601" type="dharani"><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">南</t></tt><tt><t lang="san-sd">&SD-A5F0;</t><t lang="chi">無</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">三</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">曼</t></tt><tt><t lang="san-sd">&SD-CA56;</t><t lang="chi">哆</t></tt><tt><t lang="san-sd">&SD-E3AD;</t><t lang="chi">勃</t></tt><tt><t lang="san-sd">&SD-D9FA;</t><t lang="chi">陀</t></tt><tt><t lang="san-sd">&SD-E040;</t><t lang="chi">喃</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">折<note n="0331022" resp="Taisho" place="foot text" type="orig">囉＝羅【乙】【丙】下同</note><app n="0331022"><lem wit="【大】">囉</lem><rdg resp="Taisho" wit="【乙】【丙】">羅</rdg></app></t></tt>
+<lb n="0331b27" ed="T"/>
+<lb n="0331b28" ed="T"/><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-AF59;</t><t lang="chi">埵</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">三</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">昧</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0331b29" ed="T"/>
+<pb n="0331c" id="T18.0877.0331c" ed="T"/>
+<lb n="0331c01" ed="T"/><p id="pT18p0331c0101" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛王</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">折囉</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-A6BC;</t><t lang="chi">&CB00434;</t></tt><tt><t lang="san-sd">&SD-A878;</t><t lang="chi">鞞</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-A5DB;</t><t lang="chi">鼻</t></tt><tt><t lang="san-sd">&SD-E064;</t><t lang="chi">詵</t></tt>
+<lb n="0331c02" ed="T"/>
+<lb n="0331c03" ed="T"/><tt><t lang="san-sd">&SD-A47C;</t><t lang="chi">者</t></tt><tt><t lang="san-sd">&SD-A660;</t><t lang="chi">&CB00680;</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0331c04" ed="T"/>
+<lb n="0331c05" ed="T"/><p id="pT18p0331c0501" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛&CB00123;</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">折囉</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">阿羅</t></tt><tt><t lang="san-sd"><note n="0331023" resp="Taisho" place="foot text" type="orig">&SD-B448;＝&SD-B449;【甲】</note><app n="0331023"><lem wit="【大】">&SD-B448;</lem><rdg resp="Taisho" wit="【甲】">&SD-B449;</rdg></app></t><t lang="chi">怛那</t></tt><tt><t lang="san-sd">&SD-A6A6;</t><t lang="chi">三</t></tt><tt><t lang="san-sd">&SD-A5D9;</t><t lang="chi">婆</t></tt>
+<lb n="0331c06" ed="T"/>
+<lb n="0331c07" ed="T"/><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">頗</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0331c08" ed="T"/>
+<lb n="0331c09" ed="T"/><p id="pT18p0331c0901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛命</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">折囉</t></tt><tt><t lang="san-sd">&SD-A64E;</t><t lang="chi">盧</t></tt><tt><t lang="san-sd">&SD-A446;</t><t lang="chi">計</t></tt><tt><t lang="san-sd">&SD-E0AB;</t><t lang="chi">攝伐</t></tt><tt><t lang="san-sd"><note n="0331024" resp="Taisho" place="foot text" type="orig">&SD-A5FE;＝&SD-A5FD;【甲】</note><app n="0331024"><lem wit="【大】">&SD-A5FE;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5FD;</rdg></app></t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&lac;</t><t lang="chi">阿</t></tt>
+<lb n="0331c10" ed="T"/>
+<lb n="0331c11" ed="T"/><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A4B6;</t><t lang="chi">穰</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0331c12" ed="T"/>
+<lb n="0331c13" ed="T"/><p id="pT18p0331c1301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛座</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">折囉</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi">目</t></tt><tt><t lang="san-sd">&SD-A464;</t><t lang="chi">佉</t></tt><tt><t lang="san-sd">&SD-A67C;</t><t lang="chi">悉</t></tt><tt><t lang="san-sd">&SD-AF73;</t><t lang="chi">地</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt>
+<lb n="0331c14" ed="T"/>
+<lb n="0331c15" ed="T"/><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0331c16" ed="T"/>
+<lb n="0331c17" ed="T"/><p id="pT18p0331c1701" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi"><note n="0331025" resp="Taisho" place="foot text" type="orig">〔金剛首…訶〕十一字－【甲】【乙】【丙】</note>金剛首</t></tt><tt><t lang="san-sd"><note n="0331026" resp="Taisho" place="foot text" type="orig">梵缺【甲】</note>&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">折囉</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-AF59;</t><t lang="chi">埵</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0331c18" ed="T"/>
+<lb n="0331c19" ed="T"/><p id="pT18p0331c1901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛壇</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">折囉</t></tt><tt><t lang="san-sd"><note n="0331027" resp="Taisho" place="foot text" type="orig">&SD-A5FE;＝&SD-A5FD;【甲】</note><app n="0331027"><lem wit="【大】">&SD-A5FE;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5FD;</rdg></app></t><t lang="chi">阿羅</t></tt><tt><t lang="san-sd">&SD-A4B6;</t><t lang="chi">穰</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0331c20" ed="T"/>
+<lb n="0331c21" ed="T"/><p id="pT18p0331c2101" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛密</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi"><note n="0331028" resp="Taisho" place="foot text" type="orig">折囉＝日羅【乙】＊</note><app n="0331028"><lem wit="【大】">折囉</lem><rdg resp="Taisho" wit="【乙】">日羅</rdg></app></t></tt><tt><t lang="san-sd"><note n="0331029" resp="Taisho" place="foot text" type="orig">&SD-A559;&SD-CD4B;＝&SD-A57D;&SD-CD4D;【明】</note>&SD-A559;</t><t lang="chi">底</t></tt><tt><t lang="san-sd">&SD-CD4B;</t><t lang="chi">瑟吒</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0331c22" ed="T"/>
+<lb n="0331c23" ed="T"/><p id="pT18p0331c2301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛持</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi"><app source="0331028" type="＊"><lem wit="【大】">折囉</lem><rdg resp="Taisho" wit="【乙】">日羅</rdg></app></t></tt><tt><t lang="san-sd">&SD-E0AC;</t><t lang="chi"><note n="0331030" resp="Taisho" place="foot text" type="orig">蜜＝密【乙】</note><app n="0331030"><lem wit="【大】">蜜</lem><rdg resp="Taisho" wit="【乙】">密</rdg></app>多</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0331c24" ed="T"/>
+<lb n="0331c25" ed="T"/><p id="pT18p0331c2501" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛界</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi"><app source="0331028" type="＊"><lem wit="【大】">折囉</lem><rdg resp="Taisho" wit="【乙】">日羅</rdg></app></t></tt><tt><t lang="san-sd">&SD-CBEB;</t><t lang="chi">涅里</t></tt><tt><t lang="san-sd">&SD-CD4D;</t><t lang="chi">瑟&CB00248;</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">麼</t></tt><tt><t lang="san-sd">&SD-E046;</t><t lang="chi">吒</t></tt>
+<lb n="0331c26" ed="T"/>
+<pb n="0332a" id="T18.0877.0332a" ed="T"/>
+<lb n="0332a01" ed="T"/><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332a02" ed="T"/>
+<lb n="0332a03" ed="T"/><p id="pT18p0332a0301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛觀</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi"><note n="0332001" resp="Taisho" place="foot text" type="orig">折＝日【丙】＊</note><app n="0332001"><lem wit="【大】">折</lem><rdg resp="Taisho" wit="【丙】">日</rdg></app>囉</t></tt><tt><t lang="san-sd"><note n="0332002" resp="Taisho" place="foot text" type="orig">&SD-E041;＝&SD-A67A;&SD-AF63;【甲】</note><app n="0332002"><lem wit="【大】">&SD-E041;</lem><rdg resp="Taisho" wit="【甲】">&SD-A67A;&SD-AF63;</rdg></app></t><t lang="chi">薩怛梵</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332a04" ed="T"/>
+<lb n="0332a05" ed="T"/><p id="pT18p0332a0501" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛喜</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi"><anchor id="fxT18p0332a01"/>折囉</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">三</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">昧</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶</t></tt><tt><t lang="san-sd">&SD-E05F;</t><t lang="chi">護</t></tt><tt><t lang="san-sd">&SD-E0BC;</t><t lang="chi">素</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi"><note n="0332003" resp="Taisho" place="foot text" type="orig">喇＝唎【乙】</note><app n="0332003"><lem wit="【大】">喇</lem><rdg resp="Taisho" wit="【乙】">唎</rdg></app></t></tt>
+<lb n="0332a06" ed="T"/>
+<lb n="0332a07" ed="T"/><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">多</t></tt><tt><t lang="san-sd">&SD-E041;</t><t lang="chi"><note n="0332004" resp="Taisho" place="foot text" type="orig">〔薩怛梵〕－【乙】</note><app n="0332004"><lem wit="【大】">薩怛梵</lem><rdg resp="Taisho" wit="【乙】">&lac;</rdg></app></t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332a08" ed="T"/>
+<lb n="0332a09" ed="T"/><p id="pT18p0332a0901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛心</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi"><anchor id="fxT18p0332a02"/>折囉</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">畔</t></tt><tt><t lang="san-sd">&SD-AFAB;</t><t lang="chi">馱</t></tt><tt><t lang="san-sd"><note n="0332005" resp="Taisho" place="foot text" type="orig">&SD-AA5F;＝&SD-AA5E;【丁】</note><app n="0332005"><lem wit="【大】">&SD-AA5F;</lem><rdg resp="Taisho" wit="【丁】">&SD-AA5E;</rdg></app></t><t lang="chi">怛喇</t></tt><tt><t lang="san-sd">&SD-E046;</t><t lang="chi">吒</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt>
+<lb n="0332a10" ed="T"/>
+<lb n="0332a11" ed="T"/><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332a12" ed="T"/>
+<lb n="0332a13" ed="T"/><p id="pT18p0332a1301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛智</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi"><note n="0332006" resp="Taisho" place="foot text" type="orig">跋囉＝跋日羅【乙】</note>跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">囉</t></tt><tt><t lang="san-sd">&SD-A65C;</t><t lang="chi">吠</t></tt><tt><t lang="san-sd">&SD-A662;</t><t lang="chi">捨</t></tt><tt><t lang="san-sd"><note n="0332007" resp="Taisho" place="foot text" type="orig">&SD-E0AD;＝&SD-E0BC;【甲】</note><note n="0332007" resp="CBETA" type="mod"><app><lem resp="CBETA.say">&SD-CFD4;</lem><rdg wit="【大】">&SD-E0AD;</rdg></app>＝<app><lem resp="CBETA.say">&SD-CFC5;</lem><rdg wit="【大】">&SD-E0BC;</rdg></app>【甲】</note><app n="0332007"><lem wit="【大】">&SD-CFD4;</lem><rdg resp="Taisho" wit="【甲】">&SD-CFC5;</rdg></app></t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332a14" ed="T"/>
+<lb n="0332a15" ed="T"/><p id="pT18p0332a1501" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛意</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi"><anchor id="fxT18p0332a03"/>折囉</t></tt><tt><t lang="san-sd">&SD-E043;</t><t lang="chi">母</t></tt><tt><t lang="san-sd">&SD-CD4D;</t><t lang="chi">瑟知</t></tt><tt><t lang="san-sd">&SD-E1AF;</t><t lang="chi">梵</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332a16" ed="T"/>
+<lb n="0332a17" ed="T"/><p id="pT18p0332a1701" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛勝</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi"><anchor id="fxT18p0332a04"/>折囉</t></tt><tt><t lang="san-sd">&SD-DA74;</t><t lang="chi"><note n="0332008" resp="Taisho" place="foot text" type="orig">&CB00292;＝吽【乙】</note><app n="0332008"><lem wit="【大】">&CB00292;</lem><rdg resp="Taisho" wit="【乙】">吽</rdg></app></t></tt><tt><t lang="san-sd">&SD-A5C1;</t><t lang="chi">泮</t></tt><tt><t lang="san-sd">&SD-E046;</t><t lang="chi">吒</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332a18" ed="T"/>
+<lb n="0332a19" ed="T"/><p id="pT18p0332a1901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛契</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi"><anchor id="fxT18p0332a05"/>折囉</t></tt><tt><t lang="san-sd"><note n="0332009" resp="Taisho" place="foot text" type="orig">&SD-A47E;&SD-CF56;＝&SD-A67C;&SD-D9FA;【甲】＊</note><note n="0332009" resp="CBETA" type="mod"><todo type="＊"/>&SD-A47E;&SD-CF56;＝&SD-A67C;&SD-D9FA;【甲】＊</note>&SD-A47E;</t><t lang="chi">質</t></tt><tt><t lang="san-sd">&SD-CF56;</t><t lang="chi">多</t></tt><tt><t lang="san-sd">&SD-AABC;</t><t lang="chi">&CB00425;<note n="0332010" resp="Taisho" place="foot text" type="orig">〔羅〕－【乙】【丙】</note><app n="0332010"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【乙】【丙】">&lac;</rdg></app></t></tt><tt><t lang="san-sd">&SD-A559;</t><t lang="chi">底</t></tt><tt><t lang="san-sd">&SD-A5EB;</t><t lang="chi">迷</t></tt>
+<lb n="0332a20" ed="T"/>
+<lb n="0332a21" ed="T"/><tt><t lang="san-sd">&SD-E0B0;</t><t lang="chi">曇</t></tt><tt><t lang="san-sd">&SD-A440;</t><t lang="chi">迦</t></tt><tt><t lang="san-sd">&SD-A642;</t><t lang="chi">嚕</t></tt><tt><t lang="san-sd">&SD-A5E7;</t><t lang="chi">弭</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332a22" ed="T"/>
+<lb n="0332a23" ed="T"/><p id="pT18p0332a2301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛月</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi"><anchor id="fxT18p0332a06"/>折囉</t></tt><tt><t lang="san-sd">&SD-A5D5;</t><t lang="chi">菩</t></tt><tt><t lang="san-sd">&SD-A57D;</t><t lang="chi">提</t></tt><tt><t lang="san-sd">&SD-A47E;</t><t lang="chi"><anchor id="fxT18p0332a07"/>質</t></tt><tt><t lang="san-sd">&SD-CA57;</t><t lang="chi">多</t></tt><tt><t lang="san-sd">&SD-E043;</t><t lang="chi">母</t></tt><tt><t lang="san-sd">&SD-E265;</t><t lang="chi">怛播</t></tt>
+<lb n="0332a24" ed="T"/>
+<lb n="0332a25" ed="T"/><tt><t lang="san-sd">&SD-A56F;</t><t lang="chi">那</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">夜</t></tt><tt><t lang="san-sd">&SD-A5E7;</t><t lang="chi">弭</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332a26" ed="T"/>
+<lb n="0332a27" ed="T"/><p id="pT18p0332a2701" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛空</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A559;</t><t lang="chi">底</t></tt><tt><t lang="san-sd"><note n="0332011" resp="Taisho" place="foot text" type="orig">&SD-CD4B;＝&SD-CD4D;【甲】</note><app n="0332011"><lem wit="【大】">&SD-CD4B;</lem><rdg resp="Taisho" wit="【甲】">&SD-CD4D;</rdg></app></t><t lang="chi">瑟吒</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332a28" ed="T"/>
+<lb n="0332a29" ed="T"/><p id="pT18p0332a2901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛池</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-CDF1;</t><t lang="chi">薩頗</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332a30" ed="T"/>
+<pb n="0332b" id="T18.0877.0332b" ed="T"/>
+<lb n="0332b01" ed="T"/><p id="pT18p0332b0101" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛廣</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-E0B1;</t><t lang="chi">僧</t></tt><tt><t lang="san-sd">&SD-A6A8;</t><t lang="chi">訶</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332b02" ed="T"/>
+<lb n="0332b03" ed="T"/><p id="pT18p0332b0301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛祕</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-CBEB;</t><t lang="chi">涅里</t></tt><tt><t lang="san-sd">&SD-A5C1;</t><t lang="chi"><note n="0332012" resp="Taisho" place="foot text" type="orig">荼＝吒【乙】【丙】</note><app n="0332012"><lem wit="【大】">荼</lem><rdg resp="Taisho" wit="【乙】【丙】">吒</rdg></app></t></tt><tt><t lang="san-sd">&SD-A559;</t><t lang="chi">底</t></tt><tt><t lang="san-sd"><note n="0332013" resp="Taisho" place="foot text" type="orig">&SD-CD4B;＋（&SD-A5E5;&SD-A4DA;）【甲】</note><app n="0332013"><lem wit="【大】">&SD-CD4B;</lem><rdg resp="Taisho" wit="【甲】">&SD-CD4B;&SD-A5E5;&SD-A4DA;</rdg></app></t><t lang="chi">瑟吒</t></tt>
+<lb n="0332b04" ed="T"/>
+<lb n="0332b05" ed="T"/><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332b06" ed="T"/>
+<lb n="0332b07" ed="T"/><p id="pT18p0332b0701" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛堅</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-E1EA;</t><t lang="chi">怛<note n="0332014" resp="Taisho" place="foot text" type="orig">摩＝麼【乙】＊</note><app n="0332014"><lem wit="【大】">摩</lem><rdg resp="Taisho" wit="【乙】">麼</rdg></app></t></tt><tt><t lang="san-sd"><note n="0332015" resp="Taisho" place="foot text" type="orig">&SD-A448;＝&SD-A6B0;【甲】</note><app n="0332015"><lem wit="【大】">&SD-A448;</lem><rdg resp="Taisho" wit="【甲】">&SD-A6B0;</rdg></app></t><t lang="chi">拘</t></tt><tt><t lang="san-sd">&SD-E045;</t><t lang="chi">含</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt>
+<lb n="0332b08" ed="T"/>
+<lb n="0332b09" ed="T"/><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332b10" ed="T"/>
+<lb n="0332b11" ed="T"/><p id="pT18p0332b1101" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛尊</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-AF59;</t><t lang="chi">埵縛</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-A57D;</t><t lang="chi">地</t></tt><tt><t lang="san-sd"><note n="0332016" resp="Taisho" place="foot text" type="orig">&SD-CD4B;＝&SD-CD4D;&SD-A4DA;【明】</note><app n="0332016"><lem wit="【大】">&SD-CD4B;</lem><rdg resp="Taisho" wit="【明】">&SD-CD4D;&SD-A4DA;</rdg></app></t><t lang="chi">瑟吒</t></tt>
+<lb n="0332b12" ed="T"/>
+<lb n="0332b13" ed="T"/><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332b14" ed="T"/>
+<lb n="0332b15" ed="T"/><p id="pT18p0332b1501" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛甲<note place="inline">吽迦羅金剛藏</note></t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A56F;</t><t lang="chi">那</t></tt><tt><t lang="san-sd"><note n="0332017" resp="Taisho" place="foot text" type="orig">&SD-A6B2;＝&SD-E045;【甲】</note><app n="0332017"><lem wit="【大】">&SD-A6B2;</lem><rdg resp="Taisho" wit="【甲】">&SD-E045;</rdg></app></t><t lang="chi">咁</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332b16" ed="T"/>
+<lb n="0332b17" ed="T"/><p id="pT18p0332b1701" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛語</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A55B;</t><t lang="chi">都</t></tt><tt><t lang="san-sd"><note n="0332018" resp="Taisho" place="foot text" type="orig">&SD-A8DC;&SD-A6A9;＝&SD-A8E2;&SD-A5F7;&SD-A6B0;【甲】</note>&SD-A8DC;</t><t lang="chi">使曳</t></tt><tt><t lang="san-sd">&SD-E05F;</t><t lang="chi">護</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332b18" ed="T"/>
+<lb n="0332b19" ed="T"/><p id="pT18p0332b1901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛請</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A6A6;</t><t lang="chi">三</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">漫</t></tt><tt><t lang="san-sd">&SD-A4B6;</t><t lang="chi">若</t></tt><tt><t lang="san-sd">&SD-A4C1;</t><t lang="chi"><note n="0332019" resp="Taisho" place="foot text" type="orig">〔若〕－【乙】</note><app n="0332019"><lem wit="【大】">若</lem><rdg resp="Taisho" wit="【乙】">&lac;</rdg></app></t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332b20" ed="T"/>
+<lb n="0332b21" ed="T"/><p id="pT18p0332b2101" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛鉤</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">夜</t></tt><tt><t lang="san-sd">&SD-A6AA;</t><t lang="chi"><note n="0332020" resp="Taisho" place="foot text" type="orig">兮＝號【乙】</note><app n="0332020"><lem wit="【大】">兮</lem><rdg resp="Taisho" wit="【乙】">號</rdg></app></t></tt><tt><t lang="san-sd">&SD-A4C1;</t><t lang="chi">若</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332b22" ed="T"/>
+<lb n="0332b23" ed="T"/><p id="pT18p0332b2301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi"><note n="0332021" resp="Taisho" place="foot text" type="orig">（金剛索…訶）十三字∞（金剛鎖…訶）十四字【乙】【丙】</note>金剛<note n="0332022" resp="Taisho" place="foot text" type="orig">索＝素【乙】</note><app n="0332022"><lem wit="【大】">索</lem><rdg resp="Taisho" wit="【乙】">素</rdg></app></t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-A6AA;</t><t lang="chi">奚</t></tt><tt><t lang="san-sd">&SD-E17C;</t><t lang="chi">吽</t></tt><tt><t lang="san-sd">&SD-DA74;</t><t lang="chi">吽</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt>
+<lb n="0332b24" ed="T"/>
+<lb n="0332b25" ed="T"/><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332b26" ed="T"/>
+<lb n="0332b27" ed="T"/><p id="pT18p0332b2701" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi"><note n="0332023" resp="Taisho" place="foot text" type="orig">（金剛索…訶）十三字∞（金剛鎖…訶）十四字【乙】【丙】</note>金剛鎖</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A6AE;</t><t lang="chi">奚</t></tt><tt><t lang="san-sd">&SD-CDF9;</t><t lang="chi">薩普</t></tt><tt><t lang="san-sd">&SD-A4DA;</t><t lang="chi">吒</t></tt><tt><t lang="san-sd">&SD-E1AF;</t><t lang="chi">&CB00680;</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt>
+<lb n="0332b28" ed="T"/>
+<lb n="0332b29" ed="T"/><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332b30" ed="T"/>
+<pb n="0332c" id="T18.0877.0332c" ed="T"/>
+<lb n="0332c01" ed="T"/><p id="pT18p0332c0101" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛鈴</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A46E;</t><t lang="chi"><note n="0332024" resp="Taisho" place="foot text" type="orig">犍＝特【丙】</note><app n="0332024"><lem wit="【大】">犍</lem><rdg resp="Taisho" wit="【丙】">特</rdg></app></t></tt><tt><t lang="san-sd">&SD-A4DA;</t><t lang="chi">吒</t></tt><tt><t lang="san-sd">&SD-CFD4;</t><t lang="chi">惡</t></tt><tt><t lang="san-sd">&SD-CFD4;</t><t lang="chi">惡</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332c02" ed="T"/>
+<lb n="0332c03" ed="T"/><p id="pT18p0332c0301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛鐸</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A444;</t><t lang="chi">俱</t></tt><tt><t lang="san-sd">&SD-A662;</t><t lang="chi">舍</t></tt><tt><t lang="san-sd">&SD-A4C1;</t><t lang="chi">穰</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332c04" ed="T"/>
+<lb n="0332c05" ed="T"/><p id="pT18p0332c0501" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛吟</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-AF59;</t><t lang="chi">埵</t></tt><tt><t lang="san-sd">&SD-E0B1;</t><t lang="chi">僧</t></tt><tt><t lang="san-sd">&SD-A95F;</t><t lang="chi">伽羅</t></tt><tt><t lang="san-sd">&SD-A6A8;</t><t lang="chi">訶</t></tt>
+<lb n="0332c06" ed="T"/>
+<lb n="0332c07" ed="T"/><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332c08" ed="T"/>
+<lb n="0332c09" ed="T"/><p id="pT18p0332c0901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛詠</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">娑</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">娑</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A642;</t><t lang="chi">魯</t></tt><tt><t lang="san-sd">&SD-A5B5;</t><t lang="chi">波</t></tt>
+<lb n="0332c10" ed="T"/>
+<lb n="0332c11" ed="T"/><tt><t lang="san-sd">&SD-A5AB;</t><t lang="chi">&CB00135;</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332c12" ed="T"/>
+<lb n="0332c13" ed="T"/><p id="pT18p0332c1301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛念</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A5D9;</t><t lang="chi">薄</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">伽</t></tt><tt><t lang="san-sd">&SD-A660;</t><t lang="chi">梵</t></tt><tt><t lang="san-sd">&SD-E0BC;</t><t lang="chi">素</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">喇</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">多</t></tt>
+<lb n="0332c14" ed="T"/>
+<lb n="0332c15" ed="T"/><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332c16" ed="T"/>
+<lb n="0332c17" ed="T"/><p id="pT18p0332c1701" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛誦</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">喇</t></tt><tt><t lang="san-sd">&SD-B448;</t><t lang="chi">怛曩</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332c18" ed="T"/>
+<lb n="0332c19" ed="T"/><p id="pT18p0332c1901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛歌</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A6AE;</t><t lang="chi">奚</t></tt><tt><t lang="san-sd">&SD-A664;</t><t lang="chi">室</t></tt><tt><t lang="san-sd">&SD-A642;</t><t lang="chi">盧</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">哆</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A6A5;</t><t lang="chi">燥</t></tt>
+<lb n="0332c20" ed="T"/>
+<lb n="0332c21" ed="T"/><tt><t lang="san-sd">&SD-E0C3;</t><t lang="chi"><note n="0332025" resp="Taisho" place="foot text" type="orig">歌＝&CB00231;【乙】</note><app n="0332025"><lem wit="【大】">歌</lem><rdg resp="Taisho" wit="【乙】">&CB00231;</rdg></app>也</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332c22" ed="T"/>
+<lb n="0332c23" ed="T"/><p id="pT18p0332c2301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛舞</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A6AE;</t><t lang="chi">奚</t></tt><tt><t lang="san-sd">&SD-A674;</t><t lang="chi">際</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332c24" ed="T"/>
+<lb n="0332c25" ed="T"/><p id="pT18p0332c2501" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛戲</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332c26" ed="T"/>
+<lb n="0332c27" ed="T"/><p id="pT18p0332c2701" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛笑</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A6A8;</t><t lang="chi">賀</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">娑</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">縛</t></tt><tt><t lang="san-sd">&SD-A6A8;</t><t lang="chi"><note n="0332027" resp="Taisho" place="foot text" type="orig">訶＋（耶）【乙】，（&SD-A5F1;）【丁】</note><app n="0332027"><lem wit="【大】">訶</lem><rdg resp="Taisho" wit="【乙】">訶耶</rdg><rdg resp="Taisho" wit="【丁】">訶&SD-A5F1;</rdg></app></t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0332c28" ed="T"/>
+<lb n="0332c29" ed="T"/><p id="pT18p0332c2901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛香</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-AABC;</t><t lang="chi">&CB00425;羅</t></tt><tt><t lang="san-sd">&SD-A6A8;</t><t lang="chi">喝</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A54D;</t><t lang="chi">尼</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt>
+<lb n="0332c30" ed="T"/><note n="0332026" resp="Taisho" place="foot" type="orig">&SD-A6A9;＝&SD-A6A8;【甲】</note><note n="0332026" resp="CBETA" type="mod">CBETA按：大正藏校勘欄有「26 &SD-A6A9;＝&SD-A6A8;【甲】」之校勘條目，但此頁內文中缺相對應之校勘符號 "[26]"，故將此校勘條目置於本頁內文最後。</note>
+<pb n="0333a" id="T18.0877.0333a" ed="T"/>
+<lb n="0333a01" ed="T"/><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333a02" ed="T"/>
+<lb n="0333a03" ed="T"/><p id="pT18p0333a0301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛花</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A440;</t><t lang="chi">迦</t></tt><tt><t lang="san-sd">&SD-A8AC;</t><t lang="chi"><note n="0333001" resp="Taisho" place="foot text" type="orig">謎＋（耶）【乙】【丙】，（&SD-A5F1;）【丁】</note><app n="0333001"><lem wit="【大】">謎</lem><rdg resp="Taisho" wit="【乙】【丙】">謎耶</rdg><rdg resp="Taisho" wit="【丁】">謎&SD-A5F1;</rdg></app></t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333a04" ed="T"/>
+<lb n="0333a05" ed="T"/><p id="pT18p0333a0501" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛鬘</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A6AE;</t><t lang="chi">奚</t></tt><tt><t lang="san-sd"><note n="0333002" resp="Taisho" place="foot text" type="orig">&SD-A652;＝&SD-A64A;【甲】</note><app n="0333002"><lem wit="【大】">&SD-A652;</lem><rdg resp="Taisho" wit="【甲】">&SD-A64A;</rdg></app></t><t lang="chi">盧</t></tt><tt><t lang="san-sd">&SD-A5B5;</t><t lang="chi">波</t></tt><tt><t lang="san-sd">&SD-A66A;</t><t lang="chi">輸</t></tt><tt><t lang="san-sd">&SD-A5DF;</t><t lang="chi">鞞</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt>
+<lb n="0333a06" ed="T"/>
+<lb n="0333a07" ed="T"/><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333a08" ed="T"/>
+<lb n="0333a09" ed="T"/><p id="pT18p0333a0901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛燈</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-E0BC;</t><t lang="chi">素</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">底</t></tt><tt><t lang="san-sd"><note n="0333003" resp="Taisho" place="foot text" type="orig">&SD-A4B7;&SD-A961;＝&SD-A4B6;&SD-A466;【甲】</note>&SD-A4B7;</t><t lang="chi">若</t></tt><tt><t lang="san-sd">&SD-A961;</t><t lang="chi">擬<note n="0333004" resp="Taisho" place="foot text" type="orig">哩＝里【甲】，〔哩〕－【乙】</note><app n="0333004"><lem wit="【大】">哩</lem><rdg resp="Taisho" wit="【甲】">里</rdg><rdg resp="Taisho" wit="【乙】">&lac;</rdg></app></t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt>
+<lb n="0333a10" ed="T"/>
+<lb n="0333a11" ed="T"/><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333a12" ed="T"/>
+<lb n="0333a13" ed="T"/><p id="pT18p0333a1301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛照</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A464;</t><t lang="chi">伽</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶</t></tt><tt><t lang="san-sd">&SD-A551;</t><t lang="chi">泥</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt>
+<lb n="0333a14" ed="T"/>
+<lb n="0333a15" ed="T"/><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333a16" ed="T"/>
+<lb n="0333a17" ed="T"/><p id="pT18p0333a1701" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛室</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A5B5;</t><t lang="chi">婆</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">娑</t></tt><tt><t lang="san-sd">&SD-E0C1;</t><t lang="chi">度</t></tt><tt><t lang="san-sd">&SD-A56F;</t><t lang="chi">那</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333a18" ed="T"/>
+<lb n="0333a19" ed="T"/><p id="pT18p0333a1901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛藏</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">三</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">昧</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-AF59;</t><t lang="chi">埵</t></tt><tt><t lang="san-sd"><note n="0333005" resp="Taisho" place="foot text" type="orig">〔&SD-CFC5;〕－【甲】</note><app n="0333005"><lem wit="【大】">&SD-CFC5;</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app></t><t lang="chi">阿</t></tt>
+<lb n="0333a20" ed="T"/>
+<lb n="0333a21" ed="T"/><tt><t lang="san-sd">&SD-DA49;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333a22" ed="T"/>
+<lb n="0333a23" ed="T"/><p id="pT18p0333a2301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛雲</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-E0BC;</t><t lang="chi">素</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">揵</t></tt><tt><t lang="san-sd">&SD-AF59;</t><t lang="chi"><note n="0333006" resp="Taisho" place="foot text" type="orig">蕩＝&CB13838;【乙】</note><app n="0333006"><lem wit="【大】">蕩</lem><rdg resp="Taisho" wit="【乙】">&CB13838;</rdg></app></t></tt><tt><t lang="san-sd">&SD-C97D;</t><t lang="chi">霓</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333a24" ed="T"/>
+<lb n="0333a25" ed="T"/><p id="pT18p0333a2501" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛法</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-AF59;</t><t lang="chi">埵</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">三</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">昧</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt>
+<lb n="0333a26" ed="T"/>
+<lb n="0333a27" ed="T"/><tt><t lang="san-sd"><note n="0333007" resp="Taisho" place="foot text" type="orig">&SD-A5AD;＝&SD-A5B5;【甲】</note><app n="0333007"><lem wit="【大】">&SD-A5AD;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5B5;</rdg></app></t><t lang="chi"><note n="0333008" resp="Taisho" place="foot text" type="orig">〔弩〕－【乙】【丙】</note><app n="0333008"><lem wit="【大】">弩</lem><rdg resp="Taisho" wit="【乙】【丙】">&lac;</rdg></app></t></tt><tt><t lang="san-sd">&SD-A5B5;</t><t lang="chi">波</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333a28" ed="T"/>
+<lb n="0333a29" ed="T"/><p id="pT18p0333a2901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛雨</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd"><note n="0333009" resp="Taisho" place="foot text" type="orig">&SD-A55A;&SD-E075;＝&SD-A55D;&SD-A6B6;&SD-A5A9;【甲】</note>&SD-A55A;</t><t lang="chi">帝</t></tt><tt><t lang="san-sd">&SD-E075;</t><t lang="chi">乞瑟那</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333a30" ed="T"/>
+<pb n="0333b" id="T18.0877.0333b" ed="T"/>
+<lb n="0333b01" ed="T"/><p id="pT18p0333b0101" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛生</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A64A;</t><t lang="chi"><note n="0333010" resp="Taisho" place="foot text" type="orig">〔羅〕－【丙】</note><app n="0333010"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【丙】">&lac;</rdg></app></t></tt><tt><t lang="san-sd"><note n="0333011" resp="Taisho" place="foot text" type="orig">&SD-A67A;＝&SD-A6A2;【甲】</note><app n="0333011"><lem wit="【大】">&SD-A67A;</lem><rdg resp="Taisho" wit="【甲】">&SD-A6A2;</rdg></app></t><t lang="chi">細</t></tt><tt><t lang="san-sd">&SD-E05F;</t><t lang="chi">護</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333b02" ed="T"/>
+<lb n="0333b03" ed="T"/><p id="pT18p0333b0301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛牙</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">藥</t></tt><tt><t lang="san-sd">&SD-A6B4;</t><t lang="chi">乞瑟</t></tt><tt><t lang="san-sd">&SD-DA74;</t><t lang="chi">吽</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333b04" ed="T"/>
+<lb n="0333b05" ed="T"/><p id="pT18p0333b0501" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛日</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333b06" ed="T"/>
+<lb n="0333b07" ed="T"/><p id="pT18p0333b0701" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛<note n="0333012" resp="Taisho" place="foot text" type="orig">色＝&CB12074;【甲】</note><app n="0333012"><lem wit="【大】">色</lem><rdg resp="Taisho" wit="【甲】">&CB12074;</rdg></app></t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd"><note n="0333013" resp="Taisho" place="foot text" type="orig">&SD-A5FE;＝&SD-A5FD;【甲】</note><app n="0333013"><lem wit="【大】">&SD-A5FE;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5FD;</rdg></app></t><t lang="chi">阿羅</t></tt><tt><t lang="san-sd">&SD-B448;</t><t lang="chi">怛曩</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333b08" ed="T"/>
+<lb n="0333b09" ed="T"/><p id="pT18p0333b0901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛宮</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd"><note n="0333014" resp="Taisho" place="foot text" type="orig">&SD-A440;＝&SD-A465;【甲】</note><app n="0333014"><lem wit="【大】">&SD-A440;</lem><rdg resp="Taisho" wit="【甲】">&SD-A465;</rdg></app></t><t lang="chi">羯</t></tt><tt><t lang="san-sd">&SD-E1BA;</t><t lang="chi"><note n="0333015" resp="Taisho" place="foot text" type="orig">摩＝磨【甲】</note><app n="0333015"><lem wit="【大】">摩</lem><rdg resp="Taisho" wit="【甲】">磨</rdg></app></t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333b10" ed="T"/>
+<lb n="0333b11" ed="T"/><p id="pT18p0333b1101" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛城</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A658;</t><t lang="chi">弭</t></tt><tt><t lang="san-sd">&SD-CDF9;</t><t lang="chi">塞普</t></tt><tt><t lang="san-sd"><note n="0333016" resp="Taisho" place="foot text" type="orig">&SD-A5FD;＝&SD-A64A;【甲】</note><app n="0333016"><lem wit="【大】">&SD-A5FD;</lem><rdg resp="Taisho" wit="【甲】">&SD-A64A;</rdg></app></t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A56F;</t><t lang="chi"><note n="0333017" resp="Taisho" place="foot text" type="orig">捺＝奈【乙】【丙】</note><app n="0333017"><lem wit="【大】">捺</lem><rdg resp="Taisho" wit="【乙】【丙】">奈</rdg></app></t></tt><tt><t lang="san-sd"><note n="0333018" resp="Taisho" place="foot text" type="orig">&SD-A5FD;&SD-A6B4;＝&SD-A6B8;【甲】</note>&SD-A5FD;</t><t lang="chi">羅</t></tt>
+<lb n="0333b12" ed="T"/>
+<lb n="0333b13" ed="T"/><tt><t lang="san-sd">&SD-A6B4;</t><t lang="chi">乞沙</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">唬吽</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-E17C;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333b14" ed="T"/>
+<lb n="0333b15" ed="T"/><p id="pT18p0333b1501" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛&CB02000;</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A442;</t><t lang="chi">枳</t></tt><tt><t lang="san-sd"><note n="0333019" resp="Taisho" place="foot text" type="orig">&SD-A5FD;＝&SD-A644;【甲】</note><app n="0333019"><lem wit="【大】">&SD-A5FD;</lem><rdg resp="Taisho" wit="【甲】">&SD-A644;</rdg></app></t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-DA74;&SD-A5C1;</t><t lang="chi">唬吽</t></tt><tt><t lang="san-sd">&SD-E046;</t><t lang="chi">泮</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt>
+<lb n="0333b16" ed="T"/>
+<lb n="0333b17" ed="T"/><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333b18" ed="T"/>
+<lb n="0333b19" ed="T"/><p id="pT18p0333b1901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛牆</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi"><note n="0333020" resp="Taisho" place="foot text" type="orig">縒＝溠【乙】＊</note><app n="0333020"><lem wit="【大】">縒</lem><rdg resp="Taisho" wit="【乙】">溠</rdg></app></t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi"><app source="0333020" type="＊"><lem wit="【大】">縒</lem><rdg resp="Taisho" wit="【乙】">溠</rdg></app></t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A440;</t><t lang="chi">迦</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt>
+<lb n="0333b20" ed="T"/>
+<lb n="0333b21" ed="T"/><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶</t></tt><tt><t lang="san-sd">&SD-DA74;</t><t lang="chi">吽</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333b22" ed="T"/>
+<lb n="0333b23" ed="T"/><p id="pT18p0333b2301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛網</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd"><note n="0333021" resp="Taisho" place="foot text" type="orig">&SD-A6A9;＝&SD-A6A8;【甲】</note><app n="0333021"><lem wit="【大】">&SD-A6A9;</lem><rdg resp="Taisho" wit="【甲】">&SD-A6A8;</rdg></app></t><t lang="chi">訶</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-A47C;</t><t lang="chi">者</t></tt><tt><t lang="san-sd">&SD-A64C;</t><t lang="chi">里</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt>
+<lb n="0333b24" ed="T"/>
+<lb n="0333b25" ed="T"/><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333b26" ed="T"/>
+<lb n="0333b27" ed="T"/><p id="pT18p0333b2701" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛殿</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A65C;</t><t lang="chi">尾</t></tt><tt><t lang="san-sd">&SD-A662;</t><t lang="chi">賒</t></tt><tt><t lang="san-sd">&SD-E05F;</t><t lang="chi">護</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333b28" ed="T"/>
+<lb n="0333b29" ed="T"/><p id="pT18p0333b2901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛<note n="0333022" resp="Taisho" place="foot text" type="orig">幢＝憧【甲】，【乙】＊</note><app n="0333022"><lem wit="【大】">幢</lem><rdg resp="Taisho" wit="【甲】【乙】">憧</rdg></app></t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9C7;</t><t lang="chi">折&CB00771;</t></tt><tt><t lang="san-sd">&SD-DA74;</t><t lang="chi">吽</t></tt><tt><t lang="san-sd">&SD-DA49;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333b30" ed="T"/>
+<pb n="0333c" id="T18.0877.0333c" ed="T"/>
+<lb n="0333c01" ed="T"/><p id="pT18p0333c0101" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛塔</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9C3;</t><t lang="chi">折&CB00619;</t></tt><tt><t lang="san-sd">&SD-DA74;</t><t lang="chi">吽</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333c02" ed="T"/>
+<lb n="0333c03" ed="T"/><p id="pT18p0333c0301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛臺</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-E0BC;</t><t lang="chi">素</t></tt><tt><t lang="san-sd">&SD-A55B;</t><t lang="chi">都</t></tt><tt><t lang="san-sd">&SD-A56F;</t><t lang="chi">那</t></tt><tt><t lang="san-sd">&SD-CFC1;</t><t lang="chi">吽</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333c04" ed="T"/>
+<lb n="0333c05" ed="T"/><p id="pT18p0333c0501" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛鏡</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A57B;</t><t lang="chi">達</t></tt><tt><t lang="san-sd">&SD-B75D;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A5DB;</t><t lang="chi">費</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333c06" ed="T"/>
+<lb n="0333c07" ed="T"/><p id="pT18p0333c0701" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛水</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-E04A;</t><t lang="chi">入伐</t></tt><tt><t lang="san-sd">&SD-A64A;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-DA74;</t><t lang="chi">吽</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333c08" ed="T"/>
+<lb n="0333c09" ed="T"/><p id="pT18p0333c0901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛際</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A440;</t><t lang="chi">羯</t></tt><tt><t lang="san-sd">&SD-E1BA;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333c10" ed="T"/>
+<lb n="0333c11" ed="T"/><p id="pT18p0333c1101" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛輪</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A5F7;</t><t lang="chi">曳</t></tt><tt><t lang="san-sd">&SD-A55B;</t><t lang="chi">都</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333c12" ed="T"/>
+<lb n="0333c13" ed="T"/><p id="pT18p0333c1301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛光</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">遏</t></tt><tt><t lang="san-sd">&SD-B6BD;</t><t lang="chi">利他</t></tt><tt><t lang="san-sd">&SD-AABC;</t><t lang="chi">&CB00425;栗</t></tt><tt><t lang="san-sd">&SD-A56F;</t><t lang="chi">那</t></tt>
+<lb n="0333c14" ed="T"/>
+<lb n="0333c15" ed="T"/><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333c16" ed="T"/>
+<lb n="0333c17" ed="T"/><p id="pT18p0333c1701" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛焰<note n="0333023" resp="Taisho" place="foot text" type="orig">（焰）＋摩【甲】【乙】</note><app n="0333023"><lem wit="【大】">摩</lem><rdg resp="Taisho" wit="【甲】【乙】">焰摩</rdg></app>德迦</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A5B5;</t><t lang="chi">波</t></tt><tt><t lang="san-sd">&SD-A662;</t><t lang="chi">舍</t></tt><tt><t lang="san-sd">&SD-CFC1;</t><t lang="chi">吽</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt>
+<lb n="0333c18" ed="T"/>
+<lb n="0333c19" ed="T"/><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333c20" ed="T"/>
+<lb n="0333c21" ed="T"/><p id="pT18p0333c2101" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛業</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A6A6;</t><t lang="chi">散</t></tt><tt><t lang="san-sd">&SD-A57D;</t><t lang="chi">地</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶</t></tt><tt><t lang="san-sd">&SD-A67C;</t><t lang="chi">悉</t></tt><tt><t lang="san-sd">&SD-D9FA;</t><t lang="chi">多</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt>
+<lb n="0333c22" ed="T"/>
+<lb n="0333c23" ed="T"/><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333c24" ed="T"/>
+<lb n="0333c25" ed="T"/><p id="pT18p0333c2501" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛定</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A559;</t><t lang="chi">底</t></tt><tt><t lang="san-sd">&SD-E0A4;</t><t lang="chi">穰</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333c26" ed="T"/>
+<lb n="0333c27" ed="T"/><p id="pT18p0333c2701" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛慧</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A55B;</t><t lang="chi">都</t></tt><tt><t lang="san-sd">&SD-A6AE;</t><t lang="chi">計</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333c28" ed="T"/>
+<lb n="0333c29" ed="T"/><p id="pT18p0333c2901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛忍</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A57B;</t><t lang="chi">達</t></tt><tt><t lang="san-sd"><note n="0333024" resp="Taisho" place="foot text" type="orig">&SD-E1BA;＝&SD-E2AA;【甲】</note><app n="0333024"><lem wit="【大】">&SD-E1BA;</lem><rdg resp="Taisho" wit="【甲】">&SD-E2AA;</rdg></app></t><t lang="chi">里摩</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0333c30" ed="T"/>
+<pb n="0334a" id="T18.0877.0334a" ed="T"/>
+<lb n="0334a01" ed="T"/><p id="pT18p0334a0101" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛力</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A5F7;</t><t lang="chi">曳</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334a02" ed="T"/>
+<lb n="0334a03" ed="T"/><p id="pT18p0334a0301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛願</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A6A8;</t><t lang="chi">賀</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">娑</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334a04" ed="T"/>
+<lb n="0334a05" ed="T"/><p id="pT18p0334a0501" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛因</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A45A;</t><t lang="chi">擬</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">提</t></tt><tt><t lang="san-sd">&SD-A5F7;</t><t lang="chi">曳</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334a06" ed="T"/>
+<lb n="0334a07" ed="T"/><p id="pT18p0334a0701" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛緣</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A5B9;</t><t lang="chi">補</t></tt><tt><t lang="san-sd">&SD-E1B6;</t><t lang="chi">瑟鞞</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334a08" ed="T"/>
+<lb n="0334a09" ed="T"/><p id="pT18p0334a0901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛論</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd"><note n="0334001" resp="Taisho" place="foot text" type="orig">&SD-E0C1;＝&SD-A55B;【甲】</note><app n="0334001"><lem wit="【大】">&SD-E0C1;</lem><rdg resp="Taisho" wit="【甲】">&SD-A55B;</rdg></app></t><t lang="chi">杜</t></tt><tt><t lang="san-sd">&SD-A5BB;</t><t lang="chi">鞞</t></tt><tt><t lang="san-sd">&SD-A640;</t><t lang="chi">里</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334a10" ed="T"/>
+<lb n="0334a11" ed="T"/><p id="pT18p0334a1101" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛義</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd"><note n="0334002" resp="Taisho" place="foot text" type="orig">&SD-CDF9;＝&SD-CDF1;【甲】</note><app n="0334002"><lem wit="【大】">&SD-CDF9;</lem><rdg resp="Taisho" wit="【甲】">&SD-CDF1;</rdg></app></t><t lang="chi">薩部</t></tt><tt><t lang="san-sd">&SD-E046;</t><t lang="chi">吒</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334a12" ed="T"/>
+<lb n="0334a13" ed="T"/><p id="pT18p0334a1301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛淨</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-A66E;</t><t lang="chi">沙</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334a14" ed="T"/>
+<lb n="0334a15" ed="T"/><p id="pT18p0334a1501" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛受</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A56F;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">那</t></tt><tt><t lang="san-sd"><note n="0334003" resp="Taisho" place="foot text" type="orig">&SD-A5F7;＝&SD-A5F1;【甲】</note><app n="0334003"><lem wit="【大】">&SD-A5F7;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5F1;</rdg></app></t><t lang="chi">曳</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334a16" ed="T"/>
+<lb n="0334a17" ed="T"/><p id="pT18p0334a1701" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛手</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A67C;</t><t lang="chi">悉</t></tt><tt><t lang="san-sd">&SD-AF73;</t><t lang="chi">地</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334a18" ed="T"/>
+<lb n="0334a19" ed="T"/><p id="pT18p0334a1901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛錫</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A440;</t><t lang="chi">羯</t></tt><tt><t lang="san-sd"><note n="0334004" resp="Taisho" place="foot text" type="orig">&SD-E1BA;＝&SD-B75E;【甲】</note><app n="0334004"><lem wit="【大】">&SD-E1BA;</lem><rdg resp="Taisho" wit="【甲】">&SD-B75E;</rdg></app></t><t lang="chi">磨</t></tt><tt><t lang="san-sd">&SD-A67C;</t><t lang="chi">悉</t></tt><tt><t lang="san-sd">&SD-AF73;</t><t lang="chi">地</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">沙</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334a20" ed="T"/>
+<lb n="0334a21" ed="T"/><p id="pT18p0334a2101" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛傘</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-A648;</t><t lang="chi">藍</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334a22" ed="T"/>
+<lb n="0334a23" ed="T"/><p id="pT18p0334a2301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛身</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A55B;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-CBEB;</t><t lang="chi">怛里</t></tt><tt><t lang="san-sd">&SD-A55B;</t><t lang="chi">都</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334a24" ed="T"/>
+<lb n="0334a25" ed="T"/><p id="pT18p0334a2501" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛禪</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd"><note n="0334005" resp="Taisho" place="foot text" type="orig">〔&SD-A67A;〕－【甲】</note><app n="0334005"><lem wit="【大】">&SD-A67A;</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app></t><t lang="chi"><note n="0334006" resp="Taisho" place="foot text" type="orig">〔薩〕－【乙】</note><app n="0334006"><lem wit="【大】">薩</lem><rdg resp="Taisho" wit="【乙】">&lac;</rdg></app></t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">埵</t></tt><tt><t lang="san-sd">&SD-A640;</t><t lang="chi">里</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334a26" ed="T"/>
+<lb n="0334a27" ed="T"/><p id="pT18p0334a2701" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛剎</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi">目</t></tt><tt><t lang="san-sd">&SD-A464;</t><t lang="chi">佉</t></tt><tt><t lang="san-sd">&SD-A67C;</t><t lang="chi">悉</t></tt><tt><t lang="san-sd">&SD-AF73;</t><t lang="chi">地</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt>
+<lb n="0334a28" ed="T"/>
+<lb n="0334a29" ed="T"/><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334a30" ed="T"/>
+<pb n="0334b" id="T18.0877.0334b" ed="T"/>
+<lb n="0334b01" ed="T"/><p id="pT18p0334b0101" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛仙</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi"><note n="0334007" resp="Taisho" place="foot text" type="orig">（麼尼）＋摩【乙】【丙】</note><app n="0334007"><lem wit="【大】">摩</lem><rdg resp="Taisho" wit="【乙】【丙】">麼尼摩</rdg></app></t></tt><tt><t lang="san-sd">&SD-A54D;</t><t lang="chi">尼</t></tt><tt><t lang="san-sd"><note n="0334008" resp="Taisho" place="foot text" type="orig">&SD-A57B;＝&SD-A57D;【甲】</note><app n="0334008"><lem wit="【大】">&SD-A57B;</lem><rdg resp="Taisho" wit="【甲】">&SD-A57D;</rdg></app></t><t lang="chi">達</t></tt><tt><t lang="san-sd">&SD-A640;</t><t lang="chi">里</t></tt><tt><t lang="san-sd">&SD-A5C1;</t><t lang="chi">泮</t></tt><tt><t lang="san-sd">&SD-E046;</t><t lang="chi">吒</t></tt>
+<lb n="0334b02" ed="T"/>
+<lb n="0334b03" ed="T"/><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334b04" ed="T"/>
+<lb n="0334b05" ed="T"/><p id="pT18p0334b0501" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛印</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-E043;</t><t lang="chi">姥</t></tt><tt><t lang="san-sd"><note n="0334009" resp="Taisho" place="foot text" type="orig">&SD-CBEB;＝&SD-A56F;【甲】</note><app n="0334009"><lem wit="【大】">&SD-CBEB;</lem><rdg resp="Taisho" wit="【甲】">&SD-A56F;</rdg></app></t><t lang="chi">涅里</t></tt><tt><t lang="san-sd">&SD-A575;</t><t lang="chi">提</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334b06" ed="T"/>
+<lb n="0334b07" ed="T"/><p id="pT18p0334b0701" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛埵</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-E1EA;</t><t lang="chi">怛摩</t></tt><tt><t lang="san-sd"><note n="0334010" resp="Taisho" place="foot text" type="orig">&SD-A448;＝&SD-A6B0;【甲】</note><app n="0334010"><lem wit="【大】">&SD-A448;</lem><rdg resp="Taisho" wit="【甲】">&SD-A6B0;</rdg></app></t><t lang="chi">句</t></tt><tt><t lang="san-sd">&SD-A6B2;</t><t lang="chi">痕</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334b08" ed="T"/>
+<lb n="0334b09" ed="T"/><p id="pT18p0334b0901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛山</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A4B6;</t><t lang="chi">若</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">蘗</t></tt><tt><t lang="san-sd">&SD-A640;</t><t lang="chi">里</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334b10" ed="T"/>
+<lb n="0334b11" ed="T"/><p id="pT18p0334b1101" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛忿怒王</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A442;</t><t lang="chi">枳</t></tt><tt><t lang="san-sd">&SD-A640;</t><t lang="chi">里</t></tt><tt><t lang="san-sd"><app><lem wit="【CBETA】">&SD-A442;&SD-A640;</lem><rdg wit="【大】">&SD-D957;</rdg></app></t><t lang="chi">枳里</t></tt><tt><t lang="san-sd">&SD-E17C;</t><t lang="chi">唬吽</t></tt>
+<lb n="0334b12" ed="T"/>
+<lb n="0334b13" ed="T"/><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334b14" ed="T"/>
+<lb n="0334b15" ed="T"/><p id="pT18p0334b1501" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛縛</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-AA5E;</t><t lang="chi">怛羅</t></tt><tt><t lang="san-sd">&SD-E046;</t><t lang="chi">吒</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334b16" ed="T"/>
+<lb n="0334b17" ed="T"/><p id="pT18p0334b1701" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛<note n="0334011" resp="Taisho" place="foot text" type="orig">杵＝&CB04788;【甲】【乙】</note><app n="0334011"><lem wit="【大】">杵</lem><rdg resp="Taisho" wit="【甲】【乙】">&CB04788;</rdg></app></t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A674;</t><t lang="chi">瑟</t></tt><tt><t lang="san-sd">&SD-A56F;</t><t lang="chi">那</t></tt><tt><t lang="san-sd">&SD-A5FB;</t><t lang="chi"><note n="0334012" resp="Taisho" place="foot text" type="orig">琰＝&CB13714;【乙】</note><app n="0334012"><lem wit="【大】">琰</lem><rdg resp="Taisho" wit="【乙】">&CB13714;</rdg></app></t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334b18" ed="T"/>
+<lb n="0334b19" ed="T"/><p id="pT18p0334b1901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛場</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A5D5;</t><t lang="chi">菩</t></tt><tt><t lang="san-sd">&SD-A57D;</t><t lang="chi">提</t></tt><tt><t lang="san-sd">&SD-A47E;</t><t lang="chi">悉</t></tt><tt><t lang="san-sd">&SD-E1EA;</t><t lang="chi">怛摩</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt>
+<lb n="0334b20" ed="T"/>
+<lb n="0334b21" ed="T"/><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334b22" ed="T"/>
+<lb n="0334b23" ed="T"/><p id="pT18p0334b2301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛地</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-A56F;</t><t lang="chi">那</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">埵</t></tt><tt><t lang="san-sd">&SD-A640;</t><t lang="chi">里</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt>
+<lb n="0334b24" ed="T"/>
+<lb n="0334b25" ed="T"/><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334b26" ed="T"/>
+<lb n="0334b27" ed="T"/><p id="pT18p0334b2701" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛寶</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi"><app source="0332014" type="＊"><lem wit="【大】">摩</lem><rdg resp="Taisho" wit="【乙】">麼</rdg></app></t></tt><tt><t lang="san-sd"><note n="0334013" resp="Taisho" place="foot text" type="orig">&SD-A54D;＝&SD-A5AB;【甲】</note><app n="0334013"><lem wit="【大】">&SD-A54D;</lem><rdg resp="Taisho" wit="【甲】">&SD-A5AB;</rdg></app></t><t lang="chi">&CB00135;</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-E0BC;</t><t lang="chi">素</t></tt><tt><t lang="san-sd">&SD-A44C;</t><t lang="chi">佉</t></tt><tt><t lang="san-sd">&SD-DA49;</t><t lang="chi">莎</t></tt>
+<lb n="0334b28" ed="T"/>
+<lb n="0334b29" ed="T"/><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334b30" ed="T"/>
+<pb n="0334c" id="T18.0877.0334c" ed="T"/>
+<lb n="0334c01" ed="T"/><p id="pT18p0334c0101" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛覺</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">揭</t></tt><tt><t lang="san-sd">&SD-A5DF;</t><t lang="chi">鞞</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334c02" ed="T"/>
+<lb n="0334c03" ed="T"/><p id="pT18p0334c0301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛劍</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A440;</t><t lang="chi">羯</t></tt><tt><t lang="san-sd">&SD-E1BA;</t><t lang="chi"><note n="0334014" resp="Taisho" place="foot text" type="orig">喇＝利【乙】【丙】</note><app n="0334014"><lem wit="【大】">喇</lem><rdg resp="Taisho" wit="【乙】【丙】">利</rdg></app>磨</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334c04" ed="T"/>
+<lb n="0334c05" ed="T"/><p id="pT18p0334c0501" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛利</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd"><note n="0334015" resp="Taisho" place="foot text" type="orig">&SD-A6B5;＝&SD-A6B8;【甲】</note><app n="0334015"><lem wit="【大】">&SD-A6B5;</lem><rdg resp="Taisho" wit="【甲】">&SD-A6B8;</rdg></app></t><t lang="chi">&CB00434;</t></tt><tt><t lang="san-sd">&SD-A5DB;</t><t lang="chi">鞞</t></tt><tt><t lang="san-sd">&SD-A640;</t><t lang="chi">里</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334c06" ed="T"/>
+<lb n="0334c07" ed="T"/><p id="pT18p0334c0701" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛拳</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">那</t></tt><tt><t lang="san-sd">&SD-A464;</t><t lang="chi">伽</t></tt><tt><t lang="san-sd">&SD-A4DA;</t><t lang="chi">吒</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334c08" ed="T"/>
+<lb n="0334c09" ed="T"/><p id="pT18p0334c0901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛箭</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd"><note n="0334016" resp="Taisho" place="foot text" type="orig">〔&SD-A5FD;〕－【明】</note><app n="0334016"><lem wit="【大】">&SD-A5FD;</lem><rdg resp="Taisho" wit="【明】">&lac;</rdg></app></t><t lang="chi"><note n="0334017" resp="Taisho" place="foot text" type="orig">〔羅〕－【乙】【丙】</note><app n="0334017"><lem wit="【大】">羅</lem><rdg resp="Taisho" wit="【乙】【丙】">&lac;</rdg></app></t></tt><tt><t lang="san-sd">&SD-A6B4;</t><t lang="chi">乞叉</t></tt><tt><t lang="san-sd">&SD-A6B2;</t><t lang="chi">含</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334c10" ed="T"/>
+<lb n="0334c11" ed="T"/><p id="pT18p0334c1101" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛磬</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A5AB;</t><t lang="chi">&CB00135;</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-AF59;</t><t lang="chi">埵</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334c12" ed="T"/>
+<lb n="0334c13" ed="T"/><p id="pT18p0334c1301" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛渠</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A6B2;</t><t lang="chi">含</t></tt><tt><t lang="san-sd">&SD-A6B2;</t><t lang="chi">含</t></tt><tt><t lang="san-sd">&SD-A6B2;</t><t lang="chi">含</t></tt><tt><t lang="san-sd">&SD-A6B0;</t><t lang="chi">護</t></tt><tt><t lang="san-sd">&SD-A5D9;</t><t lang="chi">薄</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">伽</t></tt>
+<lb n="0334c14" ed="T"/>
+<lb n="0334c15" ed="T"/><tt><t lang="san-sd">&SD-A660;</t><t lang="chi">梵</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334c16" ed="T"/>
+<lb n="0334c17" ed="T"/><p id="pT18p0334c1701" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛瓶</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A55B;</t><t lang="chi">都</t></tt><tt><t lang="san-sd">&SD-A654;</t><t lang="chi">浪</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">揭</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">提</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334c18" ed="T"/>
+<lb n="0334c19" ed="T"/><p id="pT18p0334c1901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛主</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-A57D;</t><t lang="chi">姪</t></tt><tt><t lang="san-sd">&SD-A640;</t><t lang="chi">力</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334c20" ed="T"/>
+<lb n="0334c21" ed="T"/><p id="pT18p0334c2101" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛聲</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd"><note n="0334018" resp="Taisho" place="foot text" type="orig">&SD-CBEB;＝&SD-A56F;【甲】</note><app n="0334018"><lem wit="【大】">&SD-CBEB;</lem><rdg resp="Taisho" wit="【甲】">&SD-A56F;</rdg></app></t><t lang="chi">涅里</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">帝</t></tt><tt><t lang="san-sd"><note n="0334019" resp="Taisho" place="foot text" type="orig">&SD-E0B4;＝&SD-CBA7;&SD-A4DA;【甲】</note><app n="0334019"><lem wit="【大】">&SD-E0B4;</lem><rdg resp="Taisho" wit="【甲】">&SD-CBA7;&SD-A4DA;</rdg></app></t><t lang="chi">訖里吒</t></tt><tt><t lang="san-sd">&SD-DA49;</t><t lang="chi">莎</t></tt>
+<lb n="0334c22" ed="T"/>
+<lb n="0334c23" ed="T"/><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334c24" ed="T"/>
+<lb n="0334c25" ed="T"/><p id="pT18p0334c2501" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛子</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日囉</t></tt><tt><t lang="san-sd">&SD-A45A;</t><t lang="chi">擬</t></tt><tt><t lang="san-sd">&SD-E4BB;</t><t lang="chi">提</t></tt><tt><t lang="san-sd">&SD-A45A;</t><t lang="chi">擬</t></tt><tt><t lang="san-sd">&SD-D9FC;</t><t lang="chi">提</t></tt><tt><t lang="san-sd">&SD-CFC1;</t><t lang="chi">吽</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">莎</t></tt>
+<lb n="0334c26" ed="T"/>
+<lb n="0334c27" ed="T"/><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0334c28" ed="T"/>
+<lb n="0334c29" ed="T"/><p id="pT18p0334c2901" type="dharani"><tt><t lang="san-sd">&lac;</t><t lang="chi">金剛姥</t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">跋</t></tt><tt><t lang="san-sd">&SD-A9BD;</t><t lang="chi">日羅</t></tt><tt><t lang="san-sd">&SD-A6A8;</t><t lang="chi">呵</t></tt><tt><t lang="san-sd">&SD-A6A8;</t><t lang="chi">呵</t></tt><tt><t lang="san-sd">&SD-A6A8;</t><t lang="chi">呵</t></tt><tt><t lang="san-sd">&SD-E17C;</t><t lang="chi">唬吽</t></tt><tt><t lang="san-sd">&SD-E17C;</t><t lang="chi"><note n="0334020" resp="Taisho" place="foot text" type="orig">〔唬吽〕－【乙】</note>唬</t></tt>
+<lb n="0334c30" ed="T"/>
+<pb n="0335a" id="T18.0877.0335a" ed="T"/>
+<lb n="0335a01" ed="T"/><tt><t lang="san-sd">&SD-E17C;</t><t lang="chi">吽</t></tt><tt><t lang="san-sd">&SD-DA49;</t><t lang="chi">莎</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0335a02" ed="T"/>
+<lb n="0335a03" ed="T"/><p id="pT18p0335a0301">佛告金剛密菩薩摩訶薩。說此金剛尊悉地
+<lb n="0335a04" ed="T"/>印契及密言字。住大<note n="0335001" resp="Taisho" place="foot text" type="orig">寂＋（滅）【甲】【乙】</note><app n="0335001"><lem wit="【大】">寂</lem><rdg resp="Taisho" wit="【甲】【乙】">寂滅</rdg></app><note n="0335002" resp="Taisho" place="foot text" type="orig">靜＋（滅）【乙】</note><app n="0335002"><lem wit="【大】">靜</lem><rdg resp="Taisho" wit="【乙】">靜滅</rdg></app>遠離一切心。於
+<lb n="0335a05" ed="T"/>月愛三昧白毫輪中。次第觀照分明普現。一
+<lb n="0335a06" ed="T"/>切如來金剛大摩尼如意之寶。同一法性一
+<lb n="0335a07" ed="T"/>真法界一味如如。不來不去無相無為。清淨
+<lb n="0335a08" ed="T"/>法身照圓寂海。</p>
+<lb n="0335a09" ed="T"/><lg id="lgT18p0335a0901"><l>如是<note n="0335003" resp="Taisho" place="foot text" type="orig">八百＝百八【甲】【乙】【丙】</note><app n="0335003"><lem wit="【大】">八百</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">百八</rdg></app>金剛句</l><l>本從三昧一法生</l>
+<lb n="0335a10" ed="T"/><l>觀照真如不二門</l><l>得入如來圓寂海</l>
+<lb n="0335a11" ed="T"/><l>善<note n="0335004" resp="Taisho" place="foot text" type="orig">知＝和【乙】</note><app n="0335004"><lem wit="【大】">知</lem><rdg resp="Taisho" wit="【乙】">和</rdg></app>出句及入句</l><l>瑜伽悉地諸儀式</l>
+<lb n="0335a12" ed="T"/><l>菩提萬行剎那修</l><l>永離無始諸迷惑</l>
+<lb n="0335a13" ed="T"/><l>八萬四千妙法門</l><l>一字真言印契入</l>
+<lb n="0335a14" ed="T"/><l>恒沙功德不可算</l><l>廣度眾生無限極</l>
+<lb n="0335a15" ed="T"/><l>人空法空自性空</l><l>一真法界本來空</l>
+<lb n="0335a16" ed="T"/><l>十方調御諸等覺</l><l>咸依如是金剛句</l>
+<lb n="0335a17" ed="T"/><l>一句一契一真言</l><l>先從心輪頂上布</l>
+<lb n="0335a18" ed="T"/><l>兩肩左右耳雙尖</l><l>白毫<note n="0335005" resp="Taisho" place="foot text" type="orig">髮＝髻【甲】【乙】【丙】</note><app n="0335005"><lem wit="【大】">髮</lem><rdg resp="Taisho" wit="【甲】【乙】【丙】">髻</rdg></app>際眉間<note n="0335006" resp="Taisho" place="foot text" type="orig">注＝住【甲】</note><app n="0335006"><lem wit="【大】">注</lem><rdg resp="Taisho" wit="【甲】">住</rdg></app></l>
+<lb n="0335a19" ed="T"/><l><note n="0335007" resp="Taisho" place="foot text" type="orig">頸＝&CB02435;【乙】</note><app n="0335007"><lem wit="【大】">頸</lem><rdg resp="Taisho" wit="【乙】">&CB02435;</rdg></app>上二頰人中相</l><l>脣齒<note n="0335008" resp="Taisho" place="foot text" type="orig">眼&CB00171;＝&CB00171;眼【甲】【乙】</note><app n="0335008"><lem wit="【大】">眼&CB00171;</lem><rdg resp="Taisho" wit="【甲】【乙】">&CB00171;眼</rdg></app>咽喉中</l>
+<lb n="0335a20" ed="T"/><l>兩臂十指波羅蜜</l><l>胸前背後二雙足</l>
+<lb n="0335a21" ed="T"/><l>臍輪次上金剛宮</l><l>心王明月<note n="0335009" resp="Taisho" place="foot text" type="orig">藏中＝肉團【丁】</note><app n="0335009"><lem wit="【大】">藏中</lem><rdg resp="Taisho" wit="【丁】">肉團</rdg></app>住</l>
+<lb n="0335a22" ed="T"/><l>珠<app source="0333022" type="＊"><lem wit="【大】">幢</lem><rdg resp="Taisho" wit="【乙】">憧</rdg></app>寶傘遍莊嚴</l><l>無相無來亦無去</l>
+<lb n="0335a23" ed="T"/><l>二目蓮華金剛燈</l><l>喜戲塗香鼻根處</l>
+<lb n="0335a24" ed="T"/><l>安坐悉地金剛輪</l><l>清淨光明如滿月</l>
+<lb n="0335a25" ed="T"/><l>如是身心一百八</l><l>次第觀想令明淨</l>
+<lb n="0335a26" ed="T"/><l>頓悟祕密菩提契</l><l>自在遊行涅槃路</l>
+<lb n="0335a27" ed="T"/><l>安立世間悉地竟</l><l>然依灌頂作持<note n="0335010" resp="Taisho" place="foot text" type="orig">誦＝頌【甲】【丙】＊</note><app n="0335010"><lem wit="【大】">誦</lem><rdg resp="Taisho" wit="【甲】【丙】">頌</rdg></app></l>
+<lb n="0335a28" ed="T"/><l>真是如來勝<note n="0335011" resp="Taisho" place="foot text" type="orig">生＝王【甲】【乙】</note><app n="0335011"><lem wit="【大】">生</lem><rdg resp="Taisho" wit="【甲】【乙】">王</rdg></app>子</l><l>滿足清白一乘法</l>
+<lb n="0335a29" ed="T"/><l>天魔軍眾見是人</l><l>合掌稱云救世者</l>
+<pb n="0335b" id="T18.0877.0335b" ed="T"/>
+<lb n="0335b01" ed="T"/><l>復言金剛不動智</l><l>究竟成佛法身處</l>
+<lb n="0335b02" ed="T"/><l>瑜伽勝義品中說</l><l>瞻仰由如世導師</l>
+<lb n="0335b03" ed="T"/><l>傳薄伽梵祕密門</l><l>八部龍天咸敬仰</l>
+<lb n="0335b04" ed="T"/><l>欲行欲坐念<app source="0335010" type="＊"><lem wit="【大】">誦</lem><rdg resp="Taisho" wit="【甲】【丙】">頌</rdg></app>時</l><l>出淨入淨語言相</l>
+<lb n="0335b05" ed="T"/><l>口含金色<note n="0335012" resp="Taisho" place="foot text" type="orig">跋折囉＝拔折羅【甲】</note><app n="0335012"><lem wit="【大】">跋折囉</lem><rdg resp="Taisho" wit="【甲】">拔折羅</rdg></app></l><l>二目麼吒除宿障</l>
+<lb n="0335b06" ed="T"/><l>恒思明月鏡中<note n="0335013" resp="Taisho" place="foot text" type="orig">坐＝出【甲】&M062403;</note><app n="0335013"><lem wit="【大】">坐</lem><rdg resp="【甲】" wit="【？】">出</rdg></app></l><l>廓周法界虛空量</l>
+<lb n="0335b07" ed="T"/><l>心得自在無去來</l><l>功德常行普迴向<note n="0335014" resp="Taisho" place="foot text" type="orig">甲本奧書曰百八尊印契真言，仁平元年未八月十五日敬奉書寫了，沙門證印本，乙本奧書曰百八尊印契真言，保□三年七月二十八日□仲川書寫了執筆□□</note></l></lg></div1>
+<lb n="0335b08" ed="T"/><div1 type="other"><mulu level="1" n="2" label="入法身觀門" type="其他"/><head><note n="0335015" resp="Taisho" place="foot text" type="orig">入法身觀門以下甲乙二本俱缺</note><note n="0335015" resp="CBETA" type="mod"><todo type="a"/>入法身觀門以下甲乙二本俱缺</note>入法身觀門</head>
+<lb n="0335b09" ed="T"/><lg id="lgT18p0335b0901"><l>稽首毘盧遮那佛</l><l>一切如來金剛頂</l>
+<lb n="0335b10" ed="T"/><l>於大法界道場中</l><l>一心觀想分明見</l>
+<lb n="0335b11" ed="T"/><l>妙高殊特大希有</l><l>神通聖力登其上</l>
+<lb n="0335b12" ed="T"/><l>遍觀十方諸佛剎</l><l>如在掌內摩尼珠</l>
+<lb n="0335b13" ed="T"/><l>悟此三昧首楞嚴</l><l>安住如來吉祥地</l>
+<lb n="0335b14" ed="T"/><l>稽首毘盧遮那佛</l><l>一切如來金剛王</l>
+<lb n="0335b15" ed="T"/><l>自在光明寂滅海</l><l>十方善覺稱無上</l>
+<lb n="0335b16" ed="T"/><l>恒沙功德悉圓滿</l><l>無相清淨等真空</l>
+<lb n="0335b17" ed="T"/><l>悟此三昧菩提契</l><l>安住如來吉祥地</l>
+<lb n="0335b18" ed="T"/><l>稽首毘盧遮那佛</l><l>一切如來金剛&CB00123;</l>
+<lb n="0335b19" ed="T"/><l>頂相無邊不可見</l><l>超出十方世界海</l>
+<lb n="0335b20" ed="T"/><l>千巖萬谷摩尼寶</l><l>映現&CB00222;璃水精器</l>
+<lb n="0335b21" ed="T"/><l>悟此三昧萬像寶</l><l>安住如來吉祥地</l>
+<lb n="0335b22" ed="T"/><l>稽首毘盧遮那佛</l><l>一切如來金剛命</l>
+<lb n="0335b23" ed="T"/><l>壽量無窮不可算</l><l>水鳥樹林極樂地</l>
+<lb n="0335b24" ed="T"/><l>人於花內颯然生</l><l>鳥出珠中法音詠</l>
+<lb n="0335b25" ed="T"/><l>菩薩沐浴金沙水</l><l>一念十方受記竟</l>
+<lb n="0335b26" ed="T"/><l>悟此速疾不退觀</l><l>安住如來吉祥地</l>
+<lb n="0335b27" ed="T"/><l>稽首毘盧遮那佛</l><l>一切如來金剛座</l>
+<lb n="0335b28" ed="T"/><l>海印恒沙悉地寶</l><l>無邊善逝登其上</l>
+<lb n="0335b29" ed="T"/><l>圓光法界無障礙</l><l>如觀水月鏡中像</l>
+<pb n="0335c" id="T18.0877.0335c" ed="T"/>
+<lb n="0335c01" ed="T"/><l>師子頂戴滿虛空</l><l>七寶金蓮珠傘帳</l>
+<lb n="0335c02" ed="T"/><l>悟此三昧悉地契</l><l>安住如來吉祥地</l>
+<lb n="0335c03" ed="T"/><l>稽首毘盧遮那佛</l><l>一切如來金剛身</l>
+<lb n="0335c04" ed="T"/><l>廓周法界無邊量</l><l>隨方應現滿虛空</l>
+<lb n="0335c05" ed="T"/><l>能以一身為多身</l><l>復現多身一身相</l>
+<lb n="0335c06" ed="T"/><l>有身有相權來化</l><l>非身非相是無為</l>
+<lb n="0335c07" ed="T"/><l>悟此三昧涅槃宮</l><l>得入如來吉祥地</l></lg>
+<lb n="0335c08" ed="T"/><p id="pT18p0335c0801">毘盧遮那悉地流出相應句陀羅尼。</p>
+<lb n="0335c09" ed="T"/><p id="pT18p0335c0901" type="dharani"><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">南</t></tt><tt><t lang="san-sd">&SD-A5F0;</t><t lang="chi">麼</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-B7A3;</t><t lang="chi">婆</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi"><yin><zi>他</zi><sg>引</sg></yin></t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">&CB00617;</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">帝</t></tt><tt><t lang="san-sd">&SD-A87C;</t><t lang="chi"><yin><zi>&CB03329;</zi><sg type="fangie">毘庾反</sg></yin><note place="inline">一</note></t></tt><tt><t lang="san-sd">&SD-A658;</t><t lang="chi">微</t></tt>
+<lb n="0335c10" ed="T"/>
+<lb n="0335c11" ed="T"/><tt><t lang="san-sd">&SD-E0AB;</t><t lang="chi"><yin><zi>濕&CB00085;</zi><sg>二合</sg></yin></t></tt><tt><t lang="san-sd">&SD-E043;</t><t lang="chi">目</t></tt><tt><t lang="san-sd">&SD-A452;</t><t lang="chi">契</t></tt><tt><t lang="san-sd">&SD-A8A5;</t><t lang="chi"><yin><zi>弊</zi><sg type="fangie">毘也反</sg></yin></t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-B7A3;</t><t lang="chi">婆</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi">他</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-CFC6;</t><t lang="chi"><yin><zi>阿</zi><sg>引</sg></yin></t></tt>
+<lb n="0335c12" ed="T"/>
+<lb n="0335c13" ed="T"/><tt><t lang="san-sd">&SD-CFD3;</t>
+<t lang="chi">暗</t></tt><tt>
+<t lang="san-sd">&SD-CFD4;</t>
+<t lang="chi">噁<note place="inline">四</note></t></tt></p></div1>
+<lb n="0335c14" ed="T"/>
+<lb n="0335c15" ed="T"/><div1 type="W"><p id="pT18p0335c1501">靈雲校本末云　貞享三年五月三日校
+<lb n="0335c16" ed="T"/>了　淨嚴<note place="inline">四十八載</note></p></div1>
+</body></text></TEI.2>

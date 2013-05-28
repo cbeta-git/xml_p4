@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "T20n1113B.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1113B 大慈大悲救苦觀世音自在王菩薩廣大圓滿無礙自在青頸大悲心陀羅尼</title>
+			<author>唐 不空譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.10 $ (Big5)<date>$Date: 2009/04/23 08:01:21 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:01:21 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 20, No. 1113B &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language id="san-sd">Sanskrit-Siddam</language>
+			<language id="eng">English</language>
+			<language id="chi">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+	<change>
+		<date>20000124/11:15:13</date>
+		<respStmt><name>CW</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT (00/01/24)</item>
+	</change>
+<!--
+$Log: T20n1113B.xml,v $
+Revision 1.10  2009/04/23 08:01:21  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.9  2007/04/29 10:12:39  saywhat
+劉老師提出的修訂：p0499a23 SD-A656=>SD-A5CD, SD-A57D=>SD-E361等等
+
+Revision 1.8  2006/04/12 21:55:45  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.6  2006/03/16 07:27:34  saywhat
+p0500b22,b25,b28,c13,c15  SD-AF72 => SD-D9FA
+
+Revision 1.5  2004/12/22 06:50:01  saywhat
+SD-A65E => SD-A5D5
+
+Revision 1.4  2004/10/21 08:20:03  saywhat
+段落前加入圈點
+
+Revision 1.3  2004/04/20 08:39:00  maha
+「版本日期」標記修訂
+
+Revision 1.2  2003/06/26 02:51:48  saywhat
+<corr>→<app>
+
+Revision 1.1.1.1  2003/05/05 04:09:21  ray
+recover cvs
+
+Revision 1.27  2002/12/05 05:20:23  saywhat
+校勘插入處理
+
+Revision 1.26  2002/11/04 10:45:36  ray
+tei.2 => TEI.2
+
+Revision 1.25  2002/07/29 09:56:45  vinking
+modified lang
+
+Revision 1.24  2002/04/08 09:05:47  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.23  2001/11/05 06:13:49  ray
+<note type="foot"> => <note place="foot">
+<note type="inline"> => <note place="inline">
+
+Revision 1.22  2001/07/24 06:53:14  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.21  2001/07/09 08:38:49  saywhat
+modified App1
+
+Revision 1.20  2001/06/20 06:29:41  moved
+modified normal
+
+Revision 1.19  2001/06/13 10:12:22  moved
+modified normal
+
+Revision 1.18  2001/05/29 09:13:41  saywhat
+modified <note type='inline"> under </t>
+
+Revision 1.17  2001/05/29 02:35:49  ray
+no message
+
+Revision 1.16  2001/03/30 05:55:29  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.15  2001/03/25 09:15:27  ray
+add <milestone>
+
+Revision 1.14  2001/02/27 01:26:58  RAY
+add<note place="inline">同上</note>
+by csy
+
+Revision 1.13  2001/02/07 06:56:08  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.12  2001/02/03 07:46:04  chris
+Added keywords $Revision: 1.10 $, $Date: 2009/04/23 08:01:21 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<lb n="0498c04" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0498c05" ed="T"/>
+<lb n="0498c06" ed="T"/><head type="no">No. 1113B [cf. Nos. 1111-1113A]</head>
+<lb n="0498c07" ed="T"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><note n="0498001" resp="Taisho" place="foot text" type="orig">【原】享保年間刊豐山大學藏本</note>大慈大悲救苦觀<note n="0498002" resp="Taisho" place="foot text" type="orig">世音自在王＝自在&M062403;【原】</note><app n="0498002"><lem wit="【大】">世音自在王</lem><rdg resp="【原】" wit="【？】">自在</rdg></app>
+<lb n="0498c08" ed="T"/>菩薩廣大圓滿無礙自在青頸
+<lb n="0498c09" ed="T"/>大悲心<note n="0498003" resp="Taisho" place="foot text" type="orig">陀羅尼＝真言&M062403;【原】</note><app n="0498003"><lem wit="【大】">陀羅尼</lem><rdg resp="【原】" wit="【？】">真言</rdg></app></jhead></juan>
+<lb n="0498c10" ed="T"/>
+<lb n="0498c11" ed="T"/><byline type="Translator">大廣智不空譯</byline>
+<lb n="0498c12" ed="T"/><div1 type="jing"><p id="pT20p0498c1201">南無歸命頂禮南方海上蒲陀落淨土。正法
+<lb n="0498c13" ed="T"/>教主釋迦牟尼如來。觀音<note n="0498004" resp="Taisho" place="foot text" type="orig">本＋（體）&M062485;【原】</note><sic n="0498004" resp="【原】" corr="本體">本</sic>師無量壽如來。
+<lb n="0498c14" ed="T"/>觀音本正法明如來。南無千手千眼觀世音
+<lb n="0498c15" ed="T"/>菩薩廣大圓滿無礙大悲心大陀羅尼。救苦
+<lb n="0498c16" ed="T"/>陀羅尼。延壽陀羅尼。加滅惡趣陀羅尼。破
+<lb n="0498c17" ed="T"/>業障陀羅尼滿願陀羅尼。隨心自在陀羅尼。
+<lb n="0498c18" ed="T"/>速超上地陀羅尼。一聞神&CB00057;超第八地陀羅
+<lb n="0498c19" ed="T"/>尼。四百四病一時消滅陀羅尼。</p>
+<lb n="0498c20" ed="T"/><p id="pT20p0498c2001" type="dharani"><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">南</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi">無喝</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-B448;</t><t lang="chi">怛那</t></tt><tt><t lang="san-sd">&SD-AA5E;</t><t lang="chi">哆羅</t></tt><tt><t lang="san-sd">&SD-A5F2;</t><t lang="chi">夜</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">&CB01223;<note place="inline">一</note></t></tt></p>
+<lb n="0498c21" ed="T"/>
+<lb n="0498c22" ed="T"/><p id="pT20p0498c2201">此觀世音菩薩本身。大須慈悲思勿高聲此
+<lb n="0498c23" ed="T"/>神性忽。</p>
+<lb n="0498c24" ed="T"/><p id="pT20p0498c2401" type="dharani"><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">南</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi">無</t></tt><tt><t lang="san-sd">&SD-CFC6;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-B76A;</t><t lang="chi">唎&CB01223;<note place="inline">二</note></t></tt></p>
+<lb n="0498c25" ed="T"/>
+<lb n="0498c26" ed="T"/><p id="pT20p0498c2601">是如意輪菩薩本身。到此誦在心。</p>
+<lb n="0498c27" ed="T"/><p id="pT20p0498c2701" type="dharani"><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">婆</t></tt><tt><t lang="san-sd">&SD-A652;</t><t lang="chi">盧</t></tt><tt><t lang="san-sd">&SD-A442;</t><t lang="chi">羯</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">帝</t></tt><tt><t lang="san-sd">&SD-E0AB;</t><t lang="chi">爍&CB00425;</t></tt><tt><t lang="san-sd">&SD-A5FE;</t><t lang="chi">囉</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">&CB01223;<note place="inline">三</note></t></tt></p>
+<lb n="0498c28" ed="T"/>
+<lb n="0498c29" ed="T"/><p id="pT20p0498c2901">此是轉&CB00425;觀音。昔誦此理轉菩薩。</p>
+<pb n="0499a" id="T20.1113B.0499a" ed="T"/>
+<lb n="0499a01" ed="T"/><p id="pT20p0499a0101" type="dharani"><tt><t lang="san-sd">&SD-A5D5;</t><t lang="chi">菩</t></tt><tt><t lang="san-sd">&SD-A57D;</t><t lang="chi">提</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-AF5A;</t><t lang="chi">哆婆</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">&CB01223;<note place="inline">四</note></t></tt></p>
+<lb n="0499a02" ed="T"/>
+<lb n="0499a03" ed="T"/><p id="pT20p0499a0301">此不空&CB00559;索菩薩。降押天兵眾。</p>
+<lb n="0499a04" ed="T"/><p id="pT20p0499a0401" type="dharani"><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-AF5A;</t><t lang="chi">埵婆</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">&CB01223;<note place="inline">五</note></t></tt></p>
+<lb n="0499a05" ed="T"/>
+<lb n="0499a06" ed="T"/><p id="pT20p0499a0601">是菩薩種子之因。誦&CB00057;本身。</p>
+<lb n="0499a07" ed="T"/><p id="pT20p0499a0701" type="dharani"><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt><tt><t lang="san-sd">&SD-A441;</t><t lang="chi">迦</t></tt><tt><t lang="san-sd">&SD-A642;</t><t lang="chi">嚧</t></tt><tt><t lang="san-sd">&SD-A54D;</t><t lang="chi">昵</t></tt><tt><t lang="san-sd">&SD-A441;</t><t lang="chi">迦</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">&CB01223;<note place="inline">六</note></t></tt></p>
+<lb n="0499a08" ed="T"/>
+<lb n="0499a09" ed="T"/><p id="pT20p0499a0901">是馬鳴菩薩本身。手把拔折羅印菩薩自身。</p>
+<lb n="0499a10" ed="T"/><p id="pT20p0499a1001" type="dharani"><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵<note place="inline">七</note></t></tt></p>
+<lb n="0499a11" ed="T"/>
+<lb n="0499a12" ed="T"/><p id="pT20p0499a1201">此是神唵語。悉合掌聽誦&CB00057;曰。</p>
+<lb n="0499a13" ed="T"/><p id="pT20p0499a1301" type="dharani"><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-B7A3;</t><t lang="chi">皤</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">囉</t></tt><tt><t lang="san-sd">&SD-A5D9;</t><t lang="chi">罰</t></tt><tt><t lang="san-sd">&SD-A5F7;</t><t lang="chi">曳<note place="inline">八</note></t></tt></p>
+<lb n="0499a14" ed="T"/>
+<lb n="0499a15" ed="T"/><p id="pT20p0499a1501">此是四天大王本身。降伏魔王。</p>
+<lb n="0499a16" ed="T"/><p id="pT20p0499a1601" type="dharani"><tt><t lang="san-sd">&SD-A666;</t><t lang="chi">數</t></tt><tt><t lang="san-sd">&SD-A57B;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">那</t></tt><tt><t lang="san-sd">&SD-A56F;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-A8E2;</t><t lang="chi">寫<note place="inline">九</note></t></tt></p>
+<lb n="0499a17" ed="T"/>
+<lb n="0499a18" ed="T"/><p id="pT20p0499a1801">此是四天大王八部鬼神名字。</p>
+<lb n="0499a19" ed="T"/><p id="pT20p0499a1901" type="dharani"><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">南</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi">無</t></tt><tt><t lang="san-sd">&SD-E0CE;</t><t lang="chi">悉吉&CB00069;</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">埵</t></tt><tt><t lang="san-sd">&SD-CFC8;</t><t lang="chi">伊</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi">蒙</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-DA48;</t><t lang="chi">唎耶<note place="inline">十</note></t></tt></p>
+<lb n="0499a20" ed="T"/>
+<lb n="0499a21" ed="T"/><p id="pT20p0499a2101">此是龍樹菩薩本身。須用心誦勿令&CB00520;步菩
+<lb n="0499a22" ed="T"/>薩性勿也。</p>
+<lb n="0499a23" ed="T"/><p id="pT20p0499a2301" type="dharani"><tt><t lang="san-sd">&SD-A5CD;</t><t lang="chi">婆</t></tt><tt><t lang="san-sd">&SD-A642;</t><t lang="chi">嚧</t></tt><tt><t lang="san-sd">&SD-A442;</t><t lang="chi">吉</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">帝</t></tt><tt><t lang="san-sd"><app><lem resp="CBETA.say" wit="【CBETA】">&SD-E0AB;</lem><rdg wit="【大】">&SD-A67C;&SD-A656;</rdg></app></t><t lang="chi">室佛</t></tt><tt><t lang="san-sd">&SD-A648;</t><t lang="chi">楞</t></tt><tt><t lang="san-sd">&SD-E361;</t><t lang="chi">馱</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">婆<note place="inline">十一</note></t></tt></p>
+<lb n="0499a24" ed="T"/>
+<lb n="0499a25" ed="T"/><p id="pT20p0499a2501">此是本師毘盧遮那佛本身。廣大圓滿不可
+<lb n="0499a26" ed="T"/>思議功德。</p>
+<lb n="0499a27" ed="T"/><p id="pT20p0499a2701" type="dharani"><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">南</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi">無</t></tt><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">那</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">囉</t></tt><tt><t lang="san-sd">&SD-A442;</t><t lang="chi">謹</t></tt><tt><t lang="san-sd">&SD-A57D;</t><t lang="chi">墀<note place="inline">十二</note></t></tt></p>
+<lb n="0499a28" ed="T"/>
+<lb n="0499a29" ed="T"/><p id="pT20p0499a2901">此是清淨圓滿報身盧舍那佛本身。須用心
+<pb n="0499b" id="T20.1113B.0499b" ed="T"/>
+<lb n="0499b01" ed="T"/>勿令放逸。</p>
+<lb n="0499b02" ed="T"/><p id="pT20p0499b0201" type="dharani"><tt><t lang="san-sd">&SD-A6AE;</t><t lang="chi">醯</t></tt><tt><t lang="san-sd">&SD-A640;</t><t lang="chi">利</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">皤</t></tt><tt><t lang="san-sd">&SD-E361;</t><t lang="chi">哆</t></tt><tt><t lang="san-sd">&SD-A66E;</t><t lang="chi">沙</t></tt><tt><t lang="san-sd">&SD-A5EB;</t><t lang="chi">咩<note place="inline">十三</note></t></tt></p>
+<lb n="0499b03" ed="T"/>
+<lb n="0499b04" ed="T"/><p id="pT20p0499b0401">此是半頭神王。菊大魔以為眷屬。</p>
+<lb n="0499b05" ed="T"/><p id="pT20p0499b0501" type="dharani"><tt><t lang="san-sd"></t><t lang="chi"></t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-B7A3;</t><t lang="chi">婆</t></tt><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi">陀</t></tt><tt><t lang="san-sd">&SD-E1DA;</t><t lang="chi">頭</t></tt><tt><t lang="san-sd">&SD-A666;</t><t lang="chi">輸</t></tt><tt><t lang="san-sd">&SD-E04E;</t><t lang="chi">朋<note place="inline">十四</note></t></tt></p>
+<lb n="0499b06" ed="T"/>
+<lb n="0499b07" ed="T"/><p id="pT20p0499b0701">此是甘露菩薩亦是觀世音菩薩部落。以為
+<lb n="0499b08" ed="T"/>眷屬。</p>
+<lb n="0499b09" ed="T"/><p id="pT20p0499b0901" type="dharani"><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-A4BC;</t><t lang="chi">遊</t></tt><tt><t lang="san-sd">&SD-A5FB;</t><t lang="chi">孕<note place="inline">十五</note></t></tt></p>
+<lb n="0499b10" ed="T"/>
+<lb n="0499b11" ed="T"/><p id="pT20p0499b1101">此是飛騰夜叉大王。巡歷四方察其是非。</p>
+<lb n="0499b12" ed="T"/><p id="pT20p0499b1201" type="dharani"><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-B7A3;</t><t lang="chi">婆</t></tt><tt><t lang="san-sd">&SD-A5DD;</t><t lang="chi">菩</t></tt><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">哆</t></tt><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">那</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">縛</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">伽<note place="inline">十六</note></t></tt></p>
+<lb n="0499b13" ed="T"/>
+<lb n="0499b14" ed="T"/><p id="pT20p0499b1401">此是婆帝王其形黑大。大以豹皮為衣。<note n="0499001" resp="Taisho" place="foot text" type="orig">神＝袖&M062485;【原】</note><sic n="0499001" resp="【原】" corr="袖">神</sic>手
+<lb n="0499b15" ed="T"/>把<note n="0499002" resp="Taisho" place="foot text" type="orig">衣＝夜&M062485;【原】</note><sic n="0499002" resp="【原】" corr="夜">衣</sic>叉。</p>
+<lb n="0499b16" ed="T"/><p id="pT20p0499b1601" type="dharani"><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">罰</t></tt><tt><t lang="san-sd">&SD-E1DA;</t><t lang="chi">特</t></tt><tt><t lang="san-sd">&SD-E1DA;</t><t lang="chi">豆<note place="inline">十七</note></t></tt></p>
+<lb n="0499b17" ed="T"/>
+<lb n="0499b18" ed="T"/><p id="pT20p0499b1801">此是剎利菩薩本身。鐵輪手把夜叉素有三
+<lb n="0499b19" ed="T"/>眼是也。</p>
+<lb n="0499b20" ed="T"/><p id="pT20p0499b2001" type="dharani"><tt><t lang="san-sd">&SD-A557;</t><t lang="chi">怛</t></tt><tt><t lang="san-sd">&SD-DA4A;</t><t lang="chi">姪</t></tt><tt><t lang="san-sd">&SD-A564;</t><t lang="chi">他<note place="inline">十八</note></t></tt><tt><t lang="san-sd">&SD-DA42;</t><t lang="chi">唵</t></tt></p>
+<lb n="0499b21" ed="T"/>
+<lb n="0499b22" ed="T"/><p id="pT20p0499b2201">此是劍語。</p>
+<lb n="0499b23" ed="T"/><p id="pT20p0499b2301" type="dharani"><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">波</t></tt><tt><t lang="san-sd">&SD-A652;</t><t lang="chi">盧</t></tt><tt><t lang="san-sd">&SD-A440;</t><t lang="chi">醯</t></tt><tt><t lang="san-sd">&SD-A652;</t><t lang="chi">盧</t></tt><tt><t lang="san-sd">&SD-A440;</t><t lang="chi">迦</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">帝<note place="inline">十九</note></t></tt></p>
+<lb n="0499b24" ed="T"/>
+<lb n="0499b25" ed="T"/><p id="pT20p0499b2501">此是梵天王本身說佛為部。</p>
+<lb n="0499b26" ed="T"/><p id="pT20p0499b2601" type="dharani"><tt><t lang="san-sd">&SD-A440;</t><t lang="chi">迦</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">帝<note place="inline">二十</note></t></tt></p>
+<lb n="0499b27" ed="T"/>
+<lb n="0499b28" ed="T"/><p id="pT20p0499b2801">此是立門五神。長大黑色。</p>
+<pb n="0499c" id="T20.1113B.0499c" ed="T"/>
+<lb n="0499c01" ed="T"/><p id="pT20p0499c0101" type="dharani"><tt><t lang="san-sd">&SD-CFCF;</t><t lang="chi">夷</t></tt><tt><t lang="san-sd">&SD-E2C4;</t><t lang="chi">醯唎<note place="inline">二十一</note></t></tt></p>
+<lb n="0499c02" ed="T"/>
+<lb n="0499c03" ed="T"/><p id="pT20p0499c0301">此是三十三天王。是摩醯首羅天王神領天兵。</p>
+<lb n="0499c04" ed="T"/><p id="pT20p0499c0401" type="dharani"><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt><tt><t lang="san-sd">&SD-A5D5;&SD-A57D;</t><t lang="chi">菩</t></tt><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-AF59;</t><t lang="chi">埵<note place="inline">二十二</note></t></tt></p>
+<lb n="0499c05" ed="T"/>
+<lb n="0499c06" ed="T"/><p id="pT20p0499c0601">此是寶心更無雜亂心節名薩埵。</p>
+<lb n="0499c07" ed="T"/><p id="pT20p0499c0701" type="dharani"><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">薩</t></tt><tt><t lang="san-sd">&SD-B7A3;</t><t lang="chi">婆</t></tt><tt><t lang="san-sd"><app><lem wit="【CBETA】">&SD-A67A;&SD-B7A3;</lem><rdg wit="【大】">&SD-D957;</rdg></app></t><t lang="chi">薩婆<note place="inline">二十三</note></t></tt></p>
+<lb n="0499c08" ed="T"/>
+<lb n="0499c09" ed="T"/><p id="pT20p0499c0901">此是香積菩薩。押五方兵薩婆為侍從不可
+<lb n="0499c10" ed="T"/>思議。</p>
+<lb n="0499c11" ed="T"/><p id="pT20p0499c1101" type="dharani"><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A64A;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd"><app><lem wit="【CBETA】">&SD-A5E5;&SD-A64A;</lem><rdg wit="【大】">&SD-D957;</rdg></app></t><t lang="chi">摩羅</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-E2C4;</t><t lang="chi">醯唎</t></tt><tt><t lang="san-sd">&SD-A56F;</t><t lang="chi">馱</t></tt><tt><t lang="san-sd">&SD-A5FB;</t><t lang="chi">孕<note place="inline">二十四</note><note place="inline">同上</note></t></tt></p>
+<lb n="0499c12" ed="T"/>
+<lb n="0499c13" ed="T"/><p id="pT20p0499c1301" type="dharani"><tt><t lang="san-sd">&SD-A444;</t><t lang="chi">俱</t></tt><tt><t lang="san-sd">&SD-A642;</t><t lang="chi">嚧</t></tt><tt><t lang="san-sd"><app><lem wit="【CBETA】">&SD-A444;&SD-A642;</lem><rdg wit="【大】">&SD-D957;</rdg></app></t><t lang="chi">俱嚧</t></tt><tt><t lang="san-sd">&SD-A440;</t><t lang="chi">羯</t></tt><tt><t lang="san-sd">&SD-B767;</t><t lang="chi">蒙<note place="inline">二十五</note></t></tt></p>
+<lb n="0499c14" ed="T"/>
+<lb n="0499c15" ed="T"/><p id="pT20p0499c1501">此是空身菩薩。押夫將軍領二萬億天兵忽。</p>
+<lb n="0499c16" ed="T"/><p id="pT20p0499c1601" type="dharani"><tt><t lang="san-sd">&SD-E0C1;</t><t lang="chi">度</t></tt><tt><t lang="san-sd">&SD-A642;</t><t lang="chi">嚧</t></tt><tt><t lang="san-sd"><app><lem wit="【CBETA】">&SD-E0C1;&SD-A642;</lem><rdg wit="【大】">&SD-D957;</rdg></app></t><t lang="chi">度嚧</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">罰</t></tt><tt><t lang="san-sd">&SD-A4B6;</t><t lang="chi">闍</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">帝<note place="inline">二十六</note></t></tt></p>
+<lb n="0499c17" ed="T"/>
+<lb n="0499c18" ed="T"/><p id="pT20p0499c1801">此是嚴峻菩薩。孔雀王兵。</p>
+<lb n="0499c19" ed="T"/><p id="pT20p0499c1901" type="dharani"><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A6A8;</t><t lang="chi">訶</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">罰</t></tt><tt><t lang="san-sd">&SD-A4B6;</t><t lang="chi">闍</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">帝<note place="inline">二十七</note><note place="inline">同上</note></t></tt></p>
+<lb n="0499c20" ed="T"/>
+<lb n="0499c21" ed="T"/><p id="pT20p0499c2101" type="dharani"><tt><t lang="san-sd">&SD-A57B;</t><t lang="chi">陀</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd"><app><lem wit="【CBETA】">&SD-A57B;&SD-A5FD;</lem><rdg wit="【大】">&SD-D957;</rdg></app></t><t lang="chi">陀羅<note place="inline">二十八</note></t></tt></p>
+<lb n="0499c22" ed="T"/>
+<lb n="0499c23" ed="T"/><p id="pT20p0499c2301">此是觀世音菩薩。大手把金輪。</p>
+<lb n="0499c24" ed="T"/><p id="pT20p0499c2401" type="dharani"><tt><t lang="san-sd">&SD-A57D;</t><t lang="chi">地</t></tt><tt><t lang="san-sd">&SD-A640;</t><t lang="chi">利</t></tt><tt><t lang="san-sd">&SD-A54D;</t><t lang="chi">尼<note place="inline">二十九</note></t></tt></p>
+<lb n="0499c25" ed="T"/>
+<lb n="0499c26" ed="T"/><p id="pT20p0499c2601">此是師子王。兵驗不調。</p>
+<lb n="0499c27" ed="T"/><p id="pT20p0499c2701" type="dharani"><tt><t lang="san-sd">&SD-A5FE;</t><t lang="chi">囉</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶<note place="inline">三十</note></t></tt></p>
+<lb n="0499c28" ed="T"/>
+<lb n="0499c29" ed="T"/><p id="pT20p0499c2901">是霹靂降伏魔眷屬。</p>
+<pb n="0500a" id="T20.1113B.0500a" ed="T"/>
+<lb n="0500a01" ed="T"/><p id="pT20p0500a0101" type="dharani"><tt><t lang="san-sd">&SD-A47C;</t><t lang="chi">遮</t></tt><tt><t lang="san-sd">&SD-A64A;</t><t lang="chi">囉</t></tt><tt><t lang="san-sd">&SD-A47C;</t><t lang="chi">遮</t></tt><tt><t lang="san-sd">&SD-A64A;</t><t lang="chi">囉<note place="inline">三十一</note></t></tt></p>
+<lb n="0500a02" ed="T"/>
+<lb n="0500a03" ed="T"/><p id="pT20p0500a0301">此是摧碎菩薩。本身手把金輪。</p>
+<lb n="0500a04" ed="T"/><p id="pT20p0500a0401" type="dharani"><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩<note place="inline">弟子某甲受持</note></t></tt></p>
+<lb n="0500a05" ed="T"/>
+<lb n="0500a06" ed="T"/><p id="pT20p0500a0601" type="dharani"><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">罰</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅<note place="inline">三十二</note></t></tt></p>
+<lb n="0500a07" ed="T"/>
+<lb n="0500a08" ed="T"/><p id="pT20p0500a0801">此是大降魔金剛本身。手把金輪。</p>
+<lb n="0500a09" ed="T"/><p id="pT20p0500a0901" type="dharani"><tt><t lang="san-sd">&SD-E0BC;</t><t lang="chi">穆</t></tt><tt><t lang="san-sd">&SD-E16F;</t><t lang="chi">帝</t></tt><tt><t lang="san-sd">&SD-A650;</t><t lang="chi">曬<note place="inline">三十三</note></t></tt></p>
+<lb n="0500a10" ed="T"/>
+<lb n="0500a11" ed="T"/><p id="pT20p0500a1101">此是佛合掌。聽誦千手千眼觀世音菩薩善
+<lb n="0500a12" ed="T"/>神妙章句。</p>
+<lb n="0500a13" ed="T"/><p id="pT20p0500a1301" type="dharani"><tt><t lang="san-sd">&SD-CFCF;</t><t lang="chi">伊</t></tt><tt><t lang="san-sd">&SD-A6AE;</t><t lang="chi">醯</t></tt><tt><t lang="san-sd">&SD-CFCF;</t><t lang="chi">移</t></tt><tt><t lang="san-sd">&SD-A6AE;</t><t lang="chi">醯<note place="inline">三十四</note></t></tt></p>
+<lb n="0500a14" ed="T"/>
+<lb n="0500a15" ed="T"/><p id="pT20p0500a1501">此是喚摩醯首羅天。</p>
+<lb n="0500a16" ed="T"/><p id="pT20p0500a1601" type="dharani"><tt><t lang="san-sd">&SD-A47E;</t><t lang="chi">室</t></tt><tt><t lang="san-sd">&SD-CA6E;</t><t lang="chi">那</t></tt><tt><t lang="san-sd"><app><lem wit="【CBETA】">&SD-A47E;&SD-CA6E;</lem><rdg wit="【大】">&SD-D957;</rdg></app></t><t lang="chi">室那<note place="inline">三十五</note><note place="inline">同上</note></t></tt></p>
+<lb n="0500a17" ed="T"/>
+<lb n="0500a18" ed="T"/><p id="pT20p0500a1801" type="dharani"><tt><t lang="san-sd">&SD-CFC5;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-B7C5;</t><t lang="chi">羅參</t></tt><tt><t lang="san-sd">&SD-DA44;</t><t lang="chi">佛羅</t></tt><tt><t lang="san-sd">&SD-A47C;</t><t lang="chi">舍</t></tt><tt><t lang="san-sd">&SD-A64C;</t><t lang="chi">利<note place="inline">三十六</note></t></tt></p>
+<lb n="0500a19" ed="T"/>
+<lb n="0500a20" ed="T"/><p id="pT20p0500a2001">此是觀世音菩薩。手把軍弓箭。</p>
+<lb n="0500a21" ed="T"/><p id="pT20p0500a2101" type="dharani"><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">罰</t></tt><tt><t lang="san-sd">&SD-A66E;</t><t lang="chi">沙</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">罰</t></tt><tt><t lang="san-sd">&SD-A678;</t><t lang="chi">參</t></tt><tt><t lang="san-sd">&SD-AABC;</t><t lang="chi">佛羅</t></tt><tt><t lang="san-sd">&SD-A662;</t><t lang="chi">舍</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶<note place="inline">三十七</note></t></tt></p>
+<lb n="0500a22" ed="T"/>
+<lb n="0500a23" ed="T"/><p id="pT20p0500a2301">此是阿彌陀佛本身。觀音菩薩師主。</p>
+<lb n="0500a24" ed="T"/><p id="pT20p0500a2401" type="dharani"><tt><t lang="san-sd">&SD-E0AA;</t><t lang="chi">呼</t></tt><tt><t lang="san-sd">&SD-A642;</t><t lang="chi">嚧</t></tt><tt><t lang="san-sd"><app><lem wit="【CBETA】">&SD-E0AA;&SD-A642;</lem><rdg wit="【大】">&SD-D957;</rdg></app></t><t lang="chi">呼嚧</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">麼</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">囉<note place="inline">三十八</note></t></tt></p>
+<lb n="0500a25" ed="T"/>
+<lb n="0500a26" ed="T"/><p id="pT20p0500a2601">此是呼八部鬼神。</p>
+<lb n="0500a27" ed="T"/><p id="pT20p0500a2701" type="dharani"><tt><t lang="san-sd">&SD-E0AA;</t><t lang="chi">呼</t></tt><tt><t lang="san-sd">&SD-A642;</t><t lang="chi">嚧</t></tt><tt><t lang="san-sd"><app><lem resp="CBETA.say" wit="【CBETA】">&SD-E0AA;&SD-A642;</lem><rdg wit="【大】">&SD-D957;</rdg></app></t><t lang="chi"><app><lem resp="CBETA.say" wit="【CBETA】">呼嚧</lem><rdg wit="【大】">&lac;</rdg></app></t></tt><tt><t lang="san-sd"><app><lem resp="CBETA.say" wit="【CBETA】">&SD-ABA5;</lem><rdg wit="【大】">&lac;</rdg></app></t><t lang="chi">醯唎<note place="inline">三十九</note><note place="inline">同上</note></t></tt></p>
+<lb n="0500a28" ed="T"/>
+<pb n="0500b" id="T20.1113B.0500b" ed="T"/>
+<lb n="0500b01" ed="T"/><p id="pT20p0500b0101" type="dharani"><tt><t lang="san-sd">&SD-A67A;</t><t lang="chi">沙</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">囉</t></tt><tt><t lang="san-sd"><app><lem wit="【CBETA】">&SD-A67A;&SD-A5FD;</lem><rdg wit="【大】">&SD-D957;</rdg></app></t><t lang="chi">沙囉<note place="inline">四十</note></t></tt></p>
+<lb n="0500b02" ed="T"/>
+<lb n="0500b03" ed="T"/><p id="pT20p0500b0301">此是五濁惡世云。</p>
+<lb n="0500b04" ed="T"/><p id="pT20p0500b0401" type="dharani"><tt><t lang="san-sd">&SD-A67C;</t><t lang="chi">悉</t></tt><tt><t lang="san-sd">&SD-A640;</t><t lang="chi">唎</t></tt><tt><t lang="san-sd"><app><lem wit="【CBETA】">&SD-A67C;&SD-A640;</lem><rdg wit="【大】">&SD-D957;</rdg></app></t><t lang="chi">悉唎<note place="inline">四十一</note></t></tt><tt><t lang="san-sd">&SD-E0BC;</t><t lang="chi">蘇</t></tt><tt><t lang="san-sd">&SD-A642;</t><t lang="chi">嚧</t></tt><tt><t lang="san-sd"><app><lem wit="【CBETA】">&SD-E0BC;&SD-A642;</lem><rdg wit="【大】">&SD-D957;</rdg></app></t><t lang="chi">蘇嚧<note place="inline">四十二</note></t></tt></p>
+<lb n="0500b05" ed="T"/>
+<lb n="0500b06" ed="T"/><p id="pT20p0500b0601">此是諸佛樹樂木聲也。</p>
+<lb n="0500b07" ed="T"/><p id="pT20p0500b0701" type="dharani"><tt><t lang="san-sd">&SD-A5D5;</t><t lang="chi">菩</t></tt><tt><t lang="san-sd">&SD-A57D;</t><t lang="chi">提</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">&CB01223;</t></tt><tt><t lang="san-sd"><app><lem wit="【CBETA】">&SD-A5D5;&SD-A57D;&SD-A5F1;</lem><rdg wit="【大】">&SD-D957;</rdg></app></t><t lang="chi">菩提&CB01223;<note place="inline">四十三</note></t></tt></p>
+<lb n="0500b08" ed="T"/>
+<lb n="0500b09" ed="T"/><p id="pT20p0500b0901">此是觀世音豫眾生罪惡。</p>
+<lb n="0500b10" ed="T"/><p id="pT20p0500b1001" type="dharani"><tt><t lang="san-sd">&SD-A5D5;</t><t lang="chi">菩</t></tt><tt><t lang="san-sd">&SD-E361;</t><t lang="chi">提</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶</t></tt><tt><t lang="san-sd"><app><lem wit="【CBETA】">&SD-A5D5;&SD-E361;&SD-A5F1;</lem><rdg wit="【大】">&SD-D957;</rdg></app></t><t lang="chi">菩提耶<note place="inline">四十四</note></t></tt></p>
+<lb n="0500b11" ed="T"/>
+<lb n="0500b12" ed="T"/><p id="pT20p0500b1201">此是阿難本身也。</p>
+<lb n="0500b13" ed="T"/><p id="pT20p0500b1301" type="dharani"><tt><t lang="san-sd">&SD-A5EC;</t><t lang="chi">彌</t></tt><tt><t lang="san-sd">&SD-AA60;</t><t lang="chi">帝唎</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶<note place="inline">四十五</note></t></tt></p>
+<lb n="0500b14" ed="T"/>
+<lb n="0500b15" ed="T"/><p id="pT20p0500b1501">此是本車菩薩手把金刀。</p>
+<lb n="0500b16" ed="T"/><p id="pT20p0500b1601" type="dharani"><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">那</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">囉</t></tt><tt><t lang="san-sd">&SD-A442;</t><t lang="chi">謹</t></tt><tt><t lang="san-sd">&SD-CA70;</t><t lang="chi">墀<note place="inline">四十六</note></t></tt></p>
+<lb n="0500b17" ed="T"/>
+<lb n="0500b18" ed="T"/><p id="pT20p0500b1801">此是龍樹菩薩。手把金刀之長。</p>
+<lb n="0500b19" ed="T"/><p id="pT20p0500b1901" type="dharani"><tt><t lang="san-sd">&SD-A57B;</t><t lang="chi">他</t></tt><tt><t lang="san-sd">&SD-B7BD;</t><t lang="chi">唎瑟</t></tt><tt><t lang="san-sd">&SD-A54D;</t><t lang="chi">尼</t></tt><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">那</t></tt><tt><t lang="san-sd">&SD-A5B5;</t><t lang="chi">波</t></tt><tt><t lang="san-sd"><app><lem resp="劉鐘穗老師" wit="【CBETA】">&SD-A5F1;</lem><rdg wit="【大】">&SD-A66E;</rdg></app></t><t lang="chi">夜</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">那<note place="inline">四十七</note></t></tt></p>
+<lb n="0500b20" ed="T"/>
+<lb n="0500b21" ed="T"/><p id="pT20p0500b2101">此是金光幢菩薩。手把跋折羅杵。</p>
+<lb n="0500b22" ed="T"/><p id="pT20p0500b2201" type="dharani"><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">娑婆</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶<note place="inline">四十八</note><note place="inline">同上</note></t></tt><tt><t lang="san-sd">&SD-A67C;</t><t lang="chi">悉</t></tt><tt><t lang="san-sd">&SD-D9FA;</t><t lang="chi">陀</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">夜<note place="inline">四十九</note></t></tt></p>
+<lb n="0500b23" ed="T"/>
+<lb n="0500b24" ed="T"/><p id="pT20p0500b2401">此是達一切法門。</p>
+<lb n="0500b25" ed="T"/><p id="pT20p0500b2501" type="dharani"><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">娑婆</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶<note place="inline">五十法語</note></t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt><tt><t lang="san-sd">&SD-A67C;</t><t lang="chi">悉</t></tt><tt><t lang="san-sd">&SD-D9FA;</t><t lang="chi">陀</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">夜</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">娑婆</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt></p>
+<lb n="0500b26" ed="T"/>
+<lb n="0500b27" ed="T"/><p id="pT20p0500b2701">此是施光幢菩薩手把幡。</p>
+<lb n="0500b28" ed="T"/><p id="pT20p0500b2801" type="dharani"><tt><t lang="san-sd">&SD-A67C;</t><t lang="chi">悉</t></tt><tt><t lang="san-sd">&SD-D9FA;</t><t lang="chi">陀</t></tt><tt><t lang="san-sd">&SD-A5F9;</t><t lang="chi">喻</t></tt><tt><t lang="san-sd">&SD-A45E;</t><t lang="chi">藝<note place="inline">五十二</note></t></tt></p>
+<lb n="0500b29" ed="T"/>
+<pb n="0500c" id="T20.1113B.0500c" ed="T"/>
+<lb n="0500c01" ed="T"/><p id="pT20p0500c0101">此是天大菩薩悉手來把刀或菩薩手把水&CB00179;。</p>
+<lb n="0500c02" ed="T"/><p id="pT20p0500c0201" type="dharani"><tt><t lang="san-sd">&SD-E0AB;</t><t lang="chi">室皤</t></tt><tt><t lang="san-sd">&SD-A440;</t><t lang="chi">伽</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">娑婆</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶<note place="inline">五十三</note></t></tt></p>
+<lb n="0500c03" ed="T"/>
+<lb n="0500c04" ed="T"/><p id="pT20p0500c0401">此是名安悉香。</p>
+<lb n="0500c05" ed="T"/><p id="pT20p0500c0501" type="dharani"><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">那</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">囉</t></tt><tt><t lang="san-sd">&SD-A442;</t><t lang="chi">謹</t></tt><tt><t lang="san-sd">&SD-CA70;</t><t lang="chi">墀<note place="inline">五十五</note><note place="inline">同上</note></t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">娑婆</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶<note place="inline">五十六</note></t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">囉</t></tt><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">那</t></tt>
+<lb n="0500c06" ed="T"/>
+<lb n="0500c07" ed="T"/><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">囉<note place="inline">五十七</note></t></tt></p>
+<lb n="0500c08" ed="T"/>
+<lb n="0500c09" ed="T"/><p id="pT20p0500c0901">此是散水菩薩手把水&CB00179;。</p>
+<lb n="0500c10" ed="T"/><p id="pT20p0500c1001" type="dharani"><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">娑婆</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶<note place="inline">五十八</note><note place="inline">同上</note></t></tt><tt><t lang="san-sd">&SD-A67C;</t><t lang="chi">悉</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">囉</t></tt><tt><t lang="san-sd">&SD-A6A6;</t><t lang="chi">僧</t></tt><tt><t lang="san-sd"><app><lem resp="劉鐘穗老師" wit="【CBETA】">&SD-CFC6;</lem><rdg wit="【大】">&SD-A6A8;</rdg></app></t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-E043;</t><t lang="chi">穆</t></tt><tt><t lang="san-sd">&SD-A44D;</t><t lang="chi">佉</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶<note place="inline">五十九</note></t></tt></p>
+<lb n="0500c11" ed="T"/>
+<lb n="0500c12" ed="T"/><p id="pT20p0500c1201">此是山海惠菩薩手把金鉤。</p>
+<lb n="0500c13" ed="T"/><p id="pT20p0500c1301" type="dharani"><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">娑婆</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶<note place="inline">六十</note><note place="inline">同上</note></t></tt><tt><t lang="san-sd">&SD-A5B5;</t><t lang="chi">婆</t></tt><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶</t></tt><tt><t lang="san-sd">&SD-A67C;</t><t lang="chi">悉</t></tt><tt><t lang="san-sd">&SD-D9FA;</t><t lang="chi">陀</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">夜<note place="inline">六十一</note><note place="inline">同上</note></t></tt></p>
+<lb n="0500c14" ed="T"/>
+<lb n="0500c15" ed="T"/><p id="pT20p0500c1501" type="dharani"><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">娑婆</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶<note place="inline">六十二</note><note place="inline">同上</note></t></tt><tt><t lang="san-sd">&SD-A47C;</t><t lang="chi">者</t></tt><tt><t lang="san-sd">&SD-A948;</t><t lang="chi">吉囉阿</t></tt><tt><t lang="san-sd">&SD-A67C;</t><t lang="chi">悉</t></tt><tt><t lang="san-sd">&SD-D9FA;</t><t lang="chi">陀</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">夜<note place="inline">六十三</note></t></tt></p>
+<lb n="0500c16" ed="T"/>
+<lb n="0500c17" ed="T"/><p id="pT20p0500c1701">此是藥王菩薩本身行魔。</p>
+<lb n="0500c18" ed="T"/><p id="pT20p0500c1801" type="dharani"><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">娑婆</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶<note place="inline">六十四</note><note place="inline">同上</note></t></tt></p>
+<lb n="0500c19" ed="T"/>
+<lb n="0500c20" ed="T"/><p id="pT20p0500c2001" type="dharani"><tt><t lang="san-sd">&SD-A5B5;</t><t lang="chi">婆</t></tt><tt><t lang="san-sd">&SD-DAAF;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A440;</t><t lang="chi">羯</t></tt><tt><t lang="san-sd">&SD-CDA9;</t><t lang="chi">悉哆</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">夜<note place="inline">六十五</note></t></tt></p>
+<lb n="0500c21" ed="T"/>
+<lb n="0500c22" ed="T"/><p id="pT20p0500c2201">是藥上菩薩本身行魔痛。</p>
+<lb n="0500c23" ed="T"/><p id="pT20p0500c2301" type="dharani"><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">娑婆</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶<note place="inline">六十六</note><note place="inline">同上</note></t></tt></p>
+<lb n="0500c24" ed="T"/>
+<lb n="0500c25" ed="T"/><p id="pT20p0500c2501" type="dharani"><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">那</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A442;</t><t lang="chi">謹</t></tt><tt><t lang="san-sd">&SD-CA70;</t><t lang="chi">墀</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">皤</t></tt><tt><t lang="san-sd">&SD-A458;</t><t lang="chi">迦</t></tt><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">羅</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">夜<note place="inline">六十七</note><note place="inline">同上</note></t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">娑婆</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶<note place="inline">六十八</note><note place="inline">同上</note></t></tt>
+<lb n="0500c26" ed="T"/>
+<lb n="0500c27" ed="T"/><tt><t lang="san-sd">&SD-A5E5;</t><t lang="chi">摩</t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">婆</t></tt><tt><t lang="san-sd">&SD-A640;</t><t lang="chi">唎</t></tt><tt><t lang="san-sd">&SD-A662;</t><t lang="chi">勝</t></tt><tt><t lang="san-sd">&SD-C963;</t><t lang="chi">羯</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">夜<note place="inline">六十九</note><note place="inline">同上</note></t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">娑婆</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">訶<note place="inline">七十</note></t></tt>
+<lb n="0500c28" ed="T"/>
+<pb n="0501a" id="T20.1113B.0501a" ed="T"/>
+<lb n="0501a01" ed="T"/><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">南</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi">無喝</t></tt><tt><t lang="san-sd">&SD-A5FD;<app><lem resp="劉鐘穗老師" wit="【CBETA】">&lac;</lem><rdg wit="【大】">&SD-A5FD;</rdg></app></t><t lang="chi">囉</t></tt><tt><t lang="san-sd">&SD-B448;</t><t lang="chi">怛那</t></tt><tt><t lang="san-sd">&SD-AA5E;</t><t lang="chi">多囉</t></tt><tt><t lang="san-sd">&SD-A5F2;</t><t lang="chi">夜</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶<note place="inline">七十一</note></t></tt>
+<lb n="0501a02" ed="T"/>
+<lb n="0501a03" ed="T"/><tt><t lang="san-sd">&SD-A5A9;</t><t lang="chi">南</t></tt><tt><t lang="san-sd">&SD-A5ED;</t><t lang="chi">無</t></tt><tt><t lang="san-sd">&SD-CFC6;</t><t lang="chi">阿</t></tt><tt><t lang="san-sd">&SD-B76A;</t><t lang="chi">唎耶<note place="inline">七十二</note></t></tt><tt><t lang="san-sd">&SD-A656;</t><t lang="chi">婆</t></tt><tt><t lang="san-sd">&SD-A646;</t><t lang="chi">嚧</t></tt><tt><t lang="san-sd">&SD-A442;</t><t lang="chi">吉</t></tt><tt><t lang="san-sd">&SD-A55D;</t><t lang="chi">帝<note place="inline">七十三</note></t></tt><tt><t lang="san-sd">&SD-E0AB;</t><t lang="chi">爍皤</t></tt>
+<lb n="0501a04" ed="T"/>
+<lb n="0501a05" ed="T"/><tt><t lang="san-sd">&SD-A5FD;</t><t lang="chi">囉</t></tt><tt><t lang="san-sd">&SD-A5F1;</t><t lang="chi">耶<note place="inline">七十四</note></t></tt><tt><t lang="san-sd">&SD-A5D5;</t><t lang="chi">菩</t></tt><tt><t lang="san-sd">&SD-A57D;</t><t lang="chi">提</t></tt><tt><t lang="san-sd">&SD-B065;</t><t lang="chi">娑婆</t></tt><tt><t lang="san-sd">&SD-A6A9;</t><t lang="chi">呵</t></tt></p>
+<lb n="0501a06" ed="T"/>
+<lb n="0501a07" ed="T"/><juan n="001" fun="close"><jhead>青頸觀音陀羅尼一卷</jhead></juan>
+<lb n="0501a08" ed="T"/><p id="pT20p0501a0801" type="W">青頸大悲心印</p>
+<lb n="0501a09" ed="T"/><p id="pT20p0501a0901" type="W">虛心合掌屈二頭指。各拘二大指第二節<note place="inline">是法螺也</note>
+<lb n="0501a10" ed="T"/>二中指&CB00594;合<note place="inline">是蓮花也</note>二無名指&CB00594;圓端<note place="inline">是輪也</note>二小
+<lb n="0501a11" ed="T"/>指直&CB00594;合<note place="inline">是杖也</note>於一印具四印。謂法螺蓮華輪
+<lb n="0501a12" ed="T"/>杖也。</p></div1>
+</body></text></TEI.2>

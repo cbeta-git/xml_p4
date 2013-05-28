@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "T20n1120B.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Taisho Tripitaka, Electronic version, No. 1120B 勝初瑜伽儀軌真言</title>
+			<author></author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.10 $ (Big5)<date>$Date: 2009/04/23 08:01:21 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/23 08:01:21 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Taisho Tripitaka Vol. 20, No. 1120B &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language id="san-sd">Sanskrit-Siddam</language>
+			<language id="eng">English</language>
+			<language id="chi">Chinese</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+	<change>
+		<date>20000124/11:15:13</date>
+		<respStmt><name>CW</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT (00/01/24)</item>
+	</change>
+<!--
+$Log: T20n1120B.xml,v $
+Revision 1.10  2009/04/23 08:01:21  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.9  2007/05/16 02:32:41  saywhat
+p0520c26 SD-DA53(k)=>SD-D7C4
+
+Revision 1.8  2006/04/12 21:55:45  saywhat
+lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
+
+Revision 1.6  2006/03/26 03:02:36  saywhat
+SD-A65A=>SD-E3AD
+
+Revision 1.5  2004/12/22 06:50:01  saywhat
+SD-A65E => SD-A5D5
+
+Revision 1.4  2004/10/21 08:20:03  saywhat
+段落前加入圈點
+
+Revision 1.3  2004/09/10 03:12:20  saywhat
+刪除空的 juan close
+
+Revision 1.2  2004/04/20 08:39:01  maha
+「版本日期」標記修訂
+
+Revision 1.1.1.1  2003/05/05 04:09:21  ray
+recover cvs
+
+Revision 1.16  2002/12/05 05:20:24  saywhat
+校勘插入處理
+
+Revision 1.15  2002/11/04 10:45:36  ray
+tei.2 => TEI.2
+
+Revision 1.14  2002/07/29 09:56:45  vinking
+modified lang
+
+Revision 1.13  2002/04/08 09:05:48  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.12  2001/07/24 06:53:16  ray
+add 作者、譯者 <author> 卷數 <extent>
+
+Revision 1.11  2001/03/30 05:55:31  ray
+缺字CB碼由四碼增長為五碼
+
+Revision 1.10  2001/03/25 09:15:28  ray
+add <milestone>
+
+Revision 1.9  2001/02/07 06:56:13  chris
+Fixed problem with comment in the previous checkin
+
+Revision 1.8  2001/02/03 07:46:09  chris
+Added keywords $Revision: 1.10 $, $Date: 2009/04/23 08:01:21 $ and $Log.
+Added comment  for Emacs
+
+-->
+ </revisionDesc>
+</teiHeader>
+<text><body>
+<pb n="0520b" id="T20.1120B.0520b" ed="T"/>
+<lb n="0520b01" ed="T"/>
+<milestone n="1" unit="juan"/>
+<lb n="0520b02" ed="T"/><head type="no">No. 1120B</head>
+<lb n="0520b03" ed="T"/><juan n="001" fun="open"><mulu n="001" type="卷"/><note n="0520004" resp="Taisho" place="foot text" type="orig">【原】寬治三年寫東寺三密藏本</note><jhead>勝初瑜伽儀軌真言</jhead></juan>
+<lb n="0520b04" ed="T"/>
+<lb n="0520b05" ed="T"/><div1 type="dharani"><p lang="san-sd" id="pT20p0520b0501" type="dharani">&SD-D5B5;&SD-E074;&SD-A67A;&SD-B7A3;&SD-A5F9;&SD-A458;&SD-A47E;&SD-B448;&SD-E043;&SD-E1EA;&SD-A56F;&SD-A5E7;
+<lb n="0520b06" ed="T"/>&SD-A656;&SD-A9C7;&SD-A4B6;&SD-E0D7;　　　&SD-A656;&SD-A9BD;&SD-A656;&SD-AFAB;
+<lb n="0520b07" ed="T"/>&SD-A656;&SD-A9BD;&SD-A656;&SD-AFAB;&SD-AA5E;&SD-E046;　&SD-A656;&SD-A9BD;&SD-A65C;&SD-A662;&SD-CFD4;
+<lb n="0520b08" ed="T"/>&SD-A656;&SD-A9BD;&SD-E043;&SD-CD4D;&SD-A660;　　&SD-E0BC;&SD-A5FD;&SD-AA5E;&SD-E041;
+<lb n="0520b09" ed="T"/>&SD-DA42;&SD-E0C9;&SD-A456;　　　　&SD-A656;&SD-A9BD;&SD-A67A;&SD-AF59;
+<lb n="0520b10" ed="T"/>&SD-A656;&SD-A9BD;&SD-A5FD;&SD-B448;　　　&SD-A656;&SD-A9BD;&SD-A57B;&SD-E1BA;
+<lb n="0520b11" ed="T"/>&SD-A656;&SD-A9BD;&SD-A440;&SD-E1BA;
+<lb n="0520b12" ed="T"/>&SD-E074;&SD-A656;&SD-A9BD;&SD-A5E6;&SD-A64B;&SD-A5DB;&SD-E0B8;&SD-A47C;
+<lb n="0520b13" ed="T"/>&SD-A656;&SD-A9BD;&SD-A444;&SD-A8D6;&SD-E05F;
+<lb n="0520b14" ed="T"/>&SD-A67A;&SD-B7A3;&SD-A444;&SD-A642;&SD-A5F1;&SD-A564;&SD-E0BC;&SD-A456;
+<lb n="0520b15" ed="T"/>&SD-CFC1;
+<lb n="0520b16" ed="T"/>&SD-A6AE;&SD-A5E5;&SD-A6A9;&SD-E0BC;&SD-A44C;&SD-A656;&SD-A9BD;&SD-A67A;&SD-AF5A;&SD-A5F2;&SD-A6AA;&SD-A665;&SD-A975;&SD-A5E5;
+<lb n="0520b17" ed="T"/>&SD-A6A9;&SD-E0BC;&SD-A44C;&SD-A656;&SD-A9BD;&SD-A5ED;&SD-A464;&SD-A67A;&SD-A5E5;&SD-E347;&SD-A5E5;&SD-A4F2;&SD-A5B6;&SD-A64A;
+<lb n="0520b18" ed="T"/>&SD-A5F1;&SD-AABC;&SD-E3AD;&SD-A7FB;&SD-AABC;&SD-E3AD;&SD-A7FB;&SD-E0B1;&SD-A5FD;&SD-A4F2;&SD-E249;&SD-A5E5;&SD-A4F2;&SD-A5FD;
+<lb n="0520b19" ed="T"/>&SD-AE4A;&SD-A5ED;&SD-A5D9;&SD-A656;&SD-E0BC;&SD-A55F;&SD-A8DE;&SD-A5ED;&SD-A5D9;&SD-A656;&SD-A67A;&SD-A458;&SD-A660;&SD-A5A9;
+<lb n="0520b20" ed="T"/>&SD-A5AA;&SD-A571;&SD-A5AB;&SD-A57B;&SD-A5B4;&SD-A67A;&SD-AF59;&SD-A67A;&SD-B7A3;&SD-A67C;&SD-E0A7;&SD-A5EB;&SD-AABC;&SD-A5F1;
+<lb n="0520b21" ed="T"/>&SD-DA79;&SD-CFCF;&SD-A66E;&SD-AF5A;&SD-A5AA;&SD-A6C0;&SD-A8D6;&SD-AABC;&SD-A65C;&SD-A8CA;&SD-A67A;&SD-A5E5;&SD-A5F8;&SD-C0CA;
+<lb n="0520b22" ed="T"/>&SD-AF7E;&SD-A656;&SD-A665;&SD-A440;&SD-A646;&SD-A5E7;&SD-A5EC;&SD-E24A;&SD-AA77;&SD-A5E5;&SD-E1F3;&SD-A5B5;&SD-E251;&SD-A4C1;
+<lb n="0520b23" ed="T"/>&SD-CFC1;&SD-A660;&SD-E05F;&SD-D9C6;
+<lb n="0520b24" ed="T"/>&SD-DA42;&SD-A441;&SD-A646;&SD-E043;&SD-A456;&SD-A67A;&SD-B7A3;&SD-A57B;&SD-E1BA;&SD-E347;&SD-A7EF;&SD-A4F2;&SD-E347;&SD-B448;
+<lb n="0520b25" ed="T"/>&SD-AF5A;&SD-D9C6;
+<lb n="0520b26" ed="T"/>&SD-A5B5;&SD-A5FD;&SD-A5E5;&SD-E0BC;&SD-A44D;&SD-A662;&SD-A5F1;&SD-A67A;&SD-A64A;&SD-A64C;&SD-A557;&SD-A658;&SD-A64B;&SD-A67A;
+<lb n="0520b27" ed="T"/>&SD-A5A9;&SD-A5E7;&SD-A55E;&SD-B6E0;&SD-A5ED;&SD-A5E7;&SD-A5D9;&SD-A458;&SD-A660;&SD-A561;&SD-A4C1;&SD-CFC1;&SD-A660;&SD-E05F;
+<lb n="0520b28" ed="T"/>&SD-A6AA;&SD-A6AA;&SD-A6AA;&SD-A6AA;&SD-AABC;&SD-A559;&SD-DA79;&SD-A444;&SD-E0BC;&SD-E05D;&SD-A4B6;&SD-A64C;&SD-B6E1;&SD-A5AA;
+<lb n="0520b29" ed="T"/>&SD-CFC1;
+<pb n="0520c" id="T20.1120B.0520c" ed="T"/>
+<lb n="0520c01" ed="T"/>&SD-A4C1;&SD-A656;&SD-A9BD;&SD-CBEB;&SD-CD4D;&SD-A67A;&SD-A5F1;&SD-A446;&SD-A5E5;&SD-E046;
+<lb n="0520c02" ed="T"/>&SD-CFC1;&SD-A656;&SD-A9BD;&SD-A446;&SD-A64D;&SD-A442;&SD-A650;&SD-CFC1;
+<lb n="0520c03" ed="T"/>&SD-A660;&SD-A656;&SD-A9BF;&SD-A54D;&SD-B2CC;&SD-A5FD;&SD-A5FD;&SD-E046;
+<lb n="0520c04" ed="T"/>&SD-E05F;&SD-A656;&SD-A9BD;&SD-A440;&SD-A5EB;&SD-E0AB;&SD-A640;&SD-E0B7;
+<lb n="0520c05" ed="T"/>&SD-A6AE;&SD-A656;&SD-A9BD;&SD-A5FD;&SD-E151;
+<lb n="0520c06" ed="T"/>&SD-A5E5;&SD-A6A9;&SD-A5FD;&SD-A557;&SD-A656;&SD-A9BF;&SD-E05F;
+<lb n="0520c07" ed="T"/>&SD-E074;&SD-A656;&SD-A9BD;&SD-A652;&SD-A47C;&SD-A5AF;
+<lb n="0520c08" ed="T"/>&SD-A5E5;&SD-A6A9;&SD-A665;&SD-A656;&SD-A9BF;&SD-E2CC;
+<lb n="0520c09" ed="T"/>&SD-A6AE;&SD-A5FD;&SD-A559;&SD-A656;&SD-A9BD;&SD-A658;&SD-A64B;&SD-A67C;&SD-A5AB;&SD-AA5E;&SD-E046;
+<lb n="0520c10" ed="T"/>&SD-A6AE;&SD-A5FD;&SD-A559;&SD-A656;&SD-A9BD;&SD-A6A9;&SD-A6A2;&SD-A6A8;&SD-A6A8;
+<lb n="0520c11" ed="T"/>&SD-A6AE;&SD-A5FD;&SD-A559;&SD-A656;&SD-A9BD;&SD-E077;&SD-A55D;&SD-A55D;&SD-A55D;
+<lb n="0520c12" ed="T"/>&SD-A6AE;&SD-A5FD;&SD-A559;&SD-A656;&SD-A9BD;&SD-A848;&SD-A84E;&SD-A65C;&SD-A5B5;&SD-A65C;&SD-A5B5;
+<lb n="0520c13" ed="T"/>&SD-A656;&SD-A9BD;&SD-A444;&SD-A669;&SD-A4C1;
+<lb n="0520c14" ed="T"/>&SD-A656;&SD-A9BD;&SD-A5B5;&SD-A669;&SD-CFC1;
+<lb n="0520c15" ed="T"/>&SD-A657;&SD-A9BD;&SD-A66C;&SD-A440;&SD-A650;&SD-A660;
+<lb n="0520c16" ed="T"/>&SD-A656;&SD-A9BD;&SD-A46E;&SD-E046;&SD-E05F;
+<lb n="0520c17" ed="T"/>&SD-A67A;&SD-A5FD;&SD-A557;&SD-E041;
+<lb n="0520c18" ed="T"/>&SD-A67A;&SD-B7A4;&SD-A5AD;&SD-A5FE;&SD-A458;&SD-E0BC;&SD-A44C;&SD-A67A;&SD-E1EA;&SD-A5A9;&SD-A67B;&SD-AF63;&SD-A656;&SD-A9BD;
+<lb n="0520c19" ed="T"/>&SD-A67A;&SD-AF59;&SD-A5B5;&SD-A5FD;&SD-A5F0;&SD-E0BC;&SD-A5FD;&SD-A562;&SD-A5D9;&SD-A656;&SD-A5EB;&SD-A5E5;&SD-A6A9;&SD-E0BC;
+<lb n="0520c20" ed="T"/>&SD-A44C;&SD-CBEB;&SD-A5C9;&SD-E16A;&SD-A5F1;&SD-A57A;&SD-AABC;&SD-A559;&SD-A5B5;&SD-A7EF;&SD-A67C;&SD-E16B;&SD-A47C;&SD-A64A;
+<lb n="0520c21" ed="T"/>&SD-E1E7;&SD-AABC;&SD-A54B;&SD-A562;
+<lb n="0520c22" ed="T"/>&SD-A5E5;&SD-A6A9;&SD-E0BC;&SD-A44C;&SD-A5E5;&SD-A6A9;&SD-A5FD;&SD-A458;&SD-A458;&SD-A5E5;&SD-A6A9;&SD-A656;&SD-A9BD;&SD-A5E5;
+<lb n="0520c23" ed="T"/>&SD-A6A9;&SD-A57B;&SD-A5A9;&SD-A5E5;&SD-A6A9;&SD-E0A4;&SD-A5A9;&SD-A5E5;&SD-E347;&SD-E347;&SD-E347;&SD-A656;&SD-A9BD;&SD-A67A;
+<lb n="0520c24" ed="T"/>&SD-AF5A;&SD-A7EF;&SD-A67C;&SD-E059;&SD-A5E5;&SD-E347;&SD-E347;&SD-E347;
+<lb n="0520c25" ed="T"/>&SD-E060;
+<lb n="0520c26" ed="T"/>&SD-E074;&SD-A440;&SD-A642;&SD-E043;&SD-A456;&SD-D7C4;&SD-A67A;&SD-B7A3;&SD-A57B;&SD-E1BA;&SD-A56F;&SD-A5E5;&SD-A56F;&SD-A5F1;
+<lb n="0520c27" ed="T"/>&SD-A4F2;&SD-AF63;&SD-A5A9;&SD-AF59;&SD-A557;&SD-A5B5;&SD-A5FD;&SD-A5E6;&SD-A7EF;&SD-A5E5;&SD-A6A9;&SD-A67A;&SD-AF59;&SD-A5E5;
+<lb n="0520c28" ed="T"/>&SD-A6A9;&SD-A5FD;&SD-A557;&SD-A5E5;&SD-A6A9;&SD-A5FD;&SD-A559;&SD-A67A;&SD-A6A6;&SD-A557;&SD-A5D9;&SD-AA76;&SD-A67A;&SD-B7A4;
+<lb n="0520c29" ed="T"/>&SD-B1C2;&SD-A656;&SD-A9BD;&SD-A458;&SD-C0A7;&SD-A5B5;&SD-A55D;&SD-A5B5;&SD-A55D;&SD-A658;&SD-CF55;&SD-A67A;&SD-AF59;&SD-A67A;
+<pb n="0521a" id="T20.1120B.0521a" ed="T"/>
+<lb n="0521a01" ed="T"/>&SD-A5E6;&SD-A7FB;&SD-A95F;&SD-A656;&SD-A9BD;&SD-A656;&SD-A9BD;&SD-A5E5;&SD-A6A9;&SD-A57B;&SD-A5A9;&SD-A67A;&SD-A5EF;&SD-A557;
+<lb n="0521a02" ed="T"/>&SD-A5D9;&SD-AA76;&SD-A47C;&SD-B76A;&SD-A95F;&SD-A5E6;&SD-A5FD;&SD-A5E6;&SD-A5FD;&SD-AABC;&SD-A5E5;&SD-B6CE;&SD-A440;&SD-A67A;
+<lb n="0521a03" ed="T"/>&SD-B7A3;&SD-A65E;&SD-A5A3;&SD-A5E5;&SD-A6A9;&SD-E3AD;&SD-D9F9;&SD-E3AD;&SD-D9F9;&SD-A95F;&SD-A4C0;&SD-A5E5;&SD-A4C1;&SD-A656;
+<lb n="0521a04" ed="T"/>&SD-A9BD;&SD-E1AD;&SD-A441;&SD-A5FD;&SD-E1AD;&SD-A441;&SD-A5FD;&SD-A652;&SD-A446;&SD-E0AB;&SD-A5FD;&SD-A5E5;&SD-A54D;&SD-AABC;
+<lb n="0521a05" ed="T"/>&SD-A56F;&SD-A5E5;&SD-A6A9;&SD-A5FE;&SD-A459;&SD-A5E5;&SD-A6A9;&SD-A6A5;&SD-A6CC;&SD-A441;&SD-A67A;&SD-A5ED;&SD-A6B4;&SD-A5E5;
+<lb n="0521a06" ed="T"/>&SD-A6A9;&SD-A57B;&SD-A5A9;&SD-AA60;&SD-A652;&SD-A441;&SD-A95F;&SD-AA60;&SD-A57C;&SD-A55B;&SD-A440;&SD-E169;&SD-A656;&SD-A5FD;
+<lb n="0521a07" ed="T"/>&SD-AABC;&SD-A5D9;&SD-A656;&SD-A8BE;&SD-E142;&SD-E0BC;&SD-E0F3;&SD-E1B3;&SD-E24F;&SD-A64A;&SD-A67A;&SD-A47C;&SD-A5F1;&SD-A4C0;
+<lb n="0521a08" ed="T"/>&SD-A458;&SD-A5E5;&SD-A5B5;&SD-A656;&SD-A5FD;&SD-AABD;&SD-CEE4;&SD-A5D9;&SD-A656;&SD-A67B;&SD-A458;&SD-A5FD;&SD-A66A;&SD-A57B;
+<lb n="0521a09" ed="T"/>&SD-A5A9;&SD-CFC5;&SD-A5AA;&SD-A571;&SD-A5AB;&SD-E347;&SD-A5AA;&SD-A7E1;&SD-A557;&SD-E0BE;&SD-A557;&SD-AABD;&SD-E15D;&SD-A67A;
+<lb n="0521a10" ed="T"/>&SD-E347;&SD-A5E6;&SD-ADDF;&SD-A562;&SD-ADE9;&SD-E1EA;&SD-AA77;&SD-A5F9;&SD-A458;&SD-A67A;&SD-A5FC;&SD-A557;&SD-AF59;&SD-A67A;
+<lb n="0521a11" ed="T"/>&SD-A7D7;&SD-A5E5;&SD-A6A9;&SD-A5E5;&SD-A6B3;&SD-A557;&SD-A564;&SD-A458;&SD-A557;&SD-A5E5;&SD-A6A9;&SD-A67C;&SD-D9F9;&SD-A57B;
+<lb n="0521a12" ed="T"/>&SD-E1BA;&SD-A5E5;&SD-A6A9;&SD-E3AD;&SD-A57B;&SD-A67A;&SD-D9F9;&SD-E1BA;&SD-A67A;&SD-E1A3;&SD-E1BA;&SD-A5B5;&SD-A5D5;&SD-A57D;
+<lb n="0521a13" ed="T"/>&SD-A47E;&SD-CF55;&SD-CFC6;&SD-A657;&SD-A57B;&SD-A440;&SD-A656;&SD-A9BD;&SD-A948;&SD-A57B;&SD-A5E5;&SD-A6A9;&SD-A947;&SD-A57B;
+<lb n="0521a14" ed="T"/>&SD-A5E5;&SD-A6A9;&SD-A94D;&SD-A57B;&SD-AEB8;&SD-A64A;&SD-AABC;&SD-A64A;&SD-A5F1;&SD-A570;&SD-A5E5;&SD-A44B;&SD-A5E5;&SD-A6A9;
+<lb n="0521a15" ed="T"/>&SD-A658;&SD-A5A9;&SD-A5F1;&SD-E347;&SD-CD4C;&SD-A95F;&SD-A642;&SD-AA76;&SD-A647;&SD-AA76;&SD-A6B4;&SD-A5FB;&SD-A440;&SD-A649;
+<lb n="0521a16" ed="T"/>&SD-A67A;&SD-B7A3;&SD-A666;&SD-AF73;&SD-A5E5;&SD-A6A9;&SD-A5B5;&SD-DAAF;&SD-AABC;&SD-E252;&SD-A5B6;&SD-A5F1;&SD-A5E5;&SD-A6A9;
+<lb n="0521a17" ed="T"/>&SD-A5A9;&SD-A5F1;&SD-A5FE;&SD-A458;&SD-A666;&SD-E347;&SD-A67B;&SD-A5E6;&SD-A7FB;&SD-A95F;&SD-A658;&SD-E0AB;&SD-A5FE;&SD-A458;
+<lb n="0521a18" ed="T"/>&SD-A6AE;&SD-E0AB;&SD-A5FD;&SD-CFC6;&SD-A441;&SD-A663;&SD-A5B3;&SD-A7D7;&SD-A5AB;&SD-A8A2;&SD-A65D;&SD-A67A;&SD-B7A3;&SD-E3AD;
+<lb n="0521a19" ed="T"/>&SD-D9F9;&SD-A5E5;&SD-A6A9;&SD-A64A;&SD-A5F1;&SD-A658;&SD-A5DE;&SD-A559;&SD-AB60;&SD-A658;&SD-A6B0;&SD-A5FE;&SD-A4B6;&SD-A67A;
+<lb n="0521a20" ed="T"/>&SD-B7A3;&SD-A663;&SD-A5B5;&SD-A640;&SD-E042;&SD-A5FD;&SD-E347;&SD-E347;&SD-E347;&SD-CDAF;&SD-CDAD;&SD-A5A9;&SD-A5E5;&SD-CDAF;
+<lb n="0521a21" ed="T"/>&SD-CDAD;&SD-A5A9;&SD-A5E5;&SD-CDAD;&SD-A5A9;&SD-E347;&SD-E347;&SD-E347;&SD-E347;&SD-E347;&SD-E347;&SD-E347;&SD-E347;&SD-E347;
+<lb n="0521a22" ed="T"/>&SD-B1DA;&SD-A5E7;&SD-A656;&SD-A9BD;&SD-A67A;&SD-AF5A;&SD-A7EF;&SD-A67C;&SD-D9F9;&SD-A5EF;&SD-E074;&SD-A6C0;&SD-A55F;&SD-A661;
+<lb n="0521a23" ed="T"/>&SD-A67A;&SD-B7A3;&SD-A67A;&SD-AF5A;&SD-B6BC;&SD-A67C;&SD-AF73;&SD-B6C8;&SD-CF56;&SD-A5F1;&SD-A564;&SD-A4F2;&SD-A459;&SD-A458;
+<lb n="0521a24" ed="T"/>&SD-DA79;&SD-AFA9;&SD-E3AD;&SD-D9F9;&SD-A658;&SD-A66E;&SD-E253;&SD-A5B9;&SD-A5FE;&SD-A458;&SD-A5E5;&SD-A5AA;&SD-A5F1;&SD-A55B;
+<lb n="0521a25" ed="T"/>&SD-E347;&SD-E347;&SD-E347;&SD-E347;&SD-E074;&SD-A656;&SD-A9BD;&SD-A67A;&SD-AF59;&SD-E0AD;</p></div1>
+<lb n="0521a26" ed="T"/><div1 type="W"><p id="pT20p0521a2601">大治三年七月十一日於金剛&CB00123;寺書了</p>
+<lb n="0521a27" ed="T"/><p id="pT20p0521a2701">　　　　　　　　　請來梵本也</p>
+<lb n="0521a28" ed="T"/><p id="pT20p0521a2801">　　　　　　　　一交了</p></div1>
+</body></text></TEI.2>
