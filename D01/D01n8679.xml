@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "D01n8679.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Selections from the Taipei National Central Library Buddhist Rare Book Collection, Electronic version, No. 8679 佛說佛名經（存卷四）</title>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.5 $ (Big5)<date>$Date: 2012/04/23 08:02:01 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/04/23 08:02:01 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Selections from the Taipei National Central Library Buddhist Rare Book Collection Vol. 01, No. 8679 &desc;</bibl>
+		<p>唐人寫卷子本　存卷四</p>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p lang="chi" type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2011/05/26 15:35:43</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: D01n8679.xml,v $
+Revision 1.5  2012/04/23 08:02:01  amtbgrace
+modified: 20120419 組字修訂
+
+Revision 1.4  2011/10/07 03:05:48  amtbgrace
+modified: . 修改經名。
+
+Revision 1.3  2011/06/09 03:42:26  amtbgrace
+modified: 修改國圖的英文名稱
+
+Revision 1.2  2011/05/30 04:53:18  amtbgrace
+modified: 修訂錯誤標記
+
+Revision 1.1  2011/05/26 07:52:52  amtbgrace
+modified: 執行 basicx.bat  將 bm 轉 xml
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="D" id="D01.8679.0001a" n="0001a"/>
+<lb ed="D" n="0001a01"/><milestone unit="juan" n="4"/><mulu type="卷" n="4"/><div1><p id="pD01p0001a0101">如是十方盡&CB28933;空界一切三寶弟子等自&CB28265;
+<lb ed="D" n="0001a02"/>&CB07099;始以來至於今日或通人妻妾奪他婦女
+<lb ed="D" n="0001a03"/>侵陵貞潔汙比丘&CB00112;破他梵行逼迫不道濁
+<lb ed="D" n="0001a04"/>心邪視言語嘲調或復恥他門戶汙賢善名
+<lb ed="D" n="0001a05"/>或於男子五種人所起不淨行如是&CB21717;罪今&CB01556;懺悔
+<lb ed="D" n="0001a06"/>又復&CB07099;始以來至於今日或眼為色或愛染玄
+<lb ed="D" n="0001a07"/>黃紅綵朱紫&CB13251;玩寶&CB00496;或取男女長短黑
+<lb ed="D" n="0001a08"/>白恣態之相起非法想耳貪好聲宮商絃管
+<lb ed="D" n="0001a09"/>妓樂歌唱或取男女音聲語言啼&CB00764;之相起
+<lb ed="D" n="0001a10"/>非法想或鼻藉名香薀射幽蘭鬱金&CB01939;合
+<lb ed="D" n="0001a11"/>起非法想或舌貪好味鮮&CB04837;甘&CB01524;眾生肉血資
+<lb ed="D" n="0001a12"/>養四大更增苦本起非法想或身樂華綺錦
+<lb ed="D" n="0001a13"/>繡繒<app><lem wit="【CBETA】" resp="CBETA.maha">縠</lem><rdg wit="【國圖】">榖</rdg></app>一切細滑七&CB12752;麗服起非法想或意
+<lb ed="D" n="0001a14"/>多&CB07455;想觸向乖法有此六想造罪尤甚如是&CB21717;罪
+<lb ed="D" n="0001a15"/>&CB07099;量&CB07099;邊今日至到向十方佛尊法聖眾皆&CB01556;懺悔
+<lb ed="D" n="0001a16"/>願弟子&CB21717;承是懺悔&CB21942;慾&CB21717;罪所生功&CB18786;願
+<lb ed="D" n="0001a17"/>生生世世自然化生不由胞胎清淨&CB00151;潔相好
+<pb ed="D" id="D01.8679.0002a" n="0002a"/>
+<lb ed="D" n="0002a01"/>光麗六情開朗&CB02194;利分明了達&CB22131;愛猶如桎
+<lb ed="D" n="0002a02"/>梏觀此六塵如幻如化於五欲境&CB00804;&CB30070;猒離
+<lb ed="D" n="0002a03"/>乃至夢中不起耶想內外因緣永不能動願
+<lb ed="D" n="0002a04"/>以懺悔眼根功&CB18786;願令此眼徹見十方諸佛
+<lb ed="D" n="0002a05"/>菩&CB16765;清淨法身不以二相願以懺悔耳根功
+<lb ed="D" n="0002a06"/>&CB18786;願令此耳常聞十方諸佛賢聖所說正法
+<lb ed="D" n="0002a07"/>如教奉行願以懺悔鼻根功&CB18786;願令此鼻常
+<lb ed="D" n="0002a08"/>聞香積入法位香&CB22057;離生死不淨&CB00305;穢願以懺
+<lb ed="D" n="0002a09"/>悔舌根功&CB18786;願令此舌常&CB00290;法喜禪&CB09115;之食不
+<lb ed="D" n="0002a10"/>貪眾生血肉之味願以懺悔身根功&CB18786;願令此身披
+<lb ed="D" n="0002a11"/>如來衣&CB00473;忍辱鎧臥&CB07099;畏床坐四禪座願以懺悔
+<lb ed="D" n="0002a12"/>意根功&CB18786;願令此意成就十想洞達五明深觀
+<lb ed="D" n="0002a13"/>二諦空平&CB21717;理&CB28265;方便慧起十妙行入法流水
+<lb ed="D" n="0002a14"/>念念增明顯發如來大&CB07099;生忍<note place="inline">&CB17716;一拜</note>。</p>
+<lb ed="D" n="0002a15"/><list><item id="itemD01p0002a1501">南&CB07099;奮迅佛</item><item id="itemD01p0002a1506">南&CB07099;離闇佛</item>
+<lb ed="D" n="0002a16"/><item id="itemD01p0002a1601">南&CB07099;羅&CB00264;天佛</item><item id="itemD01p0002a1607">南&CB07099;&CB12752;&CB22627;幢佛</item>
+<lb ed="D" n="0002a17"/><item id="itemD01p0002a1701">南&CB07099;眾上首佛</item><item id="itemD01p0002a1707">南&CB07099;寶&CB18911;佛</item>
+<lb ed="D" n="0002a18"/><item id="itemD01p0002a1801">南&CB07099;上脩佛</item><item id="itemD01p0002a1806">南&CB07099;星宿佛</item>
+<pb ed="D" id="D01.8679.0003a" n="0003a"/>
+<lb ed="D" n="0003a01"/><item id="itemD01p0003a0101">南&CB07099;大覺佛</item><item id="itemD01p0003a0106">南&CB07099;三界尊佛</item>
+<lb ed="D" n="0003a02"/><item id="itemD01p0003a0201">南&CB07099;功&CB18786;稱佛</item><item id="itemD01p0003a0207">南&CB07099;日月光明師子幢佛</item>
+<lb ed="D" n="0003a03"/><item id="itemD01p0003a0301">南&CB07099;毗羅波王佛</item><item id="itemD01p0003a0308">南&CB07099;勝&CB18911;佛</item>
+<lb ed="D" n="0003a04"/><item id="itemD01p0003a0401">南&CB07099;示現有佛</item><item id="itemD01p0003a0407">南&CB07099;光佛</item>
+<lb ed="D" n="0003a05"/><item id="itemD01p0003a0501">南&CB07099;金山佛</item><item id="itemD01p0003a0506">南&CB07099;師子&CB18786;佛</item>
+<lb ed="D" n="0003a06"/><item id="itemD01p0003a0601">南&CB07099;不可勝幢佛</item><item id="itemD01p0003a0608">南&CB07099;光明佛</item>
+<lb ed="D" n="0003a07"/><item id="itemD01p0003a0701">南&CB07099;稱佛</item><item id="itemD01p0003a0705">南&CB07099;&CB00594;精進佛</item></list>
+<lb ed="D" n="0003a08"/><p id="pD01p0003a0801" rend="margin-left:1em">&CB30379;此以上二千九百佛十二部經一切賢聖。</p>
+<lb ed="D" n="0003a09"/><list><item id="itemD01p0003a0901">南&CB07099;&CB07099;譬喻稱佛</item><item id="itemD01p0003a0908">南&CB07099;離畏佛</item>
+<lb ed="D" n="0003a10"/><item id="itemD01p0003a1001">南&CB07099;應天佛</item><item id="itemD01p0003a1006">南&CB07099;大然燈佛</item>
+<lb ed="D" n="0003a11"/><item id="itemD01p0003a1101">南&CB07099;多世間佛</item><item id="itemD01p0003a1107">南&CB07099;妙香佛</item>
+<lb ed="D" n="0003a12"/><item id="itemD01p0003a1201">南&CB07099;住持功&CB18786;佛</item><item id="itemD01p0003a1208">南&CB07099;離闇佛</item>
+<lb ed="D" n="0003a13"/><item id="itemD01p0003a1301">南&CB07099;&CB07099;比佛</item><item id="itemD01p0003a1306">南&CB07099;自然佛</item>
+<lb ed="D" n="0003a14"/><item id="itemD01p0003a1401">南&CB07099;師子佛</item><item id="itemD01p0003a1406">南&CB07099;善行佛</item>
+<lb ed="D" n="0003a15"/><item id="itemD01p0003a1501">南&CB07099;寶稱佛</item><item id="itemD01p0003a1506">南&CB07099;離諸過佛</item>
+<lb ed="D" n="0003a16"/><item id="itemD01p0003a1601">南&CB07099;住持甘露佛</item><item id="itemD01p0003a1608">南&CB07099;人月佛</item>
+<lb ed="D" n="0003a17"/><item id="itemD01p0003a1701">南&CB07099;日&CB10009;佛</item><item id="itemD01p0003a1706">南&CB07099;&CB00982;嚴佛</item>
+<lb ed="D" n="0003a18"/><item id="itemD01p0003a1801">南&CB07099;摩&CB00112;光佛</item><item id="itemD01p0003a1807">南&CB07099;山積佛</item>
+<pb ed="D" id="D01.8679.0004a" n="0004a"/>
+<lb ed="D" n="0004a01"/><item id="itemD01p0004a0101">南&CB07099;高幢佛</item><item id="itemD01p0004a0106">南&CB07099;法作佛</item>
+<lb ed="D" n="0004a02"/><item id="itemD01p0004a0201">南&CB07099;思惟義佛</item><item id="itemD01p0004a0207">南&CB07099;深心佛</item>
+<lb ed="D" n="0004a03"/><item id="itemD01p0004a0301">南&CB07099;寶聚佛</item><item id="itemD01p0004a0306">南&CB07099;眾上首佛</item>
+<lb ed="D" n="0004a04"/><item id="itemD01p0004a0401">南&CB07099;&CB04068;佛</item><item id="itemD01p0004a0405">南&CB07099;奮迅佛</item>
+<lb ed="D" n="0004a05"/><item id="itemD01p0004a0501">南&CB07099;住智佛</item><item id="itemD01p0004a0506">南&CB07099;分&CB02772;佛</item>
+<lb ed="D" n="0004a06"/><item id="itemD01p0004a0601">南&CB07099;勝佛</item><item id="itemD01p0004a0605">南&CB07099;不起佛</item>
+<lb ed="D" n="0004a07"/><item id="itemD01p0004a0701">南&CB07099;功&CB18786;佛</item><item id="itemD01p0004a0706">南&CB07099;師子吼佛</item>
+<lb ed="D" n="0004a08"/><item id="itemD01p0004a0801">南&CB07099;奮迅佛</item><item id="itemD01p0004a0806">南&CB07099;人信佛</item>
+<lb ed="D" n="0004a09"/><item id="itemD01p0004a0901">南&CB07099;龍王佛</item><item id="itemD01p0004a0906">南&CB07099;華山佛</item>
+<lb ed="D" n="0004a10"/><item id="itemD01p0004a1001">南&CB07099;龍喜佛</item><item id="itemD01p0004a1006">南&CB07099;香自在佛</item>
+<lb ed="D" n="0004a11"/><item id="itemD01p0004a1101">南&CB07099;妙稱佛</item><item id="itemD01p0004a1106">南&CB07099;天力佛</item>
+<lb ed="D" n="0004a12"/><item id="itemD01p0004a1201">南&CB07099;功&CB18786;&CB21899;佛</item><item id="itemD01p0004a1207">南&CB07099;龍功&CB18786;佛</item>
+<lb ed="D" n="0004a13"/><item id="itemD01p0004a1301">南&CB07099;&CB00982;嚴佛</item><item id="itemD01p0004a1306">南&CB07099;善行智佛</item>
+<lb ed="D" n="0004a14"/><item id="itemD01p0004a1401">南&CB07099;智勝佛</item><item id="itemD01p0004a1406">南&CB07099;慧照佛</item>
+<lb ed="D" n="0004a15"/><item id="itemD01p0004a1501">南&CB07099;寶語佛</item><item id="itemD01p0004a1506">南&CB07099;日光&CB02772;佛</item>
+<lb ed="D" n="0004a16"/><item id="itemD01p0004a1601">南&CB07099;&CB00804;&CB30070;智佛</item><item id="itemD01p0004a1607">南&CB07099;寶上色佛</item>
+<lb ed="D" n="0004a17"/><item id="itemD01p0004a1701">南&CB07099;普照佛</item><item id="itemD01p0004a1706">南&CB07099;寶幢佛</item>
+<lb ed="D" n="0004a18"/><item id="itemD01p0004a1801">南&CB07099;離疑佛</item><item id="itemD01p0004a1806">南&CB07099;師子奮迅&CB30613;佛</item>
+<pb ed="D" id="D01.8679.0005a" n="0005a"/>
+<lb ed="D" n="0005a01"/><item id="itemD01p0005a0101">南&CB07099;善護佛</item><item id="itemD01p0005a0106">南&CB07099;不空&CB30613;佛</item>
+<lb ed="D" n="0005a02"/><item id="itemD01p0005a0201">南&CB07099;覺華幢佛</item><item id="itemD01p0005a0207">南&CB07099;山自在王佛</item>
+<lb ed="D" n="0005a03"/><item id="itemD01p0005a0301">南&CB07099;大威&CB18786;佛</item><item id="itemD01p0005a0307">南&CB07099;示現&CB08891;佛</item>
+<lb ed="D" n="0005a04"/><item id="itemD01p0005a0401">南&CB07099;甘露稱佛</item><item id="itemD01p0005a0407">南&CB07099;寶天佛</item>
+<lb ed="D" n="0005a05"/><item id="itemD01p0005a0501">南&CB07099;住&CB05136;智佛</item><item id="itemD01p0005a0507">南&CB07099;滿&CB31142;智佛</item>
+<lb ed="D" n="0005a06"/><item id="itemD01p0005a0601">南&CB07099;不陜劣名佛</item><item id="itemD01p0005a0608">南&CB07099;&CB07099;憂佛</item>
+<lb ed="D" n="0005a07"/><item id="itemD01p0005a0701">南&CB07099;離垢佛</item><item id="itemD01p0005a0706">南&CB07099;梵天佛</item>
+<lb ed="D" n="0005a08"/><item id="itemD01p0005a0801">南&CB07099;地自在王佛</item><item id="itemD01p0005a0808">南&CB07099;華眼佛</item>
+<lb ed="D" n="0005a09"/><item id="itemD01p0005a0901">南&CB07099;差別見佛</item><item id="itemD01p0005a0907">南&CB07099;法光&CB02772;佛</item>
+<lb ed="D" n="0005a10"/><item id="itemD01p0005a1001">南&CB07099;具&CB30133;見佛</item><item id="itemD01p0005a1007">南&CB07099;信功&CB18786;佛</item>
+<lb ed="D" n="0005a11"/><item id="itemD01p0005a1101">南&CB07099;三界尊佛</item><item id="itemD01p0005a1107">南&CB07099;月葉佛</item>
+<lb ed="D" n="0005a12"/><item id="itemD01p0005a1201">南&CB07099;寶光&CB02772;佛</item><item id="itemD01p0005a1207">南&CB07099;寶幢佛</item>
+<lb ed="D" n="0005a13"/><item id="itemD01p0005a1301">南&CB07099;妙稱佛</item><item id="itemD01p0005a1306">南&CB07099;光&CB02772;&CB30848;佛</item>
+<lb ed="D" n="0005a14"/><item id="itemD01p0005a1401">南&CB07099;&CB07099;量威&CB18786;佛</item><item id="itemD01p0005a1408">南&CB07099;廣佛</item>
+<lb ed="D" n="0005a15"/><item id="itemD01p0005a1501">南&CB07099;師子身佛</item><item id="itemD01p0005a1507">南&CB07099;甘露慧佛</item>
+<lb ed="D" n="0005a16"/><item id="itemD01p0005a1601">南&CB07099;難勝佛</item><item id="itemD01p0005a1606">南&CB07099;功&CB18786;聚佛</item>
+<lb ed="D" n="0005a17"/><item id="itemD01p0005a1701">南&CB07099;月高佛</item><item id="itemD01p0005a1706">南&CB07099;得大勢至佛</item>
+<lb ed="D" n="0005a18"/><item id="itemD01p0005a1801">南&CB07099;&CB07099;量&CB30613;佛</item><item id="itemD01p0005a1807">南&CB07099;月&CB07099;畏佛</item>
+<pb ed="D" id="D01.8679.0006a" n="0006a"/>
+<lb ed="D" n="0006a01"/><item id="itemD01p0006a0101">南&CB07099;見一切義佛</item><item id="itemD01p0006a0108">南&CB07099;勇猛佛</item>
+<lb ed="D" n="0006a02"/><item id="itemD01p0006a0201">南&CB07099;功&CB18786;然燈佛</item><item id="itemD01p0006a0208">南&CB07099;月佛</item>
+<lb ed="D" n="0006a03"/><item id="itemD01p0006a0301">南&CB07099;功&CB18786;炎佛</item><item id="itemD01p0006a0307">南&CB07099;廣智佛</item></list>
+<lb ed="D" n="0006a04"/><p id="pD01p0006a0401" rend="margin-left:1em">&CB28265;此以上三千佛十二部經一切賢聖。</p>
+<lb ed="D" n="0006a05"/><list><item id="itemD01p0006a0501">南&CB07099;善寂滅佛</item><item id="itemD01p0006a0507">南&CB07099;天佛</item>
+<lb ed="D" n="0006a06"/><item id="itemD01p0006a0601">南&CB07099;&CB07099;垢佛</item><item id="itemD01p0006a0606">南&CB07099;住持&CB07099;量&CB02772;佛</item>
+<lb ed="D" n="0006a07"/><item id="itemD01p0006a0701">南&CB07099;希勝佛</item><item id="itemD01p0006a0706">南&CB07099;不&CB00832;&CB18911;佛</item>
+<lb ed="D" n="0006a08"/><item id="itemD01p0006a0801">南&CB07099;善住佛</item><item id="itemD01p0006a0806">南&CB07099;意佛</item>
+<lb ed="D" n="0006a09"/><item id="itemD01p0006a0901">南&CB07099;上首佛</item><item id="itemD01p0006a0906">南&CB07099;世<app><lem wit="【CBETA】" resp="CBETA.maha">間</lem><rdg wit="【國圖】">閒</rdg></app>光&CB02772;佛</item>
+<lb ed="D" n="0006a10"/><item id="itemD01p0006a1001">南&CB07099;多功&CB18786;佛</item><item id="itemD01p0006a1007">南&CB07099;&CB07099;量威&CB18786;佛</item>
+<lb ed="D" n="0006a11"/><item id="itemD01p0006a1101">南&CB07099;義慧佛</item><item id="itemD01p0006a1106">南&CB07099;離塵佛</item>
+<lb ed="D" n="0006a12"/><item id="itemD01p0006a1201">南&CB07099;離瞋恨&CB07099;熱佛</item><item id="itemD01p0006a1209">南&CB07099;善稱佛</item>
+<lb ed="D" n="0006a13"/><item id="itemD01p0006a1301">南&CB07099;稱&CB18786;佛</item><item id="itemD01p0006a1306">南&CB07099;俱蘇摩&CB18786;佛</item>
+<lb ed="D" n="0006a14"/><item id="itemD01p0006a1401">南&CB07099;人&CB18786;佛</item><item id="itemD01p0006a1406">南&CB07099;精進仙佛</item>
+<lb ed="D" n="0006a15"/><item id="itemD01p0006a1501">南&CB07099;大&CB18786;佛</item><item id="itemD01p0006a1506">南&CB07099;寂慧佛</item>
+<lb ed="D" n="0006a16"/><item id="itemD01p0006a1601">南&CB07099;香象佛</item><item id="itemD01p0006a1606">南&CB07099;堅佛</item>
+<lb ed="D" n="0006a17"/><item id="itemD01p0006a1701">南&CB07099;安樂佛</item><item id="itemD01p0006a1706">南&CB07099;不可勝佛</item>
+<lb ed="D" n="0006a18"/><item id="itemD01p0006a1801">南&CB07099;日月佛</item><item id="itemD01p0006a1806">南&CB07099;雷佛</item>
+<pb ed="D" id="D01.8679.0007a" n="0007a"/>
+<lb ed="D" n="0007a01"/><item id="itemD01p0007a0101">南&CB07099;電佛</item><item id="itemD01p0007a0105">南&CB07099;大勝佛</item>
+<lb ed="D" n="0007a02"/><item id="itemD01p0007a0201">南&CB07099;護智佛</item><item id="itemD01p0007a0206">南&CB07099;日佛</item>
+<lb ed="D" n="0007a03"/><item id="itemD01p0007a0301">南&CB07099;成就義佛</item><item id="itemD01p0007a0307">南&CB07099;寶積佛</item>
+<lb ed="D" n="0007a04"/><item id="itemD01p0007a0401">南&CB07099;降伏怨佛</item><item id="itemD01p0007a0407">南&CB07099;華勝佛</item>
+<lb ed="D" n="0007a05"/><item id="itemD01p0007a0501">南&CB07099;應稱佛</item><item id="itemD01p0007a0506">南&CB07099;智&CB30613;佛</item>
+<lb ed="D" n="0007a06"/><item id="itemD01p0007a0601">南&CB07099;離&CB21877;佛</item><item id="itemD01p0007a0606">南&CB07099;根華佛</item>
+<lb ed="D" n="0007a07"/><item id="itemD01p0007a0701">南&CB07099;&CB07099;畏國土佛</item><item id="itemD01p0007a0708">南&CB07099;高稱佛</item>
+<lb ed="D" n="0007a08"/><item id="itemD01p0007a0801">南&CB07099;示有佛</item><item id="itemD01p0007a0806">南&CB07099;月佛</item>
+<lb ed="D" n="0007a09"/><item id="itemD01p0007a0901">南&CB07099;多功&CB18786;佛</item><item id="itemD01p0007a0907">南&CB07099;寶月佛</item>
+<lb ed="D" n="0007a10"/><item id="itemD01p0007a1001">南&CB07099;師子幢佛</item><item id="itemD01p0007a1007">南&CB07099;樂思惟佛</item>
+<lb ed="D" n="0007a11"/><item id="itemD01p0007a1101">南&CB07099;不可思議奮迅佛</item><item id="itemD01p0007a1110">南&CB07099;樂功&CB18786;佛</item>
+<lb ed="D" n="0007a12"/><item id="itemD01p0007a1201">南&CB07099;應供稱佛</item><item id="itemD01p0007a1207">南&CB07099;華相佛</item>
+<lb ed="D" n="0007a13"/><item id="itemD01p0007a1301">南&CB07099;&CB07099;量樂&CB22072;稱佛</item><item id="itemD01p0007a1309">南&CB07099;摩&CB00112;金剛佛</item>
+<lb ed="D" n="0007a14"/><item id="itemD01p0007a1401">南&CB07099;&CB07099;量壽佛</item><item id="itemD01p0007a1407">南&CB07099;摩&CB00112;應&CB00982;嚴佛</item>
+<lb ed="D" n="0007a15"/><item id="itemD01p0007a1501">南&CB07099;大自在功&CB18786;佛</item><item id="itemD01p0007a1509">南&CB07099;勝佛</item>
+<lb ed="D" n="0007a16"/><item id="itemD01p0007a1601">南&CB07099;高山稱佛</item><item id="itemD01p0007a1607">南&CB07099;百光&CB02772;佛</item>
+<lb ed="D" n="0007a17"/><item id="itemD01p0007a1701">南&CB07099;歡喜佛</item><item id="itemD01p0007a1706">南&CB07099;龍&CB30613;佛</item>
+<lb ed="D" n="0007a18"/><item id="itemD01p0007a1801">南&CB07099;意成就佛</item><item id="itemD01p0007a1807">南&CB07099;寶月佛</item>
+<pb ed="D" id="D01.8679.0008a" n="0008a"/>
+<lb ed="D" n="0008a01"/><item id="itemD01p0008a0101">南&CB07099;寂滅佛</item><item id="itemD01p0008a0106">南&CB07099;然炬王佛</item>
+<lb ed="D" n="0008a02"/><item id="itemD01p0008a0201">南&CB07099;上首佛</item><item id="itemD01p0008a0206">南&CB07099;歡喜自在佛</item>
+<lb ed="D" n="0008a03"/><item id="itemD01p0008a0301">南&CB07099;寶&CB00824;佛</item><item id="itemD01p0008a0306">南&CB07099;遠離畏佛</item>
+<lb ed="D" n="0008a04"/><item id="itemD01p0008a0401">南&CB07099;寶&CB18911;佛</item><item id="itemD01p0008a0406">南&CB07099;月&CB10009;佛</item>
+<lb ed="D" n="0008a05"/><item id="itemD01p0008a0501">南&CB07099;&CB07099;垢稱佛</item><item id="itemD01p0008a0507">南&CB07099;稱威&CB18786;佛</item>
+<lb ed="D" n="0008a06"/><item id="itemD01p0008a0601">南&CB07099;愛天佛</item><item id="itemD01p0008a0606">南&CB07099;羅&CB00264;天佛</item>
+<lb ed="D" n="0008a07"/><item id="itemD01p0008a0701">南&CB07099;善炎佛</item><item id="itemD01p0008a0706">南&CB07099;寶愛佛</item>
+<lb ed="D" n="0008a08"/><item id="itemD01p0008a0801">南&CB07099;寶聚佛</item><item id="itemD01p0008a0806">南&CB07099;寶&CB30613;佛</item>
+<lb ed="D" n="0008a09"/><item id="itemD01p0008a0901">南&CB07099;師子華佛</item><item id="itemD01p0008a0907">南&CB07099;高脩佛</item>
+<lb ed="D" n="0008a10"/><item id="itemD01p0008a1001">南&CB07099;人自在佛</item><item id="itemD01p0008a1007">南&CB07099;人慧眼佛</item>
+<lb ed="D" n="0008a11"/><item id="itemD01p0008a1101">南&CB07099;照世<app><lem wit="【CBETA】" resp="CBETA.maha">間</lem><rdg wit="【國圖】">閒</rdg></app>佛</item><item id="itemD01p0008a1107">南&CB07099;寶威&CB18786;佛</item>
+<lb ed="D" n="0008a12"/><item id="itemD01p0008a1201">南&CB07099;功&CB18786;佛</item><item id="itemD01p0008a1206">南&CB07099;相佛</item>
+<lb ed="D" n="0008a13"/><item id="itemD01p0008a1301">南&CB07099;&CB18794;&CB00982;嚴佛</item><item id="itemD01p0008a1307">南&CB07099;&CB09529;梁佛</item>
+<lb ed="D" n="0008a14"/><item id="itemD01p0008a1401">南&CB07099;香&CB07782;佛</item><item id="itemD01p0008a1406">南&CB07099;&CB07099;心慧佛</item>
+<lb ed="D" n="0008a15"/><item id="itemD01p0008a1501">南&CB07099;&CB12752;&CB22627;幢佛</item><item id="itemD01p0008a1507">南&CB07099;善香佛</item>
+<lb ed="D" n="0008a16"/><item id="itemD01p0008a1601">南&CB07099;堅鎧佛</item><item id="itemD01p0008a1606">南&CB07099;勝威&CB18786;佛</item>
+<lb ed="D" n="0008a17"/><item id="itemD01p0008a1701">南&CB07099;摩&CB00112;鎧佛</item><item id="itemD01p0008a1707">南&CB07099;賢佛</item>
+<lb ed="D" n="0008a18"/><item id="itemD01p0008a1801">南&CB07099;善香月佛</item><item id="itemD01p0008a1807">南&CB07099;淨自在佛</item></list>
+<pb ed="D" id="D01.8679.0009a" n="0009a"/>
+<lb ed="D" n="0009a01"/><p id="pD01p0009a0101" rend="margin-left:1em">&CB30379;此以上三千一百佛十二部經一切賢聖。</p>
+<lb ed="D" n="0009a02"/><list><item id="itemD01p0009a0201">南&CB07099;師子月佛</item><item id="itemD01p0009a0207">南&CB07099;威&CB18786;佛</item>
+<lb ed="D" n="0009a03"/><item id="itemD01p0009a0301">南&CB07099;善勝佛</item><item id="itemD01p0009a0306">南&CB07099;不可勝輪佛</item>
+<lb ed="D" n="0009a04"/><item id="itemD01p0009a0401">南&CB07099;勝親佛</item><item id="itemD01p0009a0406">南&CB07099;寶名佛</item>
+<lb ed="D" n="0009a05"/><item id="itemD01p0009a0501">南&CB07099;大行佛</item><item id="itemD01p0009a0506">南&CB07099;高光&CB02772;佛</item>
+<lb ed="D" n="0009a06"/><item id="itemD01p0009a0601">南&CB07099;功&CB18786;山佛</item><item id="itemD01p0009a0607">南&CB07099;大稱佛</item>
+<lb ed="D" n="0009a07"/><item id="itemD01p0009a0701">南&CB07099;法稱佛</item><item id="itemD01p0009a0706">南&CB07099;施光&CB02772;佛</item>
+<lb ed="D" n="0009a08"/><item id="itemD01p0009a0801">南&CB07099;電&CB18786;佛</item><item id="itemD01p0009a0806">南&CB07099;寶作佛</item>
+<lb ed="D" n="0009a09"/><item id="itemD01p0009a0901">南&CB07099;命佛</item><item id="itemD01p0009a0905">南&CB07099;善炎佛</item>
+<lb ed="D" n="0009a10"/><item id="itemD01p0009a1001">南&CB07099;善首佛</item><item id="itemD01p0009a1006">南&CB07099;&CB00804;&CB30070;慧佛</item>
+<lb ed="D" n="0009a11"/><item id="itemD01p0009a1101">南&CB07099;離有佛</item><item id="itemD01p0009a1106">南&CB07099;摩&CB00112;香佛</item>
+<lb ed="D" n="0009a12"/><item id="itemD01p0009a1201">南&CB07099;勝喜佛</item><item id="itemD01p0009a1206">南&CB07099;師子光&CB02772;佛</item>
+<lb ed="D" n="0009a13"/><item id="itemD01p0009a1301">南&CB07099;普照佛</item><item id="itemD01p0009a1306">南&CB07099;稱勝佛</item>
+<lb ed="D" n="0009a14"/><item id="itemD01p0009a1401">南&CB07099;善智慧佛</item><item id="itemD01p0009a1407">南&CB07099;摩&CB00112;月佛</item>
+<lb ed="D" n="0009a15"/><item id="itemD01p0009a1501">南&CB07099;高光佛</item><item id="itemD01p0009a1506">南&CB07099;不可降伏行佛</item>
+<lb ed="D" n="0009a16"/><item id="itemD01p0009a1601">南&CB07099;火佛</item><item id="itemD01p0009a1605">南&CB07099;摩&CB00112;輪佛</item>
+<lb ed="D" n="0009a17"/><item id="itemD01p0009a1701">南&CB07099;世尊佛</item><item id="itemD01p0009a1706">南&CB07099;師子像佛</item>
+<lb ed="D" n="0009a18"/><item id="itemD01p0009a1801">南&CB07099;月佛</item><item id="itemD01p0009a1805">南&CB07099;寶炎佛</item>
+<pb ed="D" id="D01.8679.0010a" n="0010a"/>
+<lb ed="D" n="0010a01"/><item id="itemD01p0010a0101">南&CB07099;羅&CB00264;佛</item><item id="itemD01p0010a0106">南&CB07099;善護佛</item>
+<lb ed="D" n="0010a02"/><item id="itemD01p0010a0201">南&CB07099;希覺佛</item><item id="itemD01p0010a0206">南&CB07099;同光&CB02772;佛</item>
+<lb ed="D" n="0010a03"/><item id="itemD01p0010a0301">南&CB07099;寂靜去佛</item><item id="itemD01p0010a0307">南&CB07099;安隱世<app><lem wit="【CBETA】" resp="CBETA.maha">間</lem><rdg wit="【國圖】">閒</rdg></app>佛</item>
+<lb ed="D" n="0010a04"/><item id="itemD01p0010a0401">南&CB07099;&CB07099;&CB08974;佛</item><item id="itemD01p0010a0406">南&CB07099;十行佛</item>
+<lb ed="D" n="0010a05"/><item id="itemD01p0010a0501">南&CB07099;力善佛</item><item id="itemD01p0010a0506">南&CB07099;火體勝佛</item>
+<lb ed="D" n="0010a06"/><item id="itemD01p0010a0601">南&CB07099;至大體佛</item><item id="itemD01p0010a0607">南&CB07099;得大勢佛</item>
+<lb ed="D" n="0010a07"/><item id="itemD01p0010a0701">南&CB07099;功&CB18786;&CB18911;佛</item><item id="itemD01p0010a0707">南&CB07099;寶行佛</item>
+<lb ed="D" n="0010a08"/><item id="itemD01p0010a0801">南&CB07099;&CB07099;畏勝佛</item><item id="itemD01p0010a0807">南&CB07099;樹提佛</item>
+<lb ed="D" n="0010a09"/><item id="itemD01p0010a0901">南&CB07099;大光&CB02772;佛</item><item id="itemD01p0010a0907">南&CB07099;田光佛</item>
+<lb ed="D" n="0010a10"/><item id="itemD01p0010a1001">南&CB07099;廣功&CB18786;佛</item><item id="itemD01p0010a1007">南&CB07099;寶功&CB18786;佛</item>
+<lb ed="D" n="0010a11"/><item id="itemD01p0010a1101">南&CB07099;自在佛</item><item id="itemD01p0010a1106">南&CB07099;摩香佛</item>
+<lb ed="D" n="0010a12"/><item id="itemD01p0010a1201">南&CB07099;&CB30848;業佛</item><item id="itemD01p0010a1206">南&CB07099;師子手佛</item>
+<lb ed="D" n="0010a13"/><item id="itemD01p0010a1301">南&CB07099;善化佛</item><item id="itemD01p0010a1306">南&CB07099;寶高佛</item>
+<lb ed="D" n="0010a14"/><item id="itemD01p0010a1401">南&CB07099;海佛</item><item id="itemD01p0010a1405">南&CB07099;住持佛</item>
+<lb ed="D" n="0010a15"/><item id="itemD01p0010a1501">南&CB07099;義智佛</item><item id="itemD01p0010a1506">南&CB07099;善思惟慧佛</item>
+<lb ed="D" n="0010a16"/><item id="itemD01p0010a1601">南&CB07099;大眾輪佛</item><item id="itemD01p0010a1607">南&CB07099;寶火佛</item>
+<lb ed="D" n="0010a17"/><item id="itemD01p0010a1701">南&CB07099;脩行&CB05136;佛</item><item id="itemD01p0010a1707">南&CB07099;世<app><lem wit="【CBETA】" resp="CBETA.maha">間</lem><rdg wit="【國圖】">閒</rdg></app>月佛</item>
+<lb ed="D" n="0010a18"/><item id="itemD01p0010a1801">南&CB07099;華聲佛</item><item id="itemD01p0010a1806">南&CB07099;淨幢佛</item>
+<pb ed="D" id="D01.8679.0011a" n="0011a"/>
+<lb ed="D" n="0011a01"/><item id="itemD01p0011a0101">南&CB07099;大眾上首佛</item><item id="itemD01p0011a0108">南&CB07099;師子&CB30613;佛</item>
+<lb ed="D" n="0011a02"/><item id="itemD01p0011a0201">南&CB07099;威&CB18786;&CB18786;佛</item><item id="itemD01p0011a0207">南&CB07099;福&CB18786;成就佛</item>
+<lb ed="D" n="0011a03"/><item id="itemD01p0011a0301">南&CB07099;大光&CB02772;佛</item><item id="itemD01p0011a0307">南&CB07099;寶稱佛</item>
+<lb ed="D" n="0011a04"/><item id="itemD01p0011a0401">南&CB07099;信眾佛</item><item id="itemD01p0011a0406">南&CB07099;&CB07099;邊稱佛</item>
+<lb ed="D" n="0011a05"/><item id="itemD01p0011a0501">南&CB07099;不空光&CB02772;佛</item><item id="itemD01p0011a0508">南&CB07099;聖天佛</item>
+<lb ed="D" n="0011a06"/><item id="itemD01p0011a0601">南&CB07099;金剛眾佛</item><item id="itemD01p0011a0607">南&CB07099;善肩佛</item>
+<lb ed="D" n="0011a07"/><item id="itemD01p0011a0701">南&CB07099;幢佛</item><item id="itemD01p0011a0705">南&CB07099;華成佛</item>
+<lb ed="D" n="0011a08"/><item id="itemD01p0011a0801">南&CB07099;鎧慧佛</item><item id="itemD01p0011a0806">南&CB07099;風行佛</item>
+<lb ed="D" n="0011a09"/><item id="itemD01p0011a0901">南&CB07099;善思惟佛</item><item id="itemD01p0011a0907">南&CB07099;稱佛</item>
+<lb ed="D" n="0011a10"/><item id="itemD01p0011a1001">南&CB07099;快然佛</item><item id="itemD01p0011a1006">南&CB07099;甘露聚佛</item>
+<lb ed="D" n="0011a11"/><item id="itemD01p0011a1101">南&CB07099;功&CB18786;護佛</item><item id="itemD01p0011a1107">南&CB07099;義去佛</item>
+<lb ed="D" n="0011a12"/><item id="itemD01p0011a1201">南&CB07099;&CB07099;畏佛</item><item id="itemD01p0011a1206">南&CB07099;慈佛</item>
+<lb ed="D" n="0011a13"/><item id="itemD01p0011a1301">南&CB07099;住分別佛</item><item id="itemD01p0011a1307">南&CB07099;摩&CB00112;&CB30133;佛</item>
+<lb ed="D" n="0011a14"/><item id="itemD01p0011a1401">南&CB07099;&CB17107;脫威&CB18786;佛</item><item id="itemD01p0011a1408">南&CB07099;善報佛</item></list>
+<lb ed="D" n="0011a15"/><p id="pD01p0011a1501" rend="margin-left:1em">&CB30379;此以上三千二百佛十二部經一切賢聖。</p>
+<pb ed="D" id="D01.8679.0012a" n="0012a"/>
+<lb ed="D" n="0012a01"/><list><item id="itemD01p0012a0101">南&CB07099;善疾平&CB21717;威&CB18786;佛</item><item id="itemD01p0012a0110">南&CB07099;智勝佛</item>
+<lb ed="D" n="0012a02"/><item id="itemD01p0012a0201">南&CB07099;善天佛</item><item id="itemD01p0012a0206">南&CB07099;實聲佛</item>
+<lb ed="D" n="0012a03"/><item id="itemD01p0012a0301">南&CB07099;智力&CB18786;佛</item><item id="itemD01p0012a0307">南&CB07099;師子慧佛</item>
+<lb ed="D" n="0012a04"/><item id="itemD01p0012a0401">南&CB07099;華高佛</item><item id="itemD01p0012a0406">南&CB07099;智作佛</item>
+<lb ed="D" n="0012a05"/><item id="itemD01p0012a0501">南&CB07099;華&CB18786;佛</item><item id="itemD01p0012a0506">南&CB07099;功&CB18786;&CB18911;佛</item>
+<lb ed="D" n="0012a06"/><item id="itemD01p0012a0601">南&CB07099;寶稱佛</item><item id="itemD01p0012a0606">南&CB07099;寶稱佛</item>
+<lb ed="D" n="0012a07"/><item id="itemD01p0012a0701">南&CB07099;不可降伏佛</item><item id="itemD01p0012a0708">南&CB07099;&CB07099;畏自在佛</item>
+<lb ed="D" n="0012a08"/><item id="itemD01p0012a0801">南&CB07099;淨佛</item><item id="itemD01p0012a0805">南&CB07099;諸天佛</item>
+<lb ed="D" n="0012a09"/><item id="itemD01p0012a0901">南&CB07099;可愛佛</item><item id="itemD01p0012a0906">南&CB07099;寶天佛</item>
+<lb ed="D" n="0012a10"/><item id="itemD01p0012a1001">南&CB07099;寶&CB18911;佛</item><item id="itemD01p0012a1006">南&CB07099;功&CB18786;稱佛</item>
+<lb ed="D" n="0012a11"/><item id="itemD01p0012a1101">南&CB07099;智積佛</item><item id="itemD01p0012a1106">南&CB07099;清白佛</item>
+<lb ed="D" n="0012a12"/><item id="itemD01p0012a1201">南&CB07099;遠行佛</item><item id="itemD01p0012a1206">南&CB07099;天威&CB18786;佛</item>
+<lb ed="D" n="0012a13"/><item id="itemD01p0012a1301">南&CB07099;淨聖佛</item><item id="itemD01p0012a1306">南&CB07099;喜去佛</item>
+<lb ed="D" n="0012a14"/><item id="itemD01p0012a1401">南&CB07099;大憂威&CB18786;佛</item><item id="itemD01p0012a1408">南&CB07099;火聚佛</item>
+<lb ed="D" n="0012a15"/><item id="itemD01p0012a1501">南&CB07099;大勝佛</item><item id="itemD01p0012a1506">南&CB07099;華佛</item>
+<lb ed="D" n="0012a16"/><item id="itemD01p0012a1601">南&CB07099;喜佛</item><item id="itemD01p0012a1605">南&CB07099;善首佛</item>
+<lb ed="D" n="0012a17"/><item id="itemD01p0012a1701">南&CB07099;自在幢佛</item><item id="itemD01p0012a1707">南&CB07099;大愛佛</item>
+<lb ed="D" n="0012a18"/><item id="itemD01p0012a1801">南&CB07099;善心佛</item><item id="itemD01p0012a1806">南&CB07099;降伏他眾佛</item>
+<pb ed="D" id="D01.8679.0013a" n="0013a"/>
+<lb ed="D" n="0013a01"/><item id="itemD01p0013a0101">南&CB07099;勇猛佛</item><item id="itemD01p0013a0106">南&CB07099;成就佛</item>
+<lb ed="D" n="0013a02"/><item id="itemD01p0013a0201">南&CB07099;威&CB18786;佛</item><item id="itemD01p0013a0206">南&CB07099;善思&CB05136;境界佛</item>
+<lb ed="D" n="0013a03"/><item id="itemD01p0013a0301">南&CB07099;善臂佛</item><item id="itemD01p0013a0306">南&CB07099;大寶佛</item>
+<lb ed="D" n="0013a04"/><item id="itemD01p0013a0401">南&CB07099;稱意佛</item><item id="itemD01p0013a0406">南&CB07099;世間尊佛</item>
+<lb ed="D" n="0013a05"/><item id="itemD01p0013a0501">南&CB07099;功&CB18786;光&CB02772;佛</item><item id="itemD01p0013a0508">南&CB07099;寶聲佛</item>
+<lb ed="D" n="0013a06"/><item id="itemD01p0013a0601">南&CB07099;金剛仙佛</item><item id="itemD01p0013a0607">南&CB07099;成就佛</item>
+<lb ed="D" n="0013a07"/><item id="itemD01p0013a0701">南&CB07099;師子力佛</item><item id="itemD01p0013a0707">南&CB07099;&CB07099;垢眼佛</item>
+<lb ed="D" n="0013a08"/><item id="itemD01p0013a0801">南&CB07099;迦葉佛</item><item id="itemD01p0013a0806">南&CB07099;清淨智佛</item>
+<lb ed="D" n="0013a09"/><item id="itemD01p0013a0901">南&CB07099;智&CB30613;佛</item><item id="itemD01p0013a0906">南&CB07099;高威&CB18786;佛</item>
+<lb ed="D" n="0013a10"/><item id="itemD01p0013a1001">南&CB07099;大光&CB02772;佛</item><item id="itemD01p0013a1007">南&CB07099;日光&CB02772;佛</item>
+<lb ed="D" n="0013a11"/><item id="itemD01p0013a1101">南&CB07099;&CB07099;垢聲佛</item><item id="itemD01p0013a1107">南&CB07099;差別身佛</item>
+<lb ed="D" n="0013a12"/><item id="itemD01p0013a1201">南&CB07099;差別威&CB18786;佛</item><item id="itemD01p0013a1208">南&CB07099;不可比甘露&CB00425;佛</item>
+<lb ed="D" n="0013a13"/><item id="itemD01p0013a1301">南&CB07099;月光&CB02772;電&CB18786;佛</item><item id="itemD01p0013a1309">南&CB07099;寂滅去佛</item>
+<lb ed="D" n="0013a14"/><item id="itemD01p0013a1401">南&CB07099;不動佛</item><item id="itemD01p0013a1406">南&CB07099;多稱佛</item>
+<lb ed="D" n="0013a15"/><item id="itemD01p0013a1501">南&CB07099;功&CB18786;法佛</item><item id="itemD01p0013a1507">南&CB07099;歡喜&CB07099;畏佛</item>
+<lb ed="D" n="0013a16"/><item id="itemD01p0013a1601">南&CB07099;&CB00982;嚴王佛</item><item id="itemD01p0013a1607">南&CB07099;妙稱佛</item>
+<lb ed="D" n="0013a17"/><item id="itemD01p0013a1701">南&CB07099;多炎佛</item><item id="itemD01p0013a1706">南&CB07099;華勝佛</item>
+<lb ed="D" n="0013a18"/><item id="itemD01p0013a1801">南&CB07099;寶&CB00982;嚴佛</item><item id="itemD01p0013a1807">南&CB07099;善賢佛</item>
+<pb ed="D" id="D01.8679.0014a" n="0014a"/>
+<lb ed="D" n="0014a01"/><item id="itemD01p0014a0101">南&CB07099;寶妙佛</item><item id="itemD01p0014a0106">南&CB07099;善智慧佛</item>
+<lb ed="D" n="0014a02"/><item id="itemD01p0014a0201">南&CB07099;善賢&CB18786;佛</item><item id="itemD01p0014a0207">南&CB07099;梵幢佛</item>
+<lb ed="D" n="0014a03"/><item id="itemD01p0014a0301">南&CB07099;月&CB02649;佛</item><item id="itemD01p0014a0306">南&CB07099;羅&CB07560;炎佛</item>
+<lb ed="D" n="0014a04"/><item id="itemD01p0014a0401">南&CB07099;廣光&CB02772;佛</item><item id="itemD01p0014a0407">南&CB07099;智稱佛</item>
+<lb ed="D" n="0014a05"/><item id="itemD01p0014a0501">南&CB07099;名相佛</item><item id="itemD01p0014a0506">南&CB07099;功&CB18786;光&CB02772;佛</item>
+<lb ed="D" n="0014a06"/><item id="itemD01p0014a0601">南&CB07099;稱名聲佛</item><item id="itemD01p0014a0607">南&CB07099;滿月佛</item>
+<lb ed="D" n="0014a07"/><item id="itemD01p0014a0701">南&CB07099;華光佛</item><item id="itemD01p0014a0706">南&CB07099;善行佛</item>
+<lb ed="D" n="0014a08"/><item id="itemD01p0014a0801">南&CB07099;然燈王佛</item><item id="itemD01p0014a0807">南&CB07099;電幢佛</item>
+<lb ed="D" n="0014a09"/><item id="itemD01p0014a0901">南&CB07099;光&CB02772;王佛</item><item id="itemD01p0014a0907">南&CB07099;星宿光佛</item>
+<lb ed="D" n="0014a10"/><item id="itemD01p0014a1001">南&CB07099;不可嫌名佛</item><item id="itemD01p0014a1008">南&CB07099;波頭摩&CB18911;佛</item>
+<lb ed="D" n="0014a11"/><item id="itemD01p0014a1101">南&CB07099;不沙快佛</item><item id="itemD01p0014a1107">南&CB07099;眼佛</item>
+<lb ed="D" n="0014a12"/><item id="itemD01p0014a1201">南&CB07099;&CB07099;濁&CB05136;佛</item><item id="itemD01p0014a1207">南&CB07099;高威&CB18786;佛</item>
+<lb ed="D" n="0014a13"/><item id="itemD01p0014a1301">南&CB07099;華威&CB18786;佛</item><item id="itemD01p0014a1307">南&CB07099;奮迅佛</item>
+<lb ed="D" n="0014a14"/><item id="itemD01p0014a1401">南&CB07099;&CB07099;障智佛</item><item id="itemD01p0014a1407">南&CB07099;羅瞋大佛</item>
+<lb ed="D" n="0014a15"/><item id="itemD01p0014a1501">南&CB07099;智聚佛</item><item id="itemD01p0014a1506">南&CB07099;上首佛</item></list>
+<lb ed="D" n="0014a16"/><p id="pD01p0014a1601" rend="margin-left:1em">&CB28265;此以上三千三百佛十二部經一切賢聖。</p>
+<lb ed="D" n="0014a17"/><list><item id="itemD01p0014a1701">南&CB07099;自在&CB04068;佛</item><item id="itemD01p0014a1707">南&CB07099;華幢佛</item>
+<lb ed="D" n="0014a18"/><item id="itemD01p0014a1801">南&CB07099;羅&CB00264;佛</item><item id="itemD01p0014a1806">南&CB07099;火藥佛</item>
+<pb ed="D" id="D01.8679.0015a" n="0015a"/>
+<lb ed="D" n="0015a01"/><item id="itemD01p0015a0101">南&CB07099;星宿王佛</item><item id="itemD01p0015a0107">南&CB07099;&CB02772;王佛</item>
+<lb ed="D" n="0015a02"/><item id="itemD01p0015a0201">南&CB07099;福&CB18786;手佛</item><item id="itemD01p0015a0207">南&CB07099;稱光佛</item>
+<lb ed="D" n="0015a03"/><item id="itemD01p0015a0301">南&CB07099;日光&CB02772;佛</item><item id="itemD01p0015a0307">南&CB07099;法&CB18911;佛</item>
+<lb ed="D" n="0015a04"/><item id="itemD01p0015a0401">南&CB07099;善智慧佛</item><item id="itemD01p0015a0407">南&CB07099;功&CB18786;自在&CB04068;佛</item>
+<lb ed="D" n="0015a05"/><item id="itemD01p0015a0501">南&CB07099;金剛仙佛</item><item id="itemD01p0015a0507">南&CB07099;智慧積佛</item>
+<lb ed="D" n="0015a06"/><item id="itemD01p0015a0601">南&CB07099;善住佛</item><item id="itemD01p0015a0606">南&CB07099;善至智慧佛</item>
+<lb ed="D" n="0015a07"/><item id="itemD01p0015a0701">南&CB07099;淨聲佛</item><item id="itemD01p0015a0706">南&CB07099;龍吼聲佛</item>
+<lb ed="D" n="0015a08"/><item id="itemD01p0015a0801">南&CB07099;桐幢佛</item><item id="itemD01p0015a0806">南&CB07099;智慧聚佛</item>
+<lb ed="D" n="0015a09"/><item id="itemD01p0015a0901">南&CB07099;&CB07099;畏佛</item><item id="itemD01p0015a0906">南&CB07099;淨上首佛</item>
+<lb ed="D" n="0015a10"/><item id="itemD01p0015a1001">南&CB07099;快眼佛</item><item id="itemD01p0015a1006">南&CB07099;龍&CB18786;佛</item>
+<lb ed="D" n="0015a11"/><item id="itemD01p0015a1101">南&CB07099;寶幢佛</item><item id="itemD01p0015a1106">南&CB07099;黠慧佛</item>
+<lb ed="D" n="0015a12"/><item id="itemD01p0015a1201">南&CB07099;不怯弱聲佛</item><item id="itemD01p0015a1208">南&CB07099;實相佛</item>
+<lb ed="D" n="0015a13"/><item id="itemD01p0015a1301">南&CB07099;聲&CB18786;佛</item><item id="itemD01p0015a1306">南&CB07099;師子佛</item>
+<lb ed="D" n="0015a14"/><item id="itemD01p0015a1401">南&CB07099;種種&CB22072;佛</item><item id="itemD01p0015a1407">南&CB07099;智色佛</item>
+<lb ed="D" n="0015a15"/><item id="itemD01p0015a1501">南&CB07099;波頭摩聚佛</item><item id="itemD01p0015a1508">南&CB07099;華佛</item>
+<lb ed="D" n="0015a16"/><item id="itemD01p0015a1601">南&CB07099;奮迅去佛</item><item id="itemD01p0015a1607">南&CB07099;華積佛</item></list>
+<lb ed="D" n="0015a17"/><p id="pD01p0015a1701" rend="margin-left:1em">次&CB17716;十二部尊經大&CB18911;法幢。</p>
+<lb ed="D" n="0015a18"/><list><item id="itemD01p0015a1801">南&CB07099;十二遊經</item><item id="itemD01p0015a1807">南&CB07099;法勇王經</item>
+<pb ed="D" id="D01.8679.0016a" n="0016a"/>
+<lb ed="D" n="0016a01"/><item id="itemD01p0016a0101">南&CB07099;十方&CB07448;滅經</item><item id="itemD01p0016a0108">南&CB07099;檀特羅經</item>
+<lb ed="D" n="0016a02"/><item id="itemD01p0016a0201">南&CB07099;如來&CB18911;經</item><item id="itemD01p0016a0207">南&CB07099;迦葉赴涅槃經</item>
+<lb ed="D" n="0016a03"/><item id="itemD01p0016a0301">南&CB07099;小五濁經</item><item id="itemD01p0016a0307">南&CB07099;福田經</item>
+<lb ed="D" n="0016a04"/><item id="itemD01p0016a0401">南&CB07099;樂瓔珞經</item><item id="itemD01p0016a0407">南&CB07099;請觀世音&CB00057;經</item>
+<lb ed="D" n="0016a05"/><item id="itemD01p0016a0501">南&CB07099;摩訶摩耶經</item><item id="itemD01p0016a0508">南&CB07099;&CB07099;常法句經</item>
+<lb ed="D" n="0016a06"/><item id="itemD01p0016a0601">南&CB07099;樹提伽經</item><item id="itemD01p0016a0607">南&CB07099;九色庶經</item>
+<lb ed="D" n="0016a07"/><item id="itemD01p0016a0701">南&CB07099;觀頂經</item><item id="itemD01p0016a0706">南&CB07099;行方便境界經</item>
+<lb ed="D" n="0016a08"/><item id="itemD01p0016a0801">南&CB07099;提謂五戒經</item><item id="itemD01p0016a0808">南&CB07099;大方廣三經</item>
+<lb ed="D" n="0016a09"/><item id="itemD01p0016a0901">南&CB07099;度王經</item><item id="itemD01p0016a0906">南&CB07099;大法&CB00655;經</item>
+<lb ed="D" n="0016a10"/><item id="itemD01p0016a1001">南&CB07099;譬喻經</item><item id="itemD01p0016a1006">南&CB07099;諸法&CB07099;行經</item>
+<lb ed="D" n="0016a11"/><item id="itemD01p0016a1101">南&CB07099;太子瑞應經</item><item id="itemD01p0016a1108">南&CB07099;庶母經</item>
+<lb ed="D" n="0016a12"/><item id="itemD01p0016a1201">南&CB07099;惟&CB30070;行經</item><item id="itemD01p0016a1207">南&CB07099;法滅盡經</item>
+<lb ed="D" n="0016a13"/><item id="itemD01p0016a1301">南&CB07099;沙門分衛經</item><item id="itemD01p0016a1308">南&CB07099;八師經</item></list>
+<lb ed="D" n="0016a14"/><p id="pD01p0016a1401" rend="margin-left:1em">次&CB17716;十方諸大菩&CB16765;。</p>
+<lb ed="D" n="0016a15"/><list><item id="itemD01p0016a1501">南&CB07099;大力精進金剛菩&CB16765;</item><item id="itemD01p0016a1511">南&CB07099;月&CB18786;妙音菩&CB16765;</item>
+<lb ed="D" n="0016a16"/><item id="itemD01p0016a1601">南&CB07099;香炎光幢菩&CB16765;</item><item id="itemD01p0016a1609">南&CB07099;光&CB02772;尊&CB18786;菩&CB16765;</item>
+<lb ed="D" n="0016a17"/><item id="itemD01p0016a1701">南&CB07099;海慧超越菩&CB16765;</item><item id="itemD01p0016a1709">南&CB07099;&CB07099;量師子吼菩&CB16765;</item>
+<lb ed="D" n="0016a18"/><item id="itemD01p0016a1801">南&CB07099;眾寶光幢菩&CB16765;</item><item id="itemD01p0016a1809">南&CB07099;智日超慧菩&CB16765;</item>
+<pb ed="D" id="D01.8679.0017a" n="0017a"/>
+<lb ed="D" n="0017a01"/><item id="itemD01p0017a0101">南&CB07099;不思議功&CB18786;智稱菩&CB16765;</item><item id="itemD01p0017a0112">南&CB07099;方便寂靜妙華髻菩&CB16765;</item>
+<lb ed="D" n="0017a02"/><item id="itemD01p0017a0201">南&CB07099;金光炎菩&CB16765;</item><item id="itemD01p0017a0208">南&CB07099;法界普音菩&CB16765;</item>
+<lb ed="D" n="0017a03"/><item id="itemD01p0017a0301">南&CB07099;淨雲月幢菩&CB16765;</item><item id="itemD01p0017a0309">南&CB07099;善超淨光菩&CB16765;</item>
+<lb ed="D" n="0017a04"/><item id="itemD01p0017a0401">南&CB07099;覺首菩&CB16765;</item><item id="itemD01p0017a0407">南&CB07099;財首菩&CB16765;</item>
+<lb ed="D" n="0017a05"/><item id="itemD01p0017a0501">南&CB07099;寶首菩&CB16765;</item><item id="itemD01p0017a0507">南&CB07099;&CB18786;首菩&CB16765;</item>
+<lb ed="D" n="0017a06"/><item id="itemD01p0017a0601">南&CB07099;目首菩&CB16765;</item><item id="itemD01p0017a0607">南&CB07099;進首菩&CB16765;</item>
+<lb ed="D" n="0017a07"/><item id="itemD01p0017a0701">南&CB07099;法首菩&CB16765;</item><item id="itemD01p0017a0707">南&CB07099;智首菩&CB16765;</item>
+<lb ed="D" n="0017a08"/><item id="itemD01p0017a0801">南&CB07099;堅首菩&CB16765;</item><item id="itemD01p0017a0807">南&CB07099;金剛&CB18911;菩&CB16765;</item>
+<lb ed="D" n="0017a09"/><item id="itemD01p0017a0901">南&CB07099;寶&CB18911;菩&CB16765;</item><item id="itemD01p0017a0907">南&CB07099;蓮華&CB18911;菩&CB16765;</item>
+<lb ed="D" n="0017a10"/><item id="itemD01p0017a1001">南&CB07099;&CB18786;&CB18911;菩&CB16765;</item><item id="itemD01p0017a1007">南&CB07099;蓮花&CB18786;&CB18911;菩&CB16765;</item>
+<lb ed="D" n="0017a11"/><item id="itemD01p0017a1101">南&CB07099;日&CB18911;菩&CB16765;</item><item id="itemD01p0017a1107">南&CB07099;月&CB18911;菩&CB16765;</item>
+<lb ed="D" n="0017a12"/><item id="itemD01p0017a1201">南&CB07099;淨月&CB18911;菩&CB16765;</item><item id="itemD01p0017a1208">南&CB07099;照一切世<app><lem wit="【CBETA】" resp="CBETA.maha">間</lem><rdg wit="【國圖】">閒</rdg></app>&CB00982;嚴菩&CB16765;</item>
+<lb ed="D" n="0017a13"/><item id="itemD01p0017a1301">南&CB07099;智慧照明&CB18911;菩&CB16765;</item><item id="itemD01p0017a1310">南&CB07099;妙&CB18786;&CB18911;菩&CB16765;</item>
+<lb ed="D" n="0017a14"/><item id="itemD01p0017a1401">南&CB07099;栴檀&CB18786;&CB18911;菩&CB16765;</item><item id="itemD01p0017a1409">南&CB07099;華&CB18786;&CB18911;菩&CB16765;</item>
+<lb ed="D" n="0017a15"/><item id="itemD01p0017a1501">南&CB07099;憂&CB00425;羅華&CB18786;&CB18911;菩&CB16765;</item><item id="itemD01p0017a1511">&CB30379;此以上三千四百佛十二部經一切賢聖</item>
+<lb ed="D" n="0017a16"/><item id="itemD01p0017a1601">南&CB07099;天&CB18786;&CB18911;菩&CB16765;</item><item id="itemD01p0017a1608">南&CB07099;福&CB18786;&CB18911;菩&CB16765;</item>
+<lb ed="D" n="0017a17"/><item id="itemD01p0017a1701">南&CB07099;&CB07099;&CB01002;清淨智&CB18786;&CB18911;菩&CB16765;</item><item id="itemD01p0017a1712">南&CB07099;功&CB18786;&CB18911;菩&CB16765;</item>
+<lb ed="D" n="0017a18"/><item id="itemD01p0017a1801">南&CB07099;那羅延&CB18786;&CB18911;菩&CB16765;</item></list><p id="pD01p0017a1810" place="inline">歸命如是&CB21717;十方&CB07099;量&CB07099;邊<note place="inline">諸大菩&CB16765;</note>。</p>
+<pb ed="D" id="D01.8679.0018a" n="0018a"/>
+<lb ed="D" n="0018a01"/><list><item id="itemD01p0018a0101">南&CB07099;遮羅辟支佛</item><item id="itemD01p0018a0108">南&CB07099;憂波遮羅辟支佛</item>
+<lb ed="D" n="0018a02"/><item id="itemD01p0018a0201">南&CB07099;梨沙婆辟支佛</item><item id="itemD01p0018a0209">南&CB07099;善莎他淨辟支佛</item>
+<lb ed="D" n="0018a03"/><item id="itemD01p0018a0301">南&CB07099;善香擔辟支佛</item><item id="itemD01p0018a0309">南&CB07099;阿沙羅辟支佛</item>
+<lb ed="D" n="0018a04"/><item id="itemD01p0018a0401">南&CB07099;憂婆沙羅辟支佛</item><item id="itemD01p0018a0410">南&CB07099;波頭摩辟支佛</item>
+<lb ed="D" n="0018a05"/><item id="itemD01p0018a0501">南&CB07099;善賢辟支佛</item><item id="itemD01p0018a0508">南&CB07099;賢&CB18786;辟支佛</item></list>
+<lb ed="D" n="0018a06"/><p id="pD01p0018a0601">歸命如是&CB21717;&CB07099;量&CB07099;邊辟支佛。</p><p id="pD01p0018a0613" place="inline">&CB17716;三寶已次復懺悔
+<lb ed="D" n="0018a07"/>以共懺悔身三業竟今當次&CB05663;懺悔口四&CB08891;
+<lb ed="D" n="0018a08"/>業經法&CB22072;言口業之罪能令眾生&CB18944;於地獄
+<lb ed="D" n="0018a09"/>餓鬼受苦若在畜生則受鵂鷤鴝鵒鳥形聞
+<lb ed="D" n="0018a10"/>其聲者&CB07099;不憎&CB08891;若生人中口氣常臭所有
+<lb ed="D" n="0018a11"/>言&CB22072;人不信受眷&CB06473;不和常好&CB07946;諍口業既
+<lb ed="D" n="0018a12"/>有如是&CB08891;果是故弟子今日至誠歸依佛。</p>
+<lb ed="D" n="0018a13"/><list><item id="itemD01p0018a1301">南&CB07099;東方&CB00824;&CB12752;燈王佛</item><item id="itemD01p0018a1310">南&CB07099;南方大功&CB18786;佛</item>
+<lb ed="D" n="0018a14"/><item id="itemD01p0018a1401">南&CB07099;西方&CB07099;量力佛</item><item id="itemD01p0018a1409">南&CB07099;北方覺花生&CB18786;佛</item>
+<lb ed="D" n="0018a15"/><item id="itemD01p0018a1501">南&CB07099;東南方一切覺華佛</item><item id="itemD01p0018a1511">南&CB07099;西南方&CB07099;量辯才佛</item>
+<lb ed="D" n="0018a16"/><item id="itemD01p0018a1601">南&CB07099;西北方蓮華生王佛</item><item id="itemD01p0018a1611">南&CB07099;東北方滅一切憂佛</item>
+<lb ed="D" n="0018a17"/><item id="itemD01p0018a1701">南&CB07099;下方至光&CB02772;王佛</item><item id="itemD01p0018a1710">南&CB07099;上方電燈王幢佛</item></list>
+<lb ed="D" n="0018a18"/><p id="pD01p0018a1801">如是十方盡&CB28933;空界一切三寶
+<pb ed="D" id="D01.8679.0019a" n="0019a"/>
+<lb ed="D" n="0019a01"/>弟子&CB21717;自&CB30379;&CB07099;始以來至於今日妄言兩舌
+<lb ed="D" n="0019a02"/>&CB08891;口&CB21999;語&CB30256;空&CB22072;有&CB22072;有言空不見言見見
+<lb ed="D" n="0019a03"/>言不見不聞言聞聞言不聞不知言知知言
+<lb ed="D" n="0019a04"/>不知欺賢罔聖言行相乖自稱讚譽得過人
+<lb ed="D" n="0019a05"/>法我得四禪四&CB07099;色&CB30070;阿那波那十六行觀
+<lb ed="D" n="0019a06"/>得&CB00824;&CB00442;洹至阿羅漢得辟支佛不退菩&CB16765;天
+<lb ed="D" n="0019a07"/>來龍來鬼來神來旋風主鬼皆至我所彼問
+<lb ed="D" n="0019a08"/>我荅顯異或眾要世名利如是&CB21717;罪今&CB01556;懺
+<lb ed="D" n="0019a09"/>悔又復&CB07099;始以來至於今日或&CB21940;言&CB07946;&CB07455;交
+<lb ed="D" n="0019a10"/>扇彼此兩舌<app><lem wit="【CBETA】" resp="CBETA.maha">間</lem><rdg wit="【國圖】">蕑</rdg></app>構販弄口舌向彼&CB22072;此向此
+<lb ed="D" n="0019a11"/>道彼離他眷&CB06473;壞人善友使狎密者為&CB00562;親
+<lb ed="D" n="0019a12"/>舊者成怨或&CB21999;&CB07247;不實言不及義誣謗君
+<lb ed="D" n="0019a13"/>父平薄師長破壞忠良理沒勝<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【國圖】">已</rdg></app>通&CB30191;二國彼
+<lb ed="D" n="0019a14"/>此扇作浮華&CB28933;巧發言常&CB28933;口是心非其途
+<lb ed="D" n="0019a15"/>非一對&CB10009;譽歎背則呵毀讀誦邪書&CB30256;邪&CB08891;
+<lb ed="D" n="0019a16"/>法或&CB08891;口罵詈言語&CB00308;穬或呼天扣地&CB07669;引
+<lb ed="D" n="0019a17"/>鬼神如是口業所生諸罪&CB07099;量&CB07099;邊今日至
+<lb ed="D" n="0019a18"/>到向十方佛尊法聖眾皆&CB01556;懺悔
+<lb ed="D" n="0019a19"/>願弟子&CB21717;承是懺悔口業眾罪所生功&CB18786;生
+<lb ed="D" n="0019a20"/>生世世具八音聲四&CB07099;礙辯常&CB22072;和合利益
+<lb ed="D" n="0019a21"/>之語其聲清雅一切樂聞善解眾生方俗言
+<lb ed="D" n="0019a22"/>&CB22072;若有所&CB22072;應時應根令彼聽者即得解
+<lb ed="D" n="0019a23"/>悟超凡入聖開發慧眼<note place="inline">作&CB20154;一拜</note>。</p>
+<lb ed="D" n="0019a24"/>
+<lb ed="D" n="0019a25"/><juan fun="close" n="1"><jhead>佛名經卷&CB05663;四</jhead></juan></div1>
+</body></text></TEI.2>

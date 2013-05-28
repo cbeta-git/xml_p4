@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "I01n0005.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selections of Buddhist Stone Rubbings from the Northern Dynasties, Electronic version, No. 0005 劉未等造像記</title>
+                <author>顏娟英主編</author>
+                <respStmt>
+                    <resp>Electronic Version by</resp>
+                    <name>CBETA and DDBC</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>$Revision: 1.6 $<date>$Date: 2012/04/23 08:06:39 $</date></edition>
+            </editionStmt>
+            <extent>1卷</extent>
+            <publicationStmt>
+                <distributor>
+                    <name>中華電子佛典協會 (CBETA)</name>
+                    <address>
+                        <addrLine>service@cbeta.org</addrLine>
+                    </address>
+                </distributor>
+                <availability>
+<p>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/). </p>
+                </availability>
+                <date>$Date: 2012/04/23 08:06:39 $</date>
+            </publicationStmt>
+            <sourceDesc>
+      	      <bibl>Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 005 &desc;</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p lang="eng" type="ly">Text as provided by Institute of History and Philology, Academia Sinica</p>
+                <p lang="chi" type="ly">中央研究院歷史語言研究所</p>
+            </projectDesc>
+            </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+<div1>
+<pb n="0011a" id="I01.0005.0011a" ed="I"/>
+<lb ed="C I" n="0011a00"/><milestone n="1" unit="juan"/><head type="no">No. 5</head>
+<lb ed="C I" n="0011a00"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><title>劉未等造像記</title></jhead></juan>
+<div2>
+<lb ed="C I" n="0011a01"/><p id="pI01p0011a0101">　<unclear cert="low" reason="damage">胳</unclear>妻侯侍佛
+<lb ed="C I" n="0011a02"/>弟子劉莫<unclear cert="low" reason="damage">胳</unclear>侍佛
+<lb ed="C I" n="0011a03"/>弟子劉<note n="0011001" resp="ihp" place="foot text" type="orig">&CB30377;＝芒【史】</note><app n="0011001"><lem resp="ihp" wit="【史】">芒</lem><rdg wit="【原】">&CB30377;</rdg></app>侍佛
+<lb ed="C I" n="0011a04"/>武跡景照皇帝
+<lb ed="C I" n="0011a05"/>時<unclear cert="medium" reason="damage">家</unclear>祖劉黃兄弟
+<lb ed="C I" n="0011a06"/>九人四人臺士黃
+<lb ed="C I" n="0011a07"/>蒙國寵受作丁零
+<lb ed="C I" n="0011a08"/>護軍三州賢佐冀
+<lb ed="C I" n="0011a09"/>州刺史侍佛時
+<lb ed="C I" n="0011a10"/>劉清作<note n="0011002" resp="ihp" place="foot text" type="orig">&CB30380;＝條【史】</note><app n="0011002"><lem resp="ihp" wit="【史】">條</lem><rdg wit="【原】">&CB30380;</rdg></app>郡太守
+<lb ed="C I" n="0011a11"/><unclear cert="medium" reason="damage">勳</unclear><unclear cert="medium" reason="damage">作</unclear>葙州刺史侍佛
+<lb ed="C I" n="0011a12"/>劉愛國恩俱作護軍
+<lb ed="C I" n="0011a13"/>封建依將軍直縣子
+<lb ed="C I" n="0011a14"/>劉羌作三郎董作殿
+<lb ed="C I" n="0011a15"/>中尚書征<unclear cert="low" reason="damage">東</unclear>將軍
+<lb ed="C I" n="0011a16"/>直縣子侍佛時
+<lb ed="C I" n="0011a17"/>劉還香夫妻侍佛
+<lb ed="C I" n="0011a18"/>劉采妻趙侍佛時</p>
+</div2>
+<div2>
+<lb ed="C I" n="0011b01"/><p id="pI01p0011b0101">景明三年十一月十一日弟子
+<lb ed="C I" n="0011b02"/>劉未。劉堆。劉寄。劉黑
+<lb ed="C I" n="0011b03"/>等四人。造彌勒像一軀。
+<lb ed="C I" n="0011b04"/>上為國家皇帝<unclear cert="low" reason="damage">仰</unclear>及
+<lb ed="C I" n="0011b05"/>七世父母。眷屬村舍大小
+<lb ed="C I" n="0011b06"/>常与佛。願上生天上。下生
+<lb ed="C I" n="0011b07"/>人中。侯王居仕。富貴<unclear cert="medium" reason="damage">家</unclear>產。
+<lb ed="C I" n="0011b08"/>願〃<note n="0011003" resp="ihp" place="foot text" type="orig">&CB30379;＝從【史】</note><app n="0011003"><lem resp="ihp" wit="【史】">從</lem><rdg wit="【原】">&CB30379;</rdg></app>心。所求如意。天下太
+<lb ed="C I" n="0011b09"/>平。五<note n="0011004" resp="ihp" place="foot text" type="orig">&CB30381;＝穀【史】</note><app n="0011004"><lem resp="ihp" wit="【史】">穀</lem><rdg wit="【原】">&CB30381;</rdg></app>豐登。人民安<note n="0011005" resp="ihp" place="foot text" type="orig">&CB30351;＝樂【史】</note><app n="0011005"><lem resp="ihp" wit="【史】">樂</lem><rdg wit="【原】">&CB30351;</rdg></app>。永
+<lb ed="C I" n="0011b10"/>離諸<note n="0011006" resp="ihp" place="foot text" type="orig">&CB25812;＝苦【史】</note><app n="0011006"><lem resp="ihp" wit="【史】">苦</lem><rdg wit="【原】">&CB25812;</rdg></app>。劉倉成夫妻侍佛。
+<lb ed="C I" n="0011b11"/>弟子劉市德侍佛。妻孫侍佛時。
+<lb ed="C I" n="0011b12"/>息阿祖。零和。阿慶。道興兄弟四人侍佛時。</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

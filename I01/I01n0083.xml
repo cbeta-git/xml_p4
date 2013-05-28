@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "I01n0083.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selections of Buddhist Stone Rubbings from the Northern Dynasties, Electronic version, No. 0083 雷明香造像記</title>
+                <author>顏娟英主編</author>
+                <respStmt>
+                    <resp>Electronic Version by</resp>
+                    <name>CBETA and DDBC</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>$Revision: 1.5 $<date>$Date: 2011/04/19 06:12:14 $</date></edition>
+            </editionStmt>
+            <extent>1卷</extent>
+            <publicationStmt>
+                <distributor>
+                    <name>中華電子佛典協會 (CBETA)</name>
+                    <address>
+                        <addrLine>service@cbeta.org</addrLine>
+                    </address>
+                </distributor>
+                <availability>
+<p>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/). </p>
+                </availability>
+                <date>$Date: 2011/04/19 06:12:14 $</date>
+            </publicationStmt>
+            <sourceDesc>
+      	      <bibl>Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 083 &desc;</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p lang="eng" type="ly">Text as provided by Institute of History and Philology, Academia Sinica</p>
+                <p lang="chi" type="ly">中央研究院歷史語言研究所</p>
+            </projectDesc>
+            </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+<div1>
+<pb n="0225a" id="I01.0083.0225a" ed="I"/>
+<lb ed="C I" n="0225a00"/><milestone n="1" unit="juan"/><head type="no">No. 83</head>
+<lb ed="C I" n="0225a00"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><title>雷明香造像記</title></jhead></juan>
+<lb ed="C I" n="0225a00"/><mulu level="1" label="之一　碑側" type="其他"/><head>之一　碑側</head>
+<div2>
+<lb ed="C I" n="0225a01"/><p id="pI01p0225a0101">外孫伏奴　妐同&CB14685;天壽　　□□□主簿□郡□□□滎陽二縣令□□<unclear cert="low" reason="damage">宗</unclear><unclear cert="low" reason="damage">主</unclear>雷奉昌　大學生雷□□
+<lb ed="C I" n="0225a02"/>外孫僧妙　姑夫蒙俗男　　從孫開府□□當治都督雷顯慶　　　　　　　　　　大學生雷顯<unclear cert="low" reason="damage">族</unclear></p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0225b00"/><mulu level="1" label="之二　碑陽" type="其他"/><head>之二　碑陽</head>
+<div2>
+<lb ed="C I" n="0225b01"/><p id="pI01p0225b0101">　　　　　　　　　　　　　　　　　　　息女貴妃
+<lb ed="C I" n="0225b02"/>
+<lb ed="C I" n="0225b03"/>　　　　　像主雷明香　　　　　　　　　息女貴妃
+<lb ed="C I" n="0225b04"/>　　　　　夫曠野將軍殿中司馬同&CB14685;乾熾　息女貴宗
+<lb ed="C I" n="0225b05"/>
+<lb ed="C I" n="0225b06"/>　　　　　　　　　　　　　　　　　　　息女貴女</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0225c00"/><mulu level="1" label="之三　碑側" type="其他"/><head>之三　碑側</head>
+<div2>
+<lb ed="C I" n="0225c01"/><p id="pI01p0225c0101">夫沖元虛寂。妙趣理幽。慮難尋<unclear cert="low" reason="damage">悟</unclear>。<unclear cert="low" reason="damage">遂</unclear>□□□□<unclear cert="low" reason="damage">金</unclear>
+<lb ed="C I" n="0225c02"/>鏤木以表真容。毋今佛弟子雷明香。知世非常世。
+<lb ed="C I" n="0225c03"/>減割家珍。為亡夫同&CB14685;乾熾敬造石像一區。願亡
+<lb ed="C I" n="0225c04"/>夫託生西方無量壽國。眾惡崩消。万善慶集。復願
+<lb ed="C I" n="0225c05"/>家內大小。老者<note n="0225001" resp="ihp" place="foot text" type="orig">&CB30778;＝延【史】</note><app n="0225001"><lem resp="ihp" wit="【史】">延</lem><rdg wit="【原】">&CB30778;</rdg></app>康。少者益<note n="0225002" resp="ihp" place="foot text" type="orig">&CB31046;＝算【史】</note><app n="0225002"><lem resp="ihp" wit="【史】">算</lem><rdg wit="【原】">&CB31046;</rdg></app>。門風庠<note n="0225003" resp="ihp" place="foot text" type="orig">&CB30862;＝序【史】</note><app n="0225003"><lem resp="ihp" wit="【史】">序</lem><rdg wit="【原】">&CB30862;</rdg></app>。禮義備
+<lb ed="C I" n="0225c06"/>足。常&CB08824;法味。恒与善俱。蒙此<note n="0225004" resp="ihp" place="foot text" type="orig">&CB31047;＝微【史】</note><app n="0225004"><lem resp="ihp" wit="【史】">微</lem><rdg wit="【原】">&CB31047;</rdg></app>因。願　皇帝延祚
+<lb ed="C I" n="0225c07"/>無<unclear cert="low" reason="damage">窮</unclear>。下及七世師僧。父母。因緣眷屬。法界眾生。□
+<lb ed="C I" n="0225c08"/>同斯福。等成正覺。　　大周天和□年七月十五</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0225d00"/><mulu level="1" label="之四　碑陰" type="其他"/><head>之四　碑陰</head>
+<div2>
+<lb ed="C I" n="0225d01"/><p id="pI01p0225d0101">　　　　　姪雷彭暢　　　　　　　　　　從弟雷洪熾
+<lb ed="C I" n="0225d02"/>　　　　　外□雷超侯　　　　　　　　　女夫雷□玉
+<lb ed="C I" n="0225d03"/>
+<lb ed="C I" n="0225d04"/>　　　　　兄□野將軍強弩司馬雷像標　　姐夫雷<unclear cert="low" reason="damage">鴞</unclear>度
+<lb ed="C I" n="0225d05"/>　　　　　弟宣威將軍輔朝請別將雷標安　女夫夫蒙雙養　　　　　外孫夫蒙榮姬
+<lb ed="C I" n="0225d06"/>
+<lb ed="C I" n="0225d07"/>
+<lb ed="C I" n="0225d08"/>　　　　　從弟建忠郡大學生雷鴻□　　　女夫夫蒙貴度　　　　　請信士<unclear cert="low" reason="damage">荔</unclear>非婆
+<lb ed="C I" n="0225d09"/>　　　　　從弟雷五□　　　　　　　　　從弟宣□大學生雷<unclear cert="low" reason="damage">鄉</unclear>&CB01259;</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="big5" ?>
+
+<!-- 數字  big5=【】-->
+
+<!-- 畫圈圈的數目字  big5=【】-->
+<!ENTITY one "<gaiji des='ヾ' nor='ヾ' uniflag='1' uni='2460' mojikyo=''/>" ><!--拼音=【】內碼=【C6A1】big5=ヾ-->
+<!ENTITY two "<gaiji des='ゝ' nor='ゝ' uniflag='1' uni='2461' mojikyo=''/>" ><!--拼音=【】內碼=【C6A2】big5=ゝ-->
+<!ENTITY three "<gaiji des='ゞ' nor='ゞ' uniflag='1' uni='2462' mojikyo=''/>" ><!--拼音=【】內碼=【C6A3】big5=ゞ-->
+<!ENTITY four "<gaiji des='々' nor='々' uniflag='1' uni='2463' mojikyo=''/>" ><!--拼音=【】內碼=【C6A4】big5=々-->
+<!ENTITY five "<gaiji des='ぁ' nor='ぁ' uniflag='1' uni='2464' mojikyo=''/>" ><!--拼音=【】內碼=【C6A5】big5=ぁ-->
+<!ENTITY six "<gaiji des='あ' nor='あ' uniflag='1' uni='2465' mojikyo=''/>" ><!--拼音=【】內碼=【C6A6】big5=あ-->
+<!ENTITY seven "<gaiji des='ぃ' nor='ぃ' uniflag='1' uni='2466' mojikyo=''/>" ><!--拼音=【】內碼=【C6A7】big5=ぃ-->
+<!ENTITY eight "<gaiji des='い' nor='い' uniflag='1' uni='2467' mojikyo=''/>" ><!--拼音=【】內碼=【C6A8】big5=い-->
+<!ENTITY nine "<gaiji des='ぅ' nor='ぅ' uniflag='1' uni='2468' mojikyo=''/>" ><!--拼音=【】內碼=【C6A9】big5=ぅ-->
+<!ENTITY ten "<gaiji des='う' nor='う' uniflag='1' uni='2469' mojikyo=''/>" ><!--拼音=【】內碼=【C6AA】big5=う-->
+
+
+<!-- 大寫羅馬數字  big5=【】-->
+<!ENTITY aBigone "<gaiji des='Ⅰ' nor='Ⅰ' uni='' mojikyo=''/>" ><!--拼音=【】內碼=【A2B9】big5=Ⅰ-->
+<!ENTITY aBigtwo "<gaiji des='Ⅱ' nor='Ⅱ' uni='' mojikyo=''/>" ><!--拼音=【】內碼=【A2BA】big5=Ⅱ-->
+<!ENTITY aBigthree "<gaiji des='Ⅲ' nor='Ⅲ' uni='' mojikyo=''/>" ><!--拼音=【】內碼=【A2BB】big5=Ⅲ-->
+<!ENTITY aBigfour "<gaiji des='Ⅳ' nor='Ⅳ' uni='' mojikyo=''/>" ><!--拼音=【】內碼=【A2BC】big5=Ⅳ-->
+<!ENTITY aBigfive "<gaiji des='Ⅴ' nor='Ⅴ' uni='' mojikyo=''/>" ><!--拼音=【】內碼=【A2BD】big5=Ⅴ-->
+<!ENTITY aBigsix "<gaiji des='Ⅵ' nor='Ⅵ' uni='' mojikyo=''/>" ><!--拼音=【】內碼=【A2BE】big5=Ⅵ-->
+<!ENTITY aBigseven "<gaiji des='Ⅶ' nor='Ⅶ' uni='' mojikyo=''/>" ><!--拼音=【】內碼=【A2BF】big5=Ⅶ-->
+<!ENTITY aBigeight "<gaiji des='Ⅷ' nor='Ⅷ' uni='' mojikyo=''/>" ><!--拼音=【】內碼=【A2C0】big5=Ⅷ-->
+<!ENTITY aBignine "<gaiji des='Ⅸ' nor='Ⅸ' uni='' mojikyo=''/>" ><!--拼音=【】內碼=【A2C1】big5=Ⅸ-->
+<!ENTITY aBigten "<gaiji des='Ⅹ' nor='Ⅹ' uni='' mojikyo=''/>" ><!--拼音=【】內碼=【A2C2】big5=Ⅹ-->
+
+<!-- 小寫羅馬數字  big5=【】-->
+<!ENTITY aSmallone "<gaiji des='け' nor='け' uni='' mojikyo=''/>" ><!--拼音=【】內碼=【C6B5】big5=け-->
+<!ENTITY aSmalltwo "<gaiji des='げ' nor='げ' uni='' mojikyo=''/>" ><!--拼音=【】內碼=【C6B6】big5=げ-->
+<!ENTITY aSmallthree "<gaiji des='こ' nor='こ' uni='' mojikyo=''/>" ><!--拼音=【】內碼=【C6B7】big5=こ-->
+<!ENTITY aSmallfour "<gaiji des='ご' nor='ご' uni='' mojikyo=''/>" ><!--拼音=【】內碼=【C6B8】big5=ご-->
+<!ENTITY aSmallfive "<gaiji des='さ' nor='さ' uni='' mojikyo=''/>" ><!--拼音=【】內碼=【C6B9】big5=さ-->
+<!ENTITY aSmallsix "<gaiji des='ざ' nor='ざ' uni='' mojikyo=''/>" ><!--拼音=【】內碼=【C6BA】big5=ざ-->
+<!ENTITY aSmallseven "<gaiji des='し' nor='し' uni='' mojikyo=''/>" ><!--拼音=【】內碼=【C6BB】big5=し-->
+<!ENTITY aSmalleight "<gaiji des='じ' nor='じ' uni='' mojikyo=''/>" ><!--拼音=【】內碼=【C6BC】big5=じ-->
+<!ENTITY aSmallnine "<gaiji des='す' nor='す' uni='' mojikyo=''/>" ><!--拼音=【】內碼=【C6BD】big5=す-->
+<!ENTITY aSmallten "<gaiji des='ず' nor='ず' uni='' mojikyo=''/>" ><!--拼音=【】內碼=【C6BE】big5=ず-->

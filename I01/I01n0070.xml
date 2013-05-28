@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "I01n0070.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selections of Buddhist Stone Rubbings from the Northern Dynasties, Electronic version, No. 0070 周大將軍延壽公碑頌</title>
+                <author>顏娟英主編</author>
+                <respStmt>
+                    <resp>Electronic Version by</resp>
+                    <name>CBETA and DDBC</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>$Revision: 1.5 $<date>$Date: 2011/04/19 06:12:14 $</date></edition>
+            </editionStmt>
+            <extent>1卷</extent>
+            <publicationStmt>
+                <distributor>
+                    <name>中華電子佛典協會 (CBETA)</name>
+                    <address>
+                        <addrLine>service@cbeta.org</addrLine>
+                    </address>
+                </distributor>
+                <availability>
+<p>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/). </p>
+                </availability>
+                <date>$Date: 2011/04/19 06:12:14 $</date>
+            </publicationStmt>
+            <sourceDesc>
+      	      <bibl>Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 070 &desc;</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p lang="eng" type="ly">Text as provided by Institute of History and Philology, Academia Sinica</p>
+                <p lang="chi" type="ly">中央研究院歷史語言研究所</p>
+            </projectDesc>
+            </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+<div1>
+<pb n="0177a" id="I01.0070.0177a" ed="I"/>
+<lb ed="C I" n="0177a00"/><milestone n="1" unit="juan"/><head type="no">No. 70</head>
+<lb ed="C I" n="0177a00"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><title>周大將軍延壽公碑頌</title></jhead></juan>
+<div2>
+<lb ed="C I" n="0177a01"/><p id="pI01p0177a0101">周
+<lb ed="C I" n="0177a02"/>大
+<lb ed="C I" n="0177a03"/>將
+<lb ed="C I" n="0177a04"/>軍
+<lb ed="C I" n="0177a05"/>延
+<lb ed="C I" n="0177a06"/>壽
+<lb ed="C I" n="0177a07"/>公
+<lb ed="C I" n="0177a08"/>碑
+<lb ed="C I" n="0177a09"/>頌</p>
+</div2>
+<div2>
+<lb ed="C I" n="0177b01"/><p id="pI01p0177b0101">夫真源澄寂。沖趣虛玄。非可言寄。會通<unclear cert="low" reason="damage">筌</unclear>致。是以釋迦應生王宮。救昏迷於大□□□
+<lb ed="C I" n="0177b02"/>娑羅。示群品之無常。自尒迄今。邈餘千載。純風潛遏。道<note n="0177001" resp="ihp" place="foot text" type="orig">&CB07656;＝喪【史】</note><app n="0177001"><lem resp="ihp" wit="【史】">喪</lem><rdg wit="【原】">&CB07656;</rdg></app>薨淪。用使凝塵翳於黔□。□
+<lb ed="C I" n="0177b03"/>垢穢於凡俗。自非識慧幽明。洞監八解。安能樹善<unclear cert="low" reason="damage">因</unclear>於火宅。建般若於冥津矣。使持節
+<lb ed="C I" n="0177b04"/>大將軍大<note n="0177002" resp="ihp" place="foot text" type="orig">&CB12047;＝都【史】</note><app n="0177002"><lem resp="ihp" wit="【史】">都</lem><rdg wit="【原】">&CB12047;</rdg></app>督勳州汾州絳州晉州建州王<unclear cert="low" reason="damage">葉</unclear>城□□城□<unclear cert="low" reason="damage">頭</unclear>城□辟城樂昌城姚襄
+<lb ed="C I" n="0177b05"/>城諸軍事勳州刺史延壽<note n="0177003" resp="ihp" place="foot text" type="orig">&CB30969;＝郡【史】</note><app n="0177003"><lem resp="ihp" wit="【史】">郡</lem><rdg wit="【原】">&CB30969;</rdg></app>開國公万紐于寔。志性沈<unclear cert="low" reason="damage">簡</unclear>。器度寬雅。懷仁納□。文翁未
+<lb ed="C I" n="0177b06"/>必比其能。謙恭節儉。四<unclear cert="low" reason="damage">知</unclear><unclear cert="low" reason="damage">焉</unclear>得返其□。受□邊□事□□□□□<unclear cert="low" reason="damage">夷</unclear>□□望旗<app source="0177001" type="＊"><lem resp="ihp" wit="【史】">喪</lem><rdg wit="【原】">&CB07656;</rdg></app>氣。<unclear cert="low" reason="damage">恩</unclear>
+<lb ed="C I" n="0177b07"/>被北<unclear cert="low" reason="damage">狄</unclear>。則繈負雲歸。民飲<unclear cert="low" reason="damage">惠</unclear>化。咸詠甘棠之風。人□□<unclear cert="low" reason="damage">寔</unclear>。咸歌來□之美。<note n="0177004" resp="ihp" place="foot text" type="orig">&CB30136;＝昔【史】</note><app n="0177004"><lem resp="ihp" wit="【史】">昔</lem><rdg wit="【原】">&CB30136;</rdg></app><note n="0177005" resp="ihp" place="foot text" type="orig">&CB30970;＝邵【史】</note><app n="0177005"><lem resp="ihp" wit="【史】">邵</lem><rdg wit="【原】">&CB30970;</rdg></app>奭翼周。
+<lb ed="C I" n="0177b08"/>絳侯征漠。方之於今。未足踰也。公雖位亟<note n="0177006" resp="ihp" place="foot text" type="orig">&CB30971;＝旦【史】</note><app n="0177006"><lem resp="ihp" wit="【史】">旦</lem><rdg wit="【原】">&CB30971;</rdg></app>□。□□五<unclear cert="low" reason="damage">等</unclear>。寄意道□。□心妙域。知貪<note n="0177007" resp="ihp" place="foot text" type="orig">&CB00309;＝蛇【史】</note><app n="0177007"><lem resp="ihp" wit="【史】">蛇</lem><rdg wit="【原】">&CB00309;</rdg></app>
+<lb ed="C I" n="0177b09"/>如幻。不保全於夙霄。娛遊永夜。豈待明於昧□。□□風防諸貴鄉城耆老。訪地祇洹。式
+<lb ed="C I" n="0177b10"/>建靈塔。若迺汾水逕其陽。似熙連之□往。<unclear cert="low" reason="damage">諒</unclear>山□□北。等耆闍之鬱盛。　皇帝陛下。
+<lb ed="C I" n="0177b11"/>福洽人天。威加四海。貫萬國於宇宙。納<unclear cert="low" reason="damage">蒼</unclear>生於覆載。□<unclear cert="low" reason="damage">大</unclear>冢宰晉國公之勞王□□牟
+<lb ed="C I" n="0177b12"/>伊<app source="0177006" type="＊"><lem resp="ihp" wit="【史】">旦</lem><rdg wit="【原】">&CB30971;</rdg></app>。光讚幽遐。敷<note n="0177008" resp="ihp" place="foot text" type="orig">&CB30972;＝揚【史】</note><app n="0177008"><lem resp="ihp" wit="【史】">揚</lem><rdg wit="【原】">&CB30972;</rdg></app>妙軌。非銘金石。將何以則。不述景行。芳音莫著。睹茲<note n="0177009" resp="ihp" place="foot text" type="orig">&CB06401;＝休【史】</note><app n="0177009"><lem resp="ihp" wit="【史】">休</lem><rdg wit="【原】">&CB06401;</rdg></app>烈。敢為之
+<lb ed="C I" n="0177b13"/>頌。
+<lb ed="C I" n="0177b14"/>曰若稽古。如是我聞。如如本絕。茫茫已分。有佛有法。為皇為君。聖寔廣運。大智普<unclear cert="low" reason="damage">播</unclear>。其
+<lb ed="C I" n="0177b15"/>溫如日。其慧如雲。道心惟遠。禪念以懃。牢籠軒瑣。影響彌文。有法大士。為王爪臣。<unclear cert="low" reason="damage">菩</unclear>登
+<lb ed="C I" n="0177b16"/>一子。功參十人。情超海岸。道濟河津。開沙兜府。守罔稱神。忠為令<note n="0177010" resp="ihp" place="foot text" type="orig">&CB30677;＝德【史】</note><app n="0177010"><lem resp="ihp" wit="【史】">德</lem><rdg wit="【原】">&CB30677;</rdg></app>善作福因。弘茲佛
+<lb ed="C I" n="0177b17"/>日。會此堯辰。丹楹已構。戴壁斯陳。奉資聖帝。成我能仁。
+<lb ed="C I" n="0177b18"/>　　　　　　　　　　大周保定元年歲次辛巳三月壬午朔十日辛卯敬造。</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

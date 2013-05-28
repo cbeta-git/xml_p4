@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "D03n8701.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Selections from the Taipei National Central Library Buddhist Rare Book Collection, Electronic version, No. 8701 盂蘭盆經講經文（前殘）</title>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.3 $ (Big5)<date>$Date: 2011/06/14 01:42:41 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2011/06/14 01:42:41 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Selections from the Taipei National Central Library Buddhist Rare Book Collection Vol. 03, No. 8701 &desc;</bibl>
+		<p>唐人寫卷子本</p>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p lang="chi" type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2011/06/01 12:56:52</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: D03n8701.xml,v $
+Revision 1.3  2011/06/14 01:42:41  amtbgrace
+modified: 修訂錯誤標記
+
+Revision 1.2  2011/06/09 03:42:48  amtbgrace
+modified: 修改國圖的英文名稱
+
+Revision 1.1  2011/06/01 07:02:02  amtbgrace
+modified: 執行 basicx.bat  將 bm 轉 xml
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="D" id="D03.8701.0001a" n="0001a"/>
+<lb ed="D" n="0001a01"/><milestone unit="juan" n="1"/><mulu type="卷" n="1"/><div1><note n="0001001" resp="NCLRareBook" place="foot text" type="orig">國圖按：此卷子並非竺法護譯之「孟蘭盆經」原文，而為演繹該經之一種韻散來雜之講經文。其韻文每七字一句首釋經名意旨，云「願我慈親領受之，因茲息苦得停酸，免受倒懸三&CB08891;道，離&CB08891;鬼前休&CB08891;趣，得向&CB29788;園&CB17716;世尊」。篇中每引一句經文，即加以講唱，並已有催唱經文之吟詞，如「大眾須生敬重心.....經文次&CB05663;唱將&CB08074;」，均合於俗講之儀式與體裁，惜祇演繹首數句經文，至「目連欲度父母報乳哺之恩」止。此卷子之抄寫年代從上述紙墨狀況，及唱文中有「自出分憂佐大唐」之語，或在晚唐時期。</note><lg id="lgD03p0001a0101" type="abnormal"><l rend="text-indent:1em">&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;</l><l rend="text-indent:1em">目連依教便<app><lem wit="【CBETA】" resp="CBETA.maha">脩</lem><rdg wit="【國圖】">&unrec;</rdg></app>行</l>
+<lb ed="D" n="0001a02"/><l rend="text-indent:1em">供養三尊及大眾</l><l rend="text-indent:1em">福利遐超&unrec;鬼趣</l>
+<lb ed="D" n="0001a03"/><l rend="text-indent:1em">願我慈親領受之</l><l rend="text-indent:1em">因茲息苦得停酸</l>
+<lb ed="D" n="0001a04"/><l rend="text-indent:1em">免受倒懸三&CB08891;道</l><l rend="text-indent:1em">離&CB00230;鬼前休&CB08891;趣</l>
+<lb ed="D" n="0001a05"/><l rend="text-indent:1em">得向&CB29788;園&CB17716;世尊</l><l rend="text-indent:1em">因此厥&CB00561;&CB07830;蘭盆</l>
+<lb ed="D" n="0001a06"/><l rend="text-indent:1em">接引眾生交離苦</l><l rend="text-indent:1em">不獨當初為目連</l>
+<lb ed="D" n="0001a07"/><l rend="text-indent:1em">兼為今朝座下人</l><l rend="text-indent:1em">故知大聖不思議</l>
+<lb ed="D" n="0001a08"/><l rend="text-indent:1em">流向&CB17591;浮化&CB00320;生</l><l rend="text-indent:1em">為救世間諸苦難</l>
+<lb ed="D" n="0001a09"/><l rend="text-indent:1em">名曰&CB07830;蘭清淨經</l><l rend="text-indent:1em">念觀世音菩&CB16765;&unrec;</l></lg>
+<lb ed="D" n="0001a10"/><p id="pD03p0001a1001"><note place="inline">&CB16566;子</note>。將釋此經大分三&CB00556;&CB05663;一序分&CB05663;二正宗
+<lb ed="D" n="0001a11"/>&CB05663;三流通分三&CB00556;不同且初序分。<note place="inline">&CB16566;子</note>。</p>
+<lb ed="D" n="0001a12"/><lg id="lgD03p0001a1201" type="abnormal"><l rend="text-indent:1em">上&CB08074;&unrec;&unrec;即如斯</l><l rend="text-indent:1em">略与門徒分別&CB22072;</l>
+<lb ed="D" n="0001a13"/><l rend="text-indent:1em">向下依經次&CB05663;陳</l><l rend="text-indent:1em">不知道理復如何</l>
+<lb ed="D" n="0001a14"/><l rend="text-indent:1em">大眾<app><lem wit="【CBETA】" resp="CBETA.maha">須</lem><rdg wit="【國圖】">&unrec;</rdg></app>生敬重心</l><l rend="text-indent:1em">&unrec;道此經&unrec;孝行</l>
+<lb ed="D" n="0001a15"/><l rend="text-indent:1em">各各&CB00866;心合掌&CB00473;</l><l rend="text-indent:1em">經文次&CB05663;唱將&CB08074;</l></lg>
+<pb ed="D" id="D03.8701.0002a" n="0002a"/>
+<lb ed="D" n="0002a01"/><p id="pD03p0002a0101">經云聞如是一時。佛在&CB22064;衛國&CB29788;樹
+<lb ed="D" n="0002a02"/>給孤獨。</p><p id="pD03p0002a0204" place="inline"><note place="inline">&CB16566;子</note>。西方梵語名佛&CB00442;此
+<lb ed="D" n="0002a03"/>土&CB30244;為求&CB21929;者。自&CB21929;〃他覺<app><lem wit="【CBETA】" resp="CBETA.maha">行</lem><rdg wit="【國圖】">他</rdg></app>&CB31152;滿。</p>
+<lb ed="D" n="0002a04"/><lg id="lgD03p0002a0401" type="abnormal"><l rend="text-indent:1em">覺行周&CB31152;&CB00561;世尊</l><l rend="text-indent:1em">於中三覺不思議</l>
+<lb ed="D" n="0002a05"/><l rend="text-indent:1em">別日与門徒廣分別</l><l rend="text-indent:1em">今且略明&CB11180;妙法</l>
+<lb ed="D" n="0002a06"/><l rend="text-indent:1em">願聞&unrec;障&unrec;消除</l></lg><p id="pD03p0002a0608" place="inline"><note place="inline">&CB16566;</note>言&CB22064;衛國&CB29788;樹給孤
+<lb ed="D" n="0002a07"/>獨園。<note place="inline">&CB16566;子</note>。&CB22064;衛國者好嘉名人物英雄心<app><lem wit="【CBETA】" resp="CBETA.maha">猛</lem><rdg wit="【國圖】">&unrec;</rdg></app>利。</p>
+<lb ed="D" n="0002a08"/><lg id="lgD03p0002a0801" type="abnormal"><l rend="text-indent:1em">&CB18910;王太子兼長者</l><l rend="text-indent:1em">諸佛如&CB08074;<app><lem wit="【CBETA】" resp="CBETA.maha">住</lem><rdg wit="【國圖】">&unrec;</rdg></app>彼中</l>
+<lb ed="D" n="0002a09"/><l rend="text-indent:1em">給孤長者&CB00824;達<app><lem wit="【CBETA】" resp="CBETA.maha">多</lem><rdg wit="【國圖】"></rdg></app></l><l rend="text-indent:1em">聞佛功&CB18786;心中喜</l>
+<lb ed="D" n="0002a10"/><l rend="text-indent:1em">火急&CB08221;&CB08074;造精&CB22064;</l><l rend="text-indent:1em">便買&CB29788;&CB00442;太子園</l>
+<lb ed="D" n="0002a11"/><l rend="text-indent:1em">四十里地布黃金</l><l rend="text-indent:1em">建造如&CB08074;說法<app><lem wit="【CBETA】" resp="CBETA.maha">處</lem><rdg wit="【國圖】">支</rdg></app></l>
+<lb ed="D" n="0002a12"/><l rend="text-indent:1em">殿宇樓臺徦日月</l><l rend="text-indent:1em">池&CB08887;華&CB00031;用&CB00982;嚴</l>
+<lb ed="D" n="0002a13"/><l rend="text-indent:1em">&unrec;&CB16566;當日在彼中</l><l rend="text-indent:1em">&CB22072;這&CB07830;蘭清淨教</l>
+<lb ed="D" n="0002a14"/><l rend="text-indent:1em">為救目連慈母罪</l><l rend="text-indent:1em">免交受苦&unrec;生天</l>
+<lb ed="D" n="0002a15"/><l rend="text-indent:1em">上&CB08074;多&CB00556;義不同</l><l rend="text-indent:1em">&CB30106;&CB22072;經文<app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【國圖】">義</rdg></app>成就義</l>
+<lb ed="D" n="0002a16"/><l rend="text-indent:1em">&CB18813;此下反是別序</l><l rend="text-indent:1em">目連得道復如何</l>
+<lb ed="D" n="0002a17"/><l rend="text-indent:1em">大眾&unrec;生敬重心</l><l rend="text-indent:1em">六通之名當解釋</l>
+<pb ed="D" id="D03.8701.0003a" n="0003a"/>
+<lb ed="D" n="0003a01"/><l rend="text-indent:1em">各各虔茶合掌&CB00473;</l><l rend="text-indent:1em">目連得道唱將&CB08074;</l></lg>
+<lb ed="D" n="0003a02"/><p id="pD03p0003a0201">經云大目揵連始得六通。&CB16566;子。</p>
+<lb ed="D" n="0003a03"/><lg id="lgD03p0003a0301" type="abnormal"><l rend="text-indent:1em">恰似世間慈母身</l><l rend="text-indent:1em">養得子時登官位</l>
+<lb ed="D" n="0003a04"/><l rend="text-indent:1em">威勢人間皆&CB30106;怕</l><l rend="text-indent:1em">自出分憂佐大唐</l>
+<lb ed="D" n="0003a05"/><l rend="text-indent:1em"><app><lem wit="【CBETA】" resp="CBETA.maha">忽</lem><rdg wit="【國圖】">&CB00229;</rdg></app>然憶&CB00473;我耶孃</l><l rend="text-indent:1em">取向本州專侍奉</l>
+<lb ed="D" n="0003a06"/><l rend="text-indent:1em">所得財物買珠瑱</l><l rend="text-indent:1em">將&CB08074;奉獻我尊親</l>
+<lb ed="D" n="0003a07"/><l rend="text-indent:1em">百味&CB13251;羞皆給恭</l><l rend="text-indent:1em">日夜將心親侍奉</l>
+<lb ed="D" n="0003a08"/><l rend="text-indent:1em">若也悶&CB08074;交合曲</l><l rend="text-indent:1em">音聲歌&CB01425;不曾&CB09109;</l>
+<lb ed="D" n="0003a09"/><l rend="text-indent:1em">朝〃甘脆父母前</l><l rend="text-indent:1em"><app><lem wit="【CBETA】" resp="CBETA.maha">晝</lem><rdg wit="【國圖】">&unrec;</rdg></app>夜尋常居左右</l>
+<lb ed="D" n="0003a10"/><l rend="text-indent:1em">所要之間皆&unrec;有</l><l rend="text-indent:1em">意徒孝行遣人傳</l>
+<lb ed="D" n="0003a11"/><l rend="text-indent:1em">今此目連亦復然</l><l rend="text-indent:1em">得道恰似為官位</l>
+<lb ed="D" n="0003a12"/><l rend="text-indent:1em">憶得先亡念慈親</l><l rend="text-indent:1em">&CB18944;落三塗阿&CB06363;邊</l>
+<lb ed="D" n="0003a13"/><l rend="text-indent:1em">遂將天眼更遙觀</l><l rend="text-indent:1em">欲覓尊親擬供養</l>
+<lb ed="D" n="0003a14"/><l rend="text-indent:1em">直為亡&CB08074;年&CB15329;久</l><l rend="text-indent:1em">不知神識落何方</l>
+<lb ed="D" n="0003a15"/><l rend="text-indent:1em"><app><lem wit="【CBETA】" resp="CBETA.maha">乃</lem><rdg wit="【國圖】">&unrec;</rdg></app>知證得六神通</l><l rend="text-indent:1em">根本還因求父母</l>
+<lb ed="D" n="0003a16"/><l rend="text-indent:1em">羅漢六通為&CB05663;一</l><l rend="text-indent:1em">願報當初養育&CB22131;</l>
+<lb ed="D" n="0003a17"/><l rend="text-indent:1em">今此向下一唱經</l><l rend="text-indent:1em">欲度父母報&CB22131;受</l>
+<pb ed="D" id="D03.8701.0004a" n="0004a"/>
+<lb ed="D" n="0004a01"/><l rend="text-indent:1em">大眾好生合掌&CB00473;</l><l rend="text-indent:1em">經文次<app><lem wit="【CBETA】" resp="CBETA.maha">第</lem><rdg wit="【國圖】">弟</rdg></app>唱將&CB08074;</l></lg>
+<lb ed="D" n="0004a02"/><p id="pD03p0004a0201">經云目連欲度父母報乳脯之&CB22131;。&CB16566;子。</p>
+<lb ed="D" n="0004a03"/><lg id="lgD03p0004a0301" type="abnormal"><l rend="text-indent:1em">自得既&CB31152;應合救物</l><l rend="text-indent:1em">懷其孝行欲報重&CB22131;</l></lg>
+<lb ed="D" n="0004a04"/><p id="pD03p0004a0401">經云度者即是度脫報&CB22131;兩字通摽經
+<lb ed="D" n="0004a05"/>題。且夫人生在世。父母為親。非母不生。
+<lb ed="D" n="0004a06"/>非母不長。是以目連。報其&CB22131;&CB18786;。&CB16566;子。</p>
+<lb ed="D" n="0004a07"/><lg id="lgD03p0004a0701" type="abnormal"><l rend="text-indent:1em">目連自得既周&CB31152;</l><l rend="text-indent:1em">理合救其親父母</l>
+<lb ed="D" n="0004a08"/><l rend="text-indent:1em">心裏為懷行孝行</l><l rend="text-indent:1em">報&CB31016;&CB18813;&CB08074;養育&CB22131;</l>
+<lb ed="D" n="0004a09"/><l rend="text-indent:1em">人生在世合如斯</l><l rend="text-indent:1em">父母深&CB22131;&CB00824;報荅</l>
+<lb ed="D" n="0004a10"/><l rend="text-indent:1em">想得當初養育我</l><l rend="text-indent:1em">受苦懷&unrec;不可論</l>
+<lb ed="D" n="0004a11"/><l rend="text-indent:1em">除其孝順在眼前</l><l rend="text-indent:1em">供給<app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【國圖】">不</rdg></app>所&CB00824;不闕少</l>
+<lb ed="D" n="0004a12"/><l rend="text-indent:1em">假使&CB18859;身千万&CB03567;</l><l rend="text-indent:1em">不能報得母深&CB22131;</l>
+<lb ed="D" n="0004a13"/><l rend="text-indent:1em">將知&CB22131;&CB18786;大難酬</l><l rend="text-indent:1em">我佛如&CB08074;再三&CB22072;</l>
+<lb ed="D" n="0004a14"/><l rend="text-indent:1em">奉勸座下佛弟子</l><l rend="text-indent:1em">大&CB00824;孝順莫因循</l></lg>
+<lb ed="D" n="0004a15"/><p id="pD03p0004a1501">&CB16566;子。故父母&CB22131;重經云。父母有十種&CB22131;&CB18847;
+<lb ed="D" n="0004a16"/>難報荅。</p><list><item id="itemD03p0004a1604">一者懷胎守護&CB22131;</item><item id="itemD03p0004a1611">二者臨產
+<pb ed="D" id="D03.8701.0005a" n="0005a"/>
+<lb ed="D" n="0005a01"/>受苦&CB22131;</item><item id="itemD03p0005a0104">三者生子妄憂&CB22131;</item><item id="itemD03p0005a0111">四者&CB09727;苦
+<lb ed="D" n="0005a02"/>吐甘&CB22131;</item><item id="itemD03p0005a0204">五者迴乾就濕&CB22131;</item><item id="itemD03p0005a0211">六者乳
+<lb ed="D" n="0005a03"/>脯養育&CB22131;</item><item id="itemD03p0005a0305">七者洗濯不淨&CB22131;</item><item id="itemD03p0005a0312">八者為
+<lb ed="D" n="0005a04"/>造&CB08891;業&CB22131;</item><item id="itemD03p0005a0405">九者遠行憶念&CB22131;</item><item id="itemD03p0005a0412">十者究
+<lb ed="D" n="0005a05"/>竟憐愍&CB22131;</item></list><p id="pD03p0005a0505" place="inline">&CB16566;子。</p><lg id="lgD03p0005a0507" type="abnormal"><l rend="text-indent:1em">適&CB08074;雖<app><lem wit="【CBETA】" resp="CBETA.maha">列</lem><rdg wit="【國圖】">烈</rdg></app>十&CB22131;名</l>
+<lb ed="D" n="0005a06"/><l rend="text-indent:1em">義理差殊都未解</l><l rend="text-indent:1em">門徒若要細分別</l>
+<lb ed="D" n="0005a07"/><l rend="text-indent:1em">先生敬重後依行</l><l rend="text-indent:1em">&CB05663;一懷擔守護&CB22131;</l>
+<lb ed="D" n="0005a08"/><l rend="text-indent:1em">十月胎中常負重</l><l rend="text-indent:1em">慈母將心憂&CB00108;子</l>
+<lb ed="D" n="0005a09"/><l rend="text-indent:1em">&CB06960;怕胎中不得安</l><l rend="text-indent:1em">生時受苦命如斯</l>
+<lb ed="D" n="0005a10"/><l rend="text-indent:1em">赤血滂&CB05811;魂魄散</l><l rend="text-indent:1em">時向之間&CB30220;&CB00230;命</l>
+<lb ed="D" n="0005a11"/><l rend="text-indent:1em">由怕&CB00108;兒有&CB02167;殤</l><l rend="text-indent:1em">生了心中便喜歡</l>
+<lb ed="D" n="0005a12"/><l rend="text-indent:1em">忘&CB00230;憂愁如快樂</l><l rend="text-indent:1em">眷&CB06473;親情皆&CB30106;喜</l>
+<lb ed="D" n="0005a13"/><l rend="text-indent:1em">慶賀今朝母子安</l><l rend="text-indent:1em">漸〃&CB00108;兒長大時</l>
+<lb ed="D" n="0005a14"/><l rend="text-indent:1em">乾處唯留與子眠</l><l rend="text-indent:1em">濕處迴將母自臥</l>
+<lb ed="D" n="0005a15"/><l rend="text-indent:1em">洗濯之時無懈惓</l><l rend="text-indent:1em">乳脯養育不&CB08256;勞</l>
+<pb ed="D" id="D03.8701.0006a" n="0006a"/>
+<lb ed="D" n="0006a01"/><l rend="text-indent:1em">寒熱都&CB08074;為&unrec;&unrec;</l><l rend="text-indent:1em">怜念由如掌上珠</l>
+<lb ed="D" n="0006a02"/><l rend="text-indent:1em">年登十五母由憂</l><l rend="text-indent:1em">&CB06960;怕造諸不善業</l>
+<lb ed="D" n="0006a03"/><l rend="text-indent:1em">走去心中常憶念</l><l rend="text-indent:1em">&CB16566;前發願早&CB08221;&CB08074;</l>
+<lb ed="D" n="0006a04"/><l rend="text-indent:1em">四時八&CB13776;不前頭</l><l rend="text-indent:1em">不覺<app><lem wit="【CBETA】" resp="CBETA.maha">目</lem><rdg wit="【國圖】"></rdg></app>中雙淚下</l>
+<lb ed="D" n="0006a05"/><l rend="text-indent:1em">時向之間不得見</l><l rend="text-indent:1em">恛惶惆悵似湯&CB10781;</l></lg>
+<lb ed="D" n="0006a06"/><p id="pD03p0006a0601">&CB16566;子。</p><lg id="lgD03p0006a0603" type="abnormal"><l rend="text-indent:1em">他家孝順由憂耶孃</l><l rend="text-indent:1em">不孝之男廣造<note place="inline">&CB08891;業</note></l>
+<lb ed="D" n="0006a07"/><l rend="text-indent:1em">他州外鄉逐樂不&CB08221;</l><l rend="text-indent:1em">父母此間肝&CB00157;寸&CB07589;</l></lg>
+<lb ed="D" n="0006a08"/><p id="pD03p0006a0801">&CB16566;子。</p><lg id="lgD03p0006a0803" type="abnormal"><l rend="text-indent:1em">他家若是孝順之兒</l><l rend="text-indent:1em">解向家中親侍奉</l>
+<lb ed="D" n="0006a09"/><l rend="text-indent:1em">若是心中不孝順</l><l rend="text-indent:1em">逃走他鄉&CB30106;不<app><lem wit="【CBETA】" resp="CBETA.maha">&CB08221;</lem><rdg wit="【國圖】">&unrec;</rdg></app></l>
+<lb ed="D" n="0006a10"/><l rend="text-indent:1em">&CB10318;脩向外&CB15329;年間</l><l rend="text-indent:1em">逐樂何曾憶父母</l>
+<lb ed="D" n="0006a11"/><l rend="text-indent:1em">所得錢財別受用</l><l rend="text-indent:1em">肯解將&CB08074;獻二親</l>
+<lb ed="D" n="0006a12"/><l rend="text-indent:1em">將知世界&CB01618;眾生</l><l rend="text-indent:1em">罪過愚膚不可&CB22072;</l>
+<lb ed="D" n="0006a13"/><l rend="text-indent:1em">不報其&CB22131;不孝順</l><l rend="text-indent:1em">&CB18944;向三塗&CB08891;道中</l>
+<lb ed="D" n="0006a14"/><l rend="text-indent:1em">奉勸門徒諸信心</l><l rend="text-indent:1em">莫作如斯不孝人</l>
+<lb ed="D" n="0006a15"/><l rend="text-indent:1em">&CB28964;取目連心裏&unrec;</l><l rend="text-indent:1em">命終必&CB30070;見慈尊</l></lg>
+<pb ed="D" id="D03.8701.0007a" n="0007a"/>
+<lb ed="D" n="0007a01"/><p id="pD03p0007a0101">&CB16566;子。</p><lg id="lgD03p0007a0103" type="abnormal"><l rend="text-indent:1em">上&CB08074;道理轉殷勤</l><l rend="text-indent:1em">聞道還&CB00824;行
+<lb ed="D" n="0007a02"/>孝行</l><l rend="text-indent:1em">不但自家心裏了</l><l rend="text-indent:1em">也令眾罪
+<lb ed="D" n="0007a03"/>速消除</l></lg><p id="pD03p0007a0304" place="inline">&CB07830;蘭盆經&CB09083;
+<lb ed="D" n="0007a04"/>觀。故題。此經讚&unrec;不思&CB04833;留傳天下
+<lb ed="D" n="0007a05"/>眾人知有緣得遇<app><lem wit="【CBETA】" resp="CBETA.maha">者</lem><rdg wit="【國圖】">&unrec;</rdg></app>蓮花<app><lem wit="【CBETA】" resp="CBETA.maha">會裏</lem><rdg wit="【國圖】">&unrec;&unrec;</rdg></app>与君&CB21991;。</p></div1>
+</body></text></TEI.2>

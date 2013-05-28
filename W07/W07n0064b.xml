@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "W07n0064b.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Buddhist Texts not contained in the Tripitaka, Electronic version, No. 064b 地藏菩薩十齋日</title>
+			<author>張總整理</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $ (Big5)<date>$Date: 2010/02/26 07:01:19 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2010/02/26 07:01:19 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064b &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Text as provided by Mr. Fang Guangchang</p>
+		<p lang="chi" type="ly">方廣錩大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2010/01/28 17:55:30</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: W07n0064b.xml,v $
+Revision 1.2  2010/02/26 07:01:19  amtbgrace
+modified: 修改檔頭資訊
+
+Revision 1.1  2010/01/29 08:42:28  amtbgrace
+modified: 執行 basicx.bat  將 bm 轉 xml; 執行校注插入 XML 作業。
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<lb ed="W" n="0351a15"/><milestone unit="juan" n="1"/>
+<lb ed="W" n="0351a16"/>
+<lb ed="W" n="0351a17"/><div1 type="other"><mulu type="其他" level="1" label="錄文二"/><head>〔錄文二〕</head>
+<lb ed="W" n="0351a18"/>
+<lb ed="W" n="0351a19"/><list><item id="itemW07p0351a1901">月一日，童子下，念定光如來佛；</item>
+<lb ed="W" n="0351a20"/><item id="itemW07p0351a2001">八日，太山下，念藥師琉璃光佛；</item>
+<lb ed="W" n="0351a21"/><item id="itemW07p0351a2101">十四日，察命下，念賢劫千佛；</item>
+<lb ed="W" n="0351a22"/><item id="itemW07p0351a2201">十五日，五道大將軍下，念阿&CB00434;佛；</item>
+<lb ed="W" n="0351a23"/><item id="itemW07p0351a2301">十八日，閻羅王下，念觀世音菩薩；</item>
+<lb ed="W" n="0351a24"/><item id="itemW07p0351a2401">二十三日，天大將軍下，念盧舍那佛；</item>
+<lb ed="W" n="0351a25"/><item id="itemW07p0351a2501">二十四日，太山府君下，念地藏菩薩；</item>
+<lb ed="W" n="0351a26"/><item id="itemW07p0351a2601">二十八日，天帝釋下，念阿彌陀佛；</item>
+<lb ed="W" n="0351a27"/><item id="itemW07p0351a2701">二十九日，四天王下，念藥王藥上菩薩；</item>
+<lb ed="W" n="0351a28"/><item id="itemW07p0351a2801">三十日，大梵王下，念釋迦牟尼佛。</item></list>
+<pb ed="W" id="W07.0064b.0352a" n="0352a"/>
+<lb ed="W" n="0352a01"/>
+<lb ed="W" n="0352a02"/><p id="pW07p0352a0201">〔錄文完〕</p></div1>
+</body></text></TEI.2>

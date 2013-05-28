@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "I01n0039.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selections of Buddhist Stone Rubbings from the Northern Dynasties, Electronic version, No. 0039 合邑四十人造像記</title>
+                <author>顏娟英主編</author>
+                <respStmt>
+                    <resp>Electronic Version by</resp>
+                    <name>CBETA and DDBC</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>$Revision: 1.5 $<date>$Date: 2011/04/19 06:12:14 $</date></edition>
+            </editionStmt>
+            <extent>1卷</extent>
+            <publicationStmt>
+                <distributor>
+                    <name>中華電子佛典協會 (CBETA)</name>
+                    <address>
+                        <addrLine>service@cbeta.org</addrLine>
+                    </address>
+                </distributor>
+                <availability>
+<p>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/). </p>
+                </availability>
+                <date>$Date: 2011/04/19 06:12:14 $</date>
+            </publicationStmt>
+            <sourceDesc>
+      	      <bibl>Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 039 &desc;</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p lang="eng" type="ly">Text as provided by Institute of History and Philology, Academia Sinica</p>
+                <p lang="chi" type="ly">中央研究院歷史語言研究所</p>
+            </projectDesc>
+            </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+<div1>
+<pb n="0096a" id="I01.0039.0096a" ed="I"/>
+<lb ed="C I" n="0096a00"/><milestone n="1" unit="juan"/><head type="no">No. 39</head>
+<lb ed="C I" n="0096a00"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><title>合邑四十人造像記</title></jhead></juan>
+<lb ed="C I" n="0096a00"/><mulu level="1" label="碑陰" type="其他"/><head>碑陰</head>
+<div2>
+<lb ed="C I" n="0096a01"/><p id="pI01p0096a0101">邑師法仙
+<lb ed="C I" n="0096a02"/>
+<lb ed="C I" n="0096a03"/>
+<lb ed="C I" n="0096a04"/>
+<lb ed="C I" n="0096a05"/>
+<lb ed="C I" n="0096a06"/>
+<lb ed="C I" n="0096a07"/>
+<lb ed="C I" n="0096a08"/>
+<lb ed="C I" n="0096a09"/>
+<lb ed="C I" n="0096a10"/>
+<lb ed="C I" n="0096a11"/>
+<lb ed="C I" n="0096a12"/>門師僧欽
+<lb ed="C I" n="0096a13"/>門師靜□</p>
+</div2>
+<div2>
+<lb ed="C I" n="0096b01"/><p id="pI01p0096b0101">大魏大統四年歲在戊
+<lb ed="C I" n="0096b02"/>午十二月丙戊朔<note n="0096001" resp="ihp" place="foot text" type="orig">&CB30506;＝辛【史】</note><app n="0096001"><lem resp="ihp" wit="【史】">辛</lem><rdg wit="【原】">&CB30506;</rdg></app><note n="0096002" resp="ihp" place="foot text" type="orig">&CB30636;＝亥【史】</note><app n="0096002"><lem resp="ihp" wit="【史】">亥</lem><rdg wit="【原】">&CB30636;</rdg></app>
+<lb ed="C I" n="0096b03"/>日。佛弟子合邑卌人等。
+<lb ed="C I" n="0096b04"/>生閻浮。運<unclear cert="medium" reason="damage">遭</unclear>末劫。自飛
+<lb ed="C I" n="0096b05"/>高因妙業。&CB07099;<unclear cert="low" reason="damage">以</unclear>同生彼
+<lb ed="C I" n="0096b06"/><note n="0096003" resp="ihp" place="foot text" type="orig">&CB30637;＝岸【史】</note><app n="0096003"><lem resp="ihp" wit="【史】">岸</lem><rdg wit="【原】">&CB30637;</rdg></app>。遂尒<unclear cert="low" reason="damage">謫</unclear>相<note n="0096004" resp="ihp" place="foot text" type="orig">&CB30638;＝率【史】</note><app n="0096004"><lem resp="ihp" wit="【史】">率</lem><rdg wit="【原】">&CB30638;</rdg></app>化。<note n="0096005" resp="ihp" place="foot text" type="orig">&CB30639;＝頃【史】</note><app n="0096005"><lem resp="ihp" wit="【史】">頃</lem><rdg wit="【原】">&CB30639;</rdg></app>竭
+<lb ed="C I" n="0096b07"/>己資。仰為皇帝國主。建
+<lb ed="C I" n="0096b08"/>崇四面天宮石像一區。
+<lb ed="C I" n="0096b09"/><note n="0096006" resp="ihp" place="foot text" type="orig">逯＝逮【史】</note><app n="0096006"><lem resp="ihp" wit="【史】">逮</lem><rdg wit="【原】">逯</rdg></app>及師僧父母。七世所
+<lb ed="C I" n="0096b10"/>生。因緣眷屬。香火邑義。
+<lb ed="C I" n="0096b11"/>生〃世〃。值佛聞法。彌勒現
+<lb ed="C I" n="0096b12"/>世。願登先首。<note n="0096007" resp="ihp" place="foot text" type="orig">&CB30640;＝邊【史】</note><app n="0096007"><lem resp="ihp" wit="【史】">邊</lem><rdg wit="【原】">&CB30640;</rdg></app>地眾生。
+<lb ed="C I" n="0096b13"/>普同正<unclear cert="low" reason="damage">覺</unclear>。<unclear cert="low" reason="damage">咸</unclear>登正<note n="0096008" resp="ihp" place="foot text" type="orig">&CB30641;＝果【史】</note><app n="0096008"><lem resp="ihp" wit="【史】">果</lem><rdg wit="【原】">&CB30641;</rdg></app>。</p>
+</div2>
+<div2>
+<lb ed="C I" n="0096c01"/><p id="pI01p0096c0101">□<note n="0096009" resp="ihp" place="foot text" type="orig">&CB01057;＝那【史】</note><app n="0096009"><lem resp="ihp" wit="【史】">那</lem><rdg wit="【原】">&CB01057;</rdg></app>侯桃枝
+<lb ed="C I" n="0096c02"/>□<app source="0096009" type="＊"><lem resp="ihp" wit="【史】">那</lem><rdg wit="【原】">&CB01057;</rdg></app>魯法容　蔡
+<lb ed="C I" n="0096c03"/><unclear cert="medium" reason="damage">典</unclear>錄魯阿迴　王<unclear cert="low" reason="damage">晏</unclear>
+<lb ed="C I" n="0096c04"/>□主侯<unclear cert="low" reason="damage">真</unclear>姜　郭阿□
+<lb ed="C I" n="0096c05"/>□主<unclear cert="medium" reason="damage">董</unclear>雙臺　魯神妃
+<lb ed="C I" n="0096c06"/><unclear cert="medium" reason="damage">像</unclear>主蔡阿早　魯阿妃
+<lb ed="C I" n="0096c07"/><unclear cert="medium" reason="damage">像</unclear>主李<unclear cert="medium" reason="damage">思</unclear>好　<unclear cert="low" reason="damage">魯</unclear>早妃　王□□
+<lb ed="C I" n="0096c08"/>□□敬容　　□買姜　袁次男
+<lb ed="C I" n="0096c09"/>□□□貴　　侯樂善　王<note n="0096010" resp="ihp" place="foot text" type="orig">&CB30070;＝定【史】</note><app n="0096010"><lem resp="ihp" wit="【史】">定</lem><rdg wit="【原】">&CB30070;</rdg></app>貴
+<lb ed="C I" n="0096c10"/>□女□□　　張敬姜　敬女<unclear cert="low" reason="damage">晹</unclear>
+<lb ed="C I" n="0096c11"/>□賜王　　　魯要容　張僧賣
+<lb ed="C I" n="0096c12"/>魯洛姿　　　董洛媚　侯<unclear cert="low" reason="damage">憎</unclear><unclear cert="low" reason="damage">迺</unclear>
+<lb ed="C I" n="0096c13"/>魯舍貴　　　陳賤貴　董先<unclear cert="medium" reason="damage">敬</unclear>
+<lb ed="C I" n="0096c14"/>魯義勝　　　楊令姿　張<app source="0096010" type="＊"><lem resp="ihp" wit="【史】">定</lem><rdg wit="【原】">&CB30070;</rdg></app>姜
+<lb ed="C I" n="0096c15"/>任始貴　　　魯阿令
+<lb ed="C I" n="0096c16"/>魯妙姿
+<lb ed="C I" n="0096c17"/>□小姿</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

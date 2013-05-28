@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "D22n8874.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Selections from the Taipei National Central Library Buddhist Rare Book Collection, Electronic version, No. 8874 成實論義記（存卷中　前殘）</title>
+			<author>唐 釋其甲撰</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $ (Big5)<date>$Date: 2011/10/13 06:47:18 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2011/10/13 06:47:18 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Selections from the Taipei National Central Library Buddhist Rare Book Collection Vol. 22, No. 8874 &desc;</bibl>
+		<p>唐人行草寫卷子本　存卷中</p>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p lang="chi" type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2011/10/12 13:34:48</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: D22n8874.xml,v $
+Revision 1.2  2011/10/13 06:47:18  amtbgrace
+修改序目錄
+
+Revision 1.1  2011/10/12 06:16:30  amtbgrace
+modified: 執行 basicx.bat  將 bm 轉 xml
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="D" id="D22.8874.0001a" n="0001a"/>
+<lb ed="D" n="0001a01"/><milestone unit="juan" n="2"/><mulu type="卷" n="2"/><div1 type="commentary"><p id="pD22p0001a0101" rend="margin-left:1em"><note place="inline">&unrec;…&unrec;質中&unrec;…&unrec;
+<lb ed="D" n="0001a02"/>論主即荅一徵偈去義〃&unrec;竟而顯&unrec;…&unrec;泠而熱風中熟觸非法人吹火物也餘觸&unrec;…&unrec;
+<lb ed="D" n="0001a03"/>香也論主義則不然觸&CB07099;立&CB06473;也善&CB18919;人&unrec;…&unrec;
+<lb ed="D" n="0001a04"/>即風香取&CB08168;異身六大意如此侘崎&unrec;&CB00804;之來者義矣&CB21868;&unrec;三稱汝小〃&unrec;異&unrec;</note>。</p></div1><div1 type="orig"><p id="pD22p0001a0432" place="inline">他人&CB30478;可&CB22072;&unrec;…&unrec;
+<lb ed="D" n="0001a05"/>人我&CB30478;可&CB22072;。</p></div1><div1 type="commentary"><p id="pD22p0001a0506" place="inline" rend="margin-left:1em"><note place="inline">此弟三也此下娑外道小&unrec;上&unrec;外道義然&unrec;…&unrec;賢是故論主&CB00804;之四徵委是地人非餘三大&unrec;…&unrec;
+<lb ed="D" n="0001a06"/>大等中各人&CB11180;者風中人熟等觸非吹小以八也觸&unrec;尒香成異質香矣</note>。</p></div1><div1 type="orig"><p id="pD22p0001a0629" place="inline">&CB30478;應如是分別水等。</p></div1><div1 type="commentary"><p id="pD22p0001a0637" place="inline" rend="margin-left:1em"><note place="inline">&unrec;…&unrec;異上弟三&unrec;…&unrec;</note>。</p></div1>
+<lb ed="D" n="0001a07"/><div1 type="orig"><p id="pD22p0001a0701">意品。</p></div1><div1 type="commentary"><p id="pD22p0001a0703" place="inline" rend="margin-left:1em"><note place="inline">意弟三科也此品&CB04891;卄一勾明意而去初十六分明賢時&unrec;去後五夢中&CB30478;&CB07099;死矣</note>。</p></div1><div1 type="orig"><p id="pD22p0001a0735" place="inline">色入相品。</p></div1><div1 type="commentary"><p id="pD22p0001a0739" place="inline" rend="margin-left:1em"><note place="inline">上四大同是徵〃四徵以成質所以七品明禪五祖俱用四
+<lb ed="D" n="0001a08"/>大以成然是故十品通解令五塵&unrec;同是實〃然不同各〃&unrec;〃然〃故名品各別釋者也入相者以前色相品直釋十四種會尼品但明一色可見故安入〃者&unrec;…&unrec;
+<lb ed="D" n="0001a09"/>真生〃眼〃識〃&CB08468;〃則異上色相品也五塵以生五識制〃名〃不用者&unrec;…&unrec;味觸此三事同知青黃即青生識〃所約&CB30478;青&CB30478;色也&CB30621;香則不然識但&unrec;…&unrec;
+<lb ed="D" n="0001a10"/>香而約栴〃檀〃等〃是假四&CB11180;通名故也但約&unrec;不約人&unrec;者矣故經云青黃&unrec;&unrec;色名色入者</note>。</p></div1><div1 type="orig"><p id="pD22p0001a1039" place="inline">眼入滅色相&unrec;…&unrec;
+<lb ed="D" n="0001a11"/>是&CB08468;應當知。</p></div1><div1 type="commentary"><p id="pD22p0001a1106" place="inline" rend="margin-left:1em"><note place="inline">佛告諸比丘我今為汝略說十二八至意入滅法相離是&CB08468;應當知今論主引此經論說五塵然矣別無滅者&unrec;等寂滅也離
+<lb ed="D" n="0001a12"/>&unrec;者&unrec;空之異&CB07247;耳若能如此約之二空&unrec;…&unrec;記漏&CB02649;真是&CB08468;故云是&CB08468;應當知也此出雜阿含經</note>。</p></div1><div1 type="orig"><p id="pD22p0001a1239" place="inline">&CB30621;相品。</p></div1><div1 type="commentary"><p id="pD22p0001a1242" place="inline" rend="margin-left:1em"><note place="inline">此為三種一明&unrec;&CB07099;果以不成餘質
+<lb ed="D" n="0001a13"/>像故二說矣本人人欲使質中恒入但未入緣&unrec;三說&CB30621;因非因&CB30621;離色等〃不相離者自下七者明&CB07099;果俗中常無者明因品因凡十事前七事由後三明非因矣</note>。</p></div1>
+<lb ed="D" n="0001a14"/><div1 type="orig"><p id="pD22p0001a1401">香品。</p></div1><div1 type="commentary"><p id="pD22p0001a1403" place="inline" rend="margin-left:1em"><note place="inline">說眾香合更生異香初科也人衛世師人此下身四事耶次中&CB30478;為&unrec;求那不必地獨為是第二科次為四事明小中乃香是第三科次說他經
+<lb ed="D" n="0001a15"/>驃以下意品&CB07538;難外道四大求那不定&CB30478;應難風中為香略身</note>。</p></div1>
+<lb ed="D" n="0001a16"/><div1 type="orig"><p id="pD22p0001a1601">汝言反覆有過。</p></div1><div1 type="commentary"><p id="pD22p0001a1607" place="inline" rend="margin-left:1em"><note place="inline">若地觸當定難与水合故本觸不失者便不約地變〃者異本身一過也若地与水合更生異觸乃變小与
+<pb ed="D" id="D22.8874.0002a" n="0002a"/>
+<lb ed="D" n="0002a01"/>為合之泠滅更生熟者外&CB30478;為變而汝經中說但地為變水&CB07099;則違經人一過〃多故云反覆為過也</note>。</p></div1><div1 type="orig"><p id="pD22p0002a0140" place="inline">識論中立&CB07099;數品。</p></div1>
+<lb ed="D" n="0002a02"/><div1 type="commentary"><p id="pD22p0002a0201" rend="margin-left:1em"><note place="inline">所以次色論議者論主解伏〃語中自人說諸法相生次弟自方明聖人觀〃行〃次〃弟〃促塵至細色陰是對焉無相寄塵在先也受陰苦樂受等身境&CB01196;因中
+<lb ed="D" n="0002a03"/>&CB30478;塵次之想陰想像&CB16487;麼因中&CB30478;塵次受也行陰為貪瞋等寄塵故不可在識陰後行捨等&CB07099;量細心數故不在受想前故次想也識耳境淺而&CB11180;故罝後矣問曰如上觀行&CB30130;
+<lb ed="D" n="0002a04"/>塵至細義則應尒但聖人分五陰&CB30848;四念觀類如上心念&CB08468;應&unrec;後以法念&CB08468;境中入麼乃細想与貪瞋等便應行捨等又量心數便細入塵故不可在心念&CB08468;
+<lb ed="D" n="0002a05"/>後乃細故不可在色受念&CB08468;之前豈不類&CB21985;荅曰四念&CB08468;中可以不類者舌義乃異也以行陰觀猶是此法觀行塵未正相玄法念&CB08468;觀心&CB07694;&CB07099;色為中道寂&unrec;玄絕故
+<lb ed="D" n="0002a06"/>一向細受名豈可以行陰纇&CB21985;令次色論識明相生次弟可以託情塵生識也可以五門成識論之實及數是識論之&CB04633;故云中&CB18798;品&CB07099;迦旃延人別然之數非為不乃先後
+<lb ed="D" n="0002a07"/>心數也無為則異心之&CB10830;不&unrec;心品中心數卄一&unrec;&CB07099;賀然一心皆&CB07099;中多成諍云&CB07099;者&CB07099;異
+<lb ed="D" n="0002a08"/>心數可消心&CB30130;心生名心數心禪論貪畣佛語豈不妙&CB21985;</note>。</p></div1><div1 type="orig"><p id="pD22p0002a0823" place="inline">心意<app><lem wit="【CBETA】" resp="CBETA.maha">識</lem><rdg wit="【國圖】">&CB31379;</rdg></app>體一而名異。</p></div1><div1 type="commentary"><p id="pD22p0002a0831" place="inline" rend="margin-left:1em"><note place="inline">論師訓釋此事不同一師云心謝過去生後名意現
+<lb ed="D" n="0002a09"/>在識別六度名識能&unrec;&unrec;&unrec;各心不當&CB30487;過現一師云後名意分別名識能緣義名心名義促異云然一者一念&unrec;知之然〃上為此三名三義〃即論也弗〃曾已一&unrec;
+<lb ed="D" n="0002a10"/>故三義但異〃然而究之未〃曾〃異〃故雖三而恒一可謂一非一故一三故三正一三一之三故一豈容異三之故三豈容異一是故不可聞三便謂天性楚熱聞一便渾然不
+<lb ed="D" n="0002a11"/>可分然如此之釋卷是雜心舊解愚意謂&CB30487;論主之意何以知意然法&unrec;中云能緣法故為識種&unrec;能緣是心義分別是識義者豈可心義禪識義也而論主以能緣
+<lb ed="D" n="0002a12"/>法名語者當知心識然義則不異但名中為異故能緣是意矣內云入中云意入者心是捨心是為意入&CB30478;不異上釋可&unrec;矣如此例多當&unrec;論意云然一者一能緣然名為
+<lb ed="D" n="0002a13"/>三如眼目二名自揚欲矽異見先畣三名以&CB04414;實者&unrec;明&CB07099;別然心數&CB30478;欲使意与識同&CB07099;下四門同類尒問曰若能緣然一名&unrec;三者識陰可約名意心陰也十二入中
+<lb ed="D" n="0002a14"/>可約名心識入也荅曰既然一名為三&CB08468;〃身舉身如解意入者心是&CB08468;非識入也大既如是豈可盛&CB21985;問曰若名果而然一者何故十二入中意入者心是便&CB30246;心&CB16487;更無受想行
+<pb ed="D" id="D22.8874.0003a" n="0003a"/>
+<lb ed="D" n="0003a01"/>心數在注入中五陰中識陰則不攝三陰以此義推豈不名義俱異&CB21985;答曰雖然即名異而法門不因十二入明義以情塵分法為十二入意入者心是以心是能〃緣〃然非&unrec;
+<lb ed="D" n="0003a02"/>墮五塵但身意以對法所以身心收&CB16487;五陰中&unrec;能緣然身法為淺深初淺者制議筭深制行所以識陰收法不&CB16487;身非是名義俱異而不&CB16487;也</note>。</p></div1>
+<lb ed="D" n="0003a03"/><div1 type="orig"><p id="pD22p0003a0301">若法能緣是名為心。</p></div1><div1 type="commentary"><p id="pD22p0003a0309" place="inline" rend="margin-left:1em"><note place="inline">迦旃延人以禪王主為心能緣等所能不阻名&CB10830;令論主先破此義&CB00804;心所以異&CB30487;木石者&unrec;以能緣集熟名
+<lb ed="D" n="0003a04"/>心目豈必能神王主名心也故下異人驚即約若以能緣名心者受想&CB21717;心毅&CB30478;應
+<lb ed="D" n="0003a05"/>是心俱能緣故可約尒也</note>。</p></div1><div1 type="orig"><p id="pD22p0003a0511" place="inline">荅曰受想&CB21717;皆心別名知道品。</p></div1><div1 type="commentary"><p id="pD22p0003a0523" place="inline" rend="margin-left:1em"><note place="inline">此是論主明&CB07099;別然心數之大意如道品中一念五名約
+<lb ed="D" n="0003a06"/>&CB15137;深淺〃名念乃至深名念然覺支今心&CB30478;尒問境淺名心小深名想受深境深名貪一慧緣四境名四知直以境異故智異心&CB30478;為此義一&CB30070;種〃名者此以所
+<lb ed="D" n="0003a07"/>除制名念&CB30478;尒陰一境攀一境受名初生名心後者名&CB18798;</note>。</p></div1>
+<lb ed="D" n="0003a08"/><div1 type="orig"><p id="pD22p0003a0801">汝以若名字破心&CB10830;我&CB30478;以名字破心。</p></div1><div1 type="commentary"><p id="pD22p0003a0816" place="inline" rend="margin-left:1em"><note place="inline">論主前章以能緣名心〃差別名心&CB10830;&CB07099;別然心&CB10830;外眾舉此言汝若以
+<lb ed="D" n="0003a09"/>&CB30440;緣名字破我心&CB10830;者我&CB30478;當以&CB30440;緣名字名心&CB10830;都蕪心破心然既&CB07099;不約
+<lb ed="D" n="0003a10"/>言都是能緣名心〃差別名&CB10830;也</note>。</p></div1><div1 type="orig"><p id="pD22p0003a1014" place="inline">&CB07099;相應品。</p></div1><div1 type="commentary"><p id="pD22p0003a1018" place="inline" rend="margin-left:1em"><note place="inline">此品凡四門明&CB07099;異人一時中各為別然相應初明因果法尒不問俱乃下以六識&CB00804;之若六識
+<lb ed="D" n="0003a11"/>不約俱生卄一法&CB21717;是心法&CB30478;不約俱生弟二&CB30130;眼見色已不身相次弟法尒下以必生意識&CB00804;之若五識中已入想爭等分別者何&CB00824;生意識也必&CB00824;生
+<lb ed="D" n="0003a12"/>意者故&unrec;五識時&CB07099;想受&CB21717;也弟三明應細相違下以苦樂貪恚&CB00804;之弟四始七菩提分意品引佛經證次弟不俱生經言相應者四心次弟生用
+<lb ed="D" n="0003a13"/>辨一事名為相應耳</note>。</p></div1><div1 type="orig"><p id="pD22p0003a1309" place="inline">見是見等者。</p></div1><div1 type="commentary"><p id="pD22p0003a1314" place="inline" rend="margin-left:1em"><note place="inline">&CB04891;五識心現法名見〃中&CB07099;&CB10830;故云見是見&CB21717;&unrec;&CB07099;想受別心&CB10830;也</note>。</p></div1><div1 type="orig"><p id="pD22p0003a1340" place="inline">汝言煩惱染
+<lb ed="D" n="0003a14"/>心故&unrec;相應&CB07099;有此理。</p></div1><div1 type="commentary"><p id="pD22p0003a1410" place="inline" rend="margin-left:1em"><note place="inline">舉上異人第八證為別然一時相應勾非之外道計神王主性自淨以与貪使俱生故貪染此淨心若不
+<lb ed="D" n="0003a15"/>俱生前心自滅煩惱自生初不相及云何言深論主今破此言&CB07099;為此理者一心一次弟緣云並生為深&CB07099;此理也&CB30478;為為之法生時即滅言先性淨貪求染汙便
+<lb ed="D" n="0003a16"/>為一法可染是當常害法相也計性淨貪求染不異上十論中可借被破〃此
+<pb ed="D" id="D22.8874.0004a" n="0004a"/>
+<lb ed="D" n="0004a01"/>故所以云彼應荅此也</note>。</p></div1><div1 type="orig"><p id="pD22p0004a0110" place="inline">若心本性汙貪恚何為。</p></div1><div1 type="commentary"><p id="pD22p0004a0119" place="inline" rend="margin-left:1em"><note place="inline">&unrec;&unrec;情也既云淨不可尒便謂性汙者不尒也若性入是汙者貪恚&CB07099;&CB01196;故
+<lb ed="D" n="0004a02"/>云何為也</note>。</p></div1><div1 type="orig"><p id="pD22p0004a0205" place="inline">汝言心垢故眾生垢。</p></div1><div1 type="commentary"><p id="pD22p0004a0213" place="inline" rend="margin-left:1em"><note place="inline">此論主&CB00804;一時相應眾義汝煩惱汙心便計俱生而生染者如經中說心垢故眾生垢
+<lb ed="D" n="0004a03"/>然眾生&CB30478;可以相應善眾生不可相應者煩惱心垢&CB30478;不約一時相應也</note>。</p></div1>
+<lb ed="D" n="0004a04"/><div1 type="orig"><p id="pD22p0004a0401">汙相續故說名染心。</p></div1><div1 type="commentary"><p id="pD22p0004a0409" place="inline" rend="margin-left:1em"><note place="inline">法實生滅道分前&unrec;心自滅後貪心曰〃生〃答此非染也而佛無貪染淨心者直此相似
+<lb ed="D" n="0004a05"/>續種類不〃歎〃可約&unrec;一二故無本淨心&CB30848;〃今〃不〃淨〃故無汙行相續&unrec;染心身非謂一時俱生為染也既相然續中入染解救心&CB30244;上&CB30478;尒從之可
+<lb ed="D" n="0004a06"/>故矣</note>。</p></div1><div1 type="orig"><p id="pD22p0004a0603" place="inline">多心品。</p></div1><div1 type="commentary"><p id="pD22p0004a0606" place="inline" rend="margin-left:1em"><note place="inline">異人計心當一&CB18919;生故多眼識不滅至身中以眼身六根故&CB08468;〃何名&CB18919;生多生實當一下以長夜猶心死&unrec;上生為證此人所
+<lb ed="D" n="0004a07"/>&CB18919;當見故論主破之破一故云&unrec;&CB30478;相續中可然又次弟緣一心何嫌也</note>。</p></div1><div1 type="orig"><p id="pD22p0004a0729" place="inline">法相在心力能了知不以住
+<lb ed="D" n="0004a08"/>故。</p></div1><div1 type="commentary"><p id="pD22p0004a0802" place="inline" rend="margin-left:1em"><note place="inline">異人計之情耳塵要&CB00824;蹔住約境已議若恚忿〃中滅老云何境如人彎弓射鹿時要住&unrec;&unrec;&unrec;部中莫如&unrec;&unrec;今論主確立
+<lb ed="D" n="0004a09"/>&unrec;所為&unrec;四百生滅一了然相也在心&unrec;然在六識後生故無在心也力能了&unrec;也六想為識所資故了境非蹔住故約了也阡陌如&unrec;若就一念以生滅各反四
+<lb ed="D" n="0004a10"/>&unrec;生滅&CB30478;尒境&CB30478;是如初識初託境主乃至後識託後境生〃時即了識何能滅了境〃与心細分則&CB07099;名既不能了境不約名識境不曰識所了不約名
+<lb ed="D" n="0004a11"/>色故百論云法法自塵&CB07099;&CB08468;以實分時則&CB07099;罔矣非初不離初非後不離後四勾求法都&CB07099;了&CB01196;是明誰〃而了者四百生滅者初者難滅實相資導所
+<lb ed="D" n="0004a12"/>〃傳授同一種類非後想故都名一〃念〃者一了之異名勾以假辨識四百生滅都為了法之&CB01196;矣以此義推識与色香等都是假但不以異法成識不以想
+<lb ed="D" n="0004a13"/>成色不以香成所以&CB30487;因成假名實法即受門&CB30478;為六識所資但說無者略可
+<lb ed="D" n="0004a14"/>識託觀根塵生故無所假待矣</note>。</p></div1><div1 type="orig"><p id="pD22p0004a1413" place="inline">想陰品。</p></div1><div1 type="commentary"><p id="pD22p0004a1416" place="inline" rend="margin-left:1em"><note place="inline">前色多種釋者色是識害識是眾或也本所以多名分別然&CB30478;是眾或之本所以一品者
+<lb ed="D" n="0004a15"/>若&CB30487;相&unrec;見相&unrec;乃至俱生不俱生如上識陰入別若&CB30487;相生惑之心&unrec;受門論釋是故但一品也次識生&unrec;故次明之也</note>。</p></div1><div1 type="orig"><p id="pD22p0004a1548" place="inline">身假法
+<pb ed="D" id="D22.8874.0005a" n="0005a"/>
+<lb ed="D" n="0005a01"/>相故名為想。</p></div1><div1 type="commentary"><p id="pD22p0005a0106" place="inline" rend="margin-left:1em"><note place="inline">&CB04990;無所以能緣不約法實名想〃門中明一切心行境&CB07099;非是想是故論主&CB30589;無身〃假〃法〃名〃然〃者不無然稱徹解
+<lb ed="D" n="0005a02"/>万法&CB07099;非假名中道不一不異橫執一異多少為定實名然故下&CB11180;云實&CB07099;多少萬法等法&unrec;人少&unrec;&unrec;&unrec;八勝&CB08468;觀入人多&unrec;是十一切入觀人&CB07099;量&unrec;
+<lb ed="D" n="0005a03"/>若四&CB07099;量心觀&CB07099;所入&unrec;四空空觀&CB07099;&unrec;〃&CB30487;者四倒重或也此等&unrec;&CB08891;皆行險所攝所以乃&unrec;此中解者&unrec;門中做法時身非置位在&unrec;陰也如真
+<lb ed="D" n="0005a04"/>諦中說&CB07099;記以業義同故及之不成同業感果</note>。</p></div1><div1 type="orig"><p id="pD22p0005a0419" place="inline">又以想三種差別身緣。</p></div1><div1 type="commentary"><p id="pD22p0005a0428" place="inline" rend="margin-left:1em"><note place="inline">此如置&unrec;陰位〃在過&CB20012;想〃後生三受〃生三毒錄
+<lb ed="D" n="0005a05"/>在想陰上&unrec;&CB08891;等在行陰也</note>。</p></div1><div1 type="orig"><p id="pD22p0005a0512" place="inline">問曰身假法焉想是事不然者。</p></div1><div1 type="commentary"><p id="pD22p0005a0524" place="inline" rend="margin-left:1em"><note place="inline">&unrec;上起是過患之云此想能&CB07589;三界煩惱了生&CB07589;
+<lb ed="D" n="0005a06"/>過之本云何&unrec;想為過下別經證想非過也</note>。</p></div1><div1 type="orig"><p id="pD22p0005a0618" place="inline">荅曰此實是兼以想名說者。</p></div1><div1 type="commentary"><p id="pD22p0005a0629" place="inline" rend="margin-left:1em"><note place="inline">荅引經為證夫&CB07589;結之道實
+<lb ed="D" n="0005a07"/>汝兼之以約理受名故身然以身法受備&CB30487;&CB07589;結道也而經四所以云然&CB07589;結者以&CB07099;當&CB07589;是兼之初問初以&CB07099;當&unrec;剖法使空〃&CB07589;是兼故以&CB07099;&unrec;&unrec;說耳以此業
+<lb ed="D" n="0005a08"/>推&unrec;&unrec;為過也問曰汝無想身假法然以何為相者上一科明想然此第二科
+<lb ed="D" n="0005a09"/>明無所緣相下明一切都是相能緣者已想&CB30478;還&unrec;&unrec;位也</note>。</p></div1><div1 type="orig"><p id="pD22p0005a0924" place="inline">一過去。</p></div1><div1 type="commentary"><p id="pD22p0005a0927" place="inline" rend="margin-left:1em"><note place="inline">此是異人所行禪此五法是相緣此者是想言過去已滅非色無色言假
+<lb ed="D" n="0005a10"/>呈現對等約&CB01002;名色心法万&CB30478;尒二老未來事同過去三者名字如&CB16487;必&CB16487;人等是假〃現&unrec;約名因者相生相生色生〃假生相約生名滅住異&CB30478;尒&unrec;者人〃者
+<lb ed="D" n="0005a11"/>我&unrec;&unrec;經三也&CB30848;因受果之稱今與五陰依此我約人名〃假論主先破弟五次破弟四餘三可盡類破無人是假者乃以因五陰成故名假非因實人約
+<lb ed="D" n="0005a12"/>名三也相&CB07099;成因故者生相&CB30487;色&CB07099;成因&CB30478;假非矣</note>。</p></div1>
+<lb ed="D" n="0005a13"/><div1 type="orig"><p id="pD22p0005a1301">問曰相義云何。</p></div1><div1 type="commentary"><p id="pD22p0005a1307" place="inline" rend="margin-left:1em"><note place="inline">上論主既破異人相為非便兼為&unrec;義相故令假&CB30848;回也</note>。</p></div1><div1 type="orig"><p id="pD22p0005a1329" place="inline">荅曰緣即是相者。</p></div1><div1 type="commentary"><p id="pD22p0005a1336" place="inline" rend="margin-left:1em"><note place="inline">論主明一切
+<lb ed="D" n="0005a14"/>都是相乃至&CB07099;生中&unrec;理&CB30478;是相能緣相者便是相&CB30478;想問說法下還罝想位在&CB05663;二心生受〃生煩惱者</note>。</p></div1>
+<lb ed="D" n="0005a15"/><div1 type="orig"><p id="pD22p0005a1501">受論中受相品。</p></div1><div1 type="commentary"><p id="pD22p0005a1507" place="inline" rend="margin-left:1em"><note place="inline">論受凡乃六品故曰受論中者受相品是六中之一曰中又受相者此一品明苦受是實樂受不苦不樂受是&unrec;三界&unrec;苦因
+<lb ed="D" n="0005a16"/>云何&CB00332;尒時&unrec;為一苦受後為物情關三受乃至百人八難後不同然世俗名相
+<pb ed="D" id="D22.8874.0006a" n="0006a"/>
+<lb ed="D" n="0006a01"/>&CB30487;&CB11180;苦中名樂捨受&CB30478;尒此二是&unrec;名貴品論此義也</note>。</p></div1><div1 type="orig"><p id="pD22p0006a0122" place="inline">若增身心是名為樂者。</p></div1><div1 type="commentary"><p id="pD22p0006a0131" place="inline" rend="margin-left:1em"><note place="inline">身者五識心者&unrec;&CB00278;三界&CB30130;道悅境中生
+<lb ed="D" n="0006a02"/>心便止並而不&CB02167;都名樂苦受念受尒受名&CB30487;&CB02167;一切都是受問說受非罝受陰位也</note>。</p></div1>
+<lb ed="D" n="0006a03"/><div1 type="orig"><p id="pD22p0006a0301">故知樂受&CB30478;&CB07099;。</p></div1><div1 type="commentary"><p id="pD22p0006a0307" place="inline" rend="margin-left:1em"><note place="inline">將欲明樂受是偽名心苦故名樂然若過增復為人患苦矣何樂之有&CB21985;</note>。</p></div1>
+<lb ed="D" n="0006a04"/><div1 type="orig"><p id="pD22p0006a0401">荅世俗名相故有樂。</p></div1><div1 type="commentary"><p id="pD22p0006a0409" place="inline" rend="margin-left:1em"><note place="inline">心寒苦故名樂實則是苦〃是實樂&unrec;捨是偽名顯然也</note>。</p></div1><div1 type="orig"><p id="pD22p0006a0431" place="inline">若實&CB07099;樂何得
+<lb ed="D" n="0006a05"/>說三。</p></div1><div1 type="commentary"><p id="pD22p0006a0503" place="inline" rend="margin-left:1em"><note place="inline">此下第二假作異人執佛諸別七勾說三受是實夫約法相理窮名佛〃說&unrec;三受說苦受樂說樂受何為不約異苦是為樂受苦受名是一實
+<lb ed="D" n="0006a06"/>若實&CB07099;樂佛何以說三也</note>。</p></div1><div1 type="orig"><p id="pD22p0006a0611" place="inline">荅曰若實有樂受應說其相。</p></div1><div1 type="commentary"><p id="pD22p0006a0622" place="inline" rend="margin-left:1em"><note place="inline">此下弟三非是所證&CB01628;荅若異苦別有樂應說真
+<lb ed="D" n="0006a07"/>相〃不可說當知&CB30487;&CB11180;〃苦〃中〃名〃樂〃佛說為樂受經&CB07099;所&unrec;也所以一切&unrec;切都樂&CB30487;&CB11180;樂中生苦以&CB00804;一切都苦&CB11180;苦中生樂亮公&CB00562;<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>委釋生不&CB11040;記之</note>。</p></div1>
+<lb ed="D" n="0006a08"/><div1 type="orig"><p id="pD22p0006a0801">行苦行。</p></div1><div1 type="commentary"><p id="pD22p0006a0804" place="inline" rend="margin-left:1em"><note place="inline">夫心行緣為境所轉念〃動求莫非是苦但聖人方便引吸開三受門刀扙傷&CB10329;生心名苦受也&CB30487;&CB11180;苦中可淂名約名悅
+<lb ed="D" n="0006a09"/>〃中生心名為樂受非適非不適中生心為不苦不樂受矣&unrec;相凡夫&CB30487;此三生&CB00473;既無樂受觀出&unrec;無便云此樂異苦為之是故如來以五苦門點壞三受一切
+<lb ed="D" n="0006a10"/>悉苦矣何者前之苦受苦中之左重故与苦名〃苦〃也&unrec;之樂受生住是樂滅壞則生人苦名&unrec;樂受為壞〃苦〃者是因中說果猶如擲&CB00100;難未至也已名
+<lb ed="D" n="0006a11"/>破也經中說當觀樂受為壞苦者也大意政遣&CB04990;夫計樂之情矣非適非不適心是捨受此是生滅動求是行〃境故苦行苦也三苦既立一切心行莫不苦矣
+<lb ed="D" n="0006a12"/>&CB15365;曰如上探苦受等三是聖人引&unrec;之&CB07247;而&CB04990;夫便著三受空粗故復以三苦壞前三受苦受是苦中之重名苦〃等一受一苦而泥洹經則不然苦受具三苦餘二受為
+<lb ed="D" n="0006a13"/>各&unrec;二苦者何也荅曰聖人制教不同若直以三苦壞凡夫死者三受也苦各拾對一受〃既分眾生&CB01002;執幹重不同故&CB30478;異泥洹經所明苦受&unrec;三苦者是錄
+<lb ed="D" n="0006a14"/>是性今當&CB30130;苦緣遍已四&unrec;生受一受義為三苦矣何者苦受生苦中之&unrec;重名苦〃此苦受生為壞並乎等是樂受具必為難散壞緣名壞苦此苦有
+<lb ed="D" n="0006a15"/>行緣則苦名行苦三苦備矣餘二受二苦者此二受既是眾生勝果報所以同&CB07099;苦
+<pb ed="D" id="D22.8874.0007a" n="0007a"/>
+<lb ed="D" n="0007a01"/>〃也樂受必壞名壞苦&unrec;行緣必&unrec;動求之勞名行苦捨受乃至非想&CB30478;備二推上可&unrec;&unrec;曰經中說&CB04990;夫領&CB30487;樂緣名樂受尒時無苦所以名樂受為壞苦
+<lb ed="D" n="0007a02"/>者樂受緣是因中語果名樂受此樂散則苦〃&CB30130;壞緣中生壞名苦取仁者乃名樂受為心壞苦豈不謬&CB21972;荅曰天&unrec;經分&unrec;當求經之大&unrec;不&unrec;著名
+<lb ed="D" n="0007a03"/>隨相為永謬之談也心者如仁者之意&CB30130;刀杖苦緣生苦心名苦〃&CB30130;散壞生苦心名壞苦如此類&CB11180;心說一苦但分一苦受為三苦樂受捨受初不苦矣經中又說
+<lb ed="D" n="0007a04"/>緣不定受定&unrec;受辨苦豈可約&CB07099;失樂緣則生人苦名樂勝名壞苦矣進退無據寧可約二受無苦&CB21972;今請正宗論之凡欲立三苦先定三受相何者苦受者三
+<lb ed="D" n="0007a05"/>界中約適中生心樂受者三界適中生心也非適不中生心名捨受以此義推苦受壞時樂是三受中樂〃受〃壞時苦是三受中苦受以三苦受門也名向者樂受壞苦〃受
+<lb ed="D" n="0007a06"/>苦中之尤重苦〃矣云何乃名苦〃&unrec;壞苦&CB21972;但是苦受生不同自乃&CB30130;苦緣中生自乃&CB30130;樂受壞後生或&CB30130;捨受後生&unrec;苦〃矣此凡夫所&unrec;&unrec;凡夫領緣之樂聖
+<lb ed="D" n="0007a07"/>人觀以為苦可謂樂受為壞苦捨受行緣名行苦此三受既別三苦&CB30478;異豈不妙&CB21972;人一解三受三苦佛&unrec;出世唯說三&CB30847;皆苦一苦受也而&CB00320;生迷惑與情無地
+<lb ed="D" n="0007a08"/>十&unrec;&CB30478;苦受者何在也是故聖人開三受門語其異海也凡不尚能&CB02167;滅身心者迷名苦增益身心適境中生心者名樂受非適不適生心者名不苦不樂受
+<lb ed="D" n="0007a09"/>上佛既開&unrec;&unrec;&CB11180;苦中為樂或有便謂異苦為樂是以故佛以三苦門壞前苦受也今分苦約三刀杖傷害生人苦故名苦因此生苦心是即則苦&CB30130;苦生名苦〃矣
+<lb ed="D" n="0007a10"/>衣服七&CB07190;等生人樂名樂此&CB21717;教壞生人苦心苦&CB30130;壞生名壞苦焉&CB30130;&CB07099;苦色樂色是色壞時生大憂苦餘險&CB30478;尒是明證也約空&CB07099;我理出觀見乃為起
+<lb ed="D" n="0007a11"/>〃動〃之心是行&CB30130;行生苦名苦行矣&CB04990;夫雖為此苦不覺&CB30130;聖人制名焉是則三苦〃然色&CB21717;是具必也前境同是苦〃緣〃不同當時
+<lb ed="D" n="0007a12"/>逼惱是苦〃緣散壞是壞苦緣生滅&CB18783;動是行苦散矣</note>。</p></div1>
+<lb ed="D" n="0007a13"/><div1 type="orig"><p id="pD22p0007a1301">辨三受品。</p></div1><div1 type="commentary"><p id="pD22p0007a1305" place="inline" rend="margin-left:1em"><note place="inline">上已解三受三苦但受相未分明可解故後以五科明三受義故名辨三受品第一明為三受弟二明三〃受攝一切心弟三明&CB07099;漏受
+<lb ed="D" n="0007a14"/>&CB30478;苦弟四置受陰位弟五為是人論義明三受生煩惱所以&CB18232;有三受者以人計但為
+<pb ed="D" id="D22.8874.0008a" n="0008a"/>
+<lb ed="D" n="0008a01"/>有苦樂可覺捨受天人能覺故&CB07099;如優陀夷為五山王說三受波斯匿王但無有二
+<lb ed="D" n="0008a02"/>〃人俱共論佛耳判佛廣釋為三之比品初由&unrec;為生乃三受耳</note>。</p></div1><div1 type="orig"><p id="pD22p0008a0226" place="inline">問曰若以觸&CB21717;因故有三受者一切
+<lb ed="D" n="0008a03"/>心行皆名為受。</p></div1><div1 type="commentary"><p id="pD22p0008a0307" place="inline" rend="margin-left:1em"><note place="inline">此下&CB05663;二名受攝一切心所以尒者以迦旃延人計受是十大地中一&unrec;法分明領受境名受者一切心行境莫非是受下以十
+<lb ed="D" n="0008a04"/>十八意行為證意行不出十八明攝心&CB16487;樂分者三受通六識&unrec;樂為喜下二&CB30478;尒也</note>。</p></div1><div1 type="orig"><p id="pD22p0008a0434" place="inline">故知緣及諸相但能生苦
+<lb ed="D" n="0008a05"/>者。</p></div1><div1 type="commentary"><p id="pD22p0008a0502" place="inline" rend="margin-left:1em"><note place="inline">既明三受攝一切心將&unrec;欲以三苦收三受故先明十四種色是質&CB01002;法計豈可以苦樂語舌性也所以名苦者塵是緣具根是依具名苦耳下三以明苦也</note>。</p></div1><div1 type="orig"><p id="pD22p0008a0562" place="inline">問曰無漏諸受&CB30478;是苦也。</p></div1>
+<lb ed="D" n="0008a06"/><div1 type="commentary"><p id="pD22p0008a0601" rend="margin-left:1em"><note place="inline">&unrec;三明&CB07099;&unrec;&CB30478;苦所以明者以迦旃延&CB07099;渴難才苦復名〃道今明三受所攝焉約非苦</note>。</p></div1><div1 type="orig"><p id="pD22p0008a0635" place="inline">云何別有諸
+<lb ed="D" n="0008a07"/>心&CB21717;法。</p></div1><div1 type="commentary"><p id="pD22p0008a0704" place="inline" rend="margin-left:1em"><note place="inline">此下弟四始直受陰住〃在弟三心也</note>。</p></div1><div1 type="orig"><p id="pD22p0008a0719" place="inline">荅曰即是一受緣中行異故有差別。</p></div1>
+<lb ed="D" n="0008a08"/><div1 type="commentary"><p id="pD22p0008a0801" rend="margin-left:1em"><note place="inline">即是一受者受名受緣&CB30487;一切心行境悉受矣而所以為四陰別識以初約境分別為名相&CB30478;假名二是識受&CB30478;始約好惡&CB30478;識他貪瞋&CB30478;尒前二心所未約好惡
+<lb ed="D" n="0008a09"/>之深今始約&CB30478;是識皆為初&CB05136;但置識陰位初約壞故餘三設名不說想以能緣不約法實名想以此推之四心悉是耶緣都是想但置想陰初約假名執
+<lb ed="D" n="0008a10"/>捉名想餘無不說受名&CB30487;緣四心悉受置受陰在弟三心始受好&CB08891;餘三不說貪瞋是業〃是思〃造作未來生死名行五受陰悉是行&CB05136;但弟四心&CB22050;生死
+<lb ed="D" n="0008a11"/>彊名行陰前三心名&CB07099;記可謂緣中行異故有四陰別也此之一&unrec;禪四陰以同實而相避迴制四名也</note>。</p></div1><div1 type="orig"><p id="pD22p0008a1141" place="inline">諸心&CB21717;法至此&CB21717;如
+<lb ed="D" n="0008a12"/>先說。</p></div1><div1 type="commentary"><p id="pD22p0008a1203" place="inline" rend="margin-left:1em"><note place="inline">此一解直四境矣故四陰約異也</note>。</p></div1><div1 type="orig"><p id="pD22p0008a1216" place="inline">是一切法在身中時。</p></div1><div1 type="commentary"><p id="pD22p0008a1224" place="inline" rend="margin-left:1em"><note place="inline">人解四陰所以約異每因約境有淺深利益人乃差別淺
+<lb ed="D" n="0008a13"/>者名識乃至深者名行也</note>。</p></div1><div1 type="orig"><p id="pD22p0008a1311" place="inline">又多以心&CB30440;起煩惱。</p></div1><div1 type="commentary"><p id="pD22p0008a1319" place="inline" rend="margin-left:1em"><note place="inline">人解三受品&CB30440;生三煩惱名受陰前三受攝一切心是佛受門中說法時非受陰者</note>。</p></div1>
+<pb ed="D" id="D22.8874.0009a" n="0009a"/>
+<lb ed="D" n="0009a01"/><div1 type="orig"><p id="pD22p0009a0101">何故宣說樂中貪使。</p></div1><div1 type="commentary"><p id="pD22p0009a0109" place="inline" rend="margin-left:1em"><note place="inline">迦旃延人計一〃受三使〃以雖論主樂受起時貪与&CB07099;明俱生&CB30848;想應使〃瞋&CB30848;緣使〃緣使難多且對三為三樂
+<lb ed="D" n="0009a02"/>受為三使〃何以宣說一受中一使〃也樂既三苦受&CB30478;三推之可知</note>。</p></div1><div1 type="orig"><p id="pD22p0009a0228" place="inline">荅曰苦受不應貪。</p></div1><div1 type="commentary"><p id="pD22p0009a0235" place="inline" rend="margin-left:1em"><note place="inline">荅曰迦旃延人也汝貪云明緣苦受苦以逼惱為然
+<lb ed="D" n="0009a03"/>云何&CB30487;中生貪樂受以悅適為壞何約而瞋〃使不約緣使樂受貪不約緣使苦受云何
+<lb ed="D" n="0009a04"/>約一〃受三使〃也</note>。</p></div1><div1 type="orig"><p id="pD22p0009a0409" place="inline">癡一切&CB08468;使。</p></div1><div1 type="commentary"><p id="pD22p0009a0414" place="inline" rend="margin-left:1em"><note place="inline">&CB10881;舌&CB07099;明使三受雖尒意異彼人三使〃三受論主受生三使〃人貪是&CB11180;苦橫生樂是&CB07099;明&CB30848;行招苦果說苦生
+<lb ed="D" n="0009a05"/>瞋是&CB07099;明不苦不樂受實是勳求是苦不知是苦&CB30478;&CB07099;明之&CB01196;三受生&CB07099;明使〃人可有此理也</note>。</p></div1>
+<lb ed="D" n="0009a06"/><div1 type="orig"><p id="pD22p0009a0601">問曰但&CB30487;苦樂中生癡。</p></div1><div1 type="commentary"><p id="pD22p0009a0610" place="inline" rend="margin-left:1em"><note place="inline">異人欲使但苦樂二受中生&CB07099;明所以尒者實是&CB11180;苦橫生樂心&CB30848;行感苦果而生瞋&CB30478;&CB07099;明&CB30487;受中不應&CB07099;明使以&unrec;
+<lb ed="D" n="0009a07"/>聖人常行捨心是故此受不應有&CB07099;明使下引經成之&CB18777;無計受苦樂二受故無語若不
+<lb ed="D" n="0009a08"/>苦不樂一受何以無&unrec;也</note>。</p></div1><div1 type="orig"><p id="pD22p0009a0811" place="inline">荅曰此&CB18777;自說者。</p></div1><div1 type="commentary"><p id="pD22p0009a0818" place="inline" rend="margin-left:1em"><note place="inline">論主以所引反質此經中說&CB30487;不苦不樂&CB07099;明使〃心識此受計以為泥洹何等也</note>。</p></div1>
+<lb ed="D" n="0009a09"/><div1 type="orig"><p id="pD22p0009a0901">&CB30487;餘事不知者。</p></div1><div1 type="commentary"><p id="pD22p0009a0907" place="inline" rend="margin-left:1em"><note place="inline">異人不受此無何以&CB30487;餘事中不〃知〃者語受是苦樂二受餘事中使〃者乃使不苦不樂受也計&CB07099;此理也</note>。</p></div1>
+<lb ed="D" n="0009a10"/><div1 type="orig"><p id="pD22p0009a1001">是故此經原如是說。</p></div1><div1 type="commentary"><p id="pD22p0009a1009" place="inline" rend="margin-left:1em"><note place="inline">&unrec;欲使捨受乃&CB07099;明使者應治&CB18777;初治上勾熟下捨便有&CB07099;明何者是人&CB30487;不苦不樂受中不知集
+<lb ed="D" n="0009a11"/>滅故不苦不樂受中&CB07099;明使〃也此去上法字但不苦不樂順下勾</note>。</p></div1><div1 type="orig"><p id="pD22p0009a1127" place="inline">若非不苦不樂受&CB07099;明不
+<lb ed="D" n="0009a12"/>使者。</p></div1><div1 type="commentary"><p id="pD22p0009a1203" place="inline" rend="margin-left:1em"><note place="inline">此治下&unrec;上〃言是人&CB30487;此受中不知集滅故苦樂二&CB07099;明使〃二受也云&CB07099;明不使者不使捨受此治下順上使二受也</note>。</p></div1>
+<lb ed="D" n="0009a13"/><div1 type="orig"><p id="pD22p0009a1301">&CB31293;曰是人&CB30487;不苦不樂受中生三種心。</p></div1><div1 type="commentary"><p id="pD22p0009a1316" place="inline" rend="margin-left:1em"><note place="inline">此荅不&CB00824;治&CB18777;也是人&CB30487;該受中亦如實知者政&CB30487;弟四禪一捨受中不知是
+<lb ed="D" n="0009a14"/>集滅是生死過患故生三種心以為&CB30076;滅裡勝生不苦不樂心若耶知耶即生樂心若以上地空為勝則生苦心&CB18777;中云語受不如實知者&unrec;捨受下何以故釋無一切語受皆&CB07099;
+<lb ed="D" n="0009a15"/>明使是少分一切非通三界一切隨時故為三種異者弟四禪一地&CB18919;人情為三如上是故佛說無政法&CB30487;不苦不樂受何&CB00824;云〃治&CB18777;人一解&CB30487;語受中不如實知故
+<pb ed="D" id="D22.8874.0010a" n="0010a"/>
+<lb ed="D" n="0010a01"/>不苦不樂受&CB07099;明使者如&CB30487;弟四禪地中生耶心故以為樂&CB30487;上地腹味則生苦心即
+<lb ed="D" n="0010a02"/>&CB30487;一捨受生二〃心〃同&CB30487;一境故約無&CB30487;苦樂語受不知捨受中&CB07099;明使〃後何&CB00824;治&CB18777;也</note>。</p></div1><div1 type="orig"><p id="pD22p0010a0237" place="inline">人若未通達苦集&CB21717;。</p></div1><div1 type="commentary"><p id="pD22p0010a0245" place="inline" rend="margin-left:1em"><note place="inline">此下一解通三&CB30847;三受
+<lb ed="D" n="0010a03"/>所以生煩惱者皆以未窮達四諦悉為&CB07099;明使已所以&CB00642;語不苦不樂者&CB30130;爭為
+<lb ed="D" n="0010a04"/>論&unrec;何治&CB18777;也</note>。</p></div1><div1 type="orig"><p id="pD22p0010a0407" place="inline">現在世受不約自知。</p></div1><div1 type="commentary"><p id="pD22p0010a0415" place="inline" rend="margin-left:1em"><note place="inline">假作異人曰&CB18777;中受義執貪曰也過去未來二世受是&CB07099;不可約&unrec;知現在世受如捨端不
+<lb ed="D" n="0010a05"/>身觸受不自知受云何言如實知也</note>。</p></div1><div1 type="orig"><p id="pD22p0010a0515" place="inline">荅曰此&CB18777;意說人受是故&CB07099;過。</p></div1><div1 type="commentary"><p id="pD22p0010a0527" place="inline" rend="margin-left:1em"><note place="inline">此下&CB04990;四種荅也此初六識是樂六識是
+<lb ed="D" n="0010a06"/>苦六識是苦不不樂雖用樂&CB30848;人名樂用苦作人名人苦不人義異苦約言人如實受苦是故此&CB18777;意人受苦樂&CB07099;過者&CB07099;過去來不可約知過&CB07099;現在世受自&unrec;&unrec;矣</note>。</p></div1>
+<lb ed="D" n="0010a07"/><div1 type="orig"><p id="pD22p0010a0701">以意&CB30440;緣故&CB30478;&CB07099;各。</p></div1><div1 type="commentary"><p id="pD22p0010a0709" place="inline" rend="margin-left:1em"><note place="inline">弟二五識是苦樂以意識領受&CB30478;同&CB07099;上二種過也</note>。</p></div1><div1 type="orig"><p id="pD22p0010a0729" place="inline">世&CB30847;&CB30478;有因中說果故。</p></div1>
+<lb ed="D" n="0010a08"/><div1 type="commentary"><p id="pD22p0010a0801" rend="margin-left:1em"><note place="inline">第三以五識塵是苦因樂因〃中說果&unrec;名塵為苦樂五識&unrec;苦樂此約無如實受此苦樂&CB30478;同&CB07099;上二種過也</note>。</p></div1><div1 type="orig"><p id="pD22p0010a0844" place="inline">又是人先受樂受
+<lb ed="D" n="0010a09"/>然後身相。</p></div1><div1 type="commentary"><p id="pD22p0010a0905" place="inline" rend="margin-left:1em"><note place="inline">第四意識是樂該意識還身相領受故問無受樂時如實知&CB30478;同&CB07099;上二過也</note>。</p></div1><div1 type="orig"><p id="pD22p0010a0935" place="inline">問曰為以受者
+<lb ed="D" n="0010a10"/>故名受可受故名受。</p></div1><div1 type="commentary"><p id="pD22p0010a1009" place="inline" rend="margin-left:1em"><note place="inline">此荅不異上四種所以開前問者上未分明制受名義將釋故問自知以火為身識&CB30130;火生樂名受樂者&unrec;
+<lb ed="D" n="0010a11"/>以此受者名受則受与樂&CB21717;果不約言苦受樂受与&CB18777;相違若以此身識非受
+<lb ed="D" n="0010a12"/>者以可受名受持則誰受之者名可受為受也</note>。</p></div1><div1 type="orig"><p id="pD22p0010a1219" place="inline">以覺緣故名為受樂。</p></div1><div1 type="commentary"><p id="pD22p0010a1227" place="inline" rend="margin-left:1em"><note place="inline">此以上弟三荅也火為苦樂身識為受者此荅初勾雖荅以受者名
+<lb ed="D" n="0010a13"/>受而与可樂&CB21717;不異以識受苦名苦受何以異也</note>。</p></div1>
+<lb ed="D" n="0010a14"/><div1 type="orig"><p id="pD22p0010a1401">人眾生受此故名可受為受。</p></div1><div1 type="commentary"><p id="pD22p0010a1412" place="inline" rend="margin-left:1em"><note place="inline">此以上四種荅中弟一人受故&CB07099;過荅此弟二問也六識是苦是樂為行人所受故可受
+<lb ed="D" n="0010a15"/>名受不約無誰受之者便&CB07099;受者之過矣</note>。</p></div1><div1 type="orig"><p id="pD22p0010a1517" place="inline">問曰眾生不名為受。</p></div1><div1 type="commentary"><p id="pD22p0010a1525" place="inline" rend="margin-left:1em"><note place="inline">真實問也</note>。</p></div1><div1 type="orig"><p id="pD22p0010a1529" place="inline">荅曰名義如
+<lb ed="D" n="0010a16"/>是者。</p></div1><div1 type="commentary"><p id="pD22p0010a1603" place="inline" rend="margin-left:1em"><note place="inline">制受名義如是也六識是苦行人受此苦名苦受也雖是心法是實約名要相因假也</note>。</p></div1><div1 type="orig"><p id="pD22p0010a1636" place="inline">五受相品。</p></div1><div1 type="commentary"><p id="pD22p0010a1640" place="inline" rend="margin-left:1em"><note place="inline">此&unrec;受論
+<lb ed="D" n="0010a17"/>中明義身不釋受〃陰〃是&CB05663;三心苦樂在五識可&unrec;非也&CB04990;云受者領受&CB30487;緣
+<pb ed="D" id="D22.8874.0011a" n="0011a"/>
+<lb ed="D" n="0011a01"/>根者生後之義三界眾生為憂苦所逼故貪求喜樂便造莫大之罪&CB07099;窮之原因之即起根之義也苦樂在五識以約識淺中制名憂喜&CB30130;想分別生
+<lb ed="D" n="0011a02"/>約識深在意地論主云苦樂至弟四〃禪〃中入身故憂喜道心至非〃想之為意識故也所以尒者以阿毗曇人無八禪地永無憂苦論主無人乃至非想身耳而制
+<lb ed="D" n="0011a03"/>憂苦名&CB30478;在欲界下九次弟定云入初禪滅憂入弟二禪滅苦故可&unrec;身喜至二禪樂至弟三捨至非想&CB30478;同數&CB18777;矣云上為憂苦者為&CB11180;者身問曰五識問
+<lb ed="D" n="0011a04"/>五塵本為分〃別〃之後方&unrec;覺&CB08891;以為不通苦受也覺好以為通樂受也今五識云何以&unrec;此力制苦樂受入不同數&CB18777;異識別為苦樂受同時而&CB30478;想在五
+<lb ed="D" n="0011a05"/>識中進退無據論主制苦樂意仍在也荅曰上問受品弟三勾中立名五塵為苦樂此問中語果&CB30440;生苦樂名為苦樂五識託此五塵生領受&CB30487;苦領受&CB30487;樂
+<lb ed="D" n="0011a06"/>何為不約名此五識是受苦樂者此便是受者名受豈&CB00824;待分別方生通不通&CB30478;不同&CB18798;&CB18777;方別然&CB18798;之受与心想通也人一解五識為前意識所資雖同
+<lb ed="D" n="0011a07"/>色<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>兼約好&CB08891;&CB30487;好即生樂&CB30487;&CB08891;即生苦豈&CB00824;分別然後方生苦樂之情也問曰若五識為意識所能資故生便兼約好&CB08891;者是&unrec;五識便約&CB11180;名何以云五識
+<lb ed="D" n="0011a08"/>約實法想約&CB11180;名也荅曰五識兼約好&CB08891;故可約名苦樂受所以但無約實約實法&CB30487;色則了耳&CB11180;名不了不如&CB30487;想〃&unrec;則&unrec;故想問名五識兼約&CB11180;名下&unrec;
+<lb ed="D" n="0011a09"/>相品自顯然矣</note>。</p></div1><div1 type="orig"><p id="pD22p0011a0907" place="inline">行陰中思品。</p></div1><div1 type="commentary"><p id="pD22p0011a0912" place="inline" rend="margin-left:1em"><note place="inline">此下&CB04990;十一品論行〃陰〃以牽生死果報&unrec;義思見樂主故首明焉願求為思〃是業為
+<lb ed="D" n="0011a10"/>願求然一而異名下引八經為證下思求願俱下故&unrec;一然思是業&CB01592;果在方將願
+<lb ed="D" n="0011a11"/>求&CB30478;名果義同也</note>。</p></div1><div1 type="orig"><p id="pD22p0011a1108" place="inline">如說&CB30848;起皆依&CB30487;受。</p></div1><div1 type="commentary"><p id="pD22p0011a1116" place="inline" rend="margin-left:1em"><note place="inline">&CB30848;起是業思也無依受者受為上中下上中下者名思〃依上中下
+<lb ed="D" n="0011a12"/>有故言依受求与&CB30779;&CB30478;尒迦旃延人思&CB30779;是十大地中一報非受論主解思是受此
+<lb ed="D" n="0011a13"/>〃者瞋癡&CB30478;尒也</note>。</p></div1><div1 type="orig"><p id="pD22p0011a1308" place="inline">又&CB18777;中說我即是動&CB08468;。</p></div1><div1 type="commentary"><p id="pD22p0011a1317" place="inline" rend="margin-left:1em"><note place="inline">計我是橫〃則&CB07099;根可&CB07043;名動〃者或在色上計我或受想行識不一故名動&CB08468;
+<lb ed="D" n="0011a14"/>&CB30848;此度計是或倒故名識論既計我順我則起受〃上〃者名思〃是業〃&CB30848;起法依受
+<pb ed="D" id="D22.8874.0012a" n="0012a"/>
+<lb ed="D" n="0012a01"/>而有說法依受也&CB04990;八勾中明求思&CB30779;一然為求即思&CB30478;即&CB30779;略言文身動&CB08468;戲論依
+<lb ed="D" n="0012a02"/>受三勾相成所以并引&CB23376;</note>。</p></div1><div1 type="orig"><p id="pD22p0012a0211" place="inline">問曰汝謂求是思者此是受相非是思也。</p></div1><div1 type="commentary"><p id="pD22p0012a0227" place="inline" rend="margin-left:1em"><note place="inline">上論主明思是受中上者名業即求思
+<lb ed="D" n="0012a03"/>願皆一然而異名今異人引五&CB18777;以求是&CB08468;他思他願未詳此人因果願&CB30848;何法分&CB08468;非迦旃延人也初勾&CB04990;人何以&CB08468;〃生求以癡為本則有受生為受故是&CB08468;求&CB00473;是故
+<lb ed="D" n="0012a04"/>引&CB18777;題人所以為求即是愛也非思非願因愛故求&CB21717;者是受首九法當故受是求非
+<lb ed="D" n="0012a05"/>非思願也苦者多求苦人多受他人好果報所以為求&CB30478;非思願也</note>。</p></div1><div1 type="orig"><p id="pD22p0012a0527" place="inline">又汝謂願是是思者是&CB30478;不然。</p></div1><div1 type="commentary"><p id="pD22p0012a0539" place="inline" rend="margin-left:1em"><note place="inline">此下&CB04990;兩
+<lb ed="D" n="0012a06"/>勾異人&CB11040;以知他願先知後造業則重非願重故重也此人以此為思&CB30478;非<app><lem wit="【CBETA】" resp="CBETA.maha">迦旃</lem><rdg wit="【國圖】">旃迦</rdg></app>延人五部之中不&unrec;&unrec;耶</note>。</p></div1><div1 type="orig"><p id="pD22p0012a0642" place="inline">&CB31293;願名習。</p></div1><div1 type="commentary"><p id="pD22p0012a0646" place="inline" rend="margin-left:1em"><note place="inline">此先荅以&unrec;他
+<lb ed="D" n="0012a07"/>願〃名集〃起未&CB30460;果報非是&unrec;故欲分願名思者此願然是愛上上品故曰
+<lb ed="D" n="0012a08"/>愛分也</note>。</p></div1><div1 type="orig"><p id="pD22p0012a0804" place="inline">問曰若欲分願名思者則&CB07099;〃漏思。</p></div1><div1 type="commentary"><p id="pD22p0012a0818" place="inline" rend="margin-left:1em"><note place="inline">欲分是愛〃是惑〃中重者名思則&CB07099;漏非惑便&CB07099;思&CB23376;問以空
+<lb ed="D" n="0012a09"/>下&CB31293;&CB07099;漏&CB30478;&CB07099;知此起&CB30848;行相之思何妨為&CB07099;漏&CB07589;生死之思&CB07099;漏十業道也</note>。</p></div1>
+<lb ed="D" n="0012a10"/><div1 type="orig"><p id="pD22p0012a1001">又思為愛因。</p></div1><div1 type="commentary"><p id="pD22p0012a1006" place="inline" rend="margin-left:1em"><note place="inline">論主&CB05136;思是愛果如上外人難思是因〃&unrec;曰異界不約言欲分願為思下引&CB18777;證成若見思食過如火聚但起未&CB30460;八苦之火
+<lb ed="D" n="0012a11"/>則思食〃愛〃&CB07589;〃便三界受&CB07589;可謂因&CB07589;故果&CB07589;因自非果云何無分</note>。</p></div1><div1 type="orig"><p id="pD22p0012a1129" place="inline">又汝言思是愛因是&CB30478;不然。</p></div1>
+<lb ed="D" n="0012a12"/><div1 type="commentary"><p id="pD22p0012a1201" rend="margin-left:1em"><note place="inline">論主不〃然〃者不&unrec;然也思是業〃是受依下生中依中生上〃上品斬以為思非果如何愛果是思〃也是業〃&CB07589;故三&CB30847;&CB07099;量果報愛&CB07589;此乃果&CB07589;故因&CB07589;非
+<lb ed="D" n="0012a13"/>因&CB07589;故果&CB07589;&CB23376;治道〃為法先&CB07589;塵〃者是果果是思〃則是愛此果&CB07589;故因&CB07589;也</note>。</p></div1><div1 type="orig"><p id="pD22p0012a1333" place="inline">行&CB21717;因緣皆以是&CB31293;。</p></div1><div1 type="commentary"><p id="pD22p0012a1341" place="inline" rend="margin-left:1em"><note place="inline">方&CB31293;外人上以五
+<lb ed="D" n="0012a14"/>難論主八勾解行陰思〃求〃願〃起但之然為未&CB30460;果&CB30848;因緣故云行&CB21717;因緣無眾者八勾解不一無眾皆以是&CB31293;者皆以思是愛果&CB30478;是愛分&CB31293;之思是愛果斬上
+<lb ed="D" n="0012a15"/>品愛為思云&unrec;何以無求是愛非思求是思是願是愛通&CB31293;五&CB18777;也</note>。</p></div1><div1 type="orig"><p id="pD22p0012a1527" place="inline">是故貪為思因。</p></div1><div1 type="commentary"><p id="pD22p0012a1533" place="inline" rend="margin-left:1em"><note place="inline">此是異人更難論主若思是愛果〃則非因不
+<lb ed="D" n="0012a16"/>約無分論主貪為思因外人貪&CB30478;為思因〃語雜同&unrec;意則異論主愛為思因思猶是受之上品但斬以為思外人因入此愛生求〃是思則思果分絕不約無分下
+<pb ed="D" id="D22.8874.0013a" n="0013a"/>
+<lb ed="D" n="0013a01"/>&CB31293;顯然也</note>。</p></div1><div1 type="orig"><p id="pD22p0013a0105" place="inline">後業迴向。</p></div1><div1 type="commentary"><p id="pD22p0013a0109" place="inline" rend="margin-left:1em"><note place="inline">此更&CB31293;以&unrec;他願主先&unrec;造業〃則重便以&unrec;為思今&CB31293;先願名業〃是思是求後迴向三為身報故重非&unrec;造業故重</note>。</p></div1>
+<lb ed="D" n="0013a02"/><div1 type="orig"><p id="pD22p0013a0201">觸品。</p></div1><div1 type="commentary"><p id="pD22p0013a0203" place="inline" rend="margin-left:1em"><note place="inline">觸是六識之業如火是&CB11180;名燒是火業身別是識然&CB30487;緣中觸對義名業以此義推一切心行緣&CB07099;不為此義但&CB18777;中&CB22072;觸与受想因六識業在胎
+<lb ed="D" n="0013a03"/>曰稱餘&unrec;名也觸但義異&CB30487;識在行陰中非如餘數法也是故建&CB30494;云識在緣中名觸此一品中更為二人&CB22072;觸相不同一觸是假名如二木共合不異木三事合名觸不異
+<lb ed="D" n="0013a04"/>此三二是迦旃延人計異心別為一觸法力能和合情塵非是觸相者并非二家之所計也根緣不可合在一&CB08468;云何可住假名義既相云玄絕觸云何為力彊和合也故眾
+<lb ed="D" n="0013a05"/>所計非是觸相直是根緣相對識為觸對義義名觸也</note>。</p></div1>
+<lb ed="D" n="0013a06"/><div1 type="orig"><p id="pD22p0013a0601">觸因緣受。</p></div1><div1 type="commentary"><p id="pD22p0013a0605" place="inline" rend="margin-left:1em"><note place="inline">此下迦旃延人引五&CB18777;證異餘&unrec;有一觸法十二因緣中&CB22072;觸為因若當&unrec;義&CB07099;禮句&CB30440;為受作因耳也</note>。</p></div1><div1 type="orig"><p id="pD22p0013a0645" place="inline">&CB22072;
+<lb ed="D" n="0013a07"/>六觸眾。</p></div1><div1 type="commentary"><p id="pD22p0013a0704" place="inline" rend="margin-left:1em"><note place="inline">六〃&CB18777;者&CB08168;為比丘&CB22072;此身中但&unrec;六〃眾&CB07099;〃我〃所六內入六外六識六觸六&CB08468;此外人引此&CB18777;證&unrec;別然觸若&CB22072;六內入異外六入何以六
+<lb ed="D" n="0013a08"/>觸不約&unrec;六識也比求雜何含&CB18777;也</note>。</p></div1><div1 type="orig"><p id="pD22p0013a0815" place="inline">又&CB18777;中&CB22072;應觀&CB07099;明法觸。</p></div1><div1 type="commentary"><p id="pD22p0013a0825" place="inline" rend="margin-left:1em"><note place="inline">此&CB30847;人後別&CB18777;說部主明外色計一种我&CB08168;破外
+<lb ed="D" n="0013a09"/>色&unrec;為&CB22072;應觀此身中但為&CB07099;明觸&unrec;假而成人〃是假&CB07099;實&CB07099;明別在觸&CB22072;明成假法因則為理若當觸&CB04891;別然但當&CB22072;識受想行&unrec;滅假法因便起&unrec;&unrec;
+<lb ed="D" n="0013a10"/>六識上義&CB22072;此假觸故曰不應別&CB22072;假法而&CB08168;&CB22072;明&CB07099;明諸觸當&unrec;別為一觸說&unrec;觀矣</note>。</p></div1><div1 type="orig"><p id="pD22p0013a1035" place="inline">識生然後受想諸法
+<lb ed="D" n="0013a11"/>生。</p></div1><div1 type="commentary"><p id="pD22p0013a1102" place="inline" rend="margin-left:1em"><note place="inline">心時為因者政是六&CB22072;在為觸對&CB05136;故後受想心&CB10830;次〃而生何以不約十二因緣中觸為受因也類荅下勾引六〃&CB18777;還&CB31293;六識在緣即為六觸&unrec;不
+<pb ed="D" id="D22.8874.0014a" n="0014a"/>
+<lb ed="D" n="0014a01"/>為所以&CB21972;故曰是為義也&CB18777;違法相者即觸是心&CB18798;法然可記令眼色諸成〃分是色一色是心汝秉觸為心非違法相如何一身一次弟緣乃言不&unrec;心起卄一心故共生為一觸
+<lb ed="D" n="0014a02"/>&CB30478;違法相也</note>。</p></div1><div1 type="orig"><p id="pD22p0014a0206" place="inline">念品。</p></div1><div1 type="commentary"><p id="pD22p0014a0208" place="inline" rend="margin-left:1em"><note place="inline">&CB04990;四科明念然相二明餘緣&CB30478;&CB30440;生心〃未必&CB30130;念生三明一次弟緣四明念為耶正夫論主解義云&CB04990;夫識造緣四心&unrec;次第生無&unrec;四者
+<lb ed="D" n="0014a03"/>我塵對我容&unrec;識身分明可約&unrec;弟&unrec;四為境是速身則未審&CB30478;未必具四自為弟六意地&CB18919;緣起&CB07099;量心&unrec;&CB30478;未必具四無必具四者&CB30130;多語耳論五陰此&CB21717;心
+<lb ed="D" n="0014a04"/>&unrec;非識&CB18783;受所以類在行陰若十二入門論法唯一次弟緣識識想生〃者是意識滅者是根想滅受生類皆如此&unrec;後心數在法入中可&unrec;&CB23376;</note>。</p></div1>
+<lb ed="D" n="0014a05"/><div1 type="orig"><p id="pD22p0014a0501">喜品。</p></div1><div1 type="commentary"><p id="pD22p0014a0503" place="inline" rend="margin-left:1em"><note place="inline">喜是欲中不深所以離之&CB30130;現事所&CB00824;中生心名欲&CB30130;性生心所&CB00824;為喜猶是欲〃力所以也</note>。</p></div1><div1 type="orig"><p id="pD22p0014a0539" place="inline">信品。</p></div1><div1 type="commentary"><p id="pD22p0014a0541" place="inline" rend="margin-left:1em"><note place="inline">&CB04990;三科初明信然相&CB30130;必&CB30070;是慧相
+<lb ed="D" n="0014a06"/>是弟二&unrec;為漏信是信三種訖品明信通也</note>。</p></div1><div1 type="orig"><p id="pD22p0014a0618" place="inline">懃品。</p></div1><div1 type="commentary"><p id="pD22p0014a0620" place="inline" rend="margin-left:1em"><note place="inline">&CB30478;為三科初明然因懃為三種弟二明通行者若信不&unrec;過&CB08891;記品弟三明在&unrec;中与勝名〃精進也</note>。</p></div1>
+<lb ed="D" n="0014a07"/><div1 type="orig"><p id="pD22p0014a0701">憶品。</p></div1><div1 type="commentary"><p id="pD22p0014a0703" place="inline" rend="margin-left:1em"><note place="inline">念緣三世憶緣過去為異&CB30478;三科初明然相此憶三世緣者弟二科明四憶&CB08468;實是慧憶在始約名云何異識所更記品制憶名義弟三科也</note>。</p></div1>
+<lb ed="D" n="0014a08"/><div1 type="orig"><p id="pD22p0014a0801">念識&CB21717;諸法皆應名憶。</p></div1><div1 type="commentary"><p id="pD22p0014a0810" place="inline" rend="margin-left:1em"><note place="inline">若當&unrec;先所受名憶者唯除五識弟六意識緣他&unrec;&unrec;者今識&CB21717;者&CB05663;六意識緣先所受說法者
+<lb ed="D" n="0014a09"/>一切想受行皆緣先所受皆應名憶也云何約為想受行陰也</note>。</p></div1>
+<lb ed="D" n="0014a10"/><div1 type="orig"><p id="pD22p0014a1001">&CB31293;曰今識&CB21717;法&CB30478;&CB22072;是憶。</p></div1><div1 type="commentary"><p id="pD22p0014a1011" place="inline" rend="margin-left:1em"><note place="inline">&unrec;&CB31293;是憶然何妨為說陰&CB21717;也五識後所生想受
+<lb ed="D" n="0014a11"/>行雖不約現法次識後近生&CB30478;所約法始尒後本与想受名自為弟六意識緣過去次弟生想受煩惱者雖緣過去起四心故名弟六意識自為但生憶不
+<lb ed="D" n="0014a12"/>生想受名憶在行陰中也</note>。</p></div1>
+<lb ed="D" n="0014a13"/><div1 type="orig"><p id="pD22p0014a1301">覺觀品。</p></div1><div1 type="commentary"><p id="pD22p0014a1304" place="inline" rend="margin-left:1em"><note place="inline">三科初就散心中明覺觀弟二攝心明覺觀入散心中&CB30478;為&unrec;細此應云攝言散出&CB18777;時誤也尒未現&unrec;事皆&unrec;思量此弟三乖理者名覺得
+<lb ed="D" n="0014a14"/>理者名觀淺智為覺深智為觀也</note>。</p></div1>
+<lb ed="D" n="0014a15"/><juan fun="close" n="2"><jhead>成實論義記卷中　比丘其甲</jhead></juan>
+</body></text></TEI.2>

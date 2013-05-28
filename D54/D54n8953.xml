@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "D54n8953.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Selections from the Taipei National Central Library Buddhist Rare Book Collection, Electronic version, No. 8953 結壇散食迴向發願文（首尾殘缺）</title>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.3 $ (Big5)<date>$Date: 2012/07/05 05:12:22 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/07/05 05:12:22 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Selections from the Taipei National Central Library Buddhist Rare Book Collection Vol. 54, No. 8953 &desc;</bibl>
+		<p>唐人寫卷子本　首尾殘缺</p>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p lang="chi" type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2011/08/31 14:53:31</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: D54n8953.xml,v $
+Revision 1.3  2012/07/05 05:12:22  amtbgrace
+組字修訂： p0003a02  原CB25824 修改為 CB26069
+
+Revision 1.2  2011/10/07 03:06:48  amtbgrace
+modified: . 修改經名
+
+Revision 1.1  2011/09/05 03:19:34  amtbgrace
+modified: 執行 basicx.bat  將 bm 轉 xml
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="D" id="D54.8953.0001a" n="0001a"/>
+<lb ed="D" n="0001a01"/><milestone unit="juan" n="1"/><mulu type="卷" n="1"/><div1><juan fun="open" n="1"><jhead>結壇散食迴向發&CB31188;文</jhead></juan><p id="pD54p0001a0110" place="inline">今某年某月&CB08168;日弟&unrec;…&unrec;
+<lb ed="D" n="0001a02"/>&unrec;…&unrec;毗盧&CB17327;&CB06363;佛。奉請&CB31152;滿報身盧&unrec;…&unrec;
+<lb ed="D" n="0001a03"/>百億化身同名&CB18232;迦&CB31221;&CB00112;&CB16566;。奉請東方十二上&CB31188;藥師&unrec;…&unrec;
+<lb ed="D" n="0001a04"/>請西方極樂世界阿&CB12752;&CB00442;&CB16566;。奉請歡喜&CB18911;摩&CB00112;寶&unrec;…&unrec;
+<lb ed="D" n="0001a05"/>下生&CB12752;勒尊&CB16566;。奉請&CB00222;璃金山寶華&CB01032;照吉祥&unrec;…&unrec;
+<lb ed="D" n="0001a06"/>&CB16566;。奉請大聖文殊師利<app><lem wit="【CBETA】" resp="CBETA.maha">菩薩</lem><rdg wit="【國圖】">&CB07087;</rdg></app>。奉請大聖普賢<app><lem wit="【CBETA】" resp="CBETA.maha">菩薩</lem><rdg wit="【國圖】">&CB07087;</rdg></app>。奉請&unrec;
+<lb ed="D" n="0001a07"/>如意輪<app><lem wit="【CBETA】" resp="CBETA.maha">菩薩</lem><rdg wit="【國圖】">&CB07087;</rdg></app>。奉請大悲觀世音<app><lem wit="【CBETA】" resp="CBETA.maha">菩薩</lem><rdg wit="【國圖】">&CB07087;</rdg></app>。奉請大慈大勢智<app><lem wit="【CBETA】" resp="CBETA.maha">菩薩</lem><rdg wit="【國圖】">&CB07087;</rdg></app>。
+<lb ed="D" n="0001a08"/>奉請大悲地&CB18911;菩&CB16765;。又奉請過現未&CB08074;十方三世一切諸&unrec;
+<lb ed="D" n="0001a09"/>奉請十二部尊經甚深&unrec;&CB18911;。奉請諸大<app><lem wit="【CBETA】" resp="CBETA.maha">菩薩</lem><rdg wit="【國圖】">&CB07087;</rdg></app>摩訶&CB16765;&CB18911;。奉請<app><lem wit="【CBETA】" resp="CBETA.maha">聲</lem><rdg wit="【國圖】">&unrec;</rdg></app>
+<lb ed="D" n="0001a10"/>聞緣覺一切賢聖。奉請清&CB00289;山頂一万聖慈。地上地前證真<app><lem wit="【CBETA】" resp="CBETA.maha">菩薩</lem><rdg wit="【國圖】">&CB07087;</rdg></app>。
+<lb ed="D" n="0001a11"/>奉請摩離耶山。五百羅漢。四向四果。得道沙門分&CB07589;俱詮&unrec;
+<lb ed="D" n="0001a12"/>通大聖&CB21717;。右弟子&CB08168;甲&CB21717;。奉為國安人&CB31218;。社&CB01142;會昌。五稼&unrec;
+<pb ed="D" id="D54.8953.0002a" n="0002a"/>
+<lb ed="D" n="0002a01"/>盈。三農倍稔。先&CB31222;魂識。不值八難之中。過往尊親。無歷三
+<lb ed="D" n="0002a02"/>塗之苦。次奉為弟子&CB08168;甲。&CB07697;祥溢壽。免殃不&CB31217;&CB30487;<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【國圖】">已</rdg></app>身。&CB15329;&unrec;
+<lb ed="D" n="0002a03"/>年昌。橫禍&CB08891;&CB08668;&CB30487;戶側。令彰長幼。長銜&CB25600;水之歡。內外親
+<lb ed="D" n="0002a04"/>永保藂花之茂。謹奉請。如上大慈悲法父。三界尊師。應供
+<lb ed="D" n="0002a05"/>聖真。&CB18919;念大士。伏&CB31188;雲飛雨驟。化蓮神通。&CB08074;降道&CB00588;。&CB21970;&unrec;
+<lb ed="D" n="0002a06"/>隱跡。證盟弟子&CB08168;甲功&CB18786;。&CB18919;喜結壇轉經。受斯&CB00057;供錢財。鑒
+<lb ed="D" n="0002a07"/>領香花五&CB00591;。增長弟子&CB08168;甲福。&CB04414;春卉&CB18919;日而生。除盪弟子
+<lb ed="D" n="0002a08"/>&CB08168;甲&CB00321;。此秋林逐風而落。千祥輻輳。万善更行。所求遂心。功
+<lb ed="D" n="0002a09"/>德圓滿。敬&CB17716;常住三寶。</p><p id="pD54p0002a0910" place="inline">又更啟請。東方提頭&CB00332;吒天王。主
+<lb ed="D" n="0002a10"/>領一切。&CB00371;闥婆神。毗&CB22064;闍鬼。并諸眷&CB06473;。&CB08074;降道&CB00588;。又請南方毗
+<lb ed="D" n="0002a11"/>&CB22031;勒&CB01415;天王。主領一切。毗&CB11426;多鬼。并諸眷&CB06473;。&CB08074;降道&CB00588;。又請西方毗
+<lb ed="D" n="0002a12"/>樓&CB13415;&CB01415;天王。主領一切諸大毒龍。及富單&CB06363;鬼。并諸眷屬&CB08074;降
+<lb ed="D" n="0002a13"/>道&CB00588;。又請北方大聖毗沙門天王。主領一切。夜&CB01415;羅&CB09400;。諸&CB08891;鬼神。并
+<lb ed="D" n="0002a14"/>諸眷&CB06473;。&CB08074;降道&CB00588;。又請上方&CB18232;提桓因。主領一切。日月天子。星&CB29763;
+<lb ed="D" n="0002a15"/>五官。廿八&CB29763;。卅二神。并諸眷&CB06473;。&CB08074;降道&CB00588;。又請下方堅牢地神。
+<lb ed="D" n="0002a16"/>主領一切。山岳靈&CB29788;。江河聖族。并諸眷&CB06473;。&CB08074;降道&CB00588;。又請護
+<pb ed="D" id="D54.8953.0003a" n="0003a"/>
+<lb ed="D" n="0003a01"/>界善神。散昉大將。護伽藍神。金剛蜜跡。十二藥叉大將。四海八大
+<lb ed="D" n="0003a02"/>龍王。管境土地神&CB29788;。泉源行非水族。鎮世五岳之主。鶉&CB26069;&unrec;
+<lb ed="D" n="0003a03"/>崛山神。社公&CB01142;品官尊。地水火風神等并諸眷&CB06473;。&CB08074;降道&CB00588;。
+<lb ed="D" n="0003a04"/>右弟子&CB08168;甲自云。生居&CB04891;位。長乃塵軀。不諳靈異之間。起
+<lb ed="D" n="0003a05"/>住多違乖犯。舉足動步。<note place="inline">晨昏往&CB08074;</note>不覺不知。積過深重。今&CB06960;禍
+<lb ed="D" n="0003a06"/>患奔至。&CB02167;&CB10329;愚迷。&CB11265;放&CB00321;殃。終&CB30487;性命。今弟子&CB08168;甲。虔
+<lb ed="D" n="0003a07"/>恭懇禱。悲悔交生。露瞻披肝。慇懃懺謝。謹&CB30487;&CB08168;&CB08468;。結壇
+<lb ed="D" n="0003a08"/>燃燈。誦&CB00057;轉經。捨財散食。三日三夜。<note place="inline">芳等經云七日七夜</note>鈴梵鳴音。念&unrec;
+<lb ed="D" n="0003a09"/>崇&unrec;。聲〃無息。伏&CB31188;如上靈聖。是眾生父母尊仰。所有&unrec;
+<lb ed="D" n="0003a10"/>告至誠。皆蒙獲益。今並&CB31188;。離&CB30487;所樂。發歡喜心。賜大<app><lem wit="【CBETA】" resp="CBETA.maha">慈</lem><rdg wit="【國圖】">&unrec;</rdg></app>
+<lb ed="D" n="0003a11"/>悲。不違所請。龍飛雨驟。電擊雷奔。眷&CB06473;&CB18919;相。深生&CB31154;
+<lb ed="D" n="0003a12"/>拔。&CB18794;空著地。感動山川。&CB08074;就道&CB00588;。證盟&CB01196;&CB18786;。自弟子&CB08168;
+<lb ed="D" n="0003a13"/>甲乃&CB30225;&CB22057;割&CB30678;<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【國圖】">巳</rdg></app>。抽&CB22057;淨財。獻&CB16566;施僧。廣&unrec;&CB31220;品。&unrec;
+<lb ed="D" n="0003a14"/>壇安像。請僧轉經。&CB05418;仰能仁。&CB31154;危敷苦。香果万般飲
+<lb ed="D" n="0003a15"/>食。散而&CB00824;&CB12752;無窮。&CB10830;種五穀錢財。施而塵沙不&CB16487;。
+<pb ed="D" id="D54.8953.0004a" n="0004a"/>
+<lb ed="D" n="0004a01"/>銀盤花動。紅蓮捧而昭歸。金瓶水流。大海飲而無竭。
+<lb ed="D" n="0004a02"/>所有年裏困厄。&CB31188;&CB18919;&CB00057;聲而霞消。日瘴時&CB00321;。&CB31188;
+<lb ed="D" n="0004a03"/>經音而霧散。怨家債主。歡喜相&CB08437;。負命掌恩。
+<lb ed="D" n="0004a04"/>永&CB09109;讎對。敬&CB17716;常住三寶。然後誦勸請發&CB31188;文。
+<lb ed="D" n="0004a05"/>以此結壇轉經&CB01196;德。誦&CB00057;散食勝因。燃燈供養等偈。錢財
+<lb ed="D" n="0004a06"/>五穀福牽。先奉為龍天八部。護國護人。釋梵四王。&CB15423;&unrec;
+<lb ed="D" n="0004a07"/>除&CB07491;。法輪常轉。&CB16566;日重興。社&CB01142;安寧。<app><lem wit="【CBETA】" resp="CBETA.maha">豐</lem><rdg wit="【國圖】">豊</rdg></app>盈稼積。又持&unrec;
+<lb ed="D" n="0004a08"/>福。次用&CB00982;嚴。弟子&CB08168;甲即&CB00362;。惟&CB31188;滄溟比壽。富貴而山
+<lb ed="D" n="0004a09"/>岳無移。福&CB00278;松筠。貞實而春冬不變。門興万善。千
+<lb ed="D" n="0004a10"/>祥膺而長榮。家謙三&CB03957;。百寶鎮而永固。男忠女
+<lb ed="D" n="0004a11"/>孝。&CB00321;殃不近&CB30487;義行。子貴孫昌。禍&CB10329;無&CB31217;&CB30487;善&unrec;。
+<lb ed="D" n="0004a12"/>先&CB31222;七祖。蓮花&CB02956;而登天。不歷三塗。祥雲&CB18794;而證果。
+<lb ed="D" n="0004a13"/>家中若大若小。受金剛不壞之身。拔眷內親外親
+<lb ed="D" n="0004a14"/>共保清平之樂。莊盈五穀。霜疸不&CB02167;&CB30487;田苗。圈滿
+<lb ed="D" n="0004a15"/>群昌。六畜無&CB00321;&CB30487;牧廡。怨親債主。早已&CB09109;讎。負命
+<pb ed="D" id="D54.8953.0005a" n="0005a"/>
+<lb ed="D" n="0005a01"/>負財。為生罷散。敬&CB17716;常住三寶。<note place="inline">然後&CB00057;師自擎盤取&unrec;三發&unrec;&unrec;&CB00057;印加持便送出</note>
+<lb ed="D" n="0005a02"/><app><lem wit="【CBETA】" resp="CBETA.maha">第</lem><rdg wit="【國圖】">弟</rdg></app>二盤食。</p><p id="pD54p0005a0205" place="inline">右弟子&CB08168;甲。旬結壇散食。誦&CB00057;轉經。焚香
+<lb ed="D" n="0005a03"/>燃燈。三日三夜者。遂請下方窈冥神理。&CB30291;道官寮。閻<app><lem wit="【CBETA】" resp="CBETA.maha">魔</lem><rdg wit="【國圖】">&unrec;</rdg></app>
+<lb ed="D" n="0005a04"/>羅王。察命司錄。太山府主。五道大神。左膊右肩。善&CB08891;童子。
+<lb ed="D" n="0005a05"/>鑒&CB31223;巡使。行道天王。吸氣&CB15756;魂。判命主吏。六司都長。行
+<lb ed="D" n="0005a06"/>病鬼王。內外通申。諸方獄卒。又請四神八將。十二部官。太
+<lb ed="D" n="0005a07"/>歲將軍。&unrec;…&unrec;。日遊月建。黑赤星神。&unrec;…&unrec;。
+<lb ed="D" n="0005a08"/>&unrec;…&unrec;<note place="inline">&unrec;…&unrec;</note>。山&unrec;靈異。水陸神仙。宮殿非人。樓臺魍魎等
+<lb ed="D" n="0005a09"/>并諸眷&CB06473;並&CB31188;&CB22057;&CB30487;所樂離&CB30487;所居&CB08074;就道&CB00588;
+<lb ed="D" n="0005a10"/>領斯福分弟子自云&CB04891;夫迷闇每犯聖賢行住中間于
+<lb ed="D" n="0005a11"/>日月神理今始覺悟遂結香壇散食燃燈轉經誦&CB00057;伏
+<lb ed="D" n="0005a12"/>&CB31188;諸大神聖發慈悲&CB31188;救護生&CB09566;領受&CB00057;供錢財花果
+<lb ed="D" n="0005a13"/>五穀香藥各生歡喜共開福門三&CB00321;不行&CB30487;道&CB00588;之家
+<lb ed="D" n="0005a14"/>九撗無&CB29842;&CB30487;增善戶千年衛護長似今晨万歲吉祥轉
+<lb ed="D" n="0005a15"/>禍為福敬&CB20154;常住三寶。</p><p id="pD54p0005a1510" place="inline">又弟子某甲自&CB18813;&CB07099;量&CB03567;
+<pb ed="D" id="D54.8953.0006a" n="0006a"/>
+<lb ed="D" n="0006a01"/>&CB08074;至&CB30487;今日或有積主辜負或是見&CB30735;新熏所有債
+<lb ed="D" n="0006a02"/>主怨家負財買命或是經山採獵手射傍生或是涉草
+<lb ed="D" n="0006a03"/>歡遊烹&CB30487;&CB05094;獸又請諸餘俘遊浪鬼因祀妖精杇樹
+<lb ed="D" n="0006a04"/>丘墳擅行魍魎&CB08891;鬼毒主走火邪&CB05943;巡歷街坊吸人精
+<lb ed="D" n="0006a05"/>氣或有&CB07589;親絕嗣不葬鬼或有離鄉失土波送鬼或有
+<lb ed="D" n="0006a06"/>犯官驚魂鬼賊&CB09738;血醒鬼或是深泉溺死鬼大火燒然
+<lb ed="D" n="0006a07"/>鬼或有無&CB00295;餓死鬼冬寒凍&CB31222;鬼。</p>
+<lb ed="D" n="0006a08"/>
+<lb ed="D" n="0006a09"/><p id="pD54p0006a0901">散而&CB00824;&CB12752;有餘錢財万般用而寶山無盡金瓶香水
+<lb ed="D" n="0006a10"/>飲而四海不傾銀盞神燈照而三&CB30247;俱曉祥花&CB08001;種持而
+<lb ed="D" n="0006a11"/>天堂戶開月桂仙香焚而鑊湯火&CB30274;&CB31188;汝&CB21717;承此&CB01196;&CB18786;早
+<lb ed="D" n="0006a12"/>遇龍花永離人間莫生&CB08974;&CB10329;。&CB15756;弟子某甲三&CB00321;九撗遠
+<lb ed="D" n="0006a13"/>送他方除弟子&CB08168;甲月厄年衰轉禍為福生〃世〃長為善
+<lb ed="D" n="0006a14"/>品枝羅世〃生〃永保乃興人貴&CB30058;官自在記錄福&CB10318;
+<lb ed="D" n="0006a15"/>照此一家永安三代敬&CB17716;常住三寶。</p>
+<pb ed="D" id="D54.8953.0007a" n="0007a"/>
+<lb ed="D" n="0007a01"/><p id="pD54p0007a0101">&unrec;…&unrec;閻文&unrec;…&unrec;百姓&unrec;&unrec;
+<lb ed="D" n="0007a02"/>&unrec;…&unrec;尚善住&unrec;…&unrec;遊&CB30487;都&unrec;
+<lb ed="D" n="0007a03"/>&unrec;…&unrec;&unrec;&unrec;信&unrec;…&unrec;捉水磑
+<lb ed="D" n="0007a04"/>&unrec;…&unrec;所存&unrec;
+<lb ed="D" n="0007a05"/>&CB02463;&unrec;…&unrec;在前&unrec;
+<lb ed="D" n="0007a06"/>自&CB29844;捉已後便&CB00824;晝夜存心不&unrec;
+<lb ed="D" n="0007a07"/>其顯春秋&CB00824;&CB30487;&CB30487;&CB08001;填&unrec;如若
+<lb ed="D" n="0007a08"/>&CB30487;捉磑人家&unrec;…&unrec;用充顯祝
+<lb ed="D" n="0007a09"/>&unrec;用以為後憑。</p>
+<lb ed="D" n="0007a10"/><p id="pD54p0007a1001" rend="margin-left:6em">捉磑戶高&CB31005;友</p>
+<lb ed="D" n="0007a11"/><p id="pD54p0007a1101" rend="margin-left:6em">見人兄高&CB31005;&CB31216;</p>
+<lb ed="D" n="0007a12"/><p id="pD54p0007a1201">癸丑年正月廿三日捉磑戶高&CB31005;友管會壬子并
+<lb ed="D" n="0007a13"/>周年&CB00403;磑諸&CB08468;破用及矜&CB31219;廗外欠&CB10151;
+<lb ed="D" n="0007a14"/>碩壹&CB00356;並在&CB31005;友身上限日便&CB00824;填還
+<lb ed="D" n="0007a15"/>引用為後憑。</p>
+<lb ed="D" n="0007a16"/><p id="pD54p0007a1601" rend="margin-left:7em">欠顆人高&CB31005;友&unrec;</p>
+<lb ed="D" n="0007a17"/><p id="pD54p0007a1701" rend="margin-left:7em">口承人姪高保德&unrec;</p></div1>
+</body></text></TEI.2>

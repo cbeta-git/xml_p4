@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "I01n0014.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selections of Buddhist Stone Rubbings from the Northern Dynasties, Electronic version, No. 0014 比丘郭曇勝造像記</title>
+                <author>顏娟英主編</author>
+                <respStmt>
+                    <resp>Electronic Version by</resp>
+                    <name>CBETA and DDBC</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>$Revision: 1.6 $<date>$Date: 2011/05/19 01:44:08 $</date></edition>
+            </editionStmt>
+            <extent>1卷</extent>
+            <publicationStmt>
+                <distributor>
+                    <name>中華電子佛典協會 (CBETA)</name>
+                    <address>
+                        <addrLine>service@cbeta.org</addrLine>
+                    </address>
+                </distributor>
+                <availability>
+<p>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/). </p>
+                </availability>
+                <date>$Date: 2011/05/19 01:44:08 $</date>
+            </publicationStmt>
+            <sourceDesc>
+      	      <bibl>Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 014 &desc;</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p lang="eng" type="ly">Text as provided by Institute of History and Philology, Academia Sinica</p>
+                <p lang="chi" type="ly">中央研究院歷史語言研究所</p>
+            </projectDesc>
+            </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+<div1>
+<pb n="0038a" id="I01.0014.0038a" ed="I"/>
+<lb ed="C I" n="0038a00"/><milestone n="1" unit="juan"/><head type="no">No. 14</head>
+<lb ed="C I" n="0038a00"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><title>比丘郭曇勝造像記</title></jhead></juan>
+<lb ed="C I" n="0038a00"/><mulu level="1" label="之一　碑陰" type="其他"/><head>之一　碑陰</head>
+<div2>
+<lb ed="C I" n="0038a01"/><p id="pI01p0038a0101">
+<lb ed="C I" n="0038a02"/>
+<lb ed="C I" n="0038a03"/>
+<lb ed="C I" n="0038a04"/>但越主梁洪相
+<lb ed="C I" n="0038a05"/>
+<lb ed="C I" n="0038a06"/>　　梁歸喜
+<lb ed="C I" n="0038a07"/>
+<lb ed="C I" n="0038a08"/></p>
+</div2>
+<div2>
+<lb ed="C I" n="0038b01"/><p id="pI01p0038b0101">　　　　　　　　大代延昌四年歲次乙未四月一日
+<lb ed="C I" n="0038b02"/>比丘郭□勝　造石像一區。為忘弟子　曇豐。
+<lb ed="C I" n="0038b03"/>夫大覺淟□□積善。<app><lem wit="【CBETA】" resp="CBETA.maha">&CB07099;</lem><rdg wit="【原】【史】">旡</rdg></app>以成其功。四到輪迴。何能超其累。
+<lb ed="C I" n="0038b04"/>是以□□<unclear cert="low" reason="damage">晉</unclear>脩諸利。功益當時。自靈波沖寂。神光遷<unclear cert="low" reason="damage">苑</unclear>。<note n="0038001" resp="ihp" place="foot text" type="orig">&CB30418;＝雖【史】</note><app n="0038001"><lem resp="ihp" wit="【史】">雖</lem><rdg wit="【原】">&CB30418;</rdg></app>復
+<lb ed="C I" n="0038b05"/>漸影園□。<unclear cert="low" reason="damage">光</unclear>潛□□。自非識體玄宗。栖心妙竟。<unclear cert="low" reason="damage">沖</unclear>慮建于靈祇。
+<lb ed="C I" n="0038b06"/>像法<unclear cert="low" reason="damage">開</unclear>□□。<unclear cert="low" reason="damage">願</unclear>使忘者神生天堂。縱志八定。彌勒一其。值生不退。<unclear cert="low" reason="damage">現</unclear>
+<lb ed="C I" n="0038b07"/><unclear cert="low" reason="damage">世</unclear>伏災。四大休□。功□寵祿。子孫樊熾。門族雍和。非□永絕三途曠火輪催軸
+<lb ed="C I" n="0038b08"/>　　　　　　　　三有四生。悟<app><lem wit="【CBETA】" resp="CBETA.maha">&CB07099;</lem><rdg wit="【原】【史】">旡</rdg></app>生忍。庶□&CB00458;　　<unclear cert="low" reason="damage">散</unclear>。<note n="0038002" resp="ihp" place="foot text" type="orig">&CB30419;＝冀【史】</note><app n="0038002"><lem resp="ihp" wit="【史】">冀</lem><rdg wit="【原】">&CB30419;</rdg></app>隆剋就。</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0038c00"/><mulu level="1" label="之二　碑陽" type="其他"/><head>之二　碑陽</head>
+<div2>
+<lb ed="C I" n="0038c01"/><p id="pI01p0038c0101">忘父郭僧景
+<lb ed="C I" n="0038c02"/>
+<lb ed="C I" n="0038c03"/>
+<lb ed="C I" n="0038c04"/>
+<lb ed="C I" n="0038c05"/>
+<lb ed="C I" n="0038c06"/>
+<lb ed="C I" n="0038c07"/>
+<lb ed="C I" n="0038c08"/>　梁丰一心</p>
+</div2>
+<div2>
+<lb ed="C I" n="0038d01"/><p id="pI01p0038d0101">比丘道和從兄郭□保
+<lb ed="C I" n="0038d02"/>比丘曇歆從姪柏尉
+<lb ed="C I" n="0038d03"/>比丘曇喜從姪雙伯
+<lb ed="C I" n="0038d04"/>比丘曇妙息郭達
+<lb ed="C I" n="0038d05"/>比丘曇興息郭顯
+<lb ed="C I" n="0038d06"/>比丘道<note n="0038003" resp="ihp" place="foot text" type="orig">&CB30420;＝藻【史】</note><app n="0038003"><lem resp="ihp" wit="【史】">藻</lem><rdg wit="【原】">&CB30420;</rdg></app>外生阿勝
+<lb ed="C I" n="0038d07"/>比丘曇智姊郭安□
+<lb ed="C I" n="0038d08"/>亡竇叔□□郭<unclear cert="low" reason="damage">真</unclear>安妻□</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0039a00"/><mulu level="1" label="之三　碑側" type="其他"/><head>之三　碑側</head>
+<div2>
+<lb ed="C I" n="0039a01"/><p id="pI01p0039a0101">
+<lb ed="C I" n="0039a02"/>
+<lb ed="C I" n="0039a03"/>忘弟子曇豐
+<lb ed="C I" n="0039a04"/>
+<lb ed="C I" n="0039a05"/>
+<lb ed="C I" n="0039a06"/>
+<lb ed="C I" n="0039a07"/>
+<lb ed="C I" n="0039a08"/>
+<lb ed="C I" n="0039a09"/>
+<lb ed="C I" n="0039a10"/></p>
+</div2>
+<div2>
+<lb ed="C I" n="0039b01"/><p id="pI01p0039b0101">梁光祖思集相母李　安容女
+<lb ed="C I" n="0039b02"/>梁足仁保織閻陵姜女阿□
+<lb ed="C I" n="0039b03"/>梁石祖□<unclear cert="low" reason="damage">哉</unclear>鄧<unclear cert="low" reason="damage">拯</unclear>生女□非
+<lb ed="C I" n="0039b04"/>梁洪興天覆馬春好女僧姬
+<lb ed="C I" n="0039b05"/>梁迴　騃洛楊供妃女軍<note n="0039001" resp="ihp" place="foot text" type="orig">&CB30429;＝老【史】</note><app n="0039001"><lem resp="ihp" wit="【史】">老</lem><rdg wit="【原】">&CB30429;</rdg></app>
+<lb ed="C I" n="0039b06"/>梁洪祖難當柳&CB00177;醜女眉容
+<lb ed="C I" n="0039b07"/>梁承祖思儀衛雙眉女迎男
+<lb ed="C I" n="0039b08"/>梁天□歸洛女醜多女敬愛
+<lb ed="C I" n="0039b09"/>梁□□□□□□好女雷當
+<lb ed="C I" n="0039b10"/>□□□□妙容姿</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0039c00"/><mulu level="1" label="之四　碑側" type="其他"/><head>之四　碑側</head>
+<div2>
+<lb ed="C I" n="0039c01"/><p id="pI01p0039c0101">　比丘法□
+<lb ed="C I" n="0039c02"/>比丘郭曇勝供養
+<lb ed="C I" n="0039c03"/>傅珍國一心供養
+<lb ed="C I" n="0039c04"/>崔亮一心
+<lb ed="C I" n="0039c05"/>車山□一心
+<lb ed="C I" n="0039c06"/>　桂道允一心
+<lb ed="C I" n="0039c07"/>
+<lb ed="C I" n="0039c08"/>
+<lb ed="C I" n="0039c09"/></p>
+</div2>
+<div2>
+<lb ed="C I" n="0039d01"/><p id="pI01p0039d0101">北地太守梁秋
+<lb ed="C I" n="0039d02"/>息梁始春名煦　　　夫人□曇要
+<lb ed="C I" n="0039d03"/>息梁仲春　　　　　夫人程曇暈田富
+<lb ed="C I" n="0039d04"/>息梁寄春　　　　　夫人李氏容幾
+<lb ed="C I" n="0039d05"/>息梁始慶　　傅珍國供養佛
+<lb ed="C I" n="0039d06"/>息梁仲慶　　　　　比丘尼李曇暈
+<lb ed="C I" n="0039d07"/>息女<unclear cert="low" reason="damage">舍</unclear>利女英妃　　沙彌尼曇顯
+<lb ed="C I" n="0039d08"/>息女顯妃　先妃　　沙彌尼曇□
+<lb ed="C I" n="0039d09"/>　　　　　　　　　費洪雲</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

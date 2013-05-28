@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "I01n0016.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selections of Buddhist Stone Rubbings from the Northern Dynasties, Electronic version, No. 0016 比丘劉僧真等造像記</title>
+                <author>顏娟英主編</author>
+                <respStmt>
+                    <resp>Electronic Version by</resp>
+                    <name>CBETA and DDBC</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>$Revision: 1.5 $<date>$Date: 2011/04/19 06:12:13 $</date></edition>
+            </editionStmt>
+            <extent>1卷</extent>
+            <publicationStmt>
+                <distributor>
+                    <name>中華電子佛典協會 (CBETA)</name>
+                    <address>
+                        <addrLine>service@cbeta.org</addrLine>
+                    </address>
+                </distributor>
+                <availability>
+<p>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/). </p>
+                </availability>
+                <date>$Date: 2011/04/19 06:12:13 $</date>
+            </publicationStmt>
+            <sourceDesc>
+      	      <bibl>Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 016 &desc;</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p lang="eng" type="ly">Text as provided by Institute of History and Philology, Academia Sinica</p>
+                <p lang="chi" type="ly">中央研究院歷史語言研究所</p>
+            </projectDesc>
+            </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+<div1>
+<pb n="0043a" id="I01.0016.0043a" ed="I"/>
+<lb ed="C I" n="0043a00"/><milestone n="1" unit="juan"/><head type="no">No. 16</head>
+<lb ed="C I" n="0043a00"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><title>比丘劉僧真等造像記</title></jhead></juan>
+<lb ed="C I" n="0043a00"/><mulu level="1" label="之一　碑陰" type="其他"/><head>之一　碑陰</head>
+<div2>
+<lb ed="C I" n="0043a01"/><p id="pI01p0043a0101">□□伏香寶顯寶照光三人
+<lb ed="C I" n="0043a02"/>　　　　　　一心侍佛
+<lb ed="C I" n="0043a03"/>
+<lb ed="C I" n="0043a04"/>
+<lb ed="C I" n="0043a05"/>　　　　　王小金妻
+<lb ed="C I" n="0043a06"/>　　　　　齋主令狐俱
+<lb ed="C I" n="0043a07"/>　　　　　賈磨女部
+<lb ed="C I" n="0043a08"/>
+<lb ed="C I" n="0043a09"/>
+<lb ed="C I" n="0043a10"/>
+<lb ed="C I" n="0043a11"/>
+<lb ed="C I" n="0043a12"/>
+<lb ed="C I" n="0043a13"/>
+<lb ed="C I" n="0043a14"/></p>
+</div2>
+<div2>
+<lb ed="C I" n="0043b01"/><p id="pI01p0043b0101">熙平二年太歲在丁酉三月<unclear cert="low" reason="damage">丙</unclear>酉朔□日壬戌
+<lb ed="C I" n="0043b02"/>　比丘劉僧<unclear cert="low" reason="damage">真</unclear>少□道門。志□於外。□□□累
+<lb ed="C I" n="0043b03"/>　<note n="0043001" resp="ihp" place="foot text" type="orig">&CB03567;＝劫【史】</note><app n="0043001"><lem resp="ihp" wit="【史】">劫</lem><rdg wit="【原】">&CB03567;</rdg></app>之苦。□□有在□□緣以□□□□□□
+<lb ed="C I" n="0043b04"/>　臨高照之<unclear cert="low" reason="damage">隆</unclear>□。並四時□□□□□樂逾□
+<lb ed="C I" n="0043b05"/>天宮。供施精巖。<unclear cert="low" reason="damage">使</unclear><unclear cert="low" reason="damage">外</unclear>□万路歸□。道俗恭□連
+<lb ed="C I" n="0043b06"/>車蓋疋興逮。上為皇帝延綿。師僧先<unclear cert="low" reason="damage">妣</unclear>。造石像
+<lb ed="C I" n="0043b07"/>一<note n="0043002" resp="ihp" place="foot text" type="orig">&CB00502;＝軀【史】</note><app n="0043002"><lem resp="ihp" wit="【史】">軀</lem><rdg wit="【原】">&CB00502;</rdg></app>。興福以誌。願皇帝隆綿。師僧父母。朗朗與
+<lb ed="C I" n="0043b08"/>三光並暈。覆則与乾<unclear cert="low" reason="damage">晨</unclear><unclear cert="low" reason="damage">同</unclear>□。下為四部道俗欽
+<lb ed="C I" n="0043b09"/>明。核業藏潤。<unclear cert="low" reason="damage">宿</unclear>信<note n="0043003" resp="ihp" place="foot text" type="orig">&CB30394;＝彌【史】</note><app n="0043003"><lem resp="ihp" wit="【史】">彌</lem><rdg wit="【原】">&CB30394;</rdg></app>樂。敬崇三寶。□智龍天。任
+<lb ed="C I" n="0043b10"/><unclear cert="low" reason="damage">顥</unclear>皇朝有類氏人女□□□外渡四&CB00515;。除充主
+<lb ed="C I" n="0043b11"/>公<unclear cert="low" reason="damage">郡</unclear>想。競業疇延。室家和望。眾陳天<note n="0043004" resp="ihp" place="foot text" type="orig">&CB08832;＝算【史】</note><app n="0043004"><lem resp="ihp" wit="【史】">算</lem><rdg wit="【原】">&CB08832;</rdg></app>正始<unclear cert="low" reason="damage">智</unclear>
+<lb ed="C I" n="0043b12"/>然合邑子等。閻石記<unclear cert="low" reason="damage">念</unclear>。永世留名。<unclear cert="low" reason="damage">為</unclear><unclear cert="low" reason="damage">恐</unclear>事記願
+<lb ed="C I" n="0043b13"/>登覽首。未<unclear cert="low" reason="damage">來</unclear>世中。彌勒三會。□等蓋□。願願從
+<lb ed="C I" n="0043b14"/>心。三有群生。普同成佛。</p>
+</div2>
+<div2>
+<lb ed="C I" n="0043c01"/><p id="pI01p0043c0101">邑主□
+<lb ed="C I" n="0043c02"/>邑主□
+<lb ed="C I" n="0043c03"/>
+<lb ed="C I" n="0043c04"/>唯那梁
+<lb ed="C I" n="0043c05"/>邑正張
+<lb ed="C I" n="0043c06"/>邑正張
+<lb ed="C I" n="0043c07"/>寺主令
+<lb ed="C I" n="0043c08"/>唯那張
+<lb ed="C I" n="0043c09"/>唯那張
+<lb ed="C I" n="0043c10"/>唯那
+<lb ed="C I" n="0043c11"/>唯那鮮
+<lb ed="C I" n="0043c12"/>唯那
+<lb ed="C I" n="0043c13"/>邑子侯
+<lb ed="C I" n="0043c14"/>邑子</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0043d00"/><mulu level="1" label="之二　碑陽" type="其他"/><head>之二　碑陽</head>
+<div2>
+<lb ed="C I" n="0043d01"/><p id="pI01p0043d0101">　　　　　　　　　　　司徒文成□□□□□
+<lb ed="C I" n="0043d02"/>　　　　　　　　　　　　　　　劉光之
+<lb ed="C I" n="0043d03"/>　　　　　　　　　　　　　　　妻張醜女　劉□□
+<lb ed="C I" n="0043d04"/>　　　　　　　　　　　　　　　劉買陵
+<lb ed="C I" n="0043d05"/>　　　　　　　　　　　　　　　劉僧業
+<lb ed="C I" n="0043d06"/>
+<lb ed="C I" n="0043d07"/>　　　　　　　　　　　　　　　張返富
+<lb ed="C I" n="0043d08"/>　　　　　　　　　　　　　　　□□
+<lb ed="C I" n="0043d09"/>　　　　　　　　　　　　　　　張醜郎　張連道
+<lb ed="C I" n="0043d10"/>　　　　　　　　　　　　　　　常阿娥　張外仁妻
+<lb ed="C I" n="0043d11"/>　　　　　　　　常道興　　妻保姜　張阿族張保明</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0043e00"/><mulu level="1" label="之三　碑側" type="其他"/><head>之三　碑側</head>
+<div2>
+<lb ed="C I" n="0043e01"/><p id="pI01p0043e0101">　　　　　　　光明主□
+<lb ed="C I" n="0043e02"/>　　　　　　　　天院封　　　呈歸封王</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

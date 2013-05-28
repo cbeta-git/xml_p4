@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "F03n0089.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Fangshan shijing, Electronic version, No. 089 佛說恒水流樹經</title>
+			<author>劉宋 天竺三藏求那跋陀羅譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $ (Big5)<date>$Date: 2010/10/15 06:48:35 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2010/10/15 06:48:35 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Fangshan shijing Vol. 03, No. 089 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p lang="chi" type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2010/10/11 13:37:46</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: F03n0089.xml,v $
+Revision 1.2  2010/10/15 06:48:35  eva
+modified: normal 比對
+
+Revision 1.1  2010/10/13 08:30:31  eva
+bm 轉 xml 作業上傳
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="F" id="F03.0089.0003a" n="0003a"/>
+<lb ed="F" n="0003a01"/><milestone unit="juan" n="1"/><mulu type="卷" n="1"/><juan fun="open" n="1"><jhead>佛說恒水流樹經一卷</jhead></juan><div1><p id="pF03p0003a0110" place="inline">如是我聞。</p><p id="pF03p0003a0114" place="inline">一時佛住阿毗闍恒水邊時有比丘來詣佛所稽<app><lem wit="【CBETA】" resp="CBETA.maha">首</lem><rdg wit="【房山】">&unrec;</rdg></app>
+<lb ed="F" n="0003a02"/>佛足退住一面白佛言世尊善&CB21985;世尊為我說法我聞法已獨一靜處專精思惟不放<app><lem wit="【CBETA】" resp="CBETA.maha">逸</lem><rdg wit="【房山】">&unrec;</rdg></app>
+<lb ed="F" n="0003a03"/>住所以族姓子剃除&CB21899;&CB12985;正信非家出家學道於上增脩梵行見法自知作證我生已<app><lem wit="【CBETA】" resp="CBETA.maha">盡</lem><rdg wit="【房山】">&unrec;</rdg></app>
+<lb ed="F" n="0003a04"/>梵行已立所作已作自知不受後有。</p><p id="pF03p0003a0415" place="inline">尒時世尊觀察水見恒水中有一大樹隨流而下<app><lem wit="【CBETA】" resp="CBETA.maha">語</lem><rdg wit="【房山】">&unrec;</rdg></app>
+<lb ed="F" n="0003a05"/>彼比丘汝見此恒水中大樹<app><lem wit="【CBETA】" resp="CBETA.maha">流</lem><rdg wit="【房山】">與</rdg></app>不。</p><p id="pF03p0003a0514" place="inline">荅言已見世尊。</p><p id="pF03p0003a0520" place="inline">佛告比丘此大樹不著此岸不著彼岸
+<lb ed="F" n="0003a06"/>不沉水底不閡洲渚不入迴&CB11040;人亦不取非人不取又不腐敗當隨水流順趣流注浚輸
+<lb ed="F" n="0003a07"/>至大海不。</p><p id="pF03p0003a0705" place="inline">比丘白佛如是世尊。</p><p id="pF03p0003a0713" place="inline">佛言比丘亦&CB11040;如是亦不著此岸不著彼岸不沉水底不
+<lb ed="F" n="0003a08"/>閡洲渚不入迴&CB11040;人亦不取非人不取又<app><lem wit="【CBETA】" resp="CBETA.maha">不</lem><rdg wit="【房山】"></rdg></app>腐敗臨趣流注浚輸涅槃。</p><p id="pF03p0003a0828" place="inline">比丘白佛云何此岸
+<lb ed="F" n="0003a09"/>云何彼岸云何沉沒云何洲渚云何迴&CB11040;云何人取云何非人取云何腐敗善&CB21985;世尊為
+<lb ed="F" n="0003a10"/>我廣說我聞法已當獨一靜處專精思惟不放逸住乃至自知不受後有。</p><p id="pF03p0003a1029" place="inline">佛告比丘此岸
+<lb ed="F" n="0003a11"/>者謂六入處彼岸者<app><lem wit="【CBETA】" resp="CBETA.maha">謂</lem><rdg wit="【房山】"></rdg></app>六外入處人取者猶如有一習近俗人及出家者若喜若憂若苦若
+<lb ed="F" n="0003a12"/>樂彼彼所作悉與共同始終相隨是名人取非人取者猶如有人願脩梵行我今持&CB21061;苦
+<lb ed="F" n="0003a13"/>行脩諸梵行當生在在處處天上是非人取迴&CB11040;者猶如有一還&CB21061;退轉腐敗者犯&CB21061;行
+<lb ed="F" n="0003a14"/>&CB08891;不善法內敗&CB22055;聞猶莠稗吹<app><lem wit="【CBETA】" resp="CBETA.maha">貝</lem><rdg wit="【房山】">具</rdg></app>之聲非沙門為沙門象非梵行為梵行象如是比丘是
+<lb ed="F" n="0003a15"/>名不著此彼岸乃至<app><lem wit="【CBETA】" resp="CBETA.maha">浚</lem><rdg wit="【房山】">後</rdg></app>輸涅槃。</p><p id="pF03p0003a1513" place="inline">時彼比丘聞佛所說歡喜隨喜作&CB20154;而去。</p><p id="pF03p0003a1529" place="inline">時彼比丘獨一
+<lb ed="F" n="0003a16"/>靜處思惟佛所說水流大樹經教乃至自知不受<app><lem wit="【CBETA】" resp="CBETA.maha">後</lem><rdg wit="【房山】">&CB11040;</rdg></app>有得阿羅漢。</p><p id="pF03p0003a1626" place="inline">時有牧牛人名難屠去
+<lb ed="F" n="0003a17"/>佛不遠執杖牧牛比丘去<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【房山】">巳</rdg></app>詣世尊所稽首&CB20154;足於一面住白佛言世尊我今堪能不著
+<lb ed="F" n="0003a18"/>此岸不著彼岸不沉沒不閡洲渚非人所取不非人取不入迴&CB11040;亦不腐敗我得於世尊
+<lb ed="F" n="0003a19"/>正法律中出家脩梵行不。</p><p id="pF03p0003a1911" place="inline">佛告牧牛者汝送牛還主不。</p><p id="pF03p0003a1922" place="inline">牧牛者言諸牛中悉有<app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【房山】">有</rdg></app>犢牛自
+<lb ed="F" n="0003a20"/>能還歸不&CB00824;送也但當聽我出家學道。</p><p id="pF03p0003a2016" place="inline">佛告牧<app><lem wit="【CBETA】" resp="CBETA.maha">牛者</lem><rdg wit="【房山】">者牛</rdg></app>牛雖能還家汝已受食人衣食要<app><lem wit="【CBETA】" resp="CBETA.maha">當</lem><rdg wit="【房山】">&unrec;</rdg></app>
+<lb ed="F" n="0003a21"/>還報其家主。</p><p id="pF03p0003a2106" place="inline">時牧牛者聞佛教已歡喜隨喜作&CB20154;而去。</p><p id="pF03p0003a2122" place="inline">時尊者舍利弗在此<app><lem wit="【CBETA】" resp="CBETA.maha">會</lem><rdg wit="【房山】">舍</rdg></app>中牧牛者
+<lb ed="F" n="0003a22"/>去不久白佛<app><lem wit="【CBETA】" resp="CBETA.maha">言</lem><rdg wit="【房山】"></rdg></app>世尊<app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【房山】">言</rdg></app>難屠牧牛者求欲出家世尊何故遣還歸家。</p><p id="pF03p0003a2226" place="inline">佛告舍利弗難屠牧牛
+<lb ed="F" n="0003a23"/>者若還住家受五欲者&CB07099;有是處牛付主人已&CB00364;自當還於此法律出家學道淨脩梵行
+<lb ed="F" n="0003a24"/>乃至自知不受後有得阿羅漢。</p><p id="pF03p0003a2413" place="inline">時難屠牧牛者以牛付主人<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【房山】">巳</rdg></app>還至佛所稽首&CB20154;足退<app><lem wit="【CBETA】" resp="CBETA.maha">住</lem><rdg wit="【房山】">&unrec;</rdg></app>
+<lb ed="F" n="0003a25"/>一面白佛言世尊牛<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【房山】">巳</rdg></app>付主聽我<app><lem wit="【CBETA】" resp="CBETA.maha">於正</lem><rdg wit="【房山】">&unrec;&unrec;</rdg></app>法律出家學道。</p><p id="pF03p0003a2522" place="inline">佛告難屠牧牛者汝得於此法<app><lem wit="【CBETA】" resp="CBETA.maha">律</lem><rdg wit="【房山】">&unrec;</rdg></app>
+<pb ed="F" id="F03.0089.0003b" n="0003b"/>
+<lb ed="F" n="0003b01"/>出家受具足得比丘分。</p><p id="pF03p0003b0110" place="inline">出家已思惟所以族姓子剃除&CB21899;&CB12985;
+<lb ed="F" n="0003b02"/>著袈裟衣正信非家出家學道增脩梵行乃至自知不受後
+<lb ed="F" n="0003b03"/>有成阿羅漢。</p></div1>
+</body></text></TEI.2>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "I01n0038.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selections of Buddhist Stone Rubbings from the Northern Dynasties, Electronic version, No. 0038 僧演造像記</title>
+                <author>顏娟英主編</author>
+                <respStmt>
+                    <resp>Electronic Version by</resp>
+                    <name>CBETA and DDBC</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>$Revision: 1.5 $<date>$Date: 2011/04/19 06:12:14 $</date></edition>
+            </editionStmt>
+            <extent>1卷</extent>
+            <publicationStmt>
+                <distributor>
+                    <name>中華電子佛典協會 (CBETA)</name>
+                    <address>
+                        <addrLine>service@cbeta.org</addrLine>
+                    </address>
+                </distributor>
+                <availability>
+<p>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/). </p>
+                </availability>
+                <date>$Date: 2011/04/19 06:12:14 $</date>
+            </publicationStmt>
+            <sourceDesc>
+      	      <bibl>Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 038 &desc;</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p lang="eng" type="ly">Text as provided by Institute of History and Philology, Academia Sinica</p>
+                <p lang="chi" type="ly">中央研究院歷史語言研究所</p>
+            </projectDesc>
+            </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+<div1>
+<pb n="0094a" id="I01.0038.0094a" ed="I"/>
+<lb ed="C I" n="0094a00"/><milestone n="1" unit="juan"/><head type="no">No. 38</head>
+<lb ed="C I" n="0094a00"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><title>僧演造像記</title></jhead></juan>
+<div2>
+<lb ed="C I" n="0094a01"/><p id="pI01p0094a0101">郭世貴一心供養
+<lb ed="C I" n="0094a02"/>
+<lb ed="C I" n="0094a03"/>
+<lb ed="C I" n="0094a04"/>
+<lb ed="C I" n="0094a05"/>
+<lb ed="C I" n="0094a06"/>
+<lb ed="C I" n="0094a07"/>
+<lb ed="C I" n="0094a08"/>清信駱花嬰
+<lb ed="C I" n="0094a09"/>一心供養佛時</p>
+</div2>
+<div2>
+<lb ed="C I" n="0094b01"/><p id="pI01p0094b0101">夫大覺神<note n="0094001" resp="ihp" place="foot text" type="orig">&CB30634;＝遷【史】</note><app n="0094001"><lem resp="ihp" wit="【史】">遷</lem><rdg wit="【原】">&CB30634;</rdg></app>。非經像無以表其
+<lb ed="C I" n="0094b02"/>真。益世閏時。<note n="0094002" resp="ihp" place="foot text" type="orig">&CB02712;＝憑【史】</note><app n="0094002"><lem resp="ihp" wit="【史】">憑</lem><rdg wit="【原】">&CB02712;</rdg></app>形<note n="0094003" resp="ihp" place="foot text" type="orig">&CB01581;＝質【史】</note><app n="0094003"><lem resp="ihp" wit="【史】">質</lem><rdg wit="【原】">&CB01581;</rdg></app>如<note n="0094004" resp="ihp" place="foot text" type="orig">&CB30627;＝取【史】</note><app n="0094004"><lem resp="ihp" wit="【史】">取</lem><rdg wit="【原】">&CB30627;</rdg></app>利。然
+<lb ed="C I" n="0094b03"/>僧<note n="0094005" resp="ihp" place="foot text" type="orig">&CB30633;＝演【史】</note><app n="0094005"><lem resp="ihp" wit="【史】">演</lem><rdg wit="【原】">&CB30633;</rdg></app>減割衣&CB00425;之資。造石像壹
+<lb ed="C I" n="0094b04"/>區。金像三區。<note n="0094006" resp="ihp" place="foot text" type="orig">&CB30628;＝浮【史】</note><app n="0094006"><lem resp="ihp" wit="【史】">浮</lem><rdg wit="【原】">&CB30628;</rdg></app><note n="0094007" resp="ihp" place="foot text" type="orig">&CB30629;＝圖【史】</note><app n="0094007"><lem resp="ihp" wit="【史】">圖</lem><rdg wit="【原】">&CB30629;</rdg></app>三級。大般<note n="0094008" resp="ihp" place="foot text" type="orig">&CB30630;＝涅【史】</note><app n="0094008"><lem resp="ihp" wit="【史】">涅</lem><rdg wit="【原】">&CB30630;</rdg></app>
+<lb ed="C I" n="0094b05"/>槃經<note n="0094009" resp="ihp" place="foot text" type="orig">&CB30631;＝兩【史】</note><app n="0094009"><lem resp="ihp" wit="【史】">兩</lem><rdg wit="【原】">&CB30631;</rdg></app>部。雜經三百<unclear cert="low" reason="damage">品</unclear>。供養僧
+<lb ed="C I" n="0094b06"/><unclear cert="low" reason="damage">卅</unclear>人。上為　<note n="0094010" resp="ihp" place="foot text" type="orig">&CB18910;＝國【史】</note><app n="0094010"><lem resp="ihp" wit="【史】">國</lem><rdg wit="【原】">&CB18910;</rdg></app>主。百僚。師徒<note n="0094011" resp="ihp" place="foot text" type="orig">&CB30632;＝所【史】</note><app n="0094011"><lem resp="ihp" wit="【史】">所</lem><rdg wit="【原】">&CB30632;</rdg></app>
+<lb ed="C I" n="0094b07"/>生。法界之<note n="0094012" resp="ihp" place="foot text" type="orig">&CB30635;＝類【史】</note><app n="0094012"><lem resp="ihp" wit="【史】">類</lem><rdg wit="【原】">&CB30635;</rdg></app>。咸同正覺。
+<lb ed="C I" n="0094b08"/>大統四年。<note n="0094013" resp="ihp" place="foot text" type="orig">&CB15329;＝歲【史】</note><app n="0094013"><lem resp="ihp" wit="【史】">歲</lem><rdg wit="【原】">&CB15329;</rdg></app>次<note n="0094014" resp="ihp" place="foot text" type="orig">&CB07436;＝戊【史】</note><app n="0094014"><lem resp="ihp" wit="【史】">戊</lem><rdg wit="【原】">&CB07436;</rdg></app>午。七月十五
+<lb ed="C I" n="0094b09"/>日。比丘僧<app source="0094005" type="＊"><lem resp="ihp" wit="【史】">演</lem><rdg wit="【原】">&CB30633;</rdg></app>敬造供養。</p>
+</div2>
+<div2>
+<lb ed="C I" n="0094c01"/><p id="pI01p0094c0101">
+<lb ed="C I" n="0094c02"/>比丘道暈　比丘僧暢　比丘僧通
+<lb ed="C I" n="0094c03"/>比丘僧<app source="0094005" type="＊"><lem resp="ihp" wit="【史】">演</lem><rdg wit="【原】">&CB30633;</rdg></app>　比丘僧普　比丘惠云
+<lb ed="C I" n="0094c04"/>比丘法迴　比丘僧敬　比丘僧&CB06918;
+<lb ed="C I" n="0094c05"/>比丘僧端　比丘法豪　比丘道賢
+<lb ed="C I" n="0094c06"/>比丘僧曠　比丘僧云　比丘僧和
+<lb ed="C I" n="0094c07"/>比丘惠遵　比丘僧濟
+<lb ed="C I" n="0094c08"/>比丘道洸　比丘僧玉
+<lb ed="C I" n="0094c09"/>比丘法崇　比丘僧均　比丘法和</p>
+</div2>
+<div2>
+<lb ed="C I" n="0094d01"/><p id="pI01p0094d0101">
+<lb ed="C I" n="0094d02"/>董大女供養佛清信士萬□
+<lb ed="C I" n="0094d03"/>董當供養佛時
+<lb ed="C I" n="0094d04"/>董僧供養佛時
+<lb ed="C I" n="0094d05"/>董歡供養佛時清信女趙季寄供養
+<lb ed="C I" n="0094d06"/>董□樂供養佛清信女李□□供養
+<lb ed="C I" n="0094d07"/>姚舍欣供養佛
+<lb ed="C I" n="0094d08"/>殄難將軍郭穆供養佛清信女李□妙供養
+<lb ed="C I" n="0094d09"/>伏波將軍任歡供養佛</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

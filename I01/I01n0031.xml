@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "I01n0031.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selections of Buddhist Stone Rubbings from the Northern Dynasties, Electronic version, No. 0031 &CB01259;蒙文姬卅一人等造像記</title>
+                <author>顏娟英主編</author>
+                <respStmt>
+                    <resp>Electronic Version by</resp>
+                    <name>CBETA and DDBC</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>$Revision: 1.7 $<date>$Date: 2012/04/23 08:06:39 $</date></edition>
+            </editionStmt>
+            <extent>1卷</extent>
+            <publicationStmt>
+                <distributor>
+                    <name>中華電子佛典協會 (CBETA)</name>
+                    <address>
+                        <addrLine>service@cbeta.org</addrLine>
+                    </address>
+                </distributor>
+                <availability>
+<p>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/). </p>
+                </availability>
+                <date>$Date: 2012/04/23 08:06:39 $</date>
+            </publicationStmt>
+            <sourceDesc>
+      	      <bibl>Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 031 &desc;</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p lang="eng" type="ly">Text as provided by Institute of History and Philology, Academia Sinica</p>
+                <p lang="chi" type="ly">中央研究院歷史語言研究所</p>
+            </projectDesc>
+            </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+<div1>
+<pb n="0080a" id="I01.0031.0080a" ed="I"/>
+<lb ed="C I" n="0080a00"/><milestone n="1" unit="juan"/><head type="no">No. 31</head>
+<lb ed="C I" n="0080a00"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><title>&CB01259;蒙文姬卅一人等造像記</title></jhead></juan>
+<lb ed="C I" n="0080a00"/><mulu level="1" label="之一　碑側" type="其他"/><head>之一　碑側</head>
+<div2>
+<lb ed="C I" n="0080a01"/><p id="pI01p0080a0101"><unclear cert="medium" reason="damage">夫</unclear><unclear cert="medium" reason="damage">大</unclear>□□□薩云表<note n="0080001" resp="ihp" place="foot text" type="orig">&CB30570;＝挺【史】</note><app n="0080001"><lem resp="ihp" wit="【史】">挺</lem><rdg wit="【原】">&CB30570;</rdg></app>世之容。妙法開敷。波若闡<note n="0080002" resp="ihp" place="foot text" type="orig">&CB30562;＝權【史】</note><app n="0080002"><lem resp="ihp" wit="【史】">權</lem><rdg wit="【原】">&CB30562;</rdg></app>顯之音。如來
+<lb ed="C I" n="0080a02"/><unclear cert="medium" reason="damage">奄</unclear><unclear cert="medium" reason="damage">過</unclear>□□殊遷祀。像法<note n="0080003" resp="ihp" place="foot text" type="orig">&CB30576;＝雖【史】</note><app n="0080003"><lem resp="ihp" wit="【史】">雖</lem><rdg wit="【原】">&CB30576;</rdg></app>隆。床宗者&CB00458;。是以大代永熙二年
+<lb ed="C I" n="0080a03"/><unclear cert="medium" reason="damage">歲</unclear><unclear cert="medium" reason="damage">次</unclear>□□正月戊子朔八日乙未。北雍州宜君郡黃堡縣邑主&CB01259;蒙
+<lb ed="C I" n="0080a04"/><unclear cert="medium" reason="damage">文</unclear><unclear cert="medium" reason="damage">姬</unclear>□□娥合邑子卅一人等。自慨丕踰。流轉<app><lem wit="【CBETA】" resp="CBETA.maha">&CB07099;</lem><rdg wit="【原】【史】">旡</rdg></app>竊。故減<note n="0080004" resp="ihp" place="foot text" type="orig">&CB30428;＝割【史】</note><app n="0080004"><lem resp="ihp" wit="【史】">割</lem><rdg wit="【原】">&CB30428;</rdg></app>家珍。<note n="0080005" resp="ihp" place="foot text" type="orig">&CB30571;＝聘【史】</note><app n="0080005"><lem resp="ihp" wit="【史】">聘</lem><rdg wit="【原】">&CB30571;</rdg></app>
+<lb ed="C I" n="0080a05"/><unclear cert="medium" reason="damage">名</unclear>□□□大路顯敞之處。敬造石像一區。功<note n="0080006" resp="ihp" place="foot text" type="orig">&CB30455;＝就【史】</note><app n="0080006"><lem resp="ihp" wit="【史】">就</lem><rdg wit="【原】">&CB30455;</rdg></app><note n="0080007" resp="ihp" place="foot text" type="orig">&CB30577;＝成【史】</note><app n="0080007"><lem resp="ihp" wit="【史】">成</lem><rdg wit="【原】">&CB30577;</rdg></app>訖。令<note n="0080008" resp="ihp" place="foot text" type="orig">&CB30572;＝國【史】</note><app n="0080008"><lem resp="ihp" wit="【史】">國</lem><rdg wit="【原】">&CB30572;</rdg></app>祚永隆
+<lb ed="C I" n="0080a06"/><unclear cert="medium" reason="damage">人</unclear><unclear cert="medium" reason="damage">民</unclear>□　洽。下<note n="0080009" resp="ihp" place="foot text" type="orig">&CB30573;＝願【史】</note><app n="0080009"><lem resp="ihp" wit="【史】">願</lem><rdg wit="【原】">&CB30573;</rdg></app>慶七世。永超八難。神<note n="0080010" resp="ihp" place="foot text" type="orig">&CB30574;＝縣【史】</note><app n="0080010"><lem resp="ihp" wit="【史】">縣</lem><rdg wit="【原】">&CB30574;</rdg></app>福堂。濟生死之<note n="0080011" resp="ihp" place="foot text" type="orig">&CB25812;＝苦【史】</note><app n="0080011"><lem resp="ihp" wit="【史】">苦</lem><rdg wit="【原】">&CB25812;</rdg></app>。<app source="0080009" type="＊"><lem resp="ihp" wit="【史】">願</lem><rdg wit="【原】">&CB30573;</rdg></app>諸
+<lb ed="C I" n="0080a07"/><unclear cert="medium" reason="damage">邑</unclear><unclear cert="medium" reason="damage">子</unclear>□□<unclear cert="medium" reason="damage">蒙</unclear>拯。眾患消□。□<app source="0080009" type="＊"><lem resp="ihp" wit="【史】">願</lem><rdg wit="【原】">&CB30573;</rdg></app><note n="0080012" resp="ihp" place="foot text" type="orig">&CB30578;＝初【史】</note><app n="0080012"><lem resp="ihp" wit="【史】">初</lem><rdg wit="【原】">&CB30578;</rdg></app>首。書人夫蒙顯達。</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0080b00"/><mulu level="1" label="之二　碑側" type="其他"/><head>之二　碑側</head>
+<div2>
+<lb ed="C I" n="0080b01"/><p id="pI01p0080b0101">　　　　　　　　　　　　　　　邑子清信瓽高□　　邑子清信<unclear cert="medium" reason="damage">楊</unclear>妙娥　　邑子清信同&CB14685;鳳皇
+<lb ed="C I" n="0080b02"/>　　　　　　　　　　　　　姬　邑子清信同&CB14685;標姬　邑子清信同&CB14685;照姬　邑子清信同&CB14685;枝達
+<lb ed="C I" n="0080b03"/>　　　　　　　　　　　　　　　邑子清信同&CB14685;真朱
+<lb ed="C I" n="0080b04"/>　　　　　　　　　　　　伏男　　　　　　　　　　邑子清信成定姬　　邑子清信鉗耳支<unclear cert="low" reason="damage">誠</unclear>
+<lb ed="C I" n="0080b05"/>　　　　　　　　　　　　男姬　邑子清信同&CB14685;妙娥
+<lb ed="C I" n="0080b06"/>　　　　　　　　　　　　　　　邑子清信同&CB14685;軒朱　邑子清信同&CB14685;標姬　邑子清信夫蒙百伏
+<lb ed="C I" n="0080b07"/>　　　　　　　　　　　　　　　　　　　　　　　　　邑子清信□□□</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0080c00"/><mulu level="1" label="之三　碑陽" type="其他"/><head>之三　碑陽</head>
+<div2>
+<lb ed="C I" n="0080c01"/><p id="pI01p0080c0101">　　　　　　　　　　　　　　　惟那清□□拔連　　　香火清信王蘭小
+<lb ed="C I" n="0080c02"/>　　　　　　　　　　　　　　　邑謂清信同&CB14685;雲□　　典錄清信同&CB14685;阿美
+<lb ed="C I" n="0080c03"/>　　　　　　　　　　　　　　　邑主清信&CB01259;蒙文姬　　邑正清信同&CB14685;娥媚
+<lb ed="C I" n="0080c04"/>　　　　　　　　　　　　　　　比丘僧郭僧景名豐洛　彈官清信夫蒙妙朱
+<lb ed="C I" n="0080c05"/>　　　　　　　　　　　　　　　沙彌夫蒙僧貴　　　　彈官清信同&CB14685;天姬
+<lb ed="C I" n="0080c06"/>　　　　　　　　　　　　　　　邑主清信瓽姬娥　　　邑正清信朱阿儻
+<lb ed="C I" n="0080c07"/>　　　　　　　　　　　　　　　邑謂清信同&CB14685;定姜　　典錄清信同&CB14685;阿陵
+<lb ed="C I" n="0080c08"/>　　　　　　　　　　　　　　　維那清信同&CB14685;彌弱　　香火清信同&CB14685;磨&CB02408;
+<lb ed="C I" n="0080c09"/>　　　　　　　　　　　　　　　　　　　　　　　　　邑子清□</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0080d00"/><mulu level="1" label="之四　碑陰" type="其他"/><head>之四　碑陰</head>
+<div2>
+<lb ed="C I" n="0080d01"/><p id="pI01p0080d0101">　　　　　　　　　　　　　　亡邑子□信田文姜　　　邑子同&CB14685;□男
+<lb ed="C I" n="0080d02"/>　　　　　　　　　　　　　　亡邑子清信同&CB14685;文姬　　邑子夫蒙連□
+<lb ed="C I" n="0080d03"/>　　　　　　　　　　　　　　亡邑主清信&CB01259;蒙阿護承　邑子同&CB14685;□□
+<lb ed="C I" n="0080d04"/>　　　　　　　　　　　　　　亡邑主清信王<note n="0080013" resp="ihp" place="foot text" type="orig">&CB30575;＝歸【史】</note><app n="0080013"><lem resp="ihp" wit="【史】">歸</lem><rdg wit="【原】">&CB30575;</rdg></app>香　　　邑子夫蒙綠花
+<lb ed="C I" n="0080d05"/>　　　　　　　　　　　　　　亡惟那清信瓽姬香　　　邑子瓽俗男
+<lb ed="C I" n="0080d06"/>　　　　　　　　　　　　　　亡惟那清信同&CB14685;龍姜　　邑子荔非貴姬
+<lb ed="C I" n="0080d07"/>　　　　　　　　　　　　　　　　　　　　　　　　　邑子同&CB14685;道姬
+<lb ed="C I" n="0080d08"/>　　　　　　　　　　　　　　　邑子□想姬　　　　　邑子王□男
+<lb ed="C I" n="0080d09"/>　　　　　　　　　　　　　　　　　　　　　　　　　邑子同&CB14685;顯妃
+<lb ed="C I" n="0080d10"/>　　　　　　　　　　　　　　　　　　　　　　　　　邑子同&CB14685;娥花
+<lb ed="C I" n="0080d11"/>　　　　　　　　　　　　　　　　　　　　　　　　　邑子于向妃
+<lb ed="C I" n="0080d12"/>　　　　　　　　　　　　　　　　　　　　　　　　　邑子夫蒙照男
+<lb ed="C I" n="0080d13"/>　　　　　　　　　　　　　　　　　　　　　　　　　邑子雷貴姬
+<lb ed="C I" n="0080d14"/>　　　　　　　　　　　　　　　　　　　　　　　　　邑子同&CB14685;明月
+<lb ed="C I" n="0080d15"/>　　　　　　　　　　　　　　　　　　　　　　　　　邑子劉雙勝</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

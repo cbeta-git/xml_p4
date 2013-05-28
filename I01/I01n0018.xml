@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "I01n0018.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selections of Buddhist Stone Rubbings from the Northern Dynasties, Electronic version, No. 0018 張乾度七十人等造像記</title>
+                <author>顏娟英主編</author>
+                <respStmt>
+                    <resp>Electronic Version by</resp>
+                    <name>CBETA and DDBC</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>$Revision: 1.5 $<date>$Date: 2011/04/19 06:12:13 $</date></edition>
+            </editionStmt>
+            <extent>1卷</extent>
+            <publicationStmt>
+                <distributor>
+                    <name>中華電子佛典協會 (CBETA)</name>
+                    <address>
+                        <addrLine>service@cbeta.org</addrLine>
+                    </address>
+                </distributor>
+                <availability>
+<p>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/). </p>
+                </availability>
+                <date>$Date: 2011/04/19 06:12:13 $</date>
+            </publicationStmt>
+            <sourceDesc>
+      	      <bibl>Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 018 &desc;</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p lang="eng" type="ly">Text as provided by Institute of History and Philology, Academia Sinica</p>
+                <p lang="chi" type="ly">中央研究院歷史語言研究所</p>
+            </projectDesc>
+            </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+<div1>
+<pb n="0048a" id="I01.0018.0048a" ed="I"/>
+<lb ed="C I" n="0048a00"/><milestone n="1" unit="juan"/><head type="no">No. 18</head>
+<lb ed="C I" n="0048a00"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><title>張乾度七十人等造像記</title></jhead></juan>
+<lb ed="C I" n="0048a00"/><mulu level="1" label="之一" type="其他"/><head>之一</head>
+<div2>
+<lb ed="C I" n="0048a01"/><p id="pI01p0048a0101">侍者田龍鳳　　　邑正劉胡仁　道民田□□　錄生王鍾馗　道民田倪奴
+<lb ed="C I" n="0048a02"/>　　　　　　　　邑正王&CB00540;　　錄生劉□□　錄生田祖&CB00540;　道民劉歸宗　　　道民劉道步
+<lb ed="C I" n="0048a03"/>　　　　　　　　　　　　　　道民田鳳□　錄生田健一　道民劉天平
+<lb ed="C I" n="0048a04"/>　　　　　　　　　　　　　　道民劉順□　道民王歡　　道民劉安　　　　錄生劉仵但
+<lb ed="C I" n="0048a05"/>　　　　　　　　邑正劉醜奴　道民張猥□　道民常文猥　道民王　□　　　道民田豐洛
+<lb ed="C I" n="0048a06"/>侍者王道迴　　　　　　　　　道民田眾　　□□伊中正　道民王道養　　　道民常輔相</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0048b00"/><mulu level="1" label="之二" type="其他"/><head>之二</head>
+<div2>
+<lb ed="C I" n="0048b01"/><p id="pI01p0048b0101">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　道民田市□
+<lb ed="C I" n="0048b02"/>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　道民王特
+<lb ed="C I" n="0048b03"/>　　　　　　　　侍者田奴主　道民劉興宗　道民常眾保　道民田□宗　　　　　　　　　道民劉神虎　道民田歡洛
+<lb ed="C I" n="0048b04"/>□檀衛主劉漫特　　　　　　　邑正劉天威　道民張道生　道民王天助平望　道民田茍仁　道民劉黑洛　道民田道佛
+<lb ed="C I" n="0048b05"/>　　　　　　　　　　　　　　邑正田天与　邑老劉漫公　道民田洪引　　　道民田神安　道民田老德
+<lb ed="C I" n="0048b06"/>　　　　　　　　　　　　　　　　　　　　錄生劉陽奴　錄□田洪安　　　錄生劉仵歡　道民劉道虎
+<lb ed="C I" n="0048b07"/>　　　　　　　　　　　　　　彈官劉令劍
+<lb ed="C I" n="0048b08"/>　　　　　　　　　　　　　　□官劉羽歡　錄生常安洛　□□劉走德　　　錄生劉伯虎　錄生王道夆
+<lb ed="C I" n="0048b09"/>　　　　　　　　侍者王□祖　□民王道予　錄生姜保興　□生劉樂祖　　　錄生田神覆　錄生劉道夆</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0048c00"/><mulu level="1" label="之三" type="其他"/><head>之三</head>
+<div2>
+<lb ed="C I" n="0048c01"/><p id="pI01p0048c0101">道民劉成王　　　道民田□　　　　　　　　□□常雙
+<lb ed="C I" n="0048c02"/>道民劉始樂　　　道民田道生　道□安生　　道民田&CB00153;&CB01259;　道民田領<unclear cert="medium" reason="damage">族</unclear>
+<lb ed="C I" n="0048c03"/>道民田清　　　　邑子田阿景　道民□神慶　道民王顯琴　道民劉映世
+<lb ed="C I" n="0048c04"/>道民田大昌　　　道民田神達　道民□犢　　道民田景洛　道民劉神俱</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0049a00"/><mulu level="1" label="之四" type="其他"/><head>之四</head>
+<div2>
+<lb ed="C I" n="0049a01"/><p id="pI01p0049a0101">　　　　　　　　　　　　　道民劉道生　　道民□□□
+<lb ed="C I" n="0049a02"/>　　　　　　佛<unclear cert="medium" reason="damage">弟</unclear>子劉文端　佛弟子田韶&CB00540;　道民劉万多
+<lb ed="C I" n="0049a03"/>　　　　　　佛弟子劉歸&CB00540;　佛弟子劉眾達　道民劉神□
+<lb ed="C I" n="0049a04"/><unclear cert="medium" reason="damage">比丘劉</unclear>□<unclear cert="medium" reason="damage">施</unclear>　　　　　　　　　　　　　　　道民常□□</p>
+</div2>
+<div2>
+<lb ed="C I" n="0049b01"/><p id="pI01p0049b0101">□大聖零妙。神化萬方。□以大道□□□□□
+<lb ed="C I" n="0049b02"/>□苞&CB01890;<note n="0049001" resp="ihp" place="foot text" type="orig">&CB30449;＝乾【史】</note><app n="0049001"><lem resp="ihp" wit="【史】">乾</lem><rdg wit="【原】">&CB30449;</rdg></app><note n="0049002" resp="ihp" place="foot text" type="orig">&CB02655;＝坤【史】</note><app n="0049002"><lem resp="ihp" wit="【史】">坤</lem><rdg wit="【原】">&CB02655;</rdg></app>。造化陰陽。故<note n="0049003" resp="ihp" place="foot text" type="orig">&CB30450;＝能【史】</note><app n="0049003"><lem resp="ihp" wit="【史】">能</lem><rdg wit="【原】">&CB30450;</rdg></app>漸幽<note n="0049004" resp="ihp" place="foot text" type="orig">&CB30441;＝暇【史】</note><app n="0049004"><lem resp="ihp" wit="【史】">暇</lem><rdg wit="【原】">&CB30441;</rdg></app><note n="0049005" resp="ihp" place="foot text" type="orig">&CB30442;＝瑍【史】</note><app n="0049005"><lem resp="ihp" wit="【史】">瑍</lem><rdg wit="【原】">&CB30442;</rdg></app>。婚闇朗
+<lb ed="C I" n="0049b03"/>□伊趙<note n="0049006" resp="ihp" place="foot text" type="orig">&CB00362;＝體【史】</note><app n="0049006"><lem resp="ihp" wit="【史】">體</lem><rdg wit="【原】">&CB00362;</rdg></app>微妙□□神州。丈六金<note n="0049007" resp="ihp" place="foot text" type="orig">&CB30369;＝剛【史】</note><app n="0049007"><lem resp="ihp" wit="【史】">剛</lem><rdg wit="【原】">&CB30369;</rdg></app>。<app source="0049003" type="＊"><lem resp="ihp" wit="【史】">能</lem><rdg wit="【原】">&CB30450;</rdg></app><note n="0049008" resp="ihp" place="foot text" type="orig">&CB30443;＝短【史】</note><app n="0049008"><lem resp="ihp" wit="【史】">短</lem><rdg wit="【原】">&CB30443;</rdg></app><note n="0049009" resp="ihp" place="foot text" type="orig">&CB30440;＝能【史】</note><app n="0049009"><lem resp="ihp" wit="【史】">能</lem><rdg wit="【原】">&CB30440;</rdg></app>萇。
+<lb ed="C I" n="0049b04"/>□零朝宗俗□□望而延天堂。於今大魏門<note n="0049010" resp="ihp" place="foot text" type="orig">&CB30451;＝師【史】</note><app n="0049010"><lem resp="ihp" wit="【史】">師</lem><rdg wit="【原】">&CB30451;</rdg></app>
+<lb ed="C I" n="0049b05"/>張<app source="0049001" type="＊"><lem resp="ihp" wit="【史】">乾</lem><rdg wit="【原】">&CB30449;</rdg></app>度。<note n="0049011" resp="ihp" place="foot text" type="orig">&CB30444;＝師【史】</note><app n="0049011"><lem resp="ihp" wit="【史】">師</lem><rdg wit="【原】">&CB30444;</rdg></app>道妙率邑子七十人等。知求非常。皆
+<lb ed="C I" n="0049b06"/>同生<note n="0049012" resp="ihp" place="foot text" type="orig">&CB05383;＝年【史】</note><app n="0049012"><lem resp="ihp" wit="【史】">年</lem><rdg wit="【原】">&CB05383;</rdg></app>。□□□微福。信受法任。　<note n="0049013" resp="ihp" place="foot text" type="orig">&CB30445;＝愛【史】</note><app n="0049013"><lem resp="ihp" wit="【史】">愛</lem><rdg wit="【原】">&CB30445;</rdg></app>樂<note n="0049014" resp="ihp" place="foot text" type="orig">&CB30446;＝瓊【史】</note><app n="0049014"><lem resp="ihp" wit="【史】">瓊</lem><rdg wit="【原】">&CB30446;</rdg></app>文。敬
+<lb ed="C I" n="0049b07"/>崇三寶。<unclear cert="low" reason="damage">共</unclear>興邑儀。思<unclear cert="medium" reason="damage">建</unclear>功得。成心久著。各自竭
+<lb ed="C I" n="0049b08"/>家珍。故匠刊石。<unclear cert="medium" reason="damage">造</unclear>刑像一傴。上願　皇帝<note n="0049015" resp="ihp" place="foot text" type="orig">&CB30447;＝陛【史】</note><app n="0049015"><lem resp="ihp" wit="【史】">陛</lem><rdg wit="【原】">&CB30447;</rdg></app>下牧守令長。
+<lb ed="C I" n="0049b09"/>願保□零。下為七世父母。<note n="0049016" resp="ihp" place="foot text" type="orig">&CB30421;＝所【史】</note><app n="0049016"><lem resp="ihp" wit="【史】">所</lem><rdg wit="【原】">&CB30421;</rdg></app>生父母。常在太上
+<lb ed="C I" n="0049b10"/>左右。大代神<note n="0049017" resp="ihp" place="foot text" type="orig">&CB30448;＝龜【史】</note><app n="0049017"><lem resp="ihp" wit="【史】">龜</lem><rdg wit="【原】">&CB30448;</rdg></app>二年歲次己亥十月丁未朔十四日
+<lb ed="C I" n="0049b11"/>庚申。□□□□□<unclear cert="medium" reason="damage">敬</unclear>造訖。雍州<unclear cert="low" reason="damage">馮</unclear><unclear cert="low" reason="damage">翊</unclear>郡萬年縣西鄉人。</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

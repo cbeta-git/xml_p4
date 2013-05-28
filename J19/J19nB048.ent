@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="big5" ?>
+<!ENTITY CB00001 "<gaiji uniflag='1' cb='CB00001' des='[肄-聿+欠]' uni='6B35' nor='款' mojikyo='M016085' mofont='Mojikyo M103' mochar='7D46'/>" >
+<!ENTITY CB00018 "<gaiji uniflag='1' cb='CB00018' des='[兙-十+寸]' uni='5C05' nor='剋' mojikyo='M007435' mofont='Mojikyo M102' mochar='8FBF'/>" >
+<!ENTITY CB00020 "<gaiji uniflag='1' cb='CB00020' des='[〦/弁]' uni='5F03' nor='棄' mojikyo='M009594' mofont='Mojikyo M102' mochar='6904'/>" >
+<!ENTITY CB00024 "<gaiji uniflag='1' cb='CB00024' des='[卄/匆/心]' uni='8471' nor='蔥' mojikyo='M031454' mofont='Mojikyo M106' mochar='58D3'/>" >
+<!ENTITY CB00027 "<gaiji uniflag='1' cb='CB00027' des='[卄/位]' uni='8385' nor='蒞' mojikyo='M055535' mofont='Mojikyo M110' mochar='7CB3'/>" >
+<!ENTITY CB00028 "<gaiji uniflag='1' cb='CB00028' des='[卄/別]' uni='8382' mojikyo='M031017' mofont='Mojikyo M106' mochar='674E'/>" >
+<!ENTITY CB00033 "<gaiji uniflag='1' cb='CB00033' des='[卄/舀]' uni='84DE' nor='萏' mojikyo='M059897' mofont='Mojikyo M111' mochar='5F5D'/>" >
+<!ENTITY CB00036 "<gaiji uniflag='0' cb='CB00036' des='[卄/積]' uni='27090' mojikyo='M032436' mofont='Mojikyo M106' mochar='6F78'/>" >
+<!ENTITY CB00043 "<gaiji uniflag='0' cb='CB00043' des='[乞*頁]' uni='29454' mojikyo='M043347' mofont='Mojikyo M108' mochar='6716'/>" >
+<!ENTITY CB00046 "<gaiji uniflag='1' cb='CB00046' des='[口*(自/(犀-尸-牛)/十)]' uni='5637' nor='嗥' mojikyo='M004264' mofont='Mojikyo M101' mochar='6FDB'/>" >
+<!ENTITY CB00048 "<gaiji uniflag='1' cb='CB00048' des='[口*十]' uni='53F6' nor='協' mojikyo='M003255' mofont='Mojikyo M101' mochar='58D1'/>" >
+<!ENTITY CB00056 "<gaiji uniflag='1' cb='CB00056' des='[口*他]' uni='5483' mojikyo='M003479' mofont='Mojikyo M101' mochar='5ED6'/>" >
+<!ENTITY CB00058 "<gaiji uniflag='1' cb='CB00058' des='[口*司]' uni='545E' nor='齝' mojikyo='M003426' mofont='Mojikyo M101' mochar='5D4E'/>" >
+<!ENTITY CB00059 "<gaiji uniflag='1' cb='CB00059' des='[口*它]' uni='549C' mojikyo='M050005' mofont='Mojikyo M109' mochar='7E9B'/>" >
+<!ENTITY CB00061 "<gaiji uniflag='1' cb='CB00061' des='[口*永]' uni='548F' nor='詠' mojikyo='M003494' mofont='Mojikyo M101' mochar='5EFE'/>" >
+<!ENTITY CB00062 "<gaiji uniflag='1' cb='CB00062' des='[口*宅]' uni='54A4' mojikyo='M003533' mofont='Mojikyo M101' mochar='5FFB'/>" >
+<!ENTITY CB00064 "<gaiji uniflag='1' cb='CB00064' des='[口*和]' uni='555D' mojikyo='M003833' mofont='Mojikyo M101' mochar='6649'/>" >
+<!ENTITY CB00069 "<gaiji uniflag='0' cb='CB00069' des='[口*栗]' uni='35DA' mojikyo='M004101' mofont='Mojikyo M101' mochar='6BDF'/>" >
+<!ENTITY CB00078 "<gaiji uniflag='1' cb='CB00078' des='[口*翕]' uni='564F' mojikyo='M004310' mofont='Mojikyo M101' mochar='7195'/>" >
+<!ENTITY CB00081 "<gaiji uniflag='0' cb='CB00081' des='[口*銜]' uni='3605' nor='銜' mojikyo='M004449' mofont='Mojikyo M101' mochar='7564'/>" >
+<!ENTITY CB00085 "<gaiji uniflag='1' cb='CB00085' des='[口*縛]' uni='56A9' mojikyo='M004555' mofont='Mojikyo M101' mochar='7768'/>" >
+<!ENTITY CB00090 "<gaiji uniflag='0' cb='CB00090' des='[口*恒]' uni='20DD0' mojikyo='M003980' mofont='Mojikyo M101' mochar='6961'/>" >
+<!ENTITY CB00096 "<gaiji uniflag='0' cb='CB00096' des='[土*瓦]' uni='24B2A' mojikyo='M021447' mofont='Mojikyo M104' mochar='76B4'/>" >
+<!ENTITY CB00101 "<gaiji uniflag='1' cb='CB00101' des='[土*曇]' uni='58DC' nor='罈' mojikyo='M005588' mofont='Mojikyo M101' mochar='8F05'/>" >
+<!ENTITY CB00104 "<gaiji uniflag='1' cb='CB00104' des='[女*((奐-大)/比)]' nor_uni='5AD3' nor='媲' mojikyo='M067843' mofont='Mojikyo M113' mochar='6028'/>" >
+<!ENTITY CB00108 "<gaiji uniflag='1' cb='CB00108' des='[女*亥]' uni='59DF' mojikyo='M006209' mofont='Mojikyo M102' mochar='7AF6'/>" >
+<!ENTITY CB00124 "<gaiji uniflag='1' cb='CB00124' des='[巾*票]' uni='5E56' mojikyo='M009053' mofont='Mojikyo M102' mochar='5D15'/>" >
+<!ENTITY CB00126 "<gaiji uniflag='1' cb='CB00126' des='[仁-二+妄]' uni='4FAB' nor='佞' mojikyo='M054539' mofont='Mojikyo M110' mochar='64F2'/>" >
+<!ENTITY CB00127 "<gaiji uniflag='1' cb='CB00127' des='[仁-二+妾]' uni='503F' nor='佞' mojikyo='M059077' mofont='Mojikyo M111' mochar='9EBA'/>" >
+<!ENTITY CB00128 "<gaiji uniflag='0' cb='CB00128' des='[仁-二+戾]' uni='3466' mojikyo='M000764' mofont='Mojikyo M101' mochar='8B19'/>" >
+<!ENTITY CB00153 "<gaiji uniflag='1' cb='CB00153' des='[日*英]' uni='668E' nor='映' mojikyo='M014048' mofont='Mojikyo M103' mochar='64C1'/>" >
+<!ENTITY CB00160 "<gaiji uniflag='1' cb='CB00160' des='[月*永]' uni='8109' nor='脈' mojikyo='M050370' mofont='Mojikyo M109' mochar='8737'/>" >
+<!ENTITY CB00163 "<gaiji uniflag='0' cb='CB00163' des='[月*者]' uni='4417' mojikyo='M029714' mofont='Mojikyo M106' mochar='52E2'/>" >
+<!ENTITY CB00165 "<gaiji uniflag='1' cb='CB00165' des='[月*耑]' uni='8168' mojikyo='M029685' mofont='Mojikyo M106' mochar='9042'/>" >
+<!ENTITY CB00166 "<gaiji uniflag='0' cb='CB00166' des='[月*庸]' uni='267DB' nor='傭' mojikyo='M029827' mofont='Mojikyo M106' mochar='66FE'/>" >
+<!ENTITY CB00176 "<gaiji uniflag='1' cb='CB00176' des='[木*伐]' uni='6830' mojikyo='M014731' mofont='Mojikyo M103' mochar='5E0B'/>" >
+<!ENTITY CB00184 "<gaiji uniflag='1' cb='CB00184' des='[木*鬲]' uni='69C5' mojikyo='M015306' mofont='Mojikyo M103' mochar='6A0C'/>" >
+<!ENTITY CB00190 "<gaiji uniflag='0' cb='CB00190' des='[木*柰]' uni='3B8F' mojikyo='M015098' mofont='Mojikyo M103' mochar='65D9'/>" >
+<!ENTITY CB00197 "<gaiji uniflag='0' cb='CB00197' des='[火*孛]' uni='3DBF' mojikyo='M019072' mofont='Mojikyo M104' mochar='5C3C'/>" >
+<!ENTITY CB00206 "<gaiji uniflag='1' cb='CB00206' des='[火*耎]' uni='7157' nor='煖' mojikyo='M019197' mofont='Mojikyo M104' mochar='7B4F'/>" >
+<!ENTITY CB00213 "<gaiji uniflag='1' cb='CB00213' des='[牛/牪]' uni='7287' nor='奔' mojikyo='M020058' mofont='Mojikyo M104' mochar='559E'/>" >
+<!ENTITY CB00225 "<gaiji uniflag='1' cb='CB00225' des='[王*貴]' uni='749D' mojikyo='M021244' mofont='Mojikyo M104' mochar='71FC'/>" >
+<!ENTITY CB00227 "<gaiji uniflag='1' cb='CB00227' des='[王*褱]' uni='74CC' nor='瑰' mojikyo='M021336' mofont='Mojikyo M104' mochar='74CF'/>" >
+<!ENTITY CB00234 "<gaiji uniflag='1' cb='CB00234' des='[打-丁+(隹/乃)]' uni='643A' nor='攜' mojikyo='M012529' mofont='Mojikyo M103' mochar='4F4F'/>" >
+<!ENTITY CB00236 "<gaiji uniflag='1' cb='CB00236' des='[打-丁+勾]' uni='6285' nor='拘' mojikyo='M011865' mofont='Mojikyo M103' mochar='6559'/>" >
+<!ENTITY CB00238 "<gaiji uniflag='0' cb='CB00238' des='[打-丁+毛]' uni='39CC' mojikyo='M011861' mofont='Mojikyo M103' mochar='602F'/>" >
+<!ENTITY CB00247 "<gaiji uniflag='1' cb='CB00247' des='[打-丁+突]' uni='63EC' mojikyo='M012388' mofont='Mojikyo M103' mochar='81F3'/>" >
+<!ENTITY CB00248 "<gaiji uniflag='0' cb='CB00248' des='[打-丁+致]' uni='3A16' mojikyo='M012411' mofont='Mojikyo M103' mochar='6CBB'/>" >
+<!ENTITY CB00250 "<gaiji uniflag='1' cb='CB00250' des='[打-丁+桀]' uni='6429' mojikyo='M012504' mofont='Mojikyo M103' mochar='5C31'/>" >
+<!ENTITY CB00256 "<gaiji uniflag='1' cb='CB00256' des='[打-丁+羅]' uni='651E' mojikyo='M013022' mofont='Mojikyo M103' mochar='5CB1'/>" >
+<!ENTITY CB00263 "<gaiji uniflag='0' cb='CB00263' des='[目*妾]' uni='251D2' nor='睫' mojikyo='M023433' mofont='Mojikyo M105' mochar='6821'/>" >
+<!ENTITY CB00265 "<gaiji uniflag='1' cb='CB00265' des='[矛*令]' uni='77DD' nor='矜' mojikyo='M023859' mofont='Mojikyo M105' mochar='6E1A'/>" >
+<!ENTITY CB00266 "<gaiji uniflag='1' cb='CB00266' des='[矛*肖]' uni='77DF' nor='槊' mojikyo='M023867' mofont='Mojikyo M105' mochar='52A9'/>" >
+<!ENTITY CB00267 "<gaiji uniflag='0' cb='CB00267' des='[矛*贊]' uni='408E' mojikyo='M023925' mofont='Mojikyo M105' mochar='7CA7'/>" >
+<!ENTITY CB00269 "<gaiji uniflag='1' cb='CB00269' des='[石*歷]' uni='7930' mojikyo='M024583' mofont='Mojikyo M105' mochar='83DF'/>" >
+<!ENTITY CB00276 "<gaiji uniflag='1' cb='CB00276' des='[穴/井]' uni='7A7D' nor='阱' mojikyo='M025433' mofont='Mojikyo M105' mochar='4F96'/>" >
+<!ENTITY CB00277 "<gaiji uniflag='1' cb='CB00277' des='[立*令]' uni='7ADB' mojikyo='M025746' mofont='Mojikyo M105' mochar='56C8'/>" >
+<!ENTITY CB00280 "<gaiji uniflag='1' cb='CB00280' des='[立*宁]' uni='7ADA' nor='佇' mojikyo='M025744' mofont='Mojikyo M105' mochar='56C3'/>" >
+<!ENTITY CB00285 "<gaiji uniflag='1' cb='CB00285' des='[任/几]' uni='51ED' nor='憑' mojikyo='M001766' mofont='Mojikyo M101' mochar='984C'/>" >
+<!ENTITY CB00290 "<gaiji uniflag='1' cb='CB00290' des='[冰-水+食]' uni='98E1' nor='餐' mojikyo='M044022' mofont='Mojikyo M108' mochar='7708'/>" >
+<!ENTITY CB00292 "<gaiji uniflag='0' cb='CB00292' des='[合*牛]' uni='24656' mojikyo='M020011' mofont='Mojikyo M104' mochar='5476'/>" >
+<!ENTITY CB00293 "<gaiji uniflag='1' cb='CB00293' des='[朱/黽]' uni='9F04' mojikyo='M048280' mofont='Mojikyo M109' mochar='5650'/>" >
+<!ENTITY CB00296 "<gaiji uniflag='1' cb='CB00296' des='[米*會]' uni='7CE9' mojikyo='M027150' mofont='Mojikyo M105' mochar='7886'/>" >
+<!ENTITY CB00302 "<gaiji uniflag='1' cb='CB00302' des='[耳*止]' uni='803B' nor='恥' mojikyo='M029019' mofont='Mojikyo M106' mochar='543E'/>" >
+<!ENTITY CB00305 "<gaiji uniflag='1' cb='CB00305' des='[自/死]' uni='81F0' nor='臭' mojikyo='M030120' mofont='Mojikyo M106' mochar='69CC'/>" >
+<!ENTITY CB00306 "<gaiji uniflag='1' cb='CB00306' des='[至*鳥]' uni='9D44' nor='鴟' mojikyo='M046833' mofont='Mojikyo M109' mochar='8896'/>" >
+<!ENTITY CB00308 "<gaiji uniflag='1' cb='CB00308' des='[色-巴+鹿]' uni='9E81' nor='麤' mojikyo='M047591' mofont='Mojikyo M109' mochar='4F75'/>" >
+<!ENTITY CB00309 "<gaiji uniflag='1' cb='CB00309' des='[虫*也]' uni='8675' nor='蛇' mojikyo='M032820' mofont='Mojikyo M106' mochar='795F'/>" >
+<!ENTITY CB00315 "<gaiji uniflag='0' cb='CB00315' des='[利-禾+皮]' uni='34DF' mojikyo='M001913' mofont='Mojikyo M101' mochar='73CD'/>" >
+<!ENTITY CB00331 "<gaiji uniflag='0' cb='CB00331' des='[束*束]' uni='235E5' nor='棘' mojikyo='M061351' mofont='Mojikyo M111' mochar='8068'/>" >
+<!ENTITY CB00333 "<gaiji uniflag='1' cb='CB00333' des='[狂-王+才]' uni='72B2' nor='豺' mojikyo='M020248' mofont='Mojikyo M104' mochar='5AFA'/>" >
+<!ENTITY CB00338 "<gaiji uniflag='1' cb='CB00338' des='[狂-王+爰]' uni='7328' nor='猿' mojikyo='M020525' mofont='Mojikyo M104' mochar='613E'/>" >
+<!ENTITY CB00339 "<gaiji uniflag='1' cb='CB00339' des='[狂-王+苗]' uni='732B' nor='貓' mojikyo='M020535' mofont='Mojikyo M104' mochar='6144'/>" >
+<!ENTITY CB00344 "<gaiji uniflag='1' cb='CB00344' des='[言*我]' uni='8A90' mojikyo='M035509' mofont='Mojikyo M107' mochar='71E5'/>" >
+<!ENTITY CB00348 "<gaiji uniflag='1' cb='CB00348' des='[言*舀]' uni='8B1F' mojikyo='M035831' mofont='Mojikyo M107' mochar='64A4'/>" >
+<!ENTITY CB00357 "<gaiji uniflag='1' cb='CB00357' des='[貝*余]' uni='8CD6' nor='賒' mojikyo='M036786' mofont='Mojikyo M107' mochar='5169'/>" >
+<!ENTITY CB00360 "<gaiji uniflag='1' cb='CB00360' des='[身*果]' uni='8EB6' nor='裸' mojikyo='M038099' mofont='Mojikyo M107' mochar='6FEC'/>" >
+<!ENTITY CB00365 "<gaiji uniflag='1' cb='CB00365' des='[車*耎]' uni='8F2D' mojikyo='M038412' mofont='Mojikyo M107' mochar='77BD'/>" >
+<!ENTITY CB00367 "<gaiji uniflag='1' cb='CB00367' des='[酉*咸]' uni='918E' mojikyo='M039926' mofont='Mojikyo M108' mochar='8D0B'/>" >
+<!ENTITY CB00371 "<gaiji uniflag='0' cb='CB00371' des='[乳-孚+卓]' uni='200F5' nor='乾' mojikyo='M067152' mofont='Mojikyo M112' mochar='8403'/>" >
+<!ENTITY CB00374 "<gaiji uniflag='1' cb='CB00374' des='[券-刀+力]' uni='52B5' mojikyo='M002330' mofont='Mojikyo M101' mochar='7891'/>" >
+<!ENTITY CB00375 "<gaiji uniflag='1' cb='CB00375' des='[卒*頁]' uni='9847' nor='悴' mojikyo='M043557' mofont='Mojikyo M108' mochar='6B5F'/>" >
+<!ENTITY CB00385 "<gaiji uniflag='1' cb='CB00385' des='[怡-台+吝]' uni='608B' nor='吝' mojikyo='M010640' mofont='Mojikyo M102' mochar='8195'/>" >
+<!ENTITY CB00386 "<gaiji uniflag='1' cb='CB00386' des='[怡-台+吳]' uni='609E' nor='誤' mojikyo='M010679' mofont='Mojikyo M102' mochar='8240'/>" >
+<!ENTITY CB00392 "<gaiji uniflag='1' cb='CB00392' des='[怡-台+敖]' uni='6160' nor='傲' mojikyo='M011106' mofont='Mojikyo M102' mochar='8C3A'/>" >
+<!ENTITY CB00395 "<gaiji uniflag='0' cb='CB00395' des='[怡-台+龍]' uni='22931' mojikyo='M011460' mofont='Mojikyo M103' mochar='5869'/>" >
+<!ENTITY CB00396 "<gaiji uniflag='1' cb='CB00396' des='[怡-台+劦]' uni='604A' mojikyo='M010535' mofont='Mojikyo M102' mochar='7F55'/>" >
+<!ENTITY CB00397 "<gaiji uniflag='1' cb='CB00397' des='[怡-台+尃]' uni='613D' nor='博' mojikyo='M011028' mofont='Mojikyo M102' mochar='8A03'/>" >
+<!ENTITY CB00402 "<gaiji uniflag='1' cb='CB00402' des='[泳-永+(廌/去)]' uni='704B' nor='法' mojikyo='M018757' mofont='Mojikyo M104' mochar='6C60'/>" >
+<!ENTITY CB00403 "<gaiji uniflag='0' cb='CB00403' des='[泳-永+公]' uni='3CC2' nor='沿' mojikyo='M017179' mofont='Mojikyo M104' mochar='7259'/>" >
+<!ENTITY CB00406 "<gaiji uniflag='1' cb='CB00406' des='[泳-永+敕]' uni='6F44' nor='漱' mojikyo='M018172' mofont='Mojikyo M104' mochar='5F93'/>" >
+<!ENTITY CB00417 "<gaiji uniflag='1' cb='CB00417' des='[竺-二+耑]' uni='7BC5' mojikyo='M026255' mofont='Mojikyo M105' mochar='62FF'/>" >
+<!ENTITY CB00419 "<gaiji uniflag='1' cb='CB00419' des='[舍*官]' uni='8218' nor='館' mojikyo='M030326' mofont='Mojikyo M106' mochar='8C5A'/>" >
+<!ENTITY CB00421 "<gaiji uniflag='0' cb='CB00421' des='[邱-丘+血]' uni='460F' nor='卹' mojikyo='M033968' mofont='Mojikyo M107' mochar='990C'/>" >
+<!ENTITY CB00422 "<gaiji uniflag='1' cb='CB00422' des='[邱-丘+廛]' uni='913D' nor='廛' mojikyo='M039718' mofont='Mojikyo M108' mochar='798D'/>" >
+<!ENTITY CB00426 "<gaiji uniflag='0' cb='CB00426' des='[金*矛]' uni='28968' nor='矛' mojikyo='M040293' mofont='Mojikyo M108' mochar='9F13'/>" >
+<!ENTITY CB00428 "<gaiji uniflag='1' cb='CB00428' des='[金*俞]' uni='936E' mojikyo='M040645' mofont='Mojikyo M108' mochar='5072'/>" >
+<!ENTITY CB00432 "<gaiji uniflag='1' cb='CB00432' des='[金*廣]' uni='945B' nor='礦' mojikyo='M041010' mofont='Mojikyo M108' mochar='7CBE'/>" >
+<!ENTITY CB00434 "<gaiji uniflag='1' cb='CB00434' des='[門@(人/(人*人))]' uni='95A6' mojikyo='M041309' mofont='Mojikyo M108' mochar='7537'/>" >
+<!ENTITY CB00435 "<gaiji uniflag='1' cb='CB00435' des='[門@(豆*寸)]' uni='95D8' nor='鬥' mojikyo='M050601' mofont='Mojikyo M109' mochar='8C8A'/>" >
+<!ENTITY CB00441 "<gaiji uniflag='0' cb='CB00441' des='[門@龠]' uni='28DF2' mojikyo='M041528' mofont='Mojikyo M108' mochar='6295'/>" >
+<!ENTITY CB00446 "<gaiji uniflag='1' cb='CB00446' des='[阿-可+巢]' uni='969F' nor='隙' mojikyo='M041829' mofont='Mojikyo M108' mochar='7709'/>" >
+<!ENTITY CB00447 "<gaiji uniflag='1' cb='CB00447' des='[阿-可+登]' uni='96A5' nor='磴' mojikyo='M041850' mofont='Mojikyo M108' mochar='767E'/>" >
+<!ENTITY CB00449 "<gaiji uniflag='1' cb='CB00449' des='[雨/注]' uni='9714' nor='澍' mojikyo='M042333' mofont='Mojikyo M108' mochar='4EED'/>" >
+<!ENTITY CB00453 "<gaiji uniflag='1' cb='CB00453' des='[南*犬]' uni='732E' nor='獻' mojikyo='M020539' mofont='Mojikyo M104' mochar='6159'/>" >
+<!ENTITY CB00455 "<gaiji uniflag='1' cb='CB00455' des='[施-方+馬]' uni='99DE' nor='駝' mojikyo='M044682' mofont='Mojikyo M108' mochar='860B'/>" >
+<!ENTITY CB00458 "<gaiji uniflag='1' cb='CB00458' des='[甚*少]' uni='5C20' nor='尟' mojikyo='M007523' mofont='Mojikyo M102' mochar='5E81'/>" >
+<!ENTITY CB00460 "<gaiji uniflag='1' cb='CB00460' des='[虺-虫+王]' uni='5C2B' nor='尪' mojikyo='M007559' mofont='Mojikyo M102' mochar='690E'/>" >
+<!ENTITY CB00481 "<gaiji uniflag='1' cb='CB00481' des='[病-丙+包]' uni='75B1' mojikyo='M022082' mofont='Mojikyo M104' mochar='852C'/>" >
+<!ENTITY CB00484 "<gaiji uniflag='1' cb='CB00484' des='[病-丙+亞]' uni='7602' nor='啞' mojikyo='M022297' mofont='Mojikyo M104' mochar='89B2'/>" >
+<!ENTITY CB00485 "<gaiji uniflag='1' cb='CB00485' des='[病-丙+婁]' uni='763B' nor='瘺' mojikyo='M022467' mofont='Mojikyo M104' mochar='8E47'/>" >
+<!ENTITY CB00486 "<gaiji uniflag='1' cb='CB00486' des='[病-丙+陰]' uni='764A' mojikyo='M022480' mofont='Mojikyo M104' mochar='8E7C'/>" >
+<!ENTITY CB00487 "<gaiji uniflag='1' cb='CB00487' des='[病-丙+黃]' uni='7640' mojikyo='M022493' mofont='Mojikyo M104' mochar='8EAC'/>" >
+<!ENTITY CB00502 "<gaiji uniflag='1' cb='CB00502' des='[馬*丘]' uni='99C8' nor='驅' mojikyo='M044636' mofont='Mojikyo M108' mochar='84A1'/>" >
+<!ENTITY CB00512 "<gaiji uniflag='1' cb='CB00512' des='[執/衣]' uni='893A' mojikyo='M034535' mofont='Mojikyo M107' mochar='6167'/>" >
+<!ENTITY CB00513 "<gaiji uniflag='1' cb='CB00513' des='[專*瓦]' uni='750E' mojikyo='M057507' mofont='Mojikyo M111' mochar='8102'/>" >
+<!ENTITY CB00514 "<gaiji uniflag='1' cb='CB00514' des='[崖-山]' uni='5393' mojikyo='M002930' mofont='Mojikyo M101' mochar='5116'/>" >
+<!ENTITY CB00518 "<gaiji uniflag='1' cb='CB00518' des='[斬/心]' uni='6159' nor='慚' mojikyo='M011095' mofont='Mojikyo M102' mochar='8B6F'/>" >
+<!ENTITY CB00525 "<gaiji uniflag='1' cb='CB00525' des='[袖-由+戒]' uni='88D3' mojikyo='M034301' mofont='Mojikyo M107' mochar='5E0C'/>" >
+<!ENTITY CB00528 "<gaiji uniflag='1' cb='CB00528' des='[這-言+亦]' uni='8FF9' nor='跡' mojikyo='M038827' mofont='Mojikyo M107' mochar='8151'/>" >
+<!ENTITY CB00538 "<gaiji uniflag='1' cb='CB00538' des='[鹿/章]' uni='9E9E' nor='獐' mojikyo='M047688' mofont='Mojikyo M109' mochar='671B'/>" >
+<!ENTITY CB00539 "<gaiji uniflag='0' cb='CB00539' des='[麥*廣]' uni='2A37F' mojikyo='M047878' mofont='Mojikyo M109' mochar='8A89'/>" >
+<!ENTITY CB00542 "<gaiji uniflag='0' cb='CB00542' des='[斯/瓦]' uni='3F44' mojikyo='M021606' mofont='Mojikyo M104' mochar='7AE6'/>" >
+<!ENTITY CB00545 "<gaiji uniflag='1' cb='CB00545' des='[毯-炎+匊]' uni='6BF1' nor='鞠' mojikyo='M016865' mofont='Mojikyo M103' mochar='8EEB'/>" >
+<!ENTITY CB00546 "<gaiji uniflag='1' cb='CB00546' des='[焦*頁]' uni='9866' nor='憔' mojikyo='M043688' mofont='Mojikyo M108' mochar='6ED3'/>" >
+<!ENTITY CB00554 "<gaiji uniflag='1' cb='CB00554' des='[虛*戈]' uni='6231' nor='戲' mojikyo='M011668' mofont='Mojikyo M103' mochar='5DFB'/>" >
+<!ENTITY CB00556 "<gaiji uniflag='1' cb='CB00556' des='[暇-日]' uni='53DA' mojikyo='M003165' mofont='Mojikyo M101' mochar='5638'/>" >
+<!ENTITY CB00559 "<gaiji uniflag='1' cb='CB00559' des='[罩-卓+絹]' uni='7F82' nor='罥' mojikyo='M028386' mofont='Mojikyo M106' mochar='5965'/>" >
+<!ENTITY CB00569 "<gaiji uniflag='1' cb='CB00569' des='[跳-兆+翕]' uni='8E79' mojikyo='M037884' mofont='Mojikyo M107' mochar='8617'/>" >
+<!ENTITY CB00571 "<gaiji uniflag='0' cb='CB00571' des='[跳-兆+尃]' mojikyo='M065770' mofont='Mojikyo M112' mochar='6369'/>" >
+<!ENTITY CB00574 "<gaiji uniflag='0' cb='CB00574' des='[夢-夕+登]' uni='2713C' mojikyo='M032592' mofont='Mojikyo M106' mochar='73DE'/>" >
+<!ENTITY CB00576 "<gaiji uniflag='0' cb='CB00576' des='[寧*頁]' uni='29573' mojikyo='M043724' mofont='Mojikyo M108' mochar='6F7C'/>" >
+<!ENTITY CB00580 "<gaiji uniflag='1' cb='CB00580' des='[漸/土]' uni='58CD' nor='塹' mojikyo='M005542' mofont='Mojikyo M101' mochar='8E42'/>" >
+<!ENTITY CB00587 "<gaiji uniflag='1' cb='CB00587' des='[鼻*臭]' uni='9F45' nor='嗅' mojikyo='M048543' mofont='Mojikyo M109' mochar='5D18'/>" >
+<!ENTITY CB00588 "<gaiji uniflag='1' cb='CB00588' des='[殤-歹+土]' uni='5872' nor='場' mojikyo='M005385' mofont='Mojikyo M101' mochar='89E7'/>" >
+<!ENTITY CB00590 "<gaiji uniflag='0' cb='CB00590' des='[穀-禾+牛]' uni='246B2' mojikyo='M020123' mofont='Mojikyo M104' mochar='55C7'/>" >
+<!ENTITY CB00595 "<gaiji uniflag='1' cb='CB00595' des='[麩-夫+少]' nor_uni='9EA8' mojikyo='M047733' mofont='Mojikyo M109' mochar='5E55'/>" >
+<!ENTITY CB00598 "<gaiji uniflag='1' cb='CB00598' des='[齒*乍]' uni='9F5A' nor='齰' mojikyo='M048614' mofont='Mojikyo M109' mochar='5EFE'/>" >
+<!ENTITY CB00600 "<gaiji uniflag='0' cb='CB00600' des='[齒*來]' uni='2A628' mojikyo='M048697' mofont='Mojikyo M109' mochar='6092'/>" >
+<!ENTITY CB00610 "<gaiji uniflag='1' cb='CB00610' des='[蕊/木]' uni='8602' nor='蕊' mojikyo='M032410' mofont='Mojikyo M106' mochar='6EAF'/>" >
+<!ENTITY CB00612 "<gaiji uniflag='1' cb='CB00612' des='[澀-(刃*刃)+止]' uni='6F81' nor='澀' mojikyo='M018312' mofont='Mojikyo M104' mochar='5834'/>" >
+<!ENTITY CB00614 "<gaiji uniflag='1' cb='CB00614' des='[爵-(采-木)+(樊-大)]' uni='6B1D' nor='鬱' mojikyo='M015978' mofont='Mojikyo M103' mochar='7B28'/>" >
+<!ENTITY CB00616 "<gaiji uniflag='1' cb='CB00616' des='[聰-耳+片]' uni='7255' nor='窗' mojikyo='M019883' mofont='Mojikyo M104' mochar='51AA'/>" >
+<!ENTITY CB00621 "<gaiji uniflag='1' cb='CB00621' des='[瞿*鳥]' uni='9E1C' nor='鴝' mojikyo='M047502' mofont='Mojikyo M109' mochar='5EDF'/>" >
+<!ENTITY CB00622 "<gaiji uniflag='1' cb='CB00622' des='[醫-酉+目]' uni='7796' mojikyo='M023630' mofont='Mojikyo M105' mochar='6B8B'/>" >
+<!ENTITY CB00623 "<gaiji uniflag='0' cb='CB00623' des='[醫-酉+言]' uni='27AE6' mojikyo='M035906' mofont='Mojikyo M107' mochar='7CD6'/>" >
+<!ENTITY CB00625 "<gaiji uniflag='1' cb='CB00625' des='[覽-見+手]' uni='64E5' nor='攬' mojikyo='M012859' mofont='Mojikyo M103' mochar='5BA3'/>" >
+<!ENTITY CB00626 "<gaiji uniflag='0' cb='CB00626' des='[疊*毛]' uni='3CB2' mojikyo='M057087' mofont='Mojikyo M111' mochar='572D'/>" >
+<!ENTITY CB00632 "<gaiji uniflag='0' cb='CB00632' des='[匚@虒]' uni='3538' mojikyo='M002692' mofont='Mojikyo M101' mochar='76EE'/>" >
+<!ENTITY CB00636 "<gaiji uniflag='1' cb='CB00636' des='[序-予+既]' uni='5ED0' nor='廄' mojikyo='M054556' mofont='Mojikyo M110' mochar='6556'/>" >
+<!ENTITY CB00644 "<gaiji uniflag='1' cb='CB00644' des='[烈-列+旡]' uni='7081' nor='氣' mojikyo='M018891' mofont='Mojikyo M104' mochar='8A02'/>" >
+<!ENTITY CB00645 "<gaiji uniflag='0' cb='CB00645' des='[气@盆]' uni='23C66' nor='氛' mojikyo='M017073' mofont='Mojikyo M104' mochar='8D8A'/>" >
+<!ENTITY CB00646 "<gaiji uniflag='1' cb='CB00646' des='[爿*木]' uni='7240' nor='床' mojikyo='M019763' mofont='Mojikyo M104' mochar='4EB0'/>" >
+<!ENTITY CB00653 "<gaiji uniflag='0' cb='CB00653' des='[咑-丁+羅]' uni='21186' mojikyo='M004663' mofont='Mojikyo M101' mochar='7A97'/>" >
+<!ENTITY CB00660 "<gaiji uniflag='1' cb='CB00660' des='[髟/几]' uni='9AE0' nor='髡' mojikyo='M045359' mofont='Mojikyo M109' mochar='79BE'/>" >
+<!ENTITY CB00662 "<gaiji uniflag='1' cb='CB00662' des='[髟/弗]' uni='9AF4' mojikyo='M045414' mofont='Mojikyo M109' mochar='968E'/>" >
+<!ENTITY CB00665 "<gaiji uniflag='1' cb='CB00665' des='[惛-氏+民]' uni='60FD' nor='惛' mojikyo='M010875' mofont='Mojikyo M102' mochar='86DB'/>" >
+<!ENTITY CB00666 "<gaiji uniflag='1' cb='CB00666' des='[焱*欠]' uni='6B58' nor='欻' mojikyo='M016202' mofont='Mojikyo M103' mochar='7FC5'/>" >
+<!ENTITY CB00667 "<gaiji uniflag='1' cb='CB00667' des='[罥-口+ㄙ]' nor_uni='7F65' nor='罥' mojikyo='M067848' mofont='Mojikyo M113' mochar='708E'/>" >
+<!ENTITY CB00669 "<gaiji uniflag='1' cb='CB00669' des='[僉*刃]' uni='5292' nor='劍' mojikyo='M002243' mofont='Mojikyo M101' mochar='6CCA'/>" >
+<!ENTITY CB00676 "<gaiji uniflag='1' cb='CB00676' des='[橩-木]' uni='712D' mojikyo='M019134' mofont='Mojikyo M104' mochar='6557'/>" >
+<!ENTITY CB00678 "<gaiji uniflag='1' cb='CB00678' des='[癇-月+日]' uni='764E' nor='癇' mojikyo='M054620' mofont='Mojikyo M110' mochar='663F'/>" >
+<!ENTITY CB00686 "<gaiji uniflag='1' cb='CB00686' des='[卄/肋]' uni='8355' nor='筋' mojikyo='M030967' mofont='Mojikyo M106' mochar='63FA'/>" >
+<!ENTITY CB00694 "<gaiji uniflag='1' cb='CB00694' des='[土*追]' uni='5860' mojikyo='M005354' mofont='Mojikyo M101' mochar='8938'/>" >
+<!ENTITY CB00696 "<gaiji uniflag='1' cb='CB00696' des='[烈-列+((厂-一)*臣*巳)]' uni='7188' nor='熙' mojikyo='M019292' mofont='Mojikyo M104' mochar='4FF5'/>" >
+<!ENTITY CB00701 "<gaiji uniflag='0' cb='CB00701' des='[木*片]' uni='3B4A' nor='析' mojikyo='M014539' mofont='Mojikyo M103' mochar='58E5'/>" >
+<!ENTITY CB00706 "<gaiji uniflag='1' cb='CB00706' des='[打-丁+柰]' nor_uni='637A' nor='捺' mojikyo='M067001' mofont='Mojikyo M112' mochar='8085'/>" >
+<!ENTITY CB00714 "<gaiji uniflag='0' cb='CB00714' des='[多*頁]' uni='4AC2' mojikyo='M043446' mofont='Mojikyo M108' mochar='68C6'/>" >
+<!ENTITY CB00718 "<gaiji uniflag='0' cb='CB00718' des='[赤*皮]' uni='27E5E' nor='赧' mojikyo='M037002' mofont='Mojikyo M107' mochar='5634'/>" >
+<!ENTITY CB00720 "<gaiji uniflag='0' cb='CB00720' des='[金*予]' uni='28964' nor='舒' mojikyo='M067262' mofont='Mojikyo M112' mochar='86B6'/>" >
+<!ENTITY CB00722 "<gaiji uniflag='1' cb='CB00722' des='[香*分]' uni='999A' mojikyo='M044520' mofont='Mojikyo M108' mochar='8259'/>" >
+<!ENTITY CB00734 "<gaiji uniflag='0' cb='CB00734' des='[繼-糸+言]' uni='471D' mojikyo='M036068' mofont='Mojikyo M107' mochar='72FD'/>" >
+<!ENTITY CB00736 "<gaiji uniflag='1' cb='CB00736' des='[悕-巾+ㄙ]' uni='6061' nor='吝' mojikyo='M010576' mofont='Mojikyo M102' mochar='8012'/>" >
+<!ENTITY CB00746 "<gaiji uniflag='0' cb='CB00746' des='[(ㄇ@人)/卓]' nor='罩' mojikyo='M067851' mofont='Mojikyo M113' mochar='71D5'/>" >
+<!ENTITY CB00748 "<gaiji uniflag='1' cb='CB00748' des='[(女/女)*干]' uni='59E7' nor='奸' mojikyo='M006218' mofont='Mojikyo M102' mochar='5CE1'/>" >
+<!ENTITY CB00775 "<gaiji uniflag='1' cb='CB00775' des='[女*任]' uni='59D9' nor='妊' mojikyo='M006200' mofont='Mojikyo M102' mochar='79A6'/>" >
+<!ENTITY CB00784 "<gaiji uniflag='1' cb='CB00784' des='[公/心]' uni='5FE9' nor='匆' mojikyo='M010366' mofont='Mojikyo M102' mochar='7BCB'/>" >
+<!ENTITY CB00795 "<gaiji uniflag='0' cb='CB00795' des='[打-丁+(改-己)]' uni='22A9B' mojikyo='M077838' mofont='Mojikyo M114' mochar='7683'/>" >
+<!ENTITY CB00799 "<gaiji uniflag='0' cb='CB00799' des='[目*壹]' uni='2AFBC' mojikyo='M065445' mofont='Mojikyo M112' mochar='5CD9'/>" >
+<!ENTITY CB00834 "<gaiji uniflag='0' cb='CB00834' des='[烈-列+(里*吉)]' nor='黠' mojikyo='M067865' mofont='Mojikyo M113' mochar='592E'/>" >
+<!ENTITY CB00846 "<gaiji uniflag='0' cb='CB00846' des='[登*毛]' uni='3CAA' mojikyo='M016965' mofont='Mojikyo M104' mochar='4F9D'/>" >
+<!ENTITY CB00858 "<gaiji uniflag='0' cb='CB00858' des='[薜/女]' nor='孽' mojikyo='M067868' mofont='Mojikyo M113' mochar='5FDC'/>" >
+<!ENTITY CB00868 "<gaiji uniflag='0' cb='CB00868' des='[罽-厂]' uni='262FA' nor='罽' mojikyo='M074762' mofont='Mojikyo M114' mochar='795E'/>" >
+<!ENTITY CB00888 "<gaiji uniflag='1' cb='CB00888' des='[木*密]' uni='6A12' nor='榓' mojikyo='M015428' mofont='Mojikyo M103' mochar='6D19'/>" >
+<!ENTITY CB00889 "<gaiji uniflag='0' cb='CB00889' des='[王*垂]' uni='3ED4' mojikyo='M021045' mofont='Mojikyo M104' mochar='6C92'/>" >
+<!ENTITY CB00895 "<gaiji uniflag='0' cb='CB00895' des='[穴/(爿*未)]' uni='259CC' nor='寐' mojikyo='M072466' mofont='Mojikyo M113' mochar='7CDC'/>" >
+<!ENTITY CB00908 "<gaiji uniflag='0' cb='CB00908' des='[豕/虫]' uni='272E0' nor='蠡' mojikyo='M033068' mofont='Mojikyo M106' mochar='7E69'/>" >
+<!ENTITY CB00993 "<gaiji uniflag='0' cb='CB00993' des='[髟/火]' uni='29B0A' nor='髮' mojikyo='M072689' mofont='Mojikyo M113' mochar='81B8'/>" >
+<!ENTITY CB01000 "<gaiji uniflag='0' cb='CB01000' des='[病-丙+(戀-心)]' uni='24F19' nor='癵' mojikyo='M022646' mofont='Mojikyo M105' mochar='54BD'/>" >
+<!ENTITY CB01039 "<gaiji uniflag='0' cb='CB01039' des='[禾*秀]' uni='414E' mojikyo='M025067' mofont='Mojikyo M105' mochar='92EA'/>" >
+<!ENTITY CB01041 "<gaiji uniflag='1' cb='CB01041' des='[糸*任]' uni='7D4D' nor='紝' mojikyo='M027394' mofont='Mojikyo M105' mochar='7DD8'/>" >
+<!ENTITY CB01047 "<gaiji uniflag='0' cb='CB01047' des='[沙/糸]' uni='2601F' nor='紗' mojikyo='M027505' mofont='Mojikyo M105' mochar='8046'/>" >
+<!ENTITY CB01052 "<gaiji uniflag='0' cb='CB01052' des='[車*鬲]' uni='2836E' nor='轢' mojikyo='M038462' mofont='Mojikyo M107' mochar='7955'/>" >
+<!ENTITY CB01061 "<gaiji uniflag='0' cb='CB01061' des='[病-丙+帶]' uni='3FC3' mojikyo='M022444' mofont='Mojikyo M104' mochar='8DCF'/>" >
+<!ENTITY CB01062 "<gaiji uniflag='0' cb='CB01062' des='[病-丙+習]' uni='3FC7' mojikyo='M022463' mofont='Mojikyo M104' mochar='8E35'/>" >
+<!ENTITY CB01065 "<gaiji uniflag='0' cb='CB01065' des='[魚*昔]' uni='4C5C' mojikyo='M046219' mofont='Mojikyo M109' mochar='6C0F'/>" >
+<!ENTITY CB01068 "<gaiji uniflag='0' cb='CB01068' des='[麥*戈]' uni='4D30' mojikyo='M047738' mofont='Mojikyo M109' mochar='9C52'/>" >
+<!ENTITY CB01069 "<gaiji uniflag='0' cb='CB01069' des='[毯-炎+(日/羽)]' uni='3CA9' nor='毾' mojikyo='M067889' mofont='Mojikyo M113' mochar='4E59'/>" >
+<!ENTITY CB01070 "<gaiji uniflag='0' cb='CB01070' des='[毯-炎+登]' uni='23C06' mojikyo='M016966' mofont='Mojikyo M104' mochar='5049'/>" >
+<!ENTITY CB01071 "<gaiji uniflag='0' cb='CB01071' des='[毯-炎+瞿]' uni='23C3D' nor='氍' mojikyo='M067321' mofont='Mojikyo M112' mochar='87C7'/>" >
+<!ENTITY CB01083 "<gaiji uniflag='0' cb='CB01083' des='[聲-耳+卵]' uni='23AD8' mojikyo='M016702' mofont='Mojikyo M103' mochar='8AE4'/>" >
+<!ENTITY CB01094 "<gaiji uniflag='0' cb='CB01094' des='[日*耎]' uni='3B09' nor='暖' mojikyo='M014062' mofont='Mojikyo M103' mochar='8B21'/>" >
+<!ENTITY CB01112 "<gaiji uniflag='1' cb='CB01112' des='[阿-可+烏]' uni='9696' nor='塢' mojikyo='M041786' mofont='Mojikyo M108' mochar='9812'/>" >
+<!ENTITY CB01115 "<gaiji uniflag='0' cb='CB01115' des='[壴*桑]' uni='23799' mojikyo='M015820' mofont='Mojikyo M103' mochar='862F'/>" >
+<!ENTITY CB01118 "<gaiji uniflag='0' cb='CB01118' des='[卄/毗]' uni='26CC8' mojikyo='M031368' mofont='Mojikyo M106' mochar='562F'/>" >
+<!ENTITY CB01122 "<gaiji uniflag='1' cb='CB01122' des='[土*互]' uni='5758' nor='坻' mojikyo='M004953' mofont='Mojikyo M101' mochar='8072'/>" >
+<!ENTITY CB01128 "<gaiji uniflag='0' cb='CB01128' des='[木*委]' uni='3B83' mojikyo='M015022' mofont='Mojikyo M103' mochar='6406'/>" >
+<!ENTITY CB01167 "<gaiji uniflag='0' cb='CB01167' des='[革*茸]' uni='4A78' mojikyo='M042965' mofont='Mojikyo M108' mochar='5EE1'/>" >
+<!ENTITY CB01181 "<gaiji uniflag='0' cb='CB01181' des='[跳-兆+雚]' uni='4830' nor='踡' mojikyo='M038008' mofont='Mojikyo M107' mochar='6DE6'/>" >
+<!ENTITY CB01184 "<gaiji uniflag='0' cb='CB01184' des='[瘧-虍+雨]' nor='瘧' mojikyo='M072869' mofont='Mojikyo M113' mochar='8590'/>" >
+<!ENTITY CB01186 "<gaiji uniflag='1' cb='CB01186' des='[麩-夫+曲]' nor_uni='9EAF' nor='麴' mojikyo='M047771' mofont='Mojikyo M109' mochar='52D9'/>" >
+<!ENTITY CB01188 "<gaiji uniflag='1' cb='CB01188' des='[蠡-彖+若]' uni='881A' mojikyo='M033774' mofont='Mojikyo M106' mochar='8EB0'/>" >
+<!ENTITY CB01204 "<gaiji uniflag='0' cb='CB01204' des='[卄/(乏-之+友)]' uni='26B5E' nor='茇' mojikyo='M067899' mofont='Mojikyo M113' mochar='4F55'/>" >
+<!ENTITY CB01219 "<gaiji uniflag='0' cb='CB01219' des='[口*后]' uni='3583' mojikyo='M003553' mofont='Mojikyo M101' mochar='605A'/>" >
+<!ENTITY CB01231 "<gaiji uniflag='0' cb='CB01231' des='[口*歇]' uni='20FD2' nor='喝' mojikyo='M004373' mofont='Mojikyo M101' mochar='733E'/>" >
+<!ENTITY CB01240 "<gaiji uniflag='0' cb='CB01240' des='[土*孛]' uni='212EF' mojikyo='M005095' mofont='Mojikyo M101' mochar='8396'/>" >
+<!ENTITY CB01241 "<gaiji uniflag='1' cb='CB01241' des='[土*鹵]' uni='5877' mojikyo='M005390' mofont='Mojikyo M101' mochar='8A10'/>" >
+<!ENTITY CB01249 "<gaiji uniflag='0' cb='CB01249' des='[山*蓋]' mojikyo='M067726' mofont='Mojikyo M113' mochar='5049'/>" >
+<!ENTITY CB01263 "<gaiji uniflag='0' cb='CB01263' des='[月*古]' uni='26676' mojikyo='M029401' mofont='Mojikyo M106' mochar='5B88'/>" >
+<!ENTITY CB01265 "<gaiji uniflag='0' cb='CB01265' des='[月*夆]' uni='43FA' mojikyo='M067730' mofont='Mojikyo M113' mochar='5A01'/>" >
+<!ENTITY CB01302 "<gaiji uniflag='1' cb='CB01302' des='[吉*吉]' uni='5586' nor='哲' mojikyo='M003908' mofont='Mojikyo M101' mochar='67C6'/>" >
+<!ENTITY CB01303 "<gaiji uniflag='0' cb='CB01303' des='[此*鳥]' uni='4CC4' mojikyo='M046797' mofont='Mojikyo M109' mochar='8061'/>" >
+<!ENTITY CB01340 "<gaiji uniflag='1' cb='CB01340' des='[竺-二+冊]' nor_uni='7B27' mojikyo='M025938' mofont='Mojikyo M105' mochar='5C28'/>" >
+<!ENTITY CB01356 "<gaiji uniflag='1' cb='CB01356' des='[既/木]' uni='69E9' mojikyo='M067349' mofont='Mojikyo M112' mochar='8862'/>" >
+<!ENTITY CB01373 "<gaiji uniflag='1' cb='CB01373' des='[得-彳+木]' uni='68CF' mojikyo='M014926' mofont='Mojikyo M103' mochar='61C6'/>" >
+<!ENTITY CB01412 "<gaiji uniflag='1' cb='CB01412' des='[賚-木+(索-糸)]' uni='8CEB' nor='齎' mojikyo='M036842' mofont='Mojikyo M107' mochar='528D'/>" >
+<!ENTITY CB01417 "<gaiji uniflag='0' cb='CB01417' des='[肄-聿+(入/米)]' nor='隸' />" >
+<!ENTITY CB01421 "<gaiji uniflag='0' cb='CB01421' des='[口*戒]' uni='3591' mojikyo='M003647' mofont='Mojikyo M101' mochar='61BA'/>" >
+<!ENTITY CB01426 "<gaiji uniflag='0' cb='CB01426' des='[目*善]' uni='252B3' mojikyo='M023690' mofont='Mojikyo M105' mochar='6ECB'/>" >
+<!ENTITY CB01438 "<gaiji uniflag='0' cb='CB01438' des='[契-大+廾]' uni='22346' nor='契' mojikyo='M009617' mofont='Mojikyo M102' mochar='693D'/>" >
+<!ENTITY CB01493 "<gaiji uniflag='0' cb='CB01493' des='[口*舀]' uni='35D6' nor='啗' mojikyo='M004060' mofont='Mojikyo M101' mochar='6AFA'/>" >
+<!ENTITY CB01567 "<gaiji uniflag='0' cb='CB01567' des='[言*恣]' mojikyo='M067278' mofont='Mojikyo M112' mochar='8706'/>" >
+<!ENTITY CB01581 "<gaiji uniflag='1' cb='CB01581' des='[竺-二+貝]' uni='7B6B' mojikyo='M026065' mofont='Mojikyo M105' mochar='5F41'/>" >
+<!ENTITY CB01594 "<gaiji uniflag='0' cb='CB01594' des='[要/月]' uni='2676B' nor='腰' mojikyo='M029706' mofont='Mojikyo M106' mochar='647A'/>" >
+<!ENTITY CB01660 "<gaiji uniflag='1' cb='CB01660' des='[女*賣]' uni='5B3B' mojikyo='M006860' mofont='Mojikyo M102' mochar='56DA'/>" >
+<!ENTITY CB01661 "<gaiji uniflag='0' cb='CB01661' des='[孑*免]' uni='3743' nor='娩' mojikyo='M006988' mofont='Mojikyo M102' mochar='6A1F'/>" >
+<!ENTITY CB01666 "<gaiji uniflag='0' cb='CB01666' des='[木*戈]' uni='233FE' mojikyo='M067619' mofont='Mojikyo M112' mochar='8EC8'/>" >
+<!ENTITY CB01678 "<gaiji uniflag='1' cb='CB01678' des='[石*追]' uni='78D3' mojikyo='M024404' mofont='Mojikyo M105' mochar='99B3'/>" >
+<!ENTITY CB01682 "<gaiji uniflag='1' cb='CB01682' des='[梔-木]' uni='5DF5' nor='卮' mojikyo='M008751' mofont='Mojikyo M102' mochar='550F'/>" >
+<!ENTITY CB01725 "<gaiji uniflag='1' cb='CB01725' des='[袖-由+末]' uni='889C' mojikyo='M034200' mofont='Mojikyo M107' mochar='4E14'/>" >
+<!ENTITY CB01732 "<gaiji uniflag='0' cb='CB01732' des='[毯-炎+婁]' uni='23BEB' nor='氀' mojikyo='M016950' mofont='Mojikyo M104' mochar='9B8E'/>" >
+<!ENTITY CB01753 "<gaiji uniflag='1' cb='CB01753' des='[土*胥]' uni='58FB' nor='婿' mojikyo='M053437' mofont='Mojikyo M110' mochar='9EBA'/>" >
+<!ENTITY CB01782 "<gaiji uniflag='0' cb='CB01782' des='[狂-王+屯]' uni='3E60' nor='豚' mojikyo='M020288' mofont='Mojikyo M104' mochar='5BF0'/>" >
+<!ENTITY CB01783 "<gaiji uniflag='1' cb='CB01783' des='[言*玄]' uni='8A43' mojikyo='M035351' mofont='Mojikyo M107' mochar='662F'/>" >
+<!ENTITY CB01790 "<gaiji uniflag='1' cb='CB01790' des='[金*竄]' uni='9479' mojikyo='M041072' mofont='Mojikyo M108' mochar='6F5C'/>" >
+<!ENTITY CB01813 "<gaiji uniflag='1' cb='CB01813' des='[薛/米]' uni='7CF5' nor='糱' mojikyo='M027198' mofont='Mojikyo M105' mochar='79EC'/>" >
+<!ENTITY CB01816 "<gaiji uniflag='1' cb='CB01816' des='[旆-巿+巾]' uni='65BE' nor='旆' mojikyo='M013630' mofont='Mojikyo M103' mochar='7F8E'/>" >
+<!ENTITY CB01836 "<gaiji uniflag='0' cb='CB01836' des='[口*闌]' uni='3613' mojikyo='M004588' mofont='Mojikyo M101' mochar='788E'/>" >
+<!ENTITY CB01857 "<gaiji uniflag='0' cb='CB01857' des='[打-丁+索]' uni='22C62' mojikyo='M012462' mofont='Mojikyo M103' mochar='8ECA'/>" >
+<!ENTITY CB01863 "<gaiji uniflag='1' cb='CB01863' des='[目*閏]' uni='77A4' nor='瞬' mojikyo='M023671' mofont='Mojikyo M105' mochar='8A69'/>" >
+<!ENTITY CB01864 "<gaiji uniflag='0' cb='CB01864' des='[目*需]' uni='2530E' mojikyo='M023781' mofont='Mojikyo M105' mochar='53CE'/>" >
+<!ENTITY CB01868 "<gaiji uniflag='1' cb='CB01868' des='[米*少]' uni='7C86' nor='沙' mojikyo='M026868' mofont='Mojikyo M105' mochar='71FB'/>" >
+<!ENTITY CB01899 "<gaiji uniflag='1' cb='CB01899' des='[峻-山+皮]' nor_uni='76B4' nor='皴' mojikyo='M055962' mofont='Mojikyo M110' mochar='860B'/>" >
+<!ENTITY CB01900 "<gaiji uniflag='1' cb='CB01900' des='[悚*頁]' nor_uni='61F6' nor='懶' mojikyo='M011454' mofont='Mojikyo M103' mochar='8276'/>" >
+<!ENTITY CB01936 "<gaiji uniflag='1' cb='CB01936' des='[(禾*ㄉ)/牛]' uni='7282' nor='犁' mojikyo='M020048' mofont='Mojikyo M104' mochar='5533'/>" >
+<!ENTITY CB01958 "<gaiji uniflag='1' cb='CB01958' des='[木*發]' uni='6A43' mojikyo='M015508' mofont='Mojikyo M103' mochar='6EEF'/>" >
+<!ENTITY CB02031 "<gaiji uniflag='1' cb='CB02031' des='[仁-二+果]' uni='502E' nor='裸' mojikyo='M000797' mofont='Mojikyo M101' mochar='6238'/>" >
+<!ENTITY CB02034 "<gaiji uniflag='1' cb='CB02034' des='[戶@向]' uni='6244' nor='扃' mojikyo='M011737' mofont='Mojikyo M103' mochar='5947'/>" >
+<!ENTITY CB02113 "<gaiji uniflag='0' cb='CB02113' des='[打-丁+阜]' uni='22B92' nor='搥' mojikyo='M012261' mofont='Mojikyo M103' mochar='585E'/>" >
+<!ENTITY CB02162 "<gaiji uniflag='0' cb='CB02162' des='[茸*毛]' uni='3CA8' mojikyo='M016928' mofont='Mojikyo M104' mochar='59F6'/>" >
+<!ENTITY CB02168 "<gaiji uniflag='1' cb='CB02168' des='[罩-卓+討]' uni='7F78' nor='罰' mojikyo='M028343' mofont='Mojikyo M106' mochar='82F1'/>" >
+<!ENTITY CB02248 "<gaiji uniflag='1' cb='CB02248' des='[宓/冉]' uni='5BD7' nor='甯' mojikyo='M007255' mofont='Mojikyo M102' mochar='5584'/>" >
+<!ENTITY CB02258 "<gaiji uniflag='1' cb='CB02258' des='[口*蘭]' uni='56D2' mojikyo='M004658' mofont='Mojikyo M101' mochar='9F9D'/>" >
+<!ENTITY CB02288 "<gaiji uniflag='1' cb='CB02288' des='[乳-孚+齒]' uni='9F53' nor='齔' mojikyo='M048585' mofont='Mojikyo M109' mochar='5E62'/>" >
+<!ENTITY CB02308 "<gaiji uniflag='0' cb='CB02308' des='[病-丙+(雍-〦)]' uni='3FC8' nor='癰' mojikyo='M022474' mofont='Mojikyo M104' mochar='8E60'/>" >
+<!ENTITY CB02319 "<gaiji uniflag='1' cb='CB02319' des='[嫡-女]' uni='5547' mojikyo='M003804' mofont='Mojikyo M101' mochar='6582'/>" >
+<!ENTITY CB02342 "<gaiji uniflag='0' cb='CB02342' des='[(ㄇ@人)/曾]' nor='罾' mojikyo='M072370' mofont='Mojikyo M113' mochar='7B0F'/>" >
+<!ENTITY CB02406 "<gaiji uniflag='0' cb='CB02406' des='[木*(強-ㄙ+口)]' uni='236A6' nor='弶' mojikyo='M015608' mofont='Mojikyo M103' mochar='7210'/>" >
+<!ENTITY CB02428 "<gaiji uniflag='1' cb='CB02428' des='[各*頁]' uni='981F' nor='額' mojikyo='M043448' mofont='Mojikyo M108' mochar='6977'/>" >
+<!ENTITY CB02464 "<gaiji uniflag='1' cb='CB02464' des='[門@下]' uni='9587' nor='閉' mojikyo='M041220' mofont='Mojikyo M108' mochar='5BFE'/>" >
+<!ENTITY CB02479 "<gaiji uniflag='0' cb='CB02479' des='[國*或]' mojikyo='M072400' mofont='Mojikyo M113' mochar='7B9A'/>" >
+<!ENTITY CB02549 "<gaiji uniflag='0' cb='CB02549' des='[舌*氐]' uni='445B' nor='舐' mojikyo='M030296' mofont='Mojikyo M106' mochar='9285'/>" >
+<!ENTITY CB02558 "<gaiji uniflag='1' cb='CB02558' des='[泳-永+垂]' uni='6DB6' mojikyo='M017596' mofont='Mojikyo M104' mochar='7FA4'/>" >
+<!ENTITY CB02598 "<gaiji uniflag='0' cb='CB02598' des='[夕/火]' nor='炙' mojikyo='M074715' mofont='Mojikyo M114' mochar='5E38'/>" >
+<!ENTITY CB02611 "<gaiji uniflag='0' cb='CB02611' des='[火*(采-木+(〡*日))]' uni='3DD4' nor='焰' mojikyo='M019221' mofont='Mojikyo M104' mochar='85E9'/>" >
+<!ENTITY CB02629 "<gaiji uniflag='0' cb='CB02629' des='[言*(更-一)]' uni='46D5' nor='諛' mojikyo='M035495' mofont='Mojikyo M107' mochar='531D'/>" >
+<!ENTITY CB02735 "<gaiji uniflag='0' cb='CB02735' des='[口*束*頁]' mojikyo='M072982' mofont='Mojikyo M113' mochar='8827'/>" >
+<!ENTITY CB02760 "<gaiji uniflag='1' cb='CB02760' des='[月*旦]' uni='80C6' mojikyo='M029354' mofont='Mojikyo M106' mochar='5931'/>" >
+<!ENTITY CB02824 "<gaiji uniflag='1' cb='CB02824' des='[燄-炎+鳥]' uni='9D6E' mojikyo='M047009' mofont='Mojikyo M109' mochar='6311'/>" >
+<!ENTITY CB02863 "<gaiji uniflag='0' cb='CB02863' des='[利-禾+夾]' uni='34E8' nor='刺' mojikyo='M002016' mofont='Mojikyo M101' mochar='59AC'/>" >
+<!ENTITY CB02943 "<gaiji uniflag='1' cb='CB02943' des='[蒙-卄]' uni='51A1' mojikyo='M001584' mofont='Mojikyo M101' mochar='6247'/>" >
+<!ENTITY CB02948 "<gaiji uniflag='0' cb='CB02948' des='[打-丁+聿]' uni='22AEB' mojikyo='M012021' mofont='Mojikyo M103' mochar='517C'/>" >
+<!ENTITY CB02976 "<gaiji uniflag='0' cb='CB02976' des='[口*律]' uni='20DC8' mojikyo='M003943' mofont='Mojikyo M101' mochar='68D8'/>" >
+<!ENTITY CB02978 "<gaiji uniflag='0' cb='CB02978' des='[口*臘]' uni='21158' mojikyo='M004630' mofont='Mojikyo M101' mochar='79AA'/>" >
+<!ENTITY CB03020 "<gaiji uniflag='0' cb='CB03020' des='[泳-永+(瑤-王)]' mojikyo='M060001' mofont='Mojikyo M111' mochar='60F1'/>" >
+<!ENTITY CB03077 "<gaiji uniflag='1' cb='CB03077' des='[病-丙+敕]' uni='7637' mojikyo='M022460' mofont='Mojikyo M104' mochar='8E10'/>" >
+<!ENTITY CB03084 "<gaiji uniflag='1' cb='CB03084' des='[蠢-春+亡]' uni='8771' nor='虻' mojikyo='M033318' mofont='Mojikyo M106' mochar='83E0'/>" >
+<!ENTITY CB03104 "<gaiji uniflag='1' cb='CB03104' des='[卄/止/(止*止)]' uni='854B' nor='蕊' mojikyo='M031940' mofont='Mojikyo M106' mochar='6416'/>" >
+<!ENTITY CB03112 "<gaiji uniflag='0' cb='CB03112' des='[口*(贊-貝+日)]' uni='2110B' mojikyo='M074564' mofont='Mojikyo M114' mochar='914B'/>" >
+<!ENTITY CB03212 "<gaiji uniflag='1' cb='CB03212' des='[北/車]' uni='8EF0' nor='輩' mojikyo='M038250' mofont='Mojikyo M107' mochar='7476'/>" >
+<!ENTITY CB03260 "<gaiji uniflag='1' cb='CB03260' des='[分/鹿]' uni='9E84' nor='麤' mojikyo='M047606' mofont='Mojikyo M109' mochar='7656'/>" >
+<!ENTITY CB03272 "<gaiji uniflag='0' cb='CB03272' des='[口*(肄-聿+(企-止+米))]' />" >
+<!ENTITY CB03283 "<gaiji uniflag='0' cb='CB03283' des='[口*厲]' uni='21096' mojikyo='M004507' mofont='Mojikyo M101' mochar='7668'/>" >
+<!ENTITY CB03306 "<gaiji uniflag='1' cb='CB03306' des='[口*獻]' uni='56D0' mojikyo='M004645' mofont='Mojikyo M101' mochar='7A20'/>" >
+<!ENTITY CB03405 "<gaiji uniflag='1' cb='CB03405' des='[王*缶]' uni='73E4' nor='寶' mojikyo='M020963' mofont='Mojikyo M104' mochar='6A97'/>" >
+<!ENTITY CB03431 "<gaiji uniflag='0' cb='CB03431' des='[羊*含]' uni='2638C' mojikyo='M028511' mofont='Mojikyo M106' mochar='6D6C'/>" >
+<!ENTITY CB03458 "<gaiji uniflag='0' cb='CB03458' des='[銜-金+缶]' uni='4616' />" >
+<!ENTITY CB03479 "<gaiji uniflag='1' cb='CB03479' des='[打-丁+(強-ㄙ+口)]' uni='647E' nor='弶' mojikyo='M059640' mofont='Mojikyo M111' mochar='6BC0'/>" >
+<!ENTITY CB03499 "<gaiji uniflag='1' cb='CB03499' des='[口*奔]' uni='55AF' nor='噴' mojikyo='M059226' mofont='Mojikyo M111' mochar='4E36'/>" >
+<!ENTITY CB03529 "<gaiji uniflag='0' cb='CB03529' des='[口*緝]' uni='210C3' mojikyo='M004542' mofont='Mojikyo M101' mochar='7708'/>" >
+<!ENTITY CB03679 "<gaiji uniflag='0' cb='CB03679' des='[颱-台+立]' uni='4B03' nor='颯' mojikyo='M043809' mofont='Mojikyo M108' mochar='721B'/>" >
+<!ENTITY CB03693 "<gaiji uniflag='1' cb='CB03693' des='[瞀-目+心]' uni='6117' mojikyo='M010942' mofont='Mojikyo M102' mochar='8827'/>" >
+<!ENTITY CB03694 "<gaiji uniflag='0' cb='CB03694' des='[鋌-壬+手]' nor='鋌' />" >
+<!ENTITY CB03724 "<gaiji uniflag='1' cb='CB03724' des='[芷/(止*止)/木]' uni='8603' nor='蕊' mojikyo='M032411' mofont='Mojikyo M106' mochar='6EC4'/>" >
+<!ENTITY CB03889 "<gaiji uniflag='0' cb='CB03889' des='[乳-孚+牛]' />" >
+<!ENTITY CB04102 "<gaiji uniflag='0' cb='CB04102' des='[羊*歷]' uni='437D' mojikyo='M028602' mofont='Mojikyo M106' mochar='6562'/>" >
+<!ENTITY CB04130 "<gaiji uniflag='0' cb='CB04130' des='[垂*夬]' uni='21647' nor='缺' mojikyo='M005963' mofont='Mojikyo M102' mochar='64B9'/>" >
+<!ENTITY CB04165 "<gaiji uniflag='0' cb='CB04165' des='[娕*頁]' nor='懶' mojikyo='M055202' mofont='Mojikyo M110' mochar='754D'/>" >
+<!ENTITY CB04372 "<gaiji uniflag='0' cb='CB04372' des='[胺-女+(眉-目+貝)]' nor='臏' />" >
+<!ENTITY CB04394 "<gaiji uniflag='0' cb='CB04394' des='[口*敕]' uni='20EF3' />" >
+<!ENTITY CB04411 "<gaiji uniflag='0' cb='CB04411' des='[豁/土]' nor='壑' />" >
+<!ENTITY CB04432 "<gaiji uniflag='0' cb='CB04432' des='[(歹*又)/食]' uni='4B38' mojikyo='M044130' mofont='Mojikyo M108' mochar='7A3E'/>" >
+<!ENTITY CB04447 "<gaiji uniflag='0' cb='CB04447' des='[月*互]' uni='26641' nor='胝' mojikyo='M029295' mofont='Mojikyo M106' mochar='65E8'/>" >
+<!ENTITY CB04474 "<gaiji uniflag='0' cb='CB04474' des='[泳-永+曶]' uni='3CF7' mojikyo='M017604' mofont='Mojikyo M104' mochar='5211'/>" >
+<!ENTITY CB04484 "<gaiji uniflag='0' cb='CB04484' des='[麩-夫+弋]' nor_uni='4D2C' />" >
+<!ENTITY CB04518 "<gaiji uniflag='0' cb='CB04518' des='[月*曶]' uni='4407' nor='吻' mojikyo='M029613' mofont='Mojikyo M106' mochar='6B96'/>" >
+<!ENTITY CB04523 "<gaiji uniflag='1' cb='CB04523' des='[片*庸]' uni='7257' mojikyo='M054860' mofont='Mojikyo M110' mochar='6BD3'/>" >
+<!ENTITY CB04571 "<gaiji uniflag='1' cb='CB04571' des='[竺-二+宋]' uni='7B5E' nor='策' mojikyo='M026030' mofont='Mojikyo M105' mochar='5E7A'/>" >
+<!ENTITY CB04584 "<gaiji uniflag='0' cb='CB04584' des='[遽-虍+穴]' uni='285C9' nor='邃' />" >
+<!ENTITY CB04590 "<gaiji uniflag='1' cb='CB04590' des='[(ㄇ@(企-止))/弟]' nor_uni='7F64' />" >
+<!ENTITY CB04645 "<gaiji uniflag='0' cb='CB04645' des='[尸@句]' uni='21C48' mojikyo='M077190' mofont='Mojikyo M114' mochar='6727'/>" >
+<!ENTITY CB04680 "<gaiji uniflag='0' cb='CB04680' des='[狂-王+戊]' />" >
+<!ENTITY CB04799 "<gaiji uniflag='1' cb='CB04799' des='[咎-人+卜]' nor_uni='548E' nor='咎' mojikyo='M050953' mofont='Mojikyo M110' mochar='6BB4'/>" >
+<!ENTITY CB04898 "<gaiji uniflag='0' cb='CB04898' des='[病-丙+于]' uni='3F73' mojikyo='M022030' mofont='Mojikyo M104' mochar='83CE'/>" >
+<!ENTITY CB04931 "<gaiji uniflag='1' cb='CB04931' des='[目*示]' uni='770E' mojikyo='M023213' mofont='Mojikyo M105' mochar='9685'/>" >
+<!ENTITY CB05080 "<gaiji uniflag='0' cb='CB05080' des='[專*ㄆ]' nor='敷' />" >
+<!ENTITY CB05114 "<gaiji uniflag='1' cb='CB05114' des='[跳-兆+宗]' uni='8E2A' nor='蹤' mojikyo='M037668' mofont='Mojikyo M107' mochar='6636'/>" >
+<!ENTITY CB05164 "<gaiji uniflag='1' cb='CB05164' des='[山*侖]' uni='5D18' nor='崙' mojikyo='M008182' mofont='Mojikyo M102' mochar='7832'/>" >
+<!ENTITY CB05183 "<gaiji uniflag='1' cb='CB05183' des='[叵*寸]' uni='5C00' nor='叵' mojikyo='M007422' mofont='Mojikyo M102' mochar='8AFE'/>" >
+<!ENTITY CB05265 "<gaiji uniflag='1' cb='CB05265' des='[宋-木+隹]' uni='5BC9' mojikyo='M054545' mofont='Mojikyo M110' mochar='6505'/>" >
+<!ENTITY CB05289 "<gaiji uniflag='1' cb='CB05289' des='[這-言+千]' uni='8FC1' nor='遷' />" >
+<!ENTITY CB05340 "<gaiji uniflag='0' cb='CB05340' des='[(共-八+(烈-列))/貝]' nor='贊' mojikyo='M075730' mofont='Mojikyo M114' mochar='5E9C'/>" >
+<!ENTITY CB05418 "<gaiji uniflag='0' cb='CB05418' des='[虔-文+ㄆ]' uni='458D' nor='虔' mojikyo='M075330' mofont='Mojikyo M114' mochar='7530'/>" >
+<!ENTITY CB05500 "<gaiji uniflag='1' cb='CB05500' des='[金*失]' uni='9244' mojikyo='M040285' mofont='Mojikyo M108' mochar='80E1'/>" >
+<!ENTITY CB05504 "<gaiji uniflag='1' cb='CB05504' des='[門@斗]' uni='9597' nor='鬥' mojikyo='M059991' mofont='Mojikyo M111' mochar='6115'/>" >
+<!ENTITY CB05538 "<gaiji uniflag='0' cb='CB05538' des='[狂-王+員]' uni='24814' nor='猿' mojikyo='M020585' mofont='Mojikyo M104' mochar='6214'/>" >
+<!ENTITY CB05591 "<gaiji uniflag='0' cb='CB05591' des='[卄/異]' uni='452C' />" >
+<!ENTITY CB05647 "<gaiji uniflag='1' cb='CB05647' des='[泳-永+商]' uni='6EF3' mojikyo='M018083' mofont='Mojikyo M104' mochar='8500'/>" >
+<!ENTITY CB05668 "<gaiji uniflag='0' cb='CB05668' des='[慘-(彰-章)+(恭-共)]' uni='22856' nor='慘' />" >
+<!ENTITY CB05698 "<gaiji uniflag='0' cb='CB05698' des='[仁-二+丸]' nor='仇' />" >
+<!ENTITY CB05820 "<gaiji uniflag='0' cb='CB05820' des='[圬-土+虛]' uni='271CA' nor='虧' />" >
+<!ENTITY CB05903 "<gaiji uniflag='0' cb='CB05903' des='[寢-(宋-木)+穴]' uni='25A0A' nor='寢' />" >
+<!ENTITY CB06083 "<gaiji uniflag='0' cb='CB06083' des='[利-禾+曾]' uni='207C2' mojikyo='M002173' mofont='Mojikyo M101' mochar='5BE7'/>" >
+<!ENTITY CB06093 "<gaiji uniflag='1' cb='CB06093' des='[怡-台+具]' uni='60E7' nor='懼' mojikyo='M054563' mofont='Mojikyo M110' mochar='6578'/>" >
+<!ENTITY CB06224 "<gaiji uniflag='0' cb='CB06224' des='[葶-丁+呆]' />" >
+<!ENTITY CB06531 "<gaiji uniflag='1' cb='CB06531' des='[名*頁]' nor_uni='981F' nor='額' />" >
+<!ENTITY CB06754 "<gaiji uniflag='0' cb='CB06754' des='[穴/臣]' uni='41A0' nor='宦' mojikyo='M025499' mofont='Mojikyo M105' mochar='513F'/>" >
+<!ENTITY CB06769 "<gaiji uniflag='1' cb='CB06769' des='[知/黽]' uni='9F05' mojikyo='M048285' mofont='Mojikyo M109' mochar='5638'/>" >
+<!ENTITY CB06794 "<gaiji uniflag='0' cb='CB06794' des='[髟/剔]' uni='29B9C' nor='剃' mojikyo='M045533' mofont='Mojikyo M109' mochar='7518'/>" >
+<!ENTITY CB07115 "<gaiji uniflag='0' cb='CB07115' des='[口*替]' uni='20FB1' nor='噆' />" >
+<!ENTITY CB07157 "<gaiji uniflag='1' cb='CB07157' des='[文/虫]' uni='8689' nor='蚊' mojikyo='M032848' mofont='Mojikyo M106' mochar='7A31'/>" >
+<!ENTITY CB07264 "<gaiji uniflag='0' cb='CB07264' des='[我/虫]' uni='45B8' nor='蛾' mojikyo='M033083' mofont='Mojikyo M106' mochar='7E96'/>" >
+<!ENTITY CB07324 "<gaiji uniflag='0' cb='CB07324' des='[骨*坒]' uni='4BD7' nor='髀' mojikyo='M045185' mofont='Mojikyo M109' mochar='8863'/>" >
+<!ENTITY CB07427 "<gaiji uniflag='0' cb='CB07427' des='[乏-之+九]' />" >
+<!ENTITY CB07460 "<gaiji uniflag='1' cb='CB07460' des='[妳-女+弓]' uni='5F25' nor='彌' mojikyo='M051025' mofont='Mojikyo M110' mochar='96C5'/>" >
+<!ENTITY CB07568 "<gaiji uniflag='0' cb='CB07568' des='[嘌-示+土]' nor_uni='35B6' />" >
+<!ENTITY CB07614 "<gaiji uniflag='1' cb='CB07614' des='[片*(匆/心)]' uni='724E' mojikyo='M019865' mofont='Mojikyo M104' mochar='7AF8'/>" >
+<!ENTITY CB07739 "<gaiji uniflag='0' cb='CB07739' des='[卄/(凵@(口*了*又))]' uni='26D3B' />" >
+<!ENTITY CB07757 "<gaiji uniflag='0' cb='CB07757' des='[(ㄇ@(企-止))/ㄙ/月]' nor_uni='262B0' nor='罥' />" >
+<!ENTITY CB07782 "<gaiji uniflag='0' cb='CB07782' des='[象-(豕-一)+(舄-臼)]' uni='24262' nor='象' />" >
+<!ENTITY CB07883 "<gaiji uniflag='0' cb='CB07883' des='[打-丁+忽]' uni='39FE' />" >
+<!ENTITY CB07946 "<gaiji uniflag='0' cb='CB07946' des='[門@斲]' uni='28DD6' nor='鬥' />" >
+<!ENTITY CB07974 "<gaiji uniflag='1' cb='CB07974' des='[偌-右+(句-口+用)]' uni='50C3' nor='備' />" >
+<!ENTITY CB08016 "<gaiji uniflag='0' cb='CB08016' des='[穀-(一/禾)+卵]' nor_uni='3C89' />" >
+<!ENTITY CB08043 "<gaiji uniflag='1' cb='CB08043' des='[迡-匕+羊]' uni='9045' nor='遲' mojikyo='M038989' mofont='Mojikyo M107' mochar='84CD'/>" >
+<!ENTITY CB08073 "<gaiji uniflag='0' cb='CB08073' des='[〦/日]' uni='23140' nor='旨' mojikyo='M013739' mofont='Mojikyo M103' mochar='58B3'/>" >
+<!ENTITY CB08114 "<gaiji uniflag='0' cb='CB08114' des='[嘁/足]' uni='21131' nor='嘁' mojikyo='M004601' mofont='Mojikyo M101' mochar='78D4'/>" >
+<!ENTITY CB08449 "<gaiji uniflag='1' cb='CB08449' des='[林/取]' uni='6A37' nor='叢' mojikyo='M053117' mofont='Mojikyo M110' mochar='5F66'/>" >
+<!ENTITY CB08516 "<gaiji uniflag='0' cb='CB08516' des='[敝/大]' uni='21681' nor='弊' mojikyo='M006010' mofont='Mojikyo M102' mochar='91DC'/>" >
+<!ENTITY CB08543 "<gaiji uniflag='1' cb='CB08543' des='[殿/肉]' uni='81CB' nor='臀' mojikyo='M029940' mofont='Mojikyo M106' mochar='5BFE'/>" >
+<!ENTITY CB08650 "<gaiji uniflag='0' cb='CB08650' des='[蓻/火]' nor_uni='24454' nor='爇' />" >
+<!ENTITY CB08691 "<gaiji uniflag='0' cb='CB08691' des='[仁-二+葡]' uni='203C6' />" >
+<!ENTITY CB08729 "<gaiji uniflag='0' cb='CB08729' des='[穴/匆/心]' uni='41AB' nor='窗' mojikyo='M025576' mofont='Mojikyo M105' mochar='52D7'/>" >
+<!ENTITY CB08762 "<gaiji uniflag='1' cb='CB08762' des='[宋-木+儿]' nor_uni='5B82' mojikyo='M007056' mofont='Mojikyo M102' mochar='8077'/>" >
+<!ENTITY CB08764 "<gaiji uniflag='0' cb='CB08764' des='[宋-木+取]' uni='3761' />" >
+<!ENTITY CB08824 "<gaiji uniflag='1' cb='CB08824' des='[泳-永+食]' uni='6E4C' nor='餐' mojikyo='M017824' mofont='Mojikyo M104' mochar='9175'/>" >
+<!ENTITY CB08869 "<gaiji uniflag='0' cb='CB08869' des='[施-也+衣]' uni='23106' nor='旅' />" >
+<!ENTITY CB09112 "<gaiji uniflag='0' cb='CB09112' des='[佫-口+用]' nor='備' mojikyo='M050723' mofont='Mojikyo M109' mochar='8F3E'/>" >
+<!ENTITY CB09113 "<gaiji uniflag='1' cb='CB09113' des='[佫-口+田]' uni='4FFB' nor='備' mojikyo='M000737' mofont='Mojikyo M101' mochar='4EF6'/>" >
+<!ENTITY CB09278 "<gaiji uniflag='0' cb='CB09278' des='[車*(囗@乂)]' />" >
+<!ENTITY CB09281 "<gaiji uniflag='0' cb='CB09281' des='[門@(亞*斤)]' />" >
+<!ENTITY CB09529 "<gaiji uniflag='0' cb='CB09529' des='[憍-(夭/口)+右]' nor='憍' />" >
+<!ENTITY CB09597 "<gaiji uniflag='0' cb='CB09597' des='[泳-永+(隸-木+上)]' />" >
+<!ENTITY CB09895 "<gaiji uniflag='0' cb='CB09895' des='[牙-(必-心)+?]' uni='3E26' />" >
+<!ENTITY CB10088 "<gaiji uniflag='0' cb='CB10088' des='[泳-永+(百-日+回)]' nor='湎' />" >
+<!ENTITY CB10119 "<gaiji uniflag='0' cb='CB10119' des='[冠-元+(社-土)]' nor='冠' />" >
+<!ENTITY CB10325 "<gaiji uniflag='0' cb='CB10325' des='[胘-〦+一]' uni='26658' nor='胝' mojikyo='M029340' mofont='Mojikyo M106' mochar='8494'/>" >
+<!ENTITY CB10437 "<gaiji uniflag='0' cb='CB10437' des='[口*豕]' nor='啄' />" >
+<!ENTITY CB11020 "<gaiji uniflag='1' cb='CB11020' des='[怡-台+監]' uni='61E2' mojikyo='M011382' mofont='Mojikyo M103' mochar='70CF'/>" >
+<!ENTITY CB11237 "<gaiji uniflag='0' cb='CB11237' des='[壉-豕+丘]' nor='墟' />" >
+<!ENTITY CB11462 "<gaiji uniflag='0' cb='CB11462' des='[按-女+(眉-目+貝)]' uni='22DE4' nor='擯' />" >
+<!ENTITY CB11768 "<gaiji uniflag='0' cb='CB11768' des='[尸@乙]' />" >
+<!ENTITY CB12017 "<gaiji uniflag='0' cb='CB12017' des='[車*几]' uni='4844' nor='軌' mojikyo='M077458' mofont='Mojikyo M114' mochar='6CDB'/>" >
+<!ENTITY CB12059 "<gaiji uniflag='0' cb='CB12059' des='[門@舌]' uni='499A' mojikyo='M041313' mofont='Mojikyo M108' mochar='5730'/>" >
+<!ENTITY CB12230 "<gaiji uniflag='1' cb='CB12230' des='[〦/口/曰]' uni='4EAF' mojikyo='M000305' mofont='Mojikyo M101' mochar='788D'/>" >
+<!ENTITY CB12340 "<gaiji uniflag='0' cb='CB12340' des='[怡-台+替]' uni='2285A' nor='憯' />" >
+<!ENTITY CB12427 "<gaiji uniflag='1' cb='CB12427' des='[唬-儿+丘]' nor_uni='5653' nor='噓' />" >
+<!ENTITY CB12562 "<gaiji uniflag='0' cb='CB12562' des='[棇-木+片]' uni='245C9' nor='窗' />" >
+<!ENTITY CB12777 "<gaiji uniflag='0' cb='CB12777' des='[序-予+(更-一)]' uni='22214' nor='庾' mojikyo='M077240' mofont='Mojikyo M114' mochar='6859'/>" >
+<!ENTITY CB12836 "<gaiji uniflag='1' cb='CB12836' des='[敲-高+(嫡-女)]' nor_uni='6575' nor='敵' />" >
+<!ENTITY CB13400 "<gaiji uniflag='0' cb='CB13400' des='[(咸*欠)/糸]' uni='4320' />" >
+<!ENTITY CB13610 "<gaiji uniflag='0' cb='CB13610' des='[坭-匕+羊]' nor='墀' />" >
+<!ENTITY CB13748 "<gaiji uniflag='0' cb='CB13748' des='[日/折]' uni='231C4' />" >
+<!ENTITY CB13922 "<gaiji uniflag='0' cb='CB13922' des='[袖-由+貞]' nor='禎' />" >
+<!ENTITY CB13995 "<gaiji uniflag='0' cb='CB13995' des='[月*聶]' uni='268C0' />" >
+<!ENTITY CB14172 "<gaiji uniflag='0' cb='CB14172' des='[仁-二+無]' uni='3487' nor='憮' />" >
+<!ENTITY CB14466 "<gaiji uniflag='0' cb='CB14466' des='[桓-旦+几]' nor='杌' />" >
+<!ENTITY CB14468 "<gaiji uniflag='0' cb='CB14468' des='[梳-木+糸]' uni='26020' />" >
+<!ENTITY CB15051 "<gaiji uniflag='1' cb='CB15051' des='[殼-一]' uni='6BBB' nor='殼' />" >
+<!ENTITY CB15076 "<gaiji uniflag='0' cb='CB15076' des='[妳-女+口]' />" >
+<!ENTITY CB15077 "<gaiji uniflag='1' cb='CB15077' des='[帚-巾+果]' uni='5F5A' nor='彙' />" >
+<!ENTITY CB15081 "<gaiji uniflag='0' cb='CB15081' des='[竺-二+束]' uni='41FF' nor='策' />" >
+<!ENTITY CB15112 "<gaiji uniflag='0' cb='CB15112' des='[鴳-女+隹]' nor='鶴' />" >
+<!ENTITY CB15117 "<gaiji uniflag='0' cb='CB15117' des='[、/(、*、)]' uni='2007C' />" >
+<!ENTITY CB15133 "<gaiji uniflag='1' cb='CB15133' des='[栗-木+(革*馬)]' uni='898A' nor='羈' />" >
+<!ENTITY CB15147 "<gaiji uniflag='1' cb='CB15147' des='[沱-匕+(眉-目+貝)]' uni='6FF5' nor='濱' />" >
+<!ENTITY CB15150 "<gaiji uniflag='0' cb='CB15150' des='[鬃-示+(眉-目+貝)]' uni='29BED' nor='鬢' />" >
+<!ENTITY CB15164 "<gaiji uniflag='0' cb='CB15164' des='[(厂@((既-旡)-日+口))*頁]' />" >
+<!ENTITY CB15167 "<gaiji uniflag='0' cb='CB15167' des='[朦-卄+((並-(前-刖))-一)]' nor='朦' />" >
+<!ENTITY CB15173 "<gaiji uniflag='1' cb='CB15173' des='[卄/戶]' uni='82A6' />" >
+<!ENTITY CB15418 "<gaiji uniflag='1' cb='CB15418' des='[句-口+亡]' uni='5304' nor='丐' />" >
+<!ENTITY CB15470 "<gaiji uniflag='0' cb='CB15470' des='[(奧-釆+米)-大+ㄎ]' nor='粵' />" >
+<!ENTITY CB15508 "<gaiji uniflag='1' cb='CB15508' des='[妳-女+示]' nor_uni='7962' nor='禰' />" >
+<!ENTITY CB15517 "<gaiji uniflag='0' cb='CB15517' des='[(耜-耒)/廾]' uni='22340' nor='阜' />" >
+<!ENTITY CB15523 "<gaiji uniflag='0' cb='CB15523' des='[彳*(替-日+心)]' nor='愆' />" >
+<!ENTITY CB15565 "<gaiji uniflag='0' cb='CB15565' des='[據-豕+旦]' />" >
+<!ENTITY CB15656 "<gaiji uniflag='0' cb='CB15656' des='[阿-可+舀]' uni='49DF' nor='陷' />" >
+<!ENTITY CB15662 "<gaiji uniflag='1' cb='CB15662' des='[毯-炎+占]' uni='6BE1' nor='氈' />" >
+<!ENTITY CB15730 "<gaiji uniflag='0' cb='CB15730' des='[邃-八]' nor='邃' />" >
+<!ENTITY CB15794 "<gaiji uniflag='0' cb='CB15794' des='[袖-由+真]' uni='27716' />" >
+<!ENTITY CB16205 "<gaiji uniflag='0' cb='CB16205' des='[門@卞]' uni='28CF2' />" >
+<!ENTITY CB16393 "<gaiji uniflag='0' cb='CB16393' des='[烈-列+勛]' uni='243E9' />" >
+<!ENTITY CB16493 "<gaiji uniflag='0' cb='CB16493' des='[絳-糸+金]' uni='2899F' nor='鋒' />" >
+<!ENTITY CB16988 "<gaiji uniflag='0' cb='CB16988' des='[車*雷]' uni='283BF' nor='轠' />" >
+<!ENTITY CB17199 "<gaiji uniflag='0' cb='CB17199' des='[怡-台+(目/大)]' nor='懼' />" >
+<!ENTITY CB17256 "<gaiji uniflag='0' cb='CB17256' des='[病-丙+皇]' uni='3FAE' />" >
+<!ENTITY CB17559 "<gaiji uniflag='0' cb='CB17559' des='[磣-(彰-章)+(恭-共)]' uni='2557A' nor='磣' />" >
+<!ENTITY CB17583 "<gaiji uniflag='0' cb='CB17583' des='[(乏-之+虫)*也]' nor='蛇' />" >
+<!ENTITY CB17649 "<gaiji uniflag='0' cb='CB17649' des='[或/火]' uni='24279' />" >
+<!ENTITY CB17656 "<gaiji uniflag='0' cb='CB17656' des='[這-言+商]' nor='適' />" >
+<!ENTITY CB17659 "<gaiji uniflag='0' cb='CB17659' des='[施-方+(乏-之+虫)]' nor='蛇' />" >
+<!ENTITY CB17976 "<gaiji uniflag='0' cb='CB17976' des='[金*(乏-之+友)]' nor='鈸' />" >
+<!ENTITY CB21008 "<gaiji uniflag='0' cb='CB21008' des='[巾*皇]' />" >
+<!ENTITY CB21009 "<gaiji uniflag='0' cb='CB21009' des='[勾*鳥]' />" >
+<!ENTITY CB21010 "<gaiji uniflag='0' cb='CB21010' des='[月*丘]' />" >
+<!ENTITY CB21011 "<gaiji uniflag='0' cb='CB21011' des='[火*於]' uni='2426A' />" >
+<!ENTITY CB21012 "<gaiji uniflag='0' cb='CB21012' des='[王*亥]' />" >
+<!ENTITY CB21016 "<gaiji uniflag='1' cb='CB21016' des='[旦/黽]' uni='9F02' nor='晁' />" >
+<!ENTITY CB21017 "<gaiji uniflag='0' cb='CB21017' des='[石*失]' uni='25447' />" >
+<!ENTITY CB21020 "<gaiji uniflag='0' cb='CB21020' des='[赤*戠]' uni='27E79' />" >
+<!ENTITY CB21022 "<gaiji uniflag='0' cb='CB21022' des='[法*ㄗ]' />" >
+<!ENTITY CB21024 "<gaiji uniflag='0' cb='CB21024' des='[革*鹿]' uni='2932B' />" >
+<!ENTITY CB21025 "<gaiji uniflag='0' cb='CB21025' des='[桑*見]' />" >
+<!ENTITY CB21026 "<gaiji uniflag='0' cb='CB21026' des='[推/乃]' nor='攜' />" >
+<!ENTITY CB21028 "<gaiji uniflag='0' cb='CB21028' des='[齒*頁]' uni='29581' />" >
+<!ENTITY CB21029 "<gaiji uniflag='0' cb='CB21029' des='[齒*贊]' uni='2A687' />" >
+<!ENTITY CB21032 "<gaiji uniflag='0' cb='CB21032' des='[躐-止]' uni='2108F' />" >
+<!ENTITY CB21033 "<gaiji uniflag='1' cb='CB21033' des='[、*力*、]' uni='529E' nor='辦' />" >
+<!ENTITY CB21034 "<gaiji uniflag='0' cb='CB21034' des='[仁-二+妻]' uni='2026F' />" >
+<!ENTITY CB21035 "<gaiji uniflag='0' cb='CB21035' des='[打-丁+射]' uni='22C8C' />" >
+<!ENTITY CB21039 "<gaiji uniflag='0' cb='CB21039' des='[怡-台+乃]' uni='225B1' />" >
+<!ENTITY CB21040 "<gaiji uniflag='0' cb='CB21040' des='[怡-台+(瓜-、)]' />" >
+<!ENTITY CB21041 "<gaiji uniflag='0' cb='CB21041' des='[怡-台+悉]' />" >
+<!ENTITY CB21042 "<gaiji uniflag='0' cb='CB21042' des='[泳-永+塞]' uni='24015' />" >
+<!ENTITY CB21043 "<gaiji uniflag='0' cb='CB21043' des='[竺-二+罩]' />" >
+<!ENTITY CB21044 "<gaiji uniflag='0' cb='CB21044' des='[殆-口+朱]' />" >
+<!ENTITY CB21047 "<gaiji uniflag='0' cb='CB21047' des='[病-丙+急]' />" >
+<!ENTITY CB21048 "<gaiji uniflag='0' cb='CB21048' des='[袖-由+巳]' nor='祀' />" >
+<!ENTITY CB21049 "<gaiji uniflag='0' cb='CB21049' des='[示*受]' />" >
+<!ENTITY CB21053 "<gaiji uniflag='0' cb='CB21053' des='[譥-言+心]' uni='3998' />" >
+<!ENTITY CB21054 "<gaiji uniflag='1' cb='CB21054' des='[車*(斤/日)]' nor_uni='66AB' nor='暫' />" >
+<!ENTITY CB21055 "<gaiji uniflag='0' cb='CB21055' des='[日/出/大/木]' uni='232BB' nor='暴' />" >
+<!ENTITY CB21057 "<gaiji uniflag='0' cb='CB21057' des='[冰-水+(厂@癸)]' />" >
+<!ENTITY CB21058 "<gaiji uniflag='0' cb='CB21058' des='[牟*(舍-干+土)]' />" >
+<!ENTITY CB21060 "<gaiji uniflag='0' cb='CB21060' des='[序-予+(一/ㄠ)]' uni='221E8' />" >
+<!ENTITY CB21061 "<gaiji uniflag='0' cb='CB21061' des='[戒-廾+(工/八)]' uni='229B6' nor='戒' />" >
+<!ENTITY CB21065 "<gaiji uniflag='0' cb='CB21065' des='[門@((素-糸)*刀)]' />" >
+<!ENTITY CB21066 "<gaiji uniflag='0' cb='CB21066' des='[這-言+(島-山+方)]' nor='邊' />" >
+<!ENTITY CB21067 "<gaiji uniflag='0' cb='CB21067' des='[詨-父+(大-一+凵)]' />" >
+<!ENTITY CB21069 "<gaiji uniflag='0' cb='CB21069' des='[馬*(夾-(人*人)+凵)]' />" >
+<!ENTITY CB21070 "<gaiji uniflag='0' cb='CB21070' des='[(瓜-(乂-(必-心)))*ㄗ]' />" >
+<!ENTITY CB21073 "<gaiji uniflag='0' cb='CB21073' des='[卄/巳/(米-木+((嘹-口)-(日/小)))]' />" >
+<!ENTITY CB21074 "<gaiji uniflag='0' cb='CB21074' des='[南-十+(木-(企-止)+(口*(舉-與)))]' />" >

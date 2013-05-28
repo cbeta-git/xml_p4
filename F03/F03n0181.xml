@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "F03n0181.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Fangshan shijing, Electronic version, No. 181 大般若關</title>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $ (Big5)<date>$Date: 2012/12/11 07:39:23 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/12/11 07:39:23 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Fangshan shijing Vol. 03, No. 181 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p lang="chi" type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2010/10/11 13:37:46</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: F03n0181.xml,v $
+Revision 1.2  2012/12/11 07:39:23  amtbgrace
+經文修訂：p0476b36 無[妄>忘]失法
+
+Revision 1.1  2010/10/13 08:30:31  eva
+bm 轉 xml 作業上傳
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<lb ed="F" n="0476b06"/><milestone unit="juan" n="1"/><mulu type="卷" n="1"/><juan fun="open" n="1"><jhead></jhead></juan><div1 type="other"><mulu type="其他" level="1" label="卷第一百三十六"/><head>大般&CB30132;波羅蜜多經卷&CB05663;一百三十六　初分挍量功德品&CB05663;卅五之卅四</head>
+<lb ed="F" n="0476b07"/><p id="pF03p0476b0701">尒時天帝&CB18232;白佛言世尊云何名說相似般&CB30132;靜慮精進安忍淨戒布施波羅蜜多佛言&CB09529;尸迦&CB30132;善男子善女人&CB21717;說有所<app><lem wit="【CBETA】" resp="CBETA.maha">得</lem><rdg wit="【房山】">淂</rdg></app>般&CB30132;靜慮精進安忍淨戒布施波羅
+<lb ed="F" n="0476b08"/>蜜多如是名說相似般&CB30132;靜慮精進安忍淨戒布施波羅蜜多。</p><p id="pF03p0476b0825" place="inline">時天帝&CB18232;復白佛言世尊云何諸善男子善女人&CB21717;說有所得般&CB30132;波羅蜜多名說相似般&CB30132;波羅蜜多。</p>
+<lb ed="F" n="0476b09"/><p id="pF03p0476b0901">復次佛言&CB09529;尸迦&CB30132;善男子善女人&CB21717;為發<app><lem wit="【CBETA】" resp="CBETA.maha">&CB07099;</lem><rdg wit="【房山】">旡</rdg></app>上菩提心者說色　&CB30132;常　&CB30132;<app><lem wit="【CBETA】" resp="CBETA.maha">&CB07099;</lem><rdg wit="【房山】">旡</rdg></app>常　&CB30132;樂　&CB30132;苦　&CB30132;我<app><lem wit="【CBETA】" resp="CBETA.maha">&CB07099;</lem><rdg wit="【房山】">旡</rdg></app>我　說受相行識　&CB30132;常　&CB30132;&CB07099;常　&CB30132;樂　&CB30132;苦　&CB30132;我&CB07099;我　&CB30132;淨　&CB30132;不淨
+<lb ed="F" n="0476b10"/>　&CB30132;有能依如是&CB21717;　&CB30132;淨　&CB30132;不淨　法修行般&CB30132;是行般&CB30132;波羅蜜多&CB11040;作是說行般&CB30132;者應求色　&CB30132;常　&CB30132;<app><lem wit="【CBETA】" resp="CBETA.maha">&CB07099;</lem><rdg wit="【房山】">旡</rdg></app>常　樂&CB30132;苦　我&CB30132;&CB07099;我　淨&CB30132;不淨　應求受相行識
+<lb ed="F" n="0476b11"/>　&CB30132;常　&CB30132;&CB07099;常　樂&CB30132;苦　我&CB30132;&CB07099;我　淨&CB30132;不淨　&CB30132;有能求如是&CB21717;法修行般&CB30132;是行般&CB30132;波羅蜜多。</p><p id="pF03p0476b1137" place="inline">&CB09529;尸迦&CB30132;善男子善女人&CB21717;如是求色　&CB30132;常　&CB30132;
+<lb ed="F" n="0476b12"/>&CB07099;常　樂&CB30132;苦　我&CB30132;&CB07099;我　淨&CB30132;不淨　求受相行識　&CB30132;常　&CB30132;<app><lem wit="【CBETA】" resp="CBETA.maha">&CB07099;</lem><rdg wit="【房山】">旡</rdg></app>常　&CB30132;樂　&CB30132;苦　&CB30132;我　&CB30132;<app><lem wit="【CBETA】" resp="CBETA.maha">&CB07099;</lem><rdg wit="【房山】">旡</rdg></app>我　&CB30132;淨　&CB30132;不淨　依此&CB21717;法行般&CB30132;者我說名為行<app><lem wit="【CBETA】" resp="CBETA.maha">有</lem><rdg wit="【房山】">&unrec;</rdg></app>所
+<lb ed="F" n="0476b13"/><app><lem wit="【CBETA】" resp="CBETA.maha">得</lem><rdg wit="【房山】">淂</rdg></app>相似般&CB30132;波羅蜜多。</p><p id="pF03p0476b1310" place="inline">&CB09529;尸迦如前所說當知皆是說有所<app><lem wit="【CBETA】" resp="CBETA.maha">得</lem><rdg wit="【房山】">淂</rdg></app>相似般&CB30132;波羅蜜多。</p><p id="pF03p0476b1333" place="inline" rend="margin-left:1em">此是十卷。</p>
+<lb ed="F" n="0476b14"/><p id="pF03p0476b1401" rend="margin-left:1em">解曰此中六波羅蜜為使從般&CB30132;為使頭從尒時天帝起後五波羅蜜作使從時天帝起般&CB30132;為頭十八界全廣餘下五使頭所有廣略並四廣八略無菩薩十地
+<lb ed="F" n="0476b15"/>四果中加一向字亦有廣略。</p></div1>
+<lb ed="F" n="0476b16"/><div1 type="other"><mulu type="其他" level="1" label="卷第一百四十六"/><head>大般&CB30132;波羅蜜多經卷&CB05663;一百四十六　初分挍量功德品&CB05663;卅　都翻八十卷　前卌卷般&CB30132;為頭　後卌卷一切智智為頭　廣略</head>
+<lb ed="F" n="0476b17"/><p id="pF03p0476b1701">尒時天帝&CB18232;白佛言世尊云何名為宣說真正般&CB30132;靜慮精進安忍淨戒布施波羅蜜多。</p><p id="pF03p0476b1735" place="inline">佛言&CB09529;尸迦&CB30132;善男子善女人&CB21717;說&CB07099;所<app><lem wit="【CBETA】" resp="CBETA.maha">得</lem><rdg wit="【房山】">德</rdg></app>般&CB30132;靜慮精進安忍淨戒布施波羅蜜多
+<lb ed="F" n="0476b18"/>如是名為宣說真正般&CB30132;靜慮精進安忍淨戒布施波羅蜜多。</p><p id="pF03p0476b1825" place="inline">時天帝&CB18232;復白佛言世尊云何諸善男子善女人&CB21717;說&CB07099;所得般&CB30132;波羅蜜多名為宣說真正般&CB30132;波羅蜜多。</p>
+<lb ed="F" n="0476b19"/><p id="pF03p0476b1901">佛言　復次&CB09529;尸迦&CB30132;善男子善女人&CB21717;為發&CB07099;上菩提心者宣說般&CB30132;波羅蜜多復作是言汝善男子應修　般&CB30132;波羅蜜多不應觀色　&CB30132;常　&CB30132;&CB07099;常
+<lb ed="F" n="0476b20"/>　樂&CB30132;苦　我&CB30132;&CB07099;我　淨&CB30132;不淨　不應觀受相行識　&CB30132;常　&CB30132;&CB07099;常　樂&CB30132;苦　我&CB30132;&CB07099;我　淨&CB30132;不淨　何以故色色自性空受相行識受相行識
+<lb ed="F" n="0476b21"/>自性空是色自性即非自性是受相行識自性亦非自性&CB30132;非自性即是般&CB30132;波羅蜜多於此般&CB30132;波羅蜜多色不可得彼　常&CB07099;常　樂与苦　我&CB07099;我　淨不淨
+<lb ed="F" n="0476b22"/>　亦不可得受相行識皆不可得彼　常&CB07099;常　樂与苦　我&CB07099;我　淨不淨　亦不可得所以者何此中尚&CB07099;色&CB21717;可得何&CB00288;彼　常与&CB07099;常　樂之与苦
+<lb ed="F" n="0476b23"/>　我与&CB07099;我　淨与不淨　汝&CB30132;能修如是般&CB30132;是修般&CB30132;波羅蜜多。</p><p id="pF03p0476b2325" place="inline" rend="margin-left:1em">此下結說至<app><lem wit="【CBETA】" resp="CBETA.maha">&CB05663;</lem><rdg wit="【房山】">弟</rdg></app>四遍便要。</p><p id="pF03p0476b2335" place="inline">&CB09529;尸迦是善男子善女人&CB21717;作此&CB21717;說是為宣<app><lem wit="【CBETA】" resp="CBETA.maha">說</lem><rdg wit="【房山】"></rdg></app>真正般&CB30132;波羅
+<lb ed="F" n="0476b24"/>蜜多。</p><p id="pF03p0476b2403" place="inline" rend="margin-left:1em">解曰此中以六波羅蜜次&CB05663;為頭&CB07099;&unrec;　&unrec;中加一向字四果亦尒。</p><p id="pF03p0476b2428" place="inline" rend="margin-left:1em">此上廿卷經。</p></div1>
+<lb ed="F" n="0476b25"/><div1 type="other"><mulu type="其他" level="1" label="卷第二百五"/><head>大般&CB30132;波羅蜜經<app><lem wit="【CBETA】" resp="CBETA.maha">&CB05663;</lem><rdg wit="【房山】">弟</rdg></app>二百五　初分難信解品</head>
+<lb ed="F" n="0476b26"/><p id="pF03p0476b2601">復次善現般&CB30132;波羅蜜多清淨故色清淨色清淨故一切智智清淨何以故&CB30132;般&CB30132;波羅蜜多清淨&CB30132;色清淨&CB30132;一切智智清淨無二無二分無別無&CB07589;故
+<lb ed="F" n="0476b27"/>色　受想行識　眼處　耳鼻舌身意處　色處　聲香味觸法處　眼界　色界　乃眼識界及眼觸眼觸為緣所
+<lb ed="F" n="0476b28"/>生諸受清淨　耳界　聲界乃耳識界及耳觸耳觸為緣所生諸受清淨　鼻界　香界乃鼻識界及鼻觸鼻觸為緣所生諸受清淨
+<lb ed="F" n="0476b29"/>　舌界　味界乃舌識界及舌觸舌觸為緣所生諸受清淨　身界　觸界乃身識界及身觸身觸為緣所生諸受清淨　意界　法界乃意識
+<lb ed="F" n="0476b30"/>界及意觸意觸為緣所生諸受清淨　地界　水火風空識界　&CB07099;明　行乃識名色六處觸受愛取有生老死愁歎苦憂&CB08974;
+<lb ed="F" n="0476b31"/>　布施波羅蜜　淨戒乃安忍　精進　靜慮　般&CB30132;波羅蜜多　內空　外空乃內外空　空空　大空　勝義空　有為空
+<lb ed="F" n="0476b32"/>　&CB07099;為空　畢竟空　&CB07099;際空　散空　&CB07099;變異空　本性空　自相空　共相空　一切法空　不可得空　&CB07099;性空　自性空
+<lb ed="F" n="0476b33"/>至&CB07099;性自性空　真如　法界乃法性　不虛妄性　不變異性平&CB21717;性　離生性　法定　法住　實際　虛空界　至不思議界　苦聖諦
+<lb ed="F" n="0476b34"/>　集滅道聖諦　四靜慮　四&CB07099;量　四&CB07099;色定　八解脫　八勝處　九次<app><lem wit="【CBETA】" resp="CBETA.maha">&CB05663;</lem><rdg wit="【房山】">弟</rdg></app>定　十遍處　四念住　四正&CB07589;　乃四神足　五根　五力七&CB21717;覺支
+<lb ed="F" n="0476b35"/>　八聖道支　空解脫門　&CB07099;相無願解脫　菩薩十地　五眼　六神通　佛十力　四&CB07099;所畏　乃四&CB07099;&CB01002;解　大慈　大悲　大喜　大捨至十八佛
+<lb ed="F" n="0476b36"/>不共法　無<app><lem wit="【CBETA】" resp="CBETA.maha" cf1=" T05n0220_p0012b22" cf2="X24n0448_p0033b14" cf3="X24n0449_p0049c07">忘</lem><rdg wit="【房山】">妄</rdg></app>失法　恒住捨性　一切智　道相智　一切相智　一切&CB00442;羅<app><lem wit="【CBETA】" resp="CBETA.maha">尼</lem><rdg wit="【房山】"></rdg></app>門　一切三摩地門　預流果　一來　不還　阿羅漢果
+<lb ed="F" n="0476b37"/>　獨覺<app><lem wit="【CBETA】" resp="CBETA.maha">菩提</lem><rdg wit="【房山】">&unrec;&unrec;</rdg></app>　一切菩薩摩訶行　諸佛無上正&CB21717;菩提。</p><p id="pF03p0476b3720" place="inline" rend="margin-left:1em">下冊卷以一切智智為頭。</p>
+<lb ed="F" n="0476b38"/><div2 type="w"><p id="pF03p0476b3801">&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;光祿大夫檢校太子&CB02082;客兼御史中丞張&CB04676;仟　大中十三年四月八日建</p></div2></div1>
+</body></text></TEI.2>

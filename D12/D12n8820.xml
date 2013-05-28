@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "D12n8820.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Selections from the Taipei National Central Library Buddhist Rare Book Collection, Electronic version, No. 8820 新菩薩經</title>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $ (Big5)<date>$Date: 2011/06/15 01:20:44 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2011/06/15 01:20:44 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Selections from the Taipei National Central Library Buddhist Rare Book Collection Vol. 12, No. 8820 &desc;</bibl>
+		<p>唐人寫卷子本</p>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p lang="chi" type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2011/06/14 13:36:40</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: D12n8820.xml,v $
+Revision 1.2  2011/06/15 01:20:44  amtbgrace
+modified: 修訂檔頭資料
+
+Revision 1.1  2011/06/14 08:59:06  amtbgrace
+modified: 執行 basicx.bat  將 bm 轉 xml
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="D" id="D12.8820.0001a" n="0001a"/>
+<lb ed="D" n="0001a01"/><milestone unit="juan" n="1"/><mulu type="卷" n="1"/><juan fun="open" n="1"><jhead>新菩&CB16765;經一卷</jhead></juan>
+<lb ed="D" n="0001a02"/><div1><p id="pD12p0001a0201"><note n="0001001" resp="NCLRareBook" place="foot text" type="orig">國圖按：按：此經舊藏經未錄,大正藏係據英倫敦煌本斯坦因136號﹑622號排印.以館藏此卷校之,大異;捨略有訛脫外,顯較大正所錄兩本優勝. ( 經文對照：大正藏第八十五卷疑似部,號2917A﹑2917B,頁1462.) </note>新菩&CB16765;經&CB14426;諸眾生大小每日念阿&CB12752;
+<lb ed="D" n="0001a03"/>佛一百口今載大熟&CB00824;人万〃億&CB00824;牛万
+<lb ed="D" n="0001a04"/>〃頭勸諸眾生斷&CB08891;脩善禾丘無人
+<pb ed="D" id="D12.8820.0002a" n="0002a"/>
+<lb ed="D" n="0002a01"/><app><lem wit="【CBETA】" resp="CBETA.maha">&CB15756;</lem><rdg wit="【國圖】">&unrec;</rdg></app>&CB03262;&CB05663;一病死&CB05663;二&CB18847;死&CB05663;三赤眼死
+<lb ed="D" n="0002a02"/>&CB05663;四腫病死&CB05663;五產生死&CB05663;六患腹。</p>
+<lb ed="D" n="0002a03"/><p id="pD12p0002a0301">有眼眾生&CB12251;一本免一身&CB12251;兩本免一
+<lb ed="D" n="0002a04"/>門&CB12251;三本免一村若不信者即滅門。</p>
+<lb ed="D" n="0002a05"/><p id="pD12p0002a0501">此經&CB30130;西&CB08795;州正月二日盛中時雷<app><lem wit="【CBETA】" resp="CBETA.maha">鳴</lem><rdg wit="【國圖】">明</rdg></app>雨
+<lb ed="D" n="0002a06"/>聲有一石下大如&CB08128;遂兩片即見此經
+<lb ed="D" n="0002a07"/>報諸眾生今載饒患。</p>
+<lb ed="D" n="0002a08"/><juan fun="close" n="1"><jhead>新菩&CB16765;經一卷</jhead></juan></div1>
+</body></text></TEI.2>

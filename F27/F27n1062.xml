@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "F27n1062.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Fangshan shijing, Electronic version, No. 1062 佛頂尊勝陀羅尼</title>
+			<author>宋 慈賢譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.1 $ (Big5)<date>$Date: 2010/10/07 07:52:52 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2010/10/07 07:52:52 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Fangshan shijing Vol. 27, No. 1062 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p lang="chi" type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2010/10/07 13:20:56</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: F27n1062.xml,v $
+Revision 1.1  2010/10/07 07:52:52  amtbgrace
+modified: 執行 basicx.bat  將 bm 轉 xml
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="F" id="F27.1062.0499a" n="0499a"/>
+<lb ed="F" n="0499a01"/><milestone unit="juan" n="1"/><mulu type="卷" n="1"/><juan fun="open" n="1"><jhead>佛頂尊勝&CB00442;羅尼</jhead></juan>
+<lb ed="F" n="0499a02"/><byline type="translator">大契丹國師中天竺摩竭&CB00442;國三藏法師　慈賢　譯</byline>
+<lb ed="F" n="0499a03"/><div1 type="dharani"><p id="pF27p0499a0301" type="dharani">曩謨婆&CB00344;&CB00085;帝<note place="inline">一</note>　&CB16765;囉&CB00085;<note place="inline">二合</note>怛&CB02735;<note place="inline">二合</note>路枳也
+<lb ed="F" n="0499a04"/><note place="inline">二合</note><note place="inline">二</note>　&CB00425;囉<note place="inline">二合</note>底<note place="inline">三</note>　尾始瑟吒<note place="inline">二合</note>野<note place="inline">四</note>　沒&CB00501;野
+<lb ed="F" n="0499a05"/><note place="inline">五</note>　婆&CB00344;&CB00085;帝<note place="inline">六</note>　怛&CB08859;也<note place="inline">二合</note>他唵<note place="inline">七</note>　哱&CB22058;哱&CB22058;
+<lb ed="F" n="0499a06"/><note place="inline">八</note>　戍&CB00501;野戍&CB00501;野<note place="inline">九</note>　尾戍&CB00501;野尾戍&CB00501;野<note place="inline">十</note>
+<lb ed="F" n="0499a07"/>　阿娑麼娑麼三滿哆<note place="inline">十一</note>　&CB00085;婆娑<note place="inline">十二</note>　娑頗囉拏
+<lb ed="F" n="0499a08"/><note place="inline">十三</note>　&CB00344;帝&CB00754;賀曩<note place="inline">十四</note>　&CB00344;&CB00344;曩<note place="inline">十五</note>　娑&CB00085;<note place="inline">二合</note>婆&CB00085;尾
+<lb ed="F" n="0499a09"/>&CB02122;弟<note place="inline">十六</note>　阿鼻詵散&CB00418;&CB00805;<note place="inline">十七</note>　&CB16765;囉&CB00085;<note place="inline">二合</note>怛他&CB00344;
+<lb ed="F" n="0499a10"/>哆素&CB00344;哆<note place="inline">十八</note>　&CB00085;囉&CB00085;佐曩<note place="inline">十九</note>　阿蜜&CB00069;<note place="inline">二合</note>哆鼻
+<lb ed="F" n="0499a11"/>曬罽<note place="inline">二十</note>　摩賀母怛囉<note place="inline">二合</note><note place="inline">二十一</note>　滿怛囉<note place="inline">二合</note>&CB00425;帶<note place="inline">二十二</note>
+<lb ed="F" n="0499a12"/>　唵阿賀囉阿賀囉<note place="inline">二十三</note>　阿&CB12777;散&CB00501;囉抳<note place="inline">二十四</note>
+<lb ed="F" n="0499a13"/>　戍&CB00501;野戍&CB00501;野<note place="inline">二十五</note>　&CB00344;&CB00344;曩娑&CB00085;<note place="inline">二合</note>婆&CB00085;尾
+<lb ed="F" n="0499a14"/>&CB02122;弟<note place="inline">二十六</note>　鄔瑟膩<note place="inline">二合</note>灑<note place="inline">二十七</note>　尾惹野<note place="inline">二十八</note>　跛
+<lb ed="F" n="0499a15"/>哩戍弟<note place="inline">二十九</note>　娑賀娑囉<note place="inline">二合</note>囉濕銘<note place="inline">二合</note>散祖&CB22056;
+<lb ed="F" n="0499a16"/>帝<note place="inline">三十</note>　&CB16765;囉&CB00085;<note place="inline">二合</note>怛他&CB00344;哆<note place="inline">三十一</note>　&CB00085;路枳抳<note place="inline">三十二</note>
+<lb ed="F" n="0499a17"/>　&CB16765;囉&CB00085;<note place="inline">二合</note>怛他&CB00344;哆麼帝<note place="inline">三十三</note>　察囉波囉蜜
+<lb ed="F" n="0499a18"/>哆<note place="inline">三十四</note>　&CB00425;哩布囉抳<note place="inline">三十五</note>　捺娑布銘<note place="inline">三十六</note>　&CB00425;
+<lb ed="F" n="0499a19"/>囉<note place="inline">二合</note>帝瑟恥<note place="inline">二合</note>地<note place="inline">三十七</note>　&CB16765;囉&CB00085;<note place="inline">二合</note>怛他&CB00344;哆
+<lb ed="F" n="0499a20"/><note place="inline">三十八</note>　&CB03314;哩<note place="inline">二合</note>娜野<note place="inline">三十九</note>　地瑟&CB00109;<note place="inline">二合</note>曩<note place="inline">四十</note>　地瑟
+<lb ed="F" n="0499a21"/>恥<note place="inline">二合</note>地<note place="inline">四十一</note>　唵母底哩<note place="inline">二合</note>母底哩<note place="inline">二合</note>摩賀母
+<lb ed="F" n="0499a22"/>底哩<note place="inline">二合</note><note place="inline">四十二</note>　&CB00085;日囉<note place="inline">二合</note>迦野<note place="inline">四十三</note>　僧賀跢曩<note place="inline">四十四</note>
+<lb ed="F" n="0499a23"/>　跛哩&CB02122;弟<note place="inline">四十五</note>　&CB16765;囉&CB00085;<note place="inline">二合</note>迦哩麼<note place="inline">二合</note><note place="inline">四十六</note>　&CB00085;囉
+<lb ed="F" n="0499a24"/>拏尾&CB02122;弟<note place="inline">四十七</note>　&CB00425;囉<note place="inline">二合</note>底&CB00576;&CB00085;哩哆<note place="inline">二合</note><note place="inline">四十八</note>　野
+<lb ed="F" n="0499a25"/>欲尾&CB02122;弟<note place="inline">四十九</note>　唵母&CB00576;母&CB00576;摩賀母&CB00576;<note place="inline">五十</note>　阿
+<lb ed="F" n="0499a26"/>母&CB00576;母&CB00576;<note place="inline">五十一</note>　尾母&CB00576;尾母&CB00576;摩賀尾母&CB00576;
+<lb ed="F" n="0499a27"/><note place="inline">五十二</note>　麼底麼底摩賀麼底<note place="inline">五十三</note>　怛他部跢句
+<lb ed="F" n="0499a28"/>致<note place="inline">五十四</note>　跛哩&CB02122;弟<note place="inline">五十五</note>　尾&CB16765;普<note place="inline">二合</note>吒<note place="inline">五十六</note>　尾
+<lb ed="F" n="0499a29"/>&CB02122;弟<note place="inline">五十七</note>　唵呬呬惹野惹野摩賀惹野<note place="inline">五十八</note>
+<pb ed="F" id="F27.1062.0499b" n="0499b"/>
+<lb ed="F" n="0499b01"/>　三麼囉三麼囉<note place="inline">五十九</note>　娑普<note place="inline">二合</note>囉娑普<note place="inline">二合</note>囉<note place="inline">六十</note>
+<lb ed="F" n="0499b02"/>　&CB16765;囉&CB00085;<note place="inline">二合</note>沒&CB00501;<note place="inline">六十一</note>　地瑟吒<note place="inline">二合</note>曩地瑟恥<note place="inline">二合</note>
+<lb ed="F" n="0499b03"/>底<note place="inline">六十二</note>　&CB02122;弟&CB02122;弟<note place="inline">六十三</note>　&CB00085;日哩<note place="inline">二合</note>&CB00085;日哩<note place="inline">二合</note>
+<lb ed="F" n="0499b04"/>摩賀&CB00085;日哩<note place="inline">二合</note><note place="inline">六十四</note>　阿&CB00085;日哩<note place="inline">二合</note><note place="inline">六十五</note>　&CB00085;日囉<note place="inline">二合</note>
+<lb ed="F" n="0499b05"/>&CB00754;哩陛<note place="inline">二合</note><note place="inline">六十六</note>　惹野&CB00754;哩陛<note place="inline">二合</note><note place="inline">六十七</note>　尾惹野&CB00754;哩
+<lb ed="F" n="0499b06"/>陛<note place="inline">二合</note><note place="inline">六十八</note>　&CB00085;日囉<note place="inline">二合</note>入&CB00085;<note place="inline">二合</note>&CB00256;&CB00754;哩陛<note place="inline">二合</note><note place="inline">六十九</note>　&CB00085;
+<lb ed="F" n="0499b07"/>日嚕<note place="inline">二合</note>&CB00754;底<note place="inline">七十</note>　&CB00085;日嚕<note place="inline">二合</note>婆尾<note place="inline">七十一</note>　&CB00085;日囉
+<lb ed="F" n="0499b08"/><note place="inline">二合</note>三婆尾<note place="inline">七十二</note>　&CB00085;日哩<note place="inline">二合</note>&CB00085;日哩<note place="inline">二合</note>抳<note place="inline">七十三</note>
+<lb ed="F" n="0499b09"/>　&CB00085;日&CB17267;<note place="inline">二合</note>婆&CB00085;&CB00418;<note place="inline">七十四</note>　麼麼&CB16765;哩&CB03298;<note place="inline">七十五</note>　&CB16765;
+<lb ed="F" n="0499b10"/>囉&CB00085;<note place="inline">二合</note>&CB16765;怛&CB00085;<note place="inline">二合</note>喃<note place="inline">七十六</note>　迦野跛哩&CB02122;弟瑟
+<lb ed="F" n="0499b11"/>佐<note place="inline">七十七</note>　婆&CB00085;&CB00418;銘&CB16765;跢<note place="inline">七十八</note>　&CB16765;囉&CB00085;<note place="inline">二合</note>&CB00344;底
+<lb ed="F" n="0499b12"/><note place="inline">七十九</note>　跛哩&CB02122;弟瑟佐<note place="inline">八十</note>　&CB16765;囉&CB00085;<note place="inline">二合</note>怛他&CB00344;哆
+<lb ed="F" n="0499b13"/><note place="inline">八十一</note>　三麼娑&CB00085;<note place="inline">二合</note>娑&CB22056;瑟恥<note place="inline">二合</note>帝<note place="inline">八十二</note>　&CB16765;囉
+<lb ed="F" n="0499b14"/>&CB00085;<note place="inline">二合</note>怛他&CB00344;哆瑟佐忙<note place="inline">八十三</note>　三麼娑&CB00085;<note place="inline">二合</note>娑
+<lb ed="F" n="0499b15"/>野&CB00418;<note place="inline">八十四</note>　唵悉&CB00833;悉&CB00833;<note place="inline">八十五</note>　沒&CB00833;沒&CB00833;<note place="inline">八十六</note>
+<lb ed="F" n="0499b16"/>　尾戍&CB00501;野尾戍&CB00501;野<note place="inline">八十七</note>　尾&CB00155;&CB00501;野尾&CB00155;&CB00501;
+<lb ed="F" n="0499b17"/>野<note place="inline">八十八</note>　母左母左尾母左<note place="inline">八十九</note>　戍&CB00501;野戊&CB00501;
+<lb ed="F" n="0499b18"/>野<note place="inline">九十</note>　尾戍&CB00501;野尾戍&CB00501;野<note place="inline">九十一</note>　三滿跢跛哩
+<lb ed="F" n="0499b19"/>母左野<note place="inline">九十二</note>　三滿怛囉<note place="inline">二合</note>室銘<note place="inline">二合</note><note place="inline">九十三</note>　跛哩&CB02122;
+<lb ed="F" n="0499b20"/>第<note place="inline">九十四</note>　&CB16765;囉&CB00085;<note place="inline">二合</note>怛他&CB00344;哆<note place="inline">九十五</note>　&CB03314;哩<note place="inline">二合</note>那
+<lb ed="F" n="0499b21"/>野<note place="inline">九十六</note>　地瑟吒<note place="inline">二合</note>曩<note place="inline">九十七</note>　地瑟恥<note place="inline">二合</note>底<note place="inline">九十八</note>
+<lb ed="F" n="0499b22"/>　唵母底哩<note place="inline">二合</note>摩賀母底哩<note place="inline">二合</note><note place="inline">九十九</note>　滿怛囉<note place="inline">二合</note>&CB00425;
+<lb ed="F" n="0499b23"/>跢&CB22056;瑟恥<note place="inline">二合</note>底娑&CB00085;<note place="inline">二合</note>賀<note place="inline">引</note><note place="inline">一百</note></p>
+<lb ed="F" n="0499b24"/><juan fun="close" n="1"><jhead>佛頂尊勝&CB00442;羅尼一卷　　　丁</jhead></juan></div1>
+</body></text></TEI.2>

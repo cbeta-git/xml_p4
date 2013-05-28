@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "F03n0088.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Fangshan shijing, Electronic version, No. 088 佛說灌頂章句拔除過罪生死得度經</title>
+			<author>東晉 帛尸梨密多羅譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $ (Big5)<date>$Date: 2012/04/23 08:06:15 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/04/23 08:06:15 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Fangshan shijing Vol. 03, No. 088 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p lang="chi" type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2010/10/11 13:37:46</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: F03n0088.xml,v $
+Revision 1.2  2012/04/23 08:06:15  amtbgrace
+modified: 20120419 組字修訂
+
+Revision 1.1  2010/10/13 08:30:31  eva
+bm 轉 xml 作業上傳
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="F" id="F03.0088.0002a" n="0002a"/>
+<lb ed="F" n="0002a01"/><milestone unit="juan" n="1"/><mulu type="卷" n="1"/><juan fun="open" n="1"><jhead>佛說灌頂章句&CB31165;除過罪生死得度經</jhead></juan><div1><p id="pF03p0002a0116" place="inline">聞如是一時佛遊維耶離音樂樹下與八千比丘眾菩薩三万六千人俱國王大臣人民及諸天龍八部鬼神共會說法於是文殊師利法王子菩薩摩訶薩承佛威神從坐而起長跪叉手前白佛言世尊願為未來像<app><lem wit="【CBETA】" resp="CBETA.maha">法</lem><rdg wit="【房山】">&unrec;</rdg></app>
+<lb ed="F" n="0002a02"/>眾生宣揚顯說往昔過去諸佛名字及清淨國土莊嚴之事願為&CB17107;說得聞法要。</p><p id="pF03p0002a0232" place="inline">佛告文殊師利善&CB26210;善&CB26210;汝慈&CB07099;量愍念罪苦一切眾生問此往昔諸佛名字及國土清淨莊嚴之事利益一切&CB07099;量眾生度諸危厄令得安隱汝今諦聽諦受善思念之吾當為<app><lem wit="【CBETA】" resp="CBETA.maha">汝</lem><rdg wit="【房山】">&unrec;</rdg></app>
+<lb ed="F" n="0002a03"/><app><lem wit="【CBETA】" resp="CBETA.maha">分別說之眾坐諸菩薩摩</lem><rdg wit="【房山】">&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;</rdg></app>訶薩&CB07099;鞅數眾及諸應真國王長者大臣人民天龍鬼神四&CB03212;弟子皆各嘿然聽佛所說莫不歡喜一心樂聞。</p><p id="pF03p0002a0353" place="inline">佛告文殊師利東方去此佛剎十恒河沙<app><lem wit="【CBETA】" resp="CBETA.maha">世界</lem><rdg wit="【房山】"></rdg></app>有佛名曰藥師琉璃光如來&CB07099;所著　至真等正覺明行足善逝世間&CB17107;&CB07099;<app><lem wit="【CBETA】" resp="CBETA.maha">上士</lem><rdg wit="【房山】">&unrec;&unrec;</rdg></app>
+<lb ed="F" n="0002a04"/><app><lem wit="【CBETA】" resp="CBETA.maha">調御丈夫天人師佛世尊度脫生老病死</lem><rdg wit="【房山】">&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;</rdg></app>苦患此藥師琉璃光本所脩行菩薩道時發心自誓行十二上願令一切眾生所求皆得。</p><p id="pF03p0002a0451" place="inline">第一願者使我來世得作佛時自身光&CB02772;普照十方三十二相八十種好而自&CB00982;嚴令一切眾生如我&CB07099;異。</p><p id="pF03p0002a0492" place="inline">第二願者使我自身
+<lb ed="F" n="0002a05"/>猶如琉璃內外明<app><lem wit="【CBETA】" resp="CBETA.maha">徹淨</lem><rdg wit="【房山】">&unrec;&unrec;</rdg></app>&CB07099;<app><lem wit="【CBETA】" resp="CBETA.maha">瑕穢</lem><rdg wit="【房山】">&unrec;&unrec;</rdg></app>妙<app><lem wit="【CBETA】" resp="CBETA.maha">色廣大功德巍巍</lem><rdg wit="【房山】">&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;</rdg></app>安住十方如日照世幽&CB07448;眾生悉蒙開曉。</p><p id="pF03p0002a0537" place="inline">第三願者使我來世智慧廣大<app><lem wit="【CBETA】" resp="CBETA.maha">如海無窮</lem><rdg wit="【房山】">&unrec;&unrec;&unrec;&unrec;</rdg></app>潤澤枯涸&CB07099;量眾生<app><lem wit="【CBETA】" resp="CBETA.maha">普使蒙益</lem><rdg wit="【房山】">&unrec;&unrec;&unrec;&unrec;</rdg></app>悉令飽滿&CB07099;飢渴想甘食美&CB00498;悉持施與。</p><p id="pF03p0002a0581" place="inline">&CB05663;四願者使我來世佛道成就巍巍堂堂如星
+<lb ed="F" n="0002a06"/>中之月消除生死之雲令&CB07099;有翳明照世間行者見<app><lem wit="【CBETA】" resp="CBETA.maha">道熱得清涼</lem><rdg wit="【房山】">&unrec;&unrec;&unrec;&unrec;&unrec;</rdg></app>&CB17107;除<app><lem wit="【CBETA】" resp="CBETA.maha">垢穢</lem><rdg wit="【房山】">&unrec;&unrec;</rdg></app>。</p><p id="pF03p0002a0630" place="inline">第五願者使我來世發大精進淨持戒地令&CB07099;<app><lem wit="【CBETA】" resp="CBETA.maha">濁穢慎護所</lem><rdg wit="【房山】">&unrec;&unrec;&unrec;&unrec;&unrec;</rdg></app>受令&CB07099;&CB04130;犯亦令一切戒行具足堅持不犯至&CB07099;為道。</p><p id="pF03p0002a0674" place="inline">&CB05663;六願者若有眾生諸根毀敗盲者使視聾者得聽&CB00484;者得語<app><lem wit="【CBETA】" resp="CBETA.maha">&CB02453;</lem><rdg wit="【房山】">&unrec;</rdg></app>
+<lb ed="F" n="0002a07"/>者能申跛者能行如是不完具者悉令得具足。</p><p id="pF03p0002a0719" place="inline">&CB05663;七<app><lem wit="【CBETA】" resp="CBETA.maha">願</lem><rdg wit="【房山】">&unrec;</rdg></app>者使我來世十方世界若有苦惱&CB07099;救護者我為此等設大法藥令諸疾病皆得除愈&CB07099;&CB11040;苦患至得佛道。</p><p id="pF03p0002a0763" place="inline">第八願者使我來世以善業&CB10318;緣為諸愚&CB07448;&CB07099;量眾生講宣妙法令得度脫入智慧門普使明
+<lb ed="F" n="0002a08"/>了&CB07099;諸疑<app><lem wit="【CBETA】" resp="CBETA.maha">惑</lem><rdg wit="【房山】">或</rdg></app>。</p><p id="pF03p0002a0806" place="inline">&CB05663;九願者使我來世摧伏&CB08891;魔及諸外道顯揚清淨&CB07099;上道法使入正真&CB07099;諸邪僻迴向菩提八正覺路。</p><p id="pF03p0002a0846" place="inline">&CB05663;十願者使我來世若有眾生王法所加臨當刑&CB10258;&CB07099;量畏怖愁憂苦惚若&CB11040;鞭韃枷璅其&CB00816;種種&CB06960;懼逼切其身如是&CB07099;邊諸苦惱等悉
+<lb ed="F" n="0002a09"/>令&CB17107;脫&CB07099;有眾難。</p><p id="pF03p0002a0908" place="inline">第十一願者使我來世若有眾生飢渴所惚令得種種甘美飲食天諸餚&CB00498;種種&CB07099;數悉以賜與令身充足。</p><p id="pF03p0002a0949" place="inline">&CB05663;十二願者使我來世若有貧凍裸<app><lem wit="【CBETA】" resp="CBETA.maha">露</lem><rdg wit="【房山】">路</rdg></app>眾生即得衣服窮乏之人施以&CB13251;寶<app><lem wit="【CBETA】" resp="CBETA.maha">倉</lem><rdg wit="【房山】">食</rdg></app>庫盈溢&CB07099;所乏少一切皆受&CB07099;量快樂乃至&CB07099;有一
+<lb ed="F" n="0002a10"/>人受苦使諸眾生和顏悅色形<app><lem wit="【CBETA】" resp="CBETA.maha">貌</lem><rdg wit="【房山】">&unrec;</rdg></app>端正人所喜見琴瑟&CB00655;吹如是&CB07099;量最上音聲施與一切&CB07099;量眾生是為十二微妙上願。</p><p id="pF03p0002a1048" place="inline">佛告文殊師利此藥師琉璃光本願功德如是我今為汝略說其國&CB00982;嚴之事此藥師琉璃光如來國土清淨&CB07099;五濁&CB07099;愛欲&CB07099;意垢以
+<lb ed="F" n="0002a11"/>白銀琉璃為地宮殿樓閣悉用七寶亦如西方&CB07099;量壽國&CB07099;有異也有二菩薩一名日曜二名月淨是二菩薩次補佛處諸善男子善女人亦當願生彼國土也文殊師利白佛言唯願演說藥師琉璃光如來&CB07099;量功德饒益眾生令得佛道。</p><p id="pF03p0002a1192" place="inline">佛言若有男子女人<app><lem wit="【CBETA】" resp="CBETA.maha">新</lem><rdg wit="【房山】">&unrec;</rdg></app>
+<lb ed="F" n="0002a12"/>破眾魔來入正道得聞說是藥師琉璃光如來名字者魔家眷屬退散馳走如是&CB07099;量拔眾生苦我今說之佛告文殊師利世間有人不&CB17107;罪福慳貪不知布施今世後世當得其福世人愚癡但知貪惜寧自割身肉而噉食之不&CB09342;持錢財布施求後世之福又有
+<lb ed="F" n="0002a13"/>人身不衣食此大慳貪命&CB02534;以後當墮餓鬼及在畜生中聞我說是藥師琉璃光如來名字之時&CB07099;不&CB17107;脫憂苦者也皆作信心貪福畏罪人從索頭與頭索眼與眼乞妻與妻乞子與子求金銀&CB13251;寶皆大布施一時歡喜即發&CB07099;上正真道意。</p><p id="pF03p0002a1393" place="inline">佛言若&CB11040;有人受
+<lb ed="F" n="0002a14"/>佛淨戒遵奉明法不&CB17107;罪福<app><lem wit="【CBETA】" resp="CBETA.maha">雖</lem><rdg wit="【房山】">&unrec;</rdg></app>知明經不及中義不能分別曉了中事以自貢高恒<app><lem wit="【CBETA】" resp="CBETA.maha">常</lem><rdg wit="【房山】">當</rdg></app>曚憒乃與世間眾魔從事更作縛著不&CB17107;行之戀著婦女恩愛之情口為說空行在有中不能發覺&CB11040;不自知但能論說他人是非如此人&CB03212;皆當墮三&CB08891;道中聞我說是藥師
+<lb ed="F" n="0002a15"/>琉璃光本願功德&CB07099;不歡喜念欲捨家作沙門者也。</p><p id="pF03p0002a1521" place="inline">佛言世間有人好自稱譽皆是貢高當墮三&CB08891;道中後還為人牛馬奴婢生下賤中人當乘其力負重而行困苦疲極&CB08601;去人身聞我說是藥師琉璃光如來本願功德者皆當一心歡喜踴躍便作謙敬即得
+<lb ed="F" n="0002a16"/>&CB17107;脫眾苦之患長得歡樂&CB15101;明智慧遠離&CB08891;道得生善處與善知識共相值遇&CB07099;&CB11040;憂惱離諸魔縛。</p><p id="pF03p0002a1639" place="inline">佛言世間愚癡人&CB03212;兩舌&CB00435;諍&CB08891;口罵詈更相嫌恨或就山神樹下鬼神日月之神南<app><lem wit="【CBETA】" resp="CBETA.maha">斗</lem><rdg wit="【房山】">升</rdg></app>北辰諸鬼神所作諸&CB00057;誓或作人形像或作苻書以相厭禱&CB00057;詛言說
+<lb ed="F" n="0002a17"/>聞我說是藥師琉璃光本願功德&CB07099;不兩作和&CB17107;俱生慈心&CB08891;意悉滅各各歡喜&CB07099;&CB11040;&CB08891;念。</p><p id="pF03p0002a1736" place="inline">佛言若四&CB03212;弟子比丘比丘尼清淨信士清信女常脩月六齋年三長齋或晝夜精懃一心苦行願欲往生西方阿&CB12752;&CB00442;佛國者憶念晝夜若一日二日三日四日五日
+<lb ed="F" n="0002a18"/>六日七日或&CB11040;中悔聞我說是琉璃光本願功德盡其壽命欲終之日有八菩薩皆當飛往迎其精神不<app><lem wit="【CBETA】" resp="CBETA.maha">經</lem><rdg wit="【房山】">&unrec;</rdg></app>八難生蓮華中自然音樂而<app><lem wit="【CBETA】" resp="CBETA.maha">相娛樂</lem><rdg wit="【房山】">&unrec;&unrec;&unrec;</rdg></app>。</p><p id="pF03p0002a1856" place="inline">佛言假使壽命自欲盡時臨&CB02534;之日得聞我說是琉璃光佛本願功德者命終皆得上生天上不&CB11040;歷三&CB08891;道中天上
+<lb ed="F" n="0002a19"/>福<app><lem wit="【CBETA】" resp="CBETA.maha">盡</lem><rdg wit="【房山】">&unrec;</rdg></app>若下生人<app><lem wit="【CBETA】" resp="CBETA.maha">間</lem><rdg wit="【房山】">閒</rdg></app>當為帝王家作子或<app><lem wit="【CBETA】" resp="CBETA.maha">於</lem><rdg wit="【房山】">生</rdg></app>豪姓長者居士富貴家生皆當端正&CB15101;明智慧高才踴猛若是女人化成男子&CB07099;&CB11040;憂苦患難<app><lem wit="【CBETA】" resp="CBETA.maha">者也</lem><rdg wit="【房山】">&unrec;&unrec;</rdg></app>。</p><p id="pF03p0002a1955" place="inline">佛告文殊我稱譽顯說琉璃光佛至真等正覺本所脩集&CB07099;量行願功德如是文殊師利從坐而起長跪叉手白佛言
+<lb ed="F" n="0002a20"/>世尊佛去世後當以此法開化十方一切眾生使其受持是經典也若有男子女人愛樂是經受持讀誦宣通之者&CB11040;能專念若一日二日三日四日五日乃至七日憶念不忘能以好素帛書取是經五色雜綵作囊盛之者是時當有諸天善神四天大王龍神八
+<lb ed="F" n="0002a21"/>部常來營衛愛敬是經日日作&CB17716;是持經者不墮橫死所在安隱&CB08891;氣消滅諸魔鬼神亦不中&CB10329;佛言如是如是如汝所說文殊師利言天<app><lem wit="【CBETA】" resp="CBETA.maha">尊所說</lem><rdg wit="【房山】">&unrec;&unrec;&unrec;</rdg></app>言&CB07099;不善。</p><p id="pF03p0002a2161" place="inline">佛言文殊若有善男子善女人等發心造立藥師琉璃光如來形像供養&CB17716;拜懸雜色旛&CB02649;燒香散<app><lem wit="【CBETA】" resp="CBETA.maha">華歌</lem><rdg wit="【房山】">&unrec;&unrec;</rdg></app>
+<lb ed="F" n="0002a22"/>詠讚歎<app><lem wit="【CBETA】" resp="CBETA.maha">圍</lem><rdg wit="【房山】">&unrec;</rdg></app>遶百匝還本坐處端坐思惟念藥師琉璃光佛&CB07099;量功德若有男子女人七日七夜菜食長齋供養&CB17716;拜藥師琉璃光佛求心中<app><lem wit="【CBETA】" resp="CBETA.maha">所願者</lem><rdg wit="【房山】">&unrec;&unrec;&unrec;</rdg></app>&CB07099;不獲得求長壽得長壽求富饒得富饒求安隱得安隱求男女得男女求官位得官位若命過以後欲生妙樂天
+<lb ed="F" n="0002a23"/>上者亦當&CB17716;敬琉璃光佛至真等正覺若<app><lem wit="【CBETA】" resp="CBETA.maha">欲</lem><rdg wit="【房山】"></rdg></app>上生三十三天者亦當&CB17716;敬琉璃光佛必得往生若<app><lem wit="【CBETA】" resp="CBETA.maha">欲</lem><rdg wit="【房山】"></rdg></app>與明師世世相值者亦當&CB17716;敬琉璃光佛。</p><p id="pF03p0002a2355" place="inline">佛告文殊師利若欲往生十方妙樂國土者亦當&CB17716;敬琉璃光佛欲得生兜率天上見&CB12752;勒者亦當&CB17716;敬琉璃光佛若欲
+<lb ed="F" n="0002a24"/>離諸<app><lem wit="【CBETA】" resp="CBETA.maha">邪</lem><rdg wit="【房山】">耶</rdg></app>忤外道亦當&CB17716;敬琉璃光佛若夜&CB08891;夢鳥鳴百&CB00383;蜚尸<app><lem wit="【CBETA】" resp="CBETA.maha">邪</lem><rdg wit="【房山】">耶</rdg></app>忤魍魎鬼神之所<app><lem wit="【CBETA】" resp="CBETA.maha">嬈</lem><rdg wit="【房山】">繞</rdg></app>者亦當&CB17716;敬琉璃光佛若入山谷<app><lem wit="【CBETA】" resp="CBETA.maha">為</lem><rdg wit="【房山】">&unrec;</rdg></app>虎狼熊羆蒺&CB01420;諸<app><lem wit="【CBETA】" resp="CBETA.maha">獸象</lem><rdg wit="【房山】">&unrec;&unrec;</rdg></app>龍蚖&CB00309;蝮蝎種種雜類<app><lem wit="【CBETA】" resp="CBETA.maha">若有</lem><rdg wit="【房山】">&unrec;&unrec;</rdg></app>&CB08891;心來相向者心當存念琉璃光佛山中諸難不能為&CB10329;若他怨賊偷竊&CB08891;人<app><lem wit="【CBETA】" resp="CBETA.maha">怨家債主</lem><rdg wit="【房山】">&unrec;&unrec;&unrec;&unrec;</rdg></app>
+<lb ed="F" n="0002a25"/>欲來侵陵心常存念琉璃光佛則不為&CB10329;以善男子善女人&CB17716;敬琉璃光如來功德所致華報如是&CB00288;果報也吾今<app><lem wit="【CBETA】" resp="CBETA.maha">勸</lem><rdg wit="【房山】">&unrec;</rdg></app>諸四輩&CB17716;事琉璃光佛至真等正覺。</p><p id="pF03p0002a2560" place="inline">佛告文殊師利<app><lem wit="【CBETA】" resp="CBETA.maha">我但</lem><rdg wit="【房山】">但我</rdg></app>為汝<app><lem wit="【CBETA】" resp="CBETA.maha">&CB00259;</lem><rdg wit="【房山】">&unrec;</rdg></app>說琉璃光佛&CB17716;敬功德若使我廣說是琉璃光佛&CB07099;量功德與一切&unrec;&unrec;
+<pb ed="F" id="F03.0088.0002b" n="0002b"/>
+<lb ed="F" n="0002b01"/>有如是之罪應墮&CB08891;道聞我說是藥師琉璃光佛名字之者一切過罪自然消滅。</p><p id="pF03p0002b0132" place="inline">佛告文殊若善男子善女人聞我說是藥師琉璃光佛至真等正覺其誰不發&CB07099;上正真道意後皆當得作佛人居世間官位不遷治生不得飢寒困厄忘失財產&CB07099;&CB11040;方計聞<app><lem wit="【CBETA】" resp="CBETA.maha">我</lem><rdg wit="【房山】">&unrec;</rdg></app>
+<lb ed="F" n="0002b02"/>說是藥師琉璃光佛各各得心中所願士官皆得高遷財物自然長益飲食充饒皆得富貴若為縣官之所拘錄&CB08891;人侵枉若為怨家所得便者心當存念琉璃光佛皆得&CB17107;脫若他婦女產生難者心當存念琉璃光佛兒即易生身體平正&CB07099;諸疾痛六情完具<app><lem wit="【CBETA】" resp="CBETA.maha">聰</lem><rdg wit="【房山】">&unrec;</rdg></app>
+<lb ed="F" n="0002b03"/>明智慧壽命得長不遭枉橫善神擁護不為鬼神舐其頭也。</p><p id="pF03p0002b0324" place="inline">佛說是經時阿難在右邊佛<app><lem wit="【CBETA】" resp="CBETA.maha">顧</lem><rdg wit="【房山】">&unrec;</rdg></app>語阿難言汝信我為文殊師利說往昔東方過此十恒河沙有佛名藥師琉璃光本願功德者不阿難白佛言唯天中天佛之所言何敢不信耶佛&CB11040;語阿難言世間&unrec;
+<lb ed="F" n="0002b04"/>人雖有眼耳鼻舌身意人常用是六事以自迷<app><lem wit="【CBETA】" resp="CBETA.maha">惑</lem><rdg wit="【房山】">或</rdg></app>信世俗魔邪之言不信至真至誠度世苦切之語如是人&CB03212;難可開化阿難白佛言世尊世間有人多有&CB08891;逆下賤之者若聞佛說開人耳目破治人病除人陰&CB07448;使&CB00418;光明&CB17107;人疑結去人重罪千万億&CB04068;&CB07099;&CB11040;憂
+<lb ed="F" n="0002b05"/>患皆<app><lem wit="【CBETA】" resp="CBETA.maha">&CB10318;</lem><rdg wit="【房山】">&unrec;</rdg></app>說是藥師琉璃光本願功德悉令安隱得其福報。</p><p id="pF03p0002b0523" place="inline">佛告阿難汝口為言善而汝內心狐疑我言阿難汝莫作是念以自毀敗佛言阿難我見汝心我知汝意汝知之不阿難即以頭面<app><lem wit="【CBETA】" resp="CBETA.maha">著</lem><rdg wit="【房山】">&unrec;</rdg></app>地長跪白佛言如天中天所說我造次聞佛說是藥師琉璃光極大
+<lb ed="F" n="0002b06"/>尊貴智慧巍巍難可度量我心有小疑敢不首伏佛言汝智慧狹劣少見少聞汝聞我說深妙之法&CB07099;上空義難生信敬貴重之心我當得至正真之道。</p><p id="pF03p0002b0659" place="inline">文殊問佛言世尊佛說是藥師琉璃光如來&CB07099;量功德如是不審誰肯信此言者佛荅文殊言唯有百億諸
+<lb ed="F" n="0002b07"/>菩薩摩訶薩當信是言耳唯有十方三世諸佛當信是言。</p><p id="pF03p0002b0723" place="inline">佛言我說是藥師琉璃光如來本願功德難可得見何&CB00288;得聞亦難得說難得書寫亦難得讀文殊師利若有男子女人能信是經受持讀誦書寫竹帛&CB11040;能為他人&CB17107;說中義此<app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【房山】">經</rdg></app>皆是先世<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【房山】">以</rdg></app>發道意今
+<lb ed="F" n="0002b08"/>&CB11040;得聞此微妙法開化十方&CB07099;量眾生當知此人必當得至&CB07099;上正真道也。</p><p id="pF03p0002b0830" place="inline">佛告阿難我作佛以來從生死至生死懃苦累&CB03567;&CB07099;所不經&CB07099;所不歷&CB07099;所不作&CB07099;所不為如是不可思議&CB00288;&CB11040;琉璃光佛本願功德者乎汝所有疑者亦<app><lem wit="【CBETA】" resp="CBETA.maha">&CB11040;</lem><rdg wit="【房山】">&unrec;</rdg></app>如是阿難汝聞佛所說汝諦
+<lb ed="F" n="0002b09"/>信之莫作疑<app><lem wit="【CBETA】" resp="CBETA.maha">惑</lem><rdg wit="【房山】">或</rdg></app>佛言至誠&CB07099;有虛偽亦&CB07099;二言佛言為信者施不為疑者說也阿難汝<app><lem wit="【CBETA】" resp="CBETA.maha">莫</lem><rdg wit="【房山】"></rdg></app>作小疑以毀大乘之業汝&CB00230;後亦當數數發摩訶衍莫以小道毀汝功德阿難<app><lem wit="【CBETA】" resp="CBETA.maha">言</lem><rdg wit="【房山】"></rdg></app>唯唯天中天佛之所說我從今日以去&CB07099;&CB11040;尒心唯佛自當知我心耳。</p><p id="pF03p0002b0993" place="inline">佛語阿難此經能照諸
+<lb ed="F" n="0002b10"/>天宮殿若三&CB00321;起時<app><lem wit="【CBETA】" resp="CBETA.maha">中</lem><rdg wit="【房山】">&unrec;</rdg></app>有天人發心念此琉璃光佛本願功德經者皆得離於彼處之難是經能除水涸不調是經能除他方逆賊悉令消滅四方夷狄各還正治不相嬈惱國土交通人民歡喜是經能除穀貴飢凍是經能除&CB08891;星變<app><lem wit="【CBETA】" resp="CBETA.maha">怪</lem><rdg wit="【房山】">&unrec;</rdg></app>是經能除疫毒之病<app><lem wit="【CBETA】" resp="CBETA.maha">是經</lem><rdg wit="【房山】">&unrec;&unrec;</rdg></app>
+<lb ed="F" n="0002b11"/>能救三&CB08891;道苦地獄餓鬼畜生等苦若人得聞此經典者&CB07099;不&CB17107;脫厄難者也。</p><p id="pF03p0002b1131" place="inline">尒時眾中有一菩薩名曰救脫從座而起整衣服叉手合掌而白佛言我等今日聞佛世尊演說過去東方十恒河沙世界有佛&CB00561;琉璃光一切眾會靡不歡喜救脫菩薩叉手白佛
+<lb ed="F" n="0002b12"/>言世尊若族姓男女其有<app><lem wit="【CBETA】" resp="CBETA.maha">&CB00460;羸</lem><rdg wit="【房山】">&unrec;&unrec;</rdg></app>著床痛惚&CB07099;救護者我今當勸呼諸眾僧七日七夜齋戒一心受持八禁六時行道卌九遍讀是經典勸燃七層之燈亦勸懸五色續命神幡阿難問救脫菩薩言續命幡燈法則云何救脫菩薩語阿難言神幡五色卌九尺燈亦&CB11040;
+<lb ed="F" n="0002b13"/>尒七層之燈一層七燈燈如車輪若遭厄難&CB02464;在牢獄枷&CB00430;著身亦當造立五色神幡燈卌九應放雜類眾生<app><lem wit="【CBETA】" resp="CBETA.maha">至</lem><rdg wit="【房山】">生</rdg></app>卌九可得過度危厄之難不為諸撗&CB08891;鬼所持也。</p><p id="pF03p0002b1363" place="inline">救脫菩薩語阿難言若<app><lem wit="【CBETA】" resp="CBETA.maha">國</lem><rdg wit="【房山】">天</rdg></app>王大臣及諸輔相王子妃主中宮婇女若為病苦所惱亦應造立五色
+<lb ed="F" n="0002b14"/>繒<app><lem wit="【CBETA】" resp="CBETA.maha">幡然</lem><rdg wit="【房山】">&unrec;&unrec;</rdg></app>燈續明救諸生命散雜色華燒諸名香王當放赦屈厄之人徒&CB00430;&CB17107;脫王得其福天下泰平雨澤以時人民歡喜&CB08891;龍攝毒&CB07099;病苦者四方夷狄不生逆&CB10329;國土通洞慈心相向&CB07099;諸&CB00321;&CB10329;四海歌詠稱王之德乘此福祿在意所生見佛聞法信受教誨從是
+<lb ed="F" n="0002b15"/>福報至&CB07099;上道。</p><p id="pF03p0002b1507" place="inline">阿難又問救脫菩薩言命可續耶救脫菩薩荅阿難言我聞世尊說有諸撗勸造幡&CB02649;令其脩福又言阿難昔沙&CB12752;救蟻以脩福故盡其壽命不經苦患身體安隱福德力彊使之然也阿難&CB10318;&CB11040;問救脫菩薩撗有幾種世尊說言撗乃&CB07099;數略而
+<lb ed="F" n="0002b16"/>言之大撗有九一者撗病二者撗有口舌三者撗遭縣官四者身羸&CB07099;福又持戒不完撗為鬼神之所得便五者撗為&CB04068;賊之所剝奪六者撗為水火焚<app><lem wit="【CBETA】" resp="CBETA.maha">漂</lem><rdg wit="【房山】">&unrec;</rdg></app>七者撗為雜類禽獸所噉八者撗為怨讎苻書厭禱<app><lem wit="【CBETA】" resp="CBETA.maha">邪</lem><rdg wit="【房山】">耶</rdg></app>神牽引未得其福但受其殃先亡牽引亦名撗死九
+<lb ed="F" n="0002b17"/>者有病不治又不脩福湯藥不慎針灸失度不值良醫為病所困於是滅亡又信世間妖&CB00752;之師為作<app><lem wit="【CBETA】" resp="CBETA.maha">恐</lem><rdg wit="【房山】">&unrec;</rdg></app>動寒熱言語妄發禍福所犯者多心不自正不能自定卜問覓禍煞&CB00163;狗牛羊種種眾生&CB17107;奏神明呼諸<app><lem wit="【CBETA】" resp="CBETA.maha">邪</lem><rdg wit="【房山】">耶</rdg></app>&CB07665;魍魎鬼神請乞福祚欲望長生&CB02534;不能得愚癡
+<lb ed="F" n="0002b18"/>迷<app><lem wit="【CBETA】" resp="CBETA.maha">惑</lem><rdg wit="【房山】">或</rdg></app>信<app><lem wit="【CBETA】" resp="CBETA.maha">邪倒</lem><rdg wit="【房山】">耶到</rdg></app>見死入地獄展轉其中&CB07099;&CB17107;脫時是名九撗也。</p><p id="pF03p0002b1824" place="inline">救脫菩薩語阿難言其世間人痿黃之病困篤著床求生不得求死不得拷楚万端此病人者或其前世造作&CB08891;業罪過所招殃<app><lem wit="【CBETA】" resp="CBETA.maha">咎</lem><rdg wit="【房山】">各</rdg></app>所引故使然也。</p><p id="pF03p0002b1880" place="inline">救脫菩薩語阿難言閻羅王者主領世間名藉之記
+<lb ed="F" n="0002b19"/>若人為&CB08891;作諸非法&CB07099;孝順心造作五逆罪破滅三寶&CB07099;君臣法又有眾生不持五戒不信正法設有受者多所毀犯於是地下鬼神及伺&CB07419;者奏上五官五官&CB02129;&CB01826;除死定生或注錄精神未判是非若<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【房山】">巳</rdg></app>定者奏上閻羅閻羅鑒察隨罪輕重<app><lem wit="【CBETA】" resp="CBETA.maha">拷</lem><rdg wit="【房山】">&unrec;</rdg></app>而治之世間痿黃
+<lb ed="F" n="0002b20"/>之病困篤不死一絕一生由其罪福未得&CB02129;&CB01826;錄其精神在彼王所或七日至三七日乃至七七日名藉<app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【房山】">不</rdg></app>定者放其精神還其身中如從夢中見其善&CB08891;其人若明了者信驗罪福是故我今勸諸四&CB03212;造續命神幡燃卌九燈放諸生命以此幡燈放生功德拔彼
+<lb ed="F" n="0002b21"/>精神令得度苦今世不遭厄難救脫菩薩語阿難言如來世尊說是經典威神功德利益不少座中諸鬼神有十二神王從座而起往到佛所&CI0004;合掌白佛言世尊我等十二鬼神在所作護若城邑聚落空閑林中若四&CB03212;弟子誦持此經令所結願&CB07099;求不得阿
+<lb ed="F" n="0002b22"/>難問言其名云何願為說之救脫菩薩言灌頂章句其名如是。</p><p id="pF03p0002b2225" place="inline">神名金毗羅　神名和耆羅　神名安&CB00442;羅　神名摩尼羅　神名宋林羅　神名&CB12752;祛羅　神名婆那羅　神名摩&CB06401;羅　神名照頭羅　神名毗伽羅　神名&CB10318;持羅　神名真&CB00442;羅。</p><p id="pF03p0002b2285" place="inline">救脫菩薩語
+<lb ed="F" n="0002b23"/>阿難言此諸鬼神別有七千以為眷&CB06473;皆悉叉手&CB07554;頭聽佛世尊說是琉璃光如來本願功德莫不一時捨鬼神形得受人身長得度脫&CB07099;眾<app><lem wit="【CBETA】" resp="CBETA.maha">惱</lem><rdg wit="【房山】">&unrec;</rdg></app>患若人疾病厄難之日當以五色縷結其名字得如願已然後&CB17107;結令人得福灌頂章句法應如是。</p><p id="pF03p0002b2394" place="inline">佛說是經時比
+<lb ed="F" n="0002b24"/>丘僧八千人諸菩薩三万六千人<app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【房山】">俱</rdg></app>諸天龍神八部大王&CB07099;不歡喜則發&CB07099;上正真道意阿難從座而起前白佛言演說此法當何名之佛言此經凡有三名一名藥師琉璃光本願功德二名灌頂章句十二神王結願神&CB00057;三名&CB31165;除過罪生死得度佛說經竟大
+<lb ed="F" n="0002b25"/>眾人民作&CB17716;奉行。</p><juan fun="close" n="1" place="inline"><jhead>佛說藥師經一卷</jhead></juan></div1><div1 type="w"><p id="pF03p0002b2515" place="inline" rend="margin-left:5em">開元十年四月八日幽州良鄉縣清信女仇二娘敬造藥師經一卷<note place="inline">安不&unrec;鬼祖&unrec;長&unrec;父上&unrec;&unrec;&unrec;&unrec;&unrec;母&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;元太&CB00106;大娘妹十娘九娘李&unrec;&CB13251;男&unrec;即了范陽縣進士&unrec;子&unrec;&unrec;</note></p></div1>
+</body></text></TEI.2>

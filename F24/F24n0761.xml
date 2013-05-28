@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "F24n0761.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Fangshan shijing, Electronic version, No. 761 觀自在菩薩廣大圓滿無礙大悲根本陀羅尼</title>
+			<author>唐 南天竺國三藏金剛智譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $ (Big5)<date>$Date: 2011/04/22 03:18:07 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2011/04/22 03:18:07 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Fangshan shijing Vol. 24, No. 761 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p lang="chi" type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2010/10/19 14:10:45</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: F24n0761.xml,v $
+Revision 1.2  2011/04/22 03:18:07  amtbgrace
+modified: [經文修訂] [旡>[一/尢]]
+
+Revision 1.1  2010/10/19 07:32:58  eva
+bm 轉 xml 標記作業
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<lb ed="F" n="0467a19"/><milestone unit="juan" n="1"/><mulu type="卷" n="1"/><juan fun="open" n="1"><jhead>觀自在菩&CB16765;廣大&CB31152;滿無礙大悲根本&CB00442;羅
+<lb ed="F" n="0467a20"/>尼<note place="inline">出大悲經中卷</note></jhead></juan>
+<lb ed="F" n="0467a21"/><byline type="translator">唐南天竺國三藏金剛智譯</byline>
+<lb ed="F" n="0467a22"/><div1 type="dharani"><p id="pF24p0467a2201" type="dharani">曩募&CB16765;摩若野曩謨囉怛曩<note place="inline">二合</note>怛囉<note place="inline">二合</note>夜<note place="inline">引</note>
+<lb ed="F" n="0467a23"/>野曩謨弭跢<note place="inline">去</note>婆<note place="inline">去</note>野怛他<note place="inline">去</note>&CB00754;跢<note place="inline">去</note><note place="inline">引</note>夜<note place="inline">引</note>
+<lb ed="F" n="0467a24"/>囉曷<note place="inline">二合</note>帝三<note place="inline">去</note>&CB01505;三<note place="inline">引</note>沒&CB00501;<note place="inline">引</note>野曩莫阿<note place="inline">去</note><note place="inline">引</note>
+<lb ed="F" n="0467a25"/>哩野<note place="inline">二合</note><note place="inline">引</note>&CB00085;路枳<note place="inline">雞以反</note>帝濕&CB00085;<note place="inline">二合</note>囉<note place="inline">引</note>野&CB00155;
+<lb ed="F" n="0467a26"/><note place="inline">引</note>地&CB16765;怛&CB00085;<note place="inline">二合</note><note place="inline">引</note>野摩賀<note place="inline">引</note>&CB16765;怛&CB00085;<note place="inline">二合</note><note place="inline">引</note>野
+<pb ed="F" id="F24.0761.0467b" n="0467b"/>
+<lb ed="F" n="0467b01"/>摩賀迦<note place="inline">引</note>嚕<note place="inline">引</note>抳迦<note place="inline">引</note>野曩謨摩賀娑他<note place="inline">二合</note>
+<lb ed="F" n="0467b02"/><note place="inline">去</note><note place="inline">引</note>麼&CB22066;囉<note place="inline">二合</note><note place="inline">引</note>跛跢<note place="inline">二合</note><note place="inline">引</note>野&CB00155;<note place="inline">引</note>地&CB16765;怛&CB00085;
+<lb ed="F" n="0467b03"/><note place="inline">二合</note><note place="inline">引</note>野摩賀<note place="inline">引</note>&CB16765;怛&CB00085;<note place="inline">二合</note><note place="inline">引</note>野摩賀迦<note place="inline">引</note>嚕
+<lb ed="F" n="0467b04"/>抳迦<note place="inline">引</note>野曩謨尾補羅尾麼<note place="inline">上</note><note place="inline">引</note>曩蘇<note place="inline">上</note>&CB22066;囉
+<lb ed="F" n="0467b05"/><note place="inline">二合</note>底<note place="inline">丁以反</note>瑟&CB00302;<note place="inline">二合</note>跢<note place="inline">引</note><note place="inline">去</note>僧<note place="inline">去</note>契<note place="inline">引</note>野素<note place="inline">引</note>哩
+<lb ed="F" n="0467b06"/>野<note place="inline">二合</note>&CB22057;多<note place="inline">上</note>娑<note place="inline">上</note>賀娑囉<note place="inline">二合</note><note place="inline">引</note>底<note place="inline">上同</note>&CB03111;<note place="inline">引</note>迦
+<lb ed="F" n="0467b07"/>&CB22066;囉<note place="inline">二合</note>婆<note place="inline">去</note><note place="inline">引</note>&CB00085;婆<note place="inline">去</note><note place="inline">引</note>悉多<note place="inline">上</note>沒<note place="inline">去</note><note place="inline">引</note>&CB00069;多<note place="inline">上</note>曳
+<lb ed="F" n="0467b08"/>摩賀<note place="inline">引</note>麼抳穆矩吒軍<note place="inline">去</note>拏<note place="inline">上</note>羅&CB00501;<note place="inline">引</note>哩抳
+<lb ed="F" n="0467b09"/>婆<note place="inline">去</note>&CB00344;&CB00085;帝&CB22066;納麼<note place="inline">二合</note>&CB22063;<note place="inline">引</note>拏<note place="inline">上</note>曳&CB16765;&CB00085;路
+<lb ed="F" n="0467b10"/><note place="inline">引</note>迦<note place="inline">引</note>&CB22063;<note place="inline">引</note>野&CB22064;<note place="inline">引</note>麼曩野尾尾&CB00501;皤野耨
+<lb ed="F" n="0467b11"/>佉<note place="inline">上</note>三<note place="inline">去</note>麼<note place="inline">引</note>鞞&CB22064;<note place="inline">引</note>尾瑟吒<note place="inline">二合</note>&CB16765;&CB00085;&CB16765;怛
+<lb ed="F" n="0467b12"/>&CB00085;<note place="inline">二合</note><note place="inline">引</note>跛哩謨<note place="inline">引</note>左曩<note place="inline">引</note>野怛&CB08859;也<note place="inline">二合</note>他<note place="inline">去</note><note place="inline">引</note>
+<lb ed="F" n="0467b13"/>唵<note place="inline">引</note>部囉步<note place="inline">二合</note>&CB00085;<note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">&CB07099;</lem><rdg wit="【房山】">旡</rdg></app>博反</note>摩賀<note place="inline">引</note>路<note place="inline">引</note>迦迦囉
+<lb ed="F" n="0467b14"/>拏<note place="inline">上</note>多摩娑底<note place="inline">二合</note>弭囉&CB22066;吒囉尾曩&CB22057;曩<note place="inline">引</note>
+<lb ed="F" n="0467b15"/>迦囉<note place="inline">引</note>野囉<note place="inline">引</note>&CB00344;娜吠<note place="inline">二合</note><note place="inline">引</note>灑謨<note place="inline">引</note>賀惹&CB00256;
+<lb ed="F" n="0467b16"/>&CB22057;麼迦&CB22064;<note place="inline">引</note>娑<note place="inline">上</note>迦囉乞灑<note place="inline">二合</note>迦&CB16765;&CB00085;<note place="inline">引</note>&CB22063;
+<lb ed="F" n="0467b17"/><note place="inline">引</note>野耨佉訥&CB00344;底<note place="inline">准上</note>&CB22066;囉<note place="inline">二合</note>&CB22057;麼曩迦囉<note place="inline">引</note>
+<lb ed="F" n="0467b18"/>野&CB16765;&CB00085;怛他<note place="inline">去</note><note place="inline">引</note>&CB00752;跢<note place="inline">上</note><note place="inline">引</note>娑麼滿&CB00501;<note place="inline">引</note>曩迦囉
+<lb ed="F" n="0467b19"/>&CB16765;&CB00085;&CB16765;怛&CB00085;<note place="inline">二合</note><note place="inline">引</note>&CB22064;<note place="inline">引</note>跛哩布<note place="inline">引</note>囉迦&CB16765;&CB00085;
+<lb ed="F" n="0467b20"/>&CB16765;怛&CB00085;<note place="inline">二合</note><note place="inline">引</note>三摩始&CB00085;娑<note place="inline">上</note>迦囉係係摩賀
+<lb ed="F" n="0467b21"/>&CB04041;<note place="inline">引</note>地&CB16765;怛&CB00085;<note place="inline">二合</note>&CB00085;囉娜&CB22066;納麼<note place="inline">二合</note>路<note place="inline">引</note>迦
+<lb ed="F" n="0467b22"/>三<note place="inline">去</note>步<note place="inline">引</note>多<note place="inline">上</note>摩賀<note place="inline">引</note>迦<note place="inline">引</note>嚕抳迦惹吒<note place="inline">去</note><note place="inline">引</note>
+<lb ed="F" n="0467b23"/>麼矩吒<note place="inline">引</note>楞<note place="inline">去</note>訖哩<note place="inline">二合</note>多始嚕麼抳迦曩迦
+<lb ed="F" n="0467b24"/>囉惹多&CB00085;囉<note place="inline">二合</note>吠<note place="inline">微洗反</note><note place="inline">引</note>女<note place="inline">旋數反</note><note place="inline">引</note>哩野<note place="inline">二合</note><note place="inline">引</note>楞
+<lb ed="F" n="0467b25"/><note place="inline">去</note>訖哩<note place="inline">二合</note>多&CB22057;哩<note place="inline">引</note>囉<note place="inline">引</note>弭跢<note place="inline">去</note><note place="inline">引</note>婆<note place="inline">去</note>尒
+<lb ed="F" n="0467b26"/>曩迦麼&CB00256;<note place="inline">引</note>楞<note place="inline">去</note>訖哩<note place="inline">二合</note>多&CB22066;囉&CB00085;囉曩囉
+<pb ed="F" id="F24.0761.0468a" n="0468a"/>
+<lb ed="F" n="0468a01"/>曩<note place="inline">引</note>哩<note place="inline">引</note>摩賀<note place="inline">引</note>惹曩&CB22057;多娑賀娑囉<note place="inline">二合</note><note place="inline">引</note>
+<lb ed="F" n="0468a02"/>鼻&CB00256;<note place="inline">上</note><note place="inline">引</note>史多<note place="inline">上</note>迦<note place="inline">引</note>野摩賀<note place="inline">引</note>&CB00155;<note place="inline">引</note>地<note place="inline">引</note>&CB16765;
+<lb ed="F" n="0468a03"/>怛&CB00085;<note place="inline">二合</note>尾&CB00501;麼尾&CB00501;麼尾曩<note place="inline">引</note>&CB22057;野尾曩<note place="inline">引</note>
+<lb ed="F" n="0468a04"/>&CB22057;野摩賀<note place="inline">引</note>拽<note place="inline">延結反</note>怛囉<note place="inline">二合</note>&CB22065;&CB17716;<note place="inline">二合</note>&CB22057;迦
+<lb ed="F" n="0468a05"/>&CB00085;<note place="inline">引</note>吒<note place="inline">去</note><note place="inline">引</note>&CB00085;&CB00085;<note place="inline">無&CB22066;反</note>&CB00501;僧<note place="inline">去</note>娑<note place="inline">去</note><note place="inline">引</note>囉佐<note place="inline">引</note>囉
+<lb ed="F" n="0468a06"/>迦&CB22066;囉<note place="inline">二合</note>麼他<note place="inline">上</note>曩補嚕灑&CB22066;納麼<note place="inline">二合</note><note place="inline">引</note>補
+<lb ed="F" n="0468a07"/>嚕灑曩<note place="inline">引</note>&CB00344;補嚕灑娑<note place="inline">去</note><note place="inline">引</note>&CB00344;囉尾囉惹尾
+<lb ed="F" n="0468a08"/>囉惹蘇<note place="inline">去</note>難<note place="inline">上</note>多蘇<note place="inline">去</note>難<note place="inline">上</note>多跛哩勿哩<note place="inline">二合</note>
+<lb ed="F" n="0468a09"/>多娜麼娜麼娑麼娑麼度嚕度嚕&CB22066;囉<note place="inline">二合</note>&CB22064;
+<lb ed="F" n="0468a10"/><note place="inline">引</note>娑<note place="inline">上</note>野&CB22066;囉<note place="inline">二合</note>&CB22064;<note place="inline">引</note>娑<note place="inline">上</note>野祇<note place="inline">祇異反</note>哩祇
+<lb ed="F" n="0468a11"/>哩唧哩唧哩祖嚕祖嚕母嚕母嚕母庾母庾
+<lb ed="F" n="0468a12"/>悶左悶左度曩度曩尾度曩尾度曩度嚕
+<lb ed="F" n="0468a13"/>度嚕&CB00344;<note place="inline">引</note>野&CB00344;野&CB00344;&CB00501;野&CB00344;&CB00501;野賀娑賀娑
+<lb ed="F" n="0468a14"/>&CB22066;囉<note place="inline">二合</note>賀娑&CB22066;囉<note place="inline">二合</note>賀娑尾尾&CB00501;&CB22065;&CB17716;<note place="inline">二合</note>&CB22057;
+<lb ed="F" n="0468a15"/>&CB00085;<note place="inline">引</note>娑曩麼麼&CB16765;&CB00085;&CB16765;怛&CB00085;<note place="inline">二合</note><note place="inline">引</note>難<note place="inline">上</note><note place="inline">引</note>左賀
+<lb ed="F" n="0468a16"/>囉賀囉僧<note place="inline">去</note>賀囉僧<note place="inline">去</note>賀囉度嚕徵<note place="inline">知里反</note>度
+<lb ed="F" n="0468a17"/>嚕徵摩賀<note place="inline">引</note>&CB22062;拏<note place="inline">上</note>羅迦囉拏<note place="inline">鼻</note>&CB22057;多&CB22066;囉
+<lb ed="F" n="0468a18"/><note place="inline">二合</note>細<note place="inline">引</note>迦<note place="inline">引</note>&CB00085;婆<note place="inline">去</note><note place="inline">引</note>娑尾灑曩&CB22057;麼迦摩賀
+<lb ed="F" n="0468a19"/><note place="inline">引</note>&CB00155;<note place="inline">引</note>地&CB16765;怛&CB00085;<note place="inline">二合</note>&CB00085;囉娜娑&CB00085;<note place="inline">二合</note><note place="inline">引</note>賀<note place="inline">引</note></p>
+<lb ed="F" n="0468a20"/><juan fun="close" n="1"><jhead>觀自在菩&CB16765;廣大&CB31152;滿無礙大悲根本&CB00442;羅
+<lb ed="F" n="0468a21"/>尼一卷　　　　羅</jhead></juan>
+<lb ed="F" n="0468a22"/>
+<lb ed="F" n="0468a23"/><div2 type="w"><p id="pF24p0468a2301">施主奉聖州保寧寺沙門玄英　俗弟子
+<lb ed="F" n="0468a24"/>史君慶等奉為　先亡生身父母法界眾
+<lb ed="F" n="0468a25"/>生續辦此經碑　維天眷元年&CB30776;次戊午
+<lb ed="F" n="0468a26"/>四月丙辰朔八日癸亥辰時成造記</p></div2></div1>
+</body></text></TEI.2>

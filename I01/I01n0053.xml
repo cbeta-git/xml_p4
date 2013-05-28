@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "I01n0053.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selections of Buddhist Stone Rubbings from the Northern Dynasties, Electronic version, No. 0053 杜英&CB01259;等十四人造像記</title>
+                <author>顏娟英主編</author>
+                <respStmt>
+                    <resp>Electronic Version by</resp>
+                    <name>CBETA and DDBC</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>$Revision: 1.5 $<date>$Date: 2011/04/19 06:12:14 $</date></edition>
+            </editionStmt>
+            <extent>1卷</extent>
+            <publicationStmt>
+                <distributor>
+                    <name>中華電子佛典協會 (CBETA)</name>
+                    <address>
+                        <addrLine>service@cbeta.org</addrLine>
+                    </address>
+                </distributor>
+                <availability>
+<p>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/). </p>
+                </availability>
+                <date>$Date: 2011/04/19 06:12:14 $</date>
+            </publicationStmt>
+            <sourceDesc>
+      	      <bibl>Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 053 &desc;</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p lang="eng" type="ly">Text as provided by Institute of History and Philology, Academia Sinica</p>
+                <p lang="chi" type="ly">中央研究院歷史語言研究所</p>
+            </projectDesc>
+            </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+<div1>
+<pb n="0138a" id="I01.0053.0138a" ed="I"/>
+<lb ed="C I" n="0138a00"/><milestone n="1" unit="juan"/><head type="no">No. 53</head>
+<lb ed="C I" n="0138a00"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><title>杜英&CB01259;等十四人造像記</title></jhead></juan>
+<lb ed="C I" n="0138a00"/><mulu level="1" label="之一　碑陰" type="其他"/><head>之一　碑陰</head>
+<div2>
+<lb ed="C I" n="0138a01"/><p id="pI01p0138a0101">　　　　　　高王經一卷
+<lb ed="C I" n="0138a02"/>佛說觀世音經一卷。讀訟千遍。&CB31154;彼苦難。拔除生死難。觀世
+<lb ed="C I" n="0138a03"/>音菩薩。南&CB07099;佛佛□□緣<unclear cert="low" reason="damage">張</unclear>相因。萇樂我緣。佛說男&CB07099;摩
+<lb ed="C I" n="0138a04"/>訶波若是大神□□□□摩訶□□是大神&CB00057;。男&CB07099;摩訶波若
+<lb ed="C I" n="0138a05"/>是大明&CB00057;。南&CB07099;摩訶般若是&CB07099;等〃&CB00057;。靜光悲媚佛。法□佛
+<lb ed="C I" n="0138a06"/>師子吼神足遊王佛。□<unclear cert="low" reason="damage">耳</unclear>彌<unclear cert="low" reason="damage">益</unclear>王佛。法護佛。神金□。師子遊戲
+<lb ed="C I" n="0138a07"/>佛。藥師留璃光佛。普□□德山王佛。□治攻德寶王佛。
+<lb ed="C I" n="0138a08"/>六佛名&CB00561;。東方寶光□□妙尊<unclear cert="low" reason="damage">音</unclear>王□。□方樹根花王佛。西
+<lb ed="C I" n="0138a09"/>方皂王神通豔花王佛。北方月壁清　佛。上方無數□□寶
+<lb ed="C I" n="0138a10"/>勝佛。下方善治月音王佛。釋迦牟尼佛。彌勒佛。中央一切眾
+<lb ed="C I" n="0138a11"/>生。俱在法戒中者。行動於地上及以虛空里。慧□於一切。寧
+<lb ed="C I" n="0138a12"/>可安休思。晝夜脩其□□有□此□□□□□害。</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0137a00"/><mulu level="1" label="之二　碑陽" type="其他"/><head>之二　碑陽</head>
+<div2>
+<lb ed="C I" n="0137a01"/><p id="pI01p0137a0101">大魏武定八年歲次庚午二月辛巳朔八日造訖。
+<lb ed="C I" n="0137a02"/>夫大覺秉不惻之智。非感莫應其形。真如蘊無窮
+<lb ed="C I" n="0137a03"/>之說。非聖<note n="0137001" resp="ihp" place="foot text" type="orig">&CB30821;＝孰【史】</note><app n="0137001"><lem resp="ihp" wit="【史】">孰</lem><rdg wit="【原】">&CB30821;</rdg></app>宣其旨。故投藥隨機。崎嶇濟物。哀彼
+<lb ed="C I" n="0137a04"/>沈淪繫珠之言。是以都邑主杜文雍。都維那杜英
+<lb ed="C I" n="0137a05"/>&CB01259;。都忠正杜容徽十四人等。上為　皇帝陛下。諸
+<lb ed="C I" n="0137a06"/>邑七世父母。一切有形。敬造石像一區。堪室華離。
+<lb ed="C I" n="0137a07"/>靈容澄湛。表彰往聖。合生等福。　乃頌曰
+<lb ed="C I" n="0137a08"/>真仙捨逝。譬彼虛空。蒼生靡託。雕鐫遺容。捐金弗
+<lb ed="C I" n="0137a09"/>愛。致敬顒顒。　躬懷曠濟。解喻金剛。中孝仁厚。攝
+<lb ed="C I" n="0137a10"/>弱摧彊。示人寶□。万代留嚮。　邕〃此邑。濟〃仁
+<lb ed="C I" n="0137a11"/>林。英裂比肩。禮讓為心。逢茲善政。競抽家金。懃&CB30506;
+<lb ed="C I" n="0137a12"/>建立。悀躍難任。論其罕返。類芥投針。</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0139a00"/><mulu level="1" label="之三　碑側" type="其他"/><head>之三　碑側</head>
+<div2>
+<lb ed="C I" n="0139a01"/><p id="pI01p0139a0101"><unclear cert="medium" reason="damage">邑</unclear>子杜莫道　邑子杜□興
+<lb ed="C I" n="0139a02"/>邑子杜慶遵都唯那杜英&CB01259;
+<lb ed="C I" n="0139a03"/>邑子杜敬蘭邑忠正杜零徽
+<lb ed="C I" n="0139a04"/>□像杜潤敬　邑子杜清雀
+<lb ed="C I" n="0139a05"/>忠正杜遺國都邑主杜文雍　　　　　子
+<lb ed="C I" n="0139a06"/>邑子杜思賢　維那杜慶賓
+<lb ed="C I" n="0139a07"/>邑子杜興國　邑子杜始和邑子杜子遊</p>
+</div2>
+</div1>
+<div1>
+<div2>
+<lb ed="C I" n="0139b01"/><p id="pI01p0139b0101">像主杜&CB30820;堤杜懷珍杜貴宗杜<unclear cert="medium" reason="damage"><note n="0139001" resp="ihp" place="foot text" type="orig">&CB14695;＝叔【史】</note><app n="0139001"><lem resp="ihp" wit="【史】">叔</lem><rdg wit="【原】">&CB14695;</rdg></app></unclear>慶杜<unclear cert="medium" reason="damage">洪</unclear>
+<lb ed="C I" n="0139b02"/>　　　　　　　　　　　　　　杜喭保
+<lb ed="C I" n="0139b03"/>　　　　　　　　　　　　　　<unclear cert="medium" reason="damage">杜</unclear>伯周
+<lb ed="C I" n="0139b04"/>　　　　　　　　　　　　　　杜令和
+<lb ed="C I" n="0139b05"/>　　　　　　　　　　　　　　邵令賢
+<lb ed="C I" n="0139b06"/>　　　　　　　　　　　　　　杜崇禮
+<lb ed="C I" n="0139b07"/>　　　　　　　　　　　　　　十人等
+<lb ed="C I" n="0139b08"/>上為七世所生父母合門大小因緣眷屬一心侍佛時</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

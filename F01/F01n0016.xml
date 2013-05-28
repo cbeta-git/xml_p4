@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "F01n0016.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Fangshan shijing, Electronic version, No. 016 大王觀世音經</title>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.3 $ (Big5)<date>$Date: 2010/11/12 03:56:12 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2010/11/12 03:56:12 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Fangshan shijing Vol. 01, No. 016 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p lang="chi" type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2010/07/27 13:41:29</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: F01n0016.xml,v $
+Revision 1.3  2010/11/12 03:56:12  amtbgrace
+modified: 按 BM note說明檔 修訂模糊字
+
+Revision 1.2  2010/07/28 07:38:17  amtbgrace
+modified: 修訂檔頭資訊。
+
+Revision 1.1  2010/07/27 06:25:40  amtbgrace
+modified: 執行 basicx.bat  將 bm 轉 xml
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<lb ed="F" n="0118a16"/><milestone unit="juan" n="1"/><mulu type="卷" n="1"/><juan fun="open" n="1"><jhead>大王觀世音經一卷</jhead></juan>
+<lb ed="F" n="0118a17"/><div1><p id="pF01p0118a1701"><app><lem wit="【CBETA】" resp="CBETA.maha">佛</lem><rdg wit="【房山】">&unrec;</rdg></app>說觀世音<app><lem wit="【CBETA】" resp="CBETA.maha">經一卷</lem><rdg wit="【房山】">&unrec;&unrec;&unrec;</rdg></app><app><lem wit="【CBETA】" resp="CBETA.maha">讀誦</lem><rdg wit="【房山】">&unrec;&unrec;</rdg></app>千遍得度苦難拔除生死罪觀世音菩薩南&CB07099;佛佛國有緣佛法相因
+<lb ed="F" n="0118a18"/><app><lem wit="【CBETA】" resp="CBETA.maha">常樂</lem><rdg wit="【房山】">&unrec;&unrec;</rdg></app>我<app><lem wit="【CBETA】" resp="CBETA.maha">淨</lem><rdg wit="【房山】">&unrec;</rdg></app>　&unrec;&unrec;<app><lem wit="【CBETA】" resp="CBETA.maha">南&CB07099;摩訶波若</lem><rdg wit="【房山】">&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;</rdg></app>是大神&CB00057;　南&CB07099;摩訶波若是大明&CB00057;　南&CB07099;摩訶波若是大
+<lb ed="F" n="0118a19"/>&unrec;等等&CB00057;　<app><lem wit="【CBETA】" resp="CBETA.maha">淨光祕密佛</lem><rdg wit="【房山】">&unrec;&unrec;&unrec;&unrec;&unrec;</rdg></app>　<app><lem wit="【CBETA】" resp="CBETA.maha">法藏</lem><rdg wit="【房山】">&unrec;&unrec;</rdg></app>佛　師子吼神足遊王佛　告須&CB07460;登王佛　法護佛　金剛
+<lb ed="F" n="0118a20"/><app><lem wit="【CBETA】" resp="CBETA.maha">藏師</lem><rdg wit="【房山】">&unrec;&unrec;</rdg></app>子游戲佛　藥師&CB00222;璃<app><lem wit="【CBETA】" resp="CBETA.maha">光</lem><rdg wit="【房山】">&unrec;</rdg></app>佛　普光功德山王佛　善住功德寶王佛　六方六佛名&CB00561;　東
+<lb ed="F" n="0118a21"/>方寶光月<app><lem wit="【CBETA】" resp="CBETA.maha">殿</lem><rdg wit="【房山】">&unrec;</rdg></app>妙尊音王佛　南方樹根華王佛　西方<app><lem wit="【CBETA】" resp="CBETA.maha">皂</lem><rdg wit="【房山】">&unrec;</rdg></app>王神通<app><lem wit="【CBETA】" resp="CBETA.maha">焰</lem><rdg wit="【房山】">&CB00672;</rdg></app>華王佛　北方月殿清淨佛
+<lb ed="F" n="0118a22"/>　上方&CB07099;數精進寶首佛　下方善寂月音王佛　釋迦牟&CB00112;佛　&CB07460;勒佛　中央一切眾生在此
+<lb ed="F" n="0118a23"/><app><lem wit="【CBETA】" resp="CBETA.maha">世</lem><rdg wit="【房山】">&unrec;</rdg></app>界中者行住於地上及<app><lem wit="【CBETA】" resp="CBETA.maha">在虛空中慈憂</lem><rdg wit="【房山】">&unrec;&unrec;&unrec;&unrec;&unrec;&unrec;</rdg></app>於一切令各安休息晝夜脩治心常應誦此經消伏於</p></div1>
+</body></text></TEI.2>

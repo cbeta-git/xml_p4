@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "I01n0051.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selections of Buddhist Stone Rubbings from the Northern Dynasties, Electronic version, No. 0051 邑子七十人等造大道如來記</title>
+                <author>顏娟英主編</author>
+                <respStmt>
+                    <resp>Electronic Version by</resp>
+                    <name>CBETA and DDBC</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>$Revision: 1.5 $<date>$Date: 2011/04/19 06:12:14 $</date></edition>
+            </editionStmt>
+            <extent>1卷</extent>
+            <publicationStmt>
+                <distributor>
+                    <name>中華電子佛典協會 (CBETA)</name>
+                    <address>
+                        <addrLine>service@cbeta.org</addrLine>
+                    </address>
+                </distributor>
+                <availability>
+<p>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/). </p>
+                </availability>
+                <date>$Date: 2011/04/19 06:12:14 $</date>
+            </publicationStmt>
+            <sourceDesc>
+      	      <bibl>Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 051 &desc;</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p lang="eng" type="ly">Text as provided by Institute of History and Philology, Academia Sinica</p>
+                <p lang="chi" type="ly">中央研究院歷史語言研究所</p>
+            </projectDesc>
+            </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+<div1>
+<pb n="0132a" id="I01.0051.0132a" ed="I"/>
+<lb ed="C I" n="0132a00"/><milestone n="1" unit="juan"/><head type="no">No. 51</head>
+<lb ed="C I" n="0132a00"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><title>邑子七十人等造大道如來記</title></jhead></juan>
+<lb ed="C I" n="0132a00"/><mulu level="1" label="之一　碑側" type="其他"/><head>之一　碑側</head>
+<div2>
+<lb ed="C I" n="0132a01"/><p id="pI01p0132a0101">　　　　　　　　　　　　　　□□波
+<lb ed="C I" n="0132a02"/>功就<unclear cert="low" reason="damage">昌</unclear>崇。故能垂慈下降。託民生李氏<unclear cert="low" reason="damage">&CB04152;</unclear>應
+<lb ed="C I" n="0132a03"/>洽乎<unclear cert="low" reason="damage">構</unclear>車□□揚□□首日月□暉。迴照八
+<lb ed="C I" n="0132a04"/>極。南化則演<unclear cert="low" reason="damage">禪</unclear>&CB30397;□心。西涉則胡生&CB30397;顙。北
+<lb ed="C I" n="0132a05"/>訓夷狄體□。東據則現生季俗。重利群生。教
+<lb ed="C I" n="0132a06"/>與<note n="0132001" resp="ihp" place="foot text" type="orig">&CB30507;＝仙【史】</note><app n="0132001"><lem resp="ihp" wit="【史】">仙</lem><rdg wit="【原】">&CB30507;</rdg></app>□。精誠則白日昇天。<note n="0132002" resp="ihp" place="foot text" type="orig">&CB30781;＝豈【史】</note><app n="0132002"><lem resp="ihp" wit="【史】">豈</lem><rdg wit="【原】">&CB30781;</rdg></app>非人天神尊。福
+<lb ed="C I" n="0132a07"/>超九劫者矣。是以合諸邑子七十人。等輪有
+<lb ed="C I" n="0132a08"/>緣。值遇至法。識信三寶。思建功效。於今大魏
+<lb ed="C I" n="0132a09"/>大統十有四年四月廿一日。　造大道如來。
+<lb ed="C I" n="0132a10"/>二聖貞容。功加累<note n="0132003" resp="ihp" place="foot text" type="orig">&CB09203;＝朔【史】</note><app n="0132003"><lem resp="ihp" wit="【史】">朔</lem><rdg wit="【原】">&CB09203;</rdg></app>。素<unclear cert="low" reason="damage">畫</unclear>成訖。上為　皇帝
+<lb ed="C I" n="0132a11"/>陛下。大丞相。群僚百師僧父父母。因緣眷屬。
+<lb ed="C I" n="0132a12"/>合門大小。門徒□□□□□微功。得免三惡
+<lb ed="C I" n="0132a13"/>而居人道。永被</p>
+</div2>
+<div2>
+<lb ed="C I" n="0132b01"/><p id="pI01p0132b0101">
+<lb ed="C I" n="0132b02"/>邑子韓智
+<lb ed="C I" n="0132b03"/>
+<lb ed="C I" n="0132b04"/>邑正郭祖願
+<lb ed="C I" n="0132b05"/>
+<lb ed="C I" n="0132b06"/>邑主呂伏歡
+<lb ed="C I" n="0132b07"/>
+<lb ed="C I" n="0132b08"/>像主<unclear cert="low" reason="damage">昭</unclear>道慶
+<lb ed="C I" n="0132b09"/>
+<lb ed="C I" n="0132b10"/>化主郭和悅
+<lb ed="C I" n="0132b11"/>
+<lb ed="C I" n="0132b12"/>邑子魏
+<lb ed="C I" n="0132b13"/></p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0132c00"/><mulu level="1" label="之二　碑陽" type="其他"/><head>之二　碑陽</head>
+<div2>
+<lb ed="C I" n="0132c01"/><p id="pI01p0132c0101">邑子劉興□　　　邑子韋黑丞　　　　　邑子李法智
+<lb ed="C I" n="0132c02"/>邑子趙道千　　　邑子杜保達　　　　　邑子董□□
+<lb ed="C I" n="0132c03"/>邑子□□□　　　邑子常神通　　　　　邑子妙□榮
+<lb ed="C I" n="0132c04"/>邑老王阿洛　　　邑子李世仁　　　　　邑子常□□
+<lb ed="C I" n="0132c05"/>□子邵石柱　　　邑子王法洛　　　　　但官□道□
+<lb ed="C I" n="0132c06"/>□主董法達　　　香火高<unclear cert="low" reason="damage">&CB00153;</unclear>因　　　　　邑子□□□
+<lb ed="C I" n="0132c07"/>化主□□智　　　邑子房進達　　　　　邑子姚欽伯
+<lb ed="C I" n="0132c08"/>邑老武袁孫　　　邑子王宜族　　　　　邑子高□□
+<lb ed="C I" n="0132c09"/>邑老□阿□　　　邑子李學文　　　　　邑子杜元族
+<lb ed="C I" n="0132c10"/>邑老劉尚□　　　邑子楊神歡　　　　　邑子王馬□</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0132d00"/><mulu level="1" label="之三　碑側" type="其他"/><head>之三　碑側</head>
+<div2>
+<lb ed="C I" n="0132d01"/><p id="pI01p0132d0101">像主辛延智　邑子樓伏興　邑子房<unclear cert="low" reason="damage">常</unclear>仁　　邑子張景賓
+<lb ed="C I" n="0132d02"/>邑主辛□□　唯那趙同保　邑子楊□顯　　邑子呂洛興
+<lb ed="C I" n="0132d03"/>化主張敬賓　香火郭潤和　邑子夫蒙洪標　邑子范延寧
+<lb ed="C I" n="0132d04"/>邑子王伏王　邑子房法萇　邑子房□子　　邑子夫蒙貴生</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0132e00"/><mulu level="1" label="之四　碑陰" type="其他"/><head>之四　碑陰</head>
+<div2>
+<lb ed="C I" n="0132e01"/><p id="pI01p0132e0101">□□□□□　　　邑子苻向榮　　　　　邑子張奴
+<lb ed="C I" n="0132e02"/>□□□□□　　　邑子趙□保　　　　　邑子王<unclear cert="low" reason="damage">著</unclear>□
+<lb ed="C I" n="0132e03"/>□□□□□　　　邑子□□□　　　　　邑子趙遵□
+<lb ed="C I" n="0132e04"/>□□□□□　　　邑子<unclear cert="low" reason="damage">范</unclear>□□　　　　　邑子楊玉□
+<lb ed="C I" n="0132e05"/>□□□□□　　　典□王寄顯　　　　　邑子董玉生
+<lb ed="C I" n="0132e06"/>邑主張道□　　　香火□□□　　　　　邑子閻□問
+<lb ed="C I" n="0132e07"/>唯那王□□　　　邑老王定周　　　　　邑子李輔惠
+<lb ed="C I" n="0132e08"/>像主王□□　　　邑子潘□□　　　　　邑子趙附業
+<lb ed="C I" n="0132e09"/>邑老呂伏生　　　邑子趙富川　　　　　邑子王枆榆
+<lb ed="C I" n="0132e10"/>邑子夫□□　　　邑子焦□洛　　　　　邑子范增<unclear cert="low" reason="damage">春</unclear></p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

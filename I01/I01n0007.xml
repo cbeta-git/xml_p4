@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "I01n0007.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selections of Buddhist Stone Rubbings from the Northern Dynasties, Electronic version, No. 0007 比丘法雅等千人造九級浮圖碑</title>
+                <author>顏娟英主編</author>
+                <respStmt>
+                    <resp>Electronic Version by</resp>
+                    <name>CBETA and DDBC</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>$Revision: 1.5 $<date>$Date: 2011/04/19 06:12:13 $</date></edition>
+            </editionStmt>
+            <extent>1卷</extent>
+            <publicationStmt>
+                <distributor>
+                    <name>中華電子佛典協會 (CBETA)</name>
+                    <address>
+                        <addrLine>service@cbeta.org</addrLine>
+                    </address>
+                </distributor>
+                <availability>
+<p>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/). </p>
+                </availability>
+                <date>$Date: 2011/04/19 06:12:13 $</date>
+            </publicationStmt>
+            <sourceDesc>
+      	      <bibl>Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 007 &desc;</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p lang="eng" type="ly">Text as provided by Institute of History and Philology, Academia Sinica</p>
+                <p lang="chi" type="ly">中央研究院歷史語言研究所</p>
+            </projectDesc>
+            </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+<div1>
+<pb n="0017a" id="I01.0007.0017a" ed="I"/>
+<lb ed="C I" n="0017a00"/><milestone n="1" unit="juan"/><head type="no">No. 7</head>
+<lb ed="C I" n="0017a00"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><title>比丘法雅等千人造九級浮圖碑</title></jhead></juan>
+<lb ed="C I" n="0017a00"/><mulu level="1" label="之一　碑陽" type="其他"/><head>之一　碑陽</head>
+<div2>
+<lb ed="C I" n="0017a01"/><p id="pI01p0017a0101">上為
+<lb ed="C I" n="0017a02"/>孝文
+<lb ed="C I" n="0017a03"/>皇帝
+<lb ed="C I" n="0017a04"/>造九
+<lb ed="C I" n="0017a05"/>級一
+<lb ed="C I" n="0017a06"/>&CB00100;</p>
+</div2>
+<div2>
+<lb ed="C I" n="0017b01"/><p id="pI01p0017b0101"><unclear cert="medium" reason="damage">夫</unclear>大聖巍嶷於<note n="0017001" resp="ihp" place="foot text" type="orig">&CB05856;＝靚【史】</note><app n="0017001"><lem resp="ihp" wit="【史】">靚</lem><rdg wit="【原】">&CB05856;</rdg></app>上。非妙致無以契其穆。真容澄邃於大千。非純感無以窮其會。故能柄
+<lb ed="C I" n="0017b02"/><unclear cert="medium" reason="damage">法</unclear>光以曜玄極。灑巨泥以賑兆冥。變地獄為香&CB00528;之境。迴三八之途為天堂之墀。催眾惚
+<lb ed="C I" n="0017b03"/>之煩。猶乘冰之□。□<unclear cert="low" reason="damage">鑊</unclear>□比丘法雅。信心於道場。<note n="0017002" resp="ihp" place="foot text" type="orig">&CB00362;＝體【史】</note><app n="0017002"><lem resp="ihp" wit="【史】">體</lem><rdg wit="【原】">&CB00362;</rdg></app>契誠之精致。與宗那邑一千人。悼促
+<lb ed="C I" n="0017b04"/>□於閻孚。猶觸石之軺□。慨傳業之無因。寄微塵於來世。或捨五美之嘉饌。或釋纖彩之
+<lb ed="C I" n="0017b05"/><unclear cert="medium" reason="damage">奧</unclear>微。而建靈<note n="0017003" resp="ihp" place="foot text" type="orig">庴＝廟【史】</note><app n="0017003"><lem resp="ihp" wit="【史】">廟</lem><rdg wit="【原】">庴</rdg></app>。營之以九級。九級之功。由盛德而顯濟。且夫泫池之流。必歸於洰海。細目
+<lb ed="C I" n="0017b06"/>之要。必總于大綱。<unclear cert="low" reason="damage">而</unclear><app source="0017002" type="＊"><lem resp="ihp" wit="【史】">體</lem><rdg wit="【原】">&CB00362;</rdg></app>之祁上。臣子之獻誠道也。故發願于　孝文。孝文皇帝。大魏之中
+<lb ed="C I" n="0017b07"/>興。曠代之睿主。比德則羲<unclear cert="low" reason="damage">農</unclear>齊軌。<note n="0017004" resp="ihp" place="foot text" type="orig">&CB30382;＝遠【史】</note><app n="0017004"><lem resp="ihp" wit="【史】">遠</lem><rdg wit="【原】">&CB30382;</rdg></app>治則伊媯同範。以先皇所都壤。偏於曜和。不洽於土
+<lb ed="C I" n="0017b08"/>中。乃兆畿域于嵩浬。唯影同於□堮。於其時也。始營基止。至後帝正始之元。逕載有七歲。
+<lb ed="C I" n="0017b09"/>次于大梁。望舒會於析水。建功乃就。且因地之形勝。有先哲之舊墉。目日楊城矣。帶黃河。
+<lb ed="C I" n="0017b10"/>背流清。左長淇。右太行。域康叔之舊封。條伯禹之所營。則其餘原絮之沃。豈可具焉。九級
+<lb ed="C I" n="0017b11"/>者。法九天之虛<app source="0017001" type="＊"><lem resp="ihp" wit="【史】">靚</lem><rdg wit="【原】">&CB05856;</rdg></app>。則才華于<app source="0017002" type="＊"><lem resp="ihp" wit="【史】">體</lem><rdg wit="【原】">&CB00362;</rdg></app>洽。功准於殊奇。匠極於奧妙。色邁于五麗。其中諸珍瓔珞。
+<lb ed="C I" n="0017b12"/>奇像玄摸。橋松踟蹴于坐幄。飛仙游戲於太虛。龍騰虎躍之類。豈可悉記矣。觀者未宣而
+<lb ed="C I" n="0017b13"/>影映。或累旬而忘疲。或□或晝。遐路<note n="0017005" resp="ihp" place="foot text" type="orig">&CB00502;＝驅【史】</note><app n="0017005"><lem resp="ihp" wit="【史】">驅</lem><rdg wit="【原】">&CB00502;</rdg></app>馳。況其邇矣。或感之而捐六慾。或樂之而取飢臠。
+<lb ed="C I" n="0017b14"/>等冠之英。捨貴而投法。望<unclear cert="low" reason="damage">冑</unclear>之&CB01259;。捐俗而仰誠。織竭累細之實。農盡秋收之盈。斯容觀之
+<lb ed="C I" n="0017b15"/>赫矣。故建石碑一枚。顯其功之大矣。又議盡於下情。庸辨於<app source="0017002" type="＊"><lem resp="ihp" wit="【史】">體</lem><rdg wit="【原】">&CB00362;</rdg></app>實。<note n="0017006" resp="ihp" place="foot text" type="orig">&CB30310;＝懿【史】</note><app n="0017006"><lem resp="ihp" wit="【史】">懿</lem><rdg wit="【原】">&CB30310;</rdg></app>矣楊宗。得其宜與。應
+<lb ed="C I" n="0017b16"/>&CB01259;而不謬。猶紹沮淶矣。元其先纘。神武而機感。惟冰巷而不夷。誕生文武。奄有下土。暨至
+<lb ed="C I" n="0017b17"/>叔虞。別封於唐。蘭根挺于□底。脩標屆于天崖。芳裁易暢。移馥于晉。詩之蕃衍。豈非寔歟。
+<lb ed="C I" n="0017b18"/>還于秦漢魏晉。奕世公弼。參思九五。至晉武帝分河內為汲郡。顯之於汲土。表之以望冠。
+<lb ed="C I" n="0017b19"/>&CB01259;又相尋。迄至于茲。且後生之徒。世著善□。聞惡如懃農之抽穢。進善若聲<app source="0017002" type="＊"><lem resp="ihp" wit="【史】">體</lem><rdg wit="【原】">&CB00362;</rdg></app>之嚮影。其
+<lb ed="C I" n="0017b20"/>敦仁尚義。崇行葦之風。寬容和緩。纘思遠之俗。皆當時之菀特。故記有之。無美而稱焉。是
+<lb ed="C I" n="0017b21"/>誣有而不傳忘也。又曰。苟有美焉。必勒之於鍾鼎。以照其令德。況斯之所為也大。所纘之
+<lb ed="C I" n="0017b22"/>也長。敢不刊石著勳。而記其庸焉。　　　其辭曰
+<lb ed="C I" n="0017b23"/>恤矣靖級。陵霄屆□。下資□摸。上□無莫。良匠運奇。般垂與作。內朗玄暈。聖容時託。靈隱
+<lb ed="C I" n="0017b24"/>□思。飛仙虛□。綵繡華瑩。若隧若洛。卓矣容觀。曠代希慶。<note place="inline">其一</note>　於穆　孝文。洪猷纖熙。道
+<lb ed="C I" n="0017b25"/>風悉發。鬱彼百圃。恩感滯域。遐載奔飛。詒<note n="0017007" resp="ihp" place="foot text" type="orig">&CB30383;＝厥【史】</note><app n="0017007"><lem resp="ihp" wit="【史】">厥</lem><rdg wit="【原】">&CB30383;</rdg></app>遜謀。永有依歸。魂兮登暇。昇彼紫微。<note place="inline">其二</note>
+<lb ed="C I" n="0017b26"/>&CB01259;矣楊宗。玄紹沙域。唐表別<note n="0017008" resp="ihp" place="foot text" type="orig">&CB00035;＝園【史】</note><app n="0017008"><lem resp="ihp" wit="【史】">園</lem><rdg wit="【原】">&CB00035;</rdg></app>。晉昺異基。奕世公弼。庶積允釐。內崇道穆。雅亮于時。&CB01259;又
+<lb ed="C I" n="0017b27"/>相尋。迄至于茲。<note place="inline">其三</note>　倚與碑矣。<unclear cert="low" reason="damage">顏</unclear>彼寶形。<app source="0017002" type="＊"><lem resp="ihp" wit="【史】">體</lem><rdg wit="【原】">&CB00362;</rdg></app>稟和質。良匠妙營。內含碧曜。外挺乾清。下願
+<lb ed="C I" n="0017b28"/>□<unclear cert="medium" reason="damage">固</unclear>。<unclear cert="medium" reason="damage">頂</unclear>□<unclear cert="medium" reason="damage">四</unclear>靈。□刊<unclear cert="medium" reason="damage">茲</unclear>像。昺纘&CB01259;名。豈伊虛韻。永彰契誠。　　太魏正始元年正月七日。
+<lb ed="C I" n="0017b29"/>
+<lb ed="C I" n="0017b30"/></p>
+</div2>
+<div2>
+<lb ed="C I" n="0017c01"/><p id="pI01p0017c0101">蓋三才創剖。稟元氣<unclear cert="medium" reason="damage">以</unclear>
+<lb ed="C I" n="0017c02"/>像之機。四生異類。託<unclear cert="medium" reason="damage">果</unclear>
+<lb ed="C I" n="0017c03"/>著刑名之&CB00561;。俱憑五<unclear cert="medium" reason="damage">陰</unclear>
+<lb ed="C I" n="0017c04"/>六惡。出入危城。輪迴<unclear cert="medium" reason="damage">若</unclear>
+<lb ed="C I" n="0017c05"/>可。帝王奉郊祀之尊。□
+<lb ed="C I" n="0017c06"/>六藉之訓。然要求於□
+<lb ed="C I" n="0017c07"/>門。<note n="0017009" resp="ihp" place="foot text" type="orig">&CB02508;＝罔【史】</note><app n="0017009"><lem resp="ihp" wit="【史】">罔</lem><rdg wit="【原】">&CB02508;</rdg></app>能剋於真實者□
+<lb ed="C I" n="0017c08"/>善誓法王。慈悲曠遠。□
+<lb ed="C I" n="0017c09"/>樹貝葉。通傳級引。□□
+<lb ed="C I" n="0017c10"/>彼岸。故聚沙為塔。□□
+<lb ed="C I" n="0017c11"/>之因。半偈之言。當<unclear cert="medium" reason="damage">為以</unclear>
+<lb ed="C I" n="0017c12"/>果。然有皇宗楊法貴
+<lb ed="C I" n="0017c13"/>乃孝。並悟苦空。當<unclear cert="medium" reason="damage">以</unclear>□
+<lb ed="C I" n="0017c14"/>營勝福。臨清水之<unclear cert="low" reason="damage">涉</unclear>□
+<lb ed="C I" n="0017c15"/>之汭。黃金質地。建□□
+<lb ed="C I" n="0017c16"/>以周武臨朝。綱維□□
+<lb ed="C I" n="0017c17"/>隨機。三寶陵替。堂□□
+<lb ed="C I" n="0017c18"/><app source="0017008" type="＊"><lem resp="ihp" wit="【史】">園</lem><rdg wit="【原】">&CB00035;</rdg></app>宮宅。盡生禾黍。□□
+<lb ed="C I" n="0017c19"/>碑一區。完全靡損。□□
+<lb ed="C I" n="0017c20"/>隋馭化澤被遠。荒□□
+<lb ed="C I" n="0017c21"/><app source="0017009" type="＊"><lem resp="ihp" wit="【史】">罔</lem><rdg wit="【原】">&CB02508;</rdg></app>不重譯。乃使嚴□□
+<lb ed="C I" n="0017c22"/>明正法。隱如彌顯□□
+<lb ed="C I" n="0017c23"/><unclear cert="low" reason="damage">追</unclear>祖禰之功。又照□□
+<lb ed="C I" n="0017c24"/>之福。乃襲於前。還□□
+<lb ed="C I" n="0017c25"/>移舊碑。置在水北□□
+<lb ed="C I" n="0017c26"/><unclear cert="medium" reason="damage">右</unclear><unclear cert="medium" reason="damage">帶</unclear>商郊及此□□□
+<lb ed="C I" n="0017c27"/><unclear cert="medium" reason="damage">地</unclear>。<unclear cert="medium" reason="damage">仰</unclear>願國祚□□□□
+<lb ed="C I" n="0017c28"/><unclear cert="medium" reason="damage">億</unclear>□銜恩有
+<lb ed="C I" n="0017c29"/><unclear cert="medium" reason="damage">大隋開皇五年四月十九日</unclear>
+<lb ed="C I" n="0017c30"/><unclear cert="medium" reason="damage">游妙</unclear>□□</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0018a00"/><mulu level="1" label="之二　碑陰" type="其他"/><head>之二　碑陰</head>
+<note place="inline">上段及中段楊氏邑子題名不可辨識</note>
+<div2>
+<lb ed="C I" n="0018a01"/><p id="pI01p0018a0101">楊敬賢　　楊□□　　楊延　　　邑子　　　楊士貴　　維那　　　楊洪顯　　楊&CB00140;　　　楊屯　　　楊配□　　楊道方
+<lb ed="C I" n="0018a02"/>楊□龍　　楊□明　　楊道履　　楊小胡　　楊清周　　楊安生　　楊文盛　　楊智遠　　楊要洛　　楊金安　　楊小達
+<lb ed="C I" n="0018a03"/>楊□□　　楊天賜　　楊□□　　楊羌尒　　楊靈&CB00393;　　楊榮祖　　楊伯&CB00393;　　維那　　　楊平智　　楊洛子　　楊伯邰
+<lb ed="C I" n="0018a04"/>　　　　　楊清龍　　楊龍見　　楊天明　　楊宗胤　　邑子　　　楊惡頭　　楊万堤　　楊僧奴　　楊光顯　　楊文之
+<lb ed="C I" n="0018a05"/>　　　　　楊洛生　　楊迴祖　　楊安祖　　楊蘭生　　楊祿子　　楊郎君　　邑子　　　楊洪標　　楊鐘葵　　楊文虯
+<lb ed="C I" n="0018a06"/>　　　　　楊□洛　　楊道虎　　楊憐　　　楊虎子　　楊三戌　　楊家敬　　楊奉奴　　楊靈智　　楊市　　　楊衝
+<lb ed="C I" n="0018a07"/>　　　　　楊光□　　楊禹　　　楊虎頭　　楊起祖　　楊雙歡　　維那　　　楊喬生　　楊胡女　　楊洛戌　　楊文安
+<lb ed="C I" n="0018a08"/>　　　　　楊智悟　　楊文顯　　楊保九　　楊副龍　　楊重　　　楊鍾葵　　楊惠登　　楊領族　　楊惡蚝　　楊磨尒
+<lb ed="C I" n="0018a09"/>　　　　　楊□進　　楊□　　　楊光始　　楊龍興　　楊歡　　　楊副　　　楊興國　　維真興　　維那　　　維那
+<lb ed="C I" n="0018a10"/>　　　　　楊子□　　楊迴生　　楊靈壽　　維那　　　楊山王　　楊陽香　　維那　　　楊三戌　　楊僧敬　　楊玄瓠
+<lb ed="C I" n="0018a11"/>　　　　　楊俊興　　楊眾敬　　楊文雅　　楊遠士　　楊僧養　　楊道儀　　楊僧養　　楊醜　　　邑子　　　楊樹生
+<lb ed="C I" n="0018a12"/>　　　　　楊歡□　　楊法誕　　楊洪達　　邑子　　　楊羌奴　　邑子　　　楊買歡　　楊廣興　　楊天壽　　楊祖&CB00393;
+<lb ed="C I" n="0018a13"/>　　　　　楊長□　　楊見僖　　維龍興　　楊萇生　　維那　　　楊文　　　楊清□　　楊僧暢　　楊真保　　楊法猥
+<lb ed="C I" n="0018a14"/>　　　　　□□□　　楊叔祿　　楊要興　　楊皇雀　　楊道歡　　楊文宗　　邑子　　　楊靈歡　　楊法光　　楊小樹
+<lb ed="C I" n="0018a15"/>　　　　　楊□□　　楊明金　　楊白龍　　楊迴　　　楊雙但　　楊天生　　楊黑奴　　楊惡奴　　楊道秀　　楊伯壽
+<lb ed="C I" n="0018a16"/>　　　　　維那　　　楊清奴　　楊文淵　　楊歡　　　邑子　　　楊眺□　　楊同　　　維業祖　　維那　　　楊顯儀
+<lb ed="C I" n="0018a17"/>　　　　　楊天□　　楊伏姜　　楊可生　　楊王尒　　楊元進　　楊鍾葵　　楊疆之　　楊顯和　　楊雙虎　　楊顯城
+<lb ed="C I" n="0018a18"/>楊大千　　楊□　　　維那　　　楊魯生　　楊法初　　楊道明　　楊杲　　　楊外　　　楊曹生　　楊法歡　　楊道賢
+<lb ed="C I" n="0018a19"/>楊□存　　邑子　　　楊僧貴　　楊夫聰　　楊安邑　　楊午德　　楊香盧　　楊倪　　　楊承伯　　邑子　　　楊洪遵
+<lb ed="C I" n="0018a20"/>楊天智　　楊遵雅　　邑子　　　維那　　　楊買　　　楊叔興　　楊恒儀　　楊安王　　楊法敬　　楊魯　　　楊普安
+<lb ed="C I" n="0018a21"/>楊祖□　　楊僧　　　楊天生　　楊僧奴　　楊天德　　楊龍威　　楊願　　　楊老　　　楊輔智　　楊道德　　楊歸生
+<lb ed="C I" n="0018a22"/>　　　　　楊天祿　　楊勝之　　邑子　　　楊買德　　楊勝　　　楊衝　　　楊惠德　　維那　　　楊雙安　　楊樹生
+<lb ed="C I" n="0018a23"/>　　　　　楊□□　　楊龍之　　楊法憚　　楊惡奴　　楊先　　　楊道僑　　楊伯生　　楊天智　　楊惡奴　　楊顯慶
+<lb ed="C I" n="0018a24"/>　　　　　楊導　　　維伯鸞　　楊及祖　　楊洪智　　維那　　　楊神虎　　楊天勗　　楊買德　　楊天有　　楊歸安
+<lb ed="C I" n="0018a25"/>　　　　　楊生□　　楊神龜　　楊伯壽　　楊光胤　　楊濟奴　　楊業　　　楊苟子　　邑子　　　楊天族　　楊方貴
+<lb ed="C I" n="0018a26"/>　　　　　楊□□　　楊雙鸞　　楊洪進　　楊僧顯　　楊萇興　　楊周　　　楊□憖　　楊難之　　楊道&CB00393;　　楊僧喜
+<lb ed="C I" n="0018a27"/>　　　　　邑容□　　邑元明　　楊馬領　　楊菩提　　邑子　　　楊可畏　　楊天念　　楊道洪　　楊高尒　　楊洛
+<lb ed="C I" n="0018a28"/>　　　　　楊天極　　楊解愁　　楊思伯　　楊俊興　　楊<unclear cert="low" reason="damage">腊</unclear>　　　楊倪奴　　楊雙　　　楊道榮　　楊樹　　　楊叔敬
+<lb ed="C I" n="0018a29"/>　　　　　楊興□　　楊進壽　　楊陸　　　楊安都　　楊買胡　　楊曇儀　　楊山俱　　楊洛　　　楊分周
+<lb ed="C I" n="0018a30"/>楊喬光　　楊法存　　楊天保　　楊征年　　楊安香　　楊保　　　楊天景　　楊歡　　　楊万集　　楊明
+<lb ed="C I" n="0018a31"/>楊虎□　　楊黑龍　　維那　　　楊<unclear cert="low" reason="damage">若</unclear>祖　　楊容生　　楊眾保　　楊孤尒　　楊虯陵　　楊万富　　楊龍震
+<lb ed="C I" n="0018a32"/>　　　　　□□□　　楊□□　　楊　　　　　　勝　　楊永伯　　楊飛龍　　楊平周　　楊天生　　楊香盧</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

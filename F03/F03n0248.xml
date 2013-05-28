@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "F03n0248.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Fangshan shijing, Electronic version, No. 248 佛說救護身命經</title>
+			<author>比丘道真譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.1 $ (Big5)<date>$Date: 2010/10/13 08:30:31 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2010/10/13 08:30:31 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Fangshan shijing Vol. 03, No. 248 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p lang="chi" type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2010/10/11 13:37:46</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: F03n0248.xml,v $
+Revision 1.1  2010/10/13 08:30:31  eva
+bm 轉 xml 作業上傳
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<lb ed="F" n="0557a16"/><milestone unit="juan" n="1"/><mulu type="卷" n="1"/><juan fun="open" n="1"><jhead>佛說救護身命經</jhead></juan><div1><p id="pF03p0557a1608" place="inline">尒時佛在娑羅雙樹間臨般泥洹時舍利弗阿難及&CB07099;量諸大菩薩摩訶薩諸大弟子一切天人皆&CB08074;集會佛還正坐告阿難言吾當入般涅槃我滅度後一切眾生當為&CB08891;<app><lem wit="【CBETA】" resp="CBETA.maha">魔</lem><rdg wit="【房山】">&unrec;</rdg></app>眾邪&CB17106;道奪人精氣者求人短者橫&CB08074;<app><lem wit="【CBETA】" resp="CBETA.maha">煞</lem><rdg wit="【房山】">&unrec;</rdg></app>者阿難汝好
+<lb ed="F" n="0557a17"/>懃心流布此經令&CB08891;世中眾生&CB07099;有病苦&CB07099;有橫死眾<app><lem wit="【CBETA】" resp="CBETA.maha">邪</lem><rdg wit="【房山】">耶</rdg></app>&CB17106;道&CB17575;皆消滅。</p><p id="pF03p0557a1729" place="inline">阿難我所囑累唯有此經若有眾生&CB07099;男&CB07099;女有能讀誦此經一句一偈者眾<app><lem wit="【CBETA】" resp="CBETA.maha">邪</lem><rdg wit="【房山】">耶</rdg></app>&CB08891;鬼不得&unrec;近若在曠野中若在急難中若在大水中若在大火中常當讀誦是經能&CB17575;斷除何以故此經有大威神力故常讀之若不讀者但當
+<lb ed="F" n="0557a18"/>&CB00473;懷中至心受持是經者則持過去未&CB08074;現在諸佛神力若欲遠行常當持去&CB30529;&CB30529;村落一心為人演說有能&CB00824;&CB04456;&CB10881;者所願&CB17575;得。</p><p id="pF03p0557a1851" place="inline">阿難佛不虛言此經佛所秘要<app><lem wit="【CBETA】" resp="CBETA.maha">甚難</lem><rdg wit="【房山】">其</rdg></app>可得譬如妙藥能愈毒病能辟毒氣能&CB07589;&CB08891;毒有人持行諸惡毒&CB01961;眾<app><lem wit="【CBETA】" resp="CBETA.maha">邪&CB17106;</lem><rdg wit="【房山】">耶&unrec;</rdg></app>道欲&CB08074;爭&unrec;<app><lem wit="【CBETA】" resp="CBETA.maha">聞</lem><rdg wit="【房山】">&unrec;</rdg></app>此經法&CB08891;&unrec;藥氣四向散去不敢迴視此
+<lb ed="F" n="0557a19"/>經亦&CB11040;如是有疾病者當淨洗浴一心讀誦眾患除愈。</p><p id="pF03p0557a1922" place="inline">佛告阿難若有&CB08891;魔&CB17106;道不&CB18919;我語者我當使此魔眾<app><lem wit="【CBETA】" resp="CBETA.maha">邪</lem><rdg wit="【房山】">耶</rdg></app>&CB17106;道如押油快&CB17575;皆<app><lem wit="【CBETA】" resp="CBETA.maha">消</lem><rdg wit="【房山】">&unrec;</rdg></app>滅&CB07099;有遺餘佛即舉七佛名字&CB05663;一維衛佛&CB05663;二式佛&CB05663;三&CB18919;葉佛&CB05663;四拘樓秦佛&CB05663;五拘那含牟&CB00112;佛&CB05663;六迦葉佛&CB05663;七&CB18232;迦文佛。</p><p id="pF03p0557a19104" place="inline">若有苦厄病痛者便當讀誦
+<lb ed="F" n="0557a20"/><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【房山】">者便當讀誦</rdg></app>此七佛名字諸&CB08891;&CB17106;道&CB17575;皆消滅&CB07099;能侵近。</p><p id="pF03p0557a2018" place="inline">佛說此經已&CB11040;告阿難我今憐愍眾生故便當更說六神名字一名波奈羅二名迦奈羅三名禪吒迦四名懃迦五名摩頭六名摩祁此是六神名字阿難若有眾生&CB07099;男&CB07099;女&CB07099;貴&CB07099;賤有苦厄者皆當稱說六神名字所患消除眾&unrec;&CB08891;氣皆不
+<lb ed="F" n="0557a21"/>得近一切滅盡&CB07099;有遺餘。</p><p id="pF03p0557a2111" place="inline">佛告&CB07099;量&CB07099;邊菩薩摩訶薩及天神王一切天人我滅度後若有受持我所囑法者<app><lem wit="【CBETA】" resp="CBETA.maha">汝&CB21717;常</lem><rdg wit="【房山】">&unrec;&unrec;&unrec;</rdg></app>當晝夜擁護令得安隱。</p><p id="pF03p0557a2155" place="inline">文殊師利菩薩白佛言世尊我當於佛滅後將廿五菩薩於&CB08891;世中有讀誦此經&CB30529;我&CB21717;晝夜在其左右擁護是人眾<app><lem wit="【CBETA】" resp="CBETA.maha">邪</lem><rdg wit="【房山】">耶</rdg></app>魍魎不得&CB08074;近常使
+<lb ed="F" n="0557a22"/>是人臥安覺安脩行善法佛讚文殊師利善&CB21985;善&CB21985;汝能擁護我百千万&CB04068;所可脩集阿耨多羅三&CB01505;三菩提。</p><p id="pF03p0557a2243" place="inline">尒時四天神王偏袒右肩右膝著地一心合掌白佛言世尊我當於如&CB08074;滅後各將眷&CB06473;按行國界有能讀誦書寫受持是經我&CB21717;眷&CB06473;常&CB08074;&CB18919;逐是人晝夜擁護令不見&CB08891;
+<lb ed="F" n="0557a23"/>是人欲行曠野中我常&CB18919;逐導從懃心擁護是人不令&CB08891;鬼<app><lem wit="【CBETA】" resp="CBETA.maha">妄</lem><rdg wit="【房山】">忘</rdg></app>&CB08074;侵近常得充足不令飢渴所欲求者我&CB21717;神王&CB17575;令供給如其所願&CB07099;所之少何以故是人能令流布此經脩行善法供養三寶令不&CB07589;絕。</p><p id="pF03p0557a2379" place="inline">尒時乾闥婆王阿脩羅迦樓羅緊那羅摩&CB00264;羅伽人非人&CB21717;各各胡跪於如&CB08074;前一心合掌白佛言
+<lb ed="F" n="0557a24"/>世尊我&CB21717;天人常當飛行於&CB08891;世中間有讀誦書寫晝夜受持是經者我&CB21717;天人各與眷&CB06473;共到是人所住之&CB30529;聽受此經常當守護晝夜不離在其四面擁護是人眾魔&CB08891;鬼不得侵近不得&CB03033;其精氣不得橫&CB08074;嬈&CB10329;不得求其長短不得觸猒令毒氣不行我&CB21717;眷屬常&CB08074;在是人所住於空中是人若遇大火<app><lem wit="【CBETA】" resp="CBETA.maha">我&CB21717;</lem><rdg wit="【房山】">&unrec;&unrec;</rdg></app>
+<lb ed="F" n="0557a25"/>眷屬&CB18919;其方便救護其身不令火燒若遇大水急駃&CB00579;去我&CB21717;眷屬即於空中&CB08074;接是人令不見溺水即還住得渡水難若遇大賊我於四面護持是人能令賊心刀杖不舉即發慈心若遇官法繫縛枷&CB00430;晝夜愁苦我&CB21717;眷屬於虛空中能令其官心生歡喜&CB17575;令放赦皆得解脫我&CB21717;眷屬一心救護不
+<lb ed="F" n="0557a26"/>令他人而得擾&CB07455;於&CB07099;量無邊&CB04068;中常念是經何以故此經世尊慇懃所&CB06473;之法令久流布。</p><p id="pF03p0557a2636" place="inline">佛&CB11040;讚諸天人善&CB21985;善&CB21985;汝&CB21717;眷屬曾於阿僧祇&CB04068;中值遇百千万億&CB04068;諸佛令擁護我百千億&CB04068;中弟子能令流布此法讀誦書寫方便救濟不令見&CB08891;常行善心。</p>
+<lb ed="F" n="0557a27"/><p id="pF03p0557a2701">尒時&CB09458;闥婆各與眷屬頂禮佛足一心奉行。</p><p id="pF03p0557a2718" place="inline">佛告阿難吾以手摩汝頂上汝好用心吾所囑累唯有此經阿難懃心流布此經令一切眾生&CB17575;得聞知阿難汝最是吾心中弟子我所出法&CB17575;付囑汝吾今憐愍一切眾生故欲令&CB17107;脫故。</p><p id="pF03p0557a2790" place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【房山】">佛</rdg></app>還正坐付囑此
+<lb ed="F" n="0557a28"/>經阿難此經尊猛極有威神勸令一切族姓男女供養香華雜綵幡&CB02649;燃燈續明&CB11040;能轉讀誦習救人疾病苦厄之者現在安吉將&CB08074;往生&CB07099;量壽國即<app><lem wit="【CBETA】" resp="CBETA.maha">生蓮</lem><rdg wit="【房山】">&unrec;&unrec;</rdg></app>華&CB00362;體金色身相具足智慧勇健如上&CB03212;者功德如是不可稱計阿難當用
+<lb ed="F" n="0557a29"/>好紙好筆好墨至心書寫我所出法上下句偈如佛所說<app><lem wit="【CBETA】" resp="CBETA.maha">令</lem><rdg wit="【房山】">&unrec;</rdg></app>&CB07099;<app><lem wit="【CBETA】" resp="CBETA.maha">妄</lem><rdg wit="【房山】">今</rdg></app>失一畫一點阿難我憐愍眾生故唯囑此法皆令一切有形之類&CB17575;<app><lem wit="【CBETA】" resp="CBETA.maha">得聞知心開</lem><rdg wit="【房山】">&unrec;&unrec;&unrec;&unrec;&unrec;</rdg></app>意解常行善心。</p><p id="pF03p0557a2963" place="inline">尒時阿難在世尊前一心合掌身毛&CB17575;
+<lb ed="F" n="0557a30"/>&CB00594;戰戰兢兢一心諦聽佛語不敢忘失一句一偈流淚<app><lem wit="【CBETA】" resp="CBETA.maha">而</lem><rdg wit="【房山】">如</rdg></app>言世尊所囑至心受持廣令流布阿難&CB11040;言受天尊教頂禮佛<app><lem wit="【CBETA】" resp="CBETA.maha">足一心奉行</lem><rdg wit="【房山】">&unrec;&unrec;&unrec;&unrec;&unrec;</rdg></app>。</p></div1>
+</body></text></TEI.2>

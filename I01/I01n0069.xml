@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "I01n0069.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selections of Buddhist Stone Rubbings from the Northern Dynasties, Electronic version, No. 0069 方法師鏤石班經記</title>
+                <author>顏娟英主編</author>
+                <respStmt>
+                    <resp>Electronic Version by</resp>
+                    <name>CBETA and DDBC</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>$Revision: 1.5 $<date>$Date: 2011/04/19 06:12:14 $</date></edition>
+            </editionStmt>
+            <extent>1卷</extent>
+            <publicationStmt>
+                <distributor>
+                    <name>中華電子佛典協會 (CBETA)</name>
+                    <address>
+                        <addrLine>service@cbeta.org</addrLine>
+                    </address>
+                </distributor>
+                <availability>
+<p>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/). </p>
+                </availability>
+                <date>$Date: 2011/04/19 06:12:14 $</date>
+            </publicationStmt>
+            <sourceDesc>
+      	      <bibl>Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 069 &desc;</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p lang="eng" type="ly">Text as provided by Institute of History and Philology, Academia Sinica</p>
+                <p lang="chi" type="ly">中央研究院歷史語言研究所</p>
+            </projectDesc>
+            </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+<div1>
+<pb n="0175a" id="I01.0069.0175a" ed="I"/>
+<lb ed="C I" n="0175a00"/><milestone n="1" unit="juan"/><head type="no">No. 69</head>
+<lb ed="C I" n="0175a00"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><title>方法師鏤石班經記</title></jhead></juan>
+<lb ed="C I" n="0175a01"/><p id="pI01p0175a0101">大齊天保元年。靈
+<lb ed="C I" n="0175a02"/>山寺僧方法師。故
+<lb ed="C I" n="0175a03"/>雲陽公子林等。率
+<lb ed="C I" n="0175a04"/>諸邑人。刊此巖窟。
+<lb ed="C I" n="0175a05"/>髣像真容。至六年
+<lb ed="C I" n="0175a06"/>中。國師大德稠禪
+<lb ed="C I" n="0175a07"/>師重<note n="0175001" resp="ihp" place="foot text" type="orig">&CB30221;＝瑩【史】</note><app n="0175001"><lem resp="ihp" wit="【史】">瑩</lem><rdg wit="【原】">&CB30221;</rdg></app>脩成。相好
+<lb ed="C I" n="0175a08"/>斯備。方欲刊記金
+<lb ed="C I" n="0175a09"/>言。光流末季。<note n="0175002" resp="ihp" place="foot text" type="orig">&CB02029;＝徂【史】</note><app n="0175002"><lem resp="ihp" wit="【史】">徂</lem><rdg wit="【原】">&CB02029;</rdg></app>運
+<lb ed="C I" n="0175a10"/>感將移。暨乾明元
+<lb ed="C I" n="0175a11"/>年歲次庚辰。於雲
+<lb ed="C I" n="0175a12"/>門帝寺。奄從遷化。
+<lb ed="C I" n="0175a13"/>眾等仰惟先師。依
+<lb ed="C I" n="0175a14"/>准觀法。遂鏤石班
+<lb ed="C I" n="0175a15"/>經。傳之不朽。
+<lb ed="C I" n="0175a16"/>華嚴經偈讚。
+<lb ed="C I" n="0175a17"/>定光如來明普照。
+<lb ed="C I" n="0175a18"/>諸吉祥中最無上。
+<lb ed="C I" n="0175a19"/>彼佛曾來入此處。
+<lb ed="C I" n="0175a20"/>是故此地最吉祥。
+<lb ed="C I" n="0175a21"/>十方國土勝妙華。
+<lb ed="C I" n="0175a22"/>無價寶珠殊異香。
+<lb ed="C I" n="0175a23"/>皆悉自然從手出。
+<lb ed="C I" n="0175a24"/>供養道樹諸最勝。
+<lb ed="C I" n="0175a25"/>一切十方諸伎樂。無量和雅
+<lb ed="C I" n="0175a26"/>妙音聲。及以種種眾妙偈。讚歎
+<lb ed="C I" n="0175a27"/>諸佛實功德。
+<lb ed="C I" n="0175a28"/>盧舍那佛惠無<note n="0175003" resp="ihp" place="foot text" type="orig">&CB01002;＝礙【史】</note><app n="0175003"><lem resp="ihp" wit="【史】">礙</lem><rdg wit="【原】">&CB01002;</rdg></app>。諸吉祥中最無上。
+<lb ed="C I" n="0175a29"/>彼佛曾來入此室。是故此地最吉祥。
+<lb ed="C I" n="0175a30"/>大般涅槃經聖行品</p>
+</div1>
+</body>
+</text>
+</TEI.2>

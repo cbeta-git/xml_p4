@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "I01n0042.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selections of Buddhist Stone Rubbings from the Northern Dynasties, Electronic version, No. 0042 巨始光等造像碑</title>
+                <author>顏娟英主編</author>
+                <respStmt>
+                    <resp>Electronic Version by</resp>
+                    <name>CBETA and DDBC</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>$Revision: 1.8 $<date>$Date: 2011/05/19 01:44:08 $</date></edition>
+            </editionStmt>
+            <extent>1卷</extent>
+            <publicationStmt>
+                <distributor>
+                    <name>中華電子佛典協會 (CBETA)</name>
+                    <address>
+                        <addrLine>service@cbeta.org</addrLine>
+                    </address>
+                </distributor>
+                <availability>
+<p>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/). </p>
+                </availability>
+                <date>$Date: 2011/05/19 01:44:08 $</date>
+            </publicationStmt>
+            <sourceDesc>
+      	      <bibl>Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 042 &desc;</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p lang="eng" type="ly">Text as provided by Institute of History and Philology, Academia Sinica</p>
+                <p lang="chi" type="ly">中央研究院歷史語言研究所</p>
+            </projectDesc>
+            </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+<div1>
+<pb n="0107a" id="I01.0042.0107a" ed="I"/>
+<lb ed="C I" n="0107a00"/><milestone n="1" unit="juan"/><head type="no">No. 42</head>
+<lb ed="C I" n="0107a00"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><title>巨始光等造像碑</title></jhead></juan>
+<lb ed="C I" n="0107a00"/><mulu level="1" label="之一　碑陽" type="其他"/><head>之一　碑陽</head>
+<div2>
+<lb ed="C I" n="0107a01"/><p id="pI01p0107a0101">
+<lb ed="C I" n="0107a02"/>
+<lb ed="C I" n="0107a03"/>
+<lb ed="C I" n="0107a04"/>
+<lb ed="C I" n="0107a05"/>
+<lb ed="C I" n="0107a06"/>
+<lb ed="C I" n="0107a07"/>
+<lb ed="C I" n="0107a08"/>
+<lb ed="C I" n="0107a09"/>
+<lb ed="C I" n="0107a10"/>左相當陽佛主楊志寬為亡父一心侍佛
+<lb ed="C I" n="0107a11"/>左相多保佛塔證有法華經
+<lb ed="C I" n="0107a12"/>
+<lb ed="C I" n="0107a13"/>
+<lb ed="C I" n="0107a14"/>
+<lb ed="C I" n="0107a15"/>
+<lb ed="C I" n="0107a16"/>
+<lb ed="C I" n="0107a17"/>
+<lb ed="C I" n="0107a18"/>
+<lb ed="C I" n="0107a19"/>
+<lb ed="C I" n="0107a20"/>
+<lb ed="C I" n="0107a21"/>右相釋迦佛說法華經
+<lb ed="C I" n="0107a22"/>右相當陽佛主楊仕弟伯通業仁
+<lb ed="C I" n="0107a23"/>
+<lb ed="C I" n="0107a24"/>
+<lb ed="C I" n="0107a25"/>
+<lb ed="C I" n="0107a26"/>
+<lb ed="C I" n="0107a27"/>
+<lb ed="C I" n="0107a28"/>
+<lb ed="C I" n="0107a29"/>
+<lb ed="C I" n="0107a30"/>
+<lb ed="C I" n="0107a31"/>
+<lb ed="C I" n="0107a32"/>
+<lb ed="C I" n="0107a33"/>
+<lb ed="C I" n="0107a34"/>
+<lb ed="C I" n="0107a35"/>
+<lb ed="C I" n="0107a36"/>
+<lb ed="C I" n="0107a37"/>
+<lb ed="C I" n="0107a38"/>
+<lb ed="C I" n="0107a39"/></p>
+</div2>
+<div2>
+<lb ed="C I" n="0107b01"/><p id="pI01p0107b0101">
+<lb ed="C I" n="0107b02"/>
+<lb ed="C I" n="0107b03"/>
+<lb ed="C I" n="0107b04"/>
+<lb ed="C I" n="0107b05"/>
+<lb ed="C I" n="0107b06"/>
+<lb ed="C I" n="0107b07"/>
+<lb ed="C I" n="0107b08"/>
+<lb ed="C I" n="0107b09"/>
+<lb ed="C I" n="0107b10"/>發心起　衛仇咎法雋張通李石仁周仕俱
+<lb ed="C I" n="0107b11"/>像主　　楊阿□張要恭楊山百八人等為一切眾生一心侍佛
+<lb ed="C I" n="0107b12"/>
+<lb ed="C I" n="0107b13"/>
+<lb ed="C I" n="0107b14"/>
+<lb ed="C I" n="0107b15"/>
+<lb ed="C I" n="0107b16"/>
+<lb ed="C I" n="0107b17"/>
+<lb ed="C I" n="0107b18"/>
+<lb ed="C I" n="0107b19"/>
+<lb ed="C I" n="0107b20"/>
+<lb ed="C I" n="0107b21"/>當陽大　宋長楊乾來馬君姿見存母李息文通文永
+<lb ed="C I" n="0107b22"/>佛主　　文德文恩文<unclear cert="low" reason="damage">逍</unclear>通男開雲永遷迎男万世侍佛
+<lb ed="C I" n="0107b23"/>
+<lb ed="C I" n="0107b24"/>
+<lb ed="C I" n="0107b25"/>
+<lb ed="C I" n="0107b26"/>
+<lb ed="C I" n="0107b27"/>
+<lb ed="C I" n="0107b28"/>
+<lb ed="C I" n="0107b29"/>
+<lb ed="C I" n="0107b30"/>
+<lb ed="C I" n="0107b31"/>
+<lb ed="C I" n="0107b32"/>
+<lb ed="C I" n="0107b33"/>
+<lb ed="C I" n="0107b34"/>
+<lb ed="C I" n="0107b35"/>
+<lb ed="C I" n="0107b36"/>
+<lb ed="C I" n="0107b37"/>
+<lb ed="C I" n="0107b38"/>
+<lb ed="C I" n="0107b39"/></p>
+</div2>
+<div2>
+<lb ed="C I" n="0107c01"/><p id="pI01p0107c0101">夫真源寂寥。妙相絕尋。凝靖也則<note n="0107001" resp="ihp" place="foot text" type="orig">毦＝邪【史】</note><app n="0107001"><lem resp="ihp" wit="【史】">邪</lem><rdg wit="【原】">毦</rdg></app>風<note n="0107002" resp="ihp" place="foot text" type="orig">&CB04152;＝鼓【史】</note><app n="0107002"><lem resp="ihp" wit="【史】">鼓</lem><rdg wit="【原】">&CB04152;</rdg></app>世。
+<lb ed="C I" n="0107c02"/>絕尋也則群師見軌。致令蒼生繼泥犁之因。
+<lb ed="C I" n="0107c03"/>是　以　大慈。府愍含識。誕&CB00528;迦維。使天人
+<lb ed="C I" n="0107c04"/>咸　　信。□那比轍郁穆之風於斯流矣。清
+<lb ed="C I" n="0107c05"/>信士□弟□□建義大都督巢山監軍鎮遠
+<lb ed="C I" n="0107c06"/>將軍前平陽令高涼令青州安平縣開國侯
+<lb ed="C I" n="0107c07"/><note n="0107003" resp="ihp" place="foot text" type="orig">&CB30694;＝巨【史】</note><app n="0107003"><lem resp="ihp" wit="【史】">巨</lem><rdg wit="【原】">&CB30694;</rdg></app>始光。自惟□因浮<unclear cert="medium" reason="damage">淺</unclear>。樹業彫微。生於季葉。
+<lb ed="C I" n="0107c08"/>長逢兵亂。王道時屯。群飛未<note n="0107004" resp="ihp" place="foot text" type="orig">&CB00188;＝接【史】</note><app n="0107004"><lem resp="ihp" wit="【史】">接</lem><rdg wit="【原】">&CB00188;</rdg></app>。妖熒充斥。忠
+<lb ed="C I" n="0107c09"/>良異路。值龍變虎爭之秋。列士立功之會。常
+<lb ed="C I" n="0107c10"/>思納肝之誠。又慕孫賓之節。契<note n="0107005" resp="ihp" place="foot text" type="orig">&CB30684;＝闊【史】</note><app n="0107005"><lem resp="ihp" wit="【史】">闊</lem><rdg wit="【原】">&CB30684;</rdg></app>戎行。<note n="0107006" resp="ihp" place="foot text" type="orig">&CB30689;＝夷【史】</note><app n="0107006"><lem resp="ihp" wit="【史】">夷</lem><rdg wit="【原】">&CB30689;</rdg></app>嶮
+<lb ed="C I" n="0107c11"/>備經。艱危之中。恒發私願。遂心存至道。追慕
+<lb ed="C I" n="0107c12"/>玄津。福祐無違。精誠剋立。<unclear cert="low" reason="damage">蒞</unclear>宰向周。<note n="0107007" resp="ihp" place="foot text" type="orig">&CB04130;＝缺【史】</note><app n="0107007"><lem resp="ihp" wit="【史】">缺</lem><rdg wit="【原】">&CB04130;</rdg></app><note n="0107008" resp="ihp" place="foot text" type="orig">&CB13901;＝期【史】</note><app n="0107008"><lem resp="ihp" wit="【史】">期</lem><rdg wit="【原】">&CB13901;</rdg></app>月
+<lb ed="C I" n="0107c13"/>之化。綏民撫政。乏童雉之惠。慶福嘉祉。寔由
+<lb ed="C I" n="0107c14"/><note n="0107009" resp="ihp" place="foot text" type="orig">&CB30695;＝靈【史】</note><app n="0107009"><lem resp="ihp" wit="【史】">靈</lem><rdg wit="【原】">&CB30695;</rdg></app>蔭。託根挺拔。因助獲善。仰惟三寶恩重。思
+<lb ed="C I" n="0107c15"/>著<note n="0107010" resp="ihp" place="foot text" type="orig">&CB30685;＝聚【史】</note><app n="0107010"><lem resp="ihp" wit="【史】">聚</lem><rdg wit="【原】">&CB30685;</rdg></app>沙之功。尋優瑱養正而遺風。想育王<note n="0107011" resp="ihp" place="foot text" type="orig">&CB14695;＝叔【史】</note><app n="0107011"><lem resp="ihp" wit="【史】">叔</lem><rdg wit="【原】">&CB14695;</rdg></app>
+<lb ed="C I" n="0107c16"/>世而繼範。故葉公好龍。感至義而見真。目連
+<lb ed="C I" n="0107c17"/>慕德。刻圖像而尊奉。乃藉本宿心。兼<note n="0107012" resp="ihp" place="foot text" type="orig">&CB02420;＝規【史】</note><app n="0107012"><lem resp="ihp" wit="【史】">規</lem><rdg wit="【原】">&CB02420;</rdg></app>古則。
+<lb ed="C I" n="0107c18"/>輒<note n="0107013" resp="ihp" place="foot text" type="orig">&CB30568;＝率【史】</note><app n="0107013"><lem resp="ihp" wit="【史】">率</lem><rdg wit="【原】">&CB30568;</rdg></app>文武。鄉豪長秀。並<note n="0107014" resp="ihp" place="foot text" type="orig">&CB30686;＝竭【史】</note><app n="0107014"><lem resp="ihp" wit="【史】">竭</lem><rdg wit="【原】">&CB30686;</rdg></app>丹誠。敬造石像一
+<lb ed="C I" n="0107c19"/>區。然<note n="0107015" resp="ihp" place="foot text" type="orig">&CB30687;＝蘊【史】</note><app n="0107015"><lem resp="ihp" wit="【史】">蘊</lem><rdg wit="【原】">&CB30687;</rdg></app>石懸峰。漏影侍時。含相好以&CI0003;。賴
+<lb ed="C I" n="0107c20"/>良匠而顯<note n="0107016" resp="ihp" place="foot text" type="orig">&CB30696;＝姿【史】</note><app n="0107016"><lem resp="ihp" wit="【史】">姿</lem><rdg wit="【原】">&CB30696;</rdg></app>。妙狀熙怡。若恒河之滲金容。彫
+<lb ed="C I" n="0107c21"/>文瑩飾。則昱離朱之目矣。且功起朱明。流火
+<lb ed="C I" n="0107c22"/>已就。<note n="0107017" resp="ihp" place="foot text" type="orig">&CB30688;＝雖【史】</note><app n="0107017"><lem resp="ihp" wit="【史】">雖</lem><rdg wit="【原】">&CB30688;</rdg></app>申子之營祇<note n="0107018" resp="ihp" place="foot text" type="orig">&CB00035;＝園【史】</note><app n="0107018"><lem resp="ihp" wit="【史】">園</lem><rdg wit="【原】">&CB00035;</rdg></app>未能加也。令<note n="0107019" resp="ihp" place="foot text" type="orig">&CB31176;＝尟【史】</note><app n="0107019"><lem resp="ihp" wit="【史】">尟</lem><rdg wit="【原】">&CB31176;</rdg></app>信之
+<lb ed="C I" n="0107c23"/>徒。睹<unclear cert="low" reason="damage">&CB00528;</unclear>追菩提之原。脩道之士。損生必證于
+<lb ed="C I" n="0107c24"/>寂滅。增道改迷。豈非善歟。其詞曰。
+<lb ed="C I" n="0107c25"/>大猷淵凝。體絕有<app><lem wit="【CBETA】" resp="CBETA.maha">&CB07099;</lem><rdg wit="【原】【史】">旡</rdg></app>。慧照万境。妙相沖虛。<app source="0107006" type="＊"><lem resp="ihp" wit="【史】">夷</lem><rdg wit="【原】">&CB30689;</rdg></app>
+<lb ed="C I" n="0107c26"/>尒生滅。殄茲四衢。湛然常樂。非<note n="0107020" resp="ihp" place="foot text" type="orig">&CB30690;＝毀【史】</note><app n="0107020"><lem resp="ihp" wit="【史】">毀</lem><rdg wit="【原】">&CB30690;</rdg></app>非譽。
+<lb ed="C I" n="0107c27"/>玉<unclear cert="medium" reason="damage">響</unclear>掇聞。玄光潛暉。群<note n="0107021" resp="ihp" place="foot text" type="orig">&CB30691;＝邪【史】</note><app n="0107021"><lem resp="ihp" wit="【史】">邪</lem><rdg wit="【原】">&CB30691;</rdg></app>樹黨。迷根<note n="0107022" resp="ihp" place="foot text" type="orig">&CB30692;＝喪【史】</note><app n="0107022"><lem resp="ihp" wit="【史】">喪</lem><rdg wit="【原】">&CB30692;</rdg></app>譏。九
+<lb ed="C I" n="0107c28"/>惚<note n="0107023" resp="ihp" place="foot text" type="orig">&CB04991;＝裁【史】</note><app n="0107023"><lem resp="ihp" wit="【史】">裁</lem><rdg wit="【原】">&CB04991;</rdg></app>繁。糸髮靡依。謬匠濫敷。苦海長歸。
+<lb ed="C I" n="0107c29"/>大覺含悲。府悼沉淪。晦接群醜。鹿野垂仁。導
+<lb ed="C I" n="0107c30"/>迷布正。淳風日新。望波向化。悟體歸真。
+<lb ed="C I" n="0107c31"/>惟仁英哲。道性純醲。秀石名山。摸此聖容。每
+<lb ed="C I" n="0107c32"/>詠優瑱。繼茲遺蹤。非但普益。慶願必從。
+<lb ed="C I" n="0107c33"/>儒才雅士。並慕玄津。丹誠<note n="0107024" resp="ihp" place="foot text" type="orig">&CB30693;＝款【史】</note><app n="0107024"><lem resp="ihp" wit="【史】">款</lem><rdg wit="【原】">&CB30693;</rdg></app>篤。唯君與臣。心
+<lb ed="C I" n="0107c34"/>專福善。造<note n="0107025" resp="ihp" place="foot text" type="orig">&CB04130;＝垂【史】</note><app n="0107025"><lem resp="ihp" wit="【史】">垂</lem><rdg wit="【原】">&CB04130;</rdg></app>十旬。神相炳著。積薀方申。
+<lb ed="C I" n="0107c35"/>維大魏大統六年歲次庚申七月丙子朔十
+<lb ed="C I" n="0107c36"/>五日庚寅。<app source="0107003" type="＊"><lem resp="ihp" wit="【史】">巨</lem><rdg wit="【原】">&CB30694;</rdg></app>始光合縣文武邑義等。仰為
+<lb ed="C I" n="0107c37"/>皇帝陛下。大丞相。七世所生父母。存亡眷屬。
+<lb ed="C I" n="0107c38"/>為一切眾生敬造。齋主力法
+<lb ed="C I" n="0107c39"/>邑師高涼三藏比丘辯賢。副齋主王遵平。</p>
+</div2>
+<div2>
+<lb ed="C I" n="0107d01"/><p id="pI01p0107d0101">使持節通直散□騎□
+<lb ed="C I" n="0107d02"/>待驃騎大將軍建州刺
+<lb ed="C I" n="0107d03"/>史正平太守當郡大都
+<lb ed="C I" n="0107d04"/>督華陰縣開國侯楊標
+<lb ed="C I" n="0107d05"/>鎮遠將軍員外散騎待
+<lb ed="C I" n="0107d06"/>郎建義都督前高涼□
+<lb ed="C I" n="0107d07"/>安丘縣開國子楊清
+<lb ed="C I" n="0107d08"/>邑子功曹楊英顯
+<lb ed="C I" n="0107d09"/>邑子功曹寧元略
+<lb ed="C I" n="0107d10"/>邑子功曹衛玉遵
+<lb ed="C I" n="0107d11"/>邑子功曹寧業族
+<lb ed="C I" n="0107d12"/>邑子功曹雷集歡
+<lb ed="C I" n="0107d13"/>邑子功曹力士恭
+<lb ed="C I" n="0107d14"/>邑子功曹力阿範
+<lb ed="C I" n="0107d15"/>邑子功曹行敬賢
+<lb ed="C I" n="0107d16"/>邑子功曹呂買奴
+<lb ed="C I" n="0107d17"/>邑子功曹寧仲和
+<lb ed="C I" n="0107d18"/>邑子主簿行阿纂
+<lb ed="C I" n="0107d19"/>邑子主簿趙始成
+<lb ed="C I" n="0107d20"/>邑子主簿仇臺&CB01259;
+<lb ed="C I" n="0107d21"/>邑子主簿吳僧和
+<lb ed="C I" n="0107d22"/>邑子主簿力<note n="0107026" resp="ihp" place="foot text" type="orig">&CB21450;＝辯【史】</note><app n="0107026"><lem resp="ihp" wit="【史】">辯</lem><rdg wit="【原】">&CB21450;</rdg></app>才
+<lb ed="C I" n="0107d23"/>邑子錄事翟安勝
+<lb ed="C I" n="0107d24"/>邑子錄事茹敬族
+<lb ed="C I" n="0107d25"/>邑子錄事王貴族
+<lb ed="C I" n="0107d26"/>邑子錄事王元和
+<lb ed="C I" n="0107d27"/>邑子錄事仇元敬
+<lb ed="C I" n="0107d28"/>邑子西曹掾竹長
+<lb ed="C I" n="0107d29"/>邑子兵曹掾李珍
+<lb ed="C I" n="0107d30"/>邑子金曹掾劉定
+<lb ed="C I" n="0107d31"/>邑子租曹掾張訛
+<lb ed="C I" n="0107d32"/>邑子兵曹掾王亮
+<lb ed="C I" n="0107d33"/>邑子金曹掾梅勝
+<lb ed="C I" n="0107d34"/>邑子兵曹掾李邕
+<lb ed="C I" n="0107d35"/>邑子兵曹掾傅祿
+<lb ed="C I" n="0107d36"/>邑子西曹掾費遵
+<lb ed="C I" n="0107d37"/>邑子租曹掾任岳
+<lb ed="C I" n="0107d38"/>邑子兵曹掾秦穆
+<lb ed="C I" n="0107d39"/>邑子兵曹掾費蘭</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0108a00"/><mulu level="1" label="之二　碑陰" type="其他"/><head>之二　碑陰</head>
+<div2>
+<lb ed="C I" n="0108a01"/><p id="pI01p0108a0101">
+<lb ed="C I" n="0108a02"/>
+<lb ed="C I" n="0108a03"/>
+<lb ed="C I" n="0108a04"/>
+<lb ed="C I" n="0108a05"/>
+<lb ed="C I" n="0108a06"/>左相寶□菩薩主賈嵩一心侍佛
+<lb ed="C I" n="0108a07"/>文　殊　師　利　說　法　時
+<lb ed="C I" n="0108a08"/>
+<lb ed="C I" n="0108a09"/>
+<lb ed="C I" n="0108a10"/>
+<lb ed="C I" n="0108a11"/>
+<lb ed="C I" n="0108a12"/>
+<lb ed="C I" n="0108a13"/>
+<lb ed="C I" n="0108a14"/>
+<lb ed="C I" n="0108a15"/>
+<lb ed="C I" n="0108a16"/>
+<lb ed="C I" n="0108a17"/>
+<lb ed="C I" n="0108a18"/>
+<lb ed="C I" n="0108a19"/>
+<lb ed="C I" n="0108a20"/>
+<lb ed="C I" n="0108a21"/>
+<lb ed="C I" n="0108a22"/>
+<lb ed="C I" n="0108a23"/>
+<lb ed="C I" n="0108a24"/>
+<lb ed="C I" n="0108a25"/>
+<lb ed="C I" n="0108a26"/>
+<lb ed="C I" n="0108a27"/>
+<lb ed="C I" n="0108a28"/>
+<lb ed="C I" n="0108a29"/>
+<lb ed="C I" n="0108a30"/>唯摩詰居士示疾時
+<lb ed="C I" n="0108a31"/>正面當陽□主□□□□□
+<lb ed="C I" n="0108a32"/>
+<lb ed="C I" n="0108a33"/>
+<lb ed="C I" n="0108a34"/>
+<lb ed="C I" n="0108a35"/>
+<lb ed="C I" n="0108a36"/>
+<lb ed="C I" n="0108a37"/>
+<lb ed="C I" n="0108a38"/></p>
+</div2>
+<div2>
+<lb ed="C I" n="0108b01"/><p id="pI01p0108b0101">
+<lb ed="C I" n="0108b02"/>　　一名阿&CB00434;佛□□　三名師□□佛　　　　　　　　　　　　　　　　　　　　　　　　　五□□□□佛□伏興侍佛　七名帝相佛雷仕璨為息□□
+<lb ed="C I" n="0108b03"/>
+<lb ed="C I" n="0108b04"/>□□為亡母一心侍佛　四名師子相佛　　　　　　　　　　　　　　　　　　　　　　　　　六名常滅□　　　　　　　八名梵相佛□元□
+<lb ed="C I" n="0108b05"/>
+<lb ed="C I" n="0108b06"/>　　二名須彌頂佛樊□□主□河□□□伯□□業兒此是定光佛教化三小兒補施皆得須陀桓道
+<lb ed="C I" n="0108b07"/>　　　　　　　　　　　　　　　　　　　　　　□□□□□□楊長業三人□
+<lb ed="C I" n="0108b08"/>　　　　　　　　　　　　　　　　　　　　　　來世主並為亡父一心侍佛時
+<lb ed="C I" n="0108b09"/>
+<lb ed="C I" n="0108b10"/>
+<lb ed="C I" n="0108b11"/>
+<lb ed="C I" n="0108b12"/>
+<lb ed="C I" n="0108b13"/>
+<lb ed="C I" n="0108b14"/>
+<lb ed="C I" n="0108b15"/>
+<lb ed="C I" n="0108b16"/>
+<lb ed="C I" n="0108b17"/>
+<lb ed="C I" n="0108b18"/>
+<lb ed="C I" n="0108b19"/>
+<lb ed="C I" n="0108b20"/>
+<lb ed="C I" n="0108b21"/>
+<lb ed="C I" n="0108b22"/>
+<lb ed="C I" n="0108b23"/>
+<lb ed="C I" n="0108b24"/>
+<lb ed="C I" n="0108b25"/>
+<lb ed="C I" n="0108b26"/>
+<lb ed="C I" n="0108b27"/>
+<lb ed="C I" n="0108b28"/>
+<lb ed="C I" n="0108b29"/>
+<lb ed="C I" n="0108b30"/>　　　　　　　　　此是
+<lb ed="C I" n="0108b31"/>
+<lb ed="C I" n="0108b32"/>
+<lb ed="C I" n="0108b33"/>
+<lb ed="C I" n="0108b34"/>
+<lb ed="C I" n="0108b35"/>九名阿彌陀佛　　　十名□一切□□□□佛　　　　　　　　　　　　　　　　　　　　　　十一名□□□拔旃檀神通□十二名須彌相佛
+<lb ed="C I" n="0108b36"/>
+<lb ed="C I" n="0108b37"/>□□名□□□佛　　十四名□一切□間佛　　　　　　　　　　　　　　　　　　　　　　　十五名□□□世□□□□　十六名釋迦牟尼佛
+<lb ed="C I" n="0108b38"/></p>
+</div2>
+<div2>
+<lb ed="C I" n="0108c01"/><p id="pI01p0108c0101">世□貴容□□阿世亡弟保兒見存□□□□一心侍佛
+<lb ed="C I" n="0108c02"/>像主建義都督巢山監　　邑主族正皇大朗
+<lb ed="C I" n="0108c03"/>軍鎮遠將軍前平陽令　　邑主族正蘇遵買
+<lb ed="C I" n="0108c04"/>高涼令安平縣開國侯　　維那高涼令尹虎子
+<lb ed="C I" n="0108c05"/>巨始光　　　　　　　　維那
+<lb ed="C I" n="0108c06"/>光父被百扳授建興太　　邑正洛陽縣西曹張俱
+<lb ed="C I" n="0108c07"/>守巨天祖　　　　　　　典錄族正
+<lb ed="C I" n="0108c08"/>光母清信女景伏姜　　　邑子族正行阿勝
+<lb ed="C I" n="0108c09"/>光亡弟清信士巨解愁　　邑子族正寧矯族
+<lb ed="C I" n="0108c10"/>光亡妻清信女郭　　　　邑子族正秦保敬
+<lb ed="C I" n="0108c11"/>妻清信女上官阿乞　　　邑子族正楊阿鍾
+<lb ed="C I" n="0108c12"/>妻清信女□□奴　　　　邑子　族正郝顯
+<lb ed="C I" n="0108c13"/>妻清信女藺仙妃　　　　邑子族正呂天活
+<lb ed="C I" n="0108c14"/>息清信仕巨令&CB01259;　　　　邑子族正力法顯
+<lb ed="C I" n="0108c15"/>息清信女巨銀妃　　　　邑子族正趙法安
+<lb ed="C I" n="0108c16"/>息清信女巨洪妃　　　　邑子族正田□僧
+<lb ed="C I" n="0108c17"/>巢山建義都督張舍族　　邑子族正王□□
+<lb ed="C I" n="0108c18"/>齊州耶城縣男□阿貴　　邑子族□□□來
+<lb ed="C I" n="0108c19"/>□城縣開國男□光副　　邑子族正竹阿賢
+<lb ed="C I" n="0108c20"/>齊州廣宗縣男巨敬保　　邑子族正張法勝
+<lb ed="C I" n="0108c21"/>巢山建義都督張延達　　邑子族正翟遵智
+<lb ed="C I" n="0108c22"/>佛弟子清信士張像&CB01259;　　邑子族正樊珍族
+<lb ed="C I" n="0108c23"/>□□□功曹掾慶集　　　邑子族正何安洛
+<lb ed="C I" n="0108c24"/>□□□功曹巨陸□　　　邑子族正王始明
+<lb ed="C I" n="0108c25"/>邑子功曹掾馬遵和　　　邑子族正行慶和
+<lb ed="C I" n="0108c26"/>邑子功曹鄧王買　　　　邑子族正蘇永敬
+<lb ed="C I" n="0108c27"/>□□戶□□□□　　　　邑子族正張延和
+<lb ed="C I" n="0108c28"/>邑子金曹掾□□　　　　邑子□□楊□石
+<lb ed="C I" n="0108c29"/>□□□□□□□□　　　邑□□□□阿貴
+<lb ed="C I" n="0108c30"/>邑子□□□□□　　　　邑子族正崔伯脫
+<lb ed="C I" n="0108c31"/>邑子戶曹掾蘇業　　　　邑子族　正李保
+<lb ed="C I" n="0108c32"/>邑子兵曹楊成&CB01259;　　　　邑子族正楊越歡
+<lb ed="C I" n="0108c33"/>邑子金□曹□□　　　　邑子　族正吳舍容
+<lb ed="C I" n="0108c34"/>邑子士□□□□　　　　邑子　族正□延壽
+<lb ed="C I" n="0108c35"/>□□□□□□□　　　　邑子族正尹思業
+<lb ed="C I" n="0108c36"/>邑子□□□□□　　　　邑子族正張顯族
+<lb ed="C I" n="0108c37"/>邑子□□□邑子衛國　　邑子族□　薛敬賓
+<lb ed="C I" n="0108c38"/>邑子力遵顯邑子賈□　　邑子族正　楊遵義
+<lb ed="C I" n="0108c39"/>邑子三□□主張埠　　　邑子族正耿亮</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0109a00"/><mulu level="1" label="之三　碑側" type="其他"/><head>之三　碑側</head>
+<div2>
+<lb ed="C I" n="0109a01"/><p id="pI01p0109a0101">□□□□□佛　南方□□□　西方□□□佛
+<lb ed="C I" n="0109a02"/>
+<lb ed="C I" n="0109a03"/>
+<lb ed="C I" n="0109a04"/>
+<lb ed="C I" n="0109a05"/>
+<lb ed="C I" n="0109a06"/>
+<lb ed="C I" n="0109a07"/>北方□□□佛　□方□□佛　　　　　　　　□□□□佛
+<lb ed="C I" n="0109a08"/>
+<lb ed="C I" n="0109a09"/>
+<lb ed="C I" n="0109a10"/></p>
+</div2>
+<div2>
+<lb ed="C I" n="0109b01"/><p id="pI01p0109b0101">　　　　　　　　□子　　　　　　　　　邑　　　　　　　　　　　　邑子□□□　　邑子□□□　　邑子□□□　邑子張□□
+<lb ed="C I" n="0109b02"/>　　　　　　　　邑子　　　　　　　　　　　　　　　　　　　　　　邑子□□□　　邑子□□□　　邑子舍□祖　邑子楊□□
+<lb ed="C I" n="0109b03"/>　　　　　　　　邑子　　　　　　　　　　　　　　　　　　　　　　邑子□□□　　邑子張□□　　邑子王子□　邑子楊□□
+<lb ed="C I" n="0109b04"/>　　　　　　　　邑子　　　　　　　　　邑子楊　　　　　　　　　　邑子□□玉　　邑子□□□　　邑子□□□　邑子張奉世
+<lb ed="C I" n="0109b05"/>　　　　　　　　邑子楊文通　　　　　　邑子楊　　　　　　　　　　邑子□□□　　邑子□□□　　邑子張□□　邑子張子顏
+<lb ed="C I" n="0109b06"/>　　　　　　　　□子　　　　　　　　　邑子楊　　　　　　　　　　邑子□□□　　邑子□□□　　邑子楊　□　邑子薛興□
+<lb ed="C I" n="0109b07"/>司戶　　　　　　□子□伏愛　　　　　　邑子　　　　　　　　　　　邑子□□□　　邑子□□□　　邑子□□□　邑子咎義興
+<lb ed="C I" n="0109b08"/>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　邑子□□□　　邑子□□□　　邑子□□□　邑子□□□
+<lb ed="C I" n="0109b09"/>　　　　　　　　　　　　　　　　　　　邑子　　　　　　　　　　　邑子□□□　　邑子□□□　　邑子□□□　邑子□□□
+<lb ed="C I" n="0109b10"/>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　邑子□□□　　邑子□□□　　邑子陳□□　邑子□□□</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0109c00"/><mulu level="1" label="之四　碑側" type="其他"/><head>之四　碑側</head>
+<div2>
+<lb ed="C I" n="0109c01"/><p id="pI01p0109c0101">□□□□□□侍佛　　　　　　　　　　　　　　　　　　　　二名□□□佛　　□名□葉佛主
+<lb ed="C I" n="0109c02"/>
+<lb ed="C I" n="0109c03"/>
+<lb ed="C I" n="0109c04"/>四名拘樓□佛　　　　　　　　　　　　　　　　　　　　　　五名拘那含牟尼佛六名加葉佛主□□□侍佛七名釋迦牟尼佛主□雲
+<lb ed="C I" n="0109c05"/>
+<lb ed="C I" n="0109c06"/>
+<lb ed="C I" n="0109c07"/>
+<lb ed="C I" n="0109c08"/>□□□□□□為忘母一心侍佛
+<lb ed="C I" n="0109c09"/>
+<lb ed="C I" n="0109c10"/></p>
+</div2>
+<div2>
+<lb ed="C I" n="0109d01"/><p id="pI01p0109d0101">　　　　　　　邑子王子<unclear cert="medium" reason="damage">休</unclear>　□子□□　　□子楊　奴
+<lb ed="C I" n="0109d02"/>都邑主楊　崙　邑子楊仕和　邑子□□□　邑子楊昌　　邑子尹黑仁
+<lb ed="C I" n="0109d03"/>邑主楊　賢　　邑子王純陀　邑子□令和　邑子晷榆和　邑子王□國
+<lb ed="C I" n="0109d04"/>邑主裴□義　　邑子王仲龜　邑子張子粲　邑子楊石財　邑子尹世槃
+<lb ed="C I" n="0109d05"/>都維那薛荷　　邑子□阿庭　邑子咎留買　邑子楊忍業　邑子任始達
+<lb ed="C I" n="0109d06"/>維那□□□　　邑子王萇生　邑子徐元穆　邑子李茢　　邑子任祥
+<lb ed="C I" n="0109d07"/>維那楊法智　　邑子楊早　　邑子尹麻純　邑子李雲□　邑子王罣奴
+<lb ed="C I" n="0109d08"/>維那兵曹府楊碩邑子楊花影　邑子楊利標　邑子□□□　邑子王子仲
+<lb ed="C I" n="0109d09"/>維那晷輝和　　邑子楊元祥　邑子尹李元　邑子張蘭族　邑子藺子鸞
+<lb ed="C I" n="0109d10"/>典錄<unclear cert="medium" reason="damage">任</unclear><unclear cert="medium" reason="damage">化</unclear>　　　邑子□□□　邑□□□□　邑子□□□　□□趙高和</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

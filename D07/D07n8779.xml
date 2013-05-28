@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "D07n8779.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Selections from the Taipei National Central Library Buddhist Rare Book Collection, Electronic version, No. 8779 鳩摩羅什法師誦法（後殘）</title>
+			<author>東晉 釋慧融等集</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $ (Big5)<date>$Date: 2011/06/10 08:14:03 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2011/06/10 08:14:03 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Selections from the Taipei National Central Library Buddhist Rare Book Collection Vol. 07, No. 8779 &desc;</bibl>
+		<p>唐人寫卷子本</p>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p lang="chi" type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2011/06/09 13:14:56</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: D07n8779.xml,v $
+Revision 1.2  2011/06/10 08:14:03  amtbgrace
+modified: 修訂錯誤標記
+
+Revision 1.1  2011/06/09 05:59:11  amtbgrace
+modified: 執行 basicx.bat  將 bm 轉 xml
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="D" id="D07.8779.0001a" n="0001a"/>
+<lb ed="D" n="0001a01"/><milestone unit="juan" n="1"/><mulu type="卷" n="1"/><juan fun="open" n="2"><jhead>鳩摩羅什法師誦法</jhead></juan><byline type="Collector">慧融&CB21717;集</byline>
+<lb ed="D" n="0001a02"/><div1 type="other"><mulu type="其他" level="1" label="受戒緣起"/><p id="pD07p0001a0201">四部弟子受菩&CB16765;戒原於長安城內大&CB02772;寺
+<lb ed="D" n="0001a03"/>鳩摩羅什法師與道俗百千人受菩&CB16765;
+<lb ed="D" n="0001a04"/>戒時慧融道詳八百餘人次預彼未書持誦
+<lb ed="D" n="0001a05"/>出戒本及羯磨受戒文受戒法本出梵&CB07560;經
+<lb ed="D" n="0001a06"/>律&CB18911;品中盧&CB22064;&CB30839;佛與妙海王王千子受菩
+<lb ed="D" n="0001a07"/>戒法又欲受戒&CB05663;子先以三&CB17716;師&CB30133;以香火
+<lb ed="D" n="0001a08"/>請一戒師為阿闍梨將至佛前伏地而聽也。</p>
+<lb ed="D" n="0001a09"/><p id="pD07p0001a0901">又師應問言汝難忍能忍不所謂十忍也割
+<lb ed="D" n="0001a10"/>肉飼鷹投身餓虎斫頭謝天朾骨出&CB05223;捥身
+<pb ed="D" id="D07.8779.0002a" n="0002a"/>
+<lb ed="D" n="0002a01"/>千燈挑眼布施剝皮書經&CB07810;心&CB00804;志燒身供
+<lb ed="D" n="0002a02"/>佛&CB07810;血灑地是事能忍不能誦十重四十八輕
+<lb ed="D" n="0002a03"/>不能一一&CB28265;師如法行不若不&CB28265;師教不復
+<lb ed="D" n="0002a04"/>為與受戒也又為師之法是出家菩&CB16765;僧
+<lb ed="D" n="0002a05"/>具&CB30133;五&CB18786;。</p>
+<lb ed="D" n="0002a06"/><list><item id="itemD07p0002a0601">一堅持淨戒</item><item id="itemD07p0002a0606">二年滿十臘</item><item id="itemD07p0002a0611">三善&CB17107;律&CB18911;</item><item id="itemD07p0002a0616">四妙通禪思</item>
+<lb ed="D" n="0002a07"/><item id="itemD07p0002a0701">五慧&CB18911;窮言　綜經善義　甚為師也</item></list>
+<lb ed="D" n="0002a08"/><p id="pD07p0002a0801">又為&CB05663;子之法受戒竟即&CB28265;師請戒本誦之
+<lb ed="D" n="0002a09"/>使利若有所不&CB17107;當問戒師同受學者綜
+<lb ed="D" n="0002a10"/>識戒相若輕若重也又欲自誓受戒者若千
+<lb ed="D" n="0002a11"/>里內無戒師得佛形像前自受戒自受三歸
+<lb ed="D" n="0002a12"/>自懺悔自受十戒與師受戒羯磨一種&CB07099;異但
+<lb ed="D" n="0002a13"/>出口為別也&CB05663;子亦誦十重四十八輕&CB21717;&CB07099;有
+<lb ed="D" n="0002a14"/>異&CB21890;來世同學菩&CB16765;道者詳而攬用共弘
+<lb ed="D" n="0002a15"/>大道龍華為期。</p></div1>
+<lb ed="D" n="0002a16"/><div1 type="other"><mulu type="其他" level="1" label="菩＆CB16765；戒序"/><head>菩&CB16765;戒序</head>
+<lb ed="D" n="0002a17"/><p id="pD07p0002a1701">諸大&CB18786;優婆塞優婆夷&CB21717;諦聽佛滅度
+<pb ed="D" id="D07.8779.0003a" n="0003a"/>
+<lb ed="D" n="0003a01"/>後於像法中唯應尊重&CB13251;敬波羅提木&CB01415;波
+<lb ed="D" n="0003a02"/>羅提木&CB01415;者即是此戒持此戒時如闇遇
+<lb ed="D" n="0003a03"/>&CB02772;如貧人得寶如病者得&CB25609;如囚繫出獄
+<lb ed="D" n="0003a04"/>如遠行得歸當知此則是眾&CB21717;大師若佛
+<lb ed="D" n="0003a05"/>在世&CB07099;異此也怖心難生善心難發故云莫
+<lb ed="D" n="0003a06"/>輕小罪以為無殃水滴雖&CB11180;漸盈大&CB15098;&CB09400;
+<lb ed="D" n="0003a07"/>&CB30839;造罪殃墜&CB07099;<app><lem wit="【CBETA】" resp="CBETA.maha">間</lem><rdg wit="【國圖】">閒</rdg></app>一身人身万&CB03637;不&CB11040;壯
+<lb ed="D" n="0003a08"/>色不停猶如奔馬人命&CB07099;常過於山水今
+<lb ed="D" n="0003a09"/>日雖存&CB02772;亦難保今政是時眾&CB21717;應當一
+<lb ed="D" n="0003a10"/>心各各勤脩精進慎勿懈怠&CB01900;&CB29794;睡眠&CB29793;意
+<lb ed="D" n="0003a11"/>夜則攝心存念三寶莫以空過&CB27686;失疲勞
+<lb ed="D" n="0003a12"/>後大深悔終無所得眾&CB21717;一一謹依此戒如
+<lb ed="D" n="0003a13"/>法修行。</p>
+<lb ed="D" n="0003a14"/><p id="pD07p0003a1401">諸大&CB18786;春分四月日一月日<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>過少一夜餘
+<lb ed="D" n="0003a15"/>有一夜三月日在老死至近佛法欲滅諸大
+<lb ed="D" n="0003a16"/>&CB18786;優婆塞優婆夷為得道故一心勤求精
+<lb ed="D" n="0003a17"/>進所以者何諸佛一心勤精進故得&CB07099;上菩
+<lb ed="D" n="0003a18"/>提何&CB00288;餘善道法各聞強健時弩力勤修善
+<pb ed="D" id="D07.8779.0004a" n="0004a"/>
+<lb ed="D" n="0004a01"/>如何不求道豈得&CB18813;心放逸欲何樂乎是日
+<lb ed="D" n="0004a02"/>已過命亦&CB18919;&CB13364;如少水魚斯有何樂此中未
+<lb ed="D" n="0004a03"/>受菩&CB16765;戒不清淨者<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>出眾今和合欲作何
+<lb ed="D" n="0004a04"/>事<note place="inline">如是三問</note>不來&CB21890;受菩&CB16765;有幾人&CB22072;欲及清淨
+<lb ed="D" n="0004a05"/>眾當一心聽。</p>
+<lb ed="D" n="0004a06"/><lg id="lgD07p0004a0601" type="abnormal"><l rend="text-indent:1em">持戒淨身口</l><l rend="text-indent:1em">攝心正憶念</l><l rend="text-indent:1em">多聞生實智</l><l rend="text-indent:1em">斯由戒為本</l>
+<lb ed="D" n="0004a07"/><l rend="text-indent:1em">戒為妙寶&CB18911;</l><l rend="text-indent:1em">亦為世七財</l><l rend="text-indent:1em">戒為大舟航</l><l rend="text-indent:1em">能度生死海</l>
+<lb ed="D" n="0004a08"/><l rend="text-indent:1em">戒為清淨池</l><l rend="text-indent:1em">澡浴諸熱惱</l><l rend="text-indent:1em">戒為如意珠</l><l rend="text-indent:1em">銷伏邪毒割</l>
+<lb ed="D" n="0004a09"/><l rend="text-indent:1em">戒為究竟伴</l><l rend="text-indent:1em">能過險&CB08891;道</l><l rend="text-indent:1em">戒為甘露門</l><l rend="text-indent:1em">眾聖之所遊</l>
+<lb ed="D" n="0004a10"/><l rend="text-indent:1em">持戒心不高</l><l rend="text-indent:1em">專精不放逸</l><l rend="text-indent:1em">不取正戒相</l><l rend="text-indent:1em">亦無邪念心</l>
+<lb ed="D" n="0004a11"/><l rend="text-indent:1em"><app><lem wit="【CBETA】" resp="CBETA.maha">是名清淨戒</lem><rdg wit="【國圖】">&unrec;&unrec;&unrec;&unrec;&unrec;</rdg></app></l><l rend="text-indent:1em"><app><lem wit="【CBETA】" resp="CBETA.maha">諸佛所稱讚</lem><rdg wit="【國圖】">&unrec;&unrec;&unrec;&unrec;&unrec;</rdg></app></l><l rend="text-indent:1em">戒為法城&CB00580;</l><l rend="text-indent:1em">能遮煩惱賊</l>
+<lb ed="D" n="0004a12"/><l rend="text-indent:1em">戒為勇猛將</l><l rend="text-indent:1em">摧伏魔軍眾</l><l rend="text-indent:1em">戒為如意珠</l><l rend="text-indent:1em">能與商人寶</l>
+<lb ed="D" n="0004a13"/><l rend="text-indent:1em">戒為妙樓觀</l><l rend="text-indent:1em">遊戲諸三<app><lem wit="【CBETA】" resp="CBETA.maha">昧</lem><rdg wit="【國圖】">&unrec;</rdg></app></l><l rend="text-indent:1em">持戒為平地</l><l rend="text-indent:1em">禪&CB30070;為屋宅</l>
+<lb ed="D" n="0004a14"/><l rend="text-indent:1em">空慧力莊嚴</l><l rend="text-indent:1em">万行為具&CB30133;</l><l rend="text-indent:1em">乃至成佛道</l><l rend="text-indent:1em">斯由戒為本</l>
+<lb ed="D" n="0004a15"/><l rend="text-indent:1em">是故有智人</l><l rend="text-indent:1em">堅心守護戒</l><l rend="text-indent:1em">寧喪失身命</l><l rend="text-indent:1em">慎勿有所犯</l>
+<lb ed="D" n="0004a16"/><l rend="text-indent:1em">合十指抓掌</l><l rend="text-indent:1em">供養釋師子</l><l rend="text-indent:1em">我今欲&CB22072;戒</l><l rend="text-indent:1em">眾當一心聽</l>
+<lb ed="D" n="0004a17"/><l rend="text-indent:1em">乃至小罪中</l><l rend="text-indent:1em">心應大怖畏</l><l rend="text-indent:1em">有罪一心悔</l><l rend="text-indent:1em">後更莫復犯</l>
+<lb ed="D" n="0004a18"/><l rend="text-indent:1em">心馬馳&CB08891;道</l><l rend="text-indent:1em">放逸難禁制</l><l rend="text-indent:1em">佛&CB22072;切戒行</l><l rend="text-indent:1em">亦如利轡勒</l>
+<pb ed="D" id="D07.8779.0005a" n="0005a"/>
+<lb ed="D" n="0005a01"/><l rend="text-indent:1em">佛口&CB22072;教戒</l><l rend="text-indent:1em">善者能信受</l><l rend="text-indent:1em">是人馬調順</l><l rend="text-indent:1em">能破煩惱軍</l>
+<lb ed="D" n="0005a02"/><l rend="text-indent:1em">若不受教&CB02637;</l><l rend="text-indent:1em">亦不受樂戒</l><l rend="text-indent:1em">是人馬不調</l><l rend="text-indent:1em">沒在煩惱軍</l>
+<lb ed="D" n="0005a03"/><l rend="text-indent:1em">若人守護戒</l><l rend="text-indent:1em">如&CB00339;牛愛尾</l><l rend="text-indent:1em">繫心不放逸</l><l rend="text-indent:1em">亦如猴&CB00473;<app><lem wit="【CBETA】" resp="CBETA.maha">&CB00430;</lem><rdg wit="【國圖】">漅</rdg></app></l>
+<lb ed="D" n="0005a04"/><l rend="text-indent:1em">日夜常精進</l><l rend="text-indent:1em">求寶智慧故</l><l rend="text-indent:1em">是人佛法中</l><l rend="text-indent:1em">能得清淨命</l></lg>
+<lb ed="D" n="0005a05"/><p id="pD07p0005a0501">諸大&CB18786;優婆塞優婆夷&CB21717;諦聽今月十五日
+<lb ed="D" n="0005a06"/>布&CB16765;&CB22072;優婆塞優婆夷菩&CB16765;戒眾當一心善
+<lb ed="D" n="0005a07"/>聽有罪者發路無罪者默然默然故當知諸
+<lb ed="D" n="0005a08"/>大&CB18786;清淨堪&CB22072;優婆塞優婆夷菩&CB16765;戒<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>
+<lb ed="D" n="0005a09"/>&CB22072;菩&CB16765;戒序竟今問諸大&CB18786;是中清淨不<note place="inline">如是三問</note>
+<lb ed="D" n="0005a10"/>諸大&CB18786;是中清淨默然故是事如是持菩&CB16765;
+<lb ed="D" n="0005a11"/>摩訶&CB16765;行住坐臥於四威儀慈悲喜&CB22057;四&CB21717;
+<lb ed="D" n="0005a12"/>六度怨親無隔猶如赤子財法二施&CB21717;&CB07099;差
+<lb ed="D" n="0005a13"/>別。</p>
+<lb ed="D" n="0005a14"/><p id="pD07p0005a1401">菩&CB16765;行<app><lem wit="【CBETA】" resp="CBETA.maha">檀</lem><rdg wit="【國圖】">&unrec;</rdg></app>波羅蜜時&CB18813;布施得度&CB30227;餓鬼道
+<lb ed="D" n="0005a15"/>以慳貪不布施多有求欲不知猒&CB30133;&CB18944;餓鬼
+<lb ed="D" n="0005a16"/>道中去是故應&CB00824;檀波羅蜜&CB22057;滅餓鬼道。</p>
+<lb ed="D" n="0005a17"/><p id="pD07p0005a1701">菩&CB16765;行尸波羅蜜時&CB28265;持戒得度&CB30227;地獄
+<lb ed="D" n="0005a18"/>道以破戒罪&CB18944;地獄道中去是故應&CB00824;尸
+<lb ed="D" n="0005a19"/>波羅蜜&CB22057;滅地獄道。</p>
+<lb ed="D" n="0005a20"/><p id="pD07p0005a2001">菩&CB16765;行羼提波羅蜜時&CB28265;忍辱得度&CB30227;畜</p></div1>
+</body></text></TEI.2>

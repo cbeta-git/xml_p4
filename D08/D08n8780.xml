@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "D08n8780.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Selections from the Taipei National Central Library Buddhist Rare Book Collection, Electronic version, No. 8780 小鈔</title>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.4 $ (Big5)<date>$Date: 2011/06/29 01:31:06 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2011/06/29 01:31:06 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Selections from the Taipei National Central Library Buddhist Rare Book Collection Vol. 08, No. 8780 &desc;</bibl>
+		<p>唐人寫卷子本</p>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p lang="chi" type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2011/06/15 15:36:07</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: D08n8780.xml,v $
+Revision 1.4  2011/06/29 01:31:06  amtbgrace
+modified: 拿掉前次修改新增的段落標記
+
+Revision 1.3  2011/06/28 09:03:28  amtbgrace
+modified: 修改 p0005a15 標記 sp 後接段標記 p
+
+Revision 1.2  2011/06/27 10:10:39  amtbgrace
+modified: 按比對差異修訂錯誤標記
+
+Revision 1.1  2011/06/16 06:01:56  amtbgrace
+modified: 執行 basicx.bat  將 bm 轉 xml
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="D" id="D08.8780.0001a" n="0001a"/>
+<lb ed="D" n="0001a01"/><milestone unit="juan" n="1"/><mulu type="卷" n="1"/><juan fun="open" n="1"><jhead>小鈔一卷</jhead></juan>
+<lb ed="D" n="0001a02"/><div1><p id="pD08p0001a0201">&CB21868;欲發起先知教至歸三藏&unrec;…&unrec;
+<lb ed="D" n="0001a03"/>多羅&CB18911;<note place="inline">此云經藏</note>二毗柰耶&CB18911;<note place="inline">此云律&CB18911;&unrec;…&unrec;</note>。</p>
+<lb ed="D" n="0001a04"/><p id="pD08p0001a0401">今此四分戒本三&CB18911;之中&unrec;毗尼&CB18911;&unrec;…&unrec;。</p>
+<lb ed="D" n="0001a05"/><list><item id="itemD08p0001a0501">一名為戒<note place="inline">若就教釋防非為戒若就&unrec;…&unrec;&CB08891;為戒又單釋防非止&CB08891;名&unrec;…&unrec;
+<lb ed="D" n="0001a06"/>律又釋詮量輕重&CB00804;&CB07589;是非名之為律若就行釋調伏&CB12919;鎔以之為律</note></item><item id="itemD08p0001a0628">三&unrec;…&unrec;
+<lb ed="D" n="0001a07"/><note place="inline">若就教釋此是解縛之法依而出家者&unrec;…&unrec;故云彼〃解脫也若就行釋&unrec;縳之心念〃之中&unrec;…&unrec;
+<lb ed="D" n="0001a08"/>&unrec;羈縳念〃離塵染名木叉</note></item><item id="itemD08p0001a0812">四名毗&CB00112;<note place="inline">&unrec;是&unrec;…&unrec;
+<pb ed="D" id="D08.8780.0002a" n="0002a"/>
+<lb ed="D" n="0002a01"/>&CB07589;除生死苦盡&CB07099;為淡泊故名為滅又釋滅除生死盡諸苦&CB10318;故云毗尼</note></item></list><p id="pD08p0002a0129" place="inline">此毗&CB00112;&CB18911;世尊&unrec;…&unrec;
+<lb ed="D" n="0002a02"/>傳臨涅槃時以此律&CB18911;付&CB21890;優波離滅度&unrec;…&unrec;
+<lb ed="D" n="0002a03"/>訶迦葉涅槃付&CB21890;阿難滅度付&CB21890;高&unrec;…&unrec;
+<lb ed="D" n="0002a04"/>修涅槃付&CB21890;優波&CB00545;多<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">己</rdg></app>上五大師佛法皆同一味
+<lb ed="D" n="0002a05"/>後&CB00545;多有五&CB05663;子各&CB15137;生異見遂分為五。</p>
+<lb ed="D" n="0002a06"/><list><item id="itemD08p0002a0601">一名&CB16765;婆多即十誦律主是也</item><item id="itemD08p0002a0613">二名曇無得即四分律主是</item>
+<lb ed="D" n="0002a07"/><item id="itemD08p0002a0701">三名&CB12752;沙塞即五分律主是也</item><item id="itemD08p0002a0713">四名婆&CB00308;富那即僧祇律
+<lb ed="D" n="0002a08"/>主是也</item><item id="itemD08p0002a0804">五名迦葉毗律本未來漢地也</item></list><p id="pD08p0002a0816" place="inline">今此四分律主
+<lb ed="D" n="0002a09"/>即曇無&CB18786;部是此是梵語唐言法正部也。</p>
+<lb ed="D" n="0002a10"/><div2 type="note"><entry><form>得戒有十種</form><def><list><item id="itemD08p0002a1006">一自然得戒唯佛</item><item id="itemD08p0002a1013">二自誓得戒謂大迦
+<lb ed="D" n="0002a11"/>葉</item><item id="itemD08p0002a1102">三見諦得戒謂五俱輪&CB21717;五比丘</item><item id="itemD08p0002a1115">四善來得戒謂耶
+<lb ed="D" n="0002a12"/>&CB22064;&CB21717;</item><item id="itemD08p0002a1203">五三語得戒謂佛在世未制戒前但受三歸即得
+<lb ed="D" n="0002a13"/>具&CB30133;</item><item id="itemD08p0002a1303">六問荅得戒謂&CB00824;&CB00442;耶沙&CB12752;年始七&CB15329;佛問
+<pb ed="D" id="D08.8780.0003a" n="0003a"/>
+<lb ed="D" n="0003a01"/>其義一具荅稱可聖心便發具&CB30133;</item><item id="itemD08p0003a0114">七八敬得戒謂大
+<lb ed="D" n="0003a02"/>愛道&CB30130;阿難聞八法<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">己</rdg></app>歡喜頂受便發具&CB30133;八敬者
+<lb ed="D" n="0003a03"/>百罵舉授懺請安自</item><item id="itemD08p0003a0309">八遣使得戒謂半&unrec;…&unrec;
+<lb ed="D" n="0003a04"/>有其難緣差使&CB00855;戒即得具&CB30133;</item><item id="itemD08p0003a0413">九羯磨&unrec;…&unrec;
+<lb ed="D" n="0003a05"/>十僧&CB30848;法</item><item id="itemD08p0003a0505">十邊方五人授大戒</item></list><p id="pD08p0003a0513" place="inline">已前九種&unrec;…&unrec;
+<lb ed="D" n="0003a06"/>世羯磨一法教通&CB21868;聖被及僧&CB00112;說羅現未&unrec;…&unrec;
+<lb ed="D" n="0003a07"/>法。</p></def></entry></div2><dialog type="qa"><sp type="question"><p id="pD08p0003a0702" place="inline">問羯磨受戒具&CB30133;幾緣得名如法。</p></sp><sp type="answer"><p id="pD08p0003a0715" place="inline">荅依僧祇&unrec;…&unrec;
+<lb ed="D" n="0003a08"/>&CB10318;緣。</p><list><item id="itemD08p0003a0803">一年滿廿三衣&CB00425;具</item><item id="itemD08p0003a0811">二身&CB07099;遮難</item><item id="itemD08p0003a0816">三結界&unrec;…&unrec;
+<lb ed="D" n="0003a09"/>四界內&CB16487;集</item><item id="itemD08p0003a0906">五羯磨成就</item><item id="itemD08p0003a0911">六十僧滿&CB30133;</item></list><p id="pD08p0003a0916" place="inline">&CB09113;此&unrec;…&unrec;
+<lb ed="D" n="0003a10"/>如法闕一不成。</p></sp></dialog><dialog type="qa"><sp type="question"><p id="pD08p0003a1007" place="inline">問界有幾種。</p></sp><sp type="answer"><p id="pD08p0003a1012" place="inline">荅。</p><list><item id="itemD08p0003a1013">一者&CB30848;法界</item><item id="itemD08p0003a1018"><app><lem wit="【CBETA】" resp="CBETA.maha">二者僧</lem><rdg wit="【國圖】">&unrec;&unrec;&unrec;</rdg></app>
+<lb ed="D" n="0003a11"/>界</item></list><p id="pD08p0003a1102" place="inline">&CB30848;法有三。</p><list><item id="itemD08p0003a1106">一者攝僧界</item><item id="itemD08p0003a1111">二攝衣界</item><item id="itemD08p0003a1115">三攝食界</item></list>
+<lb ed="D" n="0003a12"/><p id="pD08p0003a1201">僧界有三種。</p><list><item id="itemD08p0003a1206">一者大界</item><item id="itemD08p0003a1210">二者界&CB00588;</item><item id="itemD08p0003a1214">三者小界</item></list><p id="pD08p0003a1218" place="inline">今&unrec;&unrec;
+<lb ed="D" n="0003a13"/>之內又有三種謂。</p><list><item id="itemD08p0003a1308">人法二同界</item><item id="itemD08p0003a1313">法食二同界</item><item id="itemD08p0003a1318">法同食
+<lb ed="D" n="0003a14"/>別界</item></list><p id="pD08p0003a1403" place="inline">若就自然界中者則分四別。</p><list><item id="itemD08p0003a1414">一者謂聚落界</item>
+<lb ed="D" n="0003a15"/><item id="itemD08p0003a1501">二者蘭若界</item><item id="itemD08p0003a1506">三者道行界</item><item id="itemD08p0003a1511">四者木界</item></list></sp></dialog><dialog type="qa"><sp type="question"><p id="pD08p0003a1515" place="inline">問羯磨有
+<pb ed="D" id="D08.8780.0004a" n="0004a"/>
+<lb ed="D" n="0004a01"/>幾種。</p></sp><sp type="answer"><p id="pD08p0004a0103" place="inline">荅有一百卅四種。</p><list><item id="itemD08p0004a0110">單自羯磨有卅九</item><item id="itemD08p0004a0117">白二羯磨
+<lb ed="D" n="0004a02"/>有五十七</item><item id="itemD08p0004a0205">自四羯磨卅八</item></list><p id="pD08p0004a0211" place="inline">此三羯磨攝一切羯皆&CB16487;。</p></sp></dialog>
+<lb ed="D" n="0004a03"/><div2 type="note"><entry><form>明五篇法</form><def><list><item id="itemD08p0004a0305">一波羅夷篇<note place="inline">&CB02649;是西音此云&CB07099;餘若犯此戒永&CB00020;眾外故曰&CB07099;餘不得与僧同行布&CB16765;羯磨&CB00020;
+<lb ed="D" n="0004a04"/>在界外故云餘&CB07099;</note></item><item id="itemD08p0004a0408">二僧伽婆尸沙篇<note place="inline">此云僧殘若犯此戒行則毀&CB21897;不應在布&CB16765;羯磨眾中之&CB21092;行類其人故名僧殘</note></item>
+<lb ed="D" n="0004a05"/><item id="itemD08p0004a0501">三名波逸提篇<note place="inline">此云方&CB18944;若犯此戒&CB18944;落地獄燒&CB00827;覆障故云&CB18944;也</note></item><item id="itemD08p0004a0527">四名波羅提提&CB22064;&CB00112;篇<note place="inline">此云向彼悔
+<lb ed="D" n="0004a06"/>若犯此戒事合可呵對手懺悔故云向彼悔</note></item><item id="itemD08p0004a0618">五名式叉迦羅&CB00112;篇<note place="inline">此方云應當學威儀練行懃習方成故云應當學</note></item></list></def></entry>
+<lb ed="D" n="0004a07"/><entry><form>此明七聚法</form><def><list><item id="itemD08p0004a0706">一波羅夷聚</item><item id="itemD08p0004a0711">二僧伽婆尸沙聚</item><item id="itemD08p0004a0718">三偷蘭遮
+<lb ed="D" n="0004a08"/>聚<note place="inline">此是梵語唐言&CB00308;&CB08891;亦云遮障偷言遮障蘭言鄣若犯此罪大遮障聖道故云遮障法偷蘭有四一五&CB01618;偷蘭應滅&CB04912;不可除二初篇下重
+<lb ed="D" n="0004a09"/>偷蘭應八僧中悔三初篇下輕偷蘭二篇下重偷蘭應四僧中懺四獨頭蘭遮及餘篇下偷蘭應三僧中悔</note></item><item id="itemD08p0004a0942">四波逸提聚</item>
+<lb ed="D" n="0004a10"/><item id="itemD08p0004a1001">五波羅提提&CB22064;&CB00112;聚</item><item id="itemD08p0004a1009">六突吉羅聚</item><item id="itemD08p0004a1014">七&CB08891;說聚<note place="inline">突吉羅者義翻
+<lb ed="D" n="0004a11"/>云&CB08891;作突者名&CB08891;吉羅名作&CB08891;不止故名突吉羅所云蹉跦身作名&CB08891;口作名說故云&CB08891;&CB30848;&CB08891;&CB22072;突吉羅此二聚罪若故犯者應對手懺若&CB00386;犯應責懺</note></item></list></def></entry></div2>
+<lb ed="D" n="0004a12"/><dialog type="qa"><sp type="question"><p id="pD08p0004a1201">問欲戒具幾緣成犯。</p></sp><sp type="answer"><p id="pD08p0004a1209" place="inline">荅具四緣。</p><list><item id="itemD08p0004a1213">一前境是女人</item><item id="itemD08p0004a1219">二興染心</item>
+<pb ed="D" id="D08.8780.0005a" n="0005a"/>
+<lb ed="D" n="0005a01"/><item id="itemD08p0005a0101">三起方便</item><item id="itemD08p0005a0105">四与境合便犯</item></list></sp></dialog><dialog type="qa"><sp type="question"><p id="pD08p0005a0111" place="inline">問盜戒具幾緣成犯。</p></sp><sp type="answer"><p id="pD08p0005a0119" place="inline">荅具六緣成犯。</p>
+<lb ed="D" n="0005a02"/><list><item id="itemD08p0005a0201">有一主&CB21980;</item><item id="itemD08p0005a0205">二有主想</item><item id="itemD08p0005a0209">三有盜心</item><item id="itemD08p0005a0213">四重&CB21980;</item><item id="itemD08p0005a0216">五興方便</item><item id="itemD08p0005a0220">六離
+<lb ed="D" n="0005a03"/>本&CB30529;便犯</item></list></sp></dialog><dialog type="qa"><sp type="question"><p id="pD08p0005a0305" place="inline">問煞戒具幾緣。</p></sp><sp type="answer"><p id="pD08p0005a0311" place="inline">荅具五緣。</p><list><item id="itemD08p0005a0315">一是人</item><item id="itemD08p0005a0318">二人想</item>
+<lb ed="D" n="0005a04"/><item id="itemD08p0005a0401">三興&CB00517;</item><item id="itemD08p0005a0404">四起方便</item><item id="itemD08p0005a0408">五&CB07589;命根</item></list></sp></dialog><dialog type="qa"><sp type="question"><p id="pD08p0005a0412" place="inline">問大妄語戒具幾緣。</p></sp>
+<lb ed="D" n="0005a05"/><sp type="answer"><p id="pD08p0005a0501">荅具八緣成犯。</p><list><item id="itemD08p0005a0507">一前境是人</item><item id="itemD08p0005a0512">二人想</item><item id="itemD08p0005a0515">三事&CB28933;</item><item id="itemD08p0005a0518">四知是&CB28933;
+<lb ed="D" n="0005a06"/>事</item><item id="itemD08p0005a0602">五有誑他心</item><item id="itemD08p0005a0607">六自言已得</item><item id="itemD08p0005a0612">七言&CB08256;了了</item><item id="itemD08p0005a0617">八前人知解</item></list></sp></dialog>
+<lb ed="D" n="0005a07"/><dialog type="qa"><sp type="question"><p id="pD08p0005a0701">問僧有幾種。</p></sp><sp type="answer"><p id="pD08p0005a0706" place="inline">荅四種。</p><list><item id="itemD08p0005a0709">一者四人僧<note place="inline">除授戒自恣出罪銓一切羯磨應作</note></item>
+<lb ed="D" n="0005a08"/><item id="itemD08p0005a0801">二者五人僧<note place="inline">除中國授戒出罪餘法得作</note></item><item id="itemD08p0005a0817">三者十人僧<note place="inline">除出罪餘法作</note></item><item id="itemD08p0005a0828">四者廿人僧<note place="inline">一切羯磨得作現復更多</note></item></list></sp></dialog>
+<lb ed="D" n="0005a09"/><dialog type="qa"><sp type="question"><p id="pD08p0005a0901">問菩&CB16765;戒中煞先&CB21942;後何故聲聞戒中&CB21942;先煞後。</p></sp><sp type="answer"><p id="pD08p0005a0920" place="inline">荅菩&CB16765;
+<lb ed="D" n="0005a10"/>為大慈為本是以煞戒為初聲聞以梵行為機是以欲戒
+<lb ed="D" n="0005a11"/>為首。</p></sp></dialog><div2 type="note"><entry place="inline"><form>受衣法</form><def><p id="pD08p0005a1106" place="inline" rend="margin-left:1em">若不持三衣入聚落者得無量罪世世
+<lb ed="D" n="0005a12"/>裸形無有衣服若不串&CB00424;細入佫人家家得罪若食飲
+<lb ed="D" n="0005a13"/>時&CB09727;得罪。</p></def></entry></div2><dialog type="qa"><sp type="question"><p id="pD08p0005a1305" place="inline">問云何名為三衣六&CB21980;。</p></sp><sp type="answer"><list><item id="itemD08p0005a1314"><app><lem wit="【CBETA】" resp="CBETA.maha">一名安陀會</lem><rdg wit="【國圖】"></rdg></app><note place="inline">有四種一割截二攝業三褋&CB01007;四縵作一長一短割截衣持餘三累此改持</note></item>
+<lb ed="D" n="0005a14"/><item id="itemD08p0005a1401">二名&CB00614;多羅僧<note place="inline">有二種一割截二褋&CB01007;二長一短即是七條衣受割截衣持若餘衣准此</note></item><item id="itemD08p0005a1435">三名僧伽梨<note place="inline">此衣有十
+<lb ed="D" n="0005a15"/>八種謂割截褋&CB01007;各九品若受上衣廿五條四長一短割截衣持若是褋&CB01007;條&CB21092;准上褋&CB01007;衣持若中品三長一短若是下品二長一短</note></item></list></sp></dialog>
+<pb ed="D" id="D08.8780.0006a" n="0006a"/>
+<lb ed="D" n="0006a01"/><div2 type="note"><entry><form>授衣文</form><def><p id="pD08p0006a0104" place="inline" rend="margin-left:1em">大&CB18786;一心念&CB22329;比丘某甲此&CB00614;多羅僧七條衣受兩長
+<lb ed="D" n="0006a02"/>一短割截衣持<note place="inline">三說若是餘衣及褋&CB01007;&CB00526;&CB01007;&CB21717;臨事准改受文同上</note>。</p></def></entry><entry place="inline"><form>&CB22057;衣文</form><def><p id="pD08p0006a0230" place="inline" rend="margin-left:1em">大&CB18786;一心念&CB22329;比
+<lb ed="D" n="0006a03"/>丘某甲此僧伽梨是&CB22329;三衣&CB21092;先受持今&CB22057;<note place="inline">一說下二衣及&CB00112;五衣&CB21717;&CB00824;&CB22057;亦&CB07414;</note>。</p></def></entry>
+<lb ed="D" n="0006a04"/><entry><form>授藥法</form><def><p id="pD08p0006a0404" place="inline" rend="margin-left:1em">藥有四種。</p><list><item id="itemD08p0006a0408">一時藥<note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">佉</lem><rdg wit="【國圖】">&unrec;</rdg></app>闍&CB00112;食有五種謂&CB00595;乾飯魚肉佉闍尼食梵音唐言枝&CB01007;花果細未食有五種一大淨二刀
+<lb ed="D" n="0006a05"/>淨三瘡淨四鳥喙淨五不中種淨此中火淨及子壞淨得并子食餘三去子食是時藥謂&CB30130;旦至中前食若欲授者先知食體後知餘藥准此</note>
+<lb ed="D" n="0006a06"/><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【國圖】">三非時藥<note place="inline">&CB16566;言蘇油生蘇蜜石蜜有病因緣應加授法</note></rdg></app></item>
+<lb ed="D" n="0006a07"/><item id="itemD08p0006a0701">二非時<app><lem wit="【CBETA】" resp="CBETA.maha">藥</lem><rdg wit="【國圖】"></rdg></app><note place="inline">謂八種漿梨棗&CB01823;&CB07404;&CB17544;蜜&unrec;石&CB22627;菴羅果&CB21717;討&CB30848;漿若有病緣&CB10881;清水渧淨加以授法得飲元病不得飲</note></item><item id="itemD08p0006a0745">三七日藥<note place="inline">&CB16566;言蘇油生蘇
+<lb ed="D" n="0006a08"/>蜜石蜜有病因緣加&unrec;法&CB10881;七日眼授法者大&CB18786;一心念&CB22329;比丘某甲今為熱風冷病&CB10318;緣比七日藥為欲宿眼故今於大&CB18786;邊授（三說）餘二時藥若有病患&CB10318;緣&CB00824;眼者臨事旦小法准
+<lb ed="D" n="0006a09"/>改授文同上</note></item><item id="itemD08p0006a0906">四盡形藥<note place="inline">&CB16566;言一切咸著享不堪為食者乃至&CB01926;土大小便&CB21717;若有病緣&CB10881;&CB15148;形眼亦&CB00824;手授加其口法得眼</note></item></list></def></entry><entry place="inline"><form>安居法</form><def><p id="pD08p0006a0951" place="inline" rend="margin-left:1em"><note place="inline">&CB30130;始及修
+<lb ed="D" n="0006a10"/>&CB01628;有四法謂人有五眾是法有四對手心念及界時有三前安居中安居後安居&CB30529;有二&CB30848;法界自然界</note>。</p></def></entry><entry place="inline"><form>對手安居法</form>
+<lb ed="D" n="0006a11"/><def><p id="pD08p0006a1101" rend="margin-left:1em">大&CB18786;一心念&CB22329;比丘某甲依<note place="inline">某聚落某伽藍&CB18919;事稱之</note>前三月夏安居房&CB22064;
+<lb ed="D" n="0006a12"/>破修持故<note place="inline">三說</note>彼告言汝莫放逸<note place="inline">荅言授持</note>。</p></def></entry></div2><dialog type="qa"><sp type="question"><p id="pD08p0006a1218" place="inline">問比丘義云何。</p></sp>
+<pb ed="D" id="D08.8780.0007a" n="0007a"/>
+<lb ed="D" n="0007a01"/><sp type="answer"><p id="pD08p0007a0101">荅有八種。</p><list><item id="itemD08p0007a0105">一名字比丘</item><item id="itemD08p0007a0110">二相似比丘</item><item id="itemD08p0007a0115">三自稱比丘</item><item id="itemD08p0007a0120">四&CB00855;求比丘</item>
+<lb ed="D" n="0007a02"/><item id="itemD08p0007a0201">五著割截衣比丘</item><item id="itemD08p0007a0208">六破結使比丘</item><item id="itemD08p0007a0214">七善來比丘</item><item id="itemD08p0007a0219">八白四羯
+<lb ed="D" n="0007a03"/>磨如法成就得&CB30529;所比丘</item></list></sp></dialog><div2 type="note"><entry place="inline"><form>四依法</form><def><list><item id="itemD08p0007a0314">一糞掃衣</item><item id="itemD08p0007a0318">二常&CB00855;食</item>
+<lb ed="D" n="0007a04"/><item id="itemD08p0007a0401">三樹下坐</item><item id="itemD08p0007a0405">四食腐爛藥</item></list></def></entry><entry place="inline"><form>糞掃衣十種</form><def><list><item id="itemD08p0007a0415">一牛嚼衣</item><item id="itemD08p0007a0419">二鼠
+<lb ed="D" n="0007a05"/>嚙衣</item><item id="itemD08p0007a0503">三火燒衣</item><item id="itemD08p0007a0507">四水</item><item id="itemD08p0007a0509">五立王衣</item><item id="itemD08p0007a0513">六神廟衣若鳥銜
+<lb ed="D" n="0007a06"/>風吹雜&CB30529;</item><item id="itemD08p0007a0605">七願衣</item><item id="itemD08p0007a0608">八塚間衣</item><item id="itemD08p0007a0612">九產衣</item><item id="itemD08p0007a0615">十往還衣</item></list></def></entry>
+<lb ed="D" n="0007a07"/><entry><form>僧物&CB18919;事立名&CB21868;有六種</form><def><list><item id="itemD08p0007a0711">一者十方僧&CB21980;<note place="inline">如僧家重&CB21980;及供眾受用食噉&CB21717;
+<lb ed="D" n="0007a08"/>&CB21980;體通十方上至羅漢沙&CB12752;&CB16487;皆有分&CB07099;有和合不淂賣買貸借与人及&CB30678;<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【國圖】">已</rdg></app>受用</note></item><item id="itemD08p0007a0833">二者常住僧&CB21980;
+<lb ed="D" n="0007a09"/><note place="inline">謂眾僧&CB00634;庫寺&CB22064;園田&unrec;便畜&CB21717;體道十方不可分用言常&unrec;在法&CB30529;不可移動四方僧來此&CB30529;受用&CB30130;物為名故稱常住</note></item>
+<lb ed="D" n="0007a10"/><item id="itemD08p0007a1001">三者十方現前<note place="inline">如亡僧物五眾依物未羯磨如前者十方現前僧若盜此物&CB30130;十方僧結罪</note></item><item id="itemD08p0007a1036">四者現現
+<lb ed="D" n="0007a11"/>前前<note place="inline">謂亡僧五眾物作羯磨了及有施大眾物法事聲&CB07589;差人守護眾僧未分故云現前僧&CB21980;</note></item><item id="itemD08p0007a1137">五招提僧&CB21980;<note place="inline">謂擅越施田園与
+<lb ed="D" n="0007a12"/>現前僧造&CB30678;房四方僧來&CB07099;安置&CB30529;佫人見已就法房邊更施田園中建立僧房与四方僧供給所&CB00824;由此房能招引四方僧故言招提僧&CB21980;或先造房僧迴<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【國圖】">已</rdg></app>房及
+<lb ed="D" n="0007a13"/>田園施四方僧亦云招提僧&CB21980;</note></item><item id="itemD08p0007a1313">六者僧&CB28231;&CB21980;<note place="inline">謂僧園中有花或賣花或已花&CB30848;&CB28231;出賣得&CB21980;&CB30130;&CB28231;&CB15995;&CB21980;故名僧&CB28231;&CB21980;</note></item></list></def></entry>
+<pb ed="D" id="D08.8780.0008a" n="0008a"/>
+<lb ed="D" n="0008a01"/><entry><form>有四種妄語</form><def><list><item id="itemD08p0008a0106">一波羅夷妄語</item><item id="itemD08p0008a0112">二僧殘妄語</item><item id="itemD08p0008a0117">三波逸提妄
+<lb ed="D" n="0008a02"/>語</item><item id="itemD08p0008a0202">四阿毗波羅妄語</item></list></def></entry><entry place="inline"><form>口有四威儀語</form><def><list><item id="itemD08p0008a0215">一者常&CB30848;法語</item>
+<lb ed="D" n="0008a03"/><item id="itemD08p0008a0301">二常&CB30848;正直實語</item><item id="itemD08p0008a0308">三常&CB30848;和合語</item><item id="itemD08p0008a0314">四常&CB30848;柔軟悅意
+<lb ed="D" n="0008a04"/>語</item></list></def></entry><entry place="inline"><form>慳有五種</form><def><list><item id="itemD08p0008a0406">一慳財</item><item id="itemD08p0008a0409">二慳法</item><item id="itemD08p0008a0412">三慳家</item><item id="itemD08p0008a0415">四慳&CB30529;</item><item id="itemD08p0008a0418">五慳
+<lb ed="D" n="0008a05"/>讚</item></list></def></entry><entry place="inline"><form><app><lem wit="【CBETA】" resp="CBETA.maha">明</lem><rdg wit="【國圖】">朋</rdg></app>四分義</form><def><p id="pD08p0008a0506" place="inline" rend="margin-left:1em">四者&CB21092;也分者&CB00556;也世尊在世四度昇座
+<lb ed="D" n="0008a06"/>說此律故名四分又云梵夷四&CB09682;故名四分<note place="inline">此四分律通其六釋今且明一解四分即律律即四
+<lb ed="D" n="0008a07"/>分六釋之中是&unrec;&CB21092;釋也</note>今依律本。</p><list><item id="itemD08p0008a0715">&CB30130;初至僧戒末名為初分</item><item id="itemD08p0008a0725">至尼
+<lb ed="D" n="0008a08"/>戒終名為&CB05663;二分</item><item id="itemD08p0008a0808">&CB30130;安居&CB00735;度至房&CB22064;<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>前名為&CB05663;三分</item>
+<lb ed="D" n="0008a09"/><item id="itemD08p0008a0901">&CB30130;房&CB22064;揵度至律本末名為&CB05663;四分</item></list></def></entry>
+<lb ed="D" n="0008a10"/><entry><form>持戒得十種利</form><def><p id="pD08p0008a1007" place="inline" rend="margin-left:1em"><note place="inline">一攝取於僧二令僧歡喜三令僧安樂四未信者令信五已信者令增長六難調者令調七漸塊者安樂
+<lb ed="D" n="0008a11"/>八&CB07589;現在有漏九&CB07589;未來有漏十令正法得久住</note>。</p></def></entry><entry place="inline"><form>十二頭&CB00442;法</form><def><p id="pD08p0008a1125" place="inline" rend="margin-left:1em"><note place="inline">頭者少欲&CB00442;名知&CB30133;升藪煩惱離於住著故曰頭&CB00442;</note>。</p>
+<lb ed="D" n="0008a12"/><list><item id="itemD08p0008a1201">一持糞掃衣</item><item id="itemD08p0008a1206">二持三衣</item><item id="itemD08p0008a1210">三持&CB18919;衣</item><item id="itemD08p0008a1214">四常&CB00855;食</item><item id="itemD08p0008a1218">五一&CB29802;
+<lb ed="D" n="0008a13"/>食</item><item id="itemD08p0008a1302">六一坐食</item><item id="itemD08p0008a1306">七不作餘食法</item><item id="itemD08p0008a1312">八樹下坐</item><item id="itemD08p0008a1316">九塚間坐</item>
+<pb ed="D" id="D08.8780.0009a" n="0009a"/>
+<lb ed="D" n="0009a01"/><item id="itemD08p0009a0101">十露地坐</item><item id="itemD08p0009a0105">十一&CB18919;&CB30529;坐</item><item id="itemD08p0009a0110">十二常坐不臥</item></list><p id="pD08p0009a0116" place="inline" rend="margin-left:1em"><note place="inline">法十二持衣有三食法有四&CB30529;所
+<lb ed="D" n="0009a02"/>有五行人於此衣食&CB30529;所心&CB07099;染著積緣進道更不思&CB00824;</note>。</p></def></entry>
+<lb ed="D" n="0009a03"/><entry><form>檀越施物&CB21868;有八種</form><def><list><item id="itemD08p0009a0309">一施比丘僧物<note place="inline">唯屬比丘現前人分</note></item><item id="itemD08p0009a0323">二施
+<lb ed="D" n="0009a04"/>比丘&CB00112;物<note place="inline">唯屬現前比丘&CB00112;&CB21092;人分</note></item><item id="itemD08p0009a0415">三施二部僧&CB21980;莫問人&CB21092;多
+<lb ed="D" n="0009a05"/>少分&CB21980;作二分一分僧&CB30246;一分付&CB00112;眾各於當部自&CB21092;人分
+<lb ed="D" n="0009a06"/>之</item><item id="itemD08p0009a0602">四施四方僧得施&CB21980;來者皆得應作羯磨分正不得与
+<lb ed="D" n="0009a07"/>&CB00112;同作羯磨若施招提僧不&CB00824;作法</item><item id="itemD08p0009a0715">五界內僧得施
+<lb ed="D" n="0009a08"/>物唯&CB06473;住&CB30529;僧入界皆得但取施主為&CB30070;</item><item id="itemD08p0009a0817">六施同羯
+<lb ed="D" n="0009a09"/>磨僧得施&CB21980;唯一&CB30529;同作法者分之</item><item id="itemD08p0009a0915">七施稱名字僧
+<lb ed="D" n="0009a10"/>得施若言施禪師法師律師&CB00057;願師差病僧&CB21717;不問
+<lb ed="D" n="0009a11"/>親&CB00565;</item><item id="itemD08p0009a1103">八眾中一僧得施&CB21980;&CB30130;上座行之&CB18919;取者与</item></list>
+<lb ed="D" n="0009a12"/><p id="pD08p0009a1201" rend="margin-left:1em">&CB18919;擅越所有&CB22057;施依此八法分之若&CB07099;&CB30070;分上座應問
+<lb ed="D" n="0009a13"/>於何&CB21717;施若不依此八法則不得施僧之福若不依此八
+<lb ed="D" n="0009a14"/>法而受則輕&CB02167;信施違犯&CB30529;深應差五得分之好&CB08891;
+<lb ed="D" n="0009a15"/>相&CB07694;令不見者擲籌餘人不得&CB07455;語利養難消貧富
+<pb ed="D" id="D08.8780.0010a" n="0010a"/>
+<lb ed="D" n="0010a01"/>不在此莫生嫌恨&CB02649;人至行也出家之人不得迴施入<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【國圖】">巳</rdg></app>若
+<lb ed="D" n="0010a02"/>欲迴者其罪甚重應如法施如法受如法求如法与
+<lb ed="D" n="0010a03"/>如法用如法住。</p></def></entry></div2><dialog type="qa"><sp type="question"><p id="pD08p0010a0307" place="inline">問律以何為宗以何為體。</p></sp><sp type="answer"><p id="pD08p0010a0317" place="inline">荅以戒為宗
+<lb ed="D" n="0010a04"/>諸說不同依東&CB30259;&CB00562;以戒為宗律以何為體者
+<lb ed="D" n="0010a05"/>荅合是諸業為體任意取&CB22057;十一&CB30529;中以法為體
+<lb ed="D" n="0010a06"/>依經部以不相應為體依有部以色為體俱是法
+<lb ed="D" n="0010a07"/>&CB30529;攝。</p></sp></dialog><dialog type="qa"><sp type="question"><p id="pD08p0010a0703" place="inline">問律儀有幾種。</p></sp><sp type="answer"><p id="pD08p0010a0709" place="inline">荅有四種。</p><list><item id="itemD08p0010a0713">一靜慮律儀
+<lb ed="D" n="0010a08"/>是色界尸羅</item><item id="itemD08p0010a0806">二無漏律儀為無漏身中所起尸羅</item>
+<lb ed="D" n="0010a09"/><item id="itemD08p0010a0901">三&CB07589;律儀為&CB07589;煩&CB08974;名&CB07589;律儀</item><item id="itemD08p0010a0913">四別&CB07589;解脫律<app><lem wit="【CBETA】" resp="CBETA.maha">儀</lem><rdg wit="【國圖】">&unrec;</rdg></app>為
+<lb ed="D" n="0010a10"/>欲界尸羅為別〃防非名別解脫律儀</item></list></sp></dialog><div2 type="note"><entry place="inline"><form>客舊相遇</form>
+<lb ed="D" n="0010a11"/><def><p id="pD08p0010a1101" rend="margin-left:1em">昔大師在日親為教主客苾茤至自唱善來又復西方寺眾
+<lb ed="D" n="0010a12"/>多為制法凡見新來無論客舊及弟子門人舊人即&CB00824;
+<lb ed="D" n="0010a13"/>迎前唱莎揭哆譯曰善來客乃尋聲即云窣莎揭哆
+<lb ed="D" n="0010a14"/>譯曰極善來如不說者壁牙一違寺制二准律有犯無
+<lb ed="D" n="0010a15"/>問大小&CB01556;皆如此即為&CB30246;取瓶&CB00425;搖在壁牙&CB18919;&CB30529;安令其
+<pb ed="D" id="D08.8780.0011a" n="0011a"/>
+<lb ed="D" n="0011a01"/>&CB29801;息&CB24171;白屏&CB30529;尊乃房前卑則敬上而熟搦其
+<lb ed="D" n="0011a02"/>踹後及遍身尊乃撫下而頻按其背不至&CB01594;&CB30133;
+<lb ed="D" n="0011a03"/>齊年之類事無間然既解疲勞方澡手濯&CB30133;次
+<lb ed="D" n="0011a04"/>就尊所申其&CB17716;教但為一&CB17716;&CB00562;而按&CB30133;尊乃展其右
+<lb ed="D" n="0011a05"/>手撫彼肩背若別非經久手撫不不為師乃問其安
+<lb ed="D" n="0011a06"/>不弟子&CB18919;事見荅然後在退一邊恭敬而坐實無
+<lb ed="D" n="0011a07"/>立法然西方軌則多坐小拈&CB11040;皆露&CB30133;東
+<lb ed="D" n="0011a08"/>夏既無斯事執&CB30133;禮不行怪&CB22072;人而來至&CB16566;所頂&CB17716;雙
+<lb ed="D" n="0011a09"/>&CB30133;退坐一&CB10009;即其儀矣然後釋其時&CB07419;恭給湯飲
+<lb ed="D" n="0011a10"/>&CB01939;蜜沙糖飲噉&CB18919;意或餘八漿並&CB00824;羅濾澄清
+<lb ed="D" n="0011a11"/>方飲如兼濁滓此&CB30070;不開杏湯之流體是稠濁准
+<lb ed="D" n="0011a12"/>依道理全非飲限律云凡漿淨濾色如黃荻此謂西國
+<lb ed="D" n="0011a13"/>師弟門徒客舊相遇逄&CB02956;之&CB17716;豈冒寒創至觸
+<lb ed="D" n="0011a14"/>熱新來或遍體<app><lem wit="【CBETA】" resp="CBETA.maha">汗</lem><rdg wit="【國圖】">汙</rdg></app>流或手&CB30133;皆凍放&CB30037;衣<app><lem wit="【CBETA】" resp="CBETA.maha">襆</lem><rdg wit="【國圖】">慔</rdg></app>急事
+<pb ed="D" id="D08.8780.0012a" n="0012a"/>
+<lb ed="D" n="0012a01"/>和尚情狀&CB00784;忙深乖軌式師乃立之閑問餘事誠
+<lb ed="D" n="0012a02"/>&CB21972;太急將為紹隆言和尚者梵云畔睇或云畔憚南
+<lb ed="D" n="0012a03"/>譯為敬&CB17716;但為採語不真喚和南矣不能移舊
+<lb ed="D" n="0012a04"/>且道和南的取正音應云畔<app><lem wit="【CBETA】" resp="CBETA.maha">睇</lem><rdg wit="【國圖】">&CB02840;</rdg></app>又道行眾集&CB17716;拜
+<lb ed="D" n="0012a05"/>非儀合掌&CB07554;頭口云畔睇故經云或復但合掌乃
+<lb ed="D" n="0012a06"/>至小&CB07554;頭即是&CB30191;敬也南人不審依希合度向使改
+<lb ed="D" n="0012a07"/>不審為畔<app><lem wit="【CBETA】" resp="CBETA.maha">睇</lem><rdg wit="【國圖】">&CB02840;</rdg></app>斯乃全同律教矣。</p></def></entry></div2>
+<lb ed="D" n="0012a08"/><juan fun="close" n="1"><jhead>小鈔一卷</jhead></juan>
+<pb ed="D" id="D08.8780.0013a" n="0013a"/>
+<lb ed="D" n="0013a01"/><div2 type="w"><p id="pD08p0013a0101">&CB09458;&CB29803;貳年四月十七日納色判官孫興晟分配如後。</p>
+<lb ed="D" n="0013a02"/><list><item id="itemD08p0013a0201">燉煌</item>
+<lb ed="D" n="0013a03"/><item id="itemD08p0013a0301">莫高</item>
+<lb ed="D" n="0013a04"/><item id="itemD08p0013a0401">神沙</item>
+<lb ed="D" n="0013a05"/><item id="itemD08p0013a0501">平康</item>
+<lb ed="D" n="0013a06"/><item id="itemD08p0013a0601">洪池</item>
+<lb ed="D" n="0013a07"/><item id="itemD08p0013a0701">王開</item>
+<lb ed="D" n="0013a08"/><item id="itemD08p0013a0801">&CB29804;</item>
+<lb ed="D" n="0013a09"/><item id="itemD08p0013a0901">慈&CB31157;</item>
+<lb ed="D" n="0013a10"/><item id="itemD08p0013a1001">&CB00283;穀</item></list></div2></div1>
+</body></text></TEI.2>

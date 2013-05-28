@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "I01n0097.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selections of Buddhist Stone Rubbings from the Northern Dynasties, Electronic version, No. 0097 瓽仲義八十人等造像記</title>
+                <author>顏娟英主編</author>
+                <respStmt>
+                    <resp>Electronic Version by</resp>
+                    <name>CBETA and DDBC</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>$Revision: 1.6 $<date>$Date: 2011/05/19 01:44:08 $</date></edition>
+            </editionStmt>
+            <extent>1卷</extent>
+            <publicationStmt>
+                <distributor>
+                    <name>中華電子佛典協會 (CBETA)</name>
+                    <address>
+                        <addrLine>service@cbeta.org</addrLine>
+                    </address>
+                </distributor>
+                <availability>
+<p>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/). </p>
+                </availability>
+                <date>$Date: 2011/05/19 01:44:08 $</date>
+            </publicationStmt>
+            <sourceDesc>
+      	      <bibl>Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 097 &desc;</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p lang="eng" type="ly">Text as provided by Institute of History and Philology, Academia Sinica</p>
+                <p lang="chi" type="ly">中央研究院歷史語言研究所</p>
+            </projectDesc>
+            </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+<div1>
+<pb n="0257a" id="I01.0097.0257a" ed="I"/>
+<lb ed="C I" n="0257a00"/><milestone n="1" unit="juan"/><head type="no">No. 97</head>
+<lb ed="C I" n="0257a00"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><title>瓽仲義八十人等造像記</title></jhead></juan>
+<lb ed="C I" n="0257a01"/><p id="pI01p0257a0101">□大覺<unclear cert="medium" reason="damage">之</unclear><unclear cert="medium" reason="damage">寺</unclear>□□<unclear cert="medium" reason="damage">軒</unclear><unclear cert="medium" reason="damage">義</unclear><unclear cert="medium" reason="damage">之</unclear><unclear cert="medium" reason="damage">世</unclear><unclear cert="medium" reason="damage">真</unclear><unclear cert="medium" reason="damage">容</unclear><unclear cert="medium" reason="damage">寂</unclear><unclear cert="medium" reason="damage">默</unclear>□<unclear cert="medium" reason="damage">彰</unclear>□□
+<lb ed="C I" n="0257a02"/>之年。爰及□<unclear cert="medium" reason="damage">室</unclear><unclear cert="medium" reason="damage">肇</unclear><unclear cert="medium" reason="damage">現</unclear>。<unclear cert="medium" reason="damage">閻</unclear><unclear cert="medium" reason="damage">浮</unclear><unclear cert="medium" reason="damage">生</unclear><unclear cert="medium" reason="damage">滅</unclear><unclear cert="medium" reason="damage">相</unclear><unclear cert="medium" reason="damage">因</unclear>。<unclear cert="medium" reason="damage">報</unclear><unclear cert="medium" reason="damage">應</unclear><unclear cert="medium" reason="damage">斯</unclear>□。<unclear cert="medium" reason="damage">是</unclear>
+<lb ed="C I" n="0257a03"/>以慧心獨悟<unclear cert="medium" reason="damage">之</unclear><unclear cert="medium" reason="damage">智</unclear>。自登彼<note n="0257001" resp="ihp" place="foot text" type="orig">&CB01437;＝岸【史】</note><app n="0257001"><lem resp="ihp" wit="【史】">岸</lem><rdg wit="【原】">&CB01437;</rdg></app>之果。<unclear cert="medium" reason="damage">聾</unclear>□<unclear cert="medium" reason="damage">所</unclear><unclear cert="medium" reason="damage">見</unclear><unclear cert="medium" reason="damage">之</unclear>□
+<lb ed="C I" n="0257a04"/><note n="0257002" resp="ihp" place="foot text" type="orig">&CB31131;＝永【史】</note><app n="0257002"><lem resp="ihp" wit="【史】">永</lem><rdg wit="【原】">&CB31131;</rdg></app>沉<unclear cert="medium" reason="damage">苦</unclear>海之際。佛弟子邑主都督瓽仲義。邑師比
+<lb ed="C I" n="0257a05"/>丘智盛。合邑子八十人<note n="0257003" resp="ihp" place="foot text" type="orig">&CB30975;＝等【史】</note><app n="0257003"><lem resp="ihp" wit="【史】">等</lem><rdg wit="【原】">&CB30975;</rdg></app>。思五濁之多果。慕須達
+<lb ed="C I" n="0257a06"/>之金錢。<note n="0257004" resp="ihp" place="foot text" type="orig">&CB31132;＝深【史】</note><app n="0257004"><lem resp="ihp" wit="【史】">深</lem><rdg wit="【原】">&CB31132;</rdg></app><note n="0257005" resp="ihp" place="foot text" type="orig">&CB00816;＝體【史】</note><app n="0257005"><lem resp="ihp" wit="【史】">體</lem><rdg wit="【原】">&CB00816;</rdg></app><app><lem wit="【CBETA】" resp="CBETA.maha">&CB07099;</lem><rdg wit="【原】【史】">旡</rdg></app>常。同遵正覺。共造石像壹區。高七
+<lb ed="C I" n="0257a07"/>尺五寸。莊嚴種好。垂相滿庭。慈悲道俗。咸變圜中。
+<lb ed="C I" n="0257a08"/>求勝因<unclear cert="low" reason="damage">於</unclear>曩劫。獲妙果於當今。在村<note n="0257006" resp="ihp" place="foot text" type="orig">&CB30529;＝處【史】</note><app n="0257006"><lem resp="ihp" wit="【史】">處</lem><rdg wit="【原】">&CB30529;</rdg></app>中置立。南
+<lb ed="C I" n="0257a09"/><unclear cert="medium" reason="damage">臨</unclear>白水。北背馬蘭。東<unclear cert="low" reason="damage">俠</unclear>洛水。西<unclear cert="low" reason="damage">望</unclear>堯山。地居<note n="0257007" resp="ihp" place="foot text" type="orig">&CB30470;＝爽【史】</note><app n="0257007"><lem resp="ihp" wit="【史】">爽</lem><rdg wit="【原】">&CB30470;</rdg></app>塏。
+<lb ed="C I" n="0257a10"/>眾所歸仰。藉此微功。願
+<lb ed="C I" n="0257a11"/>皇帝　陛下。与日月齊暉。群公百辟。與天壤同<note n="0257008" resp="ihp" place="foot text" type="orig">&CB00877;＝蔽【史】</note><app n="0257008"><lem resp="ihp" wit="【史】">蔽</lem><rdg wit="【原】">&CB00877;</rdg></app>。
+<lb ed="C I" n="0257a12"/>□□□邑。七世父母。長居妙樂。見在眷屬。迴向上
+<lb ed="C I" n="0257a13"/>道。竊惟竹素是播演之宗。金石是記善之原。非刊
+<lb ed="C I" n="0257a14"/>非瑑。何以宣言。其<note n="0257009" resp="ihp" place="foot text" type="orig">&CB08256;＝辭【史】</note><app n="0257009"><lem resp="ihp" wit="【史】">辭</lem><rdg wit="【原】">&CB08256;</rdg></app>曰。
+<lb ed="C I" n="0257a15"/>巍巍紫山。獨秀童童。娑羅集聖。遍滿虛空。亭□□
+<lb ed="C I" n="0257a16"/>子。出入相容。不有不無。非紫非紅。攸哉大智。實唯
+<lb ed="C I" n="0257a17"/>世尊。拯彼眾生。濟此重昏。五欲自屏。三<unclear cert="low" reason="damage">惑</unclear>無根。拔
+<lb ed="C I" n="0257a18"/>苦伊何。歸依法門。生同泡沫。滅若<note n="0257010" resp="ihp" place="foot text" type="orig">&CB31133;＝電【史】</note><app n="0257010"><lem resp="ihp" wit="【史】">電</lem><rdg wit="【原】">&CB31133;</rdg></app>飛。白日恒昭。
+<lb ed="C I" n="0257a19"/>夜月長暉。業淺福倚。道勝則肥。百年俄頃。營營何
+<lb ed="C I" n="0257a20"/>希。<unclear cert="low" reason="damage">分</unclear>財奉寶。散浮圖刑。漏以金玉。飾以丹青。神光
+<lb ed="C I" n="0257a21"/><unclear cert="low" reason="damage">嚴</unclear>起。曠濟群生。舟樑苦海。曆劫踰明。
+<lb ed="C I" n="0257a22"/>建德元年歲次壬辰四月癸酉朔八日庚辰建立</p>
+</div1>
+</body>
+</text>
+</TEI.2>

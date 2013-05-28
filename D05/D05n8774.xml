@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "D05n8774.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Selections from the Taipei National Central Library Buddhist Rare Book Collection, Electronic version, No. 8774 羯磨文（前殘）</title>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.1 $ (Big5)<date>$Date: 2011/06/10 01:46:05 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2011/06/10 01:46:05 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Selections from the Taipei National Central Library Buddhist Rare Book Collection Vol. 05, No. 8774 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p lang="chi" type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2011/06/10 09:08:26</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: D05n8774.xml,v $
+Revision 1.1  2011/06/10 01:46:05  amtbgrace
+modified: 執行 basicx.bat  將 bm 轉 xml
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="D" id="D05.8774.0001a" n="0001a"/>
+<lb ed="D" n="0001a01"/><milestone unit="juan" n="1"/><mulu type="卷" n="1"/><div1 type="other"><mulu type="其他" level="1" label="呵責犍度法"/><div2 type="other"><mulu type="其他" level="2" label="諫發諍法"/><p id="pD05p0001a0101"><app><lem wit="【CBETA】" resp="CBETA.maha">不善憶持</lem><rdg wit="【國圖】">&unrec;&unrec;&unrec;&unrec;</rdg></app>諍事後瞋恚作是語<app><lem wit="【CBETA】" resp="CBETA.maha">僧有愛</lem><rdg wit="【國圖】">&unrec;&unrec;&unrec;</rdg></app>
+<lb ed="D" n="0001a02"/><app><lem wit="【CBETA】" resp="CBETA.maha">有恚有怖有</lem><rdg wit="【國圖】">&unrec;&unrec;&unrec;&unrec;&unrec;</rdg></app>&CB01153;而僧不愛不恚不怖<app><lem wit="【CBETA】" resp="CBETA.maha">不癡</lem><rdg wit="【國圖】">&unrec;&unrec;</rdg></app>
+<lb ed="D" n="0001a03"/><app><lem wit="【CBETA】" resp="CBETA.maha">汝自有愛有</lem><rdg wit="【國圖】">&unrec;&unrec;&unrec;&unrec;&unrec;</rdg></app>恚有怖有癡白如是。</p>
+<lb ed="D" n="0001a04"/><p id="pD05p0001a0401">大&CB00106;僧&CB10881;此某甲比丘&CB00112;喜&CB00435;諍不善憶
+<lb ed="D" n="0001a05"/>持諍事後瞋恚作是語僧有愛有恚有
+<lb ed="D" n="0001a06"/>怖有癡今僧与某甲比丘&CB00112;作呵責&CB22057;
+<lb ed="D" n="0001a07"/>此事妹汝莫喜&CB00435;諍不善憶持諍事<app><lem wit="【CBETA】" resp="CBETA.maha">後</lem><rdg wit="【國圖】">&unrec;</rdg></app>
+<lb ed="D" n="0001a08"/>瞋恚作是語僧有愛有恚有怖有癡而
+<lb ed="D" n="0001a09"/><app><lem wit="【CBETA】" resp="CBETA.maha">僧</lem><rdg wit="【國圖】">&unrec;</rdg></app>不愛不恚不怖不癡汝自有<app><lem wit="【CBETA】" resp="CBETA.maha">愛有恚</lem><rdg wit="【國圖】">&unrec;&unrec;&unrec;</rdg></app>
+<lb ed="D" n="0001a10"/>有怖有癡誰諸大姊忍僧与<app><lem wit="【CBETA】" resp="CBETA.maha">某甲比丘&CB00112;作</lem><rdg wit="【國圖】">&unrec;&unrec;&unrec;&unrec;&unrec;</rdg></app>
+<lb ed="D" n="0001a11"/>呵責&CB22057;此事者嘿然不忍者<app><lem wit="【CBETA】" resp="CBETA.maha">便說是初羯</lem><rdg wit="【國圖】">&unrec;&unrec;&unrec;&unrec;&unrec;</rdg></app>
+<lb ed="D" n="0001a12"/>磨<note place="inline">&CB05663;二&CB05663;三<app><lem wit="【CBETA】" resp="CBETA.maha">亦</lem><rdg wit="【國圖】">&unrec;</rdg></app>如是&CB22072;</note>僧已与某甲比丘&CB00112;<app><lem wit="【CBETA】" resp="CBETA.maha">作呵責</lem><rdg wit="【國圖】">&unrec;&unrec;&unrec;</rdg></app>
+<lb ed="D" n="0001a13"/>&CB22057;此事竟僧忍故嘿然如是持<note place="inline">&unrec;&unrec;&unrec;&unrec;&unrec;羯磨&unrec;&unrec;&unrec;&unrec;
+<lb ed="D" n="0001a14"/>屏諫三度不&CB18813;故違然後喚來僧中為作羯<app><lem wit="【CBETA】" resp="CBETA.maha">磨</lem><rdg wit="【國圖】">&unrec;</rdg></app>&unrec;&unrec;&unrec;一&unrec;白及羯磨皆&CB00824;問云&CB22057;不〃&CB22057;故違方作三羯<app><lem wit="【CBETA】" resp="CBETA.maha">磨</lem><rdg wit="【國圖】">&unrec;</rdg></app></note>。</p></div2>
+<lb ed="D" n="0001a15"/><div2 type="other"><mulu type="其他" level="2" label="呵責羯磨"/><head>呵責羯磨<note place="inline">若有比丘&CB00112;共相&CB00435;諍罵詈口出刀劍互求長短令僧未有諍事而有已有諍事不除者應喚寺僧与作呵責</note></head>
+<lb ed="D" n="0001a16"/><p id="pD05p0001a1601">大&CB00106;僧聽此某甲二比丘&CB00112;&CB00435;諍共相罵詈
+<lb ed="D" n="0001a17"/>口出刀&CB00669;互求長短彼自共&CB00435;諍<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>若復有
+<lb ed="D" n="0001a18"/>餘比丘&CB00112;&CB00435;諍者即復往彼勸言汝&CB21717;勉力
+<pb ed="D" id="D05.8774.0002a" n="0002a"/>
+<lb ed="D" n="0002a01"/>莫不如他汝&CB21717;多聞智慧財富亦勝多有知
+<lb ed="D" n="0002a02"/>識我當為汝作伴儻令僧未有諍事而有諍
+<lb ed="D" n="0002a03"/>事<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>有諍事而不除滅若僧時到僧忍聽為
+<lb ed="D" n="0002a04"/>某甲&CB21717;二比丘&CB00112;作呵責羯磨若後&CB11040;更&CB00435;
+<lb ed="D" n="0002a05"/>諍共相罵詈者眾僧當更增更治白如是。</p>
+<lb ed="D" n="0002a06"/><p id="pD05p0002a0601">大&CB00106;僧聽此某甲二比丘&CB00112;喜共&CB00435;諍共
+<lb ed="D" n="0002a07"/>相罵詈口出刀&CB00669;互求長短彼自共&CB00435;諍已
+<lb ed="D" n="0002a08"/>若&CB11040;有餘比丘&CB00112;&CB00435;諍者即復往勸彼言汝
+<lb ed="D" n="0002a09"/>&CB21717;勉力莫不如他汝&CB21717;智慧多聞財富亦勝
+<lb ed="D" n="0002a10"/>多有知識我&CB21717;當為汝作伴儻令僧未有諍
+<lb ed="D" n="0002a11"/>事而有諍事已有諍事而不除滅僧為某甲
+<lb ed="D" n="0002a12"/>&CB21717;二比丘&CB00112;作呵責羯磨誰諸大&CB00106;忍僧
+<lb ed="D" n="0002a13"/>与某甲&CB21717;二比丘&CB00112;作呵責羯磨若復後
+<lb ed="D" n="0002a14"/>更&CB00435;諍共相罵詈者眾僧當更增罪治忍
+<lb ed="D" n="0002a15"/>者嘿然不忍者&CB22072;<note place="inline">如是三&CB22072;</note>僧<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>忍為某甲&CB21717;作
+<lb ed="D" n="0002a16"/>呵責羯磨竟僧忍嘿然是事如是持。</p></div2>
+<lb ed="D" n="0002a17"/><div2 type="other"><mulu type="其他" level="2" label="＆CB17107；呵責羯磨文"/><head>&CB17107;呵責羯磨文<note place="inline">調伏已&CB30130;僧乞&CB17107;偏露右肩脫履著地合掌白言大&CB00106;僧聽我某甲比丘&CB00112;
+<lb ed="D" n="0002a18"/>僧為作呵責羯磨我今&CB18919;順眾僧&CB07099;所違&CB01618;&CB18813;乞&CB17107;呵責羯磨願僧慈愍故為我&CB17107;呵責羯磨三&CB22072;</note></head>
+<lb ed="D" n="0002a19"/><p id="pD05p0002a1901">大&CB00106;僧聽某甲比丘&CB00112;僧為作呵責羯磨
+<pb ed="D" id="D05.8774.0003a" n="0003a"/>
+<lb ed="D" n="0003a01"/>彼比丘&CB00112;&CB18919;順眾僧&CB07099;所違&CB01618;&CB30130;僧乞&CB17107;
+<lb ed="D" n="0003a02"/>呵責羯磨若僧時到僧忍聽&CB17107;某甲比
+<lb ed="D" n="0003a03"/>丘&CB00112;呵責羯磨白如是。</p>
+<lb ed="D" n="0003a04"/><p id="pD05p0003a0401">大&CB00106;僧聽此某甲比丘&CB00112;僧為作呵責羯磨
+<lb ed="D" n="0003a05"/>彼比丘&CB00112;&CB18919;順眾僧&CB07099;所違&CB01618;今&CB18813;眾僧
+<lb ed="D" n="0003a06"/>乞&CB17107;呵責羯磨誰諸大&CB00106;忍僧与某甲比
+<lb ed="D" n="0003a07"/>丘&CB00112;&CB17107;呵責羯磨者嘿然誰不忍者&CB22072;<note place="inline">如是
+<lb ed="D" n="0003a08"/>三&CB22072;</note>僧已&CB17107;某甲比丘&CB00112;呵責羯磨竟僧忍
+<lb ed="D" n="0003a09"/>嘿然故是事如是持。</p></div2>
+<lb ed="D" n="0003a10"/><div2 type="other"><mulu type="其他" level="2" label="作＆CB20102；羯磨文"/><head>作&CB20102;羯磨文<note place="inline">行&CB08891;行污家者作之應如是作</note></head>
+<lb ed="D" n="0003a11"/><p id="pD05p0003a1101">大&CB00106;僧聽此某甲比丘&CB00112;於某&CB21871;汙他行惡
+<lb ed="D" n="0003a12"/>行彼汙他亦見亦聞行惡行亦見亦聞若僧
+<lb ed="D" n="0003a13"/>時到僧忍聽僧為某甲作&CB20102;羯磨汝汙他行
+<lb ed="D" n="0003a14"/>惡行汙他家亦見亦聞行惡行亦見亦聞汝
+<lb ed="D" n="0003a15"/>可離此住&CB21871;去不&CB00824;此&CB21871;住白如是。</p>
+<lb ed="D" n="0003a16"/><p id="pD05p0003a1601">大&CB00106;僧聽此某甲比丘&CB00112;在某&CB21871;汙他家行
+<lb ed="D" n="0003a17"/>惡行汙他家亦見亦聞行惡行亦見亦聞僧
+<lb ed="D" n="0003a18"/>今為某甲作&CB29796;羯磨汝汙他家行惡行汙
+<pb ed="D" id="D05.8774.0004a" n="0004a"/>
+<lb ed="D" n="0004a01"/>他家亦見亦聞行惡行亦見亦聞汝離此住
+<lb ed="D" n="0004a02"/>&CB21871;去不&CB00824;在此住誰諸大&CB00106;忍僧為某甲比
+<lb ed="D" n="0004a03"/>丘&CB00112;作&CB29796;羯磨者嘿然誰不忍者&CB22072;<note place="inline">&CB05663;二&CB05663;三亦如是&CB22072;</note>
+<lb ed="D" n="0004a04"/>僧已為某甲作&CB29796;羯磨竟僧已忍嘿然故是
+<lb ed="D" n="0004a05"/>事如是持。</p></div2>
+<lb ed="D" n="0004a06"/><div2 type="other"><mulu type="其他" level="2" label="＆CB17107；＆CB29796；羯磨文"/><head>&CB17107;&CB29796;羯磨文<note place="inline">調柔改&CB08891;遣人至僧中乞&CB17107;僧&CB30438;詳&CB17107;來至僧中露肩&CB00473;地合掌作如&CB00855;大&CB00106;僧聽我某甲比丘
+<lb ed="D" n="0004a07"/>&CB00112;僧与我作&CB29796;羯磨我今&CB18919;順眾僧不敢<app><lem wit="【CBETA】" resp="CBETA.maha">違</lem><rdg wit="【國圖】">&unrec;</rdg></app>&CB01618;&CB18813;僧&CB00855;&CB17107;&CB29796;羯磨願僧慈愍故為我&CB17107;羯磨如是三&CB22072;</note></head>
+<lb ed="D" n="0004a08"/><p id="pD05p0004a0801">大&CB00106;僧聽此某甲比丘&CB00112;僧与作&CB29796;羯磨&CB18919;順
+<lb ed="D" n="0004a09"/>眾僧不敢違&CB01618;&CB30130;僧乞&CB17107;&CB29796;羯磨若僧時到
+<lb ed="D" n="0004a10"/>僧忍聽僧今為某甲比丘&CB00112;&CB17107;&CB29796;羯磨白如是。</p>
+<lb ed="D" n="0004a11"/><p id="pD05p0004a1101">大&CB00106;僧聽此某甲比丘&CB00112;僧為作&CB29796;羯磨&CB18919;
+<lb ed="D" n="0004a12"/>順眾僧不敢違&CB01618;&CB18813;僧乞&CB17107;&CB29796;羯磨僧今為
+<lb ed="D" n="0004a13"/>某甲比丘&CB00112;&CB17107;&CB29796;羯磨誰諸大&CB00106;忍僧為某
+<lb ed="D" n="0004a14"/>甲比丘&CB00112;&CB17107;&CB29796;羯磨者嘿然誰不忍者&CB22072;<note place="inline">如是
+<lb ed="D" n="0004a15"/>&CB05663;二&CB05663;三&CB22072;</note>僧<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>為某甲比丘&CB00112;&CB17107;&CB29796;羯磨竟僧
+<lb ed="D" n="0004a16"/>忍嘿然故是事如是持。</p></div2>
+<lb ed="D" n="0004a17"/><div2 type="other"><mulu type="其他" level="2" label="依止羯磨文"/><head>依止羯磨文<note place="inline">若&CB00112;共白衣附親同坐言語密&CB11040;無智惠者与作</note></head>
+<lb ed="D" n="0004a18"/><p id="pD05p0004a1801">大&CB00106;僧聽此某甲比丘&CB00112;癡&CB07099;所知多犯眾罪
+<pb ed="D" id="D05.8774.0005a" n="0005a"/>
+<lb ed="D" n="0005a01"/>共白衣雜住而相親附不順佛法若僧時到
+<lb ed="D" n="0005a02"/>僧忍聽与某甲比丘&CB00112;依止羯磨白如是。</p>
+<lb ed="D" n="0005a03"/><p id="pD05p0005a0301">大&CB00106;僧聽某甲比丘&CB00112;癡&CB07099;所知多犯眾罪
+<lb ed="D" n="0005a04"/>共白衣雜住而相親附不順佛法僧今為某
+<lb ed="D" n="0005a05"/>甲比丘&CB00112;作依止羯磨誰諸大&CB00106;忍為某甲
+<lb ed="D" n="0005a06"/>比丘&CB00112;作依止羯磨者嘿然誰不忍者&CB22072;<note place="inline">&CB05663;二
+<lb ed="D" n="0005a07"/>&CB05663;三亦如是&CB22072;</note>僧<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>為某甲比丘&CB00112;作依止羯磨竟
+<lb ed="D" n="0005a08"/>僧忍嘿然故是事如是持<note place="inline">調伏及有智&CB31157;露肩脫履&CB18813;僧乞&CB17107;依止羯磨</note>。</p>
+<lb ed="D" n="0005a09"/><p id="pD05p0005a0901">大&CB00106;僧聽我某甲比丘&CB00112;僧与我作依止羯
+<lb ed="D" n="0005a10"/>我今&CB18919;順眾僧&CB30130;僧乞&CB17107;依止羯磨願慈愍
+<lb ed="D" n="0005a11"/>故為我&CB17107;依止羯磨<note place="inline">&CB05663;二&CB05663;三亦如是&CB22072;即作白</note>。</p>
+<lb ed="D" n="0005a12"/><p id="pD05p0005a1201">大&CB00106;僧聽某甲比丘&CB00112;僧与作依止羯磨彼
+<lb ed="D" n="0005a13"/>&CB18919;順眾僧不敢違&CB01618;&CB30130;僧乞&CB17107;依止羯磨若
+<lb ed="D" n="0005a14"/>僧時到僧忍聽僧今為某甲比丘&CB00112;&CB17107;依止
+<lb ed="D" n="0005a15"/>羯磨白如是。</p>
+<lb ed="D" n="0005a16"/><p id="pD05p0005a1601">大&CB00106;僧聽某甲比丘&CB00112;僧為作依止羯磨&CB18919;
+<lb ed="D" n="0005a17"/>順眾僧不敢違&CB01618;&CB30130;僧乞&CB17107;依止羯磨僧今
+<lb ed="D" n="0005a18"/>与某甲比丘&CB00112;&CB17107;依止羯磨誰諸大&CB00106;忍僧
+<lb ed="D" n="0005a19"/>与某甲比丘&CB00112;&CB17107;依止羯磨者嘿然誰不忍
+<pb ed="D" id="D05.8774.0006a" n="0006a"/>
+<lb ed="D" n="0006a01"/>者&CB22072;<note place="inline">如是&CB05663;二&CB05663;三&CB22072;</note>僧与某甲比丘&CB00112;&CB17107;依止羯磨
+<lb ed="D" n="0006a02"/>竟僧忍嘿然故是事如是持。</p></div2>
+<lb ed="D" n="0006a03"/><div2 type="other"><mulu type="其他" level="2" label="遮不至白衣家羯磨文"/><head>遮不至白衣家羯磨文<note place="inline">白衣恭敬父母沙門婆羅門者應為作遮不至白衣羯磨</note></head>
+<lb ed="D" n="0006a04"/><p id="pD05p0006a0401">大&CB00106;僧聽此某甲比丘&CB00112;某甲信樂檀越
+<lb ed="D" n="0006a05"/>常好布施供給眾僧而以下賤惡罵詈之若
+<lb ed="D" n="0006a06"/>僧時到僧忍聽僧今為某甲比丘&CB00112;作遮不
+<lb ed="D" n="0006a07"/>至白衣家羯磨白如是。</p>
+<lb ed="D" n="0006a08"/><p id="pD05p0006a0801">大&CB00106;僧聽某甲比丘&CB00112;某甲信樂檀越
+<lb ed="D" n="0006a09"/>常好布施供給眾僧而以下賤罵詈之僧今
+<lb ed="D" n="0006a10"/>為某甲比丘&CB00112;作遮不至白衣家羯磨誰諸
+<lb ed="D" n="0006a11"/>大&CB00106;忍僧為某甲比丘&CB00112;作遮不至白衣家
+<lb ed="D" n="0006a12"/>羯磨者嘿然誰不忍者&CB22072;<note place="inline">&CB05663;二&CB05663;三</note>僧与某甲比
+<lb ed="D" n="0006a13"/>丘&CB00112;作遮不至白衣家羯磨竟僧忍嘿然故
+<lb ed="D" n="0006a14"/>是事如是持。</p></div2>
+<lb ed="D" n="0006a15"/><div2 type="other"><mulu type="其他" level="2" label="差使往白衣家懺悔"/><head>差使往白衣家懺悔<note place="inline">具八法者差為使</note></head>
+<lb ed="D" n="0006a16"/><p id="pD05p0006a1601">大&CB00106;僧聽若僧時到僧忍聽差某甲為某
+<lb ed="D" n="0006a17"/>甲比丘&CB00112;懺悔某甲檀越白如是。</p>
+<lb ed="D" n="0006a18"/><p id="pD05p0006a1801">大&CB00106;僧聽今僧差某甲為某甲比丘&CB00112;懺
+<pb ed="D" id="D05.8774.0007a" n="0007a"/>
+<lb ed="D" n="0007a01"/>悔某甲檀越誰諸大&CB00106;忍差某甲為使為
+<lb ed="D" n="0007a02"/>某甲比丘&CB00112;懺悔某甲檀越者嘿然不忍
+<lb ed="D" n="0007a03"/>者&CB22072;僧差某甲為使為某甲比丘&CB00112;懺悔
+<lb ed="D" n="0007a04"/>某甲檀越竟僧忍嘿然故是事如是持<note place="inline">至彼
+<lb ed="D" n="0007a05"/>檀越家如是語檀越懺悔僧已為某甲比丘&CB00112;作&CB02168;<app><lem wit="【CBETA】" resp="CBETA.maha">謫</lem><rdg wit="【國圖】">&unrec;</rdg></app>彼若受懺悔者善不受應生眼見耳不聞&CB21871;安羯磨比丘&CB00112;著教
+<lb ed="D" n="0007a06"/>令如法遙懺悔復來語施主言懺悔彼比丘&CB00112;先犯罪今已為懺悔罪已除彼若不受者犯罪&CB00112;應自生懺悔檀越歡喜与&CB17107;</note>。</p></div2>
+<lb ed="D" n="0007a07"/><div2 type="other"><mulu type="其他" level="2" label="＆CB17107；遮不至白衣家羯磨文"/><head>&CB17107;遮不至白衣家羯磨文<note place="inline">至僧半露肩脫履合掌作如是乞</note></head>
+<lb ed="D" n="0007a08"/><p id="pD05p0007a0801">大&CB00106;僧聽我某甲比丘&CB00112;僧与作遮不至
+<lb ed="D" n="0007a09"/>白衣家羯磨我今&CB18919;順眾僧不敢違&CB01618;&CB30130;
+<lb ed="D" n="0007a10"/>僧乞&CB17107;遮不至白衣家羯磨願僧慈愍故
+<lb ed="D" n="0007a11"/>為我&CB17107;遮不至白衣羯磨<note place="inline">如是三&CB22072;</note>。</p>
+<lb ed="D" n="0007a12"/><p id="pD05p0007a1201">大&CB00106;僧聽某甲比丘&CB00112;僧為作遮至不至白
+<lb ed="D" n="0007a13"/>衣家羯磨彼比丘&CB00112;&CB18919;順眾僧不敢違&CB01618;&CB30130;
+<lb ed="D" n="0007a14"/>僧乞&CB17107;遮不至白家羯磨若僧時到僧忍
+<lb ed="D" n="0007a15"/>聽今僧為&CB17107;遮不至白衣家羯磨白如是。</p>
+<lb ed="D" n="0007a16"/><p id="pD05p0007a1601">大&CB00106;僧聽某甲比丘&CB00112;僧為作遮不至白衣
+<lb ed="D" n="0007a17"/>家羯磨彼比丘&CB00112;&CB18919;順眾僧不敢違&CB01618;&CB30130;僧
+<lb ed="D" n="0007a18"/>乞&CB17107;遮不至白衣家羯磨僧今為某甲比丘
+<pb ed="D" id="D05.8774.0008a" n="0008a"/>
+<lb ed="D" n="0008a01"/>&CB00112;&CB17107;遮不至白衣家羯磨誰諸大&CB00106;忍僧為
+<lb ed="D" n="0008a02"/>某甲比丘&CB00112;&CB17107;遮不至白衣家羯磨者嘿然
+<lb ed="D" n="0008a03"/>誰不忍者&CB22072;<note place="inline">如是三&CB22072;</note>僧<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>為某甲比丘&CB00112;&CB17107;遮
+<lb ed="D" n="0008a04"/>不至白衣家羯磨竟僧忍嘿然故是事如
+<lb ed="D" n="0008a05"/>是持。</p></div2>
+<lb ed="D" n="0008a06"/><div2 type="other"><mulu type="其他" level="2" label="不見罪羯磨文"/><head>不見罪羯磨文</head>
+<lb ed="D" n="0008a07"/><p id="pD05p0008a0701">大&CB00106;僧聽此某甲比丘&CB00112;犯罪餘比丘&CB00112;語
+<lb ed="D" n="0008a08"/>言汝犯罪見不荅言不見若僧時到僧忍聽
+<lb ed="D" n="0008a09"/>今僧為某甲比丘&CB00112;作不見罪舉羯磨　白
+<lb ed="D" n="0008a10"/>如是。</p>
+<lb ed="D" n="0008a11"/><p id="pD05p0008a1101">大&CB00106;僧聽某甲比丘&CB00112;犯罪餘比丘&CB00112;語言
+<lb ed="D" n="0008a12"/>汝犯罪見不荅言不見今僧為作不見罪舉
+<lb ed="D" n="0008a13"/>羯磨誰諸大&CB00106;忍僧為某甲比丘&CB00112;作不見
+<lb ed="D" n="0008a14"/>罪舉羯磨者嘿然誰不忍者&CB22072;<note place="inline">如是三&CB22072;</note>僧為某
+<lb ed="D" n="0008a15"/>甲比丘&CB00112;作不見罪舉羯磨竟僧忍嘿然故
+<lb ed="D" n="0008a16"/>是事如是持。</p></div2>
+<lb ed="D" n="0008a17"/><div2 type="other"><mulu type="其他" level="2" label="＆CB17107；不見罪舉羯磨文"/><head>&CB17107;不見罪舉羯磨文</head>
+<lb ed="D" n="0008a18"/><p id="pD05p0008a1801">大&CB00106;僧聽彼某甲比丘&CB00112;僧与作不見罪舉
+<lb ed="D" n="0008a19"/>羯磨&CB18919;順眾僧不敢違&CB01618;今&CB30130;僧乞&CB17107;不見
+<pb ed="D" id="D05.8774.0009a" n="0009a"/>
+<lb ed="D" n="0009a01"/>罪舉羯磨若僧時到僧忍聽今僧為某甲比
+<lb ed="D" n="0009a02"/>丘&CB00112;&CB17107;不見罪舉羯磨白如是。</p>
+<lb ed="D" n="0009a03"/><p id="pD05p0009a0301">大&CB00106;僧聽某甲比丘&CB00112;僧為作不見罪舉
+<lb ed="D" n="0009a04"/>羯磨&CB18919;順眾僧不敢違&CB01618;&CB30130;僧乞&CB17107;不見罪
+<lb ed="D" n="0009a05"/>舉羯磨&CB18919;順眾僧不敢違&CB01618;&CB30130;僧乞&CB17107;不見
+<lb ed="D" n="0009a06"/>罪舉羯磨僧今為某甲比丘&CB00112;&CB17107;不見罪舉
+<lb ed="D" n="0009a07"/>羯磨誰諸大&CB00106;忍僧為某甲比丘&CB00112;&CB17107;不見
+<lb ed="D" n="0009a08"/>罪舉羯磨者嘿然誰不忍者&CB22072;<note place="inline">如是<app><lem wit="【CBETA】" resp="CBETA.maha">三</lem><rdg wit="【國圖】">二</rdg></app>&CB22072;</note>僧為某甲
+<lb ed="D" n="0009a09"/>比丘&CB00112;&CB17107;不見罪舉羯磨竟僧忍嘿然故是
+<lb ed="D" n="0009a10"/>事如是持。</p></div2>
+<lb ed="D" n="0009a11"/><div2 type="other"><mulu type="其他" level="2" label="不懺悔羯磨文"/><head>不懺悔羯磨文<note place="inline">若&CB00112;犯罪不&CB09342;懺悔當如是&CB02168;</note></head>
+<lb ed="D" n="0009a12"/><p id="pD05p0009a1201">大&CB00106;僧聽此某甲比丘&CB00112;犯罪餘比丘&CB00112;語
+<lb ed="D" n="0009a13"/>言汝犯罪懺悔荅言不懺悔若僧時到僧忍
+<lb ed="D" n="0009a14"/>聽僧今与作不懺悔罪舉羯磨白如是。</p>
+<lb ed="D" n="0009a15"/><p id="pD05p0009a1501">大&CB00106;僧聽此某甲比丘&CB00112;犯罪餘比丘&CB00112;語
+<lb ed="D" n="0009a16"/>言汝犯罪懺悔荅言不懺悔誰諸大&CB00106;忍僧
+<lb ed="D" n="0009a17"/>与某甲作不懺悔罪舉羯磨者嘿然誰不忍
+<lb ed="D" n="0009a18"/>者&CB22072;<note place="inline">如是三&CB22072;</note>僧<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>為某甲比丘&CB00112;作不懺悔罪舉
+<pb ed="D" id="D05.8774.0010a" n="0010a"/>
+<lb ed="D" n="0010a01"/>羯磨竟僧忍嘿然故是事如是持。</p></div2>
+<lb ed="D" n="0010a02"/><div2 type="other"><mulu type="其他" level="2" label="＆CB17107；不懺悔罪舉羯磨文"/><head>&CB17107;不懺悔罪舉羯磨文<note place="inline">調伏&CB18919;順至僧中合掌露肩脫履作乞</note></head>
+<lb ed="D" n="0010a03"/><p id="pD05p0010a0301">大&CB00106;僧聽我某甲比丘&CB00112;僧与作不懺悔罪
+<lb ed="D" n="0010a04"/>舉羯磨&CB18919;順眾僧不敢違&CB01618;今&CB30130;僧乞&CB17107;不
+<lb ed="D" n="0010a05"/>懺悔罪舉羯磨願僧慈愍故為我&CB17107;不懺悔
+<lb ed="D" n="0010a06"/>罪舉羯磨<note place="inline">如是三&CB22072;</note>。</p>
+<lb ed="D" n="0010a07"/><p id="pD05p0010a0701">大&CB00106;僧聽此某甲比丘&CB00112;僧為作不懺悔罪
+<lb ed="D" n="0010a08"/>舉羯磨彼&CB18919;順眾僧不敢違&CB01618;&CB30130;僧乞&CB17107;不
+<lb ed="D" n="0010a09"/>懺悔罪舉羯磨若僧時到僧忍聽今僧為某
+<lb ed="D" n="0010a10"/>甲比丘&CB00112;&CB17107;不懺悔罪舉羯磨白如是。</p>
+<lb ed="D" n="0010a11"/><p id="pD05p0010a1101">大&CB00106;僧聽某甲比丘&CB00112;僧与作不懺悔罪舉
+<lb ed="D" n="0010a12"/>羯磨&CB18919;順眾僧不敢違&CB01618;&CB18813;僧乞&CB17107;不懺悔
+<lb ed="D" n="0010a13"/>罪舉羯磨誰諸大&CB00106;忍僧為某甲比丘&CB00112;&CB17107;
+<lb ed="D" n="0010a14"/>不懺悔罪舉羯磨者嘿然誰不忍者&CB22072;<note place="inline">如是&CB31037;三</note>
+<lb ed="D" n="0010a15"/>僧已与某甲比丘&CB00112;&CB17107;不懺悔罪舉羯磨竟
+<lb ed="D" n="0010a16"/>僧忍嘿然故是事如是持。</p></div2>
+<lb ed="D" n="0010a17"/><div2 type="other"><mulu type="其他" level="2" label="与共相親近作＆CB08891；行呵諫羯磨文"/><head>与共相親近作&CB08891;行呵諫羯磨文</head>
+<lb ed="D" n="0010a18"/><p id="pD05p0010a1801">大&CB00106;僧聽此某甲某甲比丘&CB00112;相親近住共
+<pb ed="D" id="D05.8774.0011a" n="0011a"/>
+<lb ed="D" n="0011a01"/>作&CB08891;行惡聲流布展轉共相&CB29781;罪餘比丘
+<lb ed="D" n="0011a02"/>&CB00112;諫言大&CB00106;汝&CB21717;莫相親近共作惡行&CB08891;
+<lb ed="D" n="0011a03"/>聲流布莫相&CB29781;罪汝&CB21717;若不相親近共行
+<lb ed="D" n="0011a04"/>惡行惡聲流布者於佛法有增益安樂住而
+<lb ed="D" n="0011a05"/>彼猶故不改悔若僧時到僧忍聽僧与某甲
+<lb ed="D" n="0011a06"/>某甲比丘&CB00112;作呵諫&CB22057;此事故汝&CB21717;莫相
+<lb ed="D" n="0011a07"/>親近共作惡行惡聲流布莫共相&CB29781;罪
+<lb ed="D" n="0011a08"/>汝&CB21717;若不相親近不作惡行惡聲流布於
+<lb ed="D" n="0011a09"/>佛法中有增益<app><lem wit="【CBETA】" resp="CBETA.maha">安</lem><rdg wit="【國圖】">&unrec;</rdg></app>樂住白如是。</p>
+<lb ed="D" n="0011a10"/><p id="pD05p0011a1001">大&CB00106;僧聽此某甲某甲比丘&CB00112;共相親近共作
+<lb ed="D" n="0011a11"/>&CB29781;罪餘比丘&CB00112;語言大&CB00106;莫相親近共作&CB08891;
+<lb ed="D" n="0011a12"/>行&CB08891;聲流布展轉共相&CB29781;罪汝&CB21717;若不相親
+<lb ed="D" n="0011a13"/>近共作惡行&CB08891;聲流布於佛法中得增益安
+<lb ed="D" n="0011a14"/>樂住而彼猶故不改悔今僧与某甲某甲比丘
+<lb ed="D" n="0011a15"/>&CB00112;作呵諫&CB22057;此事故汝&CB21717;莫相親近共作&CB08891;
+<lb ed="D" n="0011a16"/>行惡聲流布莫展轉共相&CB29781;罪汝&CB21717;若不
+<lb ed="D" n="0011a17"/>相親近共作惡行&CB08891;聲流布於佛法中有增
+<lb ed="D" n="0011a18"/>益安樂住誰諸大&CB00106;忍僧与某甲某甲比
+<pb ed="D" id="D05.8774.0012a" n="0012a"/>
+<lb ed="D" n="0012a01"/>丘&CB00112;作呵諫&CB22057;此事者嘿然不忍者&CB22072;是
+<lb ed="D" n="0012a02"/>初羯磨<note place="inline">如是&CB31037;三</note>僧已忍与某甲某甲比丘&CB00112;作
+<lb ed="D" n="0012a03"/>呵諫&CB22057;此事竟僧忍故嘿然是事如是
+<lb ed="D" n="0012a04"/>持<note place="inline">餘有可諫者並准此羯磨作之若相離名作善行求僧乞&CB17107;時僧&CB00824;審察知相&CB22057;離來乞為&CB17107;</note>。</p></div2>
+<lb ed="D" n="0012a05"/><div2 type="other"><mulu type="其他" level="2" label="与＆CB08891；性訶諫羯磨文"/><head>与&CB08891;性訶諫羯磨文</head>
+<lb ed="D" n="0012a06"/><p id="pD05p0012a0601">大&CB00106;僧聽此某甲比丘&CB00112;&CB08891;性不受人語諸比
+<lb ed="D" n="0012a07"/>丘&CB00112;以戒律如法教授自住不可共語語諸
+<lb ed="D" n="0012a08"/>比丘&CB00112;言大&CB00106;莫語我若好若&CB08891;我亦不
+<lb ed="D" n="0012a09"/>語諸大&CB00106;若好若&CB08891;大&CB00106;且止不&CB00824;教我
+<lb ed="D" n="0012a10"/>若僧時到僧忍聽僧今与某甲比丘作
+<lb ed="D" n="0012a11"/>呵諫&CB22057;此事故汝某甲莫自作不可共
+<lb ed="D" n="0012a12"/>語某甲汝應如法諫諸比丘&unrec;諸比丘
+<lb ed="D" n="0012a13"/>&CB00112;亦當如法諫汝如是佛弟子眾得增益
+<lb ed="D" n="0012a14"/>展轉相教展轉相諫展轉懺悔白如是。</p>
+<lb ed="D" n="0012a15"/><p id="pD05p0012a1501">大&CB00106;僧聽此某甲比丘&CB00112;&CB08891;性不受人語
+<lb ed="D" n="0012a16"/>諸比丘&CB00112;以戒律如法教授自作不可共
+<lb ed="D" n="0012a17"/>語語諸比丘言大&CB00106;莫語我若好若&CB08891;我
+<lb ed="D" n="0012a18"/>亦不語諸大&CB00106;若好若&CB08891;大&CB00106;且止不&CB00824;
+<pb ed="D" id="D05.8774.0013a" n="0013a"/>
+<lb ed="D" n="0013a01"/>教我今僧為某甲比丘&CB00112;作呵諫&CB22057;此事
+<lb ed="D" n="0013a02"/>故汝某甲莫自作不共語當作可共語汝
+<lb ed="D" n="0013a03"/>當如法諫諸比丘&CB00112;諸比丘亦當如法諫
+<lb ed="D" n="0013a04"/>汝如是佛弟子眾淂增益展轉相教展轉
+<lb ed="D" n="0013a05"/>相諫展轉懺悔誰諸大&CB00106;忍僧為某甲
+<lb ed="D" n="0013a06"/>比丘&CB00112;作訶諫&CB22057;此事故嘿然誰不忍者
+<lb ed="D" n="0013a07"/>&CB22072;是初羯磨&CB05663;二&CB05663;三亦如是&CB22072;僧已与
+<lb ed="D" n="0013a08"/>某甲比丘&CB00112;作呵諫&CB22057;此事竟僧忍嘿然
+<lb ed="D" n="0013a09"/>故是事如是持。</p></div2>
+<lb ed="D" n="0013a10"/><div2 type="other"><mulu type="其他" level="2" label="訶諫羯磨文"/><head>訶諫羯磨文</head>
+<lb ed="D" n="0013a11"/><p id="pD05p0013a1101">大&CB00106;僧聽此某甲比丘&CB00112;作如是語行&CB21942;欲
+<lb ed="D" n="0013a12"/>非障道法若僧時到僧忍聽僧今与某甲作
+<lb ed="D" n="0013a13"/>呵諫&CB22057;此事故某甲莫作是語誹謗世尊謗
+<lb ed="D" n="0013a14"/>世尊者不善世尊不住如是語世尊以&CB07099;&CB08001;
+<lb ed="D" n="0013a15"/>方便&CB22072;行&CB21942;欲是障道法若犯欲即為障道
+<lb ed="D" n="0013a16"/>白如是。</p>
+<lb ed="D" n="0013a17"/><p id="pD05p0013a1701">大&CB00106;僧聽此某甲比丘&CB00112;作如是言我知佛
+<lb ed="D" n="0013a18"/>所&CB22072;法行&CB21942;欲非鄣道法僧今与作訶諫&CB22057;
+<pb ed="D" id="D05.8774.0014a" n="0014a"/>
+<lb ed="D" n="0014a01"/>此事故某甲莫作如是語莫謗世尊謗世尊
+<lb ed="D" n="0014a02"/>者不善世尊不作是語世尊&CB07099;&CB21092;方便&CB22072;欲
+<lb ed="D" n="0014a03"/>是障道法若犯欲者即障道法誰諸大&CB00106;忍
+<lb ed="D" n="0014a04"/>僧為某甲作訶諫&CB22057;此事故嘿然誰不忍者
+<lb ed="D" n="0014a05"/>&CB22072;<note place="inline">如是再三</note>僧為某甲比丘&CB00112;作訶諫竟僧忍嘿
+<lb ed="D" n="0014a06"/>然故是事如是持。</p></div2>
+<lb ed="D" n="0014a07"/><div2 type="other"><mulu type="其他" level="2" label="惡見不＆CB22057；羯磨文"/><head>惡見不&CB22057;羯磨文</head>
+<lb ed="D" n="0014a08"/><p id="pD05p0014a0801">大&CB00106;僧聽某甲比丘&CB00112;惡見僧与作訶諫故
+<lb ed="D" n="0014a09"/>不&CB22057;惡見若僧時到僧忍聽与某甲比丘&CB00112;
+<lb ed="D" n="0014a10"/>作惡見不&CB22057;羯磨白如是。</p>
+<lb ed="D" n="0014a11"/><p id="pD05p0014a1101">大&CB00106;僧聽某甲比丘&CB00112;惡見不&CB22057;僧与訶諫
+<lb ed="D" n="0014a12"/>故不&CB22057;惡見僧今為某甲比丘&CB00112;作不&CB22057;惡
+<lb ed="D" n="0014a13"/>見舉羯磨誰諸大&CB00106;忍僧今与某甲比丘&CB00112;
+<lb ed="D" n="0014a14"/>作惡見不&CB22057;舉羯磨者嘿然誰不忍者&CB22072;
+<lb ed="D" n="0014a15"/><note place="inline">如是再三</note>僧已与某甲比丘&CB00112;作惡見不&CB22057;舉羯
+<lb ed="D" n="0014a16"/>磨竟僧已忍嘿然故是事如是持。</p></div2>
+<lb ed="D" n="0014a17"/><div2 type="other"><mulu type="其他" level="2" label="＆CB17107；惡見不＆CB22057；羯磨文"/><head>&CB17107;惡見不&CB22057;羯磨文<note place="inline">&CB22057;惡見已作如是乞</note></head>
+<lb ed="D" n="0014a18"/><p id="pD05p0014a1801">大&CB00106;僧聽我某甲比丘&CB00112;僧与作惡見不&CB22057;
+<pb ed="D" id="D05.8774.0015a" n="0015a"/>
+<lb ed="D" n="0015a01"/>舉羯磨今&CB18919;順眾僧不敢違&CB01618;&CB30130;僧乞&CB17107;惡
+<lb ed="D" n="0015a02"/>見不&CB22057;舉羯磨願僧為我&CB17107;惡見不&CB22057;羯磨
+<lb ed="D" n="0015a03"/>慈愍故<note place="inline">如是再三</note>。</p>
+<lb ed="D" n="0015a04"/><p id="pD05p0015a0401">大&CB00106;僧聽此某甲比丘&CB00112;僧与作惡見不&CB22057;
+<lb ed="D" n="0015a05"/>舉羯磨今&CB18919;順眾僧不敢違&CB01618;&CB30130;僧乞&CB17107;惡
+<lb ed="D" n="0015a06"/>見不&CB22057;舉羯磨若僧時到僧忍聽僧今為某
+<lb ed="D" n="0015a07"/>甲比丘&CB00112;&CB17107;惡見不&CB22057;舉羯磨白如是。</p>
+<lb ed="D" n="0015a08"/><p id="pD05p0015a0801">大&CB00106;僧聽此某甲比丘&CB00112;僧与作惡見不&CB22057;舉
+<lb ed="D" n="0015a09"/>羯磨&CB18919;順眾僧不敢違&CB01618;&CB30130;僧乞&CB17107;惡見不&CB22057;
+<lb ed="D" n="0015a10"/>舉羯磨僧今為某甲比丘&CB00112;&CB17107;惡見不&CB22057;舉
+<lb ed="D" n="0015a11"/>羯磨誰諸大&CB00106;忍僧為某甲比丘&CB00112;&CB17107;惡見
+<lb ed="D" n="0015a12"/>不&CB22057;舉羯磨者嘿然誰不忍者&CB22072;<note place="inline">如是再三</note>僧<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>
+<lb ed="D" n="0015a13"/>為某甲比丘&CB00112;&CB17107;惡見不&CB22057;舉羯磨竟僧
+<lb ed="D" n="0015a14"/>忍嘿然故是事如是持。</p></div2></div1>
+<lb ed="D" n="0015a15"/><div1 type="other"><mulu type="其他" level="1" label="人揵度法"/><head>人揵度法<note place="inline">若&CB00112;犯七聚應如是与</note></head>
+<lb ed="D" n="0015a16"/><div2 type="other"><mulu type="其他" level="2" label="与波羅夷不＆CB29781；藏羯磨文"/><head>与波羅夷不&CB29781;藏羯磨文<note place="inline">犯重一念不&CB29781;藏全僧中偏露右肩合掌脫履作如是乞</note></head>
+<lb ed="D" n="0015a17"/><p id="pD05p0015a1701">大&CB00106;僧聽我某甲比丘&CB00112;犯不淨行都&CB07099;&CB29781;
+<lb ed="D" n="0015a18"/>藏心今&CB30130;僧乞波羅夷戒願僧与我波羅夷
+<pb ed="D" id="D05.8774.0016a" n="0016a"/>
+<lb ed="D" n="0016a01"/>戒慈愍故<note place="inline">如是再三</note>。</p>
+<lb ed="D" n="0016a02"/><p id="pD05p0016a0201">大&CB00106;僧聽此某甲比丘&CB00112;犯不淨行&CB07099;&CB29781;藏心
+<lb ed="D" n="0016a03"/>今&CB30130;僧乞波羅夷戒若僧時到僧忍聽僧今与
+<lb ed="D" n="0016a04"/>某甲比丘&CB00112;波羅夷戒白如是。</p>
+<lb ed="D" n="0016a05"/><p id="pD05p0016a0501">大&CB00106;僧聽此某甲比丘&CB00112;犯不淨行&CB07099;&CB29781;藏
+<lb ed="D" n="0016a06"/>心今&CB30130;僧乞波羅夷戒僧今与某甲比丘&CB00112;
+<lb ed="D" n="0016a07"/>波羅夷戒誰諸大&CB00106;忍僧与某甲比丘&CB00112;波
+<lb ed="D" n="0016a08"/>羅夷戒者嘿然誰不忍者&CB22072;<note place="inline">如是三&CB22072;</note>僧已与某
+<lb ed="D" n="0016a09"/>甲比丘&CB00112;波羅夷戒竟僧忍故嘿然是事如
+<lb ed="D" n="0016a10"/>是持。</p></div2>
+<lb ed="D" n="0016a11"/><div2 type="other"><mulu type="其他" level="2" label="與僧殘罪摩＆CB30839；埵法"/><head>與僧殘罪摩&CB30839;埵法<note place="inline">&CB00112;無&CB29781;藏犯&CB06960;不息故与十五日法於二部僧中懺過</note></head></div2>
+<lb ed="D" n="0016a12"/><div2 type="other"><mulu type="其他" level="2" label="乞摩＆CB30839；埵文"/><head>乞摩&CB30839;埵文</head>
+<lb ed="D" n="0016a13"/><p id="pD05p0016a1301">大&CB18786;僧聽我某甲比丘&CB00112;犯某甲若干僧殘
+<lb ed="D" n="0016a14"/>罪今&CB30130;二部僧乞半月摩&CB30839;埵願僧與我半
+<lb ed="D" n="0016a15"/>月摩&CB30839;埵慈愍故<note place="inline">如是再&CB22072;</note>。</p>
+<lb ed="D" n="0016a16"/><p id="pD05p0016a1601">大&CB18786;僧聽此某甲比丘&CB00112;犯某甲若干僧殘罪
+<lb ed="D" n="0016a17"/>今&CB30130;二部僧乞半月摩&CB30839;埵僧今與某甲比丘
+<lb ed="D" n="0016a18"/>&CB00112;半月摩&CB30839;埵誰諸長老忍僧与某甲<app><lem wit="【CBETA】" resp="CBETA.maha">比丘</lem><rdg wit="【國圖】">&unrec;　</rdg></app>&CB00112;
+<pb ed="D" id="D05.8774.0017a" n="0017a"/>
+<lb ed="D" n="0017a01"/>半月摩&CB30839;埵者嘿然誰不忍者&CB22072;是初羯磨<note place="inline">&CB05663;二
+<lb ed="D" n="0017a02"/>&CB05663;三亦如是&CB22072;</note>僧已忍与某甲比丘&CB00112;半月摩&CB30839;埵竟
+<lb ed="D" n="0017a03"/>僧忍嘿然故是事如是持<note place="inline">若中間重犯更乞本日治作如是乞</note>。</p>
+<lb ed="D" n="0017a04"/><p id="pD05p0017a0401">大&CB18786;僧聽我某甲比丘&CB00112;犯某甲僧殘罪&CB30130;
+<lb ed="D" n="0017a05"/>僧乞半月摩&CB30839;埵僧<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>与我半月摩&CB30839;埵我
+<lb ed="D" n="0017a06"/>行摩&CB30839;埵時更重犯罪今&CB30130;僧乞摩&CB30839;埵本
+<lb ed="D" n="0017a07"/>日治羯磨願僧与我摩&CB30839;埵本日治羯磨慈
+<lb ed="D" n="0017a08"/>愍故<note place="inline">如是再三</note>。</p>
+<lb ed="D" n="0017a09"/><p id="pD05p0017a0901">大&CB18786;僧聽此某甲比丘&CB00112;犯某甲僧殘罪&CB30130;
+<lb ed="D" n="0017a10"/>僧乞半月摩&CB30839;埵僧<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>与半月摩&CB30839;埵彼行
+<lb ed="D" n="0017a11"/>半月摩&CB30839;埵時更重犯罪&CB30130;僧乞摩&CB30839;埵本
+<lb ed="D" n="0017a12"/>日治羯磨若僧時到僧忍聽与某甲比丘&CB00112;
+<lb ed="D" n="0017a13"/>摩&CB30839;埵本日治羯磨白如是。</p>
+<lb ed="D" n="0017a14"/><p id="pD05p0017a1401">大&CB18786;僧聽此某甲比丘&CB00112;犯某甲僧殘罪&CB30130;僧
+<lb ed="D" n="0017a15"/>乞半月摩&CB30839;埵僧已与半月摩&CB30839;埵此比丘&CB00112;
+<lb ed="D" n="0017a16"/>行摩&CB30839;埵時更重犯罪&CB30130;僧乞摩&CB30839;埵本日
+<lb ed="D" n="0017a17"/>治羯磨僧今与某甲比丘&CB00112;摩&CB30839;埵本日治
+<lb ed="D" n="0017a18"/>羯磨誰諸長老忍僧与某甲比丘&CB00112;摩&CB30839;埵本
+<pb ed="D" id="D05.8774.0018a" n="0018a"/>
+<lb ed="D" n="0018a01"/>日治羯磨者嘿然誰不忍者&CB22072;<note place="inline">如是再三</note>僧已与某
+<lb ed="D" n="0018a02"/>甲比丘&CB00112;摩&CB30839;埵本日羯磨竟僧已忍嘿然
+<lb ed="D" n="0018a03"/>故是事如是持。</p></div2>
+<lb ed="D" n="0018a04"/><div2 type="other"><mulu type="其他" level="2" label="出罪乞文"/><head>出罪乞文<note place="inline">比丘&CB00112;半月行摩&CB30839;埵不重犯者生二部僧中作如是乞</note></head>
+<lb ed="D" n="0018a05"/><p id="pD05p0018a0501">大&CB18786;僧聽我某甲比丘&CB00112;犯某甲若干僧殘罪
+<lb ed="D" n="0018a06"/>已&CB30130;二部僧乞半月摩&CB30839;埵僧已与我半月
+<lb ed="D" n="0018a07"/>摩&CB30839;埵我已於二部僧中行半月摩&CB30839;埵
+<lb ed="D" n="0018a08"/>竟今&CB30130;僧乞出罪羯磨願僧與我出罪羯磨
+<lb ed="D" n="0018a09"/>慈愍故<note place="inline">如是再三</note>。</p></div2>
+<lb ed="D" n="0018a10"/><div2 type="other"><mulu type="其他" level="2" label="出罪羯磨文"/><head>出罪羯磨文</head>
+<lb ed="D" n="0018a11"/><p id="pD05p0018a1101">大&CB18786;僧聽此某甲比丘&CB00112;犯某甲若干僧
+<lb ed="D" n="0018a12"/>殘罪已&CB30130;二部僧乞半月摩&CB30839;埵僧已与
+<lb ed="D" n="0018a13"/>某甲比丘&CB00112;半月摩&CB30839;埵此某甲比丘&CB00112;
+<lb ed="D" n="0018a14"/>已於二部僧中行半月摩&CB30839;埵竟今&CB30130;僧
+<lb ed="D" n="0018a15"/>乞出罪羯磨若僧時到僧忍聽僧今与某。</p>
+<lb ed="D" n="0018a16"/><p id="pD05p0018a1601">大&CB18786;僧聽此某甲比丘&CB00112;犯某甲若干僧殘
+<lb ed="D" n="0018a17"/>罪已&CB30130;二部僧乞半月摩&CB30839;埵僧已与某甲
+<lb ed="D" n="0018a18"/>比丘&CB00112;半月摩&CB30839;埵此某甲比丘&CB00112;已於二
+<pb ed="D" id="D05.8774.0019a" n="0019a"/>
+<lb ed="D" n="0019a01"/>部僧中行半月摩&CB30839;埵竟今&CB30130;僧乞出罪
+<lb ed="D" n="0019a02"/>羯磨僧今与某甲比丘&CB00112;出罪羯磨誰諸
+<lb ed="D" n="0019a03"/>長老忍僧今与某甲比丘&CB00112;出罪羯磨者嘿
+<lb ed="D" n="0019a04"/>然誰不忍者&CB22072;<note place="inline">如是再三</note>僧已忍与某甲比丘&CB00112;
+<lb ed="D" n="0019a05"/>出罪羯磨竟僧忍嘿然故是事如是持。</p></div2>
+<lb ed="D" n="0019a06"/><div2 type="other"><mulu type="其他" level="2" label="乞本日治竟出罪文"/><head>乞本日治竟出罪文</head>
+<lb ed="D" n="0019a07"/><p id="pD05p0019a0701">大&CB18786;僧聽我某甲比丘&CB00112;犯僧殘罪&CB30130;僧乞半
+<lb ed="D" n="0019a08"/>月摩&CB30839;埵僧已与我半月摩&CB30839;埵我行半月摩
+<lb ed="D" n="0019a09"/>&CB30839;埵時更重犯罪&CB30130;僧乞半月摩&CB30839;埵本日治
+<lb ed="D" n="0019a10"/>羯磨僧已与我摩&CB30839;埵本日治羯磨我某甲比
+<lb ed="D" n="0019a11"/>丘&CB00112;行摩&CB30839;埵本日治竟&CB30130;僧乞出罪羯磨願
+<lb ed="D" n="0019a12"/>僧与我出罪羯磨慈愍故<note place="inline">如是再三</note>。</p></div2>
+<lb ed="D" n="0019a13"/><div2 type="other"><mulu type="其他" level="2" label="与本日治出罪羯磨文"/><head>与本日治出罪羯磨文<note place="inline">如是再三重亦如是乞亦如是与之准作</note></head>
+<lb ed="D" n="0019a14"/><p id="pD05p0019a1401">大&CB18786;僧聽此某甲比丘&CB00112;犯僧殘罪&CB30130;僧乞半
+<lb ed="D" n="0019a15"/>月摩&CB30839;埵僧已与半月摩&CB30839;埵彼比丘&CB00112;行半
+<lb ed="D" n="0019a16"/>月摩&CB30839;埵時更重犯罪&CB30130;僧乞摩&CB30839;埵本日
+<lb ed="D" n="0019a17"/>治羯磨僧<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>与彼比丘&CB00112;摩&CB30839;埵本日治羯磨
+<lb ed="D" n="0019a18"/>彼行摩&CB30839;埵本日治竟&CB30130;僧乞出罪羯磨若僧
+<pb ed="D" id="D05.8774.0020a" n="0020a"/>
+<lb ed="D" n="0020a01"/>時到僧忍聽僧為某甲比丘&CB00112;出罪白如是。</p>
+<lb ed="D" n="0020a02"/><p id="pD05p0020a0201">大&CB18786;僧聽此某甲比丘&CB00112;犯僧殘罪&CB30130;僧乞半
+<lb ed="D" n="0020a03"/>月摩&CB30839;埵僧<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>与半月摩&CB30839;埵彼行摩&CB30839;埵
+<lb ed="D" n="0020a04"/>時更重犯罪&CB30130;僧&CB00855;摩&CB30839;埵本日治羯磨僧
+<lb ed="D" n="0020a05"/>已与摩&CB30839;埵本日治羯磨此比丘&CB00112;行摩&CB30839;埵
+<lb ed="D" n="0020a06"/>本日治竟&CB30130;僧乞出罪羯磨今僧与某甲比丘
+<lb ed="D" n="0020a07"/>&CB00112;出罪羯磨誰諸長老忍僧与某甲比丘&CB00112;出
+<lb ed="D" n="0020a08"/>罪羯磨者嘿然誰不忍者&CB22072;<note place="inline">如是再三</note>僧已与某甲
+<lb ed="D" n="0020a09"/>比丘&CB00112;出罪羯磨竟僧忍嘿然故是事如是
+<lb ed="D" n="0020a10"/>持。</p>
+<lb ed="D" n="0020a11"/><p id="pD05p0020a1101"><note place="inline">訶責言自責汝心生猒離某甲聽凡出家人有二法不得&CB17107;脫一故犯戒二犯已不時悔是為二法不得&CB17107;脫有二法疾得&CB17107;脫一
+<lb ed="D" n="0020a12"/>不故犯戒犯已能悔是為二法疾得&CB17107;脫懺悔者當思三事一者身命難保二者好心難得三者眾僧難集以是義故慎護此戒莫&CB11040;更
+<lb ed="D" n="0020a13"/>犯也</note>。</p></div2>
+<lb ed="D" n="0020a14"/><div2 type="other"><mulu type="其他" level="2" label="＆CB22057；＆CB18944；懺悔法"/><head>&CB22057;&CB18944;懺悔法<note place="inline">此波逸提&CB00112;薩耆者犯已&CB22057;〃已對手懺罪若大界中僧&CB00824;盡集若界&CB00588;上對一二僧&CB22057;物然不淂別眾</note></head></div2>
+<lb ed="D" n="0020a15"/><div2 type="other"><mulu type="其他" level="2" label="＆CB22057；＆CB18944；衣於僧中＆CB22057；文"/><head>&CB22057;&CB18944;衣於僧中&CB22057;文<note place="inline">然&CB00824;持衣來至僧中作如是言</note></head>
+<lb ed="D" n="0020a16"/><p id="pD05p0020a1601">大&CB18786;僧聽我某甲比丘&CB00112;故畜尒許長衣過十
+<lb ed="D" n="0020a17"/>日犯&CB22057;&CB18944;今&CB22057;与僧<note place="inline">如是再三</note>。</p></div2>
+<lb ed="D" n="0020a18"/><div2 type="other"><mulu type="其他" level="2" label="＆CB30130；僧乞懺悔文"/><head>&CB30130;僧乞懺悔文</head>
+<lb ed="D" n="0020a19"/><p id="pD05p0020a1901">大&CB00106;僧聽我某甲比丘&CB00112;故畜尒所長衣過十
+<pb ed="D" id="D05.8774.0021a" n="0021a"/>
+<lb ed="D" n="0021a01"/>日犯&CB22057;&CB18944;此衣已&CB22057;与僧犯某甲罪今&CB30130;眾乞
+<lb ed="D" n="0021a02"/>懺悔願僧聽我某甲比丘&CB00112;懺悔慈愍故<note place="inline">如是三&CB22072;僧中
+<lb ed="D" n="0021a03"/>別請一人對懺悔至清淨比丘&CB00112;所作如是言</note>我某甲比丘&CB00112;請大&CB00106;懺悔<note place="inline">受懺
+<lb ed="D" n="0021a04"/>悔者應白僧已然後受懺也</note>。</p></div2><div2 type="other"><mulu type="其他" level="2" label="受懺者僧中白文"/><head>受懺者僧中白文</head>
+<lb ed="D" n="0021a05"/><p id="pD05p0021a0501">大&CB00106;僧聽某甲比丘&CB00112;故畜尒所長衣過十
+<lb ed="D" n="0021a06"/>日犯&CB22057;&CB18944;此衣<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>&CB22057;与僧有某甲罪今&CB30130;眾
+<lb ed="D" n="0021a07"/>僧懺悔若僧時到僧忍聽我受某甲比丘&CB00112;
+<lb ed="D" n="0021a08"/>懺悔白如是<note place="inline">作是白已即受懺悔</note>。</p></div2><div2 type="other"><mulu type="其他" level="2" label="對一人僧中懺悔文"/><head>對一人僧中懺悔文</head>
+<lb ed="D" n="0021a09"/><p id="pD05p0021a0901">大&CB00106;一心念我某甲比丘&CB00112;故畜尒所長衣過
+<lb ed="D" n="0021a10"/>十日犯&CB22057;&CB18944;此衣已&CB22057;与僧今有某甲罪今&CB30130;
+<lb ed="D" n="0021a11"/>大&CB00106;懺悔不敢&CB29781;藏懺悔則安樂不懺悔不
+<lb ed="D" n="0021a12"/>安樂憶念犯發露知而不&CB29781;藏願大&CB00106;憶我
+<lb ed="D" n="0021a13"/>清淨戒身具&CB30133;清淨&CB22072;戒<note place="inline">如是三&CB22072;已受懺者應語言</note>自責
+<lb ed="D" n="0021a14"/>汝心生厭離<note place="inline">彼荅言尒</note>。</p></div2><div2 type="other"><mulu type="其他" level="2" label="僧還此比丘＆CB00112；物羯磨文"/><head>僧還此比丘&CB00112;物羯磨文
+<lb ed="D" n="0021a15"/><note place="inline">&CB22057;&CB18944;衣法有染者應&CB01618;宿方羯磨還若如三衣及有緣亦聽即日作羯磨還但&CB00824;別稱人轉付不淂直還若&CB07099;染者皆即
+<lb ed="D" n="0021a16"/>日還今此畜長犯&CB22057;還衣是逕宿還羯磨</note></head>
+<lb ed="D" n="0021a17"/><p id="pD05p0021a1701">大&CB00106;僧聽某甲比丘&CB00112;故畜尒所長衣過十
+<lb ed="D" n="0021a18"/>日犯&CB22057;&CB18944;此衣已&CB22057;与僧若僧時到僧忍聽
+<pb ed="D" id="D05.8774.0022a" n="0022a"/>
+<lb ed="D" n="0022a01"/>僧今持此衣還某甲比丘&CB00112;白如是。</p>
+<lb ed="D" n="0022a02"/><p id="pD05p0022a0201">大&CB00106;僧聽某甲比丘&CB00112;故畜尒所長衣過十日
+<lb ed="D" n="0022a03"/>犯&CB22057;&CB18944;此衣<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>&CB22057;与僧僧今持此衣還某甲比
+<lb ed="D" n="0022a04"/>丘&CB00112;誰諸大&CB00106;忍僧持此衣還某甲比丘&CB00112;
+<lb ed="D" n="0022a05"/>者嘿然誰不忍者&CB22072;僧已忍還某甲比丘&CB00112;衣
+<lb ed="D" n="0022a06"/>竟僧忍嘿然故是事如是持<note place="inline">餘廿九戒中有還主者&CB00278;唯此羯磨文作之</note>。</p></div2>
+<lb ed="D" n="0022a07"/><div2 type="other"><mulu type="其他" level="2" label="三人二人一人前＆CB22057；＆CB18944；文"/><head>三人二人一人前&CB22057;&CB18944;文<note place="inline">若三二一人前&CB22057;法同上唯不禪僧為異三二人中懺法受懺者應語邊人然後
+<lb ed="D" n="0022a08"/>受懺對一人者言尒&CB22057;已而懺也</note></head></div2><div2 type="other"><mulu type="其他" level="2" label="三人二人中受懺者語邊人文"/><head>三人二人中受懺者語邊人文</head>
+<lb ed="D" n="0022a09"/><p id="pD05p0022a0901">大&CB00106;聽我受某甲比丘&CB00112;懺悔<note place="inline">彼荅言</note>聽<note place="inline">懺法如上</note>。</p></div2>
+<lb ed="D" n="0022a10"/><div2 type="other"><mulu type="其他" level="2" label="餘罪懺悔法"/><head>餘罪懺悔法<note place="inline">言餘罪者除上二萹及&CB00112;&CB16765;耆白餘波逸提下二萹偷蘭遮突吉羅&CB21717;此餘罪中波逸提提
+<lb ed="D" n="0022a11"/>&CB22064;&CB00112;皆是對手懺悔&CB05663;五篇罪皆是心悔偷蘭遮突吉羅此二之中重者眾中悔&CB11180;故&CB25913;悔法階降不同也</note></head></div2>
+<lb ed="D" n="0022a12"/><div2 type="other"><mulu type="其他" level="2" label="向一比丘＆CB00112；懺悔文"/><head>向一比丘&CB00112;懺悔文<note place="inline">應至一清淨比丘&CB00112;所&CB00642;露右肩若上座&CB17716;&CB30133;右膝著地合&CB22072;罪名&CB22072;罪種作如
+<lb ed="D" n="0022a13"/>是言</note></head><p id="pD05p0022a1303" place="inline">大&CB00106;一心念我某甲比丘&CB00112;犯某甲罪今&CB30130;
+<lb ed="D" n="0022a14"/>大&CB00106;懺悔不敢&CB29781;藏懺悔則安樂不懺悔不
+<lb ed="D" n="0022a15"/>安樂憶念犯發露知而不&CB29781;藏大&CB00106;憶我清
+<lb ed="D" n="0022a16"/>淨戒身具&CB30133;清淨布&CB16765;<note place="inline">如是三&CB22072;受懺者言</note>自責汝心生厭
+<lb ed="D" n="0022a17"/>離<note place="inline">荅言尒</note>。</p></div2><div2 type="other"><mulu type="其他" level="2" label="二比丘＆CB00112；前懺悔"/><head>二比丘&CB00112;前懺悔<note place="inline">至二清淨比丘&CB00112;所請一比丘&CB00112;對懺悔受懺者應先問彼弟二比丘&CB00112;
+<lb ed="D" n="0022a18"/>作如是言</note></head><p id="pD05p0022a1805" place="inline">大&CB00106;聽我受某甲比丘&CB00112;懺悔<note place="inline">彼荅言</note>尒<note place="inline">其懺法同上法</note>。</p></div2><div2 type="other"><mulu type="其他" level="2" label="三比丘＆CB00112；前懺悔文"/><head>三
+<pb ed="D" id="D05.8774.0023a" n="0023a"/>
+<lb ed="D" n="0023a01"/>比丘&CB00112;前懺悔文<note place="inline">應至三清淨比丘&CB00112;所亦請一比丘&CB00112;對懺悔餘与上二人法同也一一皆&CB00824;作永&CB07589;意
+<lb ed="D" n="0023a02"/>懺悔罪方得除滅</note></head></div2><div2 type="other"><mulu type="其他" level="2" label="僧中懺悔文"/><head>僧中懺悔文<note place="inline">應至僧中露肩作如是言</note></head><p id="pD05p0023a0223" place="inline">大&CB00106;僧聽我某
+<lb ed="D" n="0023a03"/>甲比丘&CB00112;犯某甲罪今&CB30130;僧乞懺悔<note place="inline">如是三&CB22072;僧中別請一人對懺悔
+<lb ed="D" n="0023a04"/>至清淨比丘&CB00112;所作如是言</note>我某甲比丘&CB00112;請大&CB00106;懺悔<note place="inline">受懺者應白僧已然後受懺
+<lb ed="D" n="0023a05"/>應作如是白</note>大&CB00106;僧聽彼某甲比丘&CB00112;犯某甲罪今&CB30130;
+<lb ed="D" n="0023a06"/>僧懺悔若僧時到僧忍聽我受某甲比丘&CB00112;懺白
+<lb ed="D" n="0023a07"/>如是<note place="inline">作如是白已受懺悔其法同上</note>。</p></div2><div2 type="other"><mulu type="其他" level="2" label="一切僧同犯即僧中懺悔文"/><head>一切僧同犯即僧中懺悔文<note place="inline">於住
+<lb ed="D" n="0023a08"/>&CB21871;當&CB22072;戒時一切僧同犯而同犯者不得相向懺悔既離&CB22072;戒時&CB11040;不容於外求清淨比丘&CB00112;&CB22072;戒事重故聽眾以單白而懺得為&CB22072;戒應
+<lb ed="D" n="0023a09"/>作如是白</note></head>
+<lb ed="D" n="0023a10"/><p id="pD05p0023a1001">大&CB00106;僧聽此一切眾僧犯罪若僧時到僧忍聽
+<lb ed="D" n="0023a11"/>此一切僧懺悔白如是<note place="inline">作是白已然後&CB22072;戒</note>。</p></div2><div2 type="other"><mulu type="其他" level="2" label="疑罪發露文"/><head>疑罪發露文<note place="inline">至一
+<lb ed="D" n="0023a12"/>清淨比丘&CB00112;所偏露右肩脫&CB22754;蓗&CB20154;&CB30133;已右膝著地合掌自稱所犯戒名口作如是語也</note></head>
+<lb ed="D" n="0023a13"/><p id="pD05p0023a1301">大&CB00106;憶念我於某罪生疑今向大&CB00106;&CB22072;&CB00824;後&CB07099;
+<lb ed="D" n="0023a14"/>疑時當如法懺悔。</p></div2>
+<lb ed="D" n="0023a15"/><div2 type="other"><mulu type="其他" level="2" label="一切僧同犯罪疑於僧中發露文"/><head>一切僧同犯罪疑於僧中發露文<note place="inline">亦是當&CB22072;戒持疑罪發露与上懺法同應作如
+<lb ed="D" n="0023a16"/>是白</note></head><p id="pD05p0023a1603" place="inline">大&CB00106;僧聽此一切僧於罪有疑若僧時到僧
+<lb ed="D" n="0023a17"/>忍聽此眾僧自&CB22072;罪白如是<note place="inline">作如是白<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>然後得&CB22072;戒</note>。</p></div2>
+<lb ed="D" n="0023a18"/><div2 type="other"><mulu type="其他" level="2" label="一切＆CB27771；吉羅懺法文"/><head>一切&CB27771;吉羅懺法文</head>
+<pb ed="D" id="D05.8774.0024a" n="0024a"/>
+<lb ed="D" n="0024a01"/><p id="pD05p0024a0101">十方諸佛我某甲比丘&CB00112;犯某甲&CB27771;吉羅罪
+<lb ed="D" n="0024a02"/>不敢&CB29781;藏懺悔則安樂不懺悔不安樂憶念
+<lb ed="D" n="0024a03"/>犯發露知而不&CB29781;藏唯願諸佛憶我清淨戒
+<lb ed="D" n="0024a04"/>身具&CB30133;清淨布&CB16765;。</p></div2></div1>
+<lb ed="D" n="0024a05"/><div1 type="other"><mulu type="其他" level="1" label="＆CB29781；藏揵度法"/><head>&CB29781;藏揵度法</head>
+<lb ed="D" n="0024a06"/><div2 type="other"><mulu type="其他" level="2" label="卅五事"/><p id="pD05p0024a0601">&CB21868;得波羅夷羯磨及摩&CB30839;埵法皆脫卅五事。</p>
+<lb ed="D" n="0024a07"/><list><item id="itemD05p0024a0701">一不得授人大戒</item><item id="itemD05p0024a0708">二不得受人依止</item><item id="itemD05p0024a0715">三不應畜沙&CB12752;</item>
+<lb ed="D" n="0024a08"/><item id="itemD05p0024a0801">四不應受僧差教授比丘&CB00112;</item><item id="itemD05p0024a0812">五若僧差不應授</item>
+<lb ed="D" n="0024a09"/><item id="itemD05p0024a0901">六不應作&CB22072;戒人</item><item id="itemD05p0024a0908">七不應問荅毗&CB00112;</item><item id="itemD05p0024a0915">八不應為僧作
+<lb ed="D" n="0024a10"/>羯磨人</item><item id="itemD05p0024a1004">九不得預智慧共平論僧事人</item><item id="itemD05p0024a1016">十不得
+<lb ed="D" n="0024a11"/>差作信命</item><item id="itemD05p0024a1105">十一不得早入聚落</item><item id="itemD05p0024a1113">十二不得親近外
+<lb ed="D" n="0024a12"/>道</item><item id="itemD05p0024a1202">十三應順僧教</item><item id="itemD05p0024a1208">十四不得逼還寺</item><item id="itemD05p0024a1215">十五親近比
+<lb ed="D" n="0024a13"/>丘&CB00112;</item><item id="itemD05p0024a1303">十六不應重犯此罪</item><item id="itemD05p0024a1311">十<app><lem wit="【CBETA】" resp="CBETA.maha">七</lem><rdg wit="【國圖】">六</rdg></app>亦不得犯相似</item><item id="itemD05p0024a1319">十<app><lem wit="【CBETA】" resp="CBETA.maha">八</lem><rdg wit="【國圖】">六</rdg></app>若
+<lb ed="D" n="0024a14"/>&CB30130;此生</item><item id="itemD05p0024a1404">十九若重於此</item><item id="itemD05p0024a1410">廿不應嫌羯磨及羯磨人</item>
+<lb ed="D" n="0024a15"/><item id="itemD05p0024a1501">廿一不應受善比丘&CB00112;敷坐具</item><item id="itemD05p0024a1513">廿二不應受善比丘&CB00112;
+<lb ed="D" n="0024a16"/>供養</item><item id="itemD05p0024a1603">廿三不應受他洗&CB30133;</item><item id="itemD05p0024a1611">廿四不應受他安洗&CB30133;物</item><item id="itemD05p0024a1621">廿
+<lb ed="D" n="0024a17"/>五不應他拭&CB22754;&CB29797;及揩摩身</item><item id="itemD05p0024a1712">廿六不淂受善比丘
+<lb ed="D" n="0024a18"/>&CB00112;&CB17716;拜</item><item id="itemD05p0024a1804">廿七合掌</item><item id="itemD05p0024a1808">廿八問&CB26603;</item><item id="itemD05p0024a1812">廿九迎&CB01618;</item><item id="itemD05p0024a1816">卅持衣&CB00425;
+<pb ed="D" id="D05.8774.0025a" n="0025a"/>
+<lb ed="D" n="0025a01"/>&CB21717;皆不得受</item><item id="itemD05p0025a0106">卅一不得舉他</item><item id="itemD05p0025a0112">卅二作憶念</item><item id="itemD05p0025a0117">卅三作
+<lb ed="D" n="0025a02"/>自言</item><item id="itemD05p0025a0203">卅四不應作證</item><item id="itemD05p0025a0209">卅五不應遮&CB22072;戒自恣共
+<lb ed="D" n="0025a03"/>善比丘&CB00112;諍</item></list><p id="pD05p0025a0306" place="inline">無&CB22072;戒人得為眾誦戒不得共
+<lb ed="D" n="0025a04"/>清淨比丘&CB00112;行入白衣家或不淂遣清淨&CB00112;剃髮
+<lb ed="D" n="0025a05"/>應在大食小食上作白應在沙&CB12752;上大僧下
+<lb ed="D" n="0025a06"/>坐亦不得与清淨&CB00112;同一坐一&CB00646;一板上應掃
+<lb ed="D" n="0025a07"/>灑大小食&CB21871;及&CB22072;戒&CB21871;種〃應作洗浴室
+<lb ed="D" n="0025a08"/>中種〃辨具並如弟子供給師主法。</p></div2>
+<lb ed="D" n="0025a09"/><div2 type="other"><mulu type="其他" level="2" label="作行摩＆CB30839；埵白文"/><head>作行摩&CB30839;埵白文</head>
+<lb ed="D" n="0025a10"/><p id="pD05p0025a1001">大&CB18786;僧聽我某甲比丘&CB00112;犯某甲僧殘&CB30130;僧乞
+<lb ed="D" n="0025a11"/>半月摩&CB30839;埵僧已我半月摩&CB30839;埵我某甲比
+<lb ed="D" n="0025a12"/>丘&CB00112;已行若干日未行若干日白諸大&CB18786;僧
+<lb ed="D" n="0025a13"/>僧令知我行摩&CB30839;埵。</p></div2></div1>
+<lb ed="D" n="0025a14"/><div1 type="other"><mulu type="其他" level="1" label="遮揵度法"/><head>遮揵度法</head>
+<lb ed="D" n="0025a15"/><p id="pD05p0025a1501" rend="margin-left:1em">有五&CB18786;者聽遮&CB22072;戒。</p><list><item id="itemD05p0025a1509">一知時</item><item id="itemD05p0025a1512">二真實</item><item id="itemD05p0025a1515">三利益</item><item id="itemD05p0025a1518">四柔
+<lb ed="D" n="0025a16"/>濡</item><item id="itemD05p0025a1602">五慈心</item></list><p id="pD05p0025a1605" place="inline" rend="margin-left:1em">又有十法。</p><list><item id="itemD05p0025a1609">一如法有根作</item><item id="itemD05p0025a1615">二如法遮有根
+<lb ed="D" n="0025a17"/>作不作</item><item id="itemD05p0025a1704">三如法遮有根破戒破見破威儀</item>
+<lb ed="D" n="0025a18"/><item id="itemD05p0025a1801">四如法遮破戒見威儀邪命</item><item id="itemD05p0025a1812">五如法謂有根五
+<pb ed="D" id="D05.8774.0026a" n="0026a"/>
+<lb ed="D" n="0026a01"/>犯</item><item id="itemD05p0026a0102">六如法遮有根破戒作不作破見作不作破
+<lb ed="D" n="0026a02"/>威儀作不作</item><item id="itemD05p0026a0206">七如法遮有根犯七聚</item><item id="itemD05p0026a0215">八如法遮
+<lb ed="D" n="0026a03"/>有根破戒作不作乃至破威儀邪見作不作</item>
+<lb ed="D" n="0026a04"/><item id="itemD05p0026a0401">九如法遮有根破戒作不作作不作乃至破威儀
+<lb ed="D" n="0026a05"/>作不作作不作</item><item id="itemD05p0026a0507">十如法波羅夷入&CB22072;中&CB22057;戒
+<lb ed="D" n="0026a06"/>入&CB22072;中如法僧要如法僧要違犯如法僧要呵
+<lb ed="D" n="0026a07"/>&CB22072;入如法僧要呵&CB22072;中破戒見聞疑破見破
+<lb ed="D" n="0026a08"/>威儀見聞疑</item></list><p id="pD05p0026a0806" place="inline" rend="margin-left:1em"><note place="inline">有前十法作如是遮</note>。</p>
+<lb ed="D" n="0026a09"/><p id="pD05p0026a0901">大&CB00106;僧聽此某甲比丘&CB00112;犯波羅夷眾僧不
+<lb ed="D" n="0026a10"/>應在此比丘&CB00112;前&CB22072;戒<note place="inline">今遮此比丘&CB00112;&CB22072;戒成遮&CB22072;戒乃至十如法</note>遮僧殘
+<lb ed="D" n="0026a11"/>&CB21717;罪亦如同上<note place="inline">至上中下座求聽及至罪人&CB21871;求聽方得遮他</note>。</p></div1>
+<lb ed="D" n="0026a12"/><div1 type="other"><mulu type="其他" level="1" label="破僧揵度法"/><head>破僧揵度法<note place="inline">調達在伽耶行&CB22064;羅時阿難作如是白云立法非佛教</note></head>
+<lb ed="D" n="0026a13"/><div2 type="other"><mulu type="其他" level="2" label="破僧五法"/><p id="pD05p0026a1301">大&CB00106;僧聽此五法非法非毗&CB00112;非佛教若僧時
+<lb ed="D" n="0026a14"/>到僧忍聽此五法非法非毗&CB00112;非佛教是提婆達
+<lb ed="D" n="0026a15"/>所&CB22072;白如是。</p>
+<lb ed="D" n="0026a16"/><p id="pD05p0026a1601">大&CB00106;僧聽此五法非法非毗&CB00112;非佛教誰諸大&CB00106;
+<lb ed="D" n="0026a17"/>忍此五法非法非毗&CB00112;非佛教是提婆達所&CB22072;者
+<lb ed="D" n="0026a18"/>各置&CB00614;多羅僧一邊嘿然誰不忍者&CB22072;僧已
+<pb ed="D" id="D05.8774.0027a" n="0027a"/>
+<lb ed="D" n="0027a01"/>忍此五法非法非毗&CB00112;非佛教是提婆達所&CB22072;
+<lb ed="D" n="0027a02"/>竟僧忍嘿然故是事如是持。</p>
+<lb ed="D" n="0027a03"/><p id="pD05p0027a0301">破僧起自調達若有後代作破僧者一依此法
+<lb ed="D" n="0027a04"/>差僧往白衣眾中&CB22072;造罪者過<note place="inline">如提婆達多教闍王害父及白打佛出向若有俗中作過者皆如是差</note>。</p>
+<lb ed="D" n="0027a05"/><p id="pD05p0027a0501">大&CB00106;僧聽若僧時到僧忍聽今差某甲比丘&CB00112;向諸
+<lb ed="D" n="0027a06"/>衣大眾&CB22072;某甲所為事者非佛法僧事當知是某
+<lb ed="D" n="0027a07"/>甲所作白如是。</p><p id="pD05p0027a0707" place="inline">大&CB00106;僧聽僧今差某甲比丘&CB00112;
+<lb ed="D" n="0027a08"/>向諸白衣大眾&CB22072;某甲所作事非佛法僧事是某
+<lb ed="D" n="0027a09"/>甲所作誰諸大&CB00106;忍僧差某甲向諸白衣大眾
+<lb ed="D" n="0027a10"/>&CB22072;某甲所作非佛法僧者默然誰不忍者&CB22072;僧
+<lb ed="D" n="0027a11"/>已忍差某甲向諸白衣大眾&CB22072;某甲所作事非佛
+<lb ed="D" n="0027a12"/>法僧竟僧忍默然故是事如是持。</p></div2><div2 type="other"><mulu type="其他" level="2" label="与破僧羯磨文"/><head>与破僧羯磨文</head>
+<lb ed="D" n="0027a13"/><p id="pD05p0027a1301">大&CB00106;僧聽此某甲方便破和合僧堅持不&CB22057;若僧時到僧
+<lb ed="D" n="0027a14"/>忍聽与作呵諫&CB22057;此事故某甲汝莫破和合
+<lb ed="D" n="0027a15"/>僧堅持不&CB22057;汝某甲當与僧和合歡喜不諍同一水乳於
+<lb ed="D" n="0027a16"/>佛法中安樂住白如是<note place="inline">大&CB00106;僧聽此某甲欲受破和合僧法堅持不&CB22057;今与呵諫&CB22057;此事故汝莫破和合僧堅持不&CB22057;
+<lb ed="D" n="0027a17"/>汝某甲當与僧和合歡喜不諍同一水乳於佛法中安樂住誰諸大&CB00106;思僧与某甲呵諫&CB22057;此事者默然誰不忍者&CB22072;是初羯磨（如是三&CB22072;）僧已与某甲呵諫
+<lb ed="D" n="0027a18"/>&CB22057;此事竟僧忍默然故是事如是持</note>。</p></div2><div2 type="other"><mulu type="其他" level="2" label="与助伴破僧羯磨文"/><head>与助伴破僧羯磨文</head>
+<pb ed="D" id="D05.8774.0028a" n="0028a"/>
+<lb ed="D" n="0028a01"/><p id="pD05p0028a0101">大&CB00106;僧聽此某甲伴黨比丘&CB00112;順&CB30130;某甲作如是言
+<lb ed="D" n="0028a02"/>汝&CB21717;諸比丘&CB00112;莫呵某甲何以故<app><lem wit="【CBETA】" resp="CBETA.maha">某</lem><rdg wit="【國圖】">&unrec;</rdg></app>甲是法語比丘
+<lb ed="D" n="0028a03"/>&CB00112;律語比丘&CB00112;某甲所&CB22072;我&CB21717;忍可若僧時到僧忍聽
+<lb ed="D" n="0028a04"/>僧今与某甲伴黨比丘&CB00112;作呵諫&CB22057;此事故汝&CB21717;莫
+<lb ed="D" n="0028a05"/>言某甲是法語比丘&CB00112;律語比丘&CB00112;某甲所&CB22072;我&CB21717;
+<lb ed="D" n="0028a06"/>忍可然某甲非法語比丘&CB00112;律語比丘&CB00112;汝&CB21717;莫欲壞和
+<lb ed="D" n="0028a07"/>合僧汝&CB21717;當助和合僧大&CB00106;与僧和合歡喜不諍同一水乳
+<lb ed="D" n="0028a08"/>於佛法中有增益安樂住白如是<note place="inline">大&CB00106;僧聽此某甲伴黨比丘&CB00112;順&CB30130;某甲作如是語汝&CB21717;諸比丘&CB00112;莫呵某甲某甲是法
+<lb ed="D" n="0028a09"/>語比丘&CB00112;律語比丘&CB00112;某甲所&CB22072;我&CB21717;忍可僧今為某甲伴黨比丘&CB00112;作呵諫&CB22057;此事故大&CB00106;莫作如是語某甲是法語比丘&CB00112;律語比丘&CB00112;某甲所&CB22072;我&CB21717;忍可而某甲非法語比丘&CB00112;非律語比丘
+<lb ed="D" n="0028a10"/>&CB00112;汝&CB21717;莫壞和合僧汝&CB21717;當勸和合僧大&CB00106;与僧和合歡喜不諍同一水乳於佛法中有增益安樂法故諸大&CB00106;忍僧呵諫某甲伴黨比丘&CB00112;令&CB22057;此事者默然語不忍者&CB22072;（如是再三）僧已忍呵諫某甲伴黨
+<lb ed="D" n="0028a11"/>比丘&CB00112;令&CB22057;此事竟僧忍嘿然故如是持</note>。</p></div2></div1><div1 type="other"><mulu type="其他" level="1" label="滅諍揵度法"/><head>滅諍揵度法</head><div2 type="other"><mulu type="其他" level="2" label="滅諍"/><p id="pD05p0028a1122" place="inline">現前毗&CB00112;者要&CB00824;人在中對面稱作
+<lb ed="D" n="0028a12"/><note place="inline">曰六&CB00320;&CB02168;偏迦留&CB00442;夷對而作羯磨現前有五一法現前二毗&CB00112;現前三人現前四僧現前五界現前謂結界僧作制限者是</note>或單用現前不用
+<lb ed="D" n="0028a13"/>多人語毗&CB00112;<note place="inline">或有比丘&CB00112;不用因眾滅滅言諍來至餘眾中至上座智&CB31157;人前作如是言我此諍事如是起如實&CB10318;
+<lb ed="D" n="0028a14"/>是起僧作是滅我不忍可是故來至大&CB00106;所善哉大&CB00106;為我如法如毗&CB00112;如佛所教滅此諍事若大&CB00106;如法為我滅者我&CB21717;於大&CB00106;&CB22057;此諍事
+<lb ed="D" n="0028a15"/>若不如法滅我&CB21717;自在作諍更令罪深重此僧應語諍&CB00112;云如是起不彼僧即為良&CB04833;受已應&CB07589;若是下座令出自論　若是上座僧眾出外共平論</note>。</p>
+<lb ed="D" n="0028a16"/><p id="pD05p0028a1601">大&CB00106;僧聽若僧時到僧忍聽僧今集諸智慧
+<lb ed="D" n="0028a17"/>者共別平&CB07589;事白如是<note place="inline">作是白已應差十法具者共平&CB07589;諍謂持戒多聞誦二部
+<lb ed="D" n="0028a18"/>毗&CB00112;善巧言語&CB07247;辯了了堪住問荅令彼歡喜若諍事起能滅不愛恚怖癡&CB07589;諍中有不知誦者不知戒毗&CB00112;便&CB22057;正義者應白&CB00502;出</note>。</p>
+<pb ed="D" id="D05.8774.0029a" n="0029a"/>
+<lb ed="D" n="0029a01"/><p id="pD05p0029a0101">大&CB00106;僧聽某甲比丘&CB00112;不誦戒不知毗&CB00112;便
+<lb ed="D" n="0029a02"/>&CB22057;正義作非法語若僧時到僧忍聽僧今遣
+<lb ed="D" n="0029a03"/>此比丘&CB00112;出白如是<note place="inline">作是白<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>遣出有誦戒不誦戒毗&CB00112;彼&CB22057;正義&CB22072;少許文亦作白遣出</note>。</p>
+<lb ed="D" n="0029a04"/><p id="pD05p0029a0401">大&CB00106;僧聽彼某甲比丘&CB00112;誦戒不誦戒毗&CB00112;
+<lb ed="D" n="0029a05"/>彼&CB22057;正&CB05136;&CB22072;少許文若僧時到僧忍聽僧今
+<lb ed="D" n="0029a06"/>遣此比丘&CB00112;出白如是<note place="inline">若有法師&CB22057;正義以言&CB07247;力強&CB22072;亦作白遣出</note>。</p>
+<lb ed="D" n="0029a07"/><p id="pD05p0029a0701">大&CB00106;僧聽此某甲比丘&CB00112;法師&CB22057;正義法以言
+<lb ed="D" n="0029a08"/>&CB07247;力強&CB22072;若僧時到僧忍僧今遣此比丘&CB00112;出
+<lb ed="D" n="0029a09"/>白如是<note place="inline">作是白已如法平&CB07589;滅之是為現前滅諍</note>云何&CB05663;二僧眾現前滅彼
+<lb ed="D" n="0029a10"/>諍事令息<note place="inline">若平&CB07589;事比丘&CB00112;坐中誦戒誦毗&CB00112;彼順<app><lem wit="【CBETA】" resp="CBETA.maha">正義</lem><rdg wit="【國圖】">&unrec;&unrec;</rdg></app>如法&CB22072;佛告阿難僧應如法如毗&CB00112;
+<lb ed="D" n="0029a11"/>如佛所教彼助此比丘&CB00112;若彼諍事僧不如法如毗&CB00112;如佛所教滅諍者今僧應如法如毗&CB00112;如佛所教滅此諍事若
+<lb ed="D" n="0029a12"/>彼僧如法毗&CB00112;如佛所教滅此諍事者今我&CB21717;亦忍可此事如法滅諍今我&CB21717;亦如是滅諍</note>。</p>
+<lb ed="D" n="0029a13"/><p id="pD05p0029a1301">若作如是淂滅諍者是為阿難言諍以一滅
+<lb ed="D" n="0029a14"/>滅現前毗&CB00112;不用多人語現前&CB05136;法乃至
+<lb ed="D" n="0029a15"/>界亦如上若諍事如法滅已後發起者波
+<lb ed="D" n="0029a16"/>逸提。</p></div2>
+<lb ed="D" n="0029a17"/><div2 type="other"><mulu type="其他" level="2" label="憶念毗＆CB00112；法"/><head>憶念毗&CB00112;法<note place="inline">如比丘&CB00112;實不犯&CB21942;僧中&CB21092;〃語問此&CB00112;應&CB30130;僧乞</note></head>
+<lb ed="D" n="0029a18"/><p id="pD05p0029a1801">大&CB00106;僧聽我某甲不犯重罪諸比丘&CB00112;言我
+<pb ed="D" id="D05.8774.0030a" n="0030a"/>
+<lb ed="D" n="0030a01"/>犯重罪波羅夷僧殘偷蘭遮諸比丘&CB00112;問我言
+<lb ed="D" n="0030a02"/>汝憶犯重罪波羅夷僧殘偷蘭遮不我不憶
+<lb ed="D" n="0030a03"/>犯重罪波羅夷僧殘偷蘭遮荅言我不憶犯
+<lb ed="D" n="0030a04"/>如是重罪諸大&CB18786;不&CB00824;&CB08001;〃難詰問我而諸
+<lb ed="D" n="0030a05"/>比丘&CB00112;故難詰不止我今不知憶念&CB30130;僧乞
+<lb ed="D" n="0030a06"/>憶念毗&CB00112;願僧与我憶念毗&CB00112;慈愍故<note place="inline">如是再三</note>。</p>
+<lb ed="D" n="0030a07"/><p id="pD05p0030a0701">大&CB00106;僧聽此某甲不犯重罪波羅夷僧殘偷
+<lb ed="D" n="0030a08"/>蘭遮諸比丘&CB00112;皆言犯重波羅夷乃至偷蘭
+<lb ed="D" n="0030a09"/>遮諸比丘&CB00112;言汝憶犯重罪波羅夷乃至偷
+<lb ed="D" n="0030a10"/>蘭遮不彼不憶犯重罪即荅言不犯重罪諸
+<lb ed="D" n="0030a11"/>大&CB00106;不&CB00824;難詰問我而諸比丘&CB00112;故難詰不
+<lb ed="D" n="0030a12"/>止彼不憶念罪今&CB30130;僧乞憶念毗&CB00112;若僧時
+<lb ed="D" n="0030a13"/>到僧忍聽与彼憶念毗&CB00112;白如是。</p>
+<lb ed="D" n="0030a14"/><p id="pD05p0030a1401">大&CB00106;僧聽此某甲不犯重罪波羅夷僧殘偷
+<lb ed="D" n="0030a15"/>蘭遮諸比丘&CB00112;皆言犯波羅夷僧殘偷蘭遮
+<lb ed="D" n="0030a16"/>即問言汝憶犯重罪波羅夷乃至偷蘭遮不
+<lb ed="D" n="0030a17"/>彼不憶犯重罪即荅言我不憶犯重罪諸大
+<lb ed="D" n="0030a18"/>&CB00106;不&CB00824;&CB21092;難詰問我而諸比丘&CB00112;故&CB21092;&CB21092;難
+<pb ed="D" id="D05.8774.0031a" n="0031a"/>
+<lb ed="D" n="0031a01"/>詰問不止彼不憶罪今&CB30130;僧乞憶念毗&CB00112;今
+<lb ed="D" n="0031a02"/>僧与某甲作憶念毗&CB00112;誰諸大&CB00106;忍僧与某
+<lb ed="D" n="0031a03"/>甲憶念毗&CB00112;者嘿然誰不忍者&CB22072;<note place="inline">如是再三</note>僧<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>
+<lb ed="D" n="0031a04"/>与某甲憶念羯磨竟僧忍嘿然故是事如
+<lb ed="D" n="0031a05"/>是持。</p></div2>
+<lb ed="D" n="0031a06"/><div2 type="other"><mulu type="其他" level="2" label="不＆CB01153；毗＆CB00112；羯磨文"/><head>不&CB01153;毗&CB00112;羯磨文<note place="inline">&CB01153;病比丘&CB00112;作如是乞</note></head>
+<lb ed="D" n="0031a07"/><p id="pD05p0031a0701">大&CB00106;僧聽我某甲比丘&CB00112;顛狂心&CB07455;時多犯眾
+<lb ed="D" n="0031a08"/>罪行來出入不順威儀後還得心諸比丘&CB00112;問
+<lb ed="D" n="0031a09"/>我言汝憶犯重罪波羅夷僧殘偷蘭遮不我
+<lb ed="D" n="0031a10"/>荅言先顛狂心&CB07455;時多犯眾罪行來出入不順
+<lb ed="D" n="0031a11"/>威儀非我故作是顛狂心故諸大&CB00106;不&CB00824;&CB08001;
+<lb ed="D" n="0031a12"/>詰問我而諸比丘&CB00112;故難問不止我今不癡
+<lb ed="D" n="0031a13"/>&CB30130;僧乞不癡毗&CB00112;願僧与我不癡毗&CB00112;慈愍
+<lb ed="D" n="0031a14"/>故<note place="inline">如是再三</note>。</p>
+<lb ed="D" n="0031a15"/><p id="pD05p0031a1501">大&CB00106;僧聽此某甲比丘&CB00112;顛狂心&CB07455;多犯眾罪
+<lb ed="D" n="0031a16"/>言&CB07099;齊限出入行來不順威儀後還得心諸
+<lb ed="D" n="0031a17"/>比丘&CB00112;語言汝憶犯重罪波羅夷僧殘偷蘭
+<lb ed="D" n="0031a18"/>遮不即荅言先顛狂時多犯眾罪言&CB07099;齊限
+<pb ed="D" id="D05.8774.0032a" n="0032a"/>
+<lb ed="D" n="0032a01"/>出入行來不順威儀此是顛狂心非是故作
+<lb ed="D" n="0032a02"/>諸大&CB00106;莫&CB21092;詰問而諸比丘&CB00112;故難詰不&CB29795;
+<lb ed="D" n="0032a03"/>此比丘&CB00112;今不&CB01153;&CB30130;僧乞不&CB01153;毗&CB00112;若僧時
+<lb ed="D" n="0032a04"/>到僧忍与某甲比丘&CB00112;不癡毗&CB00112;白如是。</p>
+<lb ed="D" n="0032a05"/><p id="pD05p0032a0501">大&CB00106;僧聽此某甲比丘&CB00112;顛狂心&CB07455;多犯眾
+<lb ed="D" n="0032a06"/>罪言&CB07099;齊限出入行來不順威儀後還得心
+<lb ed="D" n="0032a07"/>諸比丘&CB00112;語言汝憶犯重罪波羅夷僧伽婆
+<lb ed="D" n="0032a08"/>尸沙偷蘭遮不即荅言我先顛狂心&CB07455;多犯
+<lb ed="D" n="0032a09"/>眾罪出入行來不順威儀此是我顛狂心非
+<lb ed="D" n="0032a10"/>是故作諸大&CB00106;莫&CB08001;詰難我而諸比丘&CB00112;故
+<lb ed="D" n="0032a11"/>難詰不正此比丘今不&CB01153;&CB30130;僧乞不&CB01153;毗&CB00112;僧
+<lb ed="D" n="0032a12"/>今与某甲比丘&CB00112;不&CB01153;毗&CB00112;誰諸大&CB00106;忍僧
+<lb ed="D" n="0032a13"/>与某甲比丘&CB00112;不癡毗&CB00112;者嘿然誰不忍者
+<lb ed="D" n="0032a14"/>&CB22072;<note place="inline">如是再三</note>僧已与某甲比丘&CB00112;不&CB01153;毗&CB00112;竟僧
+<lb ed="D" n="0032a15"/>忍嘿然故是事如是持。</p></div2>
+<lb ed="D" n="0032a16"/><div2 type="other"><mulu type="其他" level="2" label="自言治毗＆CB00112；"/><head>自言治毗&CB00112;<note place="inline">因目連手&CB27006;盜者佛制目言不許天眼舉罪</note></head>
+<lb ed="D" n="0032a17"/><p id="pD05p0032a1701" rend="margin-left:1em">若犯波羅夷不作舉不作憶念<note place="inline">彼自言犯波羅夷諸比丘&CB00112;即為作波羅夷罪治是
+<lb ed="D" n="0032a18"/>為如法与自言治乃至&CB08891;&CB22072;亦如是〃中比丘&CB00112;犯波羅夷彼作舉作憶念彼自言犯波羅夷諸比丘&CB00112;即与作波羅夷治僧殘偷蘭波逸提〃&CB22064;
+<lb ed="D" n="0032a19"/>&CB00112;&CB08891;作&CB08891;&CB22072;亦如是〃為如法自言治翻前皆非法自言妄羯磨在人<app><lem wit="【CBETA】" resp="CBETA.maha">揵</lem><rdg wit="【國圖】">&unrec;</rdg></app>度如比丘&CB00112;不犯波羅夷彼不作舉不作憶念自言犯波羅夷&CB21717;乃至&CB08891;&CB22072;亦如是</note>。</p></div2>
+<pb ed="D" id="D05.8774.0033a" n="0033a"/>
+<lb ed="D" n="0033a01"/><div2 type="other"><mulu type="其他" level="2" label="多人語毗＆CB00112；"/><head>多人語毗&CB00112;<note place="inline">如有&CB07589;諍不定&CB00824;多人語&CB30070;之告諸比丘應滅此人用多人語應行&CB22064;羅不受恚怖&CB01153;知已行未行者差行&CB22064;羅應如差</note></head>
+<lb ed="D" n="0033a02"/><p id="pD05p0033a0201">大&CB00106;僧聽若僧時到僧忍聽僧差某甲比丘&CB00112;
+<lb ed="D" n="0033a03"/>行&CB22064;羅白如是。</p>
+<lb ed="D" n="0033a04"/><p id="pD05p0033a0401">大&CB00106;僧聽今僧差某甲比丘&CB00112;行&CB22064;羅誰諸大
+<lb ed="D" n="0033a05"/>&CB00106;忍僧差某甲比丘&CB00112;行&CB22064;羅者嘿然誰不忍
+<lb ed="D" n="0033a06"/>者&CB22072;僧已忍差某甲比丘&CB00112;行&CB22064;羅竟僧忍嘿
+<lb ed="D" n="0033a07"/>然故是事如是持<note place="inline">行&CB22064;羅有三若和上闍梨如皆顯露行&CB22064;羅有二一破二完二&CB29781;藏行三耳語行作如是
+<lb ed="D" n="0033a08"/>白</note>大&CB00106;聽作如是語者&CB28195;不破&CB22064;羅作如是語者
+<lb ed="D" n="0033a09"/>捉破&CB22064;羅白如是<note place="inline">行&CB22064;羅已應別&CB21871;&CB21092;若如法語比丘&CB00112;多者彼應作白作如是語者諍事滅若
+<lb ed="D" n="0033a10"/>法語比丘&CB00112;少者即作&CB07455;<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>便起去</note>應遣信往比丘&CB00112;住&CB21871;僧中白言
+<lb ed="D" n="0033a11"/>彼住&CB21871;非法比丘&CB00112;多善&CB21972;大&CB00106;能往至彼若
+<lb ed="D" n="0033a12"/>如語比丘&CB00112;多諍事滅功&CB18786;多此比丘&CB00112;聞應
+<lb ed="D" n="0033a13"/>往若不往如法治<note place="inline">用多人&CB22072;持法持毗&CB00112;持摩夷若如毗&CB00112;法滅已後更發舉者波逸提二者&CB29781;藏
+<lb ed="D" n="0033a14"/>行&CB22064;羅謂和上阿闍梨不如法及上座摽首智人者住非法三者耳語行&CB22064;羅謂眾中如法比丘&CB00112;多和上闍梨而住非法</note>。</p>
+<lb ed="D" n="0033a15"/><p id="pD05p0033a1501">&CB21868;行&CB22064;羅法應希坐閒容一人有十不如法捉&CB22064;
+<lb ed="D" n="0033a16"/>羅。</p><list><item id="itemD05p0033a1602">一者不&CB17107;捉&CB22064;羅<note place="inline">於此諍事不&CB00804;了不知是法非法乃至&CB22072;不&CB22072;</note></item><item id="itemD05p0033a1627">二者不
+<lb ed="D" n="0033a17"/>与善伴共捉&CB22064;羅<note place="inline">若比丘&CB00112;多聞持法持毗&CB00112;持摩夷不与住伴</note></item><item id="itemD05p0033a1726">三者令非法比
+<lb ed="D" n="0033a18"/>丘&CB00112;多捉&CB22064;羅<note place="inline">彼比丘&CB00112;作如是念此諍事多有如法比丘&CB00112;我今當捉非法&CB22064;羅</note></item><item id="itemD05p0033a1833">四者知多非法
+<lb ed="D" n="0033a19"/>比丘&CB00112;捉&CB22064;羅<note place="inline">彼&CB00112;作是念此諍事非法&CB00112;多為非法伴捉</note></item><item id="itemD05p0033a1924">五欲令僧破&CB22064;羅<note place="inline">彼&CB00112;作是念此
+<pb ed="D" id="D05.8774.0034a" n="0034a"/>
+<lb ed="D" n="0034a01"/>諍事如法&CB00112;多我今令僧破捉</note></item><item id="itemD05p0034a0113">六知僧破捉&CB22064;羅<note place="inline">彼&CB00112;知非法伴多為捉非法&CB22064;羅</note></item><item id="itemD05p0034a0133">七非法捉&CB22064;羅
+<lb ed="D" n="0034a02"/><note place="inline">不如白及羯磨作白作羯磨</note></item><item id="itemD05p0034a0212">八別眾捉&CB22064;羅</item><item id="itemD05p0034a0218">九以小犯事捉&CB22064;羅</item><item id="itemD05p0034a0226">十不如所見捉
+<lb ed="D" n="0034a03"/>&CB22064;羅<note place="inline">謂異見異忍</note></item></list></div2><div2 type="other"><mulu type="其他" level="2" label="罪＆CB21871；所毗＆CB00112；羯磨文"/><head>罪&CB21871;所毗&CB00112;羯磨文<note place="inline">&CB10318;&CB07782;力妄語眾問違反前語故制此&CB02168;</note></head>
+<lb ed="D" n="0034a04"/><p id="pD05p0034a0401">大&CB00106;僧聽此某甲好論議与外道論得切問時
+<lb ed="D" n="0034a05"/>前後言語相違設於眾僧中問亦尒前後言語
+<lb ed="D" n="0034a06"/>相違眾中故作妄語若僧時到僧忍聽僧今与
+<lb ed="D" n="0034a07"/>某甲作罪&CB21871;所羯磨汝某甲&CB07099;利不善汝得
+<lb ed="D" n="0034a08"/>切問時前後言語相違設眾僧中問時亦&CB11040;
+<lb ed="D" n="0034a09"/>如是在眾中故作妄語白如是。</p>
+<lb ed="D" n="0034a10"/><p id="pD05p0034a1001">大&CB00106;僧聽此某甲好論議与外道論得忉問
+<lb ed="D" n="0034a11"/>時前後言語相違在眾僧中問時亦復如是
+<lb ed="D" n="0034a12"/>在眾中故作妄語今僧与某甲作罪&CB21871;所羯
+<lb ed="D" n="0034a13"/>磨汝某甲<app><lem wit="【CBETA】" resp="CBETA.maha">&CB07099;</lem><rdg wit="【國圖】">旡</rdg></app>利不善得汝得切問時前後言
+<lb ed="D" n="0034a14"/>語相違在眾中問時亦復如是在眾中故作
+<lb ed="D" n="0034a15"/>妄語誰諸大&CB00106;忍僧与某甲作罪&CB21871;所羯
+<lb ed="D" n="0034a16"/>磨者嘿然誰不忍者&CB22072;<note place="inline">如是再三</note>僧已与作&CB21871;所
+<lb ed="D" n="0034a17"/>羯磨竟僧忍嘿然故是事如是持。</p></div2>
+<pb ed="D" id="D05.8774.0035a" n="0035a"/>
+<lb ed="D" n="0035a01"/><div2 type="other"><mulu type="其他" level="2" label="如草＆CB29781；地毗＆CB00112；"/><head>如草&CB29781;地毗&CB00112;<note place="inline">因諸&CB00112;&CB21717;多犯眾戒非沙門法若共諍此事&CB06960;諍事轉深經歷年月不得如法如毗&CB00112;
+<lb ed="D" n="0035a02"/>佛聞滅諍如草&CB29781;地作是言此&CB00112;&CB21717;住心不安樂若大&CB00106;忍者今為大草掩塗應云懺悔此罪&CB05663;二眾中亦如是&CB22072;當差人作白</note></head>
+<lb ed="D" n="0035a03"/><p id="pD05p0035a0301">大&CB00106;僧聽若僧時到僧忍聽僧今此諍事作
+<lb ed="D" n="0035a04"/>草&CB29781;地懺悔白如是<note place="inline">白已眾中有智&CB31157;者&CB30130;坐起偏露右肩右膝著地合掌作如是白諸
+<lb ed="D" n="0035a05"/>大&CB00106;我今此諍事<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【國圖】">巳</rdg></app>所犯罪除重罪遮不至白衣裳羯磨諸大&CB00106;聽者為諸大&CB00106;及<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【國圖】">已</rdg></app>作草&CB29781;地懺悔　&CB05663;二眾亦應作如是&CB22072;
+<lb ed="D" n="0035a06"/>彼此二眾&CB22072;已罪即除不&CB00824;&CB22072;具名種</note>。</p>
+<lb ed="D" n="0035a07"/><p id="pD05p0035a0701">諍有四種。</p>
+<lb ed="D" n="0035a08"/><list><item id="itemD05p0035a0801">一者言諍以二毗&CB00112;滅<note place="inline">一者現前二者多人語或有言諍單用現前滅或單用多智&CB31157;人語</note></item>
+<lb ed="D" n="0035a09"/><item id="itemD05p0035a0901">二者覓諍以四滅滅<note place="inline">一者現前二者不&CB01153;三者罪&CB21871;四者憶念或單用現前憶念或單不&CB01153;罪&CB21871;所或單
+<lb ed="D" n="0035a10"/>用現前罪&CB21871;所不用餘毗&CB00112;</note></item>
+<lb ed="D" n="0035a11"/><item id="itemD05p0035a1101">三者犯諍用三毗&CB00112;滅<note place="inline">一者現前二自言三草&CB29781;地或單用現前自言或單用現前草&CB29781;不用餘毗&CB00112;</note></item>
+<lb ed="D" n="0035a12"/><item id="itemD05p0035a1201">四者事諍用七毗&CB00112;滅<note place="inline">一現前二自言三憶念四不&CB01153;五多人語六罪&CB21871;所或單箑&CB21717;滅唯上三諍思之</note></item></list></div2></div1>
+<lb ed="D" n="0035a13"/><div1 type="other"><mulu type="其他" level="1" label="＆CB00112；揵度法"/><head>&CB00112;揵度法</head>
+<lb ed="D" n="0035a14"/><div2 type="other"><mulu type="其他" level="2" label="八不可過法"/><head>八不可過法</head>
+<lb ed="D" n="0035a15"/><list><item id="itemD05p0035a1501">一者百歲比丘&CB00112;見新受戒比丘應起迎&CB01618;&CB17716;拜
+<lb ed="D" n="0035a16"/>与敷淨坐令坐</item><item id="itemD05p0035a1607">二者不應罵比丘呵責不應
+<lb ed="D" n="0035a17"/>誹謗言破戒破見破威儀</item><item id="itemD05p0035a1711">三者不應為比
+<lb ed="D" n="0035a18"/>丘作舉作憶念作自言不應遮他覓遮&CB22072;
+<pb ed="D" id="D05.8774.0036a" n="0036a"/>
+<lb ed="D" n="0036a01"/>戒遮自恣比丘&CB00112;不應訶比丘比丘應呵比丘&CB00112;</item>
+<lb ed="D" n="0036a02"/><item id="itemD05p0036a0201">四者式叉摩&CB30839;學戒已&CB30130;比丘僧乞受大戒</item>
+<lb ed="D" n="0036a03"/><item id="itemD05p0036a0301">五者犯僧殘罪應在二部僧中半月行摩&CB30839;
+<lb ed="D" n="0036a04"/>埵</item><item id="itemD05p0036a0402">六者半月&CB30130;僧乞教授</item><item id="itemD05p0036a0411">七者不應在&CB07099;比
+<lb ed="D" n="0036a05"/>丘&CB21871;夏安居</item><item id="itemD05p0036a0506">八者比丘&CB00112;僧安居竟應比丘僧
+<lb ed="D" n="0036a06"/>中求三事自恣見聞疑</item></list><p id="pD05p0036a0610" place="inline">此&CB21717;八法應尊重恭
+<lb ed="D" n="0036a07"/>敬讚嘆盡形壽不得過。</p></div2>
+<lb ed="D" n="0036a08"/><div2 type="other"><mulu type="其他" level="2" label="不＆CB20154；比丘羯磨文"/><head>不&CB20154;比丘羯磨文<note place="inline">比丘非法&CB03024;&CB00112;者作之</note></head>
+<lb ed="D" n="0036a09"/><p id="pD05p0036a0901">大&CB00106;僧聽此某甲罵朾比丘&CB00112;乃至&CB21940;語勸喻
+<lb ed="D" n="0036a10"/>若僧時到僧忍聽為某甲作不&CB20154;羯磨白如是。</p>
+<lb ed="D" n="0036a11"/><p id="pD05p0036a1101">大&CB00106;僧聽此某甲罵朾比丘&CB00112;乃至&CB21940;言勸
+<lb ed="D" n="0036a12"/>喻今僧為作不&CB20154;羯磨誰諸大&CB00106;忍僧為某
+<lb ed="D" n="0036a13"/>甲作不&CB20154;羯磨者嘿然誰不忍者&CB22072;僧已為
+<lb ed="D" n="0036a14"/>某甲作不&CB20154;羯磨竟僧忍嘿然故是事如是
+<lb ed="D" n="0036a15"/>持。</p></div2>
+<lb ed="D" n="0036a16"/><div2 type="other"><mulu type="其他" level="2" label="＆CB17107；不＆CB20154；羯磨文"/><head>&CB17107;不&CB20154;羯磨文<note place="inline">若比丘&CB18919;順比丘&CB00112;者&CB30130;&CB00112;乞&CB17107;与&CB17107;</note></head>
+<lb ed="D" n="0036a17"/><p id="pD05p0036a1701">大&CB00106;僧聽此某甲比丘&CB00112;僧為作不&CB20154;羯磨&CB18919;
+<lb ed="D" n="0036a18"/>順比丘&CB00112;僧不敢違&CB01618;今&CB30130;比丘&CB00112;僧乞&CB17107;不
+<pb ed="D" id="D05.8774.0037a" n="0037a"/>
+<lb ed="D" n="0037a01"/>&CB17716;羯磨若僧時到僧忍聽僧今為&CB17107;不&CB17716;羯
+<lb ed="D" n="0037a02"/>磨白如是。</p>
+<lb ed="D" n="0037a03"/><p id="pD05p0037a0301">大&CB00106;僧聽此某甲比丘&CB00112;僧作不&CB17716;羯磨&CB18919;順
+<lb ed="D" n="0037a04"/>比丘&CB00112;僧不敢違&CB01618;&CB30130;比丘&CB00112;僧乞&CB17107;不&CB17716;羯
+<lb ed="D" n="0037a05"/>磨僧今為某甲&CB17107;不&CB17716;羯磨誰諸大&CB00106;忍僧
+<lb ed="D" n="0037a06"/>為某甲&CB17107;不&CB17716;羯磨者嘿然誰不忍者&CB22072;
+<lb ed="D" n="0037a07"/>僧已為某甲&CB17107;不&CB17716;羯磨竟僧忍嘿然故
+<lb ed="D" n="0037a08"/>是事如是持。</p></div2></div1>
+<lb ed="D" n="0037a09"/><div1 type="other"><mulu type="其他" level="1" label="法揵度法"/><head>法揵度法</head>
+<lb ed="D" n="0037a10"/><div2 type="other"><mulu type="其他" level="2" label="客比丘＆CB00112；應＆CB18919；順客法"/><head>客比丘&CB00112;應&CB18919;順客法<note place="inline">入寺時應知有佛&CB30259;聲聞&CB30259;上坐&CB20154;&CB30259;及上坐<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>一切事皆問</note></head></div2>
+<lb ed="D" n="0037a11"/><div2 type="other"><mulu type="其他" level="2" label="舊比丘＆CB00112；應＆CB18919；順舊法"/><head>舊比丘&CB00112;應&CB18919;順舊法<note place="inline">聞有客&CB00112;來應出迎為捉衣&CB00425;安置溫室重閣中此是房床枕被&CB21717;
+<lb ed="D" n="0037a12"/>此是小便&CB15098;大便&CB21871;此是淨&CB21871;不淨此是佛&CB30259;乃至上坐房大小食&CB21871;乃至某家僧与作&CB29781;&CB00425;某&CB21871;狗&CB08891;某&CB21871;好某&CB21871;&CB08891;如是&CB21717;法
+<lb ed="D" n="0037a13"/>應知</note></head></div2></div1>
+<lb ed="D" n="0037a14"/><div1 type="other"><mulu type="其他" level="1" label="房＆CB22064；揵度法"/><head>房&CB22064;揵度<note place="inline">若有施主造房施僧房破&CB07099;人坐僧應差人為&CB02129;理作如是白</note></head>
+<lb ed="D" n="0037a15"/><p id="pD05p0037a1501">大&CB00106;僧聽今僧以此某甲房与某甲比丘&CB00112;&CB02129;
+<lb ed="D" n="0037a16"/>理若僧時到僧忍聽白如是。</p>
+<lb ed="D" n="0037a17"/><p id="pD05p0037a1701">大&CB00106;僧聽此某甲房与某甲比丘&CB00112;&CB02129;理誰
+<lb ed="D" n="0037a18"/>諸大&CB00106;忍僧以此某甲房与某甲比丘&CB00112;&CB02129;
+<pb ed="D" id="D05.8774.0038a" n="0038a"/>
+<lb ed="D" n="0038a01"/>理者嘿然誰不<app><lem wit="【CBETA】" resp="CBETA.maha">忍者</lem><rdg wit="【國圖】">者　</rdg></app>&CB22072;僧已忍以某甲房与
+<lb ed="D" n="0038a02"/>某甲比丘&CB00112;&CB02129;理竟僧忍嘿然故是事如是持
+<lb ed="D" n="0038a03"/>持僧房与白衣&CB02129;理羯磨文<note place="inline">尒有僧房故壞有居士言与我者我當清醒併言白二羯磨与</note>。</p>
+<lb ed="D" n="0038a04"/><p id="pD05p0038a0401">大&CB00106;僧聽若僧時到僧忍聽僧今持此房与
+<lb ed="D" n="0038a05"/>某甲居士脩治某甲比丘&CB00112;經營白如是。</p>
+<lb ed="D" n="0038a06"/><p id="pD05p0038a0601">大&CB00106;僧聽僧今以此房与某甲居士脩治某
+<lb ed="D" n="0038a07"/>甲比丘&CB00112;經營誰諸大&CB00106;忍僧持此房与某
+<lb ed="D" n="0038a08"/>甲居士脩治某甲比丘&CB00112;經營者嘿然誰不
+<lb ed="D" n="0038a09"/>忍者&CB22072;僧已与某甲居士房脩治某甲比丘
+<lb ed="D" n="0038a10"/>&CB00112;經營竟僧<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>忍嘿然故是事如是持<note place="inline">結房作庫藏文</note>。</p>
+<lb ed="D" n="0038a11"/><p id="pD05p0038a1101">大&CB00106;僧聽若僧時到僧忍聽僧結某甲房作庫藏
+<lb ed="D" n="0038a12"/>白如是。</p><p id="pD05p0038a1204" place="inline">大&CB00106;僧聽結某甲房作庫藏屋誰諸
+<lb ed="D" n="0038a13"/>大&CB00106;忍僧結某甲房作庫藏者嘿然誰不忍
+<lb ed="D" n="0038a14"/>者&CB22072;僧已忍僧結某甲房作庫藏屋竟僧忍嘿然
+<lb ed="D" n="0038a15"/>故是事如是持<note place="inline">差守庫藏物人羯磨文</note>。</p><p id="pD05p0038a1516" place="inline">大&CB00106;僧聽若僧時到僧忍
+<lb ed="D" n="0038a16"/>聽僧差某甲比丘&CB00112;作守物人白如是。</p><p id="pD05p0038a1616" place="inline">大&CB00106;僧聽僧差某
+<lb ed="D" n="0038a17"/>甲比丘&CB00112;作守物人誰諸大&CB00106;忍僧差某甲比丘&CB00112;作守
+<lb ed="D" n="0038a18"/>物人者嘿然誰不忍者&CB22072;僧已忍差某甲比丘&CB00112;作守物人竟
+<pb ed="D" id="D05.8774.0039a" n="0039a"/>
+<lb ed="D" n="0039a01"/>僧忍嘿然故是事如是持<note place="inline">差作維&CB30839;使如法作飲食淨&CB00031;菜楊枝數僧臥其分僧躬分餅分雨衣&CB21871;去沙&CB12752;所守僧團人&CB21717;並同羯磨
+<lb ed="D" n="0039a02"/>但攝事荅異</note>。</p></div1>
+<lb ed="D" n="0039a03"/><div1 type="other"><mulu type="其他" level="1" label="雜揵度法"/><head>雜揵度法</head><div2 type="other"><mulu type="其他" level="2" label="＆CB29781；＆CB00425；"/><head>&CB29781;&CB00425;羯磨文<note place="inline">白衣罵比丘&CB00112;為比丘&CB00112;作&CB02167;滅作&CB07099;利益聞&CB09458;比丘&CB00112;於比丘&CB00112;前&CB22072;三寶&CB08891;以&CB07099;
+<lb ed="D" n="0039a04"/>根本淨法謗比丘犯比丘&CB00112;与作&CB29781;&CB00425;然孝順父母恭敬沙門婆羅門敬事&CB00112;者</note></head><p id="pD05p0039a0432" place="inline">大&CB00106;僧聽此某甲某甲&CB00112;清淨而
+<lb ed="D" n="0039a05"/>以&CB07099;根波羅夷法謗若僧時到僧忍聽僧今為此某甲作&CB29781;
+<lb ed="D" n="0039a06"/>&CB00425;不相來往白如是。</p><p id="pD05p0039a0609" place="inline">大&CB00106;僧聽此某甲某甲比丘&CB00112;清淨
+<lb ed="D" n="0039a07"/>而以&CB07099;根波羅夷法謗今僧為作&CB29781;&CB00425;不相往來誰諸大
+<lb ed="D" n="0039a08"/>&CB00106;忍僧為某甲作&CB29781;&CB00425;不相往來者嘿然誰不忍
+<lb ed="D" n="0039a09"/>者&CB22072;僧<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>為某甲作&CB29781;&CB00425;不相往來竟僧忍嘿然
+<lb ed="D" n="0039a10"/>故是事如是持<note place="inline">差使往告彼白衣言僧為汝作&CB29781;&CB00425;不相往來</note>。</p></div2><div2 type="other"><mulu type="其他" level="2" label="差使羯磨文"/><head>差使羯磨文</head>
+<lb ed="D" n="0039a11"/><p id="pD05p0039a1101">大&CB00106;僧聽若僧時到僧忍聽今差某甲為僧使往某
+<lb ed="D" n="0039a12"/>甲所語言今僧為汝作&CB29781;&CB00425;不相往來白如是。</p>
+<lb ed="D" n="0039a13"/><p id="pD05p0039a1301">大&CB00106;僧聽今差某甲為僧使往某甲所作如是言
+<lb ed="D" n="0039a14"/>僧今為汝作&CB29781;&CB00425;不相往來誰諸大&CB00106;忍僧差某
+<lb ed="D" n="0039a15"/>甲為僧使者嘿然誰不忍者&CB22072;僧已差某甲為使
+<lb ed="D" n="0039a16"/>往彼某甲所語言僧為汝作&CB29781;&CB00425;不相往來竟
+<lb ed="D" n="0039a17"/>僧忍嘿然故是事如是持<note place="inline">使至白衣不得入&CB22064;坐床及受飲食供養&CB21717;皆不得但語言僧与汝作&CB29781;&CB00425;</note>。</p>
+<lb ed="D" n="0039a18"/><p id="pD05p0039a1801">若彼白衣&CB18919;順眾僧乞&CB17107;&CB29781;&CB00425;者与&CB17107;<note place="inline">當往白二羯磨</note>。</p>
+<pb ed="D" id="D05.8774.0040a" n="0040a"/>
+<lb ed="D" n="0040a01"/><p id="pD05p0040a0101">大&CB00106;僧聽今僧為某甲&CB17107;&CB29781;&CB00425;不相往來彼&CB18919;
+<lb ed="D" n="0040a02"/>順眾僧不敢違&CB01618;&CB30130;僧乞&CB17107;&CB29781;&CB00425;不相往來羯
+<lb ed="D" n="0040a03"/>磨若僧時到僧忍聽僧今為某甲作&CB17107;&CB29781;&CB00425;還
+<lb ed="D" n="0040a04"/>相往來白如是。</p>
+<lb ed="D" n="0040a05"/><p id="pD05p0040a0501">大&CB00106;僧聽為某甲作&CB29781;&CB00425;不相往來彼&CB18919;順眾
+<lb ed="D" n="0040a06"/>僧不敢違&CB01618;&CB30130;僧乞&CB17107;&CB29781;&CB00425;不相往來羯磨今
+<lb ed="D" n="0040a07"/>僧為彼某甲&CB17107;&CB29781;&CB00425;還相往來誰諸大&CB00106;忍
+<lb ed="D" n="0040a08"/>僧為彼某甲&CB17107;&CB29781;&CB00425;相相往來者嘿然誰不
+<lb ed="D" n="0040a09"/>忍者&CB22072;僧已為彼某甲&CB17107;&CB29781;&CB00425;還相往來竟
+<lb ed="D" n="0040a10"/>僧忍嘿然故是事如是持。</p></div2>
+<lb ed="D" n="0040a11"/><div2 type="other"><mulu type="其他" level="2" label="內護匡救僧眾＆CB09665；＆CB02168；羯磨"/><head>內護匡救僧眾&CB09665;&CB02168;羯磨　出雜揵度</head>
+<lb ed="D" n="0040a12"/><p id="pD05p0040a1201">律藏所&CB02772;僧之正法宗要有三故結集稱言是
+<lb ed="D" n="0040a13"/>法是毗&CB00112;是佛所教。</p>
+<lb ed="D" n="0040a14"/><p id="pD05p0040a1401">法者謂五種遠離行何&CB21717;五<note place="inline">一出離非世法二越度非受法三&CB07099;欲非有欲
+<lb ed="D" n="0040a15"/>四&CB07099;結非有結五不親近生死非親近</note>。</p>
+<lb ed="D" n="0040a16"/><p id="pD05p0040a1601">毗&CB00112;者謂五種出要何&CB21717;五<note place="inline">一少欲非多欲二知尼非&CB07099;猒三易護非
+<lb ed="D" n="0040a17"/>難護四易養非難養五智慧非愚癡</note>。</p>
+<pb ed="D" id="D05.8774.0041a" n="0041a"/>
+<lb ed="D" n="0041a01"/><p id="pD05p0041a0101">佛所教者謂五種教誡行何&CB21717;五<note place="inline">一有罪行者制二&CB07099;罪者聽三
+<lb ed="D" n="0041a02"/>若制若聽法有缺減者如法舉之四&CB21092;&CB21092;違犯者折伏与念五真實功&CB18786;愛念稱嘆</note>故經云正法
+<lb ed="D" n="0041a03"/>住正法藏謂之於此。</p>
+<lb ed="D" n="0041a04"/><p id="pD05p0041a0401">傳法之人亦有於三故聖誥稱言知法知律知
+<lb ed="D" n="0041a05"/>摩夷。</p><list><item id="itemD05p0041a0503">知法者謂善持脩多羅藏如阿難&CB21717;</item>
+<lb ed="D" n="0041a06"/><item id="itemD05p0041a0601">知律者謂善持毗&CB00112;藏如優波離&CB21717;</item>
+<lb ed="D" n="0041a07"/><item id="itemD05p0041a0701">知摩夷者謂善於訓導宰&CB10336;玄&CB30805;如大迦
+<lb ed="D" n="0041a08"/>&CB01007;&CB21717;</item></list><p id="pD05p0041a0803" place="inline">故凡欲暈&CB30135;聖跡以隆導教&CB07622;軓後
+<lb ed="D" n="0041a09"/>代不絕於時者非茲而誰。</p>
+<lb ed="D" n="0041a10"/><p id="pD05p0041a1001">五種入眾法何&CB21717;五<note place="inline">一應以慈心二應自卑下如拭塵巾三應知生起上下威儀四不
+<lb ed="D" n="0041a11"/>離&CB22072;俗事為眾&CB22072;法若請他&CB22072;五若見僧中有不可事心不安忍應作嘿然</note>。</p>
+<lb ed="D" n="0041a12"/><p id="pD05p0041a1201">五種棄法何&CB21717;五<note place="inline">一比丘&CB00112;犯罪彼比丘&CB00112;問汝犯罪見不荅言不見彼語言汝若見罪
+<lb ed="D" n="0041a13"/>應懺悔二比丘&CB00112;三四五&CB00112;&CB21717;犯罪問言不見者應語言汝若見罪應於僧中懺悔四在&CB00112;犯罪應不見者應棄&CB22057;
+<lb ed="D" n="0041a14"/>語言汝不見罪&CB18919;所至&CB21871;不聽汝布&CB16765;如&CB08891;馬難調合韁杙俱&CB11724;汝亦如是五&CB00112;犯罪問言不見者僧中作不見舉羯
+<lb ed="D" n="0041a15"/>磨也</note>。</p><p id="pD05p0041a1503" place="inline">五種作羯磨法何&CB21717;五<note place="inline">一現前二自言三不清淨四如法五和合</note>。</p>
+<lb ed="D" n="0041a16"/><p id="pD05p0041a1601">斯謂知病知藥知對治善於癈興通塞存
+<lb ed="D" n="0041a17"/>護之儀故&CB30191;住持之功義顯於此。</p>
+<lb ed="D" n="0041a18"/><p id="pD05p0041a1801">三種調法<note place="inline">謂訶責羯磨&CB29796;羯磨依&CB29795;羯磨</note>此三法在訶責揵度。</p>
+<pb ed="D" id="D05.8774.0042a" n="0042a"/>
+<lb ed="D" n="0042a01"/><p id="pD05p0042a0101">三種滅法<note place="inline">謂罪&CB21871;所多人語如草&CB29781;地</note>此三法在滅諍揵度。</p>
+<lb ed="D" n="0042a02"/><p id="pD05p0042a0201">三種不共住法<note place="inline">謂三舉羯磨&CB08891;心治出訶責揵度滅&CB29796;羯磨</note>。</p></div2>
+<lb ed="D" n="0042a03"/><div2 type="other"><mulu type="其他" level="2" label="與滅＆CB29796；羯磨文"/><head>與滅&CB29796;羯磨文<note place="inline">先作舉作憶念与罪然後作羯磨此謂犯重&CB29781;藏眾皆具&CB01556;不同人法中</note></head>
+<lb ed="D" n="0042a04"/><p id="pD05p0042a0401">大&CB00106;僧聽是某甲比丘&CB00112;犯某甲波羅夷
+<lb ed="D" n="0042a05"/>罪若僧時到僧忍聽僧今與某甲比丘&CB00112;
+<lb ed="D" n="0042a06"/>波羅夷罪滅&CB29796;羯磨不得共住不得共事
+<lb ed="D" n="0042a07"/>白如是。</p>
+<lb ed="D" n="0042a08"/><p id="pD05p0042a0801">大&CB00106;僧聽是某甲比丘&CB00112;犯某甲波羅夷罪
+<lb ed="D" n="0042a09"/>僧今與某甲比丘&CB00112;波羅罪滅&CB29796;羯磨不得
+<lb ed="D" n="0042a10"/>共住不得共事誰諸大&CB00106;忍僧與某甲比丘
+<lb ed="D" n="0042a11"/>&CB00112;波羅夷滅&CB29796;羯磨不得共住不得共事者
+<lb ed="D" n="0042a12"/>嘿然誰不忍者&CB22072;<note place="inline">如是再三</note>僧已忍與某甲比丘&CB00112;
+<lb ed="D" n="0042a13"/>波羅夷罪滅&CB29796;羯磨不得共住不得共事
+<lb ed="D" n="0042a14"/>竟僧<app><lem wit="【CBETA】" resp="CBETA.maha">忍嘿</lem><rdg wit="【國圖】">事　</rdg></app>然故是事如是持<note place="inline">此永&CB29796;&CB07099;&CB17107;法</note>。</p></div2>
+<lb ed="D" n="0042a15"/><div2 type="other"><mulu type="其他" level="2" label="与扙絡囊羯磨一"/><head>与扙絡囊羯磨<note place="inline">病及老者露肩脫&CB03894;&CB30130;僧乞之</note></head>
+<lb ed="D" n="0042a16"/><p id="pD05p0042a1601">大&CB00106;僧聽此某甲比丘&CB00112;羸老不能&CB07099;絡囊&CB07099;
+<lb ed="D" n="0042a17"/>杖而行彼&CB30130;僧乞杖絡囊若僧時到僧忍聽与
+<lb ed="D" n="0042a18"/>某甲比丘&CB00112;杖絡囊白如是。</p>
+<lb ed="D" n="0042a19"/><p id="pD05p0042a1901">大&CB00106;僧聽此某甲比丘&CB00112;羸老不能&CB07099;杖絡囊
+<pb ed="D" id="D05.8774.0043a" n="0043a"/>
+<lb ed="D" n="0043a01"/>共住不得共事誰諸大&CB00106;忍僧與某甲比丘
+<lb ed="D" n="0043a02"/>&CB00112;波羅夷滅&CB29796;羯磨不得共住不得共事者
+<lb ed="D" n="0043a03"/>嘿然誰不忍者&CB22072;<note place="inline">如是再三</note>僧已忍與某甲比丘&CB00112;
+<lb ed="D" n="0043a04"/>波羅夷罪滅&CB29796;羯磨不得共住不得共事
+<lb ed="D" n="0043a05"/>竟僧<app><lem wit="【CBETA】" resp="CBETA.maha">忍嘿</lem><rdg wit="【國圖】">事　</rdg></app>然故是事如是持<note place="inline">此永&CB20102;&CB07099;&CB17107;法</note>。</p></div2>
+<lb ed="D" n="0043a06"/><div2 type="other"><mulu type="其他" level="2" label="与扙絡囊羯磨二"/><head>与扙絡囊羯磨<note place="inline">病及老者露肩脫&CB03894;&CB30130;僧乞之</note></head>
+<lb ed="D" n="0043a07"/><p id="pD05p0043a0701">大&CB00106;僧聽此某甲比丘&CB00112;羸老不能&CB07099;絡囊&CB07099;
+<lb ed="D" n="0043a08"/>杖而行彼&CB30130;僧乞杖絡囊若僧時到僧忍聽与
+<lb ed="D" n="0043a09"/>某甲比丘&CB00112;杖絡囊白如是。</p>
+<lb ed="D" n="0043a10"/><p id="pD05p0043a1001">大&CB00106;僧聽此某甲比丘&CB00112;羸老不能&CB07099;杖絡囊
+<lb ed="D" n="0043a11"/>而行今&CB30130;僧乞杖絡囊僧今与此比丘&CB00112;杖絡
+<lb ed="D" n="0043a12"/>囊僧今与此&unrec;僧与某甲比丘&CB00112;杖絡囊者嘿
+<lb ed="D" n="0043a13"/>然誰不忍者&CB22072;僧<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【國圖】">巳</rdg></app>与某甲比丘&CB00112;杖絡囊竟
+<lb ed="D" n="0043a14"/>僧忍嘿然故是事如是持。</p></div2><div2 type="other"><mulu type="其他" level="2" label="非時入聚落＆CB21890；授文"/><head>非時入聚落&CB21890;授文</head>
+<lb ed="D" n="0043a15"/><p id="pD05p0043a1501">大&CB00106;一<app><lem wit="【CBETA】" resp="CBETA.maha">心念</lem><rdg wit="【國圖】">&unrec;　</rdg></app>我某甲比丘&CB00112;非時入某甲聚落至
+<lb ed="D" n="0043a16"/>某甲家為某緣事白大&CB00106;令知。</p>
+<lb ed="D" n="0043a17"/><p id="pD05p0043a1701">若&CB18919;事而言羯磨非一備&CB02772;律內寧客具集故各
+<lb ed="D" n="0043a18"/>當其分唯標一羯磨示之恒式餘類准以可知。</p></div2></div1>
+</body></text></TEI.2>

@@ -1,0 +1,155 @@
+<!-- CBETA project DTD, generated with FRED 31.12.98  (CW)
+
+added K1..K5 for YBH 18.2.99 (CW)
+moved K1..K5 to ybhcbeta.dtd 2.6.99 (CW)
+
+-->
+
+
+<!ELEMENT TEI.2            - - ( TEIHEADER, TEXT )>
+<!ELEMENT TEIHEADER        - - ( FILEDESC, ENCODINGDESC, REVISIONDESC? )>
+<!ELEMENT TEXT             - - (BODY)>
+<!ELEMENT FILEDESC         - - (TITLESTMT, EDITIONSTMT?, PUBLICATIONSTMT, SOURCEDESC )>
+<!ELEMENT ENCODINGDESC     - - (PROJECTDESC)>
+<!ELEMENT REVISIONDESC     - - (CHANGE)+>
+<!ELEMENT CHANGE           - - (DATE, RESPSTMT, ITEM)>
+<!ELEMENT TITLESTMT        - - (TITLE, RESPSTMT)>
+<!ELEMENT TITLE            - - (#PCDATA)>
+<!ELEMENT RESPSTMT         - - (RESP | NAME)*>
+<!ELEMENT RESP             - - (#PCDATA)>
+<!ELEMENT NAME             - - (#PCDATA)>
+<!ELEMENT EDITIONSTMT      - - (EDITION)>
+<!ELEMENT PUBLICATIONSTMT  - - ( DISTRIBUTOR, AVAILABILITY, DATE )>
+<!ELEMENT SOURCEDESC       - - (BIBL, P*)>
+<!ELEMENT EDITION          - - (#PCDATA)>
+<!ELEMENT DISTRIBUTOR      - - ( NAME, ADDRESS )>
+<!ELEMENT AVAILABILITY     - - (P)>
+<!ELEMENT DATE             - - (#PCDATA)>
+<!ELEMENT ADDRESS          - - (ADDRLINE)>
+<!ELEMENT ADDRLINE         - - (#PCDATA)>
+<!ELEMENT P                - - ( #PCDATA | SPAN | LB | PB | SKGLOSS | NOTE | CORR | FAN | APP | ANCHOR)+>
+<!ATTLIST P                    n    CDATA  #IMPLIED 
+                               type    CDATA  #IMPLIED
+                               label    CDATA  #IMPLIED      
+                               lang    CDATA  #IMPLIED   
+                               rend    CDATA  #IMPLIED   >
+<!ELEMENT SPAN             - - (#PCDATA | LB )+>
+<!ATTLIST SPAN                 n    CDATA  #IMPLIED 
+                               type    CDATA  #IMPLIED   
+                               lang    CDATA  #IMPLIED   
+                               rend    CDATA  #IMPLIED   >
+<!ELEMENT BIBL             - - (#PCDATA)>
+<!ELEMENT PROJECTDESC      - - (P+)>
+<!ELEMENT BODY             - - ((LB | PB | HEAD | JUAN | BYLINE | DIV1)*)>
+<!ELEMENT LB               - O EMPTY>
+<!ATTLIST LB                   n    CDATA  #IMPLIED >
+<!ELEMENT HEAD             - - ( #PCDATA | APP | SKGLOSS | CORR | LB | PB | NOTE | ANCHOR)+>
+<!ATTLIST HEAD                 type CDATA  #IMPLIED >
+<!ELEMENT BYLINE           - - ( #PCDATA | LB | APP | CORR | NOTE)+>
+<!ATTLIST BYLINE               type CDATA  #IMPLIED 
+                               n    CDATA  #IMPLIED >
+<!ELEMENT DIV1             - - ( HEAD?, (DIV2 | (P | LG | JUAN | LB | PB | BYLINE | TRAILER | APP | LIST | ANCHOR | SKGLOSS)*)*) >
+<!ATTLIST DIV1                 type CDATA  #IMPLIED 
+							   n CDATA #IMPLIED>
+<!ELEMENT DIV2             - - (HEAD?, (P | LG | JUAN | LB | PB | BYLINE | TRAILER | APP)*) >
+<!ATTLIST DIV2                 type CDATA  #IMPLIED 
+							   n CDATA #IMPLIED>
+<!ELEMENT TERM             - - ( #PCDATA | LB | APP | NOTE)+>
+<!ELEMENT LG               - - ( ( LB | L | PB | APP | ANCHOR)* )>
+<!ATTLIST LG                   type CDATA  #IMPLIED >
+<!ELEMENT PB               - O EMPTY>
+<!ATTLIST PB                   ed   CDATA  #IMPLIED 
+                               id   CDATA  #IMPLIED 
+                               n    CDATA  #IMPLIED >
+<!ELEMENT NOTE             - - (#PCDATA | APP | P | CORR | SKGLOSS | GLOSS | TERM| LB | PB)*>
+<!ATTLIST NOTE                 n    CDATA  #IMPLIED 
+                               type CDATA  #IMPLIED >
+<!ELEMENT L                - - ( ( #PCDATA | SKGLOSS | CORR | APP | NOTE)*)>
+<!ELEMENT TRAILER          - - (#PCDATA | LB | CORR | APP)*>
+<!ELEMENT APP              - - ( LEM, RDG+ )>
+<!ATTLIST APP 
+                               type CDATA #IMPLIED
+                               source CDATA #IMPLIED
+                               wit CDATA #IMPLIED
+                               ana IDREFS #IMPLIED 
+                               corresp IDREFS #IMPLIED 
+                               from IDREF #IMPLIED 
+                               to IDREF #IMPLIED 
+                               yuan CDATA #IMPLIED
+                               next IDREF #IMPLIED 
+                               prev IDREF #IMPLIED 
+                               id ID #IMPLIED 
+                               n CDATA #IMPLIED 
+                               lang IDREF #IMPLIED 
+                               rend CDATA #IMPLIED >
+
+
+<!ELEMENT LEM              - - ( (#PCDATA | APP | LB | BYLINE | NOTE | L | PB | CORR | LG | FAN | HEAD | JUAN | P | SKGLOSS)*)>
+<!ATTLIST LEM 
+                               wit CDATA #IMPLIED
+                               ana IDREFS #IMPLIED 
+                               corresp IDREFS #IMPLIED 
+                               from IDREF #IMPLIED 
+                               to IDREF #IMPLIED 
+                               next IDREF #IMPLIED 
+                               prev IDREF #IMPLIED 
+                               id ID #IMPLIED 
+                               n CDATA #IMPLIED 
+                               lang IDREF #IMPLIED 
+                               rend CDATA #IMPLIED >
+
+<!ELEMENT RDG              - - ((#PCDATA | NOTE | JUAN | HEAD | BYLINE | CORR | L)*)>
+<!ATTLIST RDG                  WIT  CDATA  #IMPLIED
+                               ana IDREFS #IMPLIED 
+                               corresp IDREFS #IMPLIED 
+                               from IDREF #IMPLIED 
+                               to IDREF #IMPLIED 
+                               next IDREF #IMPLIED 
+                               prev IDREF #IMPLIED 
+                               id ID #IMPLIED 
+                               n CDATA #IMPLIED 
+                               lang IDREF #IMPLIED 
+                               rend CDATA #IMPLIED >
+
+<!ELEMENT ANCHOR           - O EMPTY>
+<!ATTLIST ANCHOR               ID  ID  #IMPLIED >
+
+<!ELEMENT LIST              - - (HEAD?, (ITEM | LB | PB)*)>
+<!ELEMENT ITEM              - - ((#PCDATA | LB | APP | PB)*)>
+
+<!-- CBETA specific elements -->
+
+<!ELEMENT JHEAD            - - ( #PCDATA | APP | SKGLOSS | CORR | LB | PB | NOTE | ANCHOR)*>
+<!ATTLIST JHEAD                type CDATA  #IMPLIED >
+<!ELEMENT JUAN             - - ( SKGLOSS | APP | CORR | LB | PB | NOTE | JHEAD | BYLINE | HEAD | #PCDATA )+>
+<!ATTLIST JUAN                 fun  CDATA  #IMPLIED 
+                               n    CDATA  #IMPLIED
+                               ed   CDATA  #IMPLIED >
+
+
+<!ELEMENT FAN              - - ( ZI, YIN )>
+<!ELEMENT ZI               - - ( #PCDATA )>
+<!ELEMENT YIN              - - ( #PCDATA | APP)*>
+
+
+<!ELEMENT SKGLOSS          - - ( GLOSS, TERM )>
+<!ATTLIST SKGLOSS              n    CDATA  #IMPLIED >
+<!-- GLOSS is from the TEI set, but the attribute alt has been added (CW, 18.11.98) -->
+
+<!ELEMENT GLOSS            - - (( #PCDATA | CORR | SKGLOSS | TERM)*)>
+<!ATTLIST GLOSS                n    CDATA  #IMPLIED
+		                       alt CDATA #IMPLIED >
+		                       
+<!-- CORR is from the TEI set, but the attributes cf1, cf2 has been added (CW, 1.7.98) -->
+		                       
+<!ELEMENT CORR             - - (#PCDATA)>
+<!ATTLIST CORR                 cf1  CDATA  #IMPLIED 
+                               cf2  CDATA  #IMPLIED 
+                               resp CDATA  #IMPLIED 
+                               sic  CDATA  #IMPLIED >
+
+
+
+<!--
+<!ENTITY #DEFAULT " *** UNDEFINED ENTITY REFERENCE *** ">
+-->

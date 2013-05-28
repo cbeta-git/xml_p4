@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "I01n0099.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selections of Buddhist Stone Rubbings from the Northern Dynasties, Electronic version, No. 0099 建崇寺浮圖銘</title>
+                <author>顏娟英主編</author>
+                <respStmt>
+                    <resp>Electronic Version by</resp>
+                    <name>CBETA and DDBC</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>$Revision: 1.5 $<date>$Date: 2011/04/19 06:12:14 $</date></edition>
+            </editionStmt>
+            <extent>1卷</extent>
+            <publicationStmt>
+                <distributor>
+                    <name>中華電子佛典協會 (CBETA)</name>
+                    <address>
+                        <addrLine>service@cbeta.org</addrLine>
+                    </address>
+                </distributor>
+                <availability>
+<p>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/). </p>
+                </availability>
+                <date>$Date: 2011/04/19 06:12:14 $</date>
+            </publicationStmt>
+            <sourceDesc>
+      	      <bibl>Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 099 &desc;</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p lang="eng" type="ly">Text as provided by Institute of History and Philology, Academia Sinica</p>
+                <p lang="chi" type="ly">中央研究院歷史語言研究所</p>
+            </projectDesc>
+            </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+<div1>
+<pb n="0263a" id="I01.0099.0263a" ed="I"/>
+<lb ed="C I" n="0263a00"/><milestone n="1" unit="juan"/><head type="no">No. 99</head>
+<lb ed="C I" n="0263a00"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><title>建崇寺浮圖銘</title></jhead></juan>
+<lb ed="C I" n="0263a00"/><mulu level="1" label="之一　碑陽" type="其他"/><head>之一　碑陽</head>
+<div2>
+<lb ed="C I" n="0263a01"/><p id="pI01p0263a0101">建崇寺</p>
+</div2>
+<div2>
+<lb ed="C I" n="0263b01"/><p id="pI01p0263b0101">亡祖秦州都酋長呂帛冰。女定羌女
+<lb ed="C I" n="0263b02"/><note n="0263001" resp="ihp" place="foot text" type="orig">&CB01925;＝驃【史】</note><app n="0263001"><lem resp="ihp" wit="【史】">驃</lem><rdg wit="【原】">&CB01925;</rdg></app>騎大將軍南道大行臺秦州<note n="0263002" resp="ihp" place="foot text" type="orig">&CB07810;＝刺【史】</note><app n="0263002"><lem resp="ihp" wit="【史】">刺</lem><rdg wit="【原】">&CB07810;</rdg></app>史
+<lb ed="C I" n="0263b03"/><note n="0263003" resp="ihp" place="foot text" type="orig">&CB21284;＝顯【史】</note><app n="0263003"><lem resp="ihp" wit="【史】">顯</lem><rdg wit="【原】">&CB21284;</rdg></app>親縣開國伯亡伯興成。伯母帶神。
+<lb ed="C I" n="0263b04"/>龍驤將軍都督浙州<app source="0263002" type="＊"><lem resp="ihp" wit="【史】">刺</lem><rdg wit="【原】">&CB07810;</rdg></app>史亡父興進。
+<lb ed="C I" n="0263b05"/>亡母元要。亡母男娥。亡母僧姿。
+<lb ed="C I" n="0263b06"/>亡叔法成。叔雙進。兄天猥。弟道伯。
+<lb ed="C I" n="0263b07"/>　　　亡<note n="0263004" resp="ihp" place="foot text" type="orig">&CB00106;＝姊【史】</note><app n="0263004"><lem resp="ihp" wit="【史】">姊</lem><rdg wit="【原】">&CB00106;</rdg></app>李姿。<app source="0263004" type="＊"><lem resp="ihp" wit="【史】">姊</lem><rdg wit="【原】">&CB00106;</rdg></app>男姿。妹伯男。
+<lb ed="C I" n="0263b08"/>輔國將軍中散都督開國子宇文建。
+<lb ed="C I" n="0263b09"/>輔國將軍中散大都督宇文嵩。
+<lb ed="C I" n="0263b10"/>弟進周。　崇息雍周。法達。孫洪濟。
+<lb ed="C I" n="0263b11"/>崇<note n="0263005" resp="ihp" place="foot text" type="orig">&CB31147;＝妻【史】</note><app n="0263005"><lem resp="ihp" wit="【史】">妻</lem><rdg wit="【原】">&CB31147;</rdg></app>王光容。息女舍徽。亥子明月
+<lb ed="C I" n="0263b12"/>息<app source="0263005" type="＊"><lem resp="ihp" wit="【史】">妻</lem><rdg wit="【原】">&CB31147;</rdg></app>王花。　姪季和。
+<lb ed="C I" n="0263b13"/>姪子。孝子。順子恭保。和達。和善。和
+<lb ed="C I" n="0263b14"/>伯母王阿松。佐阿男。兄<note n="0263006" resp="ihp" place="foot text" type="orig">&CB31146;＝妻【史】</note><app n="0263006"><lem resp="ihp" wit="【史】">妻</lem><rdg wit="【原】">&CB31146;</rdg></app>仵思妙。
+<lb ed="C I" n="0263b15"/>弟<app source="0263005" type="＊"><lem resp="ihp" wit="【史】">妻</lem><rdg wit="【原】">&CB31147;</rdg></app>王遝輝。姪女仙輝。小輝。鏑女。
+<lb ed="C I" n="0263b16"/>弟婦權常妙。息<unclear cert="low" reason="damage">萬</unclear>女。　<app source="0263004" type="＊"><lem resp="ihp" wit="【史】">姊</lem><rdg wit="【原】">&CB00106;</rdg></app><note n="0263007" resp="ihp" place="foot text" type="orig">&CB30404;＝赤【史】</note><app n="0263007"><lem resp="ihp" wit="【史】">赤</lem><rdg wit="【原】">&CB30404;</rdg></app>女。
+<lb ed="C I" n="0263b17"/>佛弟子權法超。　妹皂花。妹明光。
+<lb ed="C I" n="0263b18"/>佛弟子王湛書。
+<lb ed="C I" n="0263b19"/>佛弟子權仕<note n="0263008" resp="ihp" place="foot text" type="orig">&CB31148;＝賓【史】</note><app n="0263008"><lem resp="ihp" wit="【史】">賓</lem><rdg wit="【原】">&CB31148;</rdg></app>。</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0263c00"/><mulu level="1" label="之二　碑陰" type="其他"/><head>之二　碑陰</head>
+<div2>
+<lb ed="C I" n="0263c01"/><p id="pI01p0263c0101">惟建德三年歲次甲午二月
+<lb ed="C I" n="0263c02"/>壬辰<note n="0263009" resp="ihp" place="foot text" type="orig">&CB31149;＝朔【史】</note><app n="0263009"><lem resp="ihp" wit="【史】">朔</lem><rdg wit="【原】">&CB31149;</rdg></app>廿八日己未。佛弟子
+<lb ed="C I" n="0263c03"/>本姓呂。蒙大祖賜姓宇文建崇。
+<lb ed="C I" n="0263c04"/>夫靈象神容。遺形異品。毗倫
+<lb ed="C I" n="0263c05"/>讚道。<note n="0263010" resp="ihp" place="foot text" type="orig">&CB05080;＝敷【史】</note><app n="0263010"><lem resp="ihp" wit="【史】">敷</lem><rdg wit="【原】">&CB05080;</rdg></app>五抽之<note n="0263011" resp="ihp" place="foot text" type="orig">&CB31150;＝劫【史】</note><app n="0263011"><lem resp="ihp" wit="【史】">劫</lem><rdg wit="【原】">&CB31150;</rdg></app>化。<app source="0263003" type="＊"><lem resp="ihp" wit="【史】">顯</lem><rdg wit="【原】">&CB21284;</rdg></app>揚設
+<lb ed="C I" n="0263c06"/>教。斯疇百代。聚沙起塔。欲崇
+<lb ed="C I" n="0263c07"/>虛之妙旨。崇寔因業淺。又息
+<lb ed="C I" n="0263c08"/>別將法和。為國展效。募衝戎
+<lb ed="C I" n="0263c09"/>首。從柱國銚國公益州征討。
+<lb ed="C I" n="0263c10"/>因陣身故。是以削竭家珍。興
+<lb ed="C I" n="0263c11"/><unclear cert="low" reason="damage">越</unclear>福邦。造浮圖三級。石銘壹立。
+<lb ed="C I" n="0263c12"/>師子乙<note n="0263012" resp="ihp" place="foot text" type="orig">&CB00450;＝雙【史】</note><app n="0263012"><lem resp="ihp" wit="【史】">雙</lem><rdg wit="【原】">&CB00450;</rdg></app>。&CB00364;於冥積。採取將
+<lb ed="C I" n="0263c13"/>來之因。身骸分流。欲追之懷。
+<lb ed="C I" n="0263c14"/>竊<unclear cert="low" reason="damage">求</unclear>乙念之善。又願帝祚永
+<lb ed="C I" n="0263c15"/>隆。万國來助。普濟乙切。曠劫
+<lb ed="C I" n="0263c16"/>師宗。六道眾生。同登斯福。</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

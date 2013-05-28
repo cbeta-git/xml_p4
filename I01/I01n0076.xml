@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "I01n0076.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selections of Buddhist Stone Rubbings from the Northern Dynasties, Electronic version, No. 0076 阿鹿交村七十人等造石室像記</title>
+                <author>顏娟英主編</author>
+                <respStmt>
+                    <resp>Electronic Version by</resp>
+                    <name>CBETA and DDBC</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>$Revision: 1.5 $<date>$Date: 2011/04/19 06:12:14 $</date></edition>
+            </editionStmt>
+            <extent>1卷</extent>
+            <publicationStmt>
+                <distributor>
+                    <name>中華電子佛典協會 (CBETA)</name>
+                    <address>
+                        <addrLine>service@cbeta.org</addrLine>
+                    </address>
+                </distributor>
+                <availability>
+<p>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/). </p>
+                </availability>
+                <date>$Date: 2011/04/19 06:12:14 $</date>
+            </publicationStmt>
+            <sourceDesc>
+      	      <bibl>Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 076 &desc;</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p lang="eng" type="ly">Text as provided by Institute of History and Philology, Academia Sinica</p>
+                <p lang="chi" type="ly">中央研究院歷史語言研究所</p>
+            </projectDesc>
+            </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+<div1>
+<pb n="0209a" id="I01.0076.0209a" ed="I"/>
+<lb ed="C I" n="0209a00"/><milestone n="1" unit="juan"/><head type="no">No. 76</head>
+<lb ed="C I" n="0209a00"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><title>阿鹿交村七十人等造石室像記</title></jhead></juan>
+<div2>
+<lb ed="C I" n="0209a01"/><p id="pI01p0209a0101">．．．　　　　　邑子郭買德邑子張阿<unclear cert="low" reason="damage">叡</unclear>
+<lb ed="C I" n="0209a02"/>．．．子衛他<note n="0209001" resp="ihp" place="foot text" type="orig">&CB31007;＝貴【史】</note><app n="0209001"><lem resp="ihp" wit="【史】">貴</lem><rdg wit="【原】">&CB31007;</rdg></app>邑子褚苟邑子衛仕<note n="0209002" resp="ihp" place="foot text" type="orig">&CB31008;＝敖【史】</note><app n="0209002"><lem resp="ihp" wit="【史】">敖</lem><rdg wit="【原】">&CB31008;</rdg></app>邑子路蘭貴．．．
+<lb ed="C I" n="0209a03"/>．．．子蘭搏邑子郭仲邑子韓<note n="0209003" resp="ihp" place="foot text" type="orig">&CB07622;＝繼【史】</note><app n="0209003"><lem resp="ihp" wit="【史】">繼</lem><rdg wit="【原】">&CB07622;</rdg></app>叔邑子衛阿標邑．．．
+<lb ed="C I" n="0209a04"/>．．．陳司周邑子王遵邑子衛<note n="0209004" resp="ihp" place="foot text" type="orig">&CB30516;＝蠢【史】</note><app n="0209004"><lem resp="ihp" wit="【史】">蠢</lem><rdg wit="【原】">&CB30516;</rdg></app>掃邑子秦元就邑．．．
+<lb ed="C I" n="0209a05"/>．．．衛□邑子張儀<unclear cert="medium" reason="damage">國</unclear>邑子陳賓邑子張黑魄邑子．．．
+<lb ed="C I" n="0209a06"/>．．．文通邑子郭和<app source="0209001" type="＊"><lem resp="ihp" wit="【史】">貴</lem><rdg wit="【原】">&CB31007;</rdg></app>邑子韓玉邑子張黑<note n="0209005" resp="ihp" place="foot text" type="orig">&CB31009;＝兒【史】</note><app n="0209005"><lem resp="ihp" wit="【史】">兒</lem><rdg wit="【原】">&CB31009;</rdg></app>邑子．．．
+<lb ed="C I" n="0209a07"/>．．．邑子王長德邑子張嵩義邑子衛也如邑子郭．．．
+<lb ed="C I" n="0209a08"/>．．．子王陽<app source="0209005" type="＊"><lem resp="ihp" wit="【史】">兒</lem><rdg wit="【原】">&CB31009;</rdg></app>邑子張<note n="0209006" resp="ihp" place="foot text" type="orig">&CB31010;＝亞【史】</note><app n="0209006"><lem resp="ihp" wit="【史】">亞</lem><rdg wit="【原】">&CB31010;</rdg></app><app source="0209005" type="＊"><lem resp="ihp" wit="【史】">兒</lem><rdg wit="【原】">&CB31009;</rdg></app>邑子張明<note n="0209007" resp="ihp" place="foot text" type="orig">&CB03140;＝璨【史】</note><app n="0209007"><lem resp="ihp" wit="【史】">璨</lem><rdg wit="【原】">&CB03140;</rdg></app>邑子褚寶．．．
+<lb ed="C I" n="0209a09"/>．．．子張法顯邑子衛九&CB00130;邑子藉<note n="0209008" resp="ihp" place="foot text" type="orig">&CB31011;＝科【史】</note><app n="0209008"><lem resp="ihp" wit="【史】">科</lem><rdg wit="【原】">&CB31011;</rdg></app>邑子張洪<app source="0209005" type="＊"><lem resp="ihp" wit="【史】">兒</lem><rdg wit="【原】">&CB31009;</rdg></app>邑．．．
+<lb ed="C I" n="0209a10"/>．．．牛<unclear cert="low" reason="damage">侃</unclear>邑子張石買邑子王及先邑子王伏如邑．．．
+<lb ed="C I" n="0209a11"/>．．．子石子邕邑子賈<note n="0209009" resp="ihp" place="foot text" type="orig">&CB00450;＝雙【史】</note><app n="0209009"><lem resp="ihp" wit="【史】">雙</lem><rdg wit="【原】">&CB00450;</rdg></app>羅邑子張嵩禮邑子邑張．．．
+<lb ed="C I" n="0209a12"/>．．．阿買邑子陳阿勝邑子衛純<note n="0209010" resp="ihp" place="foot text" type="orig">&CB00442;＝陀【史】</note><app n="0209010"><lem resp="ihp" wit="【史】">陀</lem><rdg wit="【原】">&CB00442;</rdg></app>邑子王始孫邑．．．
+<lb ed="C I" n="0209a13"/>．．．邑子衛元定邑子衛阿乞邑子衛<note n="0209011" resp="ihp" place="foot text" type="orig">&CB30785;＝象【史】</note><app n="0209011"><lem resp="ihp" wit="【史】">象</lem><rdg wit="【原】">&CB30785;</rdg></app>馬邑子郭．．．
+<lb ed="C I" n="0209a14"/>．．．杜子<note n="0209012" resp="ihp" place="foot text" type="orig">&CB01961;＝虫【史】</note><app n="0209012"><lem resp="ihp" wit="【史】">虫</lem><rdg wit="【原】">&CB01961;</rdg></app>邑子褚阿滿邑子衛阿曹邑子衛阿匡．．．
+<lb ed="C I" n="0209a15"/>．．．和國邑子王買邑子王阿珍邑子張阿<app source="0209001" type="＊"><lem resp="ihp" wit="【史】">貴</lem><rdg wit="【原】">&CB31007;</rdg></app>邑子．．．
+<lb ed="C I" n="0209a16"/>．．．邑子衛買興邑子衛阿<note n="0209013" resp="ihp" place="foot text" type="orig">&CB31012;＝斛【史】</note><app n="0209013"><lem resp="ihp" wit="【史】">斛</lem><rdg wit="【原】">&CB31012;</rdg></app>邑子衛義和邑子衛．．．
+<lb ed="C I" n="0209a17"/>．．．邑子衛鳳<note n="0209014" resp="ihp" place="foot text" type="orig">軓＝軌【史】</note><app n="0209014"><lem resp="ihp" wit="【史】">軌</lem><rdg wit="【原】">軓</rdg></app>顯<note n="0209015" resp="ihp" place="foot text" type="orig">&CB31013;＝族【史】</note><app n="0209015"><lem resp="ihp" wit="【史】">族</lem><rdg wit="【原】">&CB31013;</rdg></app>邑子藉阿和邑子衛阿<app source="0209010" type="＊"><lem resp="ihp" wit="【史】">陀</lem><rdg wit="【原】">&CB00442;</rdg></app>邑．．．
+<lb ed="C I" n="0209a18"/>．．．比丘僧智朗邑子李<unclear cert="low" reason="damage">安</unclear>和邑子趙元伯邑子張．．．
+<lb ed="C I" n="0209a19"/>．．．比丘僧法空王元季邑子衛介猥邑子衛<note n="0209016" resp="ihp" place="foot text" type="orig">&CB31014;＝曇【史】</note><app n="0209016"><lem resp="ihp" wit="【史】">曇</lem><rdg wit="【原】">&CB31014;</rdg></app>曠．．．
+<lb ed="C I" n="0209a20"/>．．．唯那張寶明略邑子張洪&CB01259;邑子衛榮&CB01259;邑子．．．
+<lb ed="C I" n="0209a21"/>．．．唯那衛阿<unclear cert="medium" reason="damage">棺</unclear>子衛護乾邑子藉阿國邑子劉<unclear cert="low" reason="damage">景</unclear>．．．
+<lb ed="C I" n="0209a22"/>．．．唯那張阿<note n="0209017" resp="ihp" place="foot text" type="orig">&CB00410;＝泥【史】</note><app n="0209017"><lem resp="ihp" wit="【史】">泥</lem><rdg wit="【原】">&CB00410;</rdg></app>羅<note n="0209018" resp="ihp" place="foot text" type="orig">&CB31015;＝侯【史】</note><app n="0209018"><lem resp="ihp" wit="【史】">侯</lem><rdg wit="【原】">&CB31015;</rdg></app>邑子衛暉<note n="0209019" resp="ihp" place="foot text" type="orig">&CB08878;＝纂【史】</note><app n="0209019"><lem resp="ihp" wit="【史】">纂</lem><rdg wit="【原】">&CB08878;</rdg></app>邑子衛仕宗邑．．．
+<lb ed="C I" n="0209a23"/>．．．唯那衛舍欣邑子劉阿腊邑子衛小德邑子衛．．．
+<lb ed="C I" n="0209a24"/>　　　　　　邑子王保興</p>
+</div2>
+<div2>
+<lb ed="C I" n="0209b01"/><p id="pI01p0209b0101">　　　　　當陽像主<unclear cert="low" reason="damage">韓</unclear>知悅　妻張舍明息阿玉
+<lb ed="C I" n="0209b02"/>都綰主郭黑　　　　　　　　　　　　息<app source="0209003" type="＊"><lem resp="ihp" wit="【史】">繼</lem><rdg wit="【原】">&CB07622;</rdg></app>叔
+<lb ed="C I" n="0209b03"/>唯大<note n="0209020" resp="ihp" place="foot text" type="orig">&CB31018;＝齊【史】</note><app n="0209020"><lem resp="ihp" wit="【史】">齊</lem><rdg wit="【原】">&CB31018;</rdg></app>河清二年歲次癸未二月乙未朔十七日辛巳。阿鹿交村□
+<lb ed="C I" n="0209b04"/>子七十人等。敢以天慈隆厚。惠澤洪深。其唯仰憑三寶。可以□
+<lb ed="C I" n="0209b05"/><note n="0209021" resp="ihp" place="foot text" type="orig">&CB31016;＝答【史】</note><app n="0209021"><lem resp="ihp" wit="【史】">答</lem><rdg wit="【原】">&CB31016;</rdg></app>皇恩。下述民心矣。故知寶璧非<unclear cert="medium" reason="damage">隨</unclear>身之資。福林<note n="0209022" resp="ihp" place="foot text" type="orig">&CB17349;＝獲【史】</note><app n="0209022"><lem resp="ihp" wit="【史】">獲</lem><rdg wit="【原】">&CB17349;</rdg></app>將來之果。
+<lb ed="C I" n="0209b06"/>其人等。深識非常。敬造石室一區。縱曠東西南北上下五尺□
+<lb ed="C I" n="0209b07"/><unclear cert="low" reason="damage">有</unclear>一佛六菩薩。阿難。迦葉。八部神王。金剛力士。造德成就。願
+<lb ed="C I" n="0209b08"/>為佛法興隆。皇帝<note n="0209023" resp="ihp" place="foot text" type="orig">&CB30996;＝陛【史】</note><app n="0209023"><lem resp="ihp" wit="【史】">陛</lem><rdg wit="【原】">&CB30996;</rdg></app>下。臣遼百官。兵駕不起。五穀熟成。万
+<lb ed="C I" n="0209b09"/>民安寧。後願七世父母。盍家眷屬。邊地眾生。普蒙慈恩。
+<lb ed="C I" n="0209b10"/>一時成佛。　齋主郭京周　齋主衛顯和　齋主衛□
+<lb ed="C I" n="0209b11"/>八<note n="0209024" resp="ihp" place="foot text" type="orig">閞＝關【史】</note><app n="0209024"><lem resp="ihp" wit="【史】">關</lem><rdg wit="【原】">閞</rdg></app>齋主衛興標　齋主陳遵　齋主郭<app source="0209016" type="＊"><lem resp="ihp" wit="【史】">曇</lem><rdg wit="【原】">&CB31014;</rdg></app>
+<lb ed="C I" n="0209b12"/>　齋主張強<app source="0209015" type="＊"><lem resp="ihp" wit="【史】">族</lem><rdg wit="【原】">&CB31013;</rdg></app>　齋主張元伯　齋主衛始&CB01259;
+<lb ed="C I" n="0209b13"/>　　齋主張敬標齋主王<app source="0209001" type="＊"><lem resp="ihp" wit="【史】">貴</lem><rdg wit="【原】">&CB31007;</rdg></app>遵　齋主衛義
+<lb ed="C I" n="0209b14"/>齋主王標　齋主衛買興　齋主衛僧　齋主衛令欣
+<lb ed="C I" n="0209b15"/>佛堂主比丘僧道顏　堂主衛伏奴堂主衛黑□
+<lb ed="C I" n="0209b16"/>　堂主薄伏奴　堂主王元知　堂主王洪<unclear cert="medium" reason="damage">哲</unclear>　張和&CB01259;
+<lb ed="C I" n="0209b17"/>轉輪王主陳<app source="0209001" type="＊"><lem resp="ihp" wit="【史】">貴</lem><rdg wit="【原】">&CB31007;</rdg></app>賓　衝天王主衛蚕&CB31006;　清淨主衛義□
+<lb ed="C I" n="0209b18"/>清淨主衛純<app source="0209010" type="＊"><lem resp="ihp" wit="【史】">陀</lem><rdg wit="【原】">&CB00442;</rdg></app>　東王主張洪　　南王主王始孫
+<lb ed="C I" n="0209b19"/>西王主張法顯　北王主王<unclear cert="medium" reason="damage">導</unclear>業
+<lb ed="C I" n="0209b20"/>趙□<unclear cert="medium" reason="damage">見</unclear><unclear cert="medium" reason="damage">住</unclear>□<unclear cert="medium" reason="damage">興</unclear><unclear cert="medium" reason="damage">北</unclear><unclear cert="medium" reason="damage">坊</unclear>□□□<unclear cert="medium" reason="damage">侍</unclear><unclear cert="medium" reason="damage">佛</unclear><unclear cert="medium" reason="damage">時</unclear></p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

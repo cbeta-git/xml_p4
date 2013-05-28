@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "I01n0095.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selections of Buddhist Stone Rubbings from the Northern Dynasties, Electronic version, No. 0095 唐邕刻經記</title>
+                <author>顏娟英主編</author>
+                <respStmt>
+                    <resp>Electronic Version by</resp>
+                    <name>CBETA and DDBC</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>$Revision: 1.5 $<date>$Date: 2011/04/19 06:12:14 $</date></edition>
+            </editionStmt>
+            <extent>1卷</extent>
+            <publicationStmt>
+                <distributor>
+                    <name>中華電子佛典協會 (CBETA)</name>
+                    <address>
+                        <addrLine>service@cbeta.org</addrLine>
+                    </address>
+                </distributor>
+                <availability>
+<p>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/). </p>
+                </availability>
+                <date>$Date: 2011/04/19 06:12:14 $</date>
+            </publicationStmt>
+            <sourceDesc>
+      	      <bibl>Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 095 &desc;</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p lang="eng" type="ly">Text as provided by Institute of History and Philology, Academia Sinica</p>
+                <p lang="chi" type="ly">中央研究院歷史語言研究所</p>
+            </projectDesc>
+            </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+<div1>
+<pb n="0253a" id="I01.0095.0253a" ed="I"/>
+<lb ed="C I" n="0253a00"/><milestone n="1" unit="juan"/><head type="no">No. 95</head>
+<lb ed="C I" n="0253a00"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><title>唐邕刻經記</title></jhead></juan>
+<lb ed="C I" n="0253a01"/><p id="pI01p0253a0101">粵若稽古。逖聽風聲。握神紀以應物。遊靈教而至道者有矣。咸弘之在人。道不虛泄。然則
+<lb ed="C I" n="0253a02"/>軒從七聖。蘭葉傳文。舜共三公。芝泥觀字。周朝關令。望東氣而稽首。<note n="0253001" resp="ihp" place="foot text" type="orig">&CB31127;＝丘【史】</note><app n="0253001"><lem resp="ihp" wit="【史】">丘</lem><rdg wit="【原】">&CB31127;</rdg></app>門弟子。向北斗而
+<lb ed="C I" n="0253a03"/>磬折。天書道記。可略言也。蓋不出於九流。且未聞於三世。我　　大齊之君。區有義□<unclear cert="low" reason="damage">不</unclear>
+<lb ed="C I" n="0253a04"/>思。家傳天帝之尊。世祚輪王之貴。一人示見。百辟應生。俯順龜龍。託&CB00528;雲火。翠鳳將寶幢
+<lb ed="C I" n="0253a05"/>共舉。靈鼉與<note n="0253002" resp="ihp" place="foot text" type="orig">&CB00402;＝法【史】</note><app n="0253002"><lem resp="ihp" wit="【史】">法</lem><rdg wit="【原】">&CB00402;</rdg></app>鼓俱震。萬機兼十<note n="0253003" resp="ihp" place="foot text" type="orig">&CB31116;＝善【史】</note><app n="0253003"><lem resp="ihp" wit="【史】">善</lem><rdg wit="【原】">&CB31116;</rdg></app>之化。四門雜三乘之賓。自迦葉結集。蔡愔遊返。持綖
+<lb ed="C I" n="0253a06"/>之經。盛於茲日。龍宮斯盡。<note n="0253004" resp="ihp" place="foot text" type="orig">&CB07782;＝象【史】</note><app n="0253004"><lem resp="ihp" wit="【史】">象</lem><rdg wit="【原】">&CB07782;</rdg></app>載未勝。特進驃騎大將軍開府儀同三司尚書令并州大中
+<lb ed="C I" n="0253a07"/>正食司州濮陽郡幹長安縣開國侯<note n="0253005" resp="ihp" place="foot text" type="orig">&CB07778;＝晉【史】</note><app n="0253005"><lem resp="ihp" wit="【史】">晉</lem><rdg wit="【原】">&CB07778;</rdg></app>昌郡開國公唐邕。挺固理時。生而為世。秉文<unclear cert="low" reason="damage">經</unclear>武。
+<lb ed="C I" n="0253a08"/>來處<note n="0253006" resp="ihp" place="foot text" type="orig">&CB08775;＝廟【史】</note><app n="0253006"><lem resp="ihp" wit="【史】">廟</lem><rdg wit="【原】">&CB08775;</rdg></app>堂。從扣而鳴。隨病與藥。待群方而似鏡。應眾<note n="0253007" resp="ihp" place="foot text" type="orig">&CB31117;＝務【史】</note><app n="0253007"><lem resp="ihp" wit="【史】">務</lem><rdg wit="【原】">&CB31117;</rdg></app><note n="0253008" resp="ihp" place="foot text" type="orig">&CB30720;＝其【史】</note><app n="0253008"><lem resp="ihp" wit="【史】">其</lem><rdg wit="【原】">&CB30720;</rdg></app>如響。四海仰以彌高。千官挹而
+<lb ed="C I" n="0253a09"/>滿<note n="0253009" resp="ihp" place="foot text" type="orig">&CB31118;＝腹【史】</note><app n="0253009"><lem resp="ihp" wit="【史】">腹</lem><rdg wit="【原】">&CB31118;</rdg></app>。眷言法寶。是所歸依。以為縑緗有壞。簡策非久。金牒難求。皮紙易滅。於是發七處之
+<lb ed="C I" n="0253a10"/>印。開七寶之函。訪蓮華之書。命銀鉤之&CB00528;。一音所說。盡勒名山。於鼓山石窟之所。寫維<unclear cert="low" reason="damage">摩</unclear>
+<lb ed="C I" n="0253a11"/>詰經一部。勝鬘經一部。孛經一部。彌勒成佛經一部。起天統四年三月一日。盡武平三年
+<lb ed="C I" n="0253a12"/>歲次壬辰五月廿八日。<note n="0253010" resp="ihp" place="foot text" type="orig">&CB00117;＝澗【史】</note><app n="0253010"><lem resp="ihp" wit="【史】">澗</lem><rdg wit="【原】">&CB00117;</rdg></app>谷虛靜。邑居閑曠。林疑極妙。艸匹文柔。禽繞空中。獸依樹下。水
+<lb ed="C I" n="0253a13"/>音發而覺道。風響動而悟物。戒行之徒允<note n="0253011" resp="ihp" place="foot text" type="orig">&CB30733;＝集【史】</note><app n="0253011"><lem resp="ihp" wit="【史】">集</lem><rdg wit="【原】">&CB30733;</rdg></app>。慧定之侶攸歸。如日貫雲。常轉不息。□非恐
+<lb ed="C I" n="0253a14"/>畏。未苦風寒。石比夜光。非待<note n="0253012" resp="ihp" place="foot text" type="orig">&CB31119;＝螢【史】</note><app n="0253012"><lem resp="ihp" wit="【史】">螢</lem><rdg wit="【原】">&CB31119;</rdg></app>雪。毗沙上度。敕眾鬼而護持。大梵來遊。領群神而<unclear cert="low" reason="damage">保</unclear>衛。<app source="0253003" type="＊"><lem resp="ihp" wit="【史】">善</lem><rdg wit="【原】">&CB31116;</rdg></app>
+<lb ed="C I" n="0253a15"/>因<note n="0253013" resp="ihp" place="foot text" type="orig">&CB31120;＝普【史】</note><app n="0253013"><lem resp="ihp" wit="【史】">普</lem><rdg wit="【原】">&CB31120;</rdg></app>被。願力薰脩。當使世界同於淨土。　皇基固於大地。<note n="0253014" resp="ihp" place="foot text" type="orig">&CB31121;＝置【史】</note><app n="0253014"><lem resp="ihp" wit="【史】">置</lem><rdg wit="【原】">&CB31121;</rdg></app>六道於十山。沐四生於八□。
+<lb ed="C I" n="0253a16"/>乃及無邊。皆取正覺。海收經籍。斯文必傳。山從水火。此方無壞。重宣茲義。乃作銘曰。
+<lb ed="C I" n="0253a17"/>天文<note n="0253015" resp="ihp" place="foot text" type="orig">&CB31122;＝星【史】</note><app n="0253015"><lem resp="ihp" wit="【史】">星</lem><rdg wit="【原】">&CB31122;</rdg></app>象。人文書契。先聖後賢。道纔身世。惟　皇建國。教通群藝。德實無為。化窮兼<note n="0253016" resp="ihp" place="foot text" type="orig">&CB09497;＝濟【史】</note><app n="0253016"><lem resp="ihp" wit="【史】">濟</lem><rdg wit="【原】">&CB09497;</rdg></app>。諸
+<lb ed="C I" n="0253a18"/>法為祖。諸經亦王。一文半偈。與物行<note n="0253017" resp="ihp" place="foot text" type="orig">&CB18911;＝藏【史】</note><app n="0253017"><lem resp="ihp" wit="【史】">藏</lem><rdg wit="【原】">&CB18911;</rdg></app>。天縱上士。時應有方。群迷升極。至道津梁。殺青有
+<lb ed="C I" n="0253a19"/><note n="0253018" resp="ihp" place="foot text" type="orig">&CB31123;＝缺【史】</note><app n="0253018"><lem resp="ihp" wit="【史】">缺</lem><rdg wit="【原】">&CB31123;</rdg></app>。韋編有絕。一託貞堅。永<note n="0253019" resp="ihp" place="foot text" type="orig">&CB31124;＝垂【史】</note><app n="0253019"><lem resp="ihp" wit="【史】">垂</lem><rdg wit="【原】">&CB31124;</rdg></app>昭<note n="0253020" resp="ihp" place="foot text" type="orig">&CB02198;＝晰【史】</note><app n="0253020"><lem resp="ihp" wit="【史】">晰</lem><rdg wit="【原】">&CB02198;</rdg></app>。天神左右。天王<note n="0253021" resp="ihp" place="foot text" type="orig">&CB31126;＝擁【史】</note><app n="0253021"><lem resp="ihp" wit="【史】">擁</lem><rdg wit="【原】">&CB31126;</rdg></app>衛。書未仙遊。字無飛滅。地遙常寂。山
+<lb ed="C I" n="0253a20"/>空避喧。承風覺道。海渧難論。水流可閱。日去無翻乘茲誓願。福地常存。</p>
+</div1>
+</body>
+</text>
+</TEI.2>

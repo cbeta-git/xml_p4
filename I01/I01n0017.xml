@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "I01n0017.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selections of Buddhist Stone Rubbings from the Northern Dynasties, Electronic version, No. 0017 夫蒙文慶造像記</title>
+                <author>顏娟英主編</author>
+                <respStmt>
+                    <resp>Electronic Version by</resp>
+                    <name>CBETA and DDBC</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>$Revision: 1.7 $<date>$Date: 2011/05/19 01:44:08 $</date></edition>
+            </editionStmt>
+            <extent>1卷</extent>
+            <publicationStmt>
+                <distributor>
+                    <name>中華電子佛典協會 (CBETA)</name>
+                    <address>
+                        <addrLine>service@cbeta.org</addrLine>
+                    </address>
+                </distributor>
+                <availability>
+<p>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/). </p>
+                </availability>
+                <date>$Date: 2011/05/19 01:44:08 $</date>
+            </publicationStmt>
+            <sourceDesc>
+      	      <bibl>Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 017 &desc;</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p lang="eng" type="ly">Text as provided by Institute of History and Philology, Academia Sinica</p>
+                <p lang="chi" type="ly">中央研究院歷史語言研究所</p>
+            </projectDesc>
+            </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+<div1>
+<pb n="0045a" id="I01.0017.0045a" ed="I"/>
+<lb ed="C I" n="0045a00"/><milestone n="1" unit="juan"/><head type="no">No. 17</head>
+<lb ed="C I" n="0045a00"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><title>夫蒙文慶造像記</title></jhead></juan>
+<lb ed="C I" n="0045a00"/><mulu level="1" label="之一" type="其他"/><head>之一</head>
+<div2>
+<lb ed="C I" n="0045a01"/><p id="pI01p0045a0101">　　　　　　　戊<unclear cert="medium" reason="damage">戌</unclear>□□
+<lb ed="C I" n="0045a02"/>　神龜二年<unclear cert="medium" reason="damage">歲次</unclear>□月戊申朔十五日
+<lb ed="C I" n="0045a03"/>　　　　夫蒙文慶為<note n="0045001" resp="ihp" place="foot text" type="orig">&CB30434;＝亡【史】</note><app n="0045001"><lem resp="ihp" wit="【史】">亡</lem><rdg wit="【原】">&CB30434;</rdg></app>父
+<lb ed="C I" n="0045a04"/>　　　　<app source="0045001" type="＊"><lem resp="ihp" wit="【史】">亡</lem><rdg wit="【原】">&CB30434;</rdg></app>妹。七世父母。因緣
+<lb ed="C I" n="0045a05"/>　　　　　眷蜀。　造立石
+<lb ed="C I" n="0045a06"/>　　　　　像一區。減<note n="0045002" resp="ihp" place="foot text" type="orig">&CB30428;＝割【史】</note><app n="0045002"><lem resp="ihp" wit="【史】">割</lem><rdg wit="【原】">&CB30428;</rdg></app>家<note n="0045003" resp="ihp" place="foot text" type="orig">&CB30437;＝珍【史】</note><app n="0045003"><lem resp="ihp" wit="【史】">珍</lem><rdg wit="【原】">&CB30437;</rdg></app>。
+<lb ed="C I" n="0045a07"/>　　　　雇良匠。仰感帝主覆
+<lb ed="C I" n="0045a08"/>　　　　　被之恩。追所生顯育
+<lb ed="C I" n="0045a09"/>　　　　　之重。<note n="0045004" resp="ihp" place="foot text" type="orig">&CB00282;＝奇【史】</note><app n="0045004"><lem resp="ihp" wit="【史】">奇</lem><rdg wit="【原】">&CB00282;</rdg></app>形異容。則
+<lb ed="C I" n="0045a10"/>　　　　□明工不能加其巧。是
+<lb ed="C I" n="0045a11"/>　妻雷男&CB02408;<note n="0045005" resp="ihp" place="foot text" type="orig">&CB18232;＝釋【史】</note><app n="0045005"><lem resp="ihp" wit="【史】">釋</lem><rdg wit="【原】">&CB18232;</rdg></app>迦<note n="0045006" resp="ihp" place="foot text" type="orig">&CB04152;＝鼓【史】</note><app n="0045006"><lem resp="ihp" wit="【史】">鼓</lem><rdg wit="【原】">&CB04152;</rdg></app>法。豈非極</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0045b00"/><mulu level="1" label="之二" type="其他"/><head>之二</head>
+<div2>
+<lb ed="C I" n="0045b01"/><p id="pI01p0045b0101">　　　　　　像主夫蒙文慶
+<lb ed="C I" n="0045b02"/>　　　　　　母雷□&CB02408;
+<lb ed="C I" n="0045b03"/>　　　　　　父名道明□<unclear cert="low" reason="damage">靈</unclear>武
+<lb ed="C I" n="0045b04"/>　　　　　　妻瓽智□
+<lb ed="C I" n="0045b05"/>　　　　　　<unclear cert="medium" reason="damage">祖名</unclear>□□
+<lb ed="C I" n="0045b06"/>　　　　　　曾祖名屈閏
+<lb ed="C I" n="0045b07"/>　　　　　　□平縣令
+<lb ed="C I" n="0045b08"/>　　　　　　建□將軍<note n="0045007" resp="ihp" place="foot text" type="orig">&CB04833;＝宜【史】</note><app n="0045007"><lem resp="ihp" wit="【史】">宜</lem><rdg wit="【原】">&CB04833;</rdg></app>
+<lb ed="C I" n="0045b09"/>　　　　　　高祖名南地姚□
+<lb ed="C I" n="0045b10"/>　　　　　高祖名脫&CB02408;娥</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0045c00"/><mulu level="1" label="之三" type="其他"/><head>之三</head>
+<div2>
+<lb ed="C I" n="0045c01"/><p id="pI01p0045c0101">　　　　　　聖姿　之形容。□
+<lb ed="C I" n="0045c02"/>　　　　　<note n="0045008" resp="ihp" place="foot text" type="orig">&CB30438;＝徒【史】</note><app n="0045008"><lem resp="ihp" wit="【史】">徒</lem><rdg wit="【原】">&CB30438;</rdg></app><note n="0045009" resp="ihp" place="foot text" type="orig">&CB30436;＝禮【史】</note><app n="0045009"><lem resp="ihp" wit="【史】">禮</lem><rdg wit="【原】">&CB30436;</rdg></app>敬。莫不<note n="0045010" resp="ihp" place="foot text" type="orig">&CB30318;＝啟【史】</note><app n="0045010"><lem resp="ihp" wit="【史】">啟</lem><rdg wit="【原】">&CB30318;</rdg></app>悟。願
+<lb ed="C I" n="0045c03"/>　　　　　使龍華三會。恒在初首。
+<lb ed="C I" n="0045c04"/>清信士　　　佛弟子清信士<app source="0045001" type="＊"><lem resp="ihp" wit="【史】">亡</lem><rdg wit="【原】">&CB30434;</rdg></app>
+<lb ed="C I" n="0045c05"/>　光姬　　　光姬。願使生天。妙
+<lb ed="C I" n="0045c06"/>　　　　　　朗國土<app><lem wit="【CBETA】" resp="CBETA.maha">&CB07099;</lem><rdg wit="【原】【史】">旡</rdg></app><unclear cert="low" reason="damage">咎</unclear>。略受佛<unclear cert="low" reason="damage">記</unclear>。
+<lb ed="C I" n="0045c07"/>　　　　　　若<note n="0045011" resp="ihp" place="foot text" type="orig">&CB18944;＝墮【史】</note><app n="0045011"><lem resp="ihp" wit="【史】">墮</lem><rdg wit="【原】">&CB18944;</rdg></app>三<app source="0045008" type="＊"><lem resp="ihp" wit="【史】">徒</lem><rdg wit="【原】">&CB30438;</rdg></app>。速得解<note n="0045012" resp="ihp" place="foot text" type="orig">&CB09127;＝退【史】</note><app n="0045012"><lem resp="ihp" wit="【史】">退</lem><rdg wit="【原】">&CB09127;</rdg></app>。</p>
+</div2>
+</div1>
+<div1>
+<lb ed="C I" n="0045d00"/><mulu level="1" label="之四" type="其他"/><head>之四</head>
+<div2>
+<lb ed="C I" n="0045d01"/><p id="pI01p0045d0101">　　　　　妻清信士雷豐供<note n="0045013" resp="ihp" place="foot text" type="orig">&CB30439;＝養【史】</note><app n="0045013"><lem resp="ihp" wit="【史】">養</lem><rdg wit="【原】">&CB30439;</rdg></app>佛時
+<lb ed="C I" n="0045d02"/>　　　　　　蒙文慶供<app source="0045013" type="＊"><lem resp="ihp" wit="【史】">養</lem><rdg wit="【原】">&CB30439;</rdg></app>佛時
+<lb ed="C I" n="0045d03"/>　　　　　　佛弟子息祖慶供<app source="0045013" type="＊"><lem resp="ihp" wit="【史】">養</lem><rdg wit="【原】">&CB30439;</rdg></app>佛
+<lb ed="C I" n="0045d04"/>　　　合門大小善願從心功廣成就
+<lb ed="C I" n="0045d05"/>　　　　　　佛弟子息道郎供<app source="0045013" type="＊"><lem resp="ihp" wit="【史】">養</lem><rdg wit="【原】">&CB30439;</rdg></app>佛時
+<lb ed="C I" n="0045d06"/>　　　　　　清信女<note n="0045014" resp="ihp" place="foot text" type="orig">&CB30334;＝照【史】</note><app n="0045014"><lem resp="ihp" wit="【史】">照</lem><rdg wit="【原】">&CB30334;</rdg></app><app source="0045007" type="＊"><lem resp="ihp" wit="【史】">宜</lem><rdg wit="【原】">&CB04833;</rdg></app>供<app source="0045013" type="＊"><lem resp="ihp" wit="【史】">養</lem><rdg wit="【原】">&CB30439;</rdg></app>佛
+<lb ed="C I" n="0045d07"/>　清信女和如供<app source="0045013" type="＊"><lem resp="ihp" wit="【史】">養</lem><rdg wit="【原】">&CB30439;</rdg></app>佛時</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

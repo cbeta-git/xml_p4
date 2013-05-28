@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Customization for CBETA</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>available free of charge for whoever needs it.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>created from scratch by Christian Wittern</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>The Schema Spec</head>
+        <p>The specification of the schema is divided into three parts: declaration of modules, modification of existing parts of the TEI and definition of new elements.</p>
+        <schemaSpec ident="cbeta-p5" start="TEI">
+          <moduleRef key="header"/>
+          <moduleRef key="core"/>
+          <moduleRef key="tei"/>
+          <moduleRef key="textstructure"/>
+          <moduleRef key="linking"/>
+          <moduleRef key="textcrit"/>
+          <moduleRef key="figures"/>
+          <moduleRef key="gaiji"/>
+          <moduleRef key="dictionaries"/>
+          <classSpec ident="att.global" mode="change" type="atts">
+            <desc>The datatype of the rend attribute is relaxed to allow the specification of the indent with the appropriate number of ideographic spaces.</desc>
+            <attList>
+              <attDef ident="rend" mode="change">
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+            </attList>
+          </classSpec>
+          <elementSpec ident="div" mode="change">
+            <desc>The content model for the div is considerable simplified, since modifying only the start or end of the <gi>div</gi> did not solve all problems.</desc>
+            <content>
+              <rng:zeroOrMore>
+                <rng:choice>
+                  <rng:ref name="mulu"/>
+                  <rng:ref name="docNumber"/>
+                  <rng:ref name="dialog"/>
+                  <rng:ref name="head"/>
+                  <rng:ref name="byline"/>
+                  <rng:ref name="lb"/>
+                  <rng:ref name="lg"/>
+                  <rng:ref name="pb"/>
+                  <rng:ref name="p"/>
+                  <rng:ref name="div"/>
+                  <rng:ref name="juan"/>
+                  <rng:ref name="list"/>
+                  <rng:ref name="entry"/>
+                  <rng:ref name="g"/>
+                  <rng:ref name="trailer"/>
+                  <rng:ref name="app"/>
+                  <rng:ref name="anchor"/>
+                  <rng:ref name="choice"/>
+                  <rng:ref name="milestone"/>
+                  <rng:ref name="note"/>
+                  <rng:ref name="table"/>
+                  <rng:ref name="figure"/>
+                  <rng:ref name="tt"/>
+                  <rng:ref name="macro.xtext"/>
+                </rng:choice>
+              </rng:zeroOrMore>
+            </content>
+          </elementSpec>
+          <elementSpec ident="app" mode="change">
+            <attList>
+              <attDef ident="word-count" mode="add"> </attDef>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="lem" mode="change">
+            <attList>
+              <attDef ident="cf1" mode="add">
+                <desc>cf1 provides reference to a witness in another canonical collection</desc>
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+              <attDef ident="cf2" mode="add">
+                <desc>cf2 provides reference to a witness in another canonical collection</desc>
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="rdg" mode="change">
+            <attList>
+              <attDef ident="cf1" mode="add">
+                <desc>cf1 provides reference to a witness in another canonical collection</desc>
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+              <attDef ident="cf2" mode="add">
+                <desc>cf2 provides reference to a witness in another canonical collection</desc>
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="list" mode="change">
+            <desc>The only change is to allow lists to occur in between paragraphs and other stuff.</desc>
+            <classes>
+              <memberOf key="model.global"/>
+            </classes>
+          </elementSpec>
+          <elementSpec ident="note" mode="change">
+            <desc>This change was necessary to allow notes occur almost everywhere.</desc>
+            <classes>
+              <memberOf key="model.global"/>
+            </classes>
+          </elementSpec>
+          <elementSpec ident="label" mode="change">
+            <desc>we need the <gi>label</gi> also within <gi>lg</gi>.</desc>
+            <classes>
+              <memberOf key="model.lLike"/>
+            </classes>
+          </elementSpec>
+          <elementSpec ident="byline" mode="change">
+            <desc>This contains information related to the creator of the text, which occurs at irregular places, thus inclusion to global.</desc>
+            <classes>
+              <memberOf key="model.global"/>
+            </classes>
+            <content>
+              <rng:zeroOrMore>
+                <rng:choice>
+                  <rng:ref name="model.phrase"/>
+                  <rng:ref name="macro.xtext"/>
+                  <rng:ref name="model.global"/>
+                </rng:choice>
+              </rng:zeroOrMore>
+            </content>
+          </elementSpec>
+          <elementSpec ident="p" mode="change">
+            <desc>Main changes are addition of <gi>lg</gi> within a paragraph and a <att>type</att>.</desc>
+            <content>
+              <rng:oneOrMore>
+                <rng:choice>
+                  <rng:ref name="macro.paraContent"/>
+                  <rng:ref name="lg"/>
+                </rng:choice>
+              </rng:oneOrMore>
+            </content>
+            <attList>
+              <attDef ident="type" mode="add">
+                <desc>The type attribute has been added to distinguish different types of
+                  paragraphs, for example those containing a dharani, a dedication, etc.</desc>
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="sp" mode="change">
+            <desc>The sp element is used here to record utterances in a dialog.</desc>
+            <attList>
+              <attDef ident="type" mode="add">
+                <desc>The type attribute is used here to. Its values are limited to the functional type of utterance.</desc>
+                <datatype>
+                  <rng:text/>
+                </datatype>
+                <valList type="closed">
+                  <valItem ident="question">
+                    <gloss>a question in a dialog</gloss>
+                  </valItem>
+                  <valItem ident="answer">
+                    <gloss>an answer in a dialog</gloss>
+                  </valItem>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="choice" mode="change">
+            <attList>
+              <attDef ident="resp" mode="add">
+                <desc>indicates the responsibility</desc>
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="foreign" mode="change">
+            <attList>
+              <attDef ident="resp" mode="add">
+                <desc>indicates the responsibility</desc>
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+              <attDef ident="place" mode="add">
+                <desc>this is carried over from the old files, they indicate the place of the element here (this was a <gi>note</gi> but has changed to identify only the oreign language equivalent).</desc>
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+              <attDef ident="cert" mode="add">
+                <desc>gives the certainty attributed to this information.</desc>
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="def" mode="change">
+            <desc>A much less restrict content model is needed for the dictionary type of information here.</desc>
+            <content>
+              <rng:zeroOrMore>
+                <rng:choice>
+                  <rng:ref name="model.common"/>
+                  <rng:ref name="model.global"/>
+                </rng:choice>
+              </rng:zeroOrMore>
+            </content>
+          </elementSpec>
+          <!-- new elements -->
+          <elementSpec ident="docNumber" mode="add">
+            <desc>A specialization of the docTitle element. This should be used only once per
+              document, usually as direct child of the body element, but sometimes it occurs in div.</desc>
+            <classes>
+              <memberOf key="model.global"/>
+            </classes>
+            <content>
+              <rng:ref name="macro.phraseSeq"/>
+            </content>
+          </elementSpec>
+          <elementSpec ident="dialog" mode="add">
+            <desc>a container element for <gi>sp</gi>.</desc>
+            <classes>
+              <memberOf key="model.common"/>
+            </classes>
+            <content>
+              <rng:zeroOrMore>
+                <rng:choice>
+                  <rng:ref name="sp"/>
+                  <rng:ref name="lb"/>
+                  <rng:ref name="pb"/>
+                </rng:choice>
+              </rng:zeroOrMore>
+            </content>
+            <attList>
+              <attDef ident="type" mode="add">
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="mulu" mode="add">
+            <equiv name="label"/>
+            <desc>A specialized label, indicating the text that will occur in a constructed table of contents.</desc>
+            <classes>
+              <memberOf key="model.global"/>
+            </classes>
+            <content>
+              <rng:ref name="macro.phraseSeq"/>
+            </content>
+            <attList>
+              <attDef ident="type" mode="add">
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="juan" mode="add">
+            <desc>This element holds the text typically found at the beginning or end of a scroll.  As such, it works like a milestone element, but one that has content.  This content is out of flow of the text content surrounding it.  The <att>fun</att> indicates its position at either the beginning or the end of a scroll.</desc>
+            <classes>
+              <memberOf key="model.global"/>
+            </classes>
+            <content>
+              <rng:zeroOrMore>
+                <rng:choice>
+                  <rng:ref name="mulu"/>
+                  <rng:ref name="note"/>
+                  <rng:ref name="jhead"/>
+                  <!--                                        <rng:ref name="head"/> -->
+                  <rng:ref name="macro.phraseSeq"/>
+                </rng:choice>
+              </rng:zeroOrMore>
+            </content>
+            <attList>
+              <attDef ident="fun" mode="add">
+                <datatype>
+                  <rng:ref name="datatype.Choice"/>
+                </datatype>
+                <valList type="closed">
+                  <valItem ident="open">
+                    <gloss>opener: begin of scroll</gloss>
+                  </valItem>
+                  <valItem ident="close">
+                    <gloss>closer: end of scroll</gloss>
+                  </valItem>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="jhead" mode="add">
+            <equiv name="head"/>
+            <desc>Specialized head element used at the start of a scroll, usually within <gi>juan</gi></desc>
+            <classes>
+              <memberOf key="model.inter"/>
+              <memberOf key="macro.phraseSeq"/>
+            </classes>
+            <content>
+              <rng:zeroOrMore>
+                <rng:choice>
+                  <rng:ref name="macro.phraseSeq"/>
+                  <rng:ref name="tt"/>
+                  <rng:ref name="label"/>
+                  <rng:ref name="note"/>
+                </rng:choice>
+              </rng:zeroOrMore>
+            </content>
+            <attList>
+              <attDef ident="type" mode="add">
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="tt" mode="add">
+            <desc>Container element for parallel t elements.</desc>
+            <classes>
+              <memberOf key="model.inter"/>
+            </classes>
+            <content>
+              <rng:ref name="macro.phraseSeq"/>
+              <rng:zeroOrMore>
+                <rng:ref name="t"/>
+              </rng:zeroOrMore>
+            </content>
+            <attList>
+              <attDef ident="type" mode="add">
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+              <attDef ident="word-count" mode="add">
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+              <attDef ident="from" mode="add">
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+              <attDef ident="to" mode="add">
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="t" mode="add">
+            <desc>Element for parallel t elements (used to mark parallel Chinese and Sanskrit
+              passages)</desc>
+            <content>
+              <rng:ref name="macro.phraseSeq"/>
+              <rng:zeroOrMore>
+                <rng:ref name="yin"/>
+              </rng:zeroOrMore>
+            </content>
+            <attList>
+              <attDef ident="resp" mode="add">
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+              <attDef ident="place" mode="add">
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+              <attDef ident="cert" mode="add">
+                <desc>describes the certainty of the assignment</desc>
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="fan" mode="add">
+            <desc>A container element for a sound gloss in fanqie notation. The character to be
+              annotated is <gi>zi</gi>, the soundgloss is <gi>yin</gi>. </desc>
+            <classes>
+              <memberOf key="model.inter"/>
+            </classes>
+            <content>
+              <rng:zeroOrMore>
+                <rng:ref name="zi"/>
+                <rng:ref name="yin"/>
+              </rng:zeroOrMore>
+            </content>
+          </elementSpec>
+          <elementSpec ident="zi" mode="add">
+            <content>
+              <rng:ref name="macro.phraseSeq"/>
+            </content>
+          </elementSpec>
+          <elementSpec ident="yin" mode="add">
+            <desc>Content of a soundgloss, either of the fanqie type, or a description, how a
+              Sanskrit transkription is supposed to be rendered.</desc>
+            <classes>
+              <memberOf key="model.phrase"/>
+            </classes>
+            <content>
+              <rng:zeroOrMore>
+                <rng:choice>
+                  <rng:ref name="macro.phraseSeq"/>
+                  <rng:ref name="model.noteLike"/>
+                  <rng:ref name="zi"/>
+                  <rng:ref name="sg"/>
+                </rng:choice>
+              </rng:zeroOrMore>
+            </content>
+          </elementSpec>
+          <elementSpec ident="sg" mode="add">
+            <desc>Describes how the sound is modified on the preceding <gi>zi</gi> element.</desc>
+            <content>
+              <rng:ref name="macro.phraseSeq"/>
+            </content>
+            <attList>
+              <attDef ident="type" mode="add">
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="jl_title" mode="add">
+            <equiv name="title"/>
+            <desc>This element is used in the scriptural catalogs to indicate a title.  It should in the future be replaced by a title within an appropriate <gi>bibl</gi></desc>
+            <classes>
+              <memberOf key="model.phrase"/>
+            </classes>
+            <content>
+              <rng:ref name="macro.phraseSeq"/>
+            </content>
+            <attList>
+              <attDef ident="type" mode="add">
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+          <elementSpec ident="jl_juan" mode="add">
+            <equiv name="extent"/>
+            <desc>This element is used in the scriptural catalogs to indicate the number of scrolls of a text.  It should in the future be replaced by a <gi>extent</gi> within an appropriate <gi>bibl</gi>.</desc>
+            <classes>
+              <memberOf key="model.phrase"/>
+            </classes>
+            <content>
+              <rng:ref name="macro.phraseSeq"/>
+            </content>
+          </elementSpec>
+          <elementSpec ident="jl_byline" mode="add">
+            <equiv name="author"/>
+            <desc>This element is used in the scriptural catalogs to indicate the creator of a text.  It should in the future be replaced by an element within an appropriate <gi>bibl</gi>.</desc>
+            <classes>
+              <memberOf key="model.phrase"/>
+            </classes>
+            <content>
+              <rng:ref name="macro.phraseSeq"/>
+            </content>
+            <attList>
+              <attDef ident="type" mode="add">
+                <datatype>
+                  <rng:text/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+        </schemaSpec>
+      </div>
+    </body>
+  </text>
+</TEI>

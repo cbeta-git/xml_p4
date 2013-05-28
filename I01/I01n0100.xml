@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "I01n0100.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selections of Buddhist Stone Rubbings from the Northern Dynasties, Electronic version, No. 0100 比丘尼圓照圓光造雙像記</title>
+                <author>顏娟英主編</author>
+                <respStmt>
+                    <resp>Electronic Version by</resp>
+                    <name>CBETA and DDBC</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>$Revision: 1.5 $<date>$Date: 2011/04/19 06:12:14 $</date></edition>
+            </editionStmt>
+            <extent>1卷</extent>
+            <publicationStmt>
+                <distributor>
+                    <name>中華電子佛典協會 (CBETA)</name>
+                    <address>
+                        <addrLine>service@cbeta.org</addrLine>
+                    </address>
+                </distributor>
+                <availability>
+<p>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/). </p>
+                </availability>
+                <date>$Date: 2011/04/19 06:12:14 $</date>
+            </publicationStmt>
+            <sourceDesc>
+      	      <bibl>Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 100 &desc;</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p lang="eng" type="ly">Text as provided by Institute of History and Philology, Academia Sinica</p>
+                <p lang="chi" type="ly">中央研究院歷史語言研究所</p>
+            </projectDesc>
+            </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+<div1>
+<pb n="0265a" id="I01.0100.0265a" ed="I"/>
+<lb ed="C I" n="0265a00"/><milestone n="1" unit="juan"/><head type="no">No. 100</head>
+<lb ed="C I" n="0265a00"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><title>比丘尼圓照圓光造雙像記</title></jhead></juan>
+<lb ed="C I" n="0265a01"/><p id="pI01p0265a0101">息叔言
+<lb ed="C I" n="0265a02"/>息摩耆
+<lb ed="C I" n="0265a03"/>息摩訶
+<lb ed="C I" n="0265a04"/>大象主朱難
+<lb ed="C I" n="0265a05"/>父朱祖歡象主
+<lb ed="C I" n="0265a06"/>張秀仕
+<lb ed="C I" n="0265a07"/>王士寬
+<lb ed="C I" n="0265a08"/>大齊武平六年歲次
+<lb ed="C I" n="0265a09"/>己未五月甲寅朔廿六
+<lb ed="C I" n="0265a10"/>日己卯。佛弟子比丘
+<lb ed="C I" n="0265a11"/><note n="0265001" resp="ihp" place="foot text" type="orig">&CB00112;＝尼【史】</note><app n="0265001"><lem resp="ihp" wit="【史】">尼</lem><rdg wit="【原】">&CB00112;</rdg></app><note n="0265002" resp="ihp" place="foot text" type="orig">&CB31152;＝圓【史】</note><app n="0265002"><lem resp="ihp" wit="【史】">圓</lem><rdg wit="【原】">&CB31152;</rdg></app>照。<app source="0265002" type="＊"><lem resp="ihp" wit="【史】">圓</lem><rdg wit="【原】">&CB31152;</rdg></app>光<note n="0265003" resp="ihp" place="foot text" type="orig">&CB00106;＝姊【史】</note><app n="0265003"><lem resp="ihp" wit="【史】">姊</lem><rdg wit="【原】">&CB00106;</rdg></app>妹二人。
+<lb ed="C I" n="0265a12"/>為亡妣。亡兄朱同。敬造
+<lb ed="C I" n="0265a13"/>雙彌勒玉石象一軀。
+<lb ed="C I" n="0265a14"/>上為皇帝陛下。群
+<lb ed="C I" n="0265a15"/>僚百官。州郡令長。又
+<lb ed="C I" n="0265a16"/>為七世先亡。現存眷
+<lb ed="C I" n="0265a17"/><note n="0265004" resp="ihp" place="foot text" type="orig">&CB06473;＝屬【史】</note><app n="0265004"><lem resp="ihp" wit="【史】">屬</lem><rdg wit="【原】">&CB06473;</rdg></app>。一切含生。有形之
+<lb ed="C I" n="0265a18"/>類。普沾斯福。乃為
+<lb ed="C I" n="0265a19"/>頌曰。
+<lb ed="C I" n="0265a20"/>峨〃玉象。妙飾幻玄。
+<lb ed="C I" n="0265a21"/>光同五色。淨境交連。
+<lb ed="C I" n="0265a22"/>真如法眼。<unclear cert="low" reason="damage">永</unclear>願昌
+<lb ed="C I" n="0265a23"/>延。上為亡妣。捨家
+<lb ed="C I" n="0265a24"/>財珍。敬造聖容。留
+<lb ed="C I" n="0265a25"/>音万年。比丘<app source="0265001" type="＊"><lem resp="ihp" wit="【史】">尼</lem><rdg wit="【原】">&CB00112;</rdg></app><app source="0265002" type="＊"><lem resp="ihp" wit="【史】">圓</lem><rdg wit="【原】">&CB31152;</rdg></app>德
+<lb ed="C I" n="0265a26"/>比丘<app source="0265001" type="＊"><lem resp="ihp" wit="【史】">尼</lem><rdg wit="【原】">&CB00112;</rdg></app>仲菀</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "I01n0052.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selections of Buddhist Stone Rubbings from the Northern Dynasties, Electronic version, No. 0052 比丘道&CB07018;造像記</title>
+                <author>顏娟英主編</author>
+                <respStmt>
+                    <resp>Electronic Version by</resp>
+                    <name>CBETA and DDBC</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>$Revision: 1.6 $<date>$Date: 2012/04/23 08:06:39 $</date></edition>
+            </editionStmt>
+            <extent>1卷</extent>
+            <publicationStmt>
+                <distributor>
+                    <name>中華電子佛典協會 (CBETA)</name>
+                    <address>
+                        <addrLine>service@cbeta.org</addrLine>
+                    </address>
+                </distributor>
+                <availability>
+<p>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/). </p>
+                </availability>
+                <date>$Date: 2012/04/23 08:06:39 $</date>
+            </publicationStmt>
+            <sourceDesc>
+      	      <bibl>Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 052 &desc;</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p lang="eng" type="ly">Text as provided by Institute of History and Philology, Academia Sinica</p>
+                <p lang="chi" type="ly">中央研究院歷史語言研究所</p>
+            </projectDesc>
+            </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+<div1>
+<pb n="0134a" id="I01.0052.0134a" ed="I"/>
+<lb ed="C I" n="0134a00"/><milestone n="1" unit="juan"/><head type="no">No. 52</head>
+<lb ed="C I" n="0134a00"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><title>比丘道&CB07018;造像記</title></jhead></juan>
+<div2>
+<lb ed="C I" n="0134a01"/><p id="pI01p0134a0101">大魏武定七年歲次己巳四月丙戌朔四月八日癸巳　司州魏郡易陽人今為武安龍山寺主比丘道&CB07018;記</p>
+</div2>
+<div2>
+<lb ed="C I" n="0134b01"/><p id="pI01p0134b0101">夫萬相具朗。非有非無。是非雙寂。人莫知其元。所以然者。皆由積善空<note n="0134001" resp="ihp" place="foot text" type="orig">&CB30783;＝王【史】</note><app n="0134001"><lem resp="ihp" wit="【史】">王</lem><rdg wit="【原】">&CB30783;</rdg></app><note n="0134002" resp="ihp" place="foot text" type="orig">&CB02442;＝之【史】</note><app n="0134002"><lem resp="ihp" wit="【史】">之</lem><rdg wit="【原】">&CB02442;</rdg></app>前。
+<lb ed="C I" n="0134b02"/><note n="0134003" resp="ihp" place="foot text" type="orig">&CB25812;＝苦【史】</note><app n="0134003"><lem resp="ihp" wit="【史】">苦</lem><rdg wit="【原】">&CB25812;</rdg></app>行授記<app source="0134002" type="＊"><lem resp="ihp" wit="【史】">之</lem><rdg wit="【原】">&CB02442;</rdg></app>後。便能絜真見樹。定想三九。亦能麾五指以伏狂<note n="0134004" resp="ihp" place="foot text" type="orig">&CB30785;＝象【史】</note><app n="0134004"><lem resp="ihp" wit="【史】">象</lem><rdg wit="【原】">&CB30785;</rdg></app>。併鬼<note n="0134005" resp="ihp" place="foot text" type="orig">&CB30786;＝王【史】</note><app n="0134005"><lem resp="ihp" wit="【史】">王</lem><rdg wit="【原】">&CB30786;</rdg></app>於壙
+<lb ed="C I" n="0134b03"/>野。把火龍而盤掌。指熾焱而為長流。特挺孤秀。英奇<note n="0134006" resp="ihp" place="foot text" type="orig">&CB30811;＝若【史】</note><app n="0134006"><lem resp="ihp" wit="【史】">若</lem><rdg wit="【原】">&CB30811;</rdg></app>此。遉顯伏致滅者矣。況
+<lb ed="C I" n="0134b04"/>聚沙<note n="0134007" resp="ihp" place="foot text" type="orig">&CB15626;＝泡【史】</note><app n="0134007"><lem resp="ihp" wit="【史】">泡</lem><rdg wit="【原】">&CB15626;</rdg></app>沫。寧無壞乎。是以此法師。名道諱&CB07018;。迺承波長漢。赤龍之胤。元在河<note n="0134008" resp="ihp" place="foot text" type="orig">閒＝間【史】</note><app n="0134008"><lem resp="ihp" wit="【史】">間</lem><rdg wit="【原】">閒</rdg></app>。
+<lb ed="C I" n="0134b05"/>今寄<note n="0134009" resp="ihp" place="foot text" type="orig">&CB05464;＝居【史】</note><app n="0134009"><lem resp="ihp" wit="【史】">居</lem><rdg wit="【原】">&CB05464;</rdg></app>易陽人也。<note n="0134010" resp="ihp" place="foot text" type="orig">&CB30788;＝棄【史】</note><app n="0134010"><lem resp="ihp" wit="【史】">棄</lem><rdg wit="【原】">&CB30788;</rdg></app><note n="0134011" resp="ihp" place="foot text" type="orig">&CB30789;＝彼【史】</note><app n="0134011"><lem resp="ihp" wit="【史】">彼</lem><rdg wit="【原】">&CB30789;</rdg></app>宮城。割愛辭<note n="0134012" resp="ihp" place="foot text" type="orig">&CB30790;＝親【史】</note><app n="0134012"><lem resp="ihp" wit="【史】">親</lem><rdg wit="【原】">&CB30790;</rdg></app>。倍加韶響。非情所翫。遂寫素<note n="0134013" resp="ihp" place="foot text" type="orig">&CB30791;＝服【史】</note><app n="0134013"><lem resp="ihp" wit="【史】">服</lem><rdg wit="【原】">&CB30791;</rdg></app>。懃心道
+<lb ed="C I" n="0134b06"/>君。雖同生滅。遠鑒始<note n="0134014" resp="ihp" place="foot text" type="orig">&CB30792;＝終【史】</note><app n="0134014"><lem resp="ihp" wit="【史】">終</lem><rdg wit="【原】">&CB30792;</rdg></app>。古今競曉。絜行桑門。纖理靡損。持<note n="0134015" resp="ihp" place="foot text" type="orig">&CB13806;＝禁【史】</note><app n="0134015"><lem resp="ihp" wit="【史】">禁</lem><rdg wit="【原】">&CB13806;</rdg></app>帶浮。罹剎<note n="0134016" resp="ihp" place="foot text" type="orig">&CB30813;＝杜【史】</note><app n="0134016"><lem resp="ihp" wit="【史】">杜</lem><rdg wit="【原】">&CB30813;</rdg></app>塞。懼
+<lb ed="C I" n="0134b07"/>念傷蘭。<note n="0134017" resp="ihp" place="foot text" type="orig">&CB30793;＝斷【史】</note><app n="0134017"><lem resp="ihp" wit="【史】">斷</lem><rdg wit="【原】">&CB30793;</rdg></app><note n="0134018" resp="ihp" place="foot text" type="orig">&CB03288;＝息【史】</note><app n="0134018"><lem resp="ihp" wit="【史】">息</lem><rdg wit="【原】">&CB03288;</rdg></app><note n="0134019" resp="ihp" place="foot text" type="orig">&CB30794;＝繼【史】</note><app n="0134019"><lem resp="ihp" wit="【史】">繼</lem><rdg wit="【原】">&CB30794;</rdg></app>草。清清志絜。春松無以侔其鮮。<note n="0134020" resp="ihp" place="foot text" type="orig">&CB05471;＝希【史】</note><app n="0134020"><lem resp="ihp" wit="【史】">希</lem><rdg wit="【原】">&CB05471;</rdg></app><app source="0134020" type="＊"><lem resp="ihp" wit="【史】">希</lem><rdg wit="【原】">&CB05471;</rdg></app>獨<note n="0134021" resp="ihp" place="foot text" type="orig">&CB30795;＝穎【史】</note><app n="0134021"><lem resp="ihp" wit="【史】">穎</lem><rdg wit="【原】">&CB30795;</rdg></app>。夜炬無以匹其照。方
+<lb ed="C I" n="0134b08"/>欲<note n="0134022" resp="ihp" place="foot text" type="orig">&CB30814;＝拔【史】</note><app n="0134022"><lem resp="ihp" wit="【史】">拔</lem><rdg wit="【原】">&CB30814;</rdg></app><app source="0134003" type="＊"><lem resp="ihp" wit="【史】">苦</lem><rdg wit="【原】">&CB25812;</rdg></app>窟<note n="0134023" resp="ihp" place="foot text" type="orig">&CB30796;＝宅【史】</note><app n="0134023"><lem resp="ihp" wit="【史】">宅</lem><rdg wit="【原】">&CB30796;</rdg></app>。雲昇<note n="0134024" resp="ihp" place="foot text" type="orig">&CB30819;＝彼【史】</note><app n="0134024"><lem resp="ihp" wit="【史】">彼</lem><rdg wit="【原】">&CB30819;</rdg></app>岸。都不復以世慕為榮也。便率<app source="0134011" type="＊"><lem resp="ihp" wit="【史】">彼</lem><rdg wit="【原】">&CB30789;</rdg></app>英傑。信心令&CB01259;一百餘
+<lb ed="C I" n="0134b09"/>人。共<note n="0134025" resp="ihp" place="foot text" type="orig">&CB30815;＝裁【史】</note><app n="0134025"><lem resp="ihp" wit="【史】">裁</lem><rdg wit="【原】">&CB30815;</rdg></app>己貴。同尊上道。且使育王盡藏。須達傾珍。無以比其福。即乃運石荊巖。
+<lb ed="C I" n="0134b10"/>左置文碑。右法勇塔。雕錯漏彩。連剋聖容之質。狀如真見。晌&CB30782;<note n="0134026" resp="ihp" place="foot text" type="orig">&CB30812;＝若【史】</note><app n="0134026"><lem resp="ihp" wit="【史】">若</lem><rdg wit="【原】">&CB30812;</rdg></app>丹霞<note n="0134027" resp="ihp" place="foot text" type="orig">&CB30798;＝之【史】</note><app n="0134027"><lem resp="ihp" wit="【史】">之</lem><rdg wit="【原】">&CB30798;</rdg></app>斑。<note n="0134028" resp="ihp" place="foot text" type="orig">&CB30799;＝金【史】</note><app n="0134028"><lem resp="ihp" wit="【史】">金</lem><rdg wit="【原】">&CB30799;</rdg></app>
+<lb ed="C I" n="0134b11"/>瓔<note n="0134029" resp="ihp" place="foot text" type="orig">&CB30800;＝向【史】</note><app n="0134029"><lem resp="ihp" wit="【史】">向</lem><rdg wit="【原】">&CB30800;</rdg></app>&CB30823;。如曜靈<app source="0134002" type="＊"><lem resp="ihp" wit="【史】">之</lem><rdg wit="【原】">&CB02442;</rdg></app>入魚淵。兼下神蔡。奇章<note n="0134030" resp="ihp" place="foot text" type="orig">&CB30801;＝顯【史】</note><app n="0134030"><lem resp="ihp" wit="【史】">顯</lem><rdg wit="【原】">&CB30801;</rdg></app>分。亦<note n="0134031" resp="ihp" place="foot text" type="orig">&CB30802;＝治【史】</note><app n="0134031"><lem resp="ihp" wit="【史】">治</lem><rdg wit="【原】">&CB30802;</rdg></app>形<note n="0134032" resp="ihp" place="foot text" type="orig">&CB30803;＝影【史】</note><app n="0134032"><lem resp="ihp" wit="【史】">影</lem><rdg wit="【原】">&CB30803;</rdg></app>。漢朝感夢。宋君偤勇。
+<lb ed="C I" n="0134b12"/>陵風拊伏。<note n="0134033" resp="ihp" place="foot text" type="orig">&CB30797;＝若【史】</note><app n="0134033"><lem resp="ihp" wit="【史】">若</lem><rdg wit="【原】">&CB30797;</rdg></app>真鎮神川於中<note n="0134034" resp="ihp" place="foot text" type="orig">&CB00527;＝庭【史】</note><app n="0134034"><lem resp="ihp" wit="【史】">庭</lem><rdg wit="【原】">&CB00527;</rdg></app>。顯志長衢。遊人之矚目者也。珞珞<app source="0134033" type="＊"><lem resp="ihp" wit="【史】">若</lem><rdg wit="【原】">&CB30797;</rdg></app>七<note n="0134035" resp="ihp" place="foot text" type="orig">&CB30816;＝星【史】</note><app n="0134035"><lem resp="ihp" wit="【史】">星</lem><rdg wit="【原】">&CB30816;</rdg></app><app source="0134002" type="＊"><lem resp="ihp" wit="【史】">之</lem><rdg wit="【原】">&CB02442;</rdg></app>紀
+<lb ed="C I" n="0134b13"/><note n="0134036" resp="ihp" place="foot text" type="orig">&CB30804;＝天【史】</note><app n="0134036"><lem resp="ihp" wit="【史】">天</lem><rdg wit="【原】">&CB30804;</rdg></app>。巖巖如五岳<app source="0134002" type="＊"><lem resp="ihp" wit="【史】">之</lem><rdg wit="【原】">&CB02442;</rdg></app><note n="0134037" resp="ihp" place="foot text" type="orig">&CB30805;＝綱【史】</note><app n="0134037"><lem resp="ihp" wit="【史】">綱</lem><rdg wit="【原】">&CB30805;</rdg></app>地。馨風遐振。<note n="0134038" resp="ihp" place="foot text" type="orig">&CB03140;＝璨【史】</note><app n="0134038"><lem resp="ihp" wit="【史】">璨</lem><rdg wit="【原】">&CB03140;</rdg></app>爛<note n="0134039" resp="ihp" place="foot text" type="orig">&CB30394;＝彌【史】</note><app n="0134039"><lem resp="ihp" wit="【史】">彌</lem><rdg wit="【原】">&CB30394;</rdg></app>遠。聲霑北<note n="0134040" resp="ihp" place="foot text" type="orig">&CB13426;＝海【史】</note><app n="0134040"><lem resp="ihp" wit="【史】">海</lem><rdg wit="【原】">&CB13426;</rdg></app>。飛嚮南冥。故為作頌曰。
+<lb ed="C I" n="0134b14"/><note n="0134041" resp="ihp" place="foot text" type="orig">&CB12752;＝彌【史】</note><app n="0134041"><lem resp="ihp" wit="【史】">彌</lem><rdg wit="【原】">&CB12752;</rdg></app>劫長遠。積善空<app source="0134005" type="＊"><lem resp="ihp" wit="【史】">王</lem><rdg wit="【原】">&CB30786;</rdg></app>。行端万有。難比難方。散髮要請。必求所<note n="0134042" resp="ihp" place="foot text" type="orig">&CB30807;＝長【史】</note><app n="0134042"><lem resp="ihp" wit="【史】">長</lem><rdg wit="【原】">&CB30807;</rdg></app>。<app source="0134003" type="＊"><lem resp="ihp" wit="【史】">苦</lem><rdg wit="【原】">&CB25812;</rdg></app>行二三。銘記
+<lb ed="C I" n="0134b15"/>定光。世雄無匹。廣救一<note n="0134043" resp="ihp" place="foot text" type="orig">仞＝切【史】</note><app n="0134043"><lem resp="ihp" wit="【史】">切</lem><rdg wit="【原】">仞</rdg></app>。五指現師。狂<app source="0134004" type="＊"><lem resp="ihp" wit="【史】">象</lem><rdg wit="【原】">&CB30785;</rdg></app><note n="0134044" resp="ihp" place="foot text" type="orig">&CB30806;＝乃【史】</note><app n="0134044"><lem resp="ihp" wit="【史】">乃</lem><rdg wit="【原】">&CB30806;</rdg></app>滯。伏鬼壙野。兩<note n="0134045" resp="ihp" place="foot text" type="orig">&CB20010;＝炎【史】</note><app n="0134045"><lem resp="ihp" wit="【史】">炎</lem><rdg wit="【原】">&CB20010;</rdg></app>同翳。舍利乃悟。
+<lb ed="C I" n="0134b16"/>人生得<note n="0134046" resp="ihp" place="foot text" type="orig">&CB09497;＝濟【史】</note><app n="0134046"><lem resp="ihp" wit="【史】">濟</lem><rdg wit="【原】">&CB09497;</rdg></app>。熾火冰流。咸獲淨地。沙門清潔。規<note n="0134047" resp="ihp" place="foot text" type="orig">&CB30817;＝矩【史】</note><app n="0134047"><lem resp="ihp" wit="【史】">矩</lem><rdg wit="【原】">&CB30817;</rdg></app>古今。守<app source="0134015" type="＊"><lem resp="ihp" wit="【史】">禁</lem><rdg wit="【原】">&CB13806;</rdg></app>持浮。罹剎息心。每懼
+<lb ed="C I" n="0134b17"/>傷蘭。結草軀沉。雲昇<app source="0134024" type="＊"><lem resp="ihp" wit="【史】">彼</lem><rdg wit="【原】">&CB30819;</rdg></app>岸。與聖相尋。率<app source="0134011" type="＊"><lem resp="ihp" wit="【史】">彼</lem><rdg wit="【原】">&CB30789;</rdg></app>令&CB01259;。裁捨己珍。同尊上道。剋像潛神。
+<lb ed="C I" n="0134b18"/>育<app source="0134005" type="＊"><lem resp="ihp" wit="【史】">王</lem><rdg wit="【原】">&CB30786;</rdg></app>不並。須達豈申。抽靳截骨。早求出因。取石荊丘。雕彩<app source="0134030" type="＊"><lem resp="ihp" wit="【史】">顯</lem><rdg wit="【原】">&CB30801;</rdg></app>章。<note n="0134048" resp="ihp" place="foot text" type="orig">&CB30818;＝圖【史】</note><app n="0134048"><lem resp="ihp" wit="【史】">圖</lem><rdg wit="【原】">&CB30818;</rdg></app>形真見。煥如
+<lb ed="C I" n="0134b19"/>故常。晌&CB30782;鮮明。<app source="0134029" type="＊"><lem resp="ihp" wit="【史】">向</lem><rdg wit="【原】">&CB30800;</rdg></app>&CB30823;雜光。塵驚嚮應。風發鏘鏘。其下神龜。能聖復妖。形<app source="0134032" type="＊"><lem resp="ihp" wit="【史】">影</lem><rdg wit="【原】">&CB30803;</rdg></app>漢<app source="0134034" type="＊"><lem resp="ihp" wit="【史】">庭</lem><rdg wit="【原】">&CB00527;</rdg></app>。
+<lb ed="C I" n="0134b20"/>夢感宋朝。置<app source="0134002" type="＊"><lem resp="ihp" wit="【史】">之</lem><rdg wit="【原】">&CB02442;</rdg></app>神川。宇宙照照。紀<note n="0134049" resp="ihp" place="foot text" type="orig">&CB30810;＝天【史】</note><app n="0134049"><lem resp="ihp" wit="【史】">天</lem><rdg wit="【原】">&CB30810;</rdg></app><app source="0134037" type="＊"><lem resp="ihp" wit="【史】">綱</lem><rdg wit="【原】">&CB30805;</rdg></app>地。名遐遠霄。</p>
+</div2>
+<div2>
+<lb ed="C I" n="0134c01"/><p id="pI01p0134c0101">&CB07018;記此碑直東敧南四百步有水　直北五十步殖松樹供養　直東一陌南西北遂回分流是常住僧伽藍地&CB07018;記</p>
+</div2>
+<div2>
+<lb ed="C I" n="0134d01"/><p id="pI01p0134d0101">都維那光景</p>
+</div2>
+<div2>
+<lb ed="C I" n="0134e01"/><p id="pI01p0134e0101">象塔寺都主兩縣令
+<lb ed="C I" n="0134e02"/>桓肆周　供養侍佛
+<lb ed="C I" n="0134e03"/>妻樊無字供養侍佛
+<lb ed="C I" n="0134e04"/>息盆生供養侍佛
+<lb ed="C I" n="0134e05"/>息慶哲供養侍佛
+<lb ed="C I" n="0134e06"/>孫子穆供養侍佛
+<lb ed="C I" n="0134e07"/>孫子崇供養侍佛
+<lb ed="C I" n="0134e08"/>&CB07018;周貴姿光叔女
+<lb ed="C I" n="0134e09"/>比丘像邑主道勝供養
+<lb ed="C I" n="0134e10"/>
+<lb ed="C I" n="0134e11"/>
+<lb ed="C I" n="0134e12"/>
+<lb ed="C I" n="0134e13"/>比丘像邑主僧教供養
+<lb ed="C I" n="0134e14"/>&CB07018;
+<lb ed="C I" n="0134e15"/>象寺都主平東將軍前昌
+<lb ed="C I" n="0134e16"/>樂縣令桓小成供養侍佛
+<lb ed="C I" n="0134e17"/>妻車杜女供養侍佛
+<lb ed="C I" n="0134e18"/>息僧朗供養侍佛
+<lb ed="C I" n="0134e19"/>息妻張世王供養侍佛
+<lb ed="C I" n="0134e20"/>孫道業供養侍佛
+<lb ed="C I" n="0134e21"/>孫子業供養侍佛時</p>
+</div2>
+<div2>
+<lb ed="C I" n="0134f01"/><p id="pI01p0134f0101">　　比丘僧道仙　比丘僧惠目　比丘僧道觀　比丘僧道元
+<lb ed="C I" n="0134f02"/>昌陽縣開國清　河太守光援祖</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

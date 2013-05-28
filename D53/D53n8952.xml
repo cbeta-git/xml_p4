@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "D53n8952.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Selections from the Taipei National Central Library Buddhist Rare Book Collection, Electronic version, No. 8952 為二太子中元盂蘭薦福文</title>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $ (Big5)<date>$Date: 2011/08/25 01:46:29 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2011/08/25 01:46:29 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Selections from the Taipei National Central Library Buddhist Rare Book Collection Vol. 53, No. 8952 &desc;</bibl>
+		<p>唐人寫卷子本</p>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p lang="chi" type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2011/08/23 09:50:56</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: D53n8952.xml,v $
+Revision 1.2  2011/08/25 01:46:29  amtbgrace
+modified: 修改錯誤標記。
+
+Revision 1.1  2011/08/24 03:02:42  amtbgrace
+modified: 執行 basicx.bat  將 bm 轉 xml
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="D" id="D53.8952.0001a" n="0001a"/>
+<lb ed="D" n="0001a01"/><milestone unit="juan" n="1"/><mulu type="卷" n="1"/><div1><p id="pD53p0001a0101">伏惟二太子間生帝子應現凡間玉&CB01007;&CB10285;於白王金枝經於千載&CB02772;珠
+<lb ed="D" n="0001a02"/>&CB18911;於巨海白玉隱於昆山&unrec;鷰頷之奇姿表虎頭之上相而
+<lb ed="D" n="0001a03"/>以&CB14222;龍之子不与人同降習武經&CB09696;能弓&CB00669;然則射虎汭&unrec;
+<lb ed="D" n="0001a04"/>莫&CB02772;不下於先君破敵<app><lem wit="【CBETA】" resp="CBETA.maha">摧</lem><rdg wit="【國圖】">墔</rdg></app>&CB22803;威猛直超於往世偶以&CB07099;端狂
+<pb ed="D" id="D53.8952.0002a" n="0002a"/>
+<lb ed="D" n="0002a01"/>&CB08697;侵&CB25718;封&CB00605;忽生一&CB31187;之雄心襲逐相逢而血戰不&CB08557;虎旗經
+<lb ed="D" n="0002a02"/>&CB07490;龍&CB00669;欲飛地失孤&CB28933;神靈&CB10475;背未審魂飛何界識散
+<lb ed="D" n="0002a03"/>郊&CB05460;唯福事而有依即資&CB18172;而不昧故於中元令&CB13776;秋首
+<lb ed="D" n="0002a04"/>良晨&unrec;盂蘭之道&CB00588;開超生之論席者即我　府主太保
+<lb ed="D" n="0002a05"/>為二太子廌福之懇也伏惟太保宏&CB02420;廓落　乞聞欲動高山
+<lb ed="C D" n="0002a06"/>仰惟法師詞&CB04633;&CB17632;霧　仰惟法師義&CB00123;万仞　仰惟法師
+<lb ed="D" n="0002a07"/>金剛般若法喻　金剛喻法小分不&unrec;　金剛法喻約略如是。</p>
+<lb ed="D" n="0002a08"/><p id="pD53p0002a0801">未審目連既證六通為是假&CB22072;為是真言且目連證六
+<lb ed="D" n="0002a09"/>通之<app><lem wit="【CBETA】" resp="CBETA.maha">果</lem><rdg wit="【國圖】">杲</rdg></app>既云是真頻見經&CB22072;經言一人出家<note place="inline">勝造八万四千七寶塔</note>六通名目如何
+<lb ed="D" n="0002a10"/>六者何義神通者何言既目連神用難思六通<app><lem wit="【CBETA】" resp="CBETA.maha">第</lem><rdg wit="【國圖】">弟</rdg></app>一戒行
+<pb ed="D" id="D53.8952.0003a" n="0003a"/>
+<lb ed="D" n="0003a01"/>精妍慈母罪若理有出離之方&CB17107;脫之便慈母青提夫人
+<lb ed="D" n="0003a02"/>為復永沉苦海既言三寶妙力巍&CB00777;神&CB01196;浩渺者<note place="inline">名目如何</note>
+<lb ed="D" n="0003a03"/>三者何義寶者何言三寶有幾種三種名目如何　<app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【國圖】">法師</rdg></app>
+<lb ed="D" n="0003a04"/><note place="inline">何名一&CB00816;三寶何名別相三寶何名住持三寶</note>　仰惟法師詞過吐鳳夕死無辛<note place="inline">真身故無漏羅漢故得寶名</note>。</p>
+<lb ed="D" n="0003a05"/><lg id="lgD53p0003a0501" type="abnormal"><l rend="text-indent:1em">六通大神力<note place="inline">自合&unrec;&unrec;親</note></l><l rend="text-indent:1em">六通大&CB31152;滿</l><l rend="text-indent:1em">聞母&CB18944;&CB08891;道<note place="inline">入定自合見何假問於佛無身亦合救</note></l><l rend="text-indent:1em">六通能變現<note place="inline">變苦合安樂</note></l></lg>
+<lb ed="D" n="0003a06"/><lg id="lgD53p0003a0601" type="abnormal"><l rend="text-indent:1em">和尚才高&CB09115;眾情<note place="inline">乞聞夕死&CB07099;&CB30974;</note></l><l rend="text-indent:1em">累年講暢君侯&CB17714;</l><l rend="text-indent:1em">今朝&CB00372;得鳳凰伴</l>
+<lb ed="D" n="0003a07"/><l rend="text-indent:1em">法師&CB30130;&CB08074;&CB30625;偏照</l><l rend="text-indent:1em">念見&CB31157;詮年幾老</l><l rend="text-indent:1em">何郎今日大開&CB22131;</l><l rend="text-indent:1em">氶望紫衣身上到</l>
+<lb ed="D" n="0003a08"/><l rend="text-indent:1em">盂蘭盆經&CB30625;有嚴</l><l rend="text-indent:1em">何郎立地偏&CB22131;念</l><l rend="text-indent:1em">王義城&CB02637;佛語經</l><l rend="text-indent:1em">此時大赦不抄欠</l></lg></div1>
+</body></text></TEI.2>

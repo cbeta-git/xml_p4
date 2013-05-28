@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY SYSTEM "I01n0068.ent">
+<!ENTITY % CBENT SYSTEM "../dtd/cbeta.ent">
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selections of Buddhist Stone Rubbings from the Northern Dynasties, Electronic version, No. 0068 東平郡須昌縣□檀寺造經碑</title>
+                <author>顏娟英主編</author>
+                <respStmt>
+                    <resp>Electronic Version by</resp>
+                    <name>CBETA and DDBC</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>$Revision: 1.6 $<date>$Date: 2011/04/19 06:12:14 $</date></edition>
+            </editionStmt>
+            <extent>1卷</extent>
+            <publicationStmt>
+                <distributor>
+                    <name>中華電子佛典協會 (CBETA)</name>
+                    <address>
+                        <addrLine>service@cbeta.org</addrLine>
+                    </address>
+                </distributor>
+                <availability>
+<p>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/). </p>
+                </availability>
+                <date>$Date: 2011/04/19 06:12:14 $</date>
+            </publicationStmt>
+            <sourceDesc>
+      	      <bibl>Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 068 &desc;</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p lang="eng" type="ly">Text as provided by Institute of History and Philology, Academia Sinica</p>
+                <p lang="chi" type="ly">中央研究院歷史語言研究所</p>
+            </projectDesc>
+            </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+<div1>
+<pb n="0173a" id="I01.0068.0173a" ed="I"/>
+<lb ed="C I" n="0173a00"/><milestone n="1" unit="juan"/><head type="no">No. 68</head>
+<lb ed="C I" n="0173a00"/><juan n="001" fun="open"><mulu n="001" type="卷"/><jhead><title>東平郡須昌縣□檀寺造經碑</title></jhead></juan>
+<div2>
+<lb ed="C I" n="0173a01"/><p id="pI01p0173a0101">大齊東<unclear cert="medium" reason="damage">平</unclear><unclear cert="medium" reason="damage">郡</unclear>須昌縣□檀寺碑</p>
+</div2>
+<div2>
+<lb ed="C I" n="0173b01"/><p id="pI01p0173b0101">夫旨理<note n="0173001" resp="ihp" place="foot text" type="orig">&CB30966;＝淵【史】</note><app n="0173001"><lem resp="ihp" wit="【史】">淵</lem><rdg wit="【原】">&CB30966;</rdg></app>寂。凝然澄湛。百非不<unclear cert="low" reason="damage">能</unclear>非其非。千是無
+<lb ed="C I" n="0173b02"/>以是其是。形言絕相。万像無能比其色。十<unclear cert="low" reason="damage">住</unclear>猶疑。
+<lb ed="C I" n="0173b03"/>□<unclear cert="low" reason="damage">凡</unclear>情之所觀□。自非應說教門。真□叵顯。是以
+<lb ed="C I" n="0173b04"/><unclear cert="low" reason="damage">降</unclear>神閻浮。曜靈光於羅衛。<note n="0173002" resp="ihp" place="foot text" type="orig">&CB30967;＝戒【史】</note><app n="0173002"><lem resp="ihp" wit="【史】">戒</lem><rdg wit="【原】">&CB30967;</rdg></app>風吹於大千。慈海流
+<lb ed="C I" n="0173b05"/>於十域。慧鏡<note n="0173003" resp="ihp" place="foot text" type="orig">&CB30334;＝照【史】</note><app n="0173003"><lem resp="ihp" wit="【史】">照</lem><rdg wit="【原】">&CB30334;</rdg></app><unclear cert="low" reason="damage">愚</unclear>。若琉璃之現色影。魔道□心。有
+<lb ed="C I" n="0173b06"/>緣皆益。攝影雙林。息障邁於千□□不疏體五住
+<lb ed="C I" n="0173b07"/>之蹤。何能信矣。□佛弟子比丘法<unclear cert="low" reason="damage">慧</unclear>欲使<unclear cert="low" reason="damage">聖</unclear>教再
+<lb ed="C I" n="0173b08"/>彰。神暉重朗。遠召□工。奉<note n="0173004" resp="ihp" place="foot text" type="orig">&CB30369;＝剛【史】</note><app n="0173004"><lem resp="ihp" wit="【史】">剛</lem><rdg wit="【原】">&CB30369;</rdg></app>彫玉。<note n="0173005" resp="ihp" place="foot text" type="orig">&CB30968;＝置【史】</note><app n="0173005"><lem resp="ihp" wit="【史】">置</lem><rdg wit="【原】">&CB30968;</rdg></app>靈尊於上堪。
+<lb ed="C I" n="0173b09"/>剟觀音經於下□。願使　皇道竄<unclear cert="low" reason="damage">興</unclear>。父師常<unclear cert="low" reason="damage">樂</unclear>。邑
+<lb ed="C I" n="0173b10"/>儀諸人。龍華初會。法界有形。等成正覺。其頌曰。
+<lb ed="C I" n="0173b11"/>真趣幽微。弗可言宣。大慈垂訓。以教流傳。初演鹿
+<lb ed="C I" n="0173b12"/>菀。靈鷲陳章。摧魔伏道。如日<app source="0173003" type="＊"><lem resp="ihp" wit="【史】">照</lem><rdg wit="【原】">&CB30334;</rdg></app>霜。敬<unclear cert="low" reason="damage">造</unclear>□形。<app source="0173005" type="＊"><lem resp="ihp" wit="【史】">置</lem><rdg wit="【原】">&CB31167;</rdg></app>于
+<lb ed="C I" n="0173b13"/>巖壑。刊經揚義。法流枯<unclear cert="low" reason="damage">涸</unclear>。
+<lb ed="C I" n="0173b14"/>大齊皇建元年庚辰□九月己酉朔三日辛亥造經碑</p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>
