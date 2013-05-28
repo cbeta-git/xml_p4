@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X63n1217.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1217 菩提達磨大師略辨大乘入道四行觀</title>
+			<author>梁 菩提達磨說</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.7 $ (Big5)<date>$Date: 2009/04/22 09:02:06 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:02:06 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 63, No. 1217 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2004/08/05 10:36:28</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X63n1217.xml,v $
+Revision 1.7  2009/04/22 09:02:06  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.6  2007/09/04 09:31:48  eva
+modified: 校注作業完成
+
+Revision 1.5  2005/11/30 06:34:38  amtbgrace
+modified: 執行全部 mulu.py, 取消自訂目錄的全形括號
+
+Revision 1.4  2004/12/02 10:00:19  amtbgrace
+modified: X63~X73 XML新增句讀
+
+Revision 1.3  2004/11/15 11:14:09  amtbgrace
+modified: 跑chk_mcode.pl  將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
+
+Revision 1.2  2004/08/16 11:40:42  moved
+modified：note.txt 備註修訂
+
+Revision 1.1  2004/08/05 06:23:30  ray
+由 basicx 產生自簡單標記版
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X63.1217.0001a" n="0001a"/>
+<lb ed="X" n="0001a01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0001a02"/>
+<lb ed="X" n="0001a03"/><juan fun="open" n="001"><mulu type="卷" n="1"/><jhead>菩提達磨大師略辨大乘入道四行觀</jhead></juan>
+<lb ed="X" n="0001a04"/><div1 type="xu"><mulu type="序" level="1" label="No. 1217-A"/><head>No. 1217-A</head>
+<lb ed="X" n="0001a05"/><byline type="author">弟子　曇琳　序</byline>
+<lb ed="X" n="0001a06"/><p id="pX63p0001a0601" rend="margin-left:1em">法師者西域南天竺國人。是婆羅門國王第三之
+<lb ed="X" n="0001a07"/>子也。神慧&CB00520;朗。聞皆曉悟。志存摩訶衍道。故捨素
+<lb ed="X" n="0001a08"/>隨緇。紹隆聖種冥心&CB00980;寂。通鑒世事內外俱明。德
+<lb ed="X" n="0001a09"/>超世表。悲悔邊隅正教陵替。遂能遠涉山海遊化
+<lb ed="X" n="0001a10"/>漢魏。亡心之士莫不歸信。存見之流乃生譏謗。于
+<lb ed="X" n="0001a11"/>時唯有道育惠可此二沙門。年雖後生俊志高遠。
+<lb ed="X" n="0001a12"/>幸逢法師事之數載。虔恭&CB01567;啟善蒙師意。法師感
+<lb ed="X" n="0001a13"/>其精誠誨以真道。令如是安心。如是發行。如是順
+<lb ed="X" n="0001a14"/>物。如是方便。此是大乘安心之法。令無錯謬。如是
+<lb ed="X" n="0001a15"/>安心者壁觀。如是發行者四行。如是順物者防護
+<lb ed="X" n="0001a16"/>譏嫌。如是方便者遣其不著。此略序所由云爾。</p></div1>
+<lb ed="X" n="0001a17"/>
+<lb ed="X" n="0001a18"/><div1 type="other"><mulu type="其他" level="1" label="達摩大師四行觀"/><head type="no">No. 1217</head>
+<lb ed="X" n="0001a19"/>
+<lb ed="X" n="0001a20"/><p id="pX63p0001a2001">夫入道多途。要而言之不出二種。一是理入。二是行
+<lb ed="X" n="0001a21"/>入。理入者謂藉教悟宗。深信含生同一真性。但為客
+<lb ed="X" n="0001a22"/>塵妄想所覆不能顯了。若也捨妄歸真。凝住壁觀。無
+<lb ed="X" n="0001a23"/>自無他。凡聖等一堅住不移。更不隨文教。此即與理
+<lb ed="X" n="0001a24"/>冥符無有分別。寂然無為名之理入。行入謂四行。其
+<pb ed="X" id="X63.1217.0001b" n="0001b"/>
+<lb ed="X" n="0001b01"/>餘諸行悉入此中。何等四耶。一報冤行。二隨緣行。三
+<lb ed="X" n="0001b02"/>無所求行。四稱法行。云何。</p>
+<lb ed="X" n="0001b03"/><p id="pX63p0001b0301">報冤行。謂修道行人若受苦時。當自念言。我往昔無
+<lb ed="X" n="0001b04"/>數劫中棄本從末流浪諸有。多起冤憎違害無限。今
+<lb ed="X" n="0001b05"/>雖無犯。是我宿殃惡業果熟。非天非人所能見與。甘
+<lb ed="X" n="0001b06"/>心甘受都無冤訴。經云。逢苦不憂。何以故。識達故。此
+<lb ed="X" n="0001b07"/>心生時與理相應。體冤進道。故說言報冤行。</p>
+<lb ed="X" n="0001b08"/><p id="pX63p0001b0801">二隨緣行者。眾生無我並緣業所轉。苦樂齊受皆從
+<lb ed="X" n="0001b09"/>緣生。若得勝報榮譽等事。是我過去宿因所感。今方
+<lb ed="X" n="0001b10"/>得之緣盡還無。何喜之有。得失從緣心無增減。喜風
+<lb ed="X" n="0001b11"/>不動冥順於道。是故說言隨緣行。</p>
+<lb ed="X" n="0001b12"/><p id="pX63p0001b1201">三無所求行者。世人長迷處處貪著名之為求。智者
+<lb ed="X" n="0001b13"/>悟真理將俗反。安心無為形隨運轉。萬有斯空無所
+<lb ed="X" n="0001b14"/>願樂。功德黑暗常相隨逐。三界久居猶如火宅。有身
+<lb ed="X" n="0001b15"/>皆苦誰得而安。了達此處故捨諸有止想無求。經曰。
+<lb ed="X" n="0001b16"/>有求皆苦。無求即樂。判知無求真為道行。故言無所
+<lb ed="X" n="0001b17"/>求行。</p>
+<lb ed="X" n="0001b18"/><p id="pX63p0001b1801">四稱法行者。性淨之理目之為法。此理眾相斯空。無
+<lb ed="X" n="0001b19"/>染無著無此無彼。經曰法無眾生離眾生垢故。法無
+<lb ed="X" n="0001b20"/>有我離我垢故。智者若能信解此理。應當稱法而行。
+<lb ed="X" n="0001b21"/>法體無慳身命財。行檀捨施心無&CB00736;惜。脫解三空不
+<lb ed="X" n="0001b22"/>倚不著但為去垢。稱化眾生而不取相。此為自行復
+<lb ed="X" n="0001b23"/>能利他。亦能莊嚴菩提之道。檀施既爾餘五亦然。為
+<lb ed="X" n="0001b24"/>除妄想修行六度而無所行。是為稱法行。</p>
+<pb ed="X" id="X63.1217.0001c" n="0001c"/>
+<lb ed="X" n="0001c01"/><juan fun="close" n="1"><jhead>達磨大師四行觀<note place="inline">終</note></jhead></juan></div1>
+<lb ed="X" n="0001c02"/>
+<lb ed="X" n="0001c03"/><div1 type="xu"><mulu type="序" level="1" label="No. 1217-B (附)達磨大師＆CB15156；頌"/><head>No. 1217-B
+<lb ed="X" n="0001c04"/> <note place="inline">附</note>達磨大師&CB15156;頌</head>
+<lb ed="X" n="0001c05"/>
+<lb ed="X" n="0001c06"/><byline type="other"><app><lem wit="【CBETA】" resp="CBETA.maha">梁</lem><rdg wit="【卍續】">粱</rdg></app>武帝蕭衍</byline>
+<lb ed="X" n="0001c07"/><lg id="lgX63p0001c0701"><l>楞伽山頂坐寶日</l><l>中有金人披縷褐</l>
+<lb ed="X" n="0001c08"/><l>形同大地體如空</l><l>心如&CB00222;璃色如雪</l>
+<lb ed="X" n="0001c09"/><l>匪磨匪瑩恒淨明</l><l>披雲卷霧心且徹</l>
+<lb ed="X" n="0001c10"/><l>芬陀利花用嚴身</l><l>隨緣髑物常<note n="0001001" resp="Xuzangjing" place="foot text" type="orig">次疑怡</note>次悅</l>
+<lb ed="X" n="0001c11"/><l>不有不無非去來</l><l>多聞辨才無法說</l>
+<lb ed="X" n="0001c12"/><l>實哉空哉離生有</l><l>大之小之眾緣絕</l>
+<lb ed="X" n="0001c13"/><l>剎那而登妙覺心</l><l>躍鱗慧海起先哲</l>
+<lb ed="X" n="0001c14"/><l>理應法水永長流</l><l>何期暫涌還蹔渴</l>
+<lb ed="X" n="0001c15"/><l>驪龍珠內落心燈</l><l>白毫慧刃當鋒&CB07023;</l>
+<lb ed="X" n="0001c16"/><l>生途忽<note n="0001002" resp="Xuzangjing" place="foot text" type="orig">鳥疑焉更勘</note>鳥慧眼閉</l><l>禪河駐流法梁折</l>
+<lb ed="X" n="0001c17"/><l>無去無來無是非</l><l>彼此形體心碎裂</l>
+<lb ed="X" n="0001c18"/><l>住<note n="0001003" resp="Xuzangjing" place="foot text" type="orig">烏疑焉次同</note>烏去烏皆歸寂</l><l>寂內何曾存哽咽</l>
+<lb ed="X" n="0001c19"/><l>用之執手以傳燈</l><l>生死去來如電掣</l>
+<lb ed="X" n="0001c20"/><l>有能至誠心不疑</l><l>劫火燃燈斯不滅</l>
+<lb ed="X" n="0001c21"/><l>一真之法盡可有</l><l>未悟迷途茲是竭</l></lg></div1>
+</body></text></TEI.2>

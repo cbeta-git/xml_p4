@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X64n1271.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1271 十牛圖和頌</title>
+			<author></author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.14 $ (Big5)<date>$Date: 2009/04/22 09:02:19 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:02:19 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 64, No. 1271 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA, Text as provided by Anonymous, Taiwan</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識，台灣某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2004/08/05 11:41:04</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X64n1271.xml,v $
+Revision 1.14  2009/04/22 09:02:19  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.13  2007/12/12 07:42:57  eva
+modified: 經文修訂
+
+Revision 1.12  2007/09/06 09:46:58  eva
+modified: 校注作業完成
+
+Revision 1.11  2005/08/19 07:55:58  eva
+modified: 檔頭資訊 author 修訂
+
+Revision 1.10  2004/11/15 11:14:42  amtbgrace
+modified: 跑chk_mcode.pl  將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
+
+Revision 1.9  2004/08/05 06:17:08  ray
+重新由 basicx 產生
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X64.1271.0777a" n="0777a"/>
+<lb ed="X" n="0777a01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0777a02"/><div1 type="xu"><mulu type="序" level="1" label="No. 1271-A 牧牛圖序"/><head>No. 1271-A
+<lb ed="X" n="0777a03"/> 牧牛圖序</head>
+<lb ed="X" n="0777a04"/>
+<lb ed="X" n="0777a05"/><p id="pX64p0777a0501">遺教經云。譬如牧牛。執杖視之。不令縱逸。犯人苗稼。
+<lb ed="X" n="0777a06"/>則牧牛之說所自起也。嗣是馬祖問石鞏。汝在此何
+<lb ed="X" n="0777a07"/>務。答曰。牧牛。又問。牛作麼生牧。答曰。一回入草去。驀
+<lb ed="X" n="0777a08"/>鼻拽將來。則善牧之人也。又大溈安公之在溈山也。
+<lb ed="X" n="0777a09"/>曰。吾依溈山住。不學溈山禪。<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>牧一頭水牯牛。又白
+<lb ed="X" n="0777a10"/>雲端公之於郭功輔也。詰之曰。牛淳乎。而若自牧。若
+<lb ed="X" n="0777a11"/>教他牧。層見疊出於古今者。益彰彰矣。後乃有繪之
+<lb ed="X" n="0777a12"/>乎圖。始於未牧。終於雙泯。品而列之為十。其牛則如
+<lb ed="X" n="0777a13"/>次。初黑繼白。以至於無。粲如也。而普明復一一係之
+<lb ed="X" n="0777a14"/>以頌。</p><p id="pX64p0777a1403" place="inline">普明。未詳何許人。圖頌亦不知出一人之手否。
+<lb ed="X" n="0777a15"/>今無論。惟是其為圖也。象顯而意深。其為頌也。言近
+<lb ed="X" n="0777a16"/>而旨遠。學人持為左<app><lem wit="【CBETA】" resp="CBETA.maha">券</lem><rdg wit="【卍續】">&CB00374;</rdg></app>。因之審德稽業。俯察其<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>臻。
+<lb ed="X" n="0777a17"/>仰希其所未到。免使得少為足。以墮於增上慢地。則
+<lb ed="X" n="0777a18"/>裨益良多。遂錄而重壽諸梓。外更有尋牛以至入廛。
+<lb ed="X" n="0777a19"/>亦為圖者十。與今大同小異。并及教中分別進脩次
+<lb ed="X" n="0777a20"/>第。可比例而知者。俱附末簡。以便參考。若夫一超直
+<lb ed="X" n="0777a21"/>入之士。無勞鞭挽而天然露地白牛。不落階級而剎
+<lb ed="X" n="0777a22"/>那能所雙絕。則圖成滯貨。頌成剩語。&CB15095;之當發一笑。
+<lb ed="X" n="0777a23"/>吾無強焉。</p>
+<lb ed="X" n="0777a24"/><p id="pX64p0777a2401">萬曆<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>酉如來誕日　後學　袾宏　謹書</p></div1>
+<pb ed="X" id="X64.1271.0777b" n="0777b"/>
+<lb ed="X" n="0777b01"/>
+<lb ed="X" n="0777b02"/><div1 type="xu"><mulu type="序" level="1" label="No. 1271-B 普明寺牧牛圖頌序"/><head>No. 1271-B
+<lb ed="X" n="0777b03"/> 普明寺牧牛圖頌序</head>
+<lb ed="X" n="0777b04"/>
+<lb ed="X" n="0777b05"/><p id="pX64p0777b0501">咄。盡大地是普明一頭牛。何處更有佛與眾生。毫厘
+<lb ed="X" n="0777b06"/>不隔。本是如如。若道此牛有黑有白。有雄有雌。有饑
+<lb ed="X" n="0777b07"/>有飽。便是一體分別成二。世尊初生。指天指地。周行
+<lb ed="X" n="0777b08"/>目顧。犯人苗稼不少。祖師西來。直指人心。見性成佛。
+<lb ed="X" n="0777b09"/>喫他水草良多。三玄要．四料揀．五位君臣．九十六圓
+<lb ed="X" n="0777b10"/>相。受盡牽制鞭&CB15081;。乃至拈椎&CB00594;拂。行棒行喝。種種機
+<lb ed="X" n="0777b11"/>用。皮毛脫落。四足潛&CB05114;。許大一頭牛。不知逃向那裡
+<lb ed="X" n="0777b12"/>去了。到這裡地。重關<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>破。且道向上還有事麼。以拂
+<lb ed="X" n="0777b13"/>子打圓相云。火裡木牛耕白雪。雲中石馬舞春風。會
+<lb ed="X" n="0777b14"/>麼。不會。請看牧牛頌并諸方次韻語句。畢竟還有優
+<lb ed="X" n="0777b15"/>劣也無。</p>
+<lb ed="X" n="0777b16"/><p id="pX64p0777b1601">臨濟正宗三十二世&CB01323;轢道人　嚴大參　謹序</p></div1>
+<lb ed="X" n="0777b17"/>
+<lb ed="X" n="0777b18"/><div1 type="xu"><mulu type="序" level="1" label="No. 1271-C 普明禪師牧牛圖頌附諸大禪師和頌目錄"/><head>No. 1271-C
+<lb ed="X" n="0777b19"/> 普明禪師牧牛圖頌附諸大禪師和
+<lb ed="X" n="0777b20"/>頌目錄</head>
+<lb ed="X" n="0777b21"/><p id="pX64p0777b2101">普明原頌。雲棲蓮太師付梓序云。普明。未詳何許人。
+<lb ed="X" n="0777b22"/>則亦不知道場之所矣。辛丑冬。予來理坊事。壬寅夏。
+<lb ed="X" n="0777b23"/>&CB01323;轢嚴居士將普明緣起及舊寺圖相示。始知因緣
+<lb ed="X" n="0777b24"/>在此。居士既恢復寺基。初請玄微禪師。繼請明巖耆
+<pb ed="X" id="X64.1271.0777c" n="0777c"/>
+<lb ed="X" n="0777c01"/>德。殿宇煥然。房僚俱備。將來欲成獅窟。余見諸方和
+<lb ed="X" n="0777c02"/>頌。讀之不勝喜躍。效顰和之。并將圖頌和頌。合成一
+<lb ed="X" n="0777c03"/>冊流通。</p>
+<lb ed="X" n="0777c04"/><list><item id="itemX64p0777c0401">聞谷大師</item><item id="itemX64p0777c0405">天隱禪師</item><item id="itemX64p0777c0409">破山禪師</item>
+<lb ed="X" n="0777c05"/><item id="itemX64p0777c0501">萬如禪師</item><item id="itemX64p0777c0505">浮石禪師</item><item id="itemX64p0777c0509">玉林禪師</item>
+<lb ed="X" n="0777c06"/><item id="itemX64p0777c0601">箬菴禪師</item><item id="itemX64p0777c0605">山茨禪師</item><item id="itemX64p0777c0609">玄微禪師</item>
+<lb ed="X" n="0777c07"/><item id="itemX64p0777c0701">香幢法主</item><item id="itemX64p0777c0705">&CB01323;轢居士</item><item id="itemX64p0777c0709">跛道人如念</item>
+<lb ed="X" n="0777c08"/><item id="itemX64p0777c0801">無依道人</item><item id="itemX64p0777c0805">牧公道人</item><item id="itemX64p0777c0809">巨徹禪師<note place="inline">又附白牛頌</note></item></list>
+<lb ed="X" n="0777c09"/><p id="pX64p0777c0901">康&CB00696;元年孟秋月　日寓般若堂　如念空　識</p></div1>
+<lb ed="X" n="0777c10"/>
+<lb ed="X" n="0777c11"/><head type="no">No. 1271</head>
+<lb ed="X" n="0777c12"/><div1 type="other"><mulu type="其他" level="1" label="真寂和尚和牧牛圖頌(師諱廣印號聞谷)"/><head><note n="0777001" resp="Xuzangjing" place="foot text" type="orig">普明禪師牧牛圖頌既出仍&CB00259;干茲</note>真寂和尚和牧牛圖頌<note place="inline">師諱廣印號聞谷</note></head>
+<lb ed="X" n="0777c13"/>
+<lb ed="X" n="0777c14"/><div2 type="other"><mulu type="其他" level="2" label="未牧"/><head>未牧</head>
+<lb ed="X" n="0777c15"/><lg id="lgX64p0777c1501"><l>信足奔馳不憚勞</l><l>東西南北路迢遙</l>
+<lb ed="X" n="0777c16"/><l>只貪&CB00034;草平田&CB04583;</l><l>忘&CB00230;家鄉有異苗</l></lg></div2>
+<lb ed="X" n="0777c17"/><div2 type="other"><mulu type="其他" level="2" label="初調"/><head>初調</head>
+<lb ed="X" n="0777c18"/><lg id="lgX64p0777c1801"><l>氣性雖頑鼻<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>穿</l><l>牧童從此痛加鞭</l>
+<lb ed="X" n="0777c19"/><l>渾身血汗芒繩急</l><l>遙望家山儘力牽</l></lg></div2>
+<lb ed="X" n="0777c20"/><div2 type="other"><mulu type="其他" level="2" label="受制"/><head>受制</head>
+<lb ed="X" n="0777c21"/><lg id="lgX64p0777c2101"><l>暫時出草息奔馳</l><l>好把芒鞋緊自隨</l>
+<lb ed="X" n="0777c22"/><l>到處凍雲霜露滑</l><l>斤斤調伏敢忘疲</l></lg></div2>
+<lb ed="X" n="0777c23"/><div2 type="other"><mulu type="其他" level="2" label="迴首"/><head>迴首</head>
+<lb ed="X" n="0777c24"/><lg id="lgX64p0777c2401"><l>芒繩不引自迴頭</l><l>毛色皤然性<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>柔</l>
+<pb ed="X" id="X64.1271.0778a" n="0778a"/>
+<lb ed="X" n="0778a01"/><l>水草也知山裏足</l><l>牧童多意尚&CB15133;留</l></lg></div2>
+<lb ed="X" n="0778a02"/><div2 type="other"><mulu type="其他" level="2" label="馴伏"/><head>馴伏</head>
+<lb ed="X" n="0778a03"/><lg id="lgX64p0778a0301"><l>暖風晴日柳溪邊</l><l>俛首循人意悄然</l>
+<lb ed="X" n="0778a04"/><l>花落郊原春色晚</l><l>相隨歸去不須牽</l></lg></div2>
+<lb ed="X" n="0778a05"/><div2 type="other"><mulu type="其他" level="2" label="無＆CB00515；"/><head>無&CB00515;</head>
+<lb ed="X" n="0778a06"/><lg id="lgX64p0778a0601"><l>調伏多年意自如</l><l>水邊林下總無拘</l>
+<lb ed="X" n="0778a07"/><l>一聲&CB00918;笛松風起</l><l>此日忘懷樂有餘</l></lg></div2>
+<lb ed="X" n="0778a08"/><div2 type="other"><mulu type="其他" level="2" label="任運"/><head>任運</head>
+<lb ed="X" n="0778a09"/><lg id="lgX64p0778a0901"><l>百花溪上柳陰中</l><l>飽食和雲臥綠茸</l>
+<lb ed="X" n="0778a10"/><l>歌罷山童無所事</l><l>遺鞭枕上睡方濃</l></lg></div2>
+<lb ed="X" n="0778a11"/><div2 type="other"><mulu type="其他" level="2" label="相忘"/><head>相忘</head>
+<lb ed="X" n="0778a12"/><lg id="lgX64p0778a1201"><l>在在溪山雲月中</l><l>木人花鳥意相同</l>
+<lb ed="X" n="0778a13"/><l>國王水草從來足</l><l>閒步陂塘西復東</l></lg></div2>
+<lb ed="X" n="0778a14"/><div2 type="other"><mulu type="其他" level="2" label="獨照"/><head>獨照</head>
+<lb ed="X" n="0778a15"/><lg id="lgX64p0778a1501"><l>玉鞭無用草繩閒</l><l>&CB05114;跡全無古路間</l>
+<lb ed="X" n="0778a16"/><l>空手獨歸林月下</l><l>更前一步即牢關</l></lg></div2>
+<lb ed="X" n="0778a17"/><div2 type="other"><mulu type="其他" level="2" label="雙泯"/><head>雙泯</head>
+<lb ed="X" n="0778a18"/><lg id="lgX64p0778a1801"><l>杳杳人牛不見蹤</l><l>一團新月照秋空</l>
+<lb ed="X" n="0778a19"/><l>個中若問還源旨</l><l>風落岩花點翠叢</l></lg></div2></div1>
+<lb ed="X" n="0778a20"/><div1 type="other"><mulu type="其他" level="1" label="報恩和尚和牧牛圖頌(師諱圓修號天隱)"/><head>報恩和尚和牧牛圖頌<note place="inline">師諱圓修號天隱</note></head>
+<lb ed="X" n="0778a21"/><div2 type="other"><mulu type="其他" level="2" label="未牧"/><head>未牧</head>
+<lb ed="X" n="0778a22"/><lg id="lgX64p0778a2201"><l>水雲渺渺亂聲哮</l><l>密密尋&CB05114;路更遙</l>
+<lb ed="X" n="0778a23"/><l>晝夜風霜不知處</l><l>恐伊相犯別家苗</l></lg></div2>
+<lb ed="X" n="0778a24"/><div2 type="other"><mulu type="其他" level="2" label="初調"/><head>初調</head>
+<pb ed="X" id="X64.1271.0778b" n="0778b"/>
+<lb ed="X" n="0778b01"/><lg id="lgX64p0778b0101"><l>纔獲繩頭把鼻穿</l><l>謾將痛處更加鞭</l>
+<lb ed="X" n="0778b02"/><l>也知鄉井迢迢遠</l><l>拽轉頭來著力牽</l></lg></div2>
+<lb ed="X" n="0778b03"/><div2 type="other"><mulu type="其他" level="2" label="受制"/><head>受制</head>
+<lb ed="X" n="0778b04"/><lg id="lgX64p0778b0401"><l>不從他性遠驅馳</l><l>寸步提持漫漫隨</l>
+<lb ed="X" n="0778b05"/><l>幾度黑風吹瀑雨</l><l>通身泥水總忘疲</l></lg></div2>
+<lb ed="X" n="0778b06"/><div2 type="other"><mulu type="其他" level="2" label="回首"/><head>回首</head>
+<lb ed="X" n="0778b07"/><lg id="lgX64p0778b0701"><l>驀地忘機自轉頭</l><l>悄然性氣<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>調柔</l>
+<lb ed="X" n="0778b08"/><l>山中水草了知足</l><l>不用遲疑在外留</l></lg></div2>
+<lb ed="X" n="0778b09"/><div2 type="other"><mulu type="其他" level="2" label="馴伏"/><head>馴伏</head>
+<lb ed="X" n="0778b10"/><lg id="lgX64p0778b1001"><l>閒放林間與水邊</l><l>橫騎短笛任悠然</l>
+<lb ed="X" n="0778b11"/><l>歸來一帶&CB00195;霞晚</l><l>瀟灑歌謠不假牽</l></lg></div2>
+<lb ed="X" n="0778b12"/><div2 type="other"><mulu type="其他" level="2" label="無＆CB00515；"/><head>無&CB00515;</head>
+<lb ed="X" n="0778b13"/><lg id="lgX64p0778b1301"><l>出入無欄心自如</l><l>擬思量處更猶拘</l>
+<lb ed="X" n="0778b14"/><l>滿懷風月人牛穩</l><l>鞭索俱忘樂有餘</l></lg></div2>
+<lb ed="X" n="0778b15"/><div2 type="other"><mulu type="其他" level="2" label="任運"/><head>任運</head>
+<lb ed="X" n="0778b16"/><lg id="lgX64p0778b1601"><l>野岸溪灣花柳中</l><l>一環山水翠林茸</l>
+<lb ed="X" n="0778b17"/><l>逍遙快活無求也</l><l>軟草為氈睡興濃</l></lg></div2>
+<lb ed="X" n="0778b18"/><div2 type="other"><mulu type="其他" level="2" label="相忘"/><head>相忘</head>
+<lb ed="X" n="0778b19"/><lg id="lgX64p0778b1901"><l>拶到忘懷混沌中</l><l>千山一色絕相同</l>
+<lb ed="X" n="0778b20"/><l>風光不覺人牛處</l><l>任運騰騰西復東</l></lg></div2>
+<lb ed="X" n="0778b21"/><div2 type="other"><mulu type="其他" level="2" label="獨照"/><head>獨照</head>
+<lb ed="X" n="0778b22"/><lg id="lgX64p0778b2201"><l>不須收放得安閒</l><l>脫略尋常&CB15164;盻間</l>
+<lb ed="X" n="0778b23"/><l>散步謾歸明月下</l><l>踏翻從上兩重關</l></lg></div2>
+<lb ed="X" n="0778b24"/><div2 type="other"><mulu type="其他" level="2" label="雙泯"/><head>雙泯</head>
+<pb ed="X" id="X64.1271.0778c" n="0778c"/>
+<lb ed="X" n="0778c01"/><lg id="lgX64p0778c0101"><l>人牛處處竟無蹤</l><l>新月孤懸萬象空</l>
+<lb ed="X" n="0778c02"/><l>借問歸源端的旨</l><l>枯樁春到綠叢叢</l></lg></div2></div1>
+<lb ed="X" n="0778c03"/><div1 type="other"><mulu type="其他" level="1" label="東塔和尚和牧牛圖頌(師諱海明號破山嗣法天童)"/><head>東塔和尚和牧牛圖頌<note place="inline">師諱海明號破山嗣法天童</note></head>
+<lb ed="X" n="0778c04"/><div2 type="other"><mulu type="其他" level="2" label="未牧"/><head>未牧</head>
+<lb ed="X" n="0778c05"/><lg id="lgX64p0778c0501"><l>頭角崢嶸便吼哮</l><l>奔兢&CB00195;水路迢遙</l>
+<lb ed="X" n="0778c06"/><l>牧童草料渾無戀</l><l>孰肯平田犯稼苗</l></lg></div2>
+<lb ed="X" n="0778c07"/><div2 type="other"><mulu type="其他" level="2" label="初調"/><head>初調</head>
+<lb ed="X" n="0778c08"/><lg id="lgX64p0778c0801"><l>牛兒鼻孔被繩穿</l><l>放去收來不假鞭</l>
+<lb ed="X" n="0778c09"/><l>擬向東西兩處觸</l><l>一回入草一回牽</l></lg></div2>
+<lb ed="X" n="0778c10"/><div2 type="other"><mulu type="其他" level="2" label="受制"/><head>受制</head>
+<lb ed="X" n="0778c11"/><lg id="lgX64p0778c1101"><l>年深日久懶奔馳</l><l>雲影溪光逐漸隨</l>
+<lb ed="X" n="0778c12"/><l>任是上林花鳥過</l><l>聲聲難喚牧兒疲</l></lg></div2>
+<lb ed="X" n="0778c13"/><div2 type="other"><mulu type="其他" level="2" label="回首"/><head>回首</head>
+<lb ed="X" n="0778c14"/><lg id="lgX64p0778c1401"><l>計窮力極喚回頭</l><l>謾把鞭繩閑放柔</l>
+<lb ed="X" n="0778c15"/><l>七縱八擒縛樹下</l><l>山童猶未肯停留</l></lg></div2>
+<lb ed="X" n="0778c16"/><div2 type="other"><mulu type="其他" level="2" label="馴伏"/><head>馴伏</head>
+<lb ed="X" n="0778c17"/><lg id="lgX64p0778c1701"><l>山間林下水溪邊</l><l>一飽無餘慶快然</l>
+<lb ed="X" n="0778c18"/><l>撒手童兒歸路晚</l><l>和牛急向遠村牽</l></lg></div2>
+<lb ed="X" n="0778c19"/><div2 type="other"><mulu type="其他" level="2" label="無＆CB00515；"/><head>無&CB00515;</head>
+<lb ed="X" n="0778c20"/><lg id="lgX64p0778c2001"><l>穩眠露地意如如</l><l>陽&CB08504;空花何所拘</l>
+<lb ed="X" n="0778c21"/><l>松韻山童弄鐵笛</l><l>輕輕吹醒樂無餘</l></lg></div2>
+<lb ed="X" n="0778c22"/><div2 type="other"><mulu type="其他" level="2" label="任運"/><head>任運</head>
+<lb ed="X" n="0778c23"/><lg id="lgX64p0778c2301"><l>南北東西任運中</l><l>&CB00560;頭&CB00560;底草茸茸</l>
+<lb ed="X" n="0778c24"/><l>飽&CB00290;只剩些些意</l><l>留與山童瞌睡濃</l></lg></div2>
+<pb ed="X" id="X64.1271.0779a" n="0779a"/>
+<lb ed="X" n="0779a01"/><div2 type="other"><mulu type="其他" level="2" label="相忘"/><head>相忘</head>
+<lb ed="X" n="0779a02"/><lg id="lgX64p0779a0201"><l>雲牛一片白其中</l><l>那有雌黃與異同</l>
+<lb ed="X" n="0779a03"/><l>就裏欲分纖細子</l><l>騰騰運運復西東</l></lg></div2>
+<lb ed="X" n="0779a04"/><div2 type="other"><mulu type="其他" level="2" label="獨照"/><head>獨照</head>
+<lb ed="X" n="0779a05"/><lg id="lgX64p0779a0501"><l>牧童&CB00655;掌自閒閒</l><l>始信牛&CB05114;沒此間</l>
+<lb ed="X" n="0779a06"/><l>遂得殷懃謾且喜</l><l>猶存星月照幽關</l></lg></div2>
+<lb ed="X" n="0779a07"/><div2 type="other"><mulu type="其他" level="2" label="雙泯"/><head>雙泯</head>
+<lb ed="X" n="0779a08"/><lg id="lgX64p0779a0801"><l>人牛頓盡絕形&CB05114;</l><l>浩浩光吞宇宙空</l>
+<lb ed="X" n="0779a09"/><l>明月蘆花來問的</l><l>東風吹起自叢叢</l></lg></div2></div1>
+<lb ed="X" n="0779a10"/><div1 type="other"><mulu type="其他" level="1" label="萬如禪師和牧牛圖頌(師諱通微)"/><head>萬如禪師和牧牛圖頌<note place="inline">師諱通微</note></head>
+<lb ed="X" n="0779a11"/><div2 type="other"><mulu type="其他" level="2" label="未牧"/><head>未牧</head>
+<lb ed="X" n="0779a12"/><lg id="lgX64p0779a1201"><l>劣性麤狂向外&CB01799;</l><l>鄉關迢&CB15325;不知遙</l>
+<lb ed="X" n="0779a13"/><l>分明觸處荒田地</l><l>那肯回頭惜異苗</l></lg></div2>
+<lb ed="X" n="0779a14"/><div2 type="other"><mulu type="其他" level="2" label="初調"/><head>初調</head>
+<lb ed="X" n="0779a15"/><lg id="lgX64p0779a1501"><l>驀路相逢把鼻穿</l><l>饒伊惡性猛加鞭</l>
+<lb ed="X" n="0779a16"/><l>從今<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>得繩頭在</l><l>纔要奔趨只一牽</l></lg></div2>
+<lb ed="X" n="0779a17"/><div2 type="other"><mulu type="其他" level="2" label="受制"/><head>受制</head>
+<lb ed="X" n="0779a18"/><lg id="lgX64p0779a1801"><l>暫息顛頑暫息馳</l><l>頻頻相&CB15164;也相隨</l>
+<lb ed="X" n="0779a19"/><l>芒繩雖緩鞭尤樸</l><l>不筭工夫不憚疲</l></lg></div2>
+<lb ed="X" n="0779a20"/><div2 type="other"><mulu type="其他" level="2" label="迴首"/><head>迴首</head>
+<lb ed="X" n="0779a21"/><lg id="lgX64p0779a2101"><l>頑劣消除<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>轉頭</l><l>不加鞭逼性相柔</l>
+<lb ed="X" n="0779a22"/><l>牧童未敢憑他意</l><l>還把繩頭緊繫留</l></lg></div2>
+<lb ed="X" n="0779a23"/><div2 type="other"><mulu type="其他" level="2" label="馴伏"/><head>馴伏</head>
+<lb ed="X" n="0779a24"/><lg id="lgX64p0779a2401"><l>萬木叢中芳草邊</l><l>芒繩釋去意翛然</l>
+<pb ed="X" id="X64.1271.0779b" n="0779b"/>
+<lb ed="X" n="0779b01"/><l>夕陽影裡歸鴉噪</l><l>牛自相隨不用牽</l></lg></div2>
+<lb ed="X" n="0779b02"/><div2 type="other"><mulu type="其他" level="2" label="無＆CB00515；"/><head>無&CB00515;</head>
+<lb ed="X" n="0779b03"/><lg id="lgX64p0779b0301"><l>皤白渾身性自如</l><l>海天空&CB04583;不相拘</l>
+<lb ed="X" n="0779b04"/><l>牧童閒倚松邊石</l><l>短笛頻吹興有餘</l></lg></div2>
+<lb ed="X" n="0779b05"/><div2 type="other"><mulu type="其他" level="2" label="任運"/><head>任運</head>
+<lb ed="X" n="0779b06"/><lg id="lgX64p0779b0601"><l>千條溪畔萬山中</l><l>&CB00290;飲隨時飽綠茸</l>
+<lb ed="X" n="0779b07"/><l>牧子從教無個事</l><l>鼾鼾枕臂不知濃</l></lg></div2>
+<lb ed="X" n="0779b08"/><div2 type="other"><mulu type="其他" level="2" label="相忘"/><head>相忘</head>
+<lb ed="X" n="0779b09"/><lg id="lgX64p0779b0901"><l>是處雲山牛在中</l><l>兩無心意月相同</l>
+<lb ed="X" n="0779b10"/><l>碧天影落溪流急</l><l>任爾縱橫西復東</l></lg></div2>
+<lb ed="X" n="0779b11"/><div2 type="other"><mulu type="其他" level="2" label="獨照"/><head>獨照</head>
+<lb ed="X" n="0779b12"/><lg id="lgX64p0779b1201"><l>生涯喪盡一身閒</l><l>明月光騰古木間</l>
+<lb ed="X" n="0779b13"/><l>歌罷一聲歸去晚</l><l>芒鞋踏破隔鄉關</l></lg></div2>
+<lb ed="X" n="0779b14"/><div2 type="other"><mulu type="其他" level="2" label="雙泯"/><head>雙泯</head>
+<lb ed="X" n="0779b15"/><lg id="lgX64p0779b1501"><l>廓然空絕兩無&CB05114;</l><l>寶月孤懸照碧空</l>
+<lb ed="X" n="0779b16"/><l>個事不須重借問</l><l>子規聲斷落花叢</l></lg></div2></div1>
+<lb ed="X" n="0779b17"/><div1 type="other"><mulu type="其他" level="1" label="東塔浮石禪師和牧牛圖頌(師諱通賢)"/><head>東塔浮石禪師和牧牛圖頌<note place="inline">師諱通賢</note></head>
+<lb ed="X" n="0779b18"/><div2 type="other"><mulu type="其他" level="2" label="未牧"/><head>未牧</head>
+<lb ed="X" n="0779b19"/><lg id="lgX64p0779b1901"><l>蹉過聲前這一哮</l><l>反生邊見歷途遙</l>
+<lb ed="X" n="0779b20"/><l>披毛帶角渾無慮</l><l>糞草何曾識稼苗</l></lg></div2>
+<lb ed="X" n="0779b21"/><div2 type="other"><mulu type="其他" level="2" label="初調"/><head>初調</head>
+<lb ed="X" n="0779b22"/><lg id="lgX64p0779b2201"><l>纔識牛兮鼻<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>穿</l><l>翻然自肯苦加鞭</l>
+<lb ed="X" n="0779b23"/><l>暫詩不在頻偷走</l><l>猶把芒繩緊緊牽</l></lg></div2>
+<lb ed="X" n="0779b24"/><div2 type="other"><mulu type="其他" level="2" label="受制"/><head>受制</head>
+<pb ed="X" id="X64.1271.0779c" n="0779c"/>
+<lb ed="X" n="0779c01"/><lg id="lgX64p0779c0101"><l>渡水穿雲不亂馳</l><l>任從呼遣總相隨</l>
+<lb ed="X" n="0779c02"/><l>牛兒雖以堪調治</l><l>未許山童暫放疲</l></lg></div2>
+<lb ed="X" n="0779c03"/><div2 type="other"><mulu type="其他" level="2" label="回首"/><head>回首</head>
+<lb ed="X" n="0779c04"/><lg id="lgX64p0779c0401"><l>一回入草一回頭</l><l>可比初時性<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>柔</l>
+<lb ed="X" n="0779c05"/><l>滿徑落花思踐履</l><l>客途&CB00195;雨豈&CB15133;留</l></lg></div2>
+<lb ed="X" n="0779c06"/><div2 type="other"><mulu type="其他" level="2" label="馴伏"/><head>馴伏</head>
+<lb ed="X" n="0779c07"/><lg id="lgX64p0779c0701"><l>玲瓏石伴古松邊</l><l>任運騰騰始貼然</l>
+<lb ed="X" n="0779c08"/><l>手裡有鞭須放下</l><l>鼻中去索不須牽</l></lg></div2>
+<lb ed="X" n="0779c09"/><div2 type="other"><mulu type="其他" level="2" label="無＆CB00515；"/><head>無&CB00515;</head>
+<lb ed="X" n="0779c10"/><lg id="lgX64p0779c1001"><l>觸處逢渠得自如</l><l>入泥入水又何拘</l>
+<lb ed="X" n="0779c11"/><l>饑&CB00290;渴飲困來睡</l><l>底事從來無欠餘</l></lg></div2>
+<lb ed="X" n="0779c12"/><div2 type="other"><mulu type="其他" level="2" label="任運"/><head>任運</head>
+<lb ed="X" n="0779c13"/><lg id="lgX64p0779c1301"><l><app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>眼&CB04950;開宇宙中</l><l>胡來胡現任茸茸</l>
+<lb ed="X" n="0779c14"/><l>山童閒唱還鄉曲</l><l>不覺令人歸思濃</l></lg></div2>
+<lb ed="X" n="0779c15"/><div2 type="other"><mulu type="其他" level="2" label="相忘"/><head>相忘</head>
+<lb ed="X" n="0779c16"/><lg id="lgX64p0779c1601"><l>喪盡偷心豁達中</l><l>人牛何異復何同</l>
+<lb ed="X" n="0779c17"/><l>從今兩絕提防力</l><l>可以西兮可以東</l></lg></div2>
+<lb ed="X" n="0779c18"/><div2 type="other"><mulu type="其他" level="2" label="獨照"/><head>獨照</head>
+<lb ed="X" n="0779c19"/><lg id="lgX64p0779c1901"><l>脫盡皮毛赤體閒</l><l>堂堂獨露&CB01170;談間</l>
+<lb ed="X" n="0779c20"/><l>不是渠儂能了達</l><l>祇因透徹上頭關</l></lg></div2>
+<lb ed="X" n="0779c21"/><div2 type="other"><mulu type="其他" level="2" label="雙泯"/><head>雙泯</head>
+<lb ed="X" n="0779c22"/><lg id="lgX64p0779c2201"><l>空空寂寂杳無&CB05114;</l><l>一點靈機盡掃空</l>
+<lb ed="X" n="0779c23"/><l>智理不存悲化普</l><l>一輪明月照幽叢</l></lg></div2></div1>
+<lb ed="X" n="0779c24"/><div1 type="other"><mulu type="其他" level="1" label="玉林和尚和牧牛圖頌(師諱通琇繼住報恩)"/><head>玉林和尚和牧牛圖頌<note place="inline">師諱通琇繼住報恩</note></head>
+<pb ed="X" id="X64.1271.0780a" n="0780a"/>
+<lb ed="X" n="0780a01"/><div2 type="other"><mulu type="其他" level="2" label="未牧"/><head>未牧</head>
+<lb ed="X" n="0780a02"/><lg id="lgX64p0780a0201"><l>牛本荷人人不識</l><l>胡行亂躍隔迢遙</l>
+<lb ed="X" n="0780a03"/><l>一回摸著牛兒鼻</l><l>大千沙界沒莖苗</l></lg></div2>
+<lb ed="X" n="0780a04"/><div2 type="other"><mulu type="其他" level="2" label="初調"/><head>初調</head>
+<lb ed="X" n="0780a05"/><lg id="lgX64p0780a0501"><l>寄言識得牛兒者</l><l>莫學時流強策鞭</l>
+<lb ed="X" n="0780a06"/><l>我是牛兮牛是我</l><l>分明無二若為牽</l></lg></div2>
+<lb ed="X" n="0780a07"/><div2 type="other"><mulu type="其他" level="2" label="受制"/><head>受制</head>
+<lb ed="X" n="0780a08"/><lg id="lgX64p0780a0801"><l>牧童但不迷頭去</l><l>純白牛兒到處隨</l>
+<lb ed="X" n="0780a09"/><l>非比道途販賣客</l><l>橫騎倒捋自無疲</l></lg></div2>
+<lb ed="X" n="0780a10"/><div2 type="other"><mulu type="其他" level="2" label="回首"/><head>回首</head>
+<lb ed="X" n="0780a11"/><lg id="lgX64p0780a1101"><l>莫道功深始轉頭</l><l>牛無背面與剛柔</l>
+<lb ed="X" n="0780a12"/><l>山童但得狂心歇</l><l>鼻孔彌天絕去留</l></lg></div2>
+<lb ed="X" n="0780a13"/><div2 type="other"><mulu type="其他" level="2" label="馴伏"/><head>馴伏</head>
+<lb ed="X" n="0780a14"/><lg id="lgX64p0780a1401"><l>尋常逐逐營營者</l><l>謾道長調方怗然</l>
+<lb ed="X" n="0780a15"/><l>見徹斯牛無往返</l><l>始如多載枉拘牽</l></lg></div2>
+<lb ed="X" n="0780a16"/><div2 type="other"><mulu type="其他" level="2" label="無＆CB00515；"/><head>無&CB00515;</head>
+<lb ed="X" n="0780a17"/><lg id="lgX64p0780a1701"><l>本自翛然絕絆羈</l><l>知恩豈肯強牽拘</l>
+<lb ed="X" n="0780a18"/><l>縱橫飛舞無留跡</l><l>誰信那伽定有餘</l></lg></div2>
+<lb ed="X" n="0780a19"/><div2 type="other"><mulu type="其他" level="2" label="任運"/><head>任運</head>
+<lb ed="X" n="0780a20"/><lg id="lgX64p0780a2001"><l>不分內外與邊中</l><l>傍水尋芳入亂叢</l>
+<lb ed="X" n="0780a21"/><l>回首東山吐新月</l><l>騎歸茆屋興猶濃</l></lg></div2>
+<lb ed="X" n="0780a22"/><div2 type="other"><mulu type="其他" level="2" label="相忘"/><head>相忘</head>
+<lb ed="X" n="0780a23"/><lg id="lgX64p0780a2301"><l>強把全軀分二體</l><l>計窮力盡始知同</l>
+<lb ed="X" n="0780a24"/><l>他長我短俱休問</l><l>說甚人西與物東</l></lg></div2>
+<pb ed="X" id="X64.1271.0780b" n="0780b"/>
+<lb ed="X" n="0780b01"/><div2 type="other"><mulu type="其他" level="2" label="獨照"/><head>獨照</head>
+<lb ed="X" n="0780b02"/><lg id="lgX64p0780b0201"><l>頂破&CB00980;空蹈碎地</l><l>不留一物雜其間</l>
+<lb ed="X" n="0780b03"/><l>孤孤&CB00529;&CB00529;雖堪羨</l><l>瞥爾知羞始透關</l></lg></div2>
+<lb ed="X" n="0780b04"/><div2 type="other"><mulu type="其他" level="2" label="雙泯"/><head>雙泯</head>
+<lb ed="X" n="0780b05"/><lg id="lgX64p0780b0501"><l>誰為所牧誰為牧</l><l>認影牽風徹底空</l>
+<lb ed="X" n="0780b06"/><l>有問其中端的意</l><l>早知芻犬吠茅叢</l></lg></div2></div1>
+<lb ed="X" n="0780b07"/><div1 type="other"><mulu type="其他" level="1" label="箬庵禪師和牧牛圖頌(師諱通問)"/><head>箬庵禪師和牧牛圖頌<note place="inline">師諱通問</note></head>
+<lb ed="X" n="0780b08"/><div2 type="other"><mulu type="其他" level="2" label="未牧"/><head>未牧</head>
+<lb ed="X" n="0780b09"/><lg id="lgX64p0780b0901"><l>走遍天涯逞意哮</l><l>穿雲涉水路迢遙</l>
+<lb ed="X" n="0780b10"/><l>多年一片閒田地</l><l>蹂踏堪憐損稼苗</l></lg></div2>
+<lb ed="X" n="0780b11"/><div2 type="other"><mulu type="其他" level="2" label="初調"/><head>初調</head>
+<lb ed="X" n="0780b12"/><lg id="lgX64p0780b1201"><l>鼻孔生獰不易穿</l><l>一回入草一加鞭</l>
+<lb ed="X" n="0780b13"/><l>狂心何計能拴縛</l><l>賴有山童把索牽</l></lg></div2>
+<lb ed="X" n="0780b14"/><div2 type="other"><mulu type="其他" level="2" label="受制"/><head>受制</head>
+<lb ed="X" n="0780b15"/><lg id="lgX64p0780b1501"><l>擬將何處更驅馳</l><l>暮雨朝&CB00195;緊自隨</l>
+<lb ed="X" n="0780b16"/><l>&CB05114;跡欲逃難躲避</l><l>任渠奔烈也成疲</l></lg></div2>
+<lb ed="X" n="0780b17"/><div2 type="other"><mulu type="其他" level="2" label="回首"/><head>回首</head>
+<lb ed="X" n="0780b18"/><lg id="lgX64p0780b1801"><l>翻然自肯便回頭</l><l>滿地殘紅襯草柔</l>
+<lb ed="X" n="0780b19"/><l>故國有懷情未撇</l><l>暗愁春老尚遲留</l></lg></div2>
+<lb ed="X" n="0780b20"/><div2 type="other"><mulu type="其他" level="2" label="馴伏"/><head>馴伏</head>
+<lb ed="X" n="0780b21"/><lg id="lgX64p0780b2101"><l>收來放去古溪邊</l><l>風月隨緣自悄然</l>
+<lb ed="X" n="0780b22"/><l>水草不思無底事</l><l>相看撒手竟忘牽</l></lg></div2>
+<lb ed="X" n="0780b23"/><div2 type="other"><mulu type="其他" level="2" label="無＆CB00515；"/><head>無&CB00515;</head>
+<lb ed="X" n="0780b24"/><lg id="lgX64p0780b2401"><l>縱步溪山得自如</l><l>風流兩岸亦何拘</l>
+<pb ed="X" id="X64.1271.0780c" n="0780c"/>
+<lb ed="X" n="0780c01"/><l>橫吹短笛斜陽暮</l><l>溢目春光信有餘</l></lg></div2>
+<lb ed="X" n="0780c02"/><div2 type="other"><mulu type="其他" level="2" label="任運"/><head>任運</head>
+<lb ed="X" n="0780c03"/><lg id="lgX64p0780c0301"><l>不曾移步出山中</l><l>暖簇晴花五色茸</l>
+<lb ed="X" n="0780c04"/><l>莫&CB00383;山童閒瞌睡</l><l>臥雲眠月興偏濃</l></lg></div2>
+<lb ed="X" n="0780c05"/><div2 type="other"><mulu type="其他" level="2" label="相忘"/><head>相忘</head>
+<lb ed="X" n="0780c06"/><lg id="lgX64p0780c0601"><l>相將無事太平中</l><l>渠我情忘&CB00529;不同</l>
+<lb ed="X" n="0780c07"/><l>一段閒愁總收拾</l><l>不知花落水流東</l></lg></div2>
+<lb ed="X" n="0780c08"/><div2 type="other"><mulu type="其他" level="2" label="獨照"/><head>獨照</head>
+<lb ed="X" n="0780c09"/><lg id="lgX64p0780c0901"><l>一道寒光萬境閒</l><l>寥寥四&CB15164;水雲間</l>
+<lb ed="X" n="0780c10"/><l>夜深明月歸來後</l><l>照徹空王向上關</l></lg></div2>
+<lb ed="X" n="0780c11"/><div2 type="other"><mulu type="其他" level="2" label="雙泯"/><head>雙泯</head>
+<lb ed="X" n="0780c12"/><lg id="lgX64p0780c1201"><l>從前光影&CB00697;無&CB05114;</l><l>不見人牛&CB00195;水空</l>
+<lb ed="X" n="0780c13"/><l>盡大地回春曉夢</l><l>日高香散百花叢</l></lg></div2></div1>
+<lb ed="X" n="0780c14"/><div1 type="other"><mulu type="其他" level="1" label="山茨禪師和牧牛圖頌(師諱通際)"/><head>山茨禪師和牧牛圖頌<note place="inline">師諱通際</note></head>
+<lb ed="X" n="0780c15"/><div2 type="other"><mulu type="其他" level="2" label="未牧"/><head>未牧</head>
+<lb ed="X" n="0780c16"/><lg id="lgX64p0780c1601"><l>水草溪邊縱意哮</l><l>鼻頭無繫去迢遙</l>
+<lb ed="X" n="0780c17"/><l>誰知宇宙皆王化</l><l>亂踏雲山犯稼苗</l></lg></div2>
+<lb ed="X" n="0780c18"/><div2 type="other"><mulu type="其他" level="2" label="初調"/><head>初調</head>
+<lb ed="X" n="0780c19"/><lg id="lgX64p0780c1901"><l>芒繩初把鼻相穿</l><l>熟處難忘痛著鞭</l>
+<lb ed="X" n="0780c20"/><l>分付牧童牢守護</l><l>莫教暫失手中牽</l></lg></div2>
+<lb ed="X" n="0780c21"/><div2 type="other"><mulu type="其他" level="2" label="受制"/><head>受制</head>
+<lb ed="X" n="0780c22"/><lg id="lgX64p0780c2201"><l>動容頑性好奔馳</l><l>左右旋眸渠緊隨</l>
+<lb ed="X" n="0780c23"/><l>悵望遠山鄉信杳</l><l>披雲帶月正忘疲</l></lg></div2>
+<lb ed="X" n="0780c24"/><div2 type="other"><mulu type="其他" level="2" label="回首"/><head>回首</head>
+<pb ed="X" id="X64.1271.0781a" n="0781a"/>
+<lb ed="X" n="0781a01"/><lg id="lgX64p0781a0101"><l>知恩逐步肯回頭</l><l>烈氣消融性漸柔</l>
+<lb ed="X" n="0781a02"/><l>騎向平陂深草處</l><l>橫吹短笛絕&CB15133;留</l></lg></div2>
+<lb ed="X" n="0781a03"/><div2 type="other"><mulu type="其他" level="2" label="馴伏"/><head>馴伏</head>
+<lb ed="X" n="0781a04"/><lg id="lgX64p0781a0401"><l>只在平田&CB00195;柳邊</l><l>鞭繩拋&CB00230;坐翛然</l>
+<lb ed="X" n="0781a05"/><l>暮山鐘動上方月</l><l>恁麼歸來不假牽</l></lg></div2>
+<lb ed="X" n="0781a06"/><div2 type="other"><mulu type="其他" level="2" label="無＆CB00515；"/><head>無&CB00515;</head>
+<lb ed="X" n="0781a07"/><lg id="lgX64p0781a0701"><l>人牛相視體如如</l><l>彼此無心不用拘</l>
+<lb ed="X" n="0781a08"/><l>花柳叢中隨意往</l><l>團團蹄跡更無餘</l></lg></div2>
+<lb ed="X" n="0781a09"/><div2 type="other"><mulu type="其他" level="2" label="任運"/><head>任運</head>
+<lb ed="X" n="0781a10"/><lg id="lgX64p0781a1001"><l>或時村裡或雲中</l><l>舊地閒田草正茸</l>
+<lb ed="X" n="0781a11"/><l>踏遍一毫無剩跡</l><l>牧童高臥柳陰濃</l></lg></div2>
+<lb ed="X" n="0781a12"/><div2 type="other"><mulu type="其他" level="2" label="相忘"/><head>相忘</head>
+<lb ed="X" n="0781a13"/><lg id="lgX64p0781a1301"><l>&CB04950;&CB04950;頭角臥林中</l><l>渠我渾忘雲水同</l>
+<lb ed="X" n="0781a14"/><l>為愛山前&CB00034;草細</l><l>夜深乘月過溪東</l></lg></div2>
+<lb ed="X" n="0781a15"/><div2 type="other"><mulu type="其他" level="2" label="獨照"/><head>獨照</head>
+<lb ed="X" n="0781a16"/><lg id="lgX64p0781a1601"><l>個裡風光鎮日閒</l><l>放身穩臥白雲間</l>
+<lb ed="X" n="0781a17"/><l>長歌一曲聲嘹喨</l><l>直透威音劫外關</l></lg></div2>
+<lb ed="X" n="0781a18"/><div2 type="other"><mulu type="其他" level="2" label="雙泯"/><head>雙泯</head>
+<lb ed="X" n="0781a19"/><lg id="lgX64p0781a1901"><l>不見人牛不見&CB05114;</l><l>清風明月滿長空</l>
+<lb ed="X" n="0781a20"/><l>太平休用歌堯令</l><l>枯木重開花一叢</l></lg></div2></div1>
+<lb ed="X" n="0781a21"/><div1 type="other"><mulu type="其他" level="1" label="桐月菴大師和牧牛圖頌(師諱妙用號玄微)"/><head>桐月菴大師和牧牛圖頌<note place="inline">師諱妙用號玄微</note></head>
+<lb ed="X" n="0781a22"/><div2 type="other"><mulu type="其他" level="2" label="未牧"/><head>未牧</head>
+<lb ed="X" n="0781a23"/><lg id="lgX64p0781a2301"><l>黑雲低處一聲哮</l><l>足底程途那信遙</l>
+<lb ed="X" n="0781a24"/><l>童子個時將貫索</l><l>未嘗留意惜良苗</l></lg></div2>
+<pb ed="X" id="X64.1271.0781b" n="0781b"/>
+<lb ed="X" n="0781b01"/><div2 type="other"><mulu type="其他" level="2" label="初調"/><head>初調</head>
+<lb ed="X" n="0781b02"/><lg id="lgX64p0781b0201"><l>鼻孔今朝始受穿</l><l>十分狂性只宜鞭</l>
+<lb ed="X" n="0781b03"/><l>要渠了了尋常事</l><l>不管通身黑業牽</l></lg></div2>
+<lb ed="X" n="0781b04"/><div2 type="other"><mulu type="其他" level="2" label="受制"/><head>受制</head>
+<lb ed="X" n="0781b05"/><lg id="lgX64p0781b0501"><l>蹊徑於今不枉馳</l><l>鞭繩緩緩肯相隨</l>
+<lb ed="X" n="0781b06"/><l>家山水草隨時給</l><l>信步風流也不疲</l></lg></div2>
+<lb ed="X" n="0781b07"/><div2 type="other"><mulu type="其他" level="2" label="迴首"/><head>迴首</head>
+<lb ed="X" n="0781b08"/><lg id="lgX64p0781b0801"><l>綠楊堤畔碧溪頭</l><l>景自晴和風自柔</l>
+<lb ed="X" n="0781b09"/><l>水牯轉頭初自肯</l><l>月明歸路謾遲留</l></lg></div2>
+<lb ed="X" n="0781b10"/><div2 type="other"><mulu type="其他" level="2" label="馴伏"/><head>馴伏</head>
+<lb ed="X" n="0781b11"/><lg id="lgX64p0781b1101"><l>那裏隨來過這邊</l><l>左盤右轉摠安然</l>
+<lb ed="X" n="0781b12"/><l>黃&CB00674;&CB00054;得山花&CB01170;</l><l>聲色中能不被牽</l></lg></div2>
+<lb ed="X" n="0781b13"/><div2 type="other"><mulu type="其他" level="2" label="無＆CB00515；"/><head>無&CB00515;</head>
+<lb ed="X" n="0781b14"/><lg id="lgX64p0781b1401"><l>脫落&CB00980;空萬象如</l><l>人牛浪蕩不相拘</l>
+<lb ed="X" n="0781b15"/><l>鞭繩颺下無些子</l><l>引興梅花一調餘</l></lg></div2>
+<lb ed="X" n="0781b16"/><div2 type="other"><mulu type="其他" level="2" label="任運"/><head>任運</head>
+<lb ed="X" n="0781b17"/><lg id="lgX64p0781b1701"><l>我自悠然一覺中</l><l>任渠草徑玩纖茸</l>
+<lb ed="X" n="0781b18"/><l>落花沒膝春山晚</l><l>猶潑紅霞錦繡濃</l></lg></div2>
+<lb ed="X" n="0781b19"/><div2 type="other"><mulu type="其他" level="2" label="相忘"/><head>相忘</head>
+<lb ed="X" n="0781b20"/><lg id="lgX64p0781b2001"><l>白雲拖過月明中</l><l>月與雲和一色同</l>
+<lb ed="X" n="0781b21"/><l>智境此時都不會</l><l>何論南北與西東</l></lg></div2>
+<lb ed="X" n="0781b22"/><div2 type="other"><mulu type="其他" level="2" label="獨照"/><head>獨照</head>
+<lb ed="X" n="0781b23"/><lg id="lgX64p0781b2301"><l>家破蕭然四壁閒</l><l>於今雲淨月明間</l>
+<lb ed="X" n="0781b24"/><l>固非往日程途事</l><l>尚好挨身拶過關</l></lg></div2>
+<pb ed="X" id="X64.1271.0781c" n="0781c"/>
+<lb ed="X" n="0781c01"/><div2 type="other"><mulu type="其他" level="2" label="雙泯"/><head>雙泯</head>
+<lb ed="X" n="0781c02"/><lg id="lgX64p0781c0201"><l>劇盡何方&CB00697;影蹤</l><l>不應空裏鏤&CB00980;空</l>
+<lb ed="X" n="0781c03"/><l>有誰道露堂堂地</l><l>蜂蝶痴迷花底叢</l></lg></div2></div1>
+<lb ed="X" n="0781c04"/><div1 type="other"><mulu type="其他" level="1" label="一指菴大師和牧牛圖頌(師諱明海號香幢)"/><head>一指菴大師和牧牛圖頌<note place="inline">師諱明海號香幢</note></head>
+<lb ed="X" n="0781c05"/><div2 type="other"><mulu type="其他" level="2" label="未牧"/><head>未牧</head>
+<lb ed="X" n="0781c06"/><lg id="lgX64p0781c0601"><l>東奔西觸縱狂哮</l><l>越嶺盤溪不憚遙</l>
+<lb ed="X" n="0781c07"/><l>眼底只貪畦畔艸</l><l>那知回首有靈苗</l></lg></div2>
+<lb ed="X" n="0781c08"/><div2 type="other"><mulu type="其他" level="2" label="初調"/><head>初調</head>
+<lb ed="X" n="0781c09"/><lg id="lgX64p0781c0901"><l>幾年鼻孔未經穿</l><l>今日收來始著鞭</l>
+<lb ed="X" n="0781c10"/><l>&CB02852;定索頭無少緩</l><l>一回入草一回牽</l></lg></div2>
+<lb ed="X" n="0781c11"/><div2 type="other"><mulu type="其他" level="2" label="受制"/><head>受制</head>
+<lb ed="X" n="0781c12"/><lg id="lgX64p0781c1201"><l>頑皮且喜罷驅馳</l><l>我步溪邊他亦隨</l>
+<lb ed="X" n="0781c13"/><l>只恐柳絲拴不住</l><l>孜孜照管略無疲</l></lg></div2>
+<lb ed="X" n="0781c14"/><div2 type="other"><mulu type="其他" level="2" label="回首"/><head>回首</head>
+<lb ed="X" n="0781c15"/><lg id="lgX64p0781c1501"><l>一自牽歸這一頭</l><l>幾將鞭杖驗剛柔</l>
+<lb ed="X" n="0781c16"/><l>而今<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>蹈還家路</l><l>嬾聽枝頭黃栗留</l></lg></div2>
+<lb ed="X" n="0781c17"/><div2 type="other"><mulu type="其他" level="2" label="馴伏"/><head>馴伏</head>
+<lb ed="X" n="0781c18"/><lg id="lgX64p0781c1801"><l>幾處低坡淺水邊</l><l>相依相狎意陶然</l>
+<lb ed="X" n="0781c19"/><l>山雲欲暮歸村舍</l><l>宛轉隨人不用牽</l></lg></div2>
+<lb ed="X" n="0781c20"/><div2 type="other"><mulu type="其他" level="2" label="無＆CB00515；"/><head>無&CB00515;</head>
+<lb ed="X" n="0781c21"/><lg id="lgX64p0781c2101"><l>水草尋常事事如</l><l>任渠飲&CB10437;嬾相拘</l>
+<lb ed="X" n="0781c22"/><l>笛聲喚醒珊瑚月</l><l>狼藉清光一點餘</l></lg></div2>
+<lb ed="X" n="0781c23"/><div2 type="other"><mulu type="其他" level="2" label="任運"/><head>任運</head>
+<lb ed="X" n="0781c24"/><lg id="lgX64p0781c2401"><l>緩步春山平麓中</l><l>風和日暖草蒙茸</l>
+<pb ed="X" id="X64.1271.0782a" n="0782a"/>
+<lb ed="X" n="0782a01"/><l>鼾&CB15125;一枕藤蘿石</l><l>不管岩花色淡濃</l></lg></div2>
+<lb ed="X" n="0782a02"/><div2 type="other"><mulu type="其他" level="2" label="相忘"/><head>相忘</head>
+<lb ed="X" n="0782a03"/><lg id="lgX64p0782a0301"><l>通身皎潔片雲中</l><l>明月蘆花未許同</l>
+<lb ed="X" n="0782a04"/><l>謾道玉樓&CB00616;<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>曉</l><l>金烏猶在海門東</l></lg></div2>
+<lb ed="X" n="0782a05"/><div2 type="other"><mulu type="其他" level="2" label="獨照"/><head>獨照</head>
+<lb ed="X" n="0782a06"/><lg id="lgX64p0782a0601"><l>牛自空兮人自閑</l><l>翛然獨步水雲間</l>
+<lb ed="X" n="0782a07"/><l>尚&CB00824;驀地翻身轉</l><l>靠倒窮途最後關</l></lg></div2>
+<lb ed="X" n="0782a08"/><div2 type="other"><mulu type="其他" level="2" label="雙泯"/><head>雙泯</head>
+<lb ed="X" n="0782a09"/><lg id="lgX64p0782a0901"><l>皮毛蓑笠了無&CB05114;</l><l>一片寒光墮碧空</l>
+<lb ed="X" n="0782a10"/><l>&CB00195;雨故園消息斷</l><l>百花何處聞芳叢</l></lg></div2></div1>
+<lb ed="X" n="0782a11"/><div1 type="other"><mulu type="其他" level="1" label="＆CB01323；轢道人嚴大參和牧牛圖頌"/><head>&CB01323;轢道人嚴大參和牧牛圖頌</head>
+<lb ed="X" n="0782a12"/><div2 type="other"><mulu type="其他" level="2" label="未牧"/><head>未牧</head>
+<lb ed="X" n="0782a13"/><lg id="lgX64p0782a1301"><l>雲山堆裏一聲哮</l><l>頭角宛然家信遙</l>
+<lb ed="X" n="0782a14"/><l>滿地閒花都踏遍</l><l>那知異草并良苗</l></lg></div2>
+<lb ed="X" n="0782a15"/><div2 type="other"><mulu type="其他" level="2" label="初調"/><head>初調</head>
+<lb ed="X" n="0782a16"/><lg id="lgX64p0782a1601"><l>生獰如虎鼻難穿</l><l>賴得牧童有索鞭</l>
+<lb ed="X" n="0782a17"/><l>不是一番施辣手</l><l>個時劣性恐難牽</l></lg></div2>
+<lb ed="X" n="0782a18"/><div2 type="other"><mulu type="其他" level="2" label="受制"/><head>受制</head>
+<lb ed="X" n="0782a19"/><lg id="lgX64p0782a1901"><l>熟徑難忘欲逞馳</l><l>芒繩在手緊相隨</l>
+<lb ed="X" n="0782a20"/><l>豈容逐草尋芳去</l><l>晝夜拘拴不憚疲</l></lg></div2>
+<lb ed="X" n="0782a21"/><div2 type="other"><mulu type="其他" level="2" label="迴首"/><head>迴首</head>
+<lb ed="X" n="0782a22"/><lg id="lgX64p0782a2201"><l>暫時落草即迴頭</l><l>雲凍霜寒足<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>柔</l>
+<lb ed="X" n="0782a23"/><l>欲緩鞭繩尤未緩</l><l>鄉關不到且拘留</l></lg></div2>
+<lb ed="X" n="0782a24"/><div2 type="other"><mulu type="其他" level="2" label="馴伏"/><head>馴伏</head>
+<pb ed="X" id="X64.1271.0782b" n="0782b"/>
+<lb ed="X" n="0782b01"/><lg id="lgX64p0782b0101"><l>高深蹊徑曲無邊</l><l>相押相馴<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>信然</l>
+<lb ed="X" n="0782b02"/><l>楊柳陰斜紅日轉</l><l>鼻頭繩斷不須牽</l></lg></div2>
+<lb ed="X" n="0782b03"/><div2 type="other"><mulu type="其他" level="2" label="無＆CB00515；"/><head>無&CB00515;</head>
+<lb ed="X" n="0782b04"/><lg id="lgX64p0782b0401"><l>水草皇王總自如</l><l>何須特地苦相拘</l>
+<lb ed="X" n="0782b05"/><l>山童撒手先高坐</l><l>牛亦安然閒有餘</l></lg></div2>
+<lb ed="X" n="0782b06"/><div2 type="other"><mulu type="其他" level="2" label="任運"/><head>任運</head>
+<lb ed="X" n="0782b07"/><lg id="lgX64p0782b0701"><l>信步行來到此中</l><l>山前山後草茸茸</l>
+<lb ed="X" n="0782b08"/><l>放渠散走陂塘去</l><l>不似當年狂興濃</l></lg></div2>
+<lb ed="X" n="0782b09"/><div2 type="other"><mulu type="其他" level="2" label="相忘"/><head>相忘</head>
+<lb ed="X" n="0782b10"/><lg id="lgX64p0782b1001"><l>太平氣象月明中</l><l>爾我家山色色同</l>
+<lb ed="X" n="0782b11"/><l>袖手低眉忘管帶</l><l>不知西去與來東</l></lg></div2>
+<lb ed="X" n="0782b12"/><div2 type="other"><mulu type="其他" level="2" label="獨照"/><head>獨照</head>
+<lb ed="X" n="0782b13"/><lg id="lgX64p0782b1301"><l>蹤跡寥寥獨個閒</l><l>渾然出處那其間</l>
+<lb ed="X" n="0782b14"/><l>自歌自唱空山下</l><l>多少痴人認過關</l></lg></div2>
+<lb ed="X" n="0782b15"/><div2 type="other"><mulu type="其他" level="2" label="雙泯"/><head>雙泯</head>
+<lb ed="X" n="0782b16"/><lg id="lgX64p0782b1601"><l>人牛謾說絕形蹤</l><l>何異吹風欲滿空</l>
+<lb ed="X" n="0782b17"/><l>若問還源親的旨</l><l>參天荊棘亂叢叢</l></lg></div2></div1>
+<lb ed="X" n="0782b18"/><div1 type="other"><mulu type="其他" level="1" label="＆CB01323；轢道人再和牧牛圖頌"/><head>&CB01323;轢道人再和牧牛圖頌</head>
+<lb ed="X" n="0782b19"/><div2 type="other"><mulu type="其他" level="2" label="未牧"/><head>未牧</head>
+<lb ed="X" n="0782b20"/><lg id="lgX64p0782b2001"><l>牟牟聲&CB05156;是渠哮</l><l>欲&CB00697;頭&CB05114;轉展遙</l>
+<lb ed="X" n="0782b21"/><l>狹路相逢剛識得</l><l>甘心饑餓不&CB00573;苗</l></lg></div2>
+<lb ed="X" n="0782b22"/><div2 type="other"><mulu type="其他" level="2" label="初調"/><head>初調</head>
+<lb ed="X" n="0782b23"/><lg id="lgX64p0782b2301"><l>孃生鼻孔未經穿</l><l>痛處針錐痛處鞭</l>
+<lb ed="X" n="0782b24"/><l>漫道牧童施毒手</l><l>恐渠馳逐倍加牽</l></lg></div2>
+<pb ed="X" id="X64.1271.0782c" n="0782c"/>
+<lb ed="X" n="0782c01"/><div2 type="other"><mulu type="其他" level="2" label="受制"/><head>受制</head>
+<lb ed="X" n="0782c02"/><lg id="lgX64p0782c0201"><l>古路凄凄作麼馳</l><l>他山岐曲肯相隨</l>
+<lb ed="X" n="0782c03"/><l>痴兒不把繩頭放</l><l>牢繫&CB00980;空徒自疲</l></lg></div2>
+<lb ed="X" n="0782c04"/><div2 type="other"><mulu type="其他" level="2" label="迴首"/><head>迴首</head>
+<lb ed="X" n="0782c05"/><lg id="lgX64p0782c0501"><l>自從蹈著這源頭</l><l>骨力雖剛毛色柔</l>
+<lb ed="X" n="0782c06"/><l>日薄虞淵歸意急</l><l>肯貪&CB00034;艸故淹留</l></lg></div2>
+<lb ed="X" n="0782c07"/><div2 type="other"><mulu type="其他" level="2" label="馴伏"/><head>馴伏</head>
+<lb ed="X" n="0782c08"/><lg id="lgX64p0782c0801"><l>蹄跡團團古岸邊</l><l>飢&CB00290;渴飲恣悠然</l>
+<lb ed="X" n="0782c09"/><l>東來西往皆平貼</l><l>出外歸家總不牽</l></lg></div2>
+<lb ed="X" n="0782c10"/><div2 type="other"><mulu type="其他" level="2" label="無＆CB00515；"/><head>無&CB00515;</head>
+<lb ed="X" n="0782c11"/><lg id="lgX64p0782c1101"><l>嶺頭溪畔自如如</l><l>&CB00594;走橫眠更不拘</l>
+<lb ed="X" n="0782c12"/><l>水草國王隨分給</l><l>本來無欠亦無餘</l></lg></div2>
+<lb ed="X" n="0782c13"/><div2 type="other"><mulu type="其他" level="2" label="任運"/><head>任運</head>
+<lb ed="X" n="0782c14"/><lg id="lgX64p0782c1401"><l>牛兒閒放此山中</l><l>臥草眠花飽綠茸</l>
+<lb ed="X" n="0782c15"/><l>圜圚從來渠不入</l><l>逍遙自在興偏濃</l></lg></div2>
+<lb ed="X" n="0782c16"/><div2 type="other"><mulu type="其他" level="2" label="相忘"/><head>相忘</head>
+<lb ed="X" n="0782c17"/><lg id="lgX64p0782c1701"><l>人牛共住碧岩中</l><l>到處溪山雲月同</l>
+<lb ed="X" n="0782c18"/><l>猿鳥自啼花自&CB01170;</l><l>水流西去岸移東</l></lg></div2>
+<lb ed="X" n="0782c19"/><div2 type="other"><mulu type="其他" level="2" label="獨照"/><head>獨照</head>
+<lb ed="X" n="0782c20"/><lg id="lgX64p0782c2001"><l>脫盡皮毛得自閒</l><l>翛然獨步水雲間</l>
+<lb ed="X" n="0782c21"/><l>可憐無限英靈漢</l><l>開眼堂堂入死關</l></lg></div2>
+<lb ed="X" n="0782c22"/><div2 type="other"><mulu type="其他" level="2" label="雙泯"/><head>雙泯</head>
+<lb ed="X" n="0782c23"/><lg id="lgX64p0782c2301"><l>處處逢渠沒影&CB05114;</l><l>碧天雲淨月輪空</l>
+<lb ed="X" n="0782c24"/><l>個中多少風流趣</l><l>寶鴨香消錦繡叢</l></lg></div2></div1>
+<pb ed="X" id="X64.1271.0783a" n="0783a"/>
+<lb ed="X" n="0783a01"/><div1 type="other"><mulu type="其他" level="1" label="＆CB01323；轢道人三和牧牛圖頌"/><head>&CB01323;轢道人三和牧牛圖頌</head>
+<lb ed="X" n="0783a02"/><div2 type="other"><mulu type="其他" level="2" label="未牧"/><head>未牧</head>
+<lb ed="X" n="0783a03"/><lg id="lgX64p0783a0301"><l>黎然體色驀然哮</l><l>震地驚天用不遙</l>
+<lb ed="X" n="0783a04"/><l>嚼盡山花吸盡水</l><l>不留常住一莖苗</l></lg></div2>
+<lb ed="X" n="0783a05"/><div2 type="other"><mulu type="其他" level="2" label="初調"/><head>初調</head>
+<lb ed="X" n="0783a06"/><lg id="lgX64p0783a0601"><l>鼻孔撩天不受穿</l><l>誰能下手妄加鞭</l>
+<lb ed="X" n="0783a07"/><l>牧童縱有繩頭在</l><l>枉費功夫著力牽</l></lg></div2>
+<lb ed="X" n="0783a08"/><div2 type="other"><mulu type="其他" level="2" label="受制"/><head>受制</head>
+<lb ed="X" n="0783a09"/><lg id="lgX64p0783a0901"><l>牛兒有&CB00560;自驅馳</l><l>堪&CB01170;盲兒步步隨</l>
+<lb ed="X" n="0783a10"/><l>泥水溪深渾不染</l><l>牽他入草得毋疲</l></lg></div2>
+<lb ed="X" n="0783a11"/><div2 type="other"><mulu type="其他" level="2" label="迴首"/><head>迴首</head>
+<lb ed="X" n="0783a12"/><lg id="lgX64p0783a1201"><l>轉腦旋蹄錯路頭</l><l>何分頑劣與剛柔</l>
+<lb ed="X" n="0783a13"/><l>驀然直去家鄉到</l><l>不必淹淹在外留</l></lg></div2>
+<lb ed="X" n="0783a14"/><div2 type="other"><mulu type="其他" level="2" label="馴伏"/><head>馴伏</head>
+<lb ed="X" n="0783a15"/><lg id="lgX64p0783a1501"><l>散誕溪邊與艸邊</l><l>要騎要下任安然</l>
+<lb ed="X" n="0783a16"/><l>索頭盤結牛頭上</l><l>到處為家不用牽</l></lg></div2>
+<lb ed="X" n="0783a17"/><div2 type="other"><mulu type="其他" level="2" label="無＆CB00515；"/><head>無&CB00515;</head>
+<lb ed="X" n="0783a18"/><lg id="lgX64p0783a1801"><l>柳&CB00177;花街到處如</l><l>犯人苗稼又何拘</l>
+<lb ed="X" n="0783a19"/><l>橫衝直撞都無&CB00515;</l><l>窠臼掀翻無剩餘</l></lg></div2>
+<lb ed="X" n="0783a20"/><div2 type="other"><mulu type="其他" level="2" label="任運"/><head>任運</head>
+<lb ed="X" n="0783a21"/><lg id="lgX64p0783a2101"><l>夜半歸來月正中</l><l>三生石上草茸茸</l>
+<lb ed="X" n="0783a22"/><l>太平休斬痴頑漢</l><l>一任橫吹鐵笛濃</l></lg></div2>
+<lb ed="X" n="0783a23"/><div2 type="other"><mulu type="其他" level="2" label="相忘"/><head>相忘</head>
+<lb ed="X" n="0783a24"/><lg id="lgX64p0783a2401"><l>&CB05448;&CB05149;&CB06226;&CB15232;這○中</l><l>黑白元來一色同</l>
+<pb ed="X" id="X64.1271.0783b" n="0783b"/>
+<lb ed="X" n="0783b01"/><l>我不似渠渠似我</l><l>誰分南北與西東</l></lg></div2>
+<lb ed="X" n="0783b02"/><div2 type="other"><mulu type="其他" level="2" label="獨照"/><head>獨照</head>
+<lb ed="X" n="0783b03"/><lg id="lgX64p0783b0301"><l>牧他屎屁不曾閒</l><l>鞭向無生眨眼間</l>
+<lb ed="X" n="0783b04"/><l>有意氣時添意氣</l><l>何妨一鏃破三關</l></lg></div2>
+<lb ed="X" n="0783b05"/><div2 type="other"><mulu type="其他" level="2" label="雙泯"/><head>雙泯</head>
+<lb ed="X" n="0783b06"/><lg id="lgX64p0783b0601"><l>泥牛入海杳無蹤</l><l>木馬嘶風向碧空</l>
+<lb ed="X" n="0783b07"/><l>個事若何重話會</l><l>花開鐵樹&CB00436;叢叢</l></lg></div2></div1>
+<lb ed="X" n="0783b08"/><div1 type="other"><mulu type="其他" level="1" label="跛道人如念牧牛圖頌(有序)"/><head>跛道人如念牧牛圖頌<note place="inline">有序</note></head>
+<lb ed="X" n="0783b09"/><p id="pX64p0783b0901">諸佛垂&CB00528;。祖師西來。無非發明此事。拈搥&CB00594;拂。熱棒
+<lb ed="X" n="0783b10"/>熱喝。單提向上機輪。普明禪師假人法。重設牧牛圖
+<lb ed="X" n="0783b11"/>頌。&CB01323;轢居士報佛恩。復興祖佛道場。大禪師錦上鋪
+<lb ed="X" n="0783b12"/>花。跛道人&CB15148;龍點眼。長安風月貫今古。那箇男兒不
+<lb ed="X" n="0783b13"/>丈夫。阿呵呵。好大哥。</p>
+<lb ed="X" n="0783b14"/><div2 type="other"><mulu type="其他" level="2" label="未牧"/><head>未牧</head>
+<lb ed="X" n="0783b15"/><lg id="lgX64p0783b1501"><l>頭角崢獰恣意哮</l><l>溪山踏遍路迢遙</l>
+<lb ed="X" n="0783b16"/><l>牧童不把牛穿鼻</l><l>難保狂心不犯苗</l></lg></div2>
+<lb ed="X" n="0783b17"/><div2 type="other"><mulu type="其他" level="2" label="初調"/><head>初調</head>
+<lb ed="X" n="0783b18"/><lg id="lgX64p0783b1801"><l>繩頭在手鼻兒穿</l><l>性劣難調緊著鞭</l>
+<lb ed="X" n="0783b19"/><l>從此一番休放緩</l><l>牧童須是要頻牽</l></lg></div2>
+<lb ed="X" n="0783b20"/><div2 type="other"><mulu type="其他" level="2" label="受制"/><head>受制</head>
+<lb ed="X" n="0783b21"/><lg id="lgX64p0783b2101"><l>劣性調柔漸息馳</l><l>牽來步步<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>相隨</l>
+<lb ed="X" n="0783b22"/><l>牧童猶把精神抖</l><l>到此渾然不覺疲</l></lg></div2>
+<lb ed="X" n="0783b23"/><div2 type="other"><mulu type="其他" level="2" label="回首"/><head>回首</head>
+<lb ed="X" n="0783b24"/><lg id="lgX64p0783b2401"><l>顛狂心盡始回頭</l><l>功用無間牛自柔</l>
+<pb ed="X" id="X64.1271.0783c" n="0783c"/>
+<lb ed="X" n="0783c01"/><l>信手牽歸明月下</l><l>免從水草又停留</l></lg></div2>
+<lb ed="X" n="0783c02"/><div2 type="other"><mulu type="其他" level="2" label="馴伏"/><head>馴伏</head>
+<lb ed="X" n="0783c03"/><lg id="lgX64p0783c0301"><l>不計山邊與水邊</l><l>了然無事自安然</l>
+<lb ed="X" n="0783c04"/><l>森羅萬象渾閑事</l><l>從此牛兒不用牽</l></lg></div2>
+<lb ed="X" n="0783c05"/><div2 type="other"><mulu type="其他" level="2" label="無＆CB00515；"/><head>無&CB00515;</head>
+<lb ed="X" n="0783c06"/><lg id="lgX64p0783c0601"><l>獨露堂堂意自如</l><l>安眠穩坐<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>無拘</l>
+<lb ed="X" n="0783c07"/><l>牧童短笛閑拈弄</l><l>一曲橫吹樂有餘</l></lg></div2>
+<lb ed="X" n="0783c08"/><div2 type="other"><mulu type="其他" level="2" label="任運"/><head>任運</head>
+<lb ed="X" n="0783c09"/><lg id="lgX64p0783c0901"><l>識破元來只此中</l><l>閑花野草任茸茸</l>
+<lb ed="X" n="0783c10"/><l>東西南北無遮障</l><l>拍手高歌興正濃</l></lg></div2>
+<lb ed="X" n="0783c11"/><div2 type="other"><mulu type="其他" level="2" label="想妄"/><head>想妄</head>
+<lb ed="X" n="0783c12"/><lg id="lgX64p0783c1201"><l>白牛只在白雲中</l><l>渴飲饑&CB00290;總是同</l>
+<lb ed="X" n="0783c13"/><l>閑著山童石上立</l><l>此間那復問西東</l></lg></div2>
+<lb ed="X" n="0783c14"/><div2 type="other"><mulu type="其他" level="2" label="獨照"/><head>獨照</head>
+<lb ed="X" n="0783c15"/><lg id="lgX64p0783c1501"><l>牛兒無跡地閑閑</l><l>明月團圞只此間</l>
+<lb ed="X" n="0783c16"/><l>自有一雙窮相手</l><l>一拳直透萬重關</l></lg></div2>
+<lb ed="X" n="0783c17"/><div2 type="other"><mulu type="其他" level="2" label="雙泯"/><head>雙泯</head>
+<lb ed="X" n="0783c18"/><lg id="lgX64p0783c1801"><l>人牛俱泯杳無蹤</l><l>水在長江月在空</l>
+<lb ed="X" n="0783c19"/><l>猿抱子歸青嶂裡</l><l>鳥&CB03340;花落碧&CB04033;叢</l></lg></div2></div1>
+<lb ed="X" n="0783c20"/><div1 type="other"><mulu type="其他" level="1" label="無依道人和牧牛圖頌(徐諱昌治號覲周)"/><head>無依道人和牧牛圖頌<note place="inline">徐諱昌治號覲周</note></head>
+<lb ed="X" n="0783c21"/><div2 type="other"><mulu type="其他" level="2" label="未牧"/><head>未牧</head>
+<lb ed="X" n="0783c22"/><lg id="lgX64p0783c2201"><l>頭角未露一聲哮</l><l>自在縱橫去路遙</l>
+<lb ed="X" n="0783c23"/><l>黑白始分牝牡相</l><l>生來柔順長靈苗</l></lg></div2>
+<lb ed="X" n="0783c24"/><div2 type="other"><mulu type="其他" level="2" label="初調"/><head>初調</head>
+<pb ed="X" id="X64.1271.0784a" n="0784a"/>
+<lb ed="X" n="0784a01"/><lg id="lgX64p0784a0101"><l>順性今朝也受穿</l><l>何煩童子又加鞭</l>
+<lb ed="X" n="0784a02"/><l>線索在手隨時轉</l><l>到處風光無掛牽</l></lg></div2>
+<lb ed="X" n="0784a03"/><div2 type="other"><mulu type="其他" level="2" label="受制"/><head>受制</head>
+<lb ed="X" n="0784a04"/><lg id="lgX64p0784a0401"><l>踏著溪山便騁馳</l><l>朝行暮宿緊相隨</l>
+<lb ed="X" n="0784a05"/><l>一回飲水一回脹</l><l>悠悠負載不辭疲</l></lg></div2>
+<lb ed="X" n="0784a06"/><div2 type="other"><mulu type="其他" level="2" label="回首"/><head>回首</head>
+<lb ed="X" n="0784a07"/><lg id="lgX64p0784a0701"><l>堪悲烈性不回頭</l><l>幸得天生稟性柔</l>
+<lb ed="X" n="0784a08"/><l>遍界落花忘踐履</l><l>&CB00195;雲客路莫停留</l></lg></div2>
+<lb ed="X" n="0784a09"/><div2 type="other"><mulu type="其他" level="2" label="馴伏"/><head>馴伏</head>
+<lb ed="X" n="0784a10"/><lg id="lgX64p0784a1001"><l>不分內外與中邊</l><l>束縛無拘意灑然</l>
+<lb ed="X" n="0784a11"/><l>信步行來皆坦道</l><l>騰騰任運總無牽</l></lg></div2>
+<lb ed="X" n="0784a12"/><div2 type="other"><mulu type="其他" level="2" label="無＆CB00515；"/><head>無&CB00515;</head>
+<lb ed="X" n="0784a13"/><lg id="lgX64p0784a1301"><l>萬別千差性本如</l><l>超群惟此性無拘</l>
+<lb ed="X" n="0784a14"/><l>一身負荷皆全力</l><l>本分何曾有欠餘</l></lg></div2>
+<lb ed="X" n="0784a15"/><div2 type="other"><mulu type="其他" level="2" label="任運"/><head>任運</head>
+<lb ed="X" n="0784a16"/><lg id="lgX64p0784a1601"><l>暫爾息肩臥雲中</l><l>忽長新芽生意茸</l>
+<lb ed="X" n="0784a17"/><l>引重致遠隨意適</l><l>箇中獨步興偏濃</l></lg></div2>
+<lb ed="X" n="0784a18"/><div2 type="other"><mulu type="其他" level="2" label="相忘"/><head>相忘</head>
+<lb ed="X" n="0784a19"/><lg id="lgX64p0784a1901"><l>忽忘管帶太&CB00980;中</l><l>渴飲饑餐處處同</l>
+<lb ed="X" n="0784a20"/><l>物我盡捐知解淨</l><l>如日西升夜落東</l></lg></div2>
+<lb ed="X" n="0784a21"/><div2 type="other"><mulu type="其他" level="2" label="獨照"/><head>獨照</head>
+<lb ed="X" n="0784a22"/><lg id="lgX64p0784a2201"><l>得安閒處且安閒</l><l>不留轍跡在人間</l>
+<lb ed="X" n="0784a23"/><l>瞥爾英明了達去</l><l>踢倒銀山鐵壁關</l></lg></div2>
+<lb ed="X" n="0784a24"/><div2 type="other"><mulu type="其他" level="2" label="雙泯"/><head>雙泯</head>
+<pb ed="X" id="X64.1271.0784b" n="0784b"/>
+<lb ed="X" n="0784b01"/><lg id="lgX64p0784b0101"><l>隔墻清聽絕無&CB05114;</l><l>形影孤寒照碧空</l>
+<lb ed="X" n="0784b02"/><l>&CB00275;楞<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>過渾無事</l><l>又何精舍竹林叢</l></lg></div2></div1>
+<lb ed="X" n="0784b03"/><div1 type="other"><mulu type="其他" level="1" label="牧公道人項真本和牧牛圖頌"/><head>牧公道人項真本和牧牛圖頌</head>
+<lb ed="X" n="0784b04"/><div2 type="other"><mulu type="其他" level="2" label="未牧"/><head>未牧</head>
+<lb ed="X" n="0784b05"/><lg id="lgX64p0784b0501"><l>青山綠水恣咆哮</l><l>四顧三回路轉遙</l>
+<lb ed="X" n="0784b06"/><l>只管貪程為太速</l><l>何知日用犯佳苗</l></lg></div2>
+<lb ed="X" n="0784b07"/><div2 type="other"><mulu type="其他" level="2" label="初調"/><head>初調</head>
+<lb ed="X" n="0784b08"/><lg id="lgX64p0784b0801"><l>纔見牛兮驀鼻穿</l><l>麤浮習氣急加鞭</l>
+<lb ed="X" n="0784b09"/><l>那時掘強橫馳走</l><l>把定繩頭好一牽</l></lg></div2>
+<lb ed="X" n="0784b10"/><div2 type="other"><mulu type="其他" level="2" label="受制"/><head>受制</head>
+<lb ed="X" n="0784b11"/><lg id="lgX64p0784b1101"><l>四蹄今<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>息奔馳</l><l>放去收來無不隨</l>
+<lb ed="X" n="0784b12"/><l>且喜鞭繩猶把握</l><l>牧童何肯自為疲</l></lg></div2>
+<lb ed="X" n="0784b13"/><div2 type="other"><mulu type="其他" level="2" label="回首"/><head>回首</head>
+<lb ed="X" n="0784b14"/><lg id="lgX64p0784b1401"><l>溪山踏&CB00642;自回頭</l><l>熟處生時性漸柔</l>
+<lb ed="X" n="0784b15"/><l>鼻貫一條成底事</l><l>不勞腕力暫相留</l></lg></div2>
+<lb ed="X" n="0784b16"/><div2 type="other"><mulu type="其他" level="2" label="馴伏"/><head>馴伏</head>
+<lb ed="X" n="0784b17"/><lg id="lgX64p0784b1701"><l>左盤右轉碧溪邊</l><l>撇下鞭繩樂自然</l>
+<lb ed="X" n="0784b18"/><l>幾度綠楊歸夜月</l><l>山童高臥竟忘牽</l></lg></div2>
+<lb ed="X" n="0784b19"/><div2 type="other"><mulu type="其他" level="2" label="無＆CB00515；"/><head>無&CB00515;</head>
+<lb ed="X" n="0784b20"/><lg id="lgX64p0784b2001"><l>掉尾擎頭適自如</l><l>縱橫脫略有何拘</l>
+<lb ed="X" n="0784b21"/><l>悠然一曲寒崖上</l><l>短笛吹開物外餘</l></lg></div2>
+<lb ed="X" n="0784b22"/><div2 type="other"><mulu type="其他" level="2" label="任運"/><head>任運</head>
+<lb ed="X" n="0784b23"/><lg id="lgX64p0784b2301"><l>飢&CB00290;渴飲絕邊中</l><l>倦即和雲臥草茸</l>
+<lb ed="X" n="0784b24"/><l>驟步任教青嶂外</l><l>滿腔風月興偏濃</l></lg></div2>
+<pb ed="X" id="X64.1271.0784c" n="0784c"/>
+<lb ed="X" n="0784c01"/><div2 type="other"><mulu type="其他" level="2" label="相忘"/><head>相忘</head>
+<lb ed="X" n="0784c02"/><lg id="lgX64p0784c0201"><l>人牛共住此山中</l><l>動轉施為絕異同</l>
+<lb ed="X" n="0784c03"/><l>我本是渠渠即我</l><l>不知南北與西東</l></lg></div2>
+<lb ed="X" n="0784c04"/><div2 type="other"><mulu type="其他" level="2" label="獨照"/><head>獨照</head>
+<lb ed="X" n="0784c05"/><lg id="lgX64p0784c0501"><l>牛無方所牧童閒</l><l>懶把&CB00980;名落世間</l>
+<lb ed="X" n="0784c06"/><l>盡大地來無我我</l><l>不消彈指透重關</l></lg></div2>
+<lb ed="X" n="0784c07"/><div2 type="other"><mulu type="其他" level="2" label="雙泯"/><head>雙泯</head>
+<lb ed="X" n="0784c08"/><lg id="lgX64p0784c0801"><l>人牛兩盡沒形&CB05114;</l><l>今古相&CB05072;劫亦空</l>
+<lb ed="X" n="0784c09"/><l>本地風光一段事</l><l>歲寒松&CB00177;翠叢叢</l></lg></div2></div1>
+<lb ed="X" n="0784c10"/><div1 type="other"><mulu type="其他" level="1" label="巨徹禪師和牧牛圖頌(師諱寂暹)"/><head>巨徹禪師和牧牛圖頌<note place="inline">師諱寂暹</note></head>
+<lb ed="X" n="0784c11"/><div2 type="other"><mulu type="其他" level="2" label="未牧"/><head>未牧</head>
+<lb ed="X" n="0784c12"/><lg id="lgX64p0784c1201"><l>縱頑恃劣逞咆哮</l><l>遽隔鄉關十萬遙</l>
+<lb ed="X" n="0784c13"/><l>客路茫茫雲霧黑</l><l>無明草長蔽靈苗</l></lg></div2>
+<lb ed="X" n="0784c14"/><div2 type="other"><mulu type="其他" level="2" label="初調"/><head>初調</head>
+<lb ed="X" n="0784c15"/><lg id="lgX64p0784c1501"><l>爾慣狂馳我慣穿</l><l>一回繩繫幾回鞭</l>
+<lb ed="X" n="0784c16"/><l>拖泥帶水忘晨夕</l><l>痛徹心頭猛力牽</l></lg></div2>
+<lb ed="X" n="0784c17"/><div2 type="other"><mulu type="其他" level="2" label="受制"/><head>受制</head>
+<lb ed="X" n="0784c18"/><lg id="lgX64p0784c1801"><l>把定繩頭禁枉馳</l><l>行行住住緊相隨</l>
+<lb ed="X" n="0784c19"/><l>施為動轉憑渠力</l><l>從此心神爾不疲</l></lg></div2>
+<lb ed="X" n="0784c20"/><div2 type="other"><mulu type="其他" level="2" label="迴首"/><head>迴首</head>
+<lb ed="X" n="0784c21"/><lg id="lgX64p0784c2101"><l>繫轉從前這一頭</l><l>消融劣性至溫柔</l>
+<lb ed="X" n="0784c22"/><l>波光雲影香風度</l><l>柳岸花溪得意留</l></lg></div2>
+<lb ed="X" n="0784c23"/><div2 type="other"><mulu type="其他" level="2" label="馴伏"/><head>馴伏</head>
+<lb ed="X" n="0784c24"/><lg id="lgX64p0784c2401"><l>灑落殘山剩水邊</l><l>縱橫收放總恬然</l>
+<pb ed="X" id="X64.1271.0785a" n="0785a"/>
+<lb ed="X" n="0785a01"/><l>歸途坦蕩渾無滯</l><l>所欲從心了不牽</l></lg></div2>
+<lb ed="X" n="0785a02"/><div2 type="other"><mulu type="其他" level="2" label="無＆CB00515；"/><head>無&CB00515;</head>
+<lb ed="X" n="0785a03"/><lg id="lgX64p0785a0301"><l>霽月光風得晏如</l><l>牛閒何物可相拘</l>
+<lb ed="X" n="0785a04"/><l>山童箕踞長松下</l><l>一曲無生笛尚餘</l></lg></div2>
+<lb ed="X" n="0785a05"/><div2 type="other"><mulu type="其他" level="2" label="任運"/><head>任運</head>
+<lb ed="X" n="0785a06"/><lg id="lgX64p0785a0601"><l>閒閒不繫有無中</l><l>任運餐憑空翠茸</l>
+<lb ed="X" n="0785a07"/><l>野鳥競啼花競笑</l><l>黑甜石上味深濃</l></lg></div2>
+<lb ed="X" n="0785a08"/><div2 type="other"><mulu type="其他" level="2" label="相忘"/><head>相忘</head>
+<lb ed="X" n="0785a09"/><lg id="lgX64p0785a0901"><l>白淨牛全在個中</l><l>渾忘爾我本然同</l>
+<lb ed="X" n="0785a10"/><l>溪山是處堪憑眺</l><l>南北無拘西與東</l></lg></div2>
+<lb ed="X" n="0785a11"/><div2 type="other"><mulu type="其他" level="2" label="獨照"/><head>獨照</head>
+<lb ed="X" n="0785a12"/><lg id="lgX64p0785a1201"><l>生涯廓徹賣清閒</l><l>空手高&CB01769;到此間</l>
+<lb ed="X" n="0785a13"/><l>滿口難&CB05072;無比價</l><l>幾人買過劫前關</l></lg></div2>
+<lb ed="X" n="0785a14"/><div2 type="other"><mulu type="其他" level="2" label="雙泯"/><head>雙泯</head>
+<lb ed="X" n="0785a15"/><lg id="lgX64p0785a1501"><l>韜光晦&CB00528;絕遺蹤</l><l>不二人牛泯太空</l>
+<lb ed="X" n="0785a16"/><l>無極香風流劫外</l><l>莫教蜂蝶誤花叢</l></lg></div2></div1>
+<lb ed="X" n="0785a17"/><div1 type="other"><mulu type="其他" level="1" label="巨徹禪師和白牛圖頌(師諱寂暹)"/><head>巨徹禪師和白牛圖頌<note place="inline">師諱寂暹</note></head>
+<lb ed="X" n="0785a18"/><div2 type="other"><mulu type="其他" level="2" label="失牛(白牛在西面西童子在東面東)"/><head>失牛<note place="inline">白牛在西面西。童子在東面東。</note></head>
+<lb ed="X" n="0785a19"/><lg id="lgX64p0785a1901"><l>牛尚牛兮童尚童</l><l>童牛背向各西東</l>
+<lb ed="X" n="0785a20"/><l>纖塵不隔何霄壤</l><l>曠劫來今枉自懵</l></lg></div2>
+<lb ed="X" n="0785a21"/><div2 type="other"><mulu type="其他" level="2" label="尋牛(主人問牛所在童子茫然失措更有一人自西而來以手遙指)"/><head>尋牛<note place="inline">主人問牛所在。童子茫然失措。更有一人自西而來。以手遙指。</note></head>
+<lb ed="X" n="0785a22"/><lg id="lgX64p0785a2201"><l>忽向山童問白牛</l><l>山童罔措不知求</l>
+<lb ed="X" n="0785a23"/><l>傍人識得牛蹤跡</l><l>指點山童急轉頭</l></lg></div2>
+<lb ed="X" n="0785a24"/><div2 type="other"><mulu type="其他" level="2" label="見＆CB00528；(童子向西急走田中多見牛跡)"/><head>見&CB00528;<note place="inline">童子向西急走。田中多見牛跡。</note></head>
+<pb ed="X" id="X64.1271.0785b" n="0785b"/>
+<lb ed="X" n="0785b01"/><lg id="lgX64p0785b0101"><l>堤回陌轉向溪西</l><l>一路深蹄間淺蹄</l>
+<lb ed="X" n="0785b02"/><l>端的新知尋舊識</l><l>人牛到此兩無迷</l></lg></div2>
+<lb ed="X" n="0785b03"/><div2 type="other"><mulu type="其他" level="2" label="見牛(白牛穩臥田中童子遙見歡喜)"/><head>見牛<note place="inline">白牛穩臥田中。童子遙見歡喜。</note></head>
+<lb ed="X" n="0785b04"/><lg id="lgX64p0785b0401"><l>行盡山村過水村</l><l>草中忽見白牛蹲</l>
+<lb ed="X" n="0785b05"/><l>欣欣穩步方輕快</l><l>喘息初調與細論</l></lg></div2>
+<lb ed="X" n="0785b06"/><div2 type="other"><mulu type="其他" level="2" label="得牛(白牛從容起立童子喜撫其背)"/><head>得牛<note place="inline">白牛從容起立。童子喜撫其背。</note></head>
+<lb ed="X" n="0785b07"/><lg id="lgX64p0785b0701"><l>&CB02494;涉溪山豈憚勞</l><l>白牛頓獲價彌高</l>
+<lb ed="X" n="0785b08"/><l>快心久別重相契</l><l>善撫從容喜伏弢</l></lg></div2>
+<lb ed="X" n="0785b09"/><div2 type="other"><mulu type="其他" level="2" label="護牛(童子閒坐石上白牛飲＆CB00589；自適)"/><head>護牛<note place="inline">童子閒坐石上。白牛飲&CB00589;自適。</note></head>
+<lb ed="X" n="0785b10"/><lg id="lgX64p0785b1001"><l>牛適人閒&CB00230;瘦肥</l><l>風清月白久忘飢</l>
+<lb ed="X" n="0785b11"/><l>幽香野綠盈山谷</l><l>幾度朝暉映夕暉</l></lg></div2>
+<lb ed="X" n="0785b12"/><div2 type="other"><mulu type="其他" level="2" label="騎歸(夕陽在山白牛歸宿童跨牛背吹笛自樂)"/><head>騎歸<note place="inline">夕陽在山。白牛歸宿。童跨牛背。吹笛自樂。</note></head>
+<lb ed="X" n="0785b13"/><lg id="lgX64p0785b1301"><l>放曠騎歸世所稀</l><l>柳絲鞭影任風揮</l>
+<lb ed="X" n="0785b14"/><l>山童吹徹無生曲</l><l>笛韻餘暉入禁闈</l></lg></div2>
+<lb ed="X" n="0785b15"/><div2 type="other"><mulu type="其他" level="2" label="忘牛(明月在天牧童拍手自歌)"/><head>忘牛<note place="inline">明月在天。牧童拍手自歌。</note></head>
+<lb ed="X" n="0785b16"/><lg id="lgX64p0785b1601"><l>白牯渾忘無剩蹤</l><l>&CB00565;狂牧&CB00594;嘯孤&CB00123;</l>
+<lb ed="X" n="0785b17"/><l>山河倒映蟾蜍轉</l><l>玉露泠泠光影重</l></lg></div2>
+<lb ed="X" n="0785b18"/><div2 type="other"><mulu type="其他" level="2" label="雙泯(人牛俱不見惟一圓相)"/><head>雙泯<note place="inline">人牛俱不見。惟一圓相。</note></head>
+<lb ed="X" n="0785b19"/><lg id="lgX64p0785b1901"><l>樓閣重重彈指開</l><l>本無餘欠七般財</l>
+<lb ed="X" n="0785b20"/><l>空傳五十三家醜</l><l>泯&CB00230;人牛大夢回</l></lg></div2>
+<lb ed="X" n="0785b21"/><div2 type="other"><mulu type="其他" level="2" label="入廛(童子向東前行白牛相隨在後)"/><head>入廛<note place="inline">童子向東前行。白牛相隨在後。</note></head>
+<lb ed="X" n="0785b22"/><lg id="lgX64p0785b2201"><l>賣弄閒閒白牯牛</l><l>入廛垂手恣遨遊</l>
+<lb ed="X" n="0785b23"/><l>同流九界慈風度</l><l>心佛眾生無別求</l></lg></div2></div1>
+</body></text></TEI.2>

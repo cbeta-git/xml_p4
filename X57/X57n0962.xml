@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X57n0962.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 962 不可剎那無此君</title>
+			<author>宋 義銛述</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.5 $ (Big5)<date>$Date: 2009/04/22 09:00:45 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:00:45 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 57, No. 962 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/06/06 13:40:32</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X57n0962.xml,v $
+Revision 1.5  2009/04/22 09:00:45  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.4  2005/11/30 06:34:31  amtbgrace
+modified: 執行全部 mulu.py, 取消自訂目錄的全形括號
+
+Revision 1.3  2005/07/06 01:49:09  eva
+modified: 依note.txt修訂及目錄檢查
+
+Revision 1.2  2005/06/06 05:48:07  edith
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X57.0962.0121b" n="0121b"/>
+<lb ed="X" n="0121b01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0121b02"/>
+<lb ed="X" n="0121b03"/><head type="no">No. 962</head>
+<lb ed="X" n="0121b04"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>不可剎那無此君</jhead></juan>
+<lb ed="X" n="0121b05"/>
+<lb ed="X" n="0121b06"/><byline type="author">宋達磨山沙門　義銛　述</byline>
+<lb ed="X" n="0121b07"/><div1 type="other"><mulu type="其他" level="1" label="不可剎那無此君"/><lg id="lgX57p0121b0701"><l>空蕩&CB17187;立中絕對</l><l>此乃天然體上名</l>
+<lb ed="X" n="0121b08"/><l>俱破俱立俱法界</l><l>此乃天然名下體</l>
+<lb ed="X" n="0121b09"/><l>體不二故體常融</l><l>名非濫故名常定</l>
+<lb ed="X" n="0121b10"/><l>空彰蕩德三俱破</l><l>三千三諦是相如</l>
+<lb ed="X" n="0121b11"/><l>假彰建德三俱立</l><l>三千三諦如是相</l>
+<lb ed="X" n="0121b12"/><l>中彰妙德俱法界</l><l>三千三諦相如是</l>
+<lb ed="X" n="0121b13"/><l>界蹄十如三世界</l><l>事理因果依正盡</l>
+<lb ed="X" n="0121b14"/><l>三周正體不出此</l><l>只在平常一念中</l>
+<lb ed="X" n="0121b15"/><l>終窮究畢光極談</l><l>甚深境界不思議</l>
+<lb ed="X" n="0121b16"/><l>以此為境曰妙境</l><l>三千三諦非他物</l>
+<lb ed="X" n="0121b17"/><l>以此為觀曰妙觀</l><l>三千三諦皆本無</l>
+<lb ed="X" n="0121b18"/><l>境即觀故能所忘</l><l>是故初乘不名觀</l>
+<lb ed="X" n="0121b19"/><l>境觀難思何所用</l><l>只要剎那&CB00980;妄融</l>
+<lb ed="X" n="0121b20"/><l>妄心融處真亦亡</l><l>一牧了事隨緣漢</l>
+<lb ed="X" n="0121b21"/><l>善惡都不思量著</l><l>任運惡滅而成善</l>
+<lb ed="X" n="0121b22"/><l>無用心處願行增</l><l>一超直入如來地</l>
+<lb ed="X" n="0121b23"/><l>&CB02852;不成團劈不開</l><l>看來看去只成獃</l>
+<lb ed="X" n="0121b24"/><l>若能親到獃田地</l><l>三觀元來是禍胎</l></lg></div1>
+<pb ed="X" id="X57.0962.0121c" n="0121c"/>
+<lb ed="X" n="0121c01"/><div1 type="xu"><mulu type="序" level="1" label="No. 962-A"/><head>No. 962-A</head>
+<lb ed="X" n="0121c02"/><div2 type="other"><mulu type="其他" level="2" label="前文"/><p id="pX57p0121c0201" rend="margin-left:1em">元享釋書<note place="inline">十三年戒</note>泉涌寺俊&CB01206;傳曰山陰義銛述不
+<lb ed="X" n="0121c03"/>可剎那無此君贈&CB01206;銛號朴翁內外兼明禪教并
+<lb ed="X" n="0121c04"/>通可謂會稽名士葛天民字無懷者也。</p></div2></div1>
+<lb ed="X" n="0121c05"/>
+<lb ed="X" n="0121c06"/><div1><p id="pX57p0121c0601" rend="margin-left:1em">叡山沙門秀雲不可剎那無此君纂註曰華嚴疏
+<lb ed="X" n="0121c07"/>曰般若能成萬行何法而不用之寂照盡於理極
+<lb ed="X" n="0121c08"/>不得一行無此君耳所以開即萬行森然泯則一
+<lb ed="X" n="0121c09"/>不為一得意即無所不通耳鈔曰言一得一行無
+<lb ed="X" n="0121c10"/>此君者借外典語晉書中說王獻之好竹到處即
+<lb ed="X" n="0121c11"/>皆樹之人問其故答曰人生不得一日無此君耳
+<lb ed="X" n="0121c12"/>意在&CB00980;心貞節歲寒不移今明萬行不得暫時而
+<lb ed="X" n="0121c13"/>無般若雲按清涼云王獻之誤也蓋徽之之事也
+<lb ed="X" n="0121c14"/>徽之義之子而獻之兄也晉書列傳第五十曰王
+<lb ed="X" n="0121c15"/>徽之字子猷嘗寄居空居中便令種竹或問其故
+<lb ed="X" n="0121c16"/>徽之但嘯詠指竹曰何可一日無此君耶本按瀛
+<lb ed="X" n="0121c17"/>奎律髓夏日載葛無懷詩曰僧義銛字朴翁以事
+<lb ed="X" n="0121c18"/>還俗葛其姓無懷號也今錄律髓所載朴翁詩<note place="inline">七首</note>
+<lb ed="X" n="0121c19"/>于此。</p>
+<lb ed="X" n="0121c20"/><div2 type="other"><mulu type="其他" level="2" label="朴翁詩七首"/><div3 type="other"><mulu type="其他" level="3" label="郊原避暑曰"/><head>郊原避暑曰</head>
+<lb ed="X" n="0121c21"/><lg id="lgX57p0121c2101"><l>有暑猶當避</l><l>無憂可得忘</l><l>竹&CB00520;身共瘦</l>
+<lb ed="X" n="0121c22"/><l>湖近意先涼</l><l>靜勝寧須奕</l><l>幽朗不待觴</l>
+<lb ed="X" n="0121c23"/><l>還同殘夢樂</l><l>炙背負朝陽</l></lg></div3>
+<lb ed="X" n="0121c24"/><div3 type="other"><mulu type="其他" level="3" label="夏日曰"/><head>夏日曰</head>
+<pb ed="X" id="X57.0962.0122a" n="0122a"/>
+<lb ed="X" n="0122a01"/><lg id="lgX57p0122a0101"><l>曉荷承墜露</l><l>晚岫障斜陽</l><l>樹下地常蔭</l>
+<lb ed="X" n="0122a02"/><l>水邊風景&CB00289;</l><l>蟬移驚鵲近</l><l>鷺超得魚忙</l>
+<lb ed="X" n="0122a03"/><l>獨坐觀群動</l><l>閑消夏日長</l></lg></div3>
+<lb ed="X" n="0122a04"/><div3 type="other"><mulu type="其他" level="3" label="湖提晚步曰"/><head>湖提晚步曰</head>
+<lb ed="X" n="0122a05"/><lg id="lgX57p0122a0501"><l>照影怜寒水</l><l>關情奈夕陽</l><l>雪慳天欠冷</l>
+<lb ed="X" n="0122a06"/><l>年近曰添長</l><l>好句誰相寄</l><l>浮生各自忙</l>
+<lb ed="X" n="0122a07"/><l>有身聊頓放</l><l>無事可思量</l></lg></div3>
+<lb ed="X" n="0122a08"/><div3 type="other"><mulu type="其他" level="3" label="訪端叔提幹曰"/><head>訪端叔提幹曰</head>
+<lb ed="X" n="0122a09"/><lg id="lgX57p0122a0901"><l>水趁潮頭行</l><l>山隨柁尾行</l><l>大江中夜滿</l>
+<lb ed="X" n="0122a10"/><l>雙櫓半空鳴</l><l>雁冷來無幾</l><l>鷗清睡不成</l>
+<lb ed="X" n="0122a11"/><l>平生師友地</l><l>此夕最關情</l></lg></div3>
+<lb ed="X" n="0122a12"/><div3 type="other"><mulu type="其他" level="3" label="雪夜曰"/><head>雪夜曰</head>
+<lb ed="X" n="0122a13"/><lg id="lgX57p0122a1301"><l>冷&CB03724;通幽信</l><l>孤山欠幾遭</l><l>杯因寒更滿</l>
+<lb ed="X" n="0122a14"/><l>句到淡方高</l><l>雪滴晴檐雨</l><l>松翻夜壑濤</l>
+<lb ed="X" n="0122a15"/><l>布衾雖仍鐵</l><l>猶念早趨朝</l></lg></div3>
+<lb ed="X" n="0122a16"/><div3 type="other"><mulu type="其他" level="3" label="宿裴菴曰"/><head>宿裴菴曰</head>
+<lb ed="X" n="0122a17"/><lg id="lgX57p0122a1701"><l>一徑松杉迴</l><l>成陰見日稀</l><l>山晴僧盡出</l>
+<lb ed="X" n="0122a18"/><l>風暖燕交飛</l><l>結子華拋樹</l><l>欄人犬護扉</l>
+<lb ed="X" n="0122a19"/><l>閑看山月上</l><l>清坐更添衣</l></lg></div3>
+<lb ed="X" n="0122a20"/><div3 type="other"><mulu type="其他" level="3" label="小亭曰"/><head>小亭曰</head>
+<lb ed="X" n="0122a21"/><lg id="lgX57p0122a2101"><l>小亭終日對幽叢</l><l>兀坐無言似定中</l>
+<lb ed="X" n="0122a22"/><l>蒼鮮靜連湘竹紫</l><l>綠陰深映蜀葵紅</l>
+<lb ed="X" n="0122a23"/><l>&CB00339;來戲捉穿華蝶</l><l>&CB15179;下偷銜卷葉蟲</l>
+<lb ed="X" n="0122a24"/><l>斜照尚多高柳少</l><l>明年更欲種梧桐</l></lg></div3></div2></div1>
+</body></text></TEI.2>

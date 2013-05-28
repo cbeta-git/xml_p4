@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X01n0028.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 028 造像量度經</title>
+			<author>清 工布查布譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.3 $ (Big5)<date>$Date: 2009/04/22 08:48:29 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:48:29 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 01, No. 028 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/10/03 09:13:11</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X01n0028.xml,v $
+Revision 1.3  2009/04/22 08:48:29  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.2  2005/10/03 02:43:14  ray
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X01.0028.0454c" n="0454c"/>
+<lb ed="X" n="0454c01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0454c02"/>
+<lb ed="X" n="0454c03"/>
+<lb ed="X" n="0454c04"/>
+<lb ed="X" n="0454c05"/><head type="no">No. 28</head>
+<lb ed="X" n="0454c06"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>佛說造像量度經</jhead></juan>
+<lb ed="X" n="0454c07"/>
+<lb ed="X" n="0454c08"/><byline type="translator">大清內閣掌譯番蒙諸文西番學總管儀賓
+<lb ed="X" n="0454c09"/>　工布查布　譯</byline>
+<lb ed="X" n="0454c10"/><div1><p id="pX01p0454c1001">如是我聞。一時佛在舍衛國。祇樹給孤獨園。與諸菩
+<lb ed="X" n="0454c11"/>薩聲聞弟子。一切人天龍神。無量眷屬大眾俱。正乃
+<lb ed="X" n="0454c12"/>世尊。因為母說法。將升忉利天土時也。爾時賢者舍
+<lb ed="X" n="0454c13"/>利弗。向佛敬禮而作是言。世尊不住斯間。若有善人
+<lb ed="X" n="0454c14"/>不勝懷慕。思&CB00418;世尊。願造容像者。則其法如何為之。
+<lb ed="X" n="0454c15"/>佛言。善哉舍利弗。我今暫升天土。未旋斯間。或示無
+<lb ed="X" n="0454c16"/>餘涅槃之後。若有善人。思&CB00418;瞻仰。及為自他利益作
+<lb ed="X" n="0454c17"/>福田故。願造容像者。則須遵準量度法為之。如來身
+<lb ed="X" n="0454c18"/>量。縱廣相稱。如尼拘&CB02744;<note place="inline">二合</note>陀樹。滿自一尋。今其體肢
+<lb ed="X" n="0454c19"/>大小節分。豎橫制度。起從頂髻。略說於汝。諦聽。善思
+<lb ed="X" n="0454c20"/>念之。於是世尊即說伽陀曰。</p>
+<lb ed="X" n="0454c21"/><p id="pX01p0454c2101">以自手指量。百有二十指。肉髻崇四指。髮際亦如此。
+<lb ed="X" n="0454c22"/>面輪豎縱度。帶半十二指。分三為額鼻。及頦俱得一。
+<lb ed="X" n="0454c23"/>下分四指半。頦身只二指。廣向十六足。深分逕四指。
+<lb ed="X" n="0454c24"/>上唇長二指。寬有其半矣。中顯頻婆形。邊角各一指。
+<pb ed="X" id="X01.0028.0455a" n="0455a"/>
+<lb ed="X" n="0455a01"/>口長度四指。賢者須要知。牙齒數四十。堅密白淨齊。
+<lb ed="X" n="0455a02"/>下唇長六足。寬深亦如是。人中凹槽闊。三分指之一。
+<lb ed="X" n="0455a03"/>鼻寬二指量。準高指半矣。鼻孔圓且藏。竅闊有半指。
+<lb ed="X" n="0455a04"/>雙翅勻真圓。鼻柱橫半指。目間曠八足。長分應四指。
+<lb ed="X" n="0455a05"/>白黑睛三分。各分得滿指。黑珠作五分。正中是眸子。
+<lb ed="X" n="0455a06"/>眼寬只一足。其胞有三指。式如蓮花瓣。清瑩金精色。
+<lb ed="X" n="0455a07"/>印堂白毫地。廣帶半一指。眉如初月牙。中高長四指。
+<lb ed="X" n="0455a08"/>耳廣有二指。尖等眉中齊。洞明寬四足。竅孔得半指。
+<lb ed="X" n="0455a09"/>耳朵高四麥。橫分應滿指。耳內上下略。四分指之一。
+<lb ed="X" n="0455a10"/>連槽深分總。二指加半指。耳葉四指半。耳垂長五指。
+<lb ed="X" n="0455a11"/>輪郭髮際邊。可愛盡難比。首圍面三倍。如寶&CB00582;適意。
+<lb ed="X" n="0455a12"/>兩耳面相去。十有八布指。復其背後間。相去十四指。
+<lb ed="X" n="0455a13"/>合較週匝度。三十有六指。頸瓶廣八指。圓二十四指。
+<lb ed="X" n="0455a14"/>頸邊至肩甲。平量十二指。手長總四&CB00250;。臑長二十指。
+<lb ed="X" n="0455a15"/>臂有十六指。巨週亦如此。肩尖圓且滿。根圍二十四。
+<lb ed="X" n="0455a16"/>從起中指尖。手頭正一&CB00250;。掌縱應七指。廣分是五指。
+<lb ed="X" n="0455a17"/>掌肉平飽滿。滋潤光滑赤。顯諸吉祥紋。螺輪華&CB00424;飾。
+<lb ed="X" n="0455a18"/>將指之長分。前面得五指。此指梢節中。食指之尖至。
+<lb ed="X" n="0455a19"/>屈指之長分。比將矮半指。小梅指頭尖。至屈末半節。
+<lb ed="X" n="0455a20"/>四皆具三節。甲&CB00582;半節矣。巨指長四指。其週亦如是。
+<lb ed="X" n="0455a21"/>此指只兩節。甲遮如前矣。巨指食指根。相去應三指。
+<lb ed="X" n="0455a22"/>小指根以下。四指半至基。項心&CB01001;乳間。帶半十二指。
+<lb ed="X" n="0455a23"/>自乳尖至腋。平量六指矣。兩腋相去度。二十有五指。
+<lb ed="X" n="0455a24"/>胸堂週圍繞。正五十六指。自從雙乳絣。十六指至&CB01001;。
+<pb ed="X" id="X01.0028.0455b" n="0455b"/>
+<lb ed="X" n="0455b01"/>&CB01001;圓有摺旋。深闊皆一指。此處腰圍繞。四十有八指。
+<lb ed="X" n="0455b02"/>髀樞邊向裏。平量廿四指。從&CB01001;至陰藏。滿&CB00250;加半指。
+<lb ed="X" n="0455b03"/>陰藏如馬王。密囊有四指。股奘三十二。長二十五指。
+<lb ed="X" n="0455b04"/>近膝圍繞度。二十有八指。連節膝四指。踝骨縱三指。
+<lb ed="X" n="0455b05"/>鹿&CB00165;纖圓直。長二十五指。中間週圍繞。二十有一指。
+<lb ed="X" n="0455b06"/>踝圍十四指。其邊寬二指。以下四指踵。凸闊得三指。
+<lb ed="X" n="0455b07"/>足底豎一&CB00250;。厚分有二指。四指俱三節。甲遮末半矣。
+<lb ed="X" n="0455b08"/>將指惟二節。圍繞五指是。長度滿三指。食指亦如是。
+<lb ed="X" n="0455b09"/>十六次八分。中屈及小指。大指厚六足。餘漸止滿指。
+<lb ed="X" n="0455b10"/>指根連縵網。趺高如龜背。掌平滿柔&CB00365;。滋潤色丹赤。
+<lb ed="X" n="0455b11"/>輪螺吉祥字。諸妙相深微。如是如來相。一切福德備。</p>
+<lb ed="X" n="0455b12"/><p id="pX01p0455b1201">佛說此經<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。賢者舍利弗。及諸弟子。一切大眾。聞佛
+<lb ed="X" n="0455b13"/>所說。皆大歡喜。信受奉行。</p>
+<lb ed="X" n="0455b14"/>
+<lb ed="X" n="0455b15"/><juan fun="close" n="1"><jhead>佛說造像量度經</jhead></juan></div1>
+</body></text></TEI.2>

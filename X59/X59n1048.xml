@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X59n1048.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1048 持咒仙人飛&CB00425;儀軌</title>
+			<author>唐 不空拔出</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.5 $ (Big5)<date>$Date: 2009/04/22 09:01:10 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:01:10 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 59, No. 1048 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/06/13 08:44:29</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X59n1048.xml,v $
+Revision 1.5  2009/04/22 09:01:10  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.4  2007/08/29 06:38:31  amtbgrace
+modified: 校注插入 XML 作業完成
+
+Revision 1.3  2005/06/13 00:49:03  edith
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X59.1048.0046a" n="0046a"/>
+<lb ed="X" n="0046a01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0046a02"/><head type="no">No. 1048</head>
+<lb ed="X" n="0046a03"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>持&CB00057;仙人飛&CB00425;儀軌</jhead></juan>
+<lb ed="X" n="0046a04"/>
+<lb ed="X" n="0046a05"/><byline type="other">大興善寺沙門　不空　拔出</byline>
+<lb ed="X" n="0046a06"/><div1><p id="pX59p0046a0601">大阿闍梨云若有善男子善女人欲清淨加行飛轉
+<lb ed="X" n="0046a07"/>應器以作佛事者先擇深山幽谷薜蘿<note n="0046001" resp="Xuzangjing" place="foot text" type="orig">&CB17262;疑茯</note>&CB17262;泠柔草遍
+<lb ed="X" n="0046a08"/>地靈禽奇獸之所鳩集仙人飛翔賢聖優達幽遠之
+<lb ed="X" n="0046a09"/>地與人求絕將世猒避當取粳米一斗百日子持之
+<lb ed="X" n="0046a10"/>安住高山雲&CB00123;若地形體猶如覆&CB00425;若如仰&CB00425;若幽
+<lb ed="X" n="0046a11"/>巖之內無人絕處先四十九日齋戒次一曰斷食次
+<lb ed="X" n="0046a12"/>三日斷食次食于米日一合待粳米盡其滿清淨作
+<lb ed="X" n="0046a13"/>法持誦金剛闍黎八大龍王真言隨力誦之不得忽
+<lb ed="X" n="0046a14"/>忽日日夜夜呼大龍王之名字所謂難陀龍王拔難
+<lb ed="X" n="0046a15"/>陀龍王娑竭羅龍王和修吉龍王德叉迦龍王阿那
+<lb ed="X" n="0046a16"/>婆達多龍王是八大龍王斯持&CB00057;仙人之所乘也隨
+<lb ed="X" n="0046a17"/>從一切練行沙門&CB00502;使隨命能以其&CB00425;三千大千世
+<lb ed="X" n="0046a18"/>界一時奔迴隨行者念若至欲界六天色界十八天
+<lb ed="X" n="0046a19"/>無色界四空處乃至他方無邊世界順臾往還若至
+<lb ed="X" n="0046a20"/>大自在天大梵天帝釋天王之前及大轉輪王小輪
+<lb ed="X" n="0046a21"/>王十六國王五千小國粟散諸王之宮殿后妃王子
+<lb ed="X" n="0046a22"/>公主大臣百官諸臣之家等示行者之所欲行通往
+<lb ed="X" n="0046a23"/>來現大神變降伏邪見眾生如是自在皆是龍王威
+<lb ed="X" n="0046a24"/>力也是故一心必所護持莫作散心我今當說其真
+<pb ed="X" id="X59.1048.0046b" n="0046b"/>
+<lb ed="X" n="0046b01"/>言。</p>
+<lb ed="X" n="0046b02"/><p id="pX59p0046b0201" type="dharani">曩莫三曼多母&CB00499;喃難徒優婆難徒曳莎婆訶</p>
+<lb ed="X" n="0046b03"/><p id="pX59p0046b0301">當誦是真言滿三洛叉時大海龍王阿耨達龍王一
+<lb ed="X" n="0046b04"/>切諸大龍王<note n="0046002" resp="Xuzangjing" place="foot text" type="orig">一等六字疑衍</note>一切諸大龍王皆現人形來集行者苦
+<lb ed="X" n="0046b05"/>行之處叉手伏地歸命頂禮當于時以&CB00425;覆地七遍
+<lb ed="X" n="0046b06"/>&CB00057;之龍王捧之將<note n="0046003" resp="Xuzangjing" place="foot text" type="orig">玄字更勘</note>玄三千大千世界天上地下乃至
+<lb ed="X" n="0046b07"/>阿修羅宮&CB01495;來山藥行者服之命得千歲從此以後
+<lb ed="X" n="0046b08"/>隨心現大神變自在神通威德一時具足一切天龍
+<lb ed="X" n="0046b09"/>王魔王人王皆來歸依若&CB00057;&CB00425;時不速飛者誦催之
+<lb ed="X" n="0046b10"/>&CB00057;真言曰。</p>
+<lb ed="X" n="0046b11"/><p id="pX59p0046b1101" type="dharani">曩莫三曼多母&CB00499;喃<note place="inline">一</note>唵難徒優婆難徒曳<note place="inline">二</note>緊旨
+<lb ed="X" n="0046b12"/>羅拽徒<note place="inline">三</note>&CB00425;哩布囉野<note place="inline">四</note>緊迦羅&CB00718;娑&CB00085;<note place="inline">二合</note>&CB00425;羅<note place="inline">二合</note>
+<lb ed="X" n="0046b13"/>底尾然<note place="inline">五</note>娑&CB00085;<note place="inline">二合</note>賀</p>
+<lb ed="X" n="0046b14"/><p id="pX59p0046b1401">誦是真言龍王<note n="0046004" resp="Xuzangjing" place="foot text" type="orig">達疑速</note>達來起大勇猛速疾強力頂&CB00425;飛馳
+<lb ed="X" n="0046b15"/>一念之間至十方界隨緣化人我今當誦龍王印明
+<lb ed="X" n="0046b16"/>相以其左右掌更互而相加法速成就莫作疑念如
+<lb ed="X" n="0046b17"/>是祕法昔大仙人常所執持現大神力若有人依行
+<lb ed="X" n="0046b18"/>是法正月五月九月白月一日八日十四日十五日
+<lb ed="X" n="0046b19"/>黑月二十三日二十九日三十日清淨洗浴著新淨
+<lb ed="X" n="0046b20"/>衣坐白茅上堅固齋戒不食一切五辛不淨魚肉之
+<lb ed="X" n="0046b21"/>類不緣女境遠離一切世間散亂煩惱至清淨無人
+<lb ed="X" n="0046b22"/>處作茅菴室獨好閑靜唯食草葉木&CB00031;石&CB03972;等之類
+<lb ed="X" n="0046b23"/>日夜誦&CB00057;未至三年得遣空&CB00425;莫誦他&CB00057;莫作攀緣
+<lb ed="X" n="0046b24"/>一向一心唯誦一&CB00057;莫事不辨所得福報莫作慳貪
+<pb ed="X" id="X59.1048.0046c" n="0046c"/>
+<lb ed="X" n="0046c01"/>遍施眾生廣作佛事若作貪心伸不復隨&CB00425;不得飛
+<lb ed="X" n="0046c02"/>行者能慎莫作懈怠。</p>
+<lb ed="X" n="0046c03"/>
+<lb ed="X" n="0046c04"/><juan fun="close" n="1"><jhead>飛&CB00425;儀軌</jhead></juan>
+<lb ed="X" n="0046c05"/>
+<lb ed="X" n="0046c06"/><div2 type="w"><p id="pX59p0046c0601" rend="margin-left:5em;text-indent:-5em">承久二年正月七日於無動寺　大乘院僧正
+<lb ed="C X" n="0046c07"/>首尾傳受了　道覺</p>
+<lb ed="X" n="0046c08"/><p id="pX59p0046c0801">文政五年壬午春三月以東叡山真如院藏本令
+<lb ed="X" n="0046c09"/>書寫之自午一挍畢　龍肝</p></div2></div1>
+</body></text></TEI.2>

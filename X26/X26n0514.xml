@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X26n0514.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 514 仁王經疏會本</title>
+			<author>隋 智顗說　灌頂記　清 成蓮合</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.4 $ (Big5)<date>$Date: 2009/04/22 08:54:10 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:54:10 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 26, No. 514 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2006/08/01 10:22:59</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X26n0514.xml,v $
+Revision 1.4  2009/04/22 08:54:10  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.3  2007/06/26 01:35:09  amtbgrace
+modified: 卍續藏校注插入xml 作業
+
+Revision 1.2  2006/08/02 07:21:34  amtbgrace
+modified: 檢查 milestone,修定位置在 p0189b14
+
+Revision 1.1  2006/08/01 02:26:54  ray
+basicx 程式 轉自 簡單標記版
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X26.0514.0189a" n="0189a"/>
+<lb ed="X" n="0189a01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0189a02"/><div1 type="xu"><mulu type="序" level="1" label="No. 514-A 會刻仁王護國般若經疏序"/><head>No. 514-A
+<lb ed="X" n="0189a03"/> <note n="0189001" resp="Xuzangjing" place="foot text" type="orig">此會本粗同道霈合疏故單揭序文省本文</note>會刻仁王護國般若經疏序</head>
+<lb ed="X" n="0189a04"/>
+<lb ed="X" n="0189a05"/><p id="pX26p0189a0501">仁王護國般若經者。乃八部般若之結經也。夫般若
+<lb ed="X" n="0189a06"/>之談。時長理詣。莫不蕩空釋滯。絕想袪情。良由眾生
+<lb ed="X" n="0189a07"/>迷執久固。真性難顯。故佛且不揀善惡垢淨性相。一
+<lb ed="X" n="0189a08"/>切訶破。雖真性及妙用不無。而姑云無。直待情忘理
+<lb ed="X" n="0189a09"/>喪。纖毫不容。然後引出匿王之問端。高張五忍之法
+<lb ed="X" n="0189a10"/>網。婆心徹底。巧運錐鎚。密接通別之初機。淘鎔凡聖
+<lb ed="X" n="0189a11"/>之玄路。來至法華開顯。領付家業。點示般若之離相。
+<lb ed="X" n="0189a12"/>咸成諸法之實相。究論實相之功。功由般若。般若之
+<lb ed="X" n="0189a13"/>要。要當妙悟。故曰無量義者。從一法生。是也。唯我天
+<lb ed="X" n="0189a14"/>台智者大師。深愍當來。劫運漸衰。&CB00508;諍堅固。般若緣
+<lb ed="X" n="0189a15"/>&CB00520;。經云若國欲亂。鬼神先亂。鬼神亂故。即萬人亂。是
+<lb ed="X" n="0189a16"/>諸難起。皆應受持講讀此般若波羅蜜多。而護國法
+<lb ed="X" n="0189a17"/>要。尤在解說此經。此大師經疏所由作焉。惜乎此疏。
+<lb ed="X" n="0189a18"/>盛行海東。中華失傳。昔四明尊者。搆仁王疏而弗獲。
+<lb ed="X" n="0189a19"/>亦猶天台大師拜楞嚴經而未得。先後求法。苦心有
+<lb ed="X" n="0189a20"/>同揆歟。幸有宋老僧如恂師。得之海賈。晁說之敘於
+<lb ed="X" n="0189a21"/>簡端今龍藏雖載。而講筵無聞。適天台敏老法師。應
+<lb ed="X" n="0189a22"/>吳門諸縉紳請。於戊戌冬。住報恩北寺。時值邊疆多
+<lb ed="X" n="0189a23"/>故。臣民不安。乃於<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>亥春。屬成蓮演講仁王護國般
+<lb ed="X" n="0189a24"/>若經。求佛保安。惟成蓮所講。係當世通行唐不空譯
+<pb ed="X" id="X26.0514.0189b" n="0189b"/>
+<lb ed="X" n="0189b01"/>本。而大師所疏。為什公譯本。經文互有異同。大旨正
+<lb ed="X" n="0189b02"/>堪補備。且龍藏本。經與疏各自為帙。研究維艱。爰遵
+<lb ed="X" n="0189b03"/>天台大部之軌。華嚴三合之例。分經會疏。合鐫方冊。
+<lb ed="X" n="0189b04"/>排科文於經前。繫疏解於經後。重加句讀。庶幾條分
+<lb ed="X" n="0189b05"/>縷析。開卷瞭然。成蓮復據北藏。校勘一周。合掌恭敬。
+<lb ed="X" n="0189b06"/>　而說頌曰。</p>
+<lb ed="X" n="0189b07"/><lg id="lgX26p0189b0701"><l>般若如&CB00980;空</l><l>功德不可量</l><l>付囑諸國王</l>
+<lb ed="X" n="0189b08"/><l>依教而信受</l><l>菩薩金剛手</l><l>承佛威神力</l>
+<lb ed="X" n="0189b09"/><l>一聞說是經</l><l>頃刻為護持</l><l>能令其國界</l>
+<lb ed="X" n="0189b10"/><l>無復諸災難</l><l>疾疫與刀兵</l><l>一切悉消除</l>
+<lb ed="X" n="0189b11"/><l>法施利&CB00320;生</l><l>同發菩提心</l></lg>
+<lb ed="X" n="0189b12"/><p id="pX26p0189b1201">時在光緒二十六年荷月普門示現日　台宗後學
+<lb ed="X" n="0189b13"/>比丘成蓮敘於吳門報恩北寺之西齋</p></div1>
+<lb ed="X" n="0189b14"/>
+</body></text></TEI.2>

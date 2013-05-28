@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X26n0539.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 539 般若心經說</title>
+			<author>明 真可說</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $ (Big5)<date>$Date: 2009/04/22 08:54:11 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:54:11 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 26, No. 539 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2006/08/01 10:23:06</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X26n0539.xml,v $
+Revision 1.2  2009/04/22 08:54:11  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.1  2006/08/01 02:26:55  ray
+basicx 程式 轉自 簡單標記版
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X26.0539.0815b" n="0815b"/>
+<lb ed="X" n="0815b01"/>
+<milestone unit="juan" n="1"/><head type="no">No. 539</head>
+<lb ed="X" n="0815b02"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>般若波羅蜜多心經說</jhead></juan>
+<lb ed="X" n="0815b03"/>
+<lb ed="X" n="0815b04"/>
+<lb ed="X" n="0815b05"/><byline type="author">僧　真可　說</byline>
+<lb ed="X" n="0815b06"/><div1><p id="pX26p0815b0601">夫心經一書乃世出世間聖賢豪傑之神術也是以
+<lb ed="X" n="0815b07"/>得其旨者御大千而王天下如黠童牧羊鞭&CB15081;指揮
+<lb ed="X" n="0815b08"/>之間靡不得其所者也究其關鍵則照見五蘊皆空
+<lb ed="X" n="0815b09"/>一句又此經之心焉今有人于此志在聞道而欲兼
+<lb ed="X" n="0815b10"/>善一切舍是書而他求所謂夜行而棄燭非愚即狂
+<lb ed="X" n="0815b11"/>矣大抵道之不明世之難治皆根于我相我相既立
+<lb ed="X" n="0815b12"/>見可欲者即欣然而悅之悅之而不滿所懷即勃然
+<lb ed="X" n="0815b13"/>而怒矣天機由是而塞好惡由是而偏以故本有智
+<lb ed="X" n="0815b14"/>慧光明埋沒盡矣以日用而觀之則愛憎交戰于靈
+<lb ed="X" n="0815b15"/>臺情識浮沈于寵辱以今古而觀之七雄五伯之相
+<lb ed="X" n="0815b16"/>戮漢唐宋元之得失雖復盡善不盡善不可同年而
+<lb ed="X" n="0815b17"/>語及乎非武則亂不可定非智則國不可守要而言
+<lb ed="X" n="0815b18"/>之皆不出我相也是以真性日昧妄想日濃質朴日
+<lb ed="X" n="0815b19"/>漓世道日下故曰以智治國國之賊有我治人物之
+<lb ed="X" n="0815b20"/>敵夫賊之與敵雖父母施之于子必不能行寧惟不
+<lb ed="X" n="0815b21"/>能行將必反目而攻之矣如來知我相之毒天下其
+<lb ed="X" n="0815b22"/>害甚大所以即一念而開色心即色心而開五蘊即
+<lb ed="X" n="0815b23"/>色塵而開十二處又即五蘊而開十八界使夫眾生
+<lb ed="X" n="0815b24"/>悟知身執心執俱本于我相我相根本又生于無明
+<pb ed="X" id="X26.0539.0815c" n="0815c"/>
+<lb ed="X" n="0815c01"/>支支相緣苦集相起故達無明之所由生者則真牲
+<lb ed="X" n="0815c02"/>自朗達色心無性者則一念不可得達五蘊無性則
+<lb ed="X" n="0815c03"/>色心亦不可得達十二處之所由生者即如&CB00481;丁解
+<lb ed="X" n="0815c04"/>牛了無全牛矣以十二處觀現前此身亦無全身可
+<lb ed="X" n="0815c05"/>得也達十八界之所由生者則知色心二法外則析
+<lb ed="X" n="0815c06"/>為六塵內則析為六根中則即將現前分別歷歷覺
+<lb ed="X" n="0815c07"/>知之心又析為六識嘻非我佛大慈深悲則我相之
+<lb ed="X" n="0815c08"/>根毒害之本眾苦之垢豈易拔易滌哉滌垢如寒濤
+<lb ed="X" n="0815c09"/>漱石拔根如金剛破物漱之不<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>石必終易破之不
+<lb ed="X" n="0815c10"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>物必終空石易終穿物空我廢所謂若虧其一必
+<lb ed="X" n="0815c11"/>喪其兩耳夫物我既忘則本心自露故曰靈光獨耀
+<lb ed="X" n="0815c12"/>&CB00529;脫根塵也若夫將此光照出世則覺路可登照世
+<lb ed="X" n="0815c13"/>間則古道可復余故曰心經一書世出世之神術也
+<lb ed="X" n="0815c14"/>般若總部其名有八文則六百餘卷惟此經又六百
+<lb ed="X" n="0815c15"/>卷雄文之關鍵也此經之關鍵又照見五蘊皆空一
+<lb ed="X" n="0815c16"/>句是矣照見五蘊皆空又本乎色心二法色心二法
+<lb ed="X" n="0815c17"/>又本乎瞥起一念瞥起一念又本乎真心惟真心初
+<lb ed="X" n="0815c18"/>本澄湛本無根塵物我而獨立于五蘊之先絕無所
+<lb ed="X" n="0815c19"/>感則一念瞥起所由雖大智高明之士扣其瞥起所
+<lb ed="X" n="0815c20"/>由生竟無有能酬者也小子于此亦疑之久矣安得
+<lb ed="X" n="0815c21"/>有破疑之大師我以身肉充供亦所甘心焉。</p>
+<lb ed="X" n="0815c22"/>
+<lb ed="X" n="0815c23"/><juan fun="close" n="1"><jhead>般若波羅蜜多心經說<note place="inline">終</note></jhead></juan>
+<lb ed="X" n="0815c24"/>
+<pb ed="X" id="X26.0539.0816a" n="0816a"/>
+<lb ed="X" n="0816a01"/><div2 type="w"><p id="pX26p0816a0101">師諱真可字達觀晚號紫&CB00177;其先句曲人父沈連
+<lb ed="X" n="0816a02"/>季子世居吳江師年十七值虎丘明覺而出家二
+<lb ed="X" n="0816a03"/>十受具戒後至京師參&CB00642;融禪師後入楞嚴寺興
+<lb ed="X" n="0816a04"/>廢藏經萬曆癸卯十二月十七日寂世壽六十一。</p></div2></div1>
+</body></text></TEI.2>

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X02n0181.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 181 大聖妙吉祥菩薩最勝威德祕密八字陀羅尼修行念誦儀軌次第法</title>
+			<author>義雲法金剛．菩提仙同譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.4 $ (Big5)<date>$Date: 2009/04/22 08:48:36 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:48:36 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 02, No. 181 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/10/03 16:20:54</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X02n0181.xml,v $
+Revision 1.4  2009/04/22 08:48:36  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.3  2007/05/30 10:58:36  eva
+modified: 校注作業
+
+Revision 1.2  2006/01/04 07:29:22  eva
+modified:[口*縛][曰>日]囉
+
+Revision 1.1  2005/10/03 08:40:34  ray
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X02.0181.0835b" n="0835b"/>
+<lb ed="X" n="0835b01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0835b02"/>
+<lb ed="X" n="0835b03"/>
+<lb ed="X" n="0835b04"/>
+<lb ed="X" n="0835b05"/><head type="no">No. 181</head>
+<lb ed="X" n="0835b06"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>大聖妙吉祥菩薩最勝威德祕密八
+<lb ed="X" n="0835b07"/>字陀羅尼修行念誦儀軌次第法</jhead></juan>
+<lb ed="X" n="0835b08"/>
+<lb ed="X" n="0835b09"/>
+<lb ed="X" n="0835b10"/><div1><p id="pX02p0835b1001">我今依真言次第法門說行人先當從阿闍梨得受
+<lb ed="X" n="0835b11"/>灌頂及親傳受<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>乃再入持明悉地灌頂具足慈悲
+<lb ed="X" n="0835b12"/>行無緣慈怜愍一切苦厄有情作此念誦誓當<note n="0835001" resp="Xuzangjing" place="foot text" type="orig">&CB17465;挍疑救拔</note>&CB17465;挍
+<lb ed="X" n="0835b13"/>一切恐怖厄難眾生若眾生苦厄難時隨其處或香
+<lb ed="X" n="0835b14"/>塗或撚粉作壇若常念者應須<note n="0835002" resp="Xuzangjing" place="foot text" type="orig">精疑清</note>精室如法建立道場
+<lb ed="X" n="0835b15"/>一切如前法行人先興八種心方可持法第一慈悲
+<lb ed="X" n="0835b16"/>心二無垢心三無我所心四無勝<note n="0835003" resp="Xuzangjing" place="foot text" type="orig">附疑負</note>附心五有平等心
+<lb ed="X" n="0835b17"/>六無怨害心七有哀愍心八無貪利心如是之人萬
+<lb ed="X" n="0835b18"/>可傳受如是等堪同作法若非此者惟應自作令法
+<lb ed="X" n="0835b19"/>得成若遍數未終不得中間&CB00364;共人語使有間斷即
+<lb ed="X" n="0835b20"/>法失驗未作法時先當明告若自作念誦亦勿間斷
+<lb ed="X" n="0835b21"/>行者若入道場時應&CB05418;誠作禮即金剛合掌至心想
+<lb ed="X" n="0835b22"/>於十方諸佛及文殊大聖無量菩薩金剛密&CB00528;一切
+<lb ed="X" n="0835b23"/>賢聖等前一一自身而禮聖眾普禮一切佛菩薩金
+<lb ed="X" n="0835b24"/>剛等真言曰。</p>
+<pb ed="X" id="X02.0181.0835c" n="0835c"/>
+<lb ed="X" n="0835c01"/><p id="pX02p0835c0101" type="dharani">唵<note place="inline">一</note>薩&CB00085;<note place="inline">轉舌</note>怛佗<note place="inline">引</note>蘗多<note place="inline">二</note>迦耶&CB00085;訖唧<note place="inline">二合</note>多<note place="inline">三</note>&CB00085;
+<lb ed="X" n="0835c02"/><note place="inline">無撥反</note>折羅<note place="inline">二合</note>&CB00425;羅<note place="inline">二合</note>梅<note place="inline">輕呼</note><note place="inline">四</note>曼祖室利<note place="inline">二合</note>&CB00085;嗓那<note place="inline">二合</note>
+<lb ed="X" n="0835c03"/>南<note place="inline">五</note>迦嚕弭</p>
+<lb ed="X" n="0835c04"/><p id="pX02p0835c0401">又心密明曰。</p>
+<lb ed="X" n="0835c05"/><p id="pX02p0835c0501" type="dharani">唵<note place="inline">引</note>&CB00085;<app><lem wit="【CBETA】" resp="CBETA.maha">日</lem><rdg wit="【卍續】">曰</rdg></app>囉<note place="inline">二合</note>微<note place="inline">微一反</note>多</p>
+<lb ed="X" n="0835c06"/><lg id="lgX02p0835c0601"><l>先合金剛掌</l><l>十度外相交</l><l>五輪皆委地</l>
+<lb ed="X" n="0835c07"/><l>至誠恭敬禮</l><l>復以長跪坐</l><l>合掌似合蓮</l>
+<lb ed="X" n="0835c08"/><l>觀身如水精</l><l>吽字如三處</l><l>想成五智杵</l>
+<lb ed="X" n="0835c09"/><l>所謂內金剛</l><l>而為不壞體</l><l>然<note n="0835004" resp="Xuzangjing" place="foot text" type="orig">處疑虔</note>處誠奉請</l>
+<lb ed="X" n="0835c10"/><l>一切諸聖尊</l><l>誦是四句偈</l></lg>
+<lb ed="X" n="0835c11"/><lg id="lgX02p0835c1101"><l>稽首無上法醫王</l><l>難<note n="0835005" resp="Xuzangjing" place="foot text" type="orig">教疑救</note>教能救慈悲主</l>
+<lb ed="X" n="0835c12"/><l>我今歸命恭敬請</l><l>唯願速來降道場</l></lg>
+<lb ed="X" n="0835c13"/><lg id="lgX02p0835c1301"><l>如是三重請</l><l>作前啟白言</l><l>二手蓮華合</l>
+<lb ed="X" n="0835c14"/><l>復誦淨三業</l><l>令身器清淨</l><l>用加持五處</l>
+<lb ed="X" n="0835c15"/><l>額兩肩心喉</l><l>念彼真言曰</l></lg>
+<lb ed="X" n="0835c16"/><p id="pX02p0835c1601" type="dharani">唵<note place="inline">引</note>娑&CB00085;<note place="inline">二合</note>婆<note place="inline">去</note>縛戍&CB00499;<note place="inline">引</note>薩&CB00085;達磨娑&CB00085;<note place="inline">二合</note>戍度
+<lb ed="X" n="0835c17"/>&CB00805;<note place="inline">引</note></p>
+<lb ed="X" n="0835c18"/><lg id="lgX02p0835c1801"><l><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>淨三業竟</l><l>結佛三昧耶</l><l>定慧合蓮掌</l>
+<lb ed="X" n="0835c19"/><l>開合二火&CB00123;</l><l>二風屈上節</l><l>二空捻風根</l>
+<lb ed="X" n="0835c20"/><l>與印當額前</l><l>諦觀一切佛</l><l>一一分明見</l>
+<lb ed="X" n="0835c21"/><l>住在&CB00980;空中</l><l>念彼真言曰</l>
+<lb ed="X" n="0835c22"/><l>佛部三昧耶</l>
+<lb ed="X" n="0835c23"/><l>定慧內合拳</l><l>二空皆並&CB00594;</l><l>諦觀一切佛</l>
+<lb ed="X" n="0835c24"/><l>由如對目前</l><l>隨念召請尊</l><l>雙拳而並召</l></lg>
+<pb ed="X" id="X02.0181.0836a" n="0836a"/>
+<lb ed="X" n="0836a01"/><p id="pX02p0836a0101" rend="margin-left:2em">真言曰。</p>
+<lb ed="X" n="0836a02"/><p id="pX02p0836a0201" type="dharani">唵<note place="inline">引</note><note place="inline">一</note>爾<note place="inline">慈以反</note>曩匿<note place="inline">而翼反</note>迦<note place="inline">半音</note>娑&CB00085;<note place="inline">二合</note>賀<note place="inline">引</note><note place="inline">三遍或七遍</note></p>
+<lb ed="X" n="0836a03"/><lg id="lgX02p0836a0301"><l>復結蓮華部</l><l>祕密三昧耶</l><l>印相亦如前</l>
+<lb ed="X" n="0836a04"/><l>左入右舒出</l><l>三誦三召請</l><l>安右而散之</l>
+<lb ed="X" n="0836a05"/><l>念彼真言曰</l></lg>
+<lb ed="X" n="0836a06"/><p id="pX02p0836a0601" type="dharani">唵<note place="inline">引</note><note place="inline">一</note>阿<note place="inline">引</note><note place="inline">一</note>嚧力迦<note place="inline">半音</note>娑&CB00085;<note place="inline">二合</note>賀</p>
+<lb ed="X" n="0836a07"/><lg id="lgX02p0836a0701"><l>復次金剛部</l><l>微妙三昧契</l><l>前契改空輪</l>
+<lb ed="X" n="0836a08"/><l>右入左&CB00594;招</l><l>專心存念尊</l><l>念彼真言曰</l></lg>
+<lb ed="X" n="0836a09"/><p id="pX02p0836a0901" type="dharani">唵<note place="inline">引</note><note place="inline">一</note>縛<app><lem wit="【CBETA】" resp="CBETA.maha">日</lem><rdg wit="【卍續】">曰</rdg></app>羅<note place="inline">二合</note>地力<note place="inline">二合</note>迦<note place="inline">半音</note><note place="inline">呼</note>娑&CB00085;<note place="inline">二合</note>賀</p>
+<lb ed="X" n="0836a10"/><lg id="lgX02p0836a1001"><l>佛部印安額</l><l>蓮華右耳邊</l><l>金剛左耳邊</l>
+<lb ed="X" n="0836a11"/><l>同於頂上散</l>
+<lb ed="X" n="0836a12"/><l>復次被甲契</l><l>檀慧及戒方</l><l>相叉內入掌</l>
+<lb ed="X" n="0836a13"/><l>忍願頭相合</l><l>進力曲如鉤</l><l>外附二火後</l>
+<lb ed="X" n="0836a14"/><l>禪智並直&CB00594;</l><l>由如&CB00085;折羅</l><l>念加身五處</l>
+<lb ed="X" n="0836a15"/><l>額右肩并左</l><l>心喉散頂門</l><l>念彼真言曰</l></lg>
+<lb ed="X" n="0836a16"/><p id="pX02p0836a1601" type="dharani">唵<note place="inline">引</note>斫羯羅<note place="inline">二合</note>&CB00467;<note place="inline">轉舌</note><note place="inline">呼</note>&CB00069;底<note place="inline">二合</note>&CB00425;羅<note place="inline">二合</note>賒弭多<note place="inline">引</note>羅
+<lb ed="X" n="0836a17"/>捺羅<note place="inline">引</note><note place="inline">二合</note>羅<note place="inline">引</note>捺羅<note place="inline">二合</note>婆<note place="inline">去</note>娑摩<note place="inline">二合</note>捺<note place="inline">倉&CB04189;反</note>路<note place="inline">引</note><note n="0836001" resp="Xuzangjing" place="foot text" type="orig">慧疑瑟</note>慧
+<lb ed="X" n="0836a18"/>抳<note place="inline">二合</note>娑路乞叉<note place="inline">二合</note>洛乞娑<note place="inline">二合</note>鋡吽發吒娑&CB00085;<note place="inline">二合</note>訶</p>
+<lb ed="X" n="0836a19"/><p id="pX02p0836a1901">次說金剛地界橛印。</p>
+<lb ed="X" n="0836a20"/><lg id="lgX02p0836a2001"><l>定手方願度</l><l>雙入戒忍門</l><l>方祕絞戒後</l>
+<lb ed="X" n="0836a21"/><l>入於檀戒間</l><l>願絞入忍進</l><l>檀慧與進力</l>
+<lb ed="X" n="0836a22"/><l>禪智各相合</l><l>三旋下丁之</l><l>即念真言曰</l></lg>
+<lb ed="X" n="0836a23"/><p id="pX02p0836a2301" type="dharani">唵<note place="inline">引</note>枳里枳里&CB00085;<app><lem wit="【CBETA】" resp="CBETA.maha">日</lem><rdg wit="【卍續】">曰</rdg></app>羅<note place="inline">二合</note>&CB00085;曰里<note place="inline">二合</note>步&CB02976;滿<note place="inline">二合</note>&CB00499;滿
+<lb ed="X" n="0836a24"/>&CB00499;吽<note place="inline">引</note>發吒</p>
+<pb ed="X" id="X02.0181.0836b" n="0836b"/>
+<lb ed="X" n="0836b01"/><p id="pX02p0836b0101">復說金剛墻界印。</p>
+<lb ed="X" n="0836b02"/><lg id="lgX02p0836b0201"><l>準前地界印</l><l>&CB03370;開禪智&CB00594;</l><l>右旋如墻院</l>
+<lb ed="X" n="0836b03"/><l>隨誦而轉之</l><l>心想金剛墻</l><l>念彼真言曰</l></lg>
+<lb ed="X" n="0836b04"/><p id="pX02p0836b0401" type="dharani">唵<note place="inline">引</note>薩羅薩羅&CB00085;日羅<note place="inline">二合</note>&CB00425;羅<note place="inline">二合</note>迦羅<note place="inline">引</note>吽發吒</p>
+<lb ed="X" n="0836b05"/><lg id="lgX02p0836b0501"><l>復次&CB00980;空藏</l><l>十度外相交</l><l>進力&CB17467;如寶</l>
+<lb ed="X" n="0836b06"/><l>想成妙樓閣</l><l>上有大蓮華</l><l>諦心觀本尊</l>
+<lb ed="X" n="0836b07"/><l>住於寶帳中</l><l>周匝幢幡蓋</l><l>天衣香雲海</l>
+<lb ed="X" n="0836b08"/><l>遍滿於&CB00980;空</l><l>眷屬中圍繞</l><l>誦是真言曰</l></lg>
+<lb ed="X" n="0836b09"/><p id="pX02p0836b0901" type="dharani">唵<note place="inline">引</note>&CB00344;&CB00344;曩三婆<note place="inline">去</note><note place="inline">引</note>&CB00085;&CB00085;<note place="inline">無撥反</note>曰囉<note place="inline">二合</note>斛<note place="inline">引</note></p>
+<lb ed="X" n="0836b10"/><lg id="lgX02p0836b1001"><l>次結車輅印</l><l>定慧仰相叉</l><l>以右押於左</l>
+<lb ed="X" n="0836b11"/><l>禪智捻進力</l><l>最下<note n="0836002" resp="Xuzangjing" place="foot text" type="orig">弟疑第</note>弟一文</l><l>旋轉送向前</l>
+<lb ed="X" n="0836b12"/><l>想成寶車輅</l><l>念彼真言曰</l></lg>
+<lb ed="X" n="0836b13"/><p id="pX02p0836b1301" type="dharani">唵<note place="inline">引</note><note n="0836003" resp="Xuzangjing" place="foot text" type="orig">觀疑&CB00418;</note>觀魯都魯吽<note place="inline">引</note></p>
+<lb ed="X" n="0836b14"/><p id="pX02p0836b1401">三遍或七遍。</p>
+<lb ed="X" n="0836b15"/><lg id="lgX02p0836b1501"><l>想尊乘車輅</l><l>徐來降道場</l><l>住於&CB00980;空中</l>
+<lb ed="X" n="0836b16"/><l>待請而來入</l><l>不違本誓願</l><l>念彼真言曰</l></lg>
+<lb ed="X" n="0836b17"/><p id="pX02p0836b1701" type="dharani">曩莫悉底哩野<note place="inline">四合</note>地尾<note place="inline">二合</note>迦<note place="inline">引</note>南怛佗<note place="inline">引</note>&CB00617;跢南<note place="inline">引</note><note place="inline">一</note>
+<lb ed="X" n="0836b18"/>唵<note place="inline">引</note>&CB00085;折朗<note place="inline">二合</note>祇你也<note place="inline">二合</note><note place="inline">引</note>阿<note place="inline">引</note>揭羅灑<note place="inline">二合</note>野娑&CB00085;
+<lb ed="X" n="0836b19"/><note place="inline">二合</note><note place="inline">引</note>賀<note place="inline">引</note></p>
+<lb ed="X" n="0836b20"/><lg id="lgX02p0836b2001"><l>由此真言力</l><l>及結契相應</l><l>能召於本尊</l>
+<lb ed="X" n="0836b21"/><l>并及餘眷屬</l><l>降臨道場所</l><l>施願與行人</l>
+<lb ed="X" n="0836b22"/><l>欲結車輅時</l><l>先當淨道路</l><l>二手捧香爐</l>
+<lb ed="X" n="0836b23"/><l>念修祕密句</l><l>淨治&CB00980;中路</l><l>後乃請聖尊</l>
+<lb ed="X" n="0836b24"/><l>想香至彼宮</l><l>念彼真言曰</l></lg>
+<pb ed="X" id="X02.0181.0836c" n="0836c"/>
+<lb ed="X" n="0836c01"/><p id="pX02p0836c0101" type="dharani">唵<note place="inline">引</note>素悉地揭哩入&CB00085;<note place="inline">二合</note>理哆難多慕<note place="inline">引</note>羅多<note place="inline">去</note>曳
+<lb ed="X" n="0836c02"/>入&CB00085;<note place="inline">二合</note>&CB00256;滿他滿他賀喃吽發吒</p>
+<lb ed="X" n="0836c03"/><lg id="lgX02p0836c0301"><l>若作此妙法</l><l>其空中關籥</l><l>悉皆自開解</l>
+<lb ed="X" n="0836c04"/><l>亦成辟除障</l><l>乃至清淨等</l><l>乃成驚覺尊</l>
+<lb ed="X" n="0836c05"/><l>眷屬并親近</l><l>次先作奉請</l><l>印契誦後明</l>
+<lb ed="X" n="0836c06"/><l>召集諸聖賢</l><l>入曼荼羅內</l><l>請召真言曰</l>
+<lb ed="X" n="0836c07"/><l>或三或七遍</l><l>召請入道場</l><l>慇懃陳所請</l>
+<lb ed="X" n="0836c08"/><l>復請妙吉祥</l><l>密&CB00528;金剛主</l><l>定慧合蓮掌</l>
+<lb ed="X" n="0836c09"/><l>二火絞水輪</l><l>&CB00123;端捻甲背</l><l>二風屈相跓</l>
+<lb ed="X" n="0836c10"/><l>二空並&CB00594;之</l><l>風模押空&CB00123;</l><l>誦密言三召</l></lg>
+<lb ed="X" n="0836c11"/><p id="pX02p0836c1101" type="dharani">曩莫三曼多沒&CB00499;<note place="inline">引</note>南<note place="inline">上</note><note place="inline">引</note>係係俱摩羅迦尾目訖底
+<lb ed="X" n="0836c12"/><note place="inline">丁以反</note>&CB00425;佗悉體<note place="inline">二合</note><note place="inline">地以反</note>多娑麼<note place="inline">二合</note>羅娑麼<note place="inline">二合</note>羅&CB00425;羅
+<lb ed="X" n="0836c13"/><note place="inline">二合</note>底枳然<note place="inline">二合</note>娑&CB00085;<note place="inline">二合</note>賀</p>
+<lb ed="X" n="0836c14"/><lg id="lgX02p0836c1401"><l>復次部明王</l><l>辟除諸障者</l><l>定慧合蓮掌</l>
+<lb ed="X" n="0836c15"/><l>水風並下垂</l><l>俱入滿月間</l><l>空並離風節</l>
+<lb ed="X" n="0836c16"/><l>當心誦明句</l><l>七遍舉額齊</l><l>左轉為辟除</l>
+<lb ed="X" n="0836c17"/><l>右旋成結界</l><l>一切作障者</l><l>&CB00502;散無有礙</l>
+<lb ed="X" n="0836c18"/><l>威光如劫火</l><l>忿怒大恐怖</l><l>三面現六臂</l>
+<lb ed="X" n="0836c19"/><l>操持越棒瓶</l><l>蓮華及數珠</l></lg>
+<lb ed="X" n="0836c20"/><p id="pX02p0836c2001" type="dharani">唵<note place="inline">引</note><note place="inline">一</note>度曩度曩<note place="inline">二</note>麼佗麼佗<note place="inline">三</note>訶曩訶曩<note place="inline">四</note>賀野儗
+<lb ed="X" n="0836c21"/>里<note place="inline">二合</note>縛<note place="inline">無可反</note>吽發吒<note place="inline">半音</note></p>
+<lb ed="X" n="0836c22"/><p id="pX02p0836c2201">又心明曰。</p>
+<lb ed="X" n="0836c23"/><p id="pX02p0836c2301" type="dharani">唵<note place="inline">引</note><note place="inline">一</note>阿<note place="inline">引</note>密&CB00069;<note place="inline">二合</note>&CB00418;納婆<note place="inline">二合</note>縛&CB00292;<note place="inline">引</note>發吒<note place="inline">半音</note><note place="inline">呼</note></p>
+<lb ed="X" n="0836c24"/><lg id="lgX02p0836c2401"><l>由是真言故</l><l>及以印加持</l><l>能令諸障除</l>
+<pb ed="X" id="X02.0181.0837a" n="0837a"/>
+<lb ed="X" n="0837a01"/><l>行人小施功</l><l>速獲得成就</l>
+<lb ed="X" n="0837a02"/><l>復次結上界</l><l>金剛網羅契</l><l>如前墻印相</l>
+<lb ed="X" n="0837a03"/><l>開空捻風根</l><l>頂平上覆安</l><l>令密加七遍</l>
+<lb ed="X" n="0837a04"/><l>隨誦右旋轉</l><l>三匝應舞儀</l><l>散分向下垂</l>
+<lb ed="X" n="0837a05"/><l>想納彌覆界</l><l>墻外至於地</l><l>一切不能穿</l>
+<lb ed="X" n="0837a06"/><l>觀成如金剛</l><l>念彼真言曰</l></lg>
+<lb ed="X" n="0837a07"/><p id="pX02p0837a0701" type="dharani">唵<note place="inline">引</note><note place="inline">一</note>尾娑普<note place="inline">二合</note>羅捺羅<note place="inline">二合</note>乞叉<note place="inline">二合</note>&CB00085;折羅<note place="inline">二合</note>半惹羅
+<lb ed="X" n="0837a08"/>&CB00292;<note place="inline">引</note>發吒<note place="inline">半音</note></p>
+<lb ed="X" n="0837a09"/><lg id="lgX02p0837a0901"><l>復次火院印</l><l>密縫焰暉光</l><l>周匝網外圍</l>
+<lb ed="X" n="0837a10"/><l>赫奕劫火熾</l><l>如風右旋<note n="0837001" resp="Xuzangjing" place="foot text" type="orig">達疑遷</note>達</l><l>怖畏諸惡魔</l>
+<lb ed="X" n="0837a11"/><l>一切設都嚕</l><l>無能為惱害</l><l>行人堅住觀</l></lg>
+<lb ed="X" n="0837a12"/><p id="pX02p0837a1201">念彼真言曰。</p>
+<lb ed="X" n="0837a13"/><p id="pX02p0837a1301" type="dharani">唵<note place="inline">引</note><note place="inline">一</note>阿三&CB00757;儗你訶囉&CB00292;<note place="inline">引</note>發吒<note place="inline">半音</note><note place="inline">呼</note></p>
+<lb ed="X" n="0837a14"/><lg id="lgX02p0837a1401"><l>三遍或七遍</l><l>諦想作加持</l><l>觀中光焰暉</l>
+<lb ed="X" n="0837a15"/><l>動然焰輝赫</l><l>令法無不成</l><l>復明獻閼伽</l>
+<lb ed="X" n="0837a16"/><l>定慧並仰開</l><l>地水火合&CB00123;</l><l>風屈如商佉</l>
+<lb ed="X" n="0837a17"/><l>二空捻風下</l><l>想成眾寶池</l><l>清徹底金砂</l>
+<lb ed="X" n="0837a18"/><l>念彼真言曰</l></lg>
+<lb ed="X" n="0837a19"/><p id="pX02p0837a1901" type="dharani">曩莫三曼多勃<note place="inline">上</note>&CB00499;<note place="inline">引</note>南<note place="inline">引</note>&CB00344;&CB00344;曩三摩<note place="inline">引</note>三摩<note place="inline">上</note>
+<lb ed="X" n="0837a20"/>娑縛<note place="inline">二合</note>賀</p>
+<lb ed="X" n="0837a21"/><lg id="lgX02p0837a2101"><l>三遍或七遍</l><l>心想寶池中</l><l>蓮華&CB03105;萏開</l>
+<lb ed="X" n="0837a22"/><l>遍浴諸聖眾</l><l>先浴本尊足</l><l>次浴諸賢聖</l>
+<lb ed="X" n="0837a23"/><l>又浴眾聖天</l><l>令我根塵淨</l><l>復次師子座</l>
+<lb ed="X" n="0837a24"/><l>其契如後明</l><l>定慧地水交</l><l>相叉入掌內</l>
+<pb ed="X" id="X02.0181.0837b" n="0837b"/>
+<lb ed="X" n="0837b01"/><l>二火合&CB00123;&CB00594;</l><l>風屈捻二空</l><l>空並仰前出</l>
+<lb ed="X" n="0837b02"/><l>由如師子勢</l><l>想上有蓮華</l><l>念彼真言曰</l></lg>
+<lb ed="X" n="0837b03"/><p id="pX02p0837b0301" type="dharani">唵<note place="inline">引</note>阿佐&CB00256;尾羅野&CB00292;<note place="inline">引</note></p>
+<lb ed="X" n="0837b04"/><lg id="lgX02p0837b0401"><l>次陳普供養</l><l>十度金剛合</l><l>二風如寶形</l>
+<lb ed="X" n="0837b05"/><l>塗香華食燈</l><l>運想如雲海</l><l>幢幡眾妓樂</l>
+<lb ed="X" n="0837b06"/><l>華蓋妙天衣</l><l>流散遍&CB00980;空</l><l>供養增福聚</l>
+<lb ed="X" n="0837b07"/><l>食是真言句</l><l>而以獻諸尊</l><l>供養真言曰</l></lg>
+<lb ed="X" n="0837b08"/><p id="pX02p0837b0801" type="dharani">曩莫三曼多<note place="inline">引</note>勃&CB00499;<note place="inline">引</note>南<note place="inline">引</note>唵<note place="inline">引</note>薩羅縛<note place="inline">二合</note>佗<note place="inline">引</note>欠
+<lb ed="X" n="0837b09"/>溫娜&CB00617;<note place="inline">二合</note>帝娑頗<note place="inline">二合</note>羅&CB01217;&CB00805;&CB00344;&CB00344;曩&CB01894;娑縛<note place="inline">二合</note><note place="inline">引</note>訶</p>
+<lb ed="X" n="0837b10"/><lg id="lgX02p0837b1001"><l>由是供養故</l><l>當獲無等利</l><l>能成眾事業</l>
+<lb ed="X" n="0837b11"/><l>資糧從是生</l><l>復次明讚嘆</l><l>不解前印契</l>
+<lb ed="X" n="0837b12"/><l>改寶而交合</l><l>梵音誦讚言</l><l>令眾聖歡喜</l>
+<lb ed="X" n="0837b13"/><l>念是密言曰</l></lg>
+<lb ed="X" n="0837b14"/><p id="pX02p0837b1401" type="dharani">唵縛日羅<note place="inline">二合</note>底<note place="inline">丁以反</note>乞儭拏<note place="inline">二合</note>摩訶<note place="inline">引</note>夜<note place="inline">引</note>曩<note place="inline">一</note>縛
+<lb ed="X" n="0837b15"/>日羅<note place="inline">二合</note>勾<note place="inline">引</note>舍摩賀<note place="inline">引</note>庾&CB00499;<note place="inline">引</note><note place="inline">二</note>曼祖<note place="inline">引</note>唎野<note place="inline">二合</note><note place="inline">三</note>
+<lb ed="X" n="0837b16"/>　室利<note place="inline">二合</note><note place="inline">引</note>縛日羅<note place="inline">二合</note>儼鼻<note place="inline">引</note>唎野<note place="inline">二合</note><note place="inline">三</note>縛日羅<note place="inline">二合</note>沒
+<lb ed="X" n="0837b17"/>弟曩謨<note place="inline">引</note>率都<note place="inline">二合</note>帝<note place="inline">引</note><note place="inline">四</note></p>
+<lb ed="X" n="0837b18"/><p id="pX02p0837b1801">又復有漢語大讚。</p>
+<lb ed="X" n="0837b19"/><lg id="lgX02p0837b1901"><l>歸命密&CB00528;主</l><l>摧伏諸魔者</l><l>童真法王子</l>
+<lb ed="X" n="0837b20"/><l>具普賢眾行</l><l>住是本有身</l><l>無始無終寂</l>
+<lb ed="X" n="0837b21"/><l>妙用施諸願</l><l>降怨害三毒</l><l>改劫故修行</l>
+<lb ed="X" n="0837b22"/><l>而於三界中</l><l>重說祕明教</l><l>為護有情類</l>
+<lb ed="X" n="0837b23"/><l>設大方便門</l><l>極救諸含靈</l><l>令超生死輪</l>
+<lb ed="X" n="0837b24"/><l>從凡入佛地</l><l>行者作是語</l><l>讚詠於本尊</l>
+<pb ed="X" id="X02.0181.0837c" n="0837c"/>
+<lb ed="X" n="0837c01"/><l>至心誦三遍</l><l>令大聖歡喜</l><l>行人所求願</l>
+<lb ed="X" n="0837c02"/><l>一切速圓滿</l><l>復次聖文殊</l><l>請召童子印</l>
+<lb ed="X" n="0837c03"/><l>慧手結為拳</l><l>舒風如鉤狀</l><l>七遍而三召</l>
+<lb ed="X" n="0837c04"/><l>即說真言曰</l></lg>
+<lb ed="X" n="0837c05"/><p id="pX02p0837c0501" type="dharani">曩莫<note place="inline">入</note>三曼多沒&CB00499;<note place="inline">引</note>南<note place="inline">引</note>阿羯羅灑<note place="inline">二合</note>野薩&CB00680;<note place="inline">引</note>
+<lb ed="X" n="0837c06"/>矩嚕阿然<note place="inline">三</note>矩忙<note place="inline">引</note>羅寫<note place="inline">四</note>娑&CB00085;<note place="inline">二合</note>賀</p>
+<lb ed="X" n="0837c07"/><lg id="lgX02p0837c0701"><l>復次計設尼</l><l>印相如後說</l><l>智慧羽為拳</l>
+<lb ed="X" n="0837c08"/><l>火風相合&CB00594;</l><l>由同刀標相</l><l>念彼密言曰</l></lg>
+<lb ed="X" n="0837c09"/><p id="pX02p0837c0901" type="dharani">曩莫三曼多沒&CB00499;<note place="inline">引</note>南<note place="inline">上</note><note place="inline">引</note>係係矩忙&CB01233;計<note place="inline">引</note><note place="inline">二</note>娜耶枳
+<lb ed="X" n="0837c10"/>攘<note place="inline">二合</note>難娑麼<note place="inline">二合</note>羅沙麼<note place="inline">二合</note>&CB00425;囉<note place="inline">二合</note>底然<note place="inline">二合</note>娑&CB00085;<note place="inline">二合</note>賀<note place="inline">引</note></p>
+<lb ed="X" n="0837c11"/><lg id="lgX02p0837c1101"><l>復次尊右方</l><l>救護慧童子</l><l>左手金剛拳</l>
+<lb ed="X" n="0837c12"/><l>端坐安腰側</l><l>右舒五輪直</l><l>當以掩其心</l>
+<lb ed="X" n="0837c13"/><l>&CB03370;堅於空輪</l><l>念彼真言曰</l></lg>
+<lb ed="X" n="0837c14"/><p id="pX02p0837c1401" type="dharani">曩莫三曼多沒&CB00499;<note place="inline">引</note>南<note place="inline">上</note><note place="inline">引</note><note place="inline">一</note>係摩訶<note place="inline">引</note>摩訶<note place="inline">引</note><note place="inline">二</note>娑麼
+<lb ed="X" n="0837c15"/><note place="inline">二合</note>羅&CB00425;羅<note place="inline">二合</note>底枳然<note place="inline">二合</note>娑縛<note place="inline">二合</note>賀</p>
+<lb ed="X" n="0837c16"/><lg id="lgX02p0837c1601"><l>烏波計室尼</l><l>智慧手為拳</l><l>而申火輪直</l>
+<lb ed="X" n="0837c17"/><l>風屈指中節</l><l>如同戟標相</l><l>說彼真言曰</l></lg>
+<lb ed="X" n="0837c18"/><p id="pX02p0837c1801" type="dharani">曩莫三曼多沒&CB00499;<note place="inline">引</note>南<note place="inline">引</note><note place="inline">上</note><note place="inline">一</note>類娜夜枳攘<note place="inline">二合</note>難<note place="inline">二</note>係
+<lb ed="X" n="0837c19"/>矩忙&CB01233;計<note place="inline">三</note>娑&CB00085;<note place="inline">二合</note>訶</p>
+<lb ed="X" n="0837c20"/><lg id="lgX02p0837c2001"><l>復次光網尊</l><l>內眷屬童子</l><l>印契如後說</l>
+<lb ed="X" n="0837c21"/><l>三昧手為拳</l><l>風輪舉如鉤</l><l>為攝諸含識</l>
+<lb ed="X" n="0837c22"/><l>令住解脫地</l><l>即說真言曰</l></lg>
+<lb ed="X" n="0837c23"/><p id="pX02p0837c2301" type="dharani">曩莫三曼多沒&CB00499;<note place="inline">引</note>南<note place="inline">上</note><note place="inline">引</note>係係矩忙羅忙耶&CB00617;多娑
+<lb ed="X" n="0837c24"/>&CB00085;<note place="inline">二合</note>婆<note place="inline">去</note><note place="inline">引</note>&CB00085;悉體<note place="inline">二合</note><note place="inline">佗以反</note>哆娑&CB00085;<note place="inline">二合</note>賀</p>
+<pb ed="X" id="X02.0181.0838a" n="0838a"/>
+<lb ed="X" n="0838a01"/><lg id="lgX02p0838a0101"><l>復次地慧幢</l><l>內眷之標幟</l><l>三昧手為拳</l>
+<lb ed="X" n="0838a02"/><l>而舒地水輪</l><l>直&CB00594;<note n="0838001" resp="Xuzangjing" place="foot text" type="orig">加疑如</note>加幢相</l><l>說是密言曰</l></lg>
+<lb ed="X" n="0838a03"/><p id="pX02p0838a0301" type="dharani">曩莫三曼多沒&CB00499;<note place="inline">引</note>南<note place="inline">上</note><note place="inline">一</note>係娑麼<note place="inline">二合</note>羅<note place="inline">二</note>枳壤<note place="inline">二合</note>曩
+<lb ed="X" n="0838a04"/>計都<note place="inline">引</note><note place="inline"><note n="0838002" resp="Xuzangjing" place="foot text" type="orig">註一疑三</note>〔一〕</note>婆&CB00085;<note place="inline">二合</note>賀<note place="inline">引</note></p>
+<lb ed="X" n="0838a05"/><lg id="lgX02p0838a0501"><l>次復無垢光</l><l>矩忙囉密主</l><l>如前三昧手</l>
+<lb ed="X" n="0838a06"/><l>舒上一切輪</l><l>悉皆徹屈之</l><l>如佛身光明</l>
+<lb ed="X" n="0838a07"/><l>其焰徹暉照</l><l>稱念彼真言曰</l></lg>
+<lb ed="X" n="0838a08"/><p id="pX02p0838a0801" type="dharani">曩莫三曼多沒&CB00499;<note place="inline">引</note>南<note place="inline">一</note><note place="inline">上</note><note place="inline">引</note>係係矩忙<note place="inline">引</note>羅微質怛
+<lb ed="X" n="0838a09"/>囉<note place="inline">二合</note>&CB00617;底矩忙<note place="inline">引</note>羅麼弩娑麼<note place="inline">二合</note>羅娑&CB00085;<note place="inline">二合</note>賀<note place="inline">引</note></p>
+<lb ed="X" n="0838a10"/><lg id="lgX02p0838a1001"><l>復不思儀慧</l><l>印相如後陳</l><l>定慧內相叉</l>
+<lb ed="X" n="0838a11"/><l>一令為拳印</l><l>二風別屈舒</l><l>屈二節對之</l>
+<lb ed="X" n="0838a12"/><l>令甲急相背</l><l>二空並直&CB00594;</l><l>名為拳教者</l>
+<lb ed="X" n="0838a13"/><l>復說密言曰</l></lg>
+<lb ed="X" n="0838a14"/><p id="pX02p0838a1401" type="dharani">曩莫三曼多勃&CB00499;南<note place="inline">上</note><note place="inline">引</note><note place="inline">一</note>係係<note place="inline">引</note>緊旨<note place="inline">慈以反</note>羅拽徙
+<lb ed="X" n="0838a15"/>阿<note place="inline">去</note><note place="inline">急呼</note>尾娑麼<note place="inline">二合</note>也儜曳娑&CB00085;<note place="inline">二合</note>賀<note place="inline">引</note></p>
+<lb ed="X" n="0838a16"/><lg id="lgX02p0838a1601"><l>爾時修行者</l><l>安住慈愍心</l><l>為一切有情</l>
+<lb ed="X" n="0838a17"/><l>發大弘誓願</l><l>至誠起慇敬</l><l>觀想於本尊</l>
+<lb ed="X" n="0838a18"/><l>金色放光明</l><l>乘師子王座</l><l>操持智慧&CB01894;</l>
+<lb ed="X" n="0838a19"/><l>左執青蓮華</l><l>華臺立智杵</l><l>首髻八智尊</l>
+<lb ed="X" n="0838a20"/><l>暉光遍十方</l><l>如對行人目</l><l>文殊根本契</l>
+<lb ed="X" n="0838a21"/><l>從師密授之</l><l>次當取念珠</l><l>盤在於掌內</l>
+<lb ed="X" n="0838a22"/><l>定慧合蓮相</l><l>當口用加持</l><l>祕密珠明曰</l></lg>
+<lb ed="X" n="0838a23"/><p id="pX02p0838a2301" type="dharani">唵<note place="inline">引</note>吠嚧左曩麼&CB00256;娑&CB00085;<note place="inline">二合</note>賀<note place="inline">引</note></p>
+<lb ed="X" n="0838a24"/><lg id="lgX02p0838a2401"><l>加持七遍<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></l><l>千轉三易珠</l><l>空地對捻珠</l>
+<pb ed="X" id="X02.0181.0838b" n="0838b"/>
+<lb ed="X" n="0838b01"/><l>隨誦移三匝</l><l>誦八字明句</l><l>一千或一萬</l>
+<lb ed="X" n="0838b02"/><l>字字分明呼</l><l>端坐諦觀之</l><l>念念勿間斷</l>
+<lb ed="X" n="0838b03"/><l>數終住觀智</l><l>并三摩地門</l><l>在於滿月中</l>
+<lb ed="X" n="0838b04"/><l>布字為種智</l><l>或作大日觀</l><l>圓輝亦復然</l>
+<lb ed="X" n="0838b05"/><l>所有諸功德</l><l>施一切眾生</l><l>皆得成佛道</l>
+<lb ed="X" n="0838b06"/><l>復說差別事</l><l>三時或四時</l><l>無令有退轉</l>
+<lb ed="X" n="0838b07"/><l>若為息災故</l><l>定夜以之初</l><l>若求福智門</l>
+<lb ed="X" n="0838b08"/><l>後夜而起首</l><l>降伏日正午</l><l>愛敬欲眠時</l>
+<lb ed="X" n="0838b09"/><l>鉤召亦同前</l><l>念訖還珠契</l><l>亦同悉地法</l>
+<lb ed="X" n="0838b10"/><l>本尊數終<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></l><l>依前念內眷</l><l>八尊如舊次</l>
+<lb ed="X" n="0838b11"/><l>讚歎奉香華</l><l>閼伽再奉獻</l><l>發願并勸請</l>
+<lb ed="X" n="0838b12"/><l>解界用火院</l><l>發遣奉送之</l><l>三部再護身</l>
+<lb ed="X" n="0838b13"/><l>被甲如初作</l><l>焰曼德作衛</l><l>大刀觸加持</l>
+<lb ed="X" n="0838b14"/><l>禮拜眾聖賢</l><l>隨意經行出</l><l>若住山林中</l>
+<lb ed="X" n="0838b15"/><l>頭陀居曠野</l><l>王難遭枷獄</l><l>橫事恐怖時</l>
+<lb ed="X" n="0838b16"/><l>疾病鬼神殃</l><l>暗夜行怖懼</l><l>修道被魔嬈</l>
+<lb ed="X" n="0838b17"/><l>&CB00508;諍家不和</l><l>諸毒欲來傷</l><l>如前多種難</l>
+<lb ed="X" n="0838b18"/><l>常持八祕明</l><l>無惡不殄除</l><l>印契差別門</l>
+<lb ed="X" n="0838b19"/><l>要當師密受</l><l>若在曼荼羅</l><l>正對尊前恣</l>
+<lb ed="X" n="0838b20"/><l>頻申動支節</l><l>噓吹大捶頭</l><l>穢嗌噴鳴聲</l>
+<lb ed="X" n="0838b21"/><l>涕唾及咳嗽</l><l>如是之等事</l><l>制之勿憍慢</l>
+<lb ed="X" n="0838b22"/><l>大教阿闍梨</l><l>深行巧慧者</l><l>欲求大悉地</l>
+<lb ed="X" n="0838b23"/><l>應須頻護摩</l><l>每滿三洛叉</l><l>一度火供養</l>
+<lb ed="X" n="0838b24"/><l>若得三相現</l><l>暖煙及光明</l><l>&CB01894;中發大聲</l>
+<pb ed="X" id="X02.0181.0838c" n="0838c"/>
+<lb ed="X" n="0838c01"/><l>梵音師子吼</l><l>雷鳴微妙響</l><l>鐘鼓雅歌聲</l>
+<lb ed="X" n="0838c02"/><l>種種說法音</l><l>行人得悉地</l><l>護摩如教法</l>
+<lb ed="X" n="0838c03"/><l>微細明解之</l><l>小分不相應</l><l>眾惡皆來集</l>
+<lb ed="X" n="0838c04"/><l>三俱<note n="0838003" resp="Xuzangjing" place="foot text" type="orig">眠疑胝</note>眠數滿</l><l>常得見文殊</l><l>心通解脫門</l>
+<lb ed="X" n="0838c05"/><l>智慧不可測</l><l>世出世間願</l><l>所求皆滿足</l></lg>
+<lb ed="X" n="0838c06"/>
+<lb ed="X" n="0838c07"/><juan fun="close" n="1"><jhead>文殊八字儀軌</jhead></juan>
+<lb ed="X" n="0838c08"/>
+<lb ed="X" n="0838c09"/><div2 type="w"><p id="pX02p0838c0901">長慶四年八月三十日東塔院青龍寺沙門義雲
+<lb ed="X" n="0838c10"/>法金剛與中天三藏菩提仙同譯筆結偈潤文僧
+<lb ed="X" n="0838c11"/>義雲寫勘終記之耳。</p></div2></div1>
+</body></text></TEI.2>

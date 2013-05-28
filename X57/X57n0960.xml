@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X57n0960.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 960 三教出興頌註</title>
+			<author>宋 宗曉注</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.4 $ (Big5)<date>$Date: 2009/04/22 09:00:45 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:00:45 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 57, No. 960 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/06/06 13:40:31</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X57n0960.xml,v $
+Revision 1.4  2009/04/22 09:00:45  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.3  2007/08/24 07:41:34  amtbgrace
+modified: 校注插入 XML 作業完成
+
+Revision 1.2  2005/06/06 05:48:07  edith
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X57.0960.0097c" n="0097c"/>
+<lb ed="X" n="0097c01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0097c02"/>
+<lb ed="X" n="0097c03"/>
+<lb ed="X" n="0097c04"/>
+<lb ed="X" n="0097c05"/><head type="no">No. 960</head>
+<lb ed="X" n="0097c06"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>三教出興頌</jhead></juan>
+<lb ed="X" n="0097c07"/>
+<lb ed="X" n="0097c08"/><byline type="author">四明石芝釋　宗曉　注</byline>
+<lb ed="X" n="0097c09"/><div1><p id="pX57p0097c0901" rend="margin-left:1em">此頌自昔流傳而不知著述之者原夫三教聖人
+<lb ed="X" n="0097c10"/>出興于世實為天下帝王人物治道之主聖人不
+<lb ed="X" n="0097c11"/>作則後世何以趍嚮焉末章曰鼎分三足還歸一
+<lb ed="X" n="0097c12"/>信斯言也三教之道盡於是矣遇讀文中子有云
+<lb ed="X" n="0097c13"/>詩書盛而秦<note n="0097001" resp="Xuzangjing" place="foot text" type="orig">也一作世</note>也滅非孔子之罪&CB00980;玄長而晉室亂
+<lb ed="X" n="0097c14"/>非老莊之罪齋戒修而梁國亡非釋迦之罪易不
+<lb ed="X" n="0097c15"/>云乎苟非其人道不&CB00980;行觀皇極讜論知三教於
+<lb ed="X" n="0097c16"/>是乎一頌言之至誠與王<note n="0097002" resp="Xuzangjing" place="foot text" type="orig">通疑道</note>通相表裏&CB15095;者宜自審
+<lb ed="X" n="0097c17"/>之固不在於言傳矣然三教之興有歲月可考有
+<lb ed="X" n="0097c18"/>靈瑞可驗莫不稽諸經史孰得併觀斯文紀載言
+<lb ed="X" n="0097c19"/>略意周包羅揆<note n="0097003" resp="Xuzangjing" place="foot text" type="orig">淑一作敘</note>淑今復質諸事實而注釋之庶幾
+<lb ed="X" n="0097c20"/>發揮先聖之顯化也其或不然則將就而正之矣
+<lb ed="X" n="0097c21"/>時嘉泰元年辛酉歲五月望日寓南湖指光齋序。</p>
+<lb ed="X" n="0097c22"/><div2 type="orig"><lg id="lgX57p0097c2201"><l>釋迦降&CB00528;於迦維</l><l>周昭甲寅廿四歲</l></lg></div2>
+<lb ed="X" n="0097c23"/><div2 type="commentary"><p id="pX57p0097c2301" rend="margin-left:1em">吾佛大師久證遮那妙體本無出沒以大悲願力
+<lb ed="X" n="0097c24"/>故降&CB00528;中天示現近成茲所謂生滅在物固不在
+<pb ed="X" id="X57.0960.0098a" n="0098a"/>
+<lb ed="X" n="0098a01"/><app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>也然降生之相大小乘經載之甚詳今且寄小
+<lb ed="X" n="0098a02"/>以明之瑞應經曰菩薩九十一劫修道當一生補
+<lb ed="X" n="0098a03"/>處于兜率天期運之至下生作佛於是託&CB00528;迦維
+<lb ed="X" n="0098a04"/>羅衛國父名淨飯母名靡耶迦維衛者三千日月
+<lb ed="X" n="0098a05"/>萬二千天地之中央也菩薩初下化時乘白象貫
+<lb ed="X" n="0098a06"/>日之精因母晝寢右脅而入夢寤頓知有娠因果
+<lb ed="X" n="0098a07"/>經曰菩薩處胎十月滿足四月八日日初出時摩
+<lb ed="X" n="0098a08"/>耶在藍毗尼園是時天龍八部滿&CB00980;空中園有無
+<lb ed="X" n="0098a09"/>憂樹枝葉敷茂摩耶手牽樹枝太子漸從右&CB00169;出
+<lb ed="X" n="0098a10"/>地產蓮華七莖即墮華上不假扶持自行七步舉
+<lb ed="X" n="0098a11"/>右手而言曰我於一切天人之中最尊最上爾時
+<lb ed="X" n="0098a12"/>天降三十二瑞四天王即以天繒接太子身置諸
+<lb ed="X" n="0098a13"/>寶几帝釋執蓋梵王持拂侍立左右難陀等龍吐
+<lb ed="X" n="0098a14"/>清淨水灌沐其身放大光明普照世界自此出世
+<lb ed="X" n="0098a15"/>年至十九逾城出家苦行六年游歷五載三十成
+<lb ed="X" n="0098a16"/>無上道常身現丈六金輝圓光一尋具三十二大
+<lb ed="X" n="0098a17"/>人之相說法度人總三百餘會始自華嚴終至雙
+<lb ed="X" n="0098a18"/>林無小無大咸歸佛界真所謂懸日月於幽塗駕
+<lb ed="X" n="0098a19"/>慈航於苦海者也然佛生西域經中不言歲紀但
+<lb ed="X" n="0098a20"/>云四月八日而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>此土推之亦異出不一古今斷
+<lb ed="X" n="0098a21"/>取昭王之世為正故周書異記曰周昭王瑕即位
+<lb ed="X" n="0098a22"/>二十四年甲寅歲四月初八日<note place="inline">周之四月即今之二月下文二月十
+<lb ed="X" n="0098a23"/>五佛滅即今之十二月以周朝用建子之月為正異乎今之世也辨此委如北山錄</note>江河泛
+<lb ed="X" n="0098a24"/>漲大地震動是夜有五色光氣入貫大微&CB00642;於西
+<pb ed="X" id="X57.0960.0098b" n="0098b"/>
+<lb ed="X" n="0098b01"/>方作青紅色王問太史蘇由由奏曰有大聖人生
+<lb ed="X" n="0098b02"/>於西方故現斯瑞王曰於此國如何由曰無他一
+<lb ed="X" n="0098b03"/>千年終聲教被此王命鐫石記之埋於南郊天祠
+<lb ed="X" n="0098b04"/>前然則昭王目&CB00418;吾西聖靈瑞而不懷祈嚮之心
+<lb ed="X" n="0098b05"/>蓋福應斯來自有數也。</p></div2>
+<lb ed="X" n="0098b06"/><div2 type="orig"><lg id="lgX57p0098b0601"><l>穆王壬申五十二</l><l>如來八十歸真際</l></lg></div2>
+<lb ed="X" n="0098b07"/><div2 type="commentary"><p id="pX57p0098b0701" rend="margin-left:1em">大般涅槃三德秘藏名曰真際即一切三世諸佛
+<lb ed="X" n="0098b08"/>機息應轉放身命處也廣示大雄示滅化事莫過
+<lb ed="X" n="0098b09"/>法顯所譯涅槃經故彼曰如來既受波旬所請自
+<lb ed="X" n="0098b10"/>言&CB00230;後三月當般涅槃所應度者皆<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>畢竟即語
+<lb ed="X" n="0098b11"/>阿難言我於今夜入滅汝詣鳩尸那城娑羅雙樹
+<lb ed="X" n="0098b12"/>間灑掃令淨安於&CB00646;座吾今身體疲極矣阿難奉
+<lb ed="X" n="0098b13"/>&CB00330;涕淚而去佛即詣其所北首右脅而臥四眾雲
+<lb ed="X" n="0098b14"/>擁從地列于空界四方各滿三十二由旬莫不悲
+<lb ed="X" n="0098b15"/>號懊惱如來復說諸法最後唱言諸行無常是生
+<lb ed="X" n="0098b16"/>滅法生滅滅<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>寂滅為樂我雖金剛之體亦不免
+<lb ed="X" n="0098b17"/>於無常汝等當勤精進速求出離此則是我最後
+<lb ed="X" n="0098b18"/>教誨也茶毗後分曰如來於娑羅林間偃臥寶&CB00646;
+<lb ed="X" n="0098b19"/>中夜入第四禪寂然無聲<note n="0098001" resp="Xuzangjing" place="foot text" type="orig">使疑便</note>使般涅槃其娑羅樹四
+<lb ed="X" n="0098b20"/>雙八隻合為二樹枝條下覆慘然變白&CB15112;色大地
+<lb ed="X" n="0098b21"/>震動萬&CB15077;號呼既入滅<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>依輪王闍維法置七寶
+<lb ed="X" n="0098b22"/>棺中<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而自舉遶拘尸城七匝即入香樓&CB05577;流聖
+<lb ed="X" n="0098b23"/>火自焚七日乃盡碎金剛身成粖舍利眾收舍利
+<lb ed="X" n="0098b24"/>滿八金&CB00101;迴拘尸城起塔供養大經曰如來二月
+<pb ed="X" id="X57.0960.0098c" n="0098c"/>
+<lb ed="X" n="0098c01"/>滅度者蓋春陽萬物生育華果敷榮眾生多生常
+<lb ed="X" n="0098c02"/>想故於此月入滅十五日者月無虧盈如來入大
+<lb ed="X" n="0098c03"/>涅槃示無盈虧相也上皆西域言教此國則當穆
+<lb ed="X" n="0098c04"/>王之世故周書異記曰周穆王<note place="inline">滿</note>五十二年壬申
+<lb ed="X" n="0098c05"/>歲二月十五日平旦暴風忽起損舍折木大地山
+<lb ed="X" n="0098c06"/>河悉皆震動至於午後天陰雲黑西方忽有白虹
+<lb ed="X" n="0098c07"/>一十二道貫于南北連夜不滅王問太史扈多多
+<lb ed="X" n="0098c08"/>奏曰此方西方有大聖人滅度此其衰相耳王初
+<lb ed="X" n="0098c09"/>即位見南郊&CB15156;紀西方聖人之生又數&CB00418;光氣慮
+<lb ed="X" n="0098c10"/>非周道所宜即命呂侯會諸侯於塗山以備其變
+<lb ed="X" n="0098c11"/>至此靡不啟沃也言八十為佛壽者台宗光明疏
+<lb ed="X" n="0098c12"/>論此有三品下方四十中方八十上方一百二十
+<lb ed="X" n="0098c13"/>佛住世八十表住中也若至昭王甲寅年推至穆
+<lb ed="X" n="0098c14"/>王壬申年佛壽止七十九凡言八十者總約大數
+<lb ed="X" n="0098c15"/>言之也。</p></div2>
+<lb ed="X" n="0098c16"/><div2 type="orig"><lg id="lgX57p0098c1601"><l>滅後一千十六年</l><l>教法東傳漢明帝</l></lg></div2>
+<lb ed="X" n="0098c17"/><div2 type="commentary"><p id="pX57p0098c1701" rend="margin-left:1em">佛自穆王壬申歲入滅歷一千十六年至後漠明
+<lb ed="X" n="0098c18"/>帝朝永平十年教法始東傳中國故漢法本內傳
+<lb ed="X" n="0098c19"/>曰後漢顯宗孝明皇帝<note place="inline">莊</note>永平七年甲子歲<note place="inline">諸文或云
+<lb ed="X" n="0098c20"/>三年或云六年<note n="0098002" resp="Xuzangjing" place="foot text" type="orig">下疑或</note>〔下〕十年丁卯或云七年並誤</note>帝夜夢一金神身長丈六
+<lb ed="X" n="0098c21"/>項佩日光飛來殿庭乃宵夜待旦召&CB00320;臣以占所
+<lb ed="X" n="0098c22"/>夢時通事舍人傅毅奏曰臣據周書異記大史蘇
+<lb ed="X" n="0098c23"/>由所奏周昭王時云西方有大聖人出世其名曰
+<lb ed="X" n="0098c24"/>佛一千年外聲教被此陛下所夢將必是歟帝以
+<pb ed="X" id="X57.0960.0099a" n="0099a"/>
+<lb ed="X" n="0099a01"/>為然即遣羽林中郎蔡愔博士秦景王遵等一十
+<lb ed="X" n="0099a02"/>二人將命求諸夢及至大月氏<note place="inline">音支</note>國與攝摩騰竺
+<lb ed="X" n="0099a03"/>法蘭二師遇焉至十年丁卯歲十二月三十日漢
+<lb ed="X" n="0099a04"/>使迴至洛陽二僧以白馬駝經朝見於帝進釋迦
+<lb ed="X" n="0099a05"/>像并梵本經於是肇立白馬寺奉&CB00330;置像於南宮
+<lb ed="X" n="0099a06"/>清涼臺始命翻譯四十二章經緘于蘭臺石室此
+<lb ed="X" n="0099a07"/>即漢國三寶之始唱也北山神清師贊曰夫假一
+<lb ed="X" n="0099a08"/>宵之夢樹風聲於萬古如帝莊者天下實有君矣
+<lb ed="X" n="0099a09"/>宣心茂猷光啟有漢如王傅秦蔡者漢室實有<note n="0099001" resp="Xuzangjing" place="foot text" type="orig">臣下一有矣字</note>臣
+<lb ed="X" n="0099a10"/>為法王之遺徒洪嗣德音如騰蘭者天竺實有僧
+<lb ed="X" n="0099a11"/>矣大哉明主與二三臣興金仙之教適未聞之俗
+<lb ed="X" n="0099a12"/>使人以悃悃之誠知罪福所歸厭有漏之軀尚無
+<lb ed="X" n="0099a13"/>為之理&CB15210;&CB15210;焉玄化之功未可一日而殫論也<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0099a14"/>矣然自大法濫觴迄今辛酉歲凡一千一百<note n="0099002" resp="Xuzangjing" place="foot text" type="orig">四一作三</note>四十
+<lb ed="X" n="0099a15"/>有四年若通自佛滅後言之則二千一百五十一
+<lb ed="X" n="0099a16"/>年矣。</p></div2>
+<lb ed="X" n="0099a17"/><div2 type="orig"><lg id="lgX57p0099a1701"><l>佛生四百二十二</l><l>老子方生定王世</l></lg></div2>
+<lb ed="X" n="0099a18"/><div2 type="commentary"><p id="pX57p0099a1801" rend="margin-left:1em">此下紀孔老二聖生時生必兼滅故今具述始末
+<lb ed="X" n="0099a19"/>出處覽者無謂其贅也據佛生昭王甲寅年老子
+<lb ed="X" n="0099a20"/>生宗王乙卯年相去歷一十八帝越四百二十有
+<lb ed="X" n="0099a21"/>二年若自佛滅至于老子生亦<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>三百四十四年
+<lb ed="X" n="0099a22"/>矣而老子雖有西邁流沙之說去佛遼遠世傳化
+<lb ed="X" n="0099a23"/>胡經有化胡成佛事不亦謬作乎今按史記并老
+<lb ed="X" n="0099a24"/>子內傳魏書國臣記等皆云老子在周世第二十
+<pb ed="X" id="X57.0960.0099b" n="0099b"/>
+<lb ed="X" n="0099b01"/>二主定王<note place="inline">瑜</note>元年乙卯<note place="inline">或云三年者誤</note>九月十四日子時
+<lb ed="X" n="0099b02"/>生於陳國楚苦<note place="inline">音戶</note>縣厲鄉曲仁里父韓氏韓虔字
+<lb ed="X" n="0099b03"/>元卑母名精敷因見日精如流星飛入口而有孕
+<lb ed="X" n="0099b04"/>閱十二年誕於李樹下遂指李為姓名耳字伯陽
+<lb ed="X" n="0099b05"/>耳大無輪<app><lem wit="【CBETA】" resp="CBETA.maha">諡</lem><rdg wit="【卍續】">謚</rdg></app>曰聃生而髭鬚皓白乃稱老子&CB15112;髮
+<lb ed="X" n="0099b06"/>龍顏廣顙方口面凝金色舌絡錦文身長一丈二
+<lb ed="X" n="0099b07"/>齒足四十八至簡王<note place="inline">夷</note>二年丁丑二十三歲為守
+<lb ed="X" n="0099b08"/>藏室之吏十年遷柱下史至景王<note place="inline">貴</note>二十四年庚
+<lb ed="X" n="0099b09"/>辰年八十五見周德之衰遂入函谷關關令尹喜
+<lb ed="X" n="0099b10"/>先見紫氣浮關當有異人至求之果得老子喜曰
+<lb ed="X" n="0099b11"/>子將隱矣強為我著書乎於是&CB02626;著上下篇五千
+<lb ed="X" n="0099b12"/>言言道德之意自此與喜俱之流沙西服臣勝之
+<lb ed="X" n="0099b13"/>境莫知所終也案莊子自言老聃死秦失<note place="inline">音迭</note>吊之
+<lb ed="X" n="0099b14"/>三號而出至於老者哭之如哭其子少者哭之如
+<lb ed="X" n="0099b15"/>哭其母<note n="0099003" resp="Xuzangjing" place="foot text" type="orig">咸一作成</note>咸道士注曰老君應時而降蕭然死去亦
+<lb ed="X" n="0099b16"/>順理而返真耳十洲記曰老子墓在扶風槐里今
+<lb ed="X" n="0099b17"/>雍州長安是也合上諸說是老子未&CB00573;不死諒西
+<lb ed="X" n="0099b18"/>游後復歸於周<note n="0099004" resp="Xuzangjing" place="foot text" type="orig">地一作也</note>地靈寶經以老子為高仙乃所謂
+<lb ed="X" n="0099b19"/>太清仙境道德是也從老子入關止今辛酉歲計
+<lb ed="X" n="0099b20"/>一千七百二十有二年其死之日則未見書傳載
+<lb ed="X" n="0099b21"/>之。</p></div2>
+<lb ed="X" n="0099b22"/><div2 type="orig"><lg id="lgX57p0099b2201"><l>佛生四百七十七</l><l>孔子靈王方誕質</l></lg></div2>
+<lb ed="X" n="0099b23"/><div2 type="commentary"><p id="pX57p0099b2301" rend="margin-left:1em">昭王朝甲寅歲佛生靈王朝庚戌歲孔子生二聖
+<lb ed="X" n="0099b24"/>相去四百七十七年矣準史記世家孔氏其先宋
+<pb ed="X" id="X57.0960.0099c" n="0099c"/>
+<lb ed="X" n="0099c01"/>人五世祖徙於魯國昌平鄉陬邑魯襄公二十二
+<lb ed="X" n="0099c02"/>年即周靈王<note place="inline">泄</note>二十一年庚戌歲十二月初四日
+<lb ed="X" n="0099c03"/>孔子生父叔粱紇母顏<note n="0099005" resp="Xuzangjing" place="foot text" type="orig">微一作徵</note>微懼不時生男乃私禱於
+<lb ed="X" n="0099c04"/>尼丘山洎生首上&CB16657;頂因立名曰丘字仲尼身長
+<lb ed="X" n="0099c05"/>九尺六寸世謂之長人為兒嬉戲常陳&CB01131;豆設禮
+<lb ed="X" n="0099c06"/>容及長為季氏<note n="0099006" resp="Xuzangjing" place="foot text" type="orig">吏一作史</note>吏料量平為司職吏畜蕃息一日
+<lb ed="X" n="0099c07"/>謂敬叔曰吾聞老聃&CB00397;古知今通禮樂之原明道
+<lb ed="X" n="0099c08"/>德之歸則吾師也遂適周以問焉<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而反魯弟子
+<lb ed="X" n="0099c09"/>益進年三十五而昭公奔齊魯亂於是適齊為高
+<lb ed="X" n="0099c10"/>昭子家臣以通乎景公景公欲封以尼谿之田晏
+<lb ed="X" n="0099c11"/>嬰不可公惑之孔子遂反乎魯時年四十二而定
+<lb ed="X" n="0099c12"/>公立季氏強僭其臣陽虎作亂專政故不仕而退
+<lb ed="X" n="0099c13"/>公山不狃以費畔季氏召欲往而卒不行定公以
+<lb ed="X" n="0099c14"/>孔子為中都宰一年四方則之遂為司空又為大
+<lb ed="X" n="0099c15"/>司&CB02204;十年相定公會齊侯于夾谷齊人歸魯侵疆
+<lb ed="X" n="0099c16"/>十三年使仲由為季氏宰<note n="0099007" resp="Xuzangjing" place="foot text" type="orig">墮疑隳</note>墮三都收其甲兵孟氏
+<lb ed="X" n="0099c17"/>不肯墮成圍之不克十四年孔子五十六攝行相
+<lb ed="X" n="0099c18"/>事誅少正卯與聞國政魯國大治齊人歸女樂以
+<lb ed="X" n="0099c19"/>沮之季桓子受之郊又不致膰&CB01131;於大夫遂適衛
+<lb ed="X" n="0099c20"/>主子路妻兄顏濁鄒家往陳過匡匡人以為陽虎
+<lb ed="X" n="0099c21"/>而捕之既解還衛主蘧伯玉家見南子復去宋與
+<lb ed="X" n="0099c22"/>弟子習禮於大樹下桓魋欲殺孔子拔其樹又過
+<lb ed="X" n="0099c23"/>鄭與弟子相失至于陳主司城貞子家居三歲而
+<lb ed="X" n="0099c24"/>反于衛靈公不能用孔子行佛肸為中牟宰趙簡
+<pb ed="X" id="X57.0960.0100a" n="0100a"/>
+<lb ed="X" n="0100a01"/>子伐中牟佛肸畔使人召孔子亦不往將西見趙
+<lb ed="X" n="0100a02"/>簡子至河而反又主蘧伯玉家靈公問陳不對而
+<lb ed="X" n="0100a03"/>行復如陳季桓子卒遺言謂康子必召孔子其臣
+<lb ed="X" n="0100a04"/>止之康子乃召冉求孔子自蔡及葉楚國來聘孔
+<lb ed="X" n="0100a05"/><note n="0100001" resp="Xuzangjing" place="foot text" type="orig">子下一有孔子二字</note>子路出陳蔡陳蔡疑楚之用乃相與<note n="0100002" resp="Xuzangjing" place="foot text" type="orig">徒字勘更</note>徒兵圍之於
+<lb ed="X" n="0100a06"/>野遂絕糧七日莫能舉孔子乃講誦絃歌不衰楚
+<lb ed="X" n="0100a07"/>昭王興師迎孔子將書社地七百里封之令尹子
+<lb ed="X" n="0100a08"/>西不可乃止孔子自楚反衛衛君欲得孔子為政
+<lb ed="X" n="0100a09"/>而冉求為季氏將齊戰有功康子乃召孔子而孔
+<lb ed="X" n="0100a10"/>子歸魯實哀公之十一年孔子六十八矣魯終不
+<lb ed="X" n="0100a11"/>能用孔子孔子亦不求仕進是時周室微禮樂廢
+<lb ed="X" n="0100a12"/>詩書缺孔子乃追&CB00528;三代之禮上紀唐虞之際下
+<lb ed="X" n="0100a13"/>至秦繆故書傳禮記自孔子始古詩三千餘首孔
+<lb ed="X" n="0100a14"/>子去重取可施於禮義者三百五篇以示來世晚
+<lb ed="X" n="0100a15"/>喜學易序彖繫象說卦<note n="0100003" resp="Xuzangjing" place="foot text" type="orig">之一作文</note>之言弟子蓋三千身通六
+<lb ed="X" n="0100a16"/>藝者七十二人魯哀公十四年春狩大野叔孫氏
+<lb ed="X" n="0100a17"/>獲麟折足以為不祥孔子曰麟也取之吾道窮矣
+<lb ed="X" n="0100a18"/>孔子作春秋以繩當世貶損之義春秋行則天下
+<lb ed="X" n="0100a19"/>亂臣賊子懼焉弟子受春秋孔子曰後世知丘者
+<lb ed="X" n="0100a20"/>以春秋罪丘者亦以春秋孔子病因子貢請見方
+<lb ed="X" n="0100a21"/>負杖於門而歌曰泰山其&CB02057;乎梁柱其摧乎哲人
+<lb ed="X" n="0100a22"/>其萎乎因涕下謂貢曰天下無道久矣莫能宗予
+<lb ed="X" n="0100a23"/>夏人殯於東階周人於西階殷人兩楹間丘殷人
+<lb ed="X" n="0100a24"/>也昨夢坐奠兩楹之間殆將死矣至七日果薨閱
+<pb ed="X" id="X57.0960.0100b" n="0100b"/>
+<lb ed="X" n="0100b01"/>年七十三實魯哀公十六年當周敬王<note place="inline">丐</note>四十二
+<lb ed="X" n="0100b02"/>年壬戌歲四月十一日午時也家語曰孔子葬於
+<lb ed="X" n="0100b03"/>魯城北泗水曲阜縣藏不及泉封為偃斧之形高
+<lb ed="X" n="0100b04"/>四尺植松柏為志弟子皆服心喪三年而去唯子
+<lb ed="X" n="0100b05"/>貢廬於墓凡六年自後群弟子及魯人從而家者
+<lb ed="X" n="0100b06"/>百餘因命其處曰孔里立廟以藏衣冠琴書世世
+<lb ed="X" n="0100b07"/>春秋奉祠雖帝王亦以弟子禮事之曾為魯國大
+<lb ed="X" n="0100b08"/>夫故稱夫子莊子尊之為素王至唐玄宗開元二
+<lb ed="X" n="0100b09"/>十七年封為文宣王事略<note n="0100004" resp="Xuzangjing" place="foot text" type="orig">載下一有之字</note>載真宗皇帝大中祥符
+<lb ed="X" n="0100b10"/>元年東封泰山還經兗州幸曲阜進謁于廟<app><lem wit="【CBETA】" resp="CBETA.maha">諡</lem><rdg wit="【卍續】">謚</rdg></app>玄
+<lb ed="X" n="0100b11"/>聖文宣王後避聖祖之諱五年改<app><lem wit="【CBETA】" resp="CBETA.maha">諡</lem><rdg wit="【卍續】">謚</rdg></app>至聖云自孔
+<lb ed="X" n="0100b12"/>子沒抵于今辛酉歲凡一千六百八十年矣。</p></div2>
+<lb ed="X" n="0100b13"/><div2 type="orig"><lg id="lgX57p0100b1301"><l>為報勞生稚子知</l><l>鼎分三足還歸一</l></lg></div2>
+<lb ed="X" n="0100b14"/><div2 type="commentary"><p id="pX57p0100b1401" rend="margin-left:1em">釋教稱眾生道家曰勞生此名異義異意同也稚
+<lb ed="X" n="0100b15"/>者幼禾未成立之義耳鼎分之說蓋發明儒道釋
+<lb ed="X" n="0100b16"/>三者並立於世不可缺一也歸一之言先援諸文
+<lb ed="X" n="0100b17"/>以示之老子西升經曰吾師化游天竺善入泥洹
+<lb ed="X" n="0100b18"/>符子曰老氏之師名釋迦文尹喜西升記曰老子
+<lb ed="X" n="0100b19"/>聞乾竺有古皇先生不生不滅綿綿長存德教如
+<lb ed="X" n="0100b20"/>列禦寇紀商太宰問孔子孔子答以五帝三皇聖
+<lb ed="X" n="0100b21"/>非丘所知西方有大聖人不治而不亂不言而自
+<lb ed="X" n="0100b22"/>信不化而自行蕩蕩乎人無能名此皆儒道宗師
+<lb ed="X" n="0100b23"/>于佛者也若釋典言示化於儒道如清淨法行經
+<lb ed="X" n="0100b24"/>曰摩訶迦葉應生震旦示號老子設無外之教外
+<pb ed="X" id="X57.0960.0100c" n="0100c"/>
+<lb ed="X" n="0100c01"/>以治國修神仙之術內以治身儒童菩薩彼稱孔
+<lb ed="X" n="0100c02"/>子淨光菩薩彼號顏回大哉三教之文貫通若此
+<lb ed="X" n="0100c03"/>故作頌者示人以知之竊&CB00573;論之當知三教一期
+<lb ed="X" n="0100c04"/>設化教&CB00528;須異考論三聖之本心則同焉異焉者
+<lb ed="X" n="0100c05"/>分家而各為其教也蓋中古之後元淳漸散其世
+<lb ed="X" n="0100c06"/>大漓三教於是相望而出相資以廣天下儒則制
+<lb ed="X" n="0100c07"/>法度崇禮節幽贊神明窮理盡性道則絕聖棄智
+<lb ed="X" n="0100c08"/>修身保真萬物不干其志天下不易其樂釋則五
+<lb ed="X" n="0100c09"/>時逗物三學修身近則懲惡以勸善遠則革凡而
+<lb ed="X" n="0100c10"/>成聖天下不可無儒不可無道不可無佛虧一教
+<lb ed="X" n="0100c11"/>則損天下一善道矣昔白樂天外以儒教修其身
+<lb ed="X" n="0100c12"/>內以佛教理其性中以道教延其壽斯人深得之
+<lb ed="X" n="0100c13"/>故不墮於一隅之見亦千載一人也同焉者原其
+<lb ed="X" n="0100c14"/>三教聖人之心或出或處或語或默凡所施為莫
+<lb ed="X" n="0100c15"/>不化天下人之為善故儒教之至也殷湯改祝孔
+<lb ed="X" n="0100c16"/>釣不網老教之至也一曰慈二曰儉三曰不敢為
+<lb ed="X" n="0100c17"/>天下先釋教之至也於家出家下至非類莫不興
+<lb ed="X" n="0100c18"/>大慈悲矧五常五行五成皆一體而異號唯患乎
+<lb ed="X" n="0100c19"/>不遵于一耳且三宗大<note n="0100005" resp="Xuzangjing" place="foot text" type="orig">訓一作要</note>訓率以仁慈為本傳施為
+<lb ed="X" n="0100c20"/>心誠所謂何莫由斯道也<note n="0100006" resp="Xuzangjing" place="foot text" type="orig">仰一作夫</note>仰觀三聖本心一貫之
+<lb ed="X" n="0100c21"/>以善道而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>世人勿得以泥其&CB00528;而致彼此之異
+<lb ed="X" n="0100c22"/>也梁有傅大士為鍼斯病故以道冠儒履佛袈裟
+<lb ed="X" n="0100c23"/>和會三家作一家善慧善得無諍三昧故有斯事
+<lb ed="X" n="0100c24"/>凡觀斯文者宜詳&CB00521;焉。</p></div2>
+<pb ed="X" id="X57.0960.0101a" n="0101a"/>
+<lb ed="X" n="0101a01"/>
+<lb ed="X" n="0101a02"/><juan fun="close" n="1"><jhead>三教出興頌<note place="inline">終</note></jhead></juan></div1>
+</body></text></TEI.2>

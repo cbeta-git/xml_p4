@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X24n0454.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 454 金剛經註</title>
+			<author>東晉 僧肇注</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.3 $ (Big5)<date>$Date: 2009/04/22 08:53:44 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:53:44 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 24, No. 454 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, Text as provided by Electronic Buddhadharma Society (EBS)</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，佛教電腦資訊庫功德會提供</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2006/08/03 16:51:56</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X24n0454.xml,v $
+Revision 1.3  2009/04/22 08:53:44  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.2  2007/07/09 06:51:57  eva
+modified: 校注作業完成
+
+Revision 1.1  2006/08/03 08:59:29  ray
+basicx 程式 轉自 簡單標記版
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X24.0454.0394c" n="0394c"/>
+<lb ed="X" n="0394c01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0394c02"/>
+<lb ed="X" n="0394c03"/>
+<lb ed="X" n="0394c04"/>
+<lb ed="X" n="0394c05"/><div1 type="xu"><mulu type="序" level="1" label="No. 454-A 注金剛經序"/><head>No. 454-A
+<lb ed="X" n="0394c06"/> 注金剛經序</head>
+<lb ed="X" n="0394c07"/>
+<lb ed="X" n="0394c08"/><byline type="author">金龍沙門　敬雄　撰</byline>
+<lb ed="X" n="0394c09"/><p id="pX24p0394c0901">曩昔慈覺大師之入于支那也。齎持晉肇公注金剛
+<lb ed="X" n="0394c10"/>經而歸。祕諸名山。光明不照世也。殆九百年矣。頃祖
+<lb ed="X" n="0394c11"/>芳禪人持來告曰。是乃祖請來之本。予偶得之。請師
+<lb ed="X" n="0394c12"/>校而梓之。使見聞者。結般若種子焉。予受而讀。半乃
+<lb ed="X" n="0394c13"/>掩卷歎曰。夫此經者。般若第九會。直示無住生心妙
+<lb ed="X" n="0394c14"/>旨。故云為發最上乘者說。&CB00582;一切菩薩。未有不學般
+<lb ed="X" n="0394c15"/>若。成無上菩提者。故彌勒．天親．無著．功德施四大菩
+<lb ed="X" n="0394c16"/>薩。造之偈論。讚揚弘通。法流乎支那。羅什初譯。肇公
+<lb ed="X" n="0394c17"/>乃注。從時厥後。奉為日課者亦多矣。且黃梅印心。曹
+<lb ed="X" n="0394c18"/>溪悟道。靈瑞之著。注疏之多。宜莫此經若也。而其注
+<lb ed="X" n="0394c19"/>之舊。肇公為先。注來於大東。亦此注為先。而發諸注
+<lb ed="X" n="0394c20"/>既行之殿者。豈非時節因緣乎。天台大師曾講此經。
+<lb ed="X" n="0394c21"/>專依肇公。猶如說觀經。專依淨影也。故今每有疑誤。
+<lb ed="X" n="0394c22"/>輒依天台疏以校讎焉。嗟乎。斯注者。天台所欽用。慈
+<lb ed="X" n="0394c23"/>覺所請來。文古義幽。深得佛意。且投好略機。實苦海
+<lb ed="X" n="0394c24"/>津梁。迷塗司南也。梓而行之。則其利益復如何哉。故
+<pb ed="X" id="X24.0454.0395a" n="0395a"/>
+<lb ed="X" n="0395a01"/>隨喜以校。亦願後之讀此注者。因指得月。悟無住生
+<lb ed="X" n="0395a02"/>心妙旨。則與黃梅曹溪。同一鼻孔出氣。不必紛紛更
+<lb ed="X" n="0395a03"/>從事於後世異說。而哆以為博也。</p>
+<lb ed="X" n="0395a04"/><p id="pX24p0395a0401">寶曆十二壬午之夏</p></div1>
+<lb ed="X" n="0395a05"/>
+<lb ed="X" n="0395a06"/>
+<lb ed="X" n="0395a07"/>
+<lb ed="X" n="0395a08"/><div1 type="other"><mulu type="其他" level="1" label="金剛般若波羅蜜經注"/>
+<lb ed="X" n="0395a09"/><head type="no">No. 454</head>
+<lb ed="X" n="0395a10"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>金剛般若波羅蜜經注</jhead></juan>
+<lb ed="X" n="0395a11"/>
+<lb ed="X" n="0395a12"/><byline type="other">姚秦三藏法師鳩摩羅什譯</byline>
+<lb ed="X" n="0395a13"/><byline type="author">姚秦　釋僧肇　注</byline>
+<lb ed="X" n="0395a14"/><div2 type="commentary"><p id="pX24p0395a1401" rend="margin-left:1em">夫理歸中道。二諦為宗。何者。萬法之生。皆假因緣
+<lb ed="X" n="0395a15"/>而有生滅流謝。浮偽不實。稱之為俗也。因緣諸法。
+<lb ed="X" n="0395a16"/>皆無自性。自性既無。因緣都忘。本自不生。今則無
+<lb ed="X" n="0395a17"/>滅。體極無改。目之為真。真俗為二。理審為諦。聖心
+<lb ed="X" n="0395a18"/>正觀。鑒真照俗。此當中道法相之解。稱為般若。般
+<lb ed="X" n="0395a19"/>若慧也。金剛者。堅利之譬也。堅則物莫能沮。利故
+<lb ed="X" n="0395a20"/>無物不摧。以況斯慧。邪惡不能毀。堅之極也。本惑
+<lb ed="X" n="0395a21"/>皆破。利之義也。波羅蜜者。到彼岸也。生死為此。涅
+<lb ed="X" n="0395a22"/>槃為彼。大士乘無相慧。捨此生死。到彼涅槃矣。經
+<lb ed="X" n="0395a23"/>由津通義也。言由理生。理經言顯。學者神悟。從理
+<lb ed="X" n="0395a24"/>教而通矣。</p>
+<pb ed="X" id="X24.0454.0395b" n="0395b"/>
+<lb ed="X" n="0395b01"/><p id="pX24p0395b0101" rend="margin-left:1em">此經本體。空慧為主。略存始終。凡有三章。初訖尊
+<lb ed="X" n="0395b02"/>重弟子。明境空也。意在語境。未言於慧。第二。正名
+<lb ed="X" n="0395b03"/>辯慧。即明慧空。但語慧空。未及行人。第三。種問以
+<lb ed="X" n="0395b04"/>下。明菩薩空也。三章之初。其文各現。前後相似。意
+<lb ed="X" n="0395b05"/>不同矣。四時般若。此最為初。言約義豐。幽旨難見。
+<lb ed="X" n="0395b06"/>敢以野陋。輒為注解。述其大略。非云曲盡詳析究
+<lb ed="X" n="0395b07"/>密。請俟明識者矣。</p></div2>
+<lb ed="X" n="0395b08"/><div2 type="orig"><p id="pX24p0395b0801">如是。</p></div2>
+<lb ed="X" n="0395b09"/><div2 type="commentary"><p id="pX24p0395b0901" rend="margin-left:1em">佛臨泥洹時。侍者請曰。一切經首。皆致何等。佛&CB00330;
+<lb ed="X" n="0395b10"/>阿難。應言如是。乃至時．眾也。如我所傳。如佛所說。
+<lb ed="X" n="0395b11"/>稱如是也。</p></div2>
+<lb ed="X" n="0395b12"/><div2 type="orig"><p id="pX24p0395b1201">我聞。</p></div2>
+<lb ed="X" n="0395b13"/><div2 type="commentary"><p id="pX24p0395b1301" rend="margin-left:1em">若從佗傳聞。不必如是。我親承金口而聞。事非謬
+<lb ed="X" n="0395b14"/>矣。</p></div2>
+<lb ed="X" n="0395b15"/><div2 type="orig"><p id="pX24p0395b1501">一。</p></div2>
+<lb ed="X" n="0395b16"/><div2 type="commentary"><p id="pX24p0395b1601" rend="margin-left:1em">謂是自聞當理。以不自不當理。傳之何為。言則當
+<lb ed="X" n="0395b17"/>理。理亦如言。言理不差。故言一也。</p></div2>
+<lb ed="X" n="0395b18"/><div2 type="orig"><p id="pX24p0395b1801">時。</p></div2>
+<lb ed="X" n="0395b19"/><div2 type="commentary"><p id="pX24p0395b1901" rend="margin-left:1em">雖曰當理。容不得時。若不得時。何能悟人。明聖不
+<lb ed="X" n="0395b20"/>&CB00980;說。言必會機。時哉之說也。</p></div2>
+<lb ed="X" n="0395b21"/><div2 type="orig"><p id="pX24p0395b2101">佛在舍衛國。</p></div2>
+<lb ed="X" n="0395b22"/><div2 type="commentary"><p id="pX24p0395b2201" rend="margin-left:1em">法王行運。應物而遊。一時降集。在舍衛大城。憍薩
+<lb ed="X" n="0395b23"/>羅國之也。</p></div2>
+<lb ed="X" n="0395b24"/><div2 type="orig"><p id="pX24p0395b2401">祗樹給孤獨園。</p></div2>
+<pb ed="X" id="X24.0454.0395c" n="0395c"/>
+<lb ed="X" n="0395c01"/><div2 type="commentary"><p id="pX24p0395c0101" rend="margin-left:1em">須達市園。祗陀施樹。共立精舍。故言祗樹給孤獨
+<lb ed="X" n="0395c02"/>園也。</p><p id="pX24p0395c0203" place="inline" rend="margin-left:1em">○市疏作布字。</p></div2>
+<lb ed="X" n="0395c03"/><div2 type="orig"><p id="pX24p0395c0301">與大比丘眾千二百五十人俱。</p></div2>
+<lb ed="X" n="0395c04"/><div2 type="commentary"><p id="pX24p0395c0401" rend="margin-left:1em">聖化無私。聽必有儔。俱聞如林。可信明矣。應有四
+<lb ed="X" n="0395c05"/>眾。略而不載者耳。</p><p id="pX24p0395c0508" place="inline" rend="margin-left:1em">○私疏作祕。</p></div2>
+<lb ed="X" n="0395c06"/><div2 type="orig"><p id="pX24p0395c0601">爾時。世尊食時。</p></div2>
+<lb ed="X" n="0395c07"/><div2 type="commentary"><p id="pX24p0395c0701" rend="margin-left:1em">日營資膳。食熟之時。此時人家皆有。施心易生。</p></div2>
+<lb ed="X" n="0395c08"/><div2 type="orig"><p id="pX24p0395c0801">著衣。</p></div2>
+<lb ed="X" n="0395c09"/><div2 type="commentary"><p id="pX24p0395c0901" rend="margin-left:1em">著僧伽梨。福田衣也。佛觀良田&CB17832;乘齊整。因命侍
+<lb ed="X" n="0395c10"/>者。出家之人。一切福田。凡製僧那。唯此為之。欲令
+<lb ed="X" n="0395c11"/>顧惟道無空信施之也。</p><p id="pX24p0395c1110" place="inline" rend="margin-left:1em">○&CB17832;乘疏作區塍。</p></div2>
+<lb ed="X" n="0395c12"/><div2 type="orig"><p id="pX24p0395c1201">持&CB00425;。</p></div2>
+<lb ed="X" n="0395c13"/><div2 type="commentary"><p id="pX24p0395c1301" rend="margin-left:1em">執應器也。</p></div2>
+<lb ed="X" n="0395c14"/><div2 type="orig"><p id="pX24p0395c1401">入舍衛大城乞食。</p></div2>
+<lb ed="X" n="0395c15"/><div2 type="commentary"><p id="pX24p0395c1501" rend="margin-left:1em">法身無待。何須何欲。且人天妙供日盈。現行分衛。
+<lb ed="X" n="0395c16"/>福物宜之也。</p><p id="pX24p0395c1606" place="inline" rend="margin-left:1em">○現疏作自。福物宜作福物之宜。</p></div2>
+<lb ed="X" n="0395c17"/><div2 type="orig"><p id="pX24p0395c1701">於其城中。次第乞<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。還至本處。</p></div2>
+<lb ed="X" n="0395c18"/><div2 type="commentary"><p id="pX24p0395c1801" rend="margin-left:1em">不越貧與富。不捨賤從貴。大慈平等。次第至也。</p></div2>
+<lb ed="X" n="0395c19"/><div2 type="orig"><p id="pX24p0395c1901">飯食訖。收衣&CB00425;。洗足<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。敷座而坐。</p></div2>
+<lb ed="X" n="0395c20"/><div2 type="commentary"><p id="pX24p0395c2001" rend="margin-left:1em">將陳般若。遵拭自敷。</p></div2>
+<lb ed="X" n="0395c21"/><div2 type="orig"><p id="pX24p0395c2101">時。長老須菩提。在大眾中。即從座起。偏袒右肩。右膝
+<lb ed="X" n="0395c22"/>著地。合掌恭敬。</p></div2>
+<lb ed="X" n="0395c23"/><div2 type="commentary"><p id="pX24p0395c2301" rend="margin-left:1em">夫神鍾雖朗。非扣而不鳴。聖不孤應。影響唯仁。師
+<lb ed="X" n="0395c24"/>尊道重。故&CB00018;敬盡恭也。</p><p id="pX24p0395c2410" place="inline" rend="margin-left:1em">○神鍾疏作鉅鐘。&CB00018;作克。</p></div2>
+<pb ed="X" id="X24.0454.0396a" n="0396a"/>
+<lb ed="X" n="0396a01"/><div2 type="orig"><p id="pX24p0396a0101">而白佛言。希有。世尊。</p></div2>
+<lb ed="X" n="0396a02"/><div2 type="commentary"><p id="pX24p0396a0201" rend="margin-left:1em">慈恩之重。豈可勝言。</p></div2>
+<lb ed="X" n="0396a03"/><div2 type="orig"><p id="pX24p0396a0301">如來善護念諸菩薩。善付囑諸菩薩。</p></div2>
+<lb ed="X" n="0396a04"/><div2 type="commentary"><p id="pX24p0396a0401" rend="margin-left:1em">護念．付囑。即希有事也。慈善將衛。令其行令。護念
+<lb ed="X" n="0396a05"/>也。行立道成。委授弘通。付囑也。</p></div2>
+<lb ed="X" n="0396a06"/><div2 type="orig"><p id="pX24p0396a0601">世尊。善男子．善女人。發阿耨多羅三藐三菩提心。</p></div2>
+<lb ed="X" n="0396a07"/><div2 type="commentary"><p id="pX24p0396a0701" rend="margin-left:1em">菩提。一切智也。標意擬向。遠期正覺。故言發心之
+<lb ed="X" n="0396a08"/>也。</p><p id="pX24p0396a0802" place="inline" rend="margin-left:1em">○意疏作心。</p></div2>
+<lb ed="X" n="0396a09"/><div2 type="orig"><p id="pX24p0396a0901">應云何住。云何降伏其心。</p></div2>
+<lb ed="X" n="0396a10"/><div2 type="commentary"><p id="pX24p0396a1001" rend="margin-left:1em">菩提妙果。非行不就。萬行雖曠。解有明昧。故有位
+<lb ed="X" n="0396a11"/>降之異。始則抑心就理。漸習自調。謂之降伏。終能
+<lb ed="X" n="0396a12"/>契解會宗。心不移去。謂之為住耳。</p><p id="pX24p0396a1214" place="inline" rend="margin-left:1em">○位疑住字。</p></div2>
+<lb ed="X" n="0396a13"/><div2 type="orig"><p id="pX24p0396a1301">佛言。善哉。善哉。須菩提。如汝所說。如來善護念諸菩
+<lb ed="X" n="0396a14"/>薩。善付囑諸菩薩。</p></div2>
+<lb ed="X" n="0396a15"/><div2 type="commentary"><p id="pX24p0396a1501" rend="margin-left:1em">讚諸之儀。當理會機。盡善之甚。誠如所言。</p><p id="pX24p0396a1517" place="inline" rend="margin-left:1em">○諸疏
+<lb ed="X" n="0396a16"/>作請。</p></div2>
+<lb ed="X" n="0396a17"/><div2 type="orig"><p id="pX24p0396a1701">汝今諦聽。當為汝說。善男子．善女人。發阿耨多羅三
+<lb ed="X" n="0396a18"/>藐三菩提心。應如是住。如是降伏其心。</p></div2>
+<lb ed="X" n="0396a19"/><div2 type="commentary"><p id="pX24p0396a1901" rend="margin-left:1em">若聽不審。則漏言遺理。或令諦聽。言理弗&CB00980;也。</p><p id="pX24p0396a1919" place="inline" rend="margin-left:1em">○
+<lb ed="X" n="0396a20"/>或疏作誡。</p></div2>
+<lb ed="X" n="0396a21"/><div2 type="orig"><p id="pX24p0396a2101">唯然。世尊。願樂欲聞。</p></div2>
+<lb ed="X" n="0396a22"/><div2 type="commentary"><p id="pX24p0396a2201" rend="margin-left:1em">慈戒許說。敬肅傾心。</p><p id="pX24p0396a2209" place="inline" rend="margin-left:1em">○戒疏作誡。</p></div2>
+<lb ed="X" n="0396a23"/><div2 type="orig"><p id="pX24p0396a2301">佛告須菩提。諸菩薩摩訶薩應如是降伏其心。</p></div2>
+<lb ed="X" n="0396a24"/><div2 type="commentary"><p id="pX24p0396a2401" rend="margin-left:1em">&CB00980;心履道。謂之菩薩。曠濟萬物。摩訶薩也。應如下
+<pb ed="X" id="X24.0454.0396b" n="0396b"/>
+<lb ed="X" n="0396b01"/>所說。則是降伏之方也。問降在後而答在前。何耶。
+<lb ed="X" n="0396b02"/>住深降淺。故問者標深於初。降淺易習。故答之於
+<lb ed="X" n="0396b03"/>前。問答有指。非其謬也。</p></div2>
+<lb ed="X" n="0396b04"/><div2 type="orig"><p id="pX24p0396b0401">所有一切眾生之類。若卵生．若胎生．若濕生．若化生。
+<lb ed="X" n="0396b05"/>若有色．若無色。若有想．若無想。若非有想非無想。我
+<lb ed="X" n="0396b06"/>皆令入無餘涅槃而滅度之。</p></div2>
+<lb ed="X" n="0396b07"/><div2 type="commentary"><p id="pX24p0396b0701" rend="margin-left:1em">正答降伏之行也。萬法雖曠。略為二科。一眾生法。
+<lb ed="X" n="0396b08"/>二五陰法。法不自起。因緣故生。但是因緣。自性皆
+<lb ed="X" n="0396b09"/>無。斯則順理為解。乖宗成惑。惑故生死流轉。解則
+<lb ed="X" n="0396b10"/>累滅無為。身心為苦。苦盡為樂。盡苦之道。其唯大
+<lb ed="X" n="0396b11"/>解。解極惑盡。身心俱忘。寂然永樂。謂之滅度。非我
+<lb ed="X" n="0396b12"/>弘化。群生豈濟。凡解不自生。要由漸習。假名法麤。
+<lb ed="X" n="0396b13"/>抑心則易。故始就眾生空。以明降伏也。</p><p id="pX24p0396b1316" place="inline" rend="margin-left:1em">○皆無作
+<lb ed="X" n="0396b14"/>皆空。惑故作惑即解。則作即。</p></div2>
+<lb ed="X" n="0396b15"/><div2 type="orig"><p id="pX24p0396b1501">如是滅度無量無數無邊眾生。實無眾生得滅度者。</p></div2>
+<lb ed="X" n="0396b16"/><div2 type="commentary"><p id="pX24p0396b1601" rend="margin-left:1em">解會中道。不有不無。無性故不有。假名則不無。非
+<lb ed="X" n="0396b17"/>無假名。故恒度眾生。自性空故。實無滅者矣。</p></div2>
+<lb ed="X" n="0396b18"/><div2 type="orig"><p id="pX24p0396b1801">何以故。須菩提。若有我相人相眾生相壽者相。即非
+<lb ed="X" n="0396b19"/>菩薩。</p></div2>
+<lb ed="X" n="0396b20"/><div2 type="commentary"><p id="pX24p0396b2001" rend="margin-left:1em">釋何故無滅者。若有我相。可言有滅。既無我人。其
+<lb ed="X" n="0396b21"/>誰滅乎。但是假名。而橫計我。執我為非。忘我為是。
+<lb ed="X" n="0396b22"/>是非既彰。得失明矣也。</p></div2>
+<lb ed="X" n="0396b23"/><div2 type="orig"><p id="pX24p0396b2301">復次。須菩提。菩薩於法。應無所住行於布施。所謂不
+<lb ed="X" n="0396b24"/>住色布施。不住聲香味觸法布施。</p></div2>
+<pb ed="X" id="X24.0454.0396c" n="0396c"/>
+<lb ed="X" n="0396c01"/><div2 type="commentary"><p id="pX24p0396c0101" rend="margin-left:1em">次答住行。即明法空。謂法彌曠。略舉內則六度。外
+<lb ed="X" n="0396c02"/>為六塵。內外諸法。斯皆因緣無性。因緣無性。則心
+<lb ed="X" n="0396c03"/>無停處。故應無住也。捨心無&CB00736;。謂之布施。無相可
+<lb ed="X" n="0396c04"/>存。何&CB00736;之有。施為六度之首。塵為法生之基。二法
+<lb ed="X" n="0396c05"/>皆空。于何不盡。既得法空。解明行立。無復退失。故
+<lb ed="X" n="0396c06"/>言住也。</p><p id="pX24p0396c0604" place="inline" rend="margin-left:1em">○基疏作機。</p></div2>
+<lb ed="X" n="0396c07"/><div2 type="orig"><p id="pX24p0396c0701">須菩提。菩薩應如是布施。不住於相。</p></div2>
+<lb ed="X" n="0396c08"/><div2 type="commentary"><p id="pX24p0396c0801" rend="margin-left:1em">結成住義也。施者．受者．財物皆不可得。不住相也。</p></div2>
+<lb ed="X" n="0396c09"/><div2 type="orig"><p id="pX24p0396c0901">何以故。若菩薩不住相布施。其福德不可思量。</p></div2>
+<lb ed="X" n="0396c10"/><div2 type="commentary"><p id="pX24p0396c1001" rend="margin-left:1em">釋何故布施應不住相耶。正以&CB00980;心而施。則福不
+<lb ed="X" n="0396c11"/>可量。故知不住為是。住相為非。又理既無量。心不
+<lb ed="X" n="0396c12"/>應限。稱理行施。故其福彌曠者乎。</p></div2>
+<lb ed="X" n="0396c13"/><div2 type="orig"><p id="pX24p0396c1301">須菩提。於意云何。東方&CB00980;空可思量不。不也。世尊。須
+<lb ed="X" n="0396c14"/>菩提。南西北方四維上下&CB00980;空可思量不。不也。世尊。
+<lb ed="X" n="0396c15"/>須菩提。菩薩無住相布施。福德亦復如是不可思量。</p></div2>
+<lb ed="X" n="0396c16"/><div2 type="commentary"><p id="pX24p0396c1601" rend="margin-left:1em">理極二空。降住<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>彰。理行既顯。時聽戢心。如說而
+<lb ed="X" n="0396c17"/>行。其福為多。為多之況。齊乎太&CB00980;之矣。</p></div2>
+<lb ed="X" n="0396c18"/><div2 type="orig"><p id="pX24p0396c1801">須菩提。菩薩但應如所教住。</p></div2>
+<lb ed="X" n="0396c19"/><div2 type="commentary"><p id="pX24p0396c1901" rend="margin-left:1em">聖言無謬。理不可越。但當如佛所教而安心也。</p></div2>
+<lb ed="X" n="0396c20"/><div2 type="orig"><p id="pX24p0396c2001">須菩提。於意云何。可以身相見如來不。</p></div2>
+<lb ed="X" n="0396c21"/><div2 type="commentary"><p id="pX24p0396c2101" rend="margin-left:1em">菩薩發心。義兼三端。一化眾生。二修萬行。三向菩
+<lb ed="X" n="0396c22"/>提。降伏<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>明化物之儀。辨住則示修行之軌。此章
+<lb ed="X" n="0396c23"/>明趣菩提之方。如來身相。即菩提之體。若識法身。
+<lb ed="X" n="0396c24"/>則菩提可登。若計實菩提。乖之遠矣。故問法身。明
+<pb ed="X" id="X24.0454.0397a" n="0397a"/>
+<lb ed="X" n="0397a01"/>菩提空者乎。</p><p id="pX24p0397a0106" place="inline" rend="margin-left:1em">○之體疏作果體。計實菩提作計性
+<lb ed="X" n="0397a02"/>實菩提二字無。故問作故舉。</p></div2>
+<lb ed="X" n="0397a03"/><div2 type="orig"><p id="pX24p0397a0301">不也。世尊。不可以身相得見如來。</p></div2>
+<lb ed="X" n="0397a04"/><div2 type="commentary"><p id="pX24p0397a0401" rend="margin-left:1em">須菩提深識法身。故言不可以實身相而見也。</p><p id="pX24p0397a0419" place="inline" rend="margin-left:1em">○
+<lb ed="X" n="0397a05"/>實字疏無。</p></div2>
+<lb ed="X" n="0397a06"/><div2 type="orig"><p id="pX24p0397a0601">何以故。如來所說身相。即非身相。</p></div2>
+<lb ed="X" n="0397a07"/><div2 type="commentary"><p id="pX24p0397a0701" rend="margin-left:1em">即引佛語而釋也。法身者。萬善之極。體含萬善。妙
+<lb ed="X" n="0397a08"/>集成身。緣構無性。故即非身。</p></div2>
+<lb ed="X" n="0397a09"/><div2 type="orig"><p id="pX24p0397a0901">佛告須菩提。凡所有相。皆是&CB00980;妄。</p></div2>
+<lb ed="X" n="0397a10"/><div2 type="commentary"><p id="pX24p0397a1001" rend="margin-left:1em">即述成須菩提之言也。又則&CB00980;妄。理非相也。又假
+<lb ed="X" n="0397a11"/>名故&CB00980;。實計為妄乎。</p></div2>
+<lb ed="X" n="0397a12"/><div2 type="orig"><p id="pX24p0397a1201">若見諸相非相。則見如來。</p></div2>
+<lb ed="X" n="0397a13"/><div2 type="commentary"><p id="pX24p0397a1301" rend="margin-left:1em">行合解通。則為見佛。</p></div2>
+<lb ed="X" n="0397a14"/><div2 type="orig"><p id="pX24p0397a1401">須菩提白佛言。世尊。頗有眾生。得聞如是言說章句。
+<lb ed="X" n="0397a15"/>生實信不。</p></div2>
+<lb ed="X" n="0397a16"/><div2 type="commentary"><p id="pX24p0397a1601" rend="margin-left:1em">理空無相。奇心無所。時聽昧然。未即於心。示同未
+<lb ed="X" n="0397a17"/>悟。諮問云爾。訖法尚應捨。何況非法。以信驗理身。</p>
+<lb ed="X" n="0397a18"/><p id="pX24p0397a1801" rend="margin-left:1em">○奇疏作寄。</p></div2>
+<lb ed="X" n="0397a19"/><div2 type="orig"><p id="pX24p0397a1901">佛言。須菩提。莫作是說。</p></div2>
+<lb ed="X" n="0397a20"/><div2 type="commentary"><p id="pX24p0397a2001" rend="margin-left:1em">聖不空言。稟悟如流。方問有是何言也。</p></div2>
+<lb ed="X" n="0397a21"/><div2 type="orig"><p id="pX24p0397a2101">如來滅後。後五百歲。有持戒修福者。此於章句。能生
+<lb ed="X" n="0397a22"/>信心。以此為實。</p></div2>
+<lb ed="X" n="0397a23"/><div2 type="commentary"><p id="pX24p0397a2301" rend="margin-left:1em">後五百歲。像法之中。人衰道喪。尚有信者。況今大
+<lb ed="X" n="0397a24"/>聖感興。英慧雲集。從化如林。何謂無信乎。後世能
+<pb ed="X" id="X24.0454.0397b" n="0397b"/>
+<lb ed="X" n="0397b01"/>信。要具戒德。今之未悟。無福愚闇。自為疑滯。非理
+<lb ed="X" n="0397b02"/>不實之也。</p></div2>
+<lb ed="X" n="0397b03"/><div2 type="orig"><p id="pX24p0397b0301">當知是人。不於一佛二佛三四五佛而種善根。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>於
+<lb ed="X" n="0397b04"/>無量千萬佛所。種諸善根。</p></div2>
+<lb ed="X" n="0397b05"/><div2 type="commentary"><p id="pX24p0397b0501" rend="margin-left:1em">見佛聞法。積德<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>久。然後能信。明法之深妙也。</p></div2>
+<lb ed="X" n="0397b06"/><div2 type="orig"><p id="pX24p0397b0601">聞是章句。乃至一念生淨信者。須菩提。如來悉知悉
+<lb ed="X" n="0397b07"/>見。是諸眾生。得如是無量福德。</p></div2>
+<lb ed="X" n="0397b08"/><div2 type="commentary"><p id="pX24p0397b0801" rend="margin-left:1em">即以如來知見。明理非&CB00980;。一念淨信。其福無量。推
+<lb ed="X" n="0397b09"/>功測理。豈不信之乎。</p></div2>
+<lb ed="X" n="0397b10"/><div2 type="orig"><p id="pX24p0397b1001">何以故。是諸眾生。無復我相人相眾生相壽者相。</p></div2>
+<lb ed="X" n="0397b11"/><div2 type="commentary"><p id="pX24p0397b1101" rend="margin-left:1em">釋一念至促。而福德無量。何耶。政以無或我人。理
+<lb ed="X" n="0397b12"/>解為弘。</p></div2>
+<lb ed="X" n="0397b13"/><div2 type="orig"><p id="pX24p0397b1301">無法相。亦無非法相。</p></div2>
+<lb ed="X" n="0397b14"/><div2 type="commentary"><p id="pX24p0397b1401" rend="margin-left:1em">無因緣法相。亦無無因緣之非法相。</p></div2>
+<lb ed="X" n="0397b15"/><div2 type="orig"><p id="pX24p0397b1501">何以故。是諸眾生。若心取相。則為著我人眾生壽者。</p></div2>
+<lb ed="X" n="0397b16"/><div2 type="commentary"><p id="pX24p0397b1601" rend="margin-left:1em">我人橫計。理故宜忘。諸法是理。何故復無耶。正以
+<lb ed="X" n="0397b17"/>心緣四大。假名諸法。而計我人。見假名空。我人息
+<lb ed="X" n="0397b18"/>矣。故應無也。</p></div2>
+<lb ed="X" n="0397b19"/><div2 type="orig"><p id="pX24p0397b1901">若取法相。即著我人眾生壽者。</p></div2>
+<lb ed="X" n="0397b20"/><div2 type="commentary"><p id="pX24p0397b2001" rend="margin-left:1em">若取色聲香等實法相者。亦起我人等見。故應無
+<lb ed="X" n="0397b21"/>之耳。</p></div2>
+<lb ed="X" n="0397b22"/><div2 type="orig"><p id="pX24p0397b2201">何以故。若取非法相。即著我人眾生壽者。</p></div2>
+<lb ed="X" n="0397b23"/><div2 type="commentary"><p id="pX24p0397b2301" rend="margin-left:1em">釋何故復無非法耶。緣空故有有。由有故空。空若
+<lb ed="X" n="0397b24"/>無有相雲起。起相計我。萬或慈生矣。</p><p id="pX24p0397b2415" place="inline" rend="margin-left:1em">○或慈應作
+<pb ed="X" id="X24.0454.0397c" n="0397c"/>
+<lb ed="X" n="0397c01"/>惑茲。</p></div2>
+<lb ed="X" n="0397c02"/><div2 type="orig"><p id="pX24p0397c0201">是故不應取法。不應取非法。</p></div2>
+<lb ed="X" n="0397c03"/><div2 type="commentary"><p id="pX24p0397c0301" rend="margin-left:1em">并結無法相．無非法相也。空有兩忘。心無所取。解
+<lb ed="X" n="0397c04"/>會平等。結盡道成。</p></div2>
+<lb ed="X" n="0397c05"/><div2 type="orig"><p id="pX24p0397c0501">以是義故。如來常說。汝等比丘。知我說法。如筏喻者。
+<lb ed="X" n="0397c06"/>法尚應捨。何況非法。</p></div2>
+<lb ed="X" n="0397c07"/><div2 type="commentary"><p id="pX24p0397c0701" rend="margin-left:1em">即引昔說以證今理也。譬欲濟河。搆筏自運。既登
+<lb ed="X" n="0397c08"/>彼岸。棄筏而去。將度生死。假乘萬行。既到涅槃。萬
+<lb ed="X" n="0397c09"/>善俱捨。道法尚捨。而況非法之空也。</p><p id="pX24p0397c0915" place="inline" rend="margin-left:1em">○之空二字
+<lb ed="X" n="0397c10"/>疏無。</p></div2>
+<lb ed="X" n="0397c11"/><div2 type="orig"><p id="pX24p0397c1101">須菩提。於意云何。如來得阿耨多羅三藐三菩提耶。
+<lb ed="X" n="0397c12"/>如來有所說法耶。</p></div2>
+<lb ed="X" n="0397c13"/><div2 type="commentary"><p id="pX24p0397c1301" rend="margin-left:1em">竟尊重弟子。引眾聖同解。以證理之必然。</p></div2>
+<lb ed="X" n="0397c14"/><div2 type="orig"><p id="pX24p0397c1401">須菩提言。如我解佛所說義。無有定法。名阿耨多羅
+<lb ed="X" n="0397c15"/>三藐三菩提。亦無有定法。如來可說。</p></div2>
+<lb ed="X" n="0397c16"/><div2 type="commentary"><p id="pX24p0397c1601" rend="margin-left:1em">如我於佛所說義中而作解。窮相盡。謂之菩提。無
+<lb ed="X" n="0397c17"/>相故不有。假名則不無。不有不無。何實可得。何定
+<lb ed="X" n="0397c18"/>可說也。</p><p id="pX24p0397c1804" place="inline" rend="margin-left:1em">○窮相之上。疑脫解字。</p></div2>
+<lb ed="X" n="0397c19"/><div2 type="orig"><p id="pX24p0397c1901">何以故。如來所說法。皆不可取。不可說。</p></div2>
+<lb ed="X" n="0397c20"/><div2 type="commentary"><p id="pX24p0397c2001" rend="margin-left:1em">菩提無相可取。諸法空不可說。故無定實。</p></div2>
+<lb ed="X" n="0397c21"/><div2 type="orig"><p id="pX24p0397c2101">非法非非法。</p></div2>
+<lb ed="X" n="0397c22"/><div2 type="commentary"><p id="pX24p0397c2201" rend="margin-left:1em">非法則不有。非非法故不無。有無並無。理之極也。</p>
+<lb ed="X" n="0397c23"/><p id="pX24p0397c2301" rend="margin-left:1em">○有無之上疏有故不可說四字。</p></div2>
+<lb ed="X" n="0397c24"/><div2 type="orig"><p id="pX24p0397c2401">所以者何。一切賢聖。皆以無為法而有差別。</p></div2>
+<pb ed="X" id="X24.0454.0398a" n="0398a"/>
+<lb ed="X" n="0398a01"/><div2 type="commentary"><p id="pX24p0398a0101" rend="margin-left:1em">理無生滅。謂之無為。無為之理。眾聖同解。解會無
+<lb ed="X" n="0398a02"/>為。結盡道成。所謂一解脫義。同入法性者也。然無
+<lb ed="X" n="0398a03"/>為雖一。解有明昧。明深昧淺。優劣差者也。</p></div2>
+<lb ed="X" n="0398a04"/><div2 type="orig"><p id="pX24p0398a0401">須菩提。於意云何。若人滿三千大千世界七寶以用
+<lb ed="X" n="0398a05"/>布施。是人所得福德。寧為多不。須菩提言。甚多。世尊。</p></div2>
+<lb ed="X" n="0398a06"/><div2 type="commentary"><p id="pX24p0398a0601" rend="margin-left:1em">又格功德。即以明理。功德既多。故宜弘也。</p></div2>
+<lb ed="X" n="0398a07"/><div2 type="orig"><p id="pX24p0398a0701">何以故。是福德即非福德性。是故如來說福德多。</p></div2>
+<lb ed="X" n="0398a08"/><div2 type="commentary"><p id="pX24p0398a0801" rend="margin-left:1em">福德無性。可以因緣增多。多則易差。故即遣之耳。</p></div2>
+<lb ed="X" n="0398a09"/><div2 type="orig"><p id="pX24p0398a0901">若復有人。於此經中。受持乃至四句偈等。為他人說。
+<lb ed="X" n="0398a10"/>其福勝彼。</p></div2>
+<lb ed="X" n="0398a11"/><div2 type="commentary"><p id="pX24p0398a1101" rend="margin-left:1em">積寶多而功薄。四句約而福厚。</p></div2>
+<lb ed="X" n="0398a12"/><div2 type="orig"><p id="pX24p0398a1201">何以故。須菩提。一切諸佛。及諸佛阿耨多羅三藐三
+<lb ed="X" n="0398a13"/>菩提法。皆從此經出。</p></div2>
+<lb ed="X" n="0398a14"/><div2 type="commentary"><p id="pX24p0398a1401" rend="margin-left:1em">何以故四句約而功勝耶。金玉三千。正以養身。四
+<lb ed="X" n="0398a15"/>句雖約。妙極資神。豈可同日而等彼者也。</p><p id="pX24p0398a1517" place="inline" rend="margin-left:1em">○正疏
+<lb ed="X" n="0398a16"/>作止。</p></div2>
+<lb ed="X" n="0398a17"/><div2 type="orig"><p id="pX24p0398a1701">須菩提。所謂佛．法者。即非佛．法。</p></div2>
+<lb ed="X" n="0398a18"/><div2 type="commentary"><p id="pX24p0398a1801" rend="margin-left:1em">愛佛功德。七住未忘。妙著難覺。宜應&CB00980;心也。</p></div2>
+<lb ed="X" n="0398a19"/><div2 type="orig"><p id="pX24p0398a1901">須菩提。於意云何。須陀洹能作是念。我得須陀洹果
+<lb ed="X" n="0398a20"/>不。</p></div2>
+<lb ed="X" n="0398a21"/><div2 type="commentary"><p id="pX24p0398a2101" rend="margin-left:1em">例訪眾聖。求之諸心。優劣雖異。忘懷必同。</p></div2>
+<lb ed="X" n="0398a22"/><div2 type="orig"><p id="pX24p0398a2201">須菩提言。不也。世尊。何以故。須陀洹名為入流。</p></div2>
+<lb ed="X" n="0398a23"/><div2 type="commentary"><p id="pX24p0398a2301" rend="margin-left:1em">海為眾流之川。菩提神極之淵。始會無生。終必盡
+<lb ed="X" n="0398a24"/>源。</p></div2>
+<pb ed="X" id="X24.0454.0398b" n="0398b"/>
+<lb ed="X" n="0398b01"/><div2 type="orig"><p id="pX24p0398b0101">而無所入。</p></div2>
+<lb ed="X" n="0398b02"/><div2 type="commentary"><p id="pX24p0398b0201" rend="margin-left:1em">理無乖順。何入之有。</p></div2>
+<lb ed="X" n="0398b03"/><div2 type="orig"><p id="pX24p0398b0301">不入色聲香味觸法。是名須陀洹。</p></div2>
+<lb ed="X" n="0398b04"/><div2 type="commentary"><p id="pX24p0398b0401" rend="margin-left:1em">違理故入色聲。背色聲則會於理。理會無入。非入
+<lb ed="X" n="0398b05"/>色聲也。自下眾果類可知。</p></div2>
+<lb ed="X" n="0398b06"/><div2 type="orig"><p id="pX24p0398b0601">須菩提。於意云何。斯陀含能作是念。我得斯陀含果
+<lb ed="X" n="0398b07"/>不。須菩提言。不也。世尊。何以故。斯陀含名一往來。而
+<lb ed="X" n="0398b08"/>實無往來。是名斯陀含。須菩提。於意云何。阿那含能
+<lb ed="X" n="0398b09"/>作是念。我得阿那含果不。須菩提言。不也。世尊。何以
+<lb ed="X" n="0398b10"/>故。阿那含名為不來。而無不來。是故名阿那含。須菩
+<lb ed="X" n="0398b11"/>提。於意云何。阿羅漢能作是念。我得阿羅漢道不。須
+<lb ed="X" n="0398b12"/>菩提言。不也。世尊。何以故。實無有法名阿羅漢。世尊。
+<lb ed="X" n="0398b13"/>若阿羅漢作是念。我得阿羅漢道。即為著我人眾生
+<lb ed="X" n="0398b14"/>壽者。</p></div2>
+<lb ed="X" n="0398b15"/><div2 type="commentary"><p id="pX24p0398b1501" rend="margin-left:1em">阿羅漢者。無生也。相滅生盡。謂之無生。若計念。則
+<lb ed="X" n="0398b16"/>見我人。起相受生。非謂羅漢。諸果類亦應爾。但隨
+<lb ed="X" n="0398b17"/>義異明耳。</p></div2>
+<lb ed="X" n="0398b18"/><div2 type="orig"><p id="pX24p0398b1801">世尊。佛說我得無諍三昧。人中最為第一。是第一離
+<lb ed="X" n="0398b19"/>欲阿羅漢。</p></div2>
+<lb ed="X" n="0398b20"/><div2 type="commentary"><p id="pX24p0398b2001" rend="margin-left:1em">以<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>所解。驗理非&CB00980;。心宣恒靜。諍從何起。</p><p id="pX24p0398b2017" place="inline" rend="margin-left:1em">○宣疏
+<lb ed="X" n="0398b21"/>作空。</p></div2>
+<lb ed="X" n="0398b22"/><div2 type="orig"><p id="pX24p0398b2201">我不作是念。我是離欲阿羅漢。世尊。若作是念。我得
+<lb ed="X" n="0398b23"/>阿羅漢道。世尊則不說須菩提是樂阿蘭那行者。</p></div2>
+<lb ed="X" n="0398b24"/><div2 type="commentary"><p id="pX24p0398b2401" rend="margin-left:1em">阿蘭那行者。寂靜行也。相盡於外。心息於內。內外
+<pb ed="X" id="X24.0454.0398c" n="0398c"/>
+<lb ed="X" n="0398c01"/>俱寂。何時不靜也。</p></div2>
+<lb ed="X" n="0398c02"/><div2 type="orig"><p id="pX24p0398c0201">以須菩提實無所行。而名須菩提是樂阿蘭那行。</p></div2>
+<lb ed="X" n="0398c03"/><div2 type="commentary"><p id="pX24p0398c0301" rend="margin-left:1em">得名不&CB00980;。必積實也。</p><p id="pX24p0398c0309" place="inline" rend="margin-left:1em">○積疏稱。</p></div2>
+<lb ed="X" n="0398c04"/><div2 type="orig"><p id="pX24p0398c0401">佛告須菩提。於意云何。如來昔於然燈佛所。於法有
+<lb ed="X" n="0398c05"/>所得不。不也。世尊。如來在然燈佛所。於法實無所得。</p></div2>
+<lb ed="X" n="0398c06"/><div2 type="commentary"><p id="pX24p0398c0601" rend="margin-left:1em">次明菩薩。其解亦同。</p></div2>
+<lb ed="X" n="0398c07"/><div2 type="orig"><p id="pX24p0398c0701">須菩提。於意云何。菩薩莊嚴佛土不。</p></div2>
+<lb ed="X" n="0398c08"/><div2 type="commentary"><p id="pX24p0398c0801" rend="margin-left:1em">菩薩自行。嚴土化人。嚴國之義。亦在&CB00980;心。</p></div2>
+<lb ed="X" n="0398c09"/><div2 type="orig"><p id="pX24p0398c0901">不也。世尊。何以故。莊嚴佛土者。即非莊嚴。是名莊嚴。</p></div2>
+<lb ed="X" n="0398c10"/><div2 type="commentary"><p id="pX24p0398c1001" rend="margin-left:1em">相或必土穢。&CB00980;明則國淨。</p><p id="pX24p0398c1011" place="inline" rend="margin-left:1em">○或疏作惑。</p></div2>
+<lb ed="X" n="0398c11"/><div2 type="orig"><p id="pX24p0398c1101">是故須菩提。諸菩薩摩訶薩。應如是生清淨心。</p></div2>
+<lb ed="X" n="0398c12"/><div2 type="commentary"><p id="pX24p0398c1201" rend="margin-left:1em">理極於此。結勸修明。</p></div2>
+<lb ed="X" n="0398c13"/><div2 type="orig"><p id="pX24p0398c1301">不應住色生心。不應住聲香味觸法生心。應無所住
+<lb ed="X" n="0398c14"/>而生其心。</p></div2>
+<lb ed="X" n="0398c15"/><div2 type="commentary"><p id="pX24p0398c1501" rend="margin-left:1em">不封六塵。相滅解生。</p></div2>
+<lb ed="X" n="0398c16"/><div2 type="orig"><p id="pX24p0398c1601">須菩提。譬如有人。身如須彌山王。於意云何。是身為
+<lb ed="X" n="0398c17"/>大不。須菩提言。甚大。世尊。何以故。佛說非身。是名大
+<lb ed="X" n="0398c18"/>身。</p></div2>
+<lb ed="X" n="0398c19"/><div2 type="commentary"><p id="pX24p0398c1901" rend="margin-left:1em">解洹&CB00980;通。猶身假能大也。</p><p id="pX24p0398c1911" place="inline" rend="margin-left:1em">○洹疑恒字。</p></div2>
+<lb ed="X" n="0398c20"/><div2 type="orig"><p id="pX24p0398c2001">須菩提。如恒河中所有沙數。如是沙等恒河。於意云
+<lb ed="X" n="0398c21"/>何。是諸恒河沙。寧為多不。須菩提言。甚多。世尊。但諸
+<lb ed="X" n="0398c22"/>恒河。尚多無數。何況其沙。須菩提。我今實言告汝。若
+<lb ed="X" n="0398c23"/>有善男子．善女人。以七寶滿爾所恒河沙數三千大
+<lb ed="X" n="0398c24"/>千世界。以用布施。得福多不。須菩提言。甚多。世尊。佛
+<pb ed="X" id="X24.0454.0399a" n="0399a"/>
+<lb ed="X" n="0399a01"/>告須菩提。若善男子．善女人。於此經中。乃至受持四
+<lb ed="X" n="0399a02"/>句偈等。為他人說。而此福德。勝前福德。</p></div2>
+<lb ed="X" n="0399a03"/><div2 type="commentary"><p id="pX24p0399a0301" rend="margin-left:1em">第二廣格。</p></div2>
+<lb ed="X" n="0399a04"/><div2 type="orig"><p id="pX24p0399a0401">復次。須菩提。隨說是經。乃至四句偈等。當知此處。一
+<lb ed="X" n="0399a05"/>切世間天人阿脩羅。皆應供養。如佛塔廟。</p></div2>
+<lb ed="X" n="0399a06"/><div2 type="commentary"><p id="pX24p0399a0601" rend="margin-left:1em">封賓法身。謂之為塔。樹像靈堂。稱之為廟。聖體神
+<lb ed="X" n="0399a07"/>儀。全在四句。獻供致敬。宜盡厥心矣。</p><p id="pX24p0399a0715" place="inline" rend="margin-left:1em">○賓疑殯字。</p></div2>
+<lb ed="X" n="0399a08"/><div2 type="orig"><p id="pX24p0399a0801">何況有人。盡能受持讀誦。</p></div2>
+<lb ed="X" n="0399a09"/><div2 type="commentary"><p id="pX24p0399a0901" rend="margin-left:1em">四句<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>爾。況乎始終。</p></div2>
+<lb ed="X" n="0399a10"/><div2 type="orig"><p id="pX24p0399a1001">須菩提。當知是人。成就最上第一希有之法。</p></div2>
+<lb ed="X" n="0399a11"/><div2 type="commentary"><p id="pX24p0399a1101" rend="margin-left:1em">法妙人勝。理故宜然。</p></div2>
+<lb ed="X" n="0399a12"/><div2 type="orig"><p id="pX24p0399a1201">若是經典所在之處。即為有佛。若尊重弟子。</p></div2>
+<lb ed="X" n="0399a13"/><div2 type="commentary"><p id="pX24p0399a1301" rend="margin-left:1em">人能弘法。則人有法。以法成人。則法有人。人法所
+<lb ed="X" n="0399a14"/>處。理令弘矣。初章訖之也。</p><p id="pX24p0399a1411" place="inline" rend="margin-left:1em">○令弘疏作當貴。</p></div2>
+<lb ed="X" n="0399a15"/><div2 type="orig"><p id="pX24p0399a1501">爾時須菩提白佛言。世尊。當何名此經。</p></div2>
+<lb ed="X" n="0399a16"/><div2 type="commentary"><p id="pX24p0399a1601" rend="margin-left:1em">夫脩散難究。本一易尋。會宗領旨。宜正其名也。</p><p id="pX24p0399a1619" place="inline" rend="margin-left:1em">○
+<lb ed="X" n="0399a17"/>脩疏作條。</p></div2>
+<lb ed="X" n="0399a18"/><div2 type="orig"><p id="pX24p0399a1801">我等云何奉持。</p></div2>
+<lb ed="X" n="0399a19"/><div2 type="commentary"><p id="pX24p0399a1901" rend="margin-left:1em">尊脩為奉。任弘為持。在三成範。請聞其軌。</p><p id="pX24p0399a1917" place="inline" rend="margin-left:1em">○尊疏
+<lb ed="X" n="0399a20"/>作遵。</p></div2>
+<lb ed="X" n="0399a21"/><div2 type="orig"><p id="pX24p0399a2101">佛告須菩提。是經名為金剛般若波羅蜜。</p></div2>
+<lb ed="X" n="0399a22"/><div2 type="commentary"><p id="pX24p0399a2201" rend="margin-left:1em">名貫首題。義<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>脩矣。然境慧相從。通名波若。取要
+<lb ed="X" n="0399a23"/>宜歸乎聖心。</p><p id="pX24p0399a2306" place="inline" rend="margin-left:1em">○貫首題疏作冠題首。脩疏作備。</p></div2>
+<lb ed="X" n="0399a24"/><div2 type="orig"><p id="pX24p0399a2401">以是名字。汝當奉持。</p></div2>
+<pb ed="X" id="X24.0454.0399b" n="0399b"/>
+<lb ed="X" n="0399b01"/><div2 type="commentary"><p id="pX24p0399b0101" rend="margin-left:1em">契經舉目。苓合義從。名正理顯。宜應脩弘。</p><p id="pX24p0399b0117" place="inline" rend="margin-left:1em">○經疏
+<lb ed="X" n="0399b02"/>作綱。苓作詮。弘作習。</p></div2>
+<lb ed="X" n="0399b03"/><div2 type="orig"><p id="pX24p0399b0301">所以者何。須菩提。佛說般若波羅蜜。即非般若波羅
+<lb ed="X" n="0399b04"/>蜜。</p></div2>
+<lb ed="X" n="0399b05"/><div2 type="commentary"><p id="pX24p0399b0501" rend="margin-left:1em">釋所以此名字而奉持者何。夫名不&CB00980;設。必當其
+<lb ed="X" n="0399b06"/>實。金剛所擬。物莫不碎。此慧所照。法無不空。則非
+<lb ed="X" n="0399b07"/>般若即慧空也。境滅慧忘。何相不盡。弘持之旨。宜
+<lb ed="X" n="0399b08"/>存於此乎。</p></div2>
+<lb ed="X" n="0399b09"/><div2 type="orig"><p id="pX24p0399b0901">須菩提。於意云何。如來有所說法不。須菩提白佛言。
+<lb ed="X" n="0399b10"/>世尊。如來無所說。</p></div2>
+<lb ed="X" n="0399b11"/><div2 type="commentary"><p id="pX24p0399b1101" rend="margin-left:1em">境慧都空。復何所說。</p></div2>
+<lb ed="X" n="0399b12"/><div2 type="orig"><p id="pX24p0399b1201">須菩提。於意云何。三千大千世界所有微塵。是為多
+<lb ed="X" n="0399b13"/>不。須菩提言。甚多。世尊。須菩提。諸微塵。如來說非微
+<lb ed="X" n="0399b14"/>塵。是名微塵。如來說。世界。非世界。是名世界。</p></div2>
+<lb ed="X" n="0399b15"/><div2 type="commentary"><p id="pX24p0399b1501" rend="margin-left:1em">散為微塵。合成世界。無性故非。假名則是。</p><p id="pX24p0399b1517" place="inline" rend="margin-left:1em">○則是
+<lb ed="X" n="0399b16"/>疏即有。</p></div2>
+<lb ed="X" n="0399b17"/><div2 type="orig"><p id="pX24p0399b1701">須菩提。於意云何。可以三十二相見如來不。不也。世
+<lb ed="X" n="0399b18"/>尊。不可以三十二相得見如來。何以故。如來說。三十
+<lb ed="X" n="0399b19"/>二相。即是非相。是名三十二相。</p></div2>
+<lb ed="X" n="0399b20"/><div2 type="commentary"><p id="pX24p0399b2001" rend="margin-left:1em">世界宅也。如來主也。如來出。道王三千。主宅皆空。
+<lb ed="X" n="0399b21"/>其誰說法乎。</p><p id="pX24p0399b2106" place="inline" rend="margin-left:1em">○出下疑脫世字。</p></div2>
+<lb ed="X" n="0399b22"/><div2 type="orig"><p id="pX24p0399b2201">須菩提。若有善男子．善女人。以恒河沙等身命布施。
+<lb ed="X" n="0399b23"/>若復有人。於此經中。乃至受持四句偈等。為他人說。
+<lb ed="X" n="0399b24"/>其福甚多。</p></div2>
+<pb ed="X" id="X24.0454.0399c" n="0399c"/>
+<lb ed="X" n="0399c01"/><div2 type="commentary"><p id="pX24p0399c0101" rend="margin-left:1em">身命布施。不免有生。弘持四句。累滅道成。</p></div2>
+<lb ed="X" n="0399c02"/><div2 type="orig"><p id="pX24p0399c0201">爾時。須菩提聞說是經。深解義趣。</p></div2>
+<lb ed="X" n="0399c03"/><div2 type="commentary"><p id="pX24p0399c0301" rend="margin-left:1em">&CB00290;名服旨。妙悟解衿。</p></div2>
+<lb ed="X" n="0399c04"/><div2 type="orig"><p id="pX24p0399c0401">涕淚悲泣。</p></div2>
+<lb ed="X" n="0399c05"/><div2 type="commentary"><p id="pX24p0399c0501" rend="margin-left:1em">嗟我晚悟。兼悲未聞。</p></div2>
+<lb ed="X" n="0399c06"/><div2 type="orig"><p id="pX24p0399c0601">而白佛言。希有。世尊。佛說如是甚深經典。我從昔來
+<lb ed="X" n="0399c07"/>所得慧眼。未曾得聞如是之經。</p></div2>
+<lb ed="X" n="0399c08"/><div2 type="commentary"><p id="pX24p0399c0801" rend="margin-left:1em">資神之寶。曠代難聞。深慶自幸。加難及人。</p><p id="pX24p0399c0817" place="inline" rend="margin-left:1em">○難疑
+<lb ed="X" n="0399c09"/>歎字。</p></div2>
+<lb ed="X" n="0399c10"/><div2 type="orig"><p id="pX24p0399c1001">世尊。若復有人。得聞是經。信心清淨。則生實相。</p></div2>
+<lb ed="X" n="0399c11"/><div2 type="commentary"><p id="pX24p0399c1101" rend="margin-left:1em">聞妙不疑。不解必真。</p><p id="pX24p0399c1109" place="inline" rend="margin-left:1em">○不解不。疑生字。</p></div2>
+<lb ed="X" n="0399c12"/><div2 type="orig"><p id="pX24p0399c1201">當知是人。成就第一希有功德。</p></div2>
+<lb ed="X" n="0399c13"/><div2 type="commentary"><p id="pX24p0399c1301" rend="margin-left:1em">解生累滅。人德之高也。</p></div2>
+<lb ed="X" n="0399c14"/><div2 type="orig"><p id="pX24p0399c1401">世尊。是實相者。則是非相。是故如來說名實相。</p></div2>
+<lb ed="X" n="0399c15"/><div2 type="commentary"><p id="pX24p0399c1501" rend="margin-left:1em">&CB00980;盡實忘。理之極也。</p></div2>
+<lb ed="X" n="0399c16"/><div2 type="orig"><p id="pX24p0399c1601">世尊。我今得聞如是經典。信解受持。不足為難。</p></div2>
+<lb ed="X" n="0399c17"/><div2 type="commentary"><p id="pX24p0399c1701" rend="margin-left:1em">遇佛成聖。方信何難。</p></div2>
+<lb ed="X" n="0399c18"/><div2 type="orig"><p id="pX24p0399c1801">若當來世。後五百歲。其有眾生。得聞是經。信解受持。
+<lb ed="X" n="0399c19"/>是人則為第一希有。</p></div2>
+<lb ed="X" n="0399c20"/><div2 type="commentary"><p id="pX24p0399c2001" rend="margin-left:1em">道敗時信。此最可稱。</p></div2>
+<lb ed="X" n="0399c21"/><div2 type="orig"><p id="pX24p0399c2101">何以故。此人無我相人相眾生相壽者相。</p></div2>
+<lb ed="X" n="0399c22"/><div2 type="commentary"><p id="pX24p0399c2201" rend="margin-left:1em">上士&CB00980;心。故為希有。</p></div2>
+<lb ed="X" n="0399c23"/><div2 type="orig"><p id="pX24p0399c2301">所以者何。我相即是非相。人相眾生相壽者相。即是
+<lb ed="X" n="0399c24"/>非相。</p></div2>
+<pb ed="X" id="X24.0454.0400a" n="0400a"/>
+<lb ed="X" n="0400a01"/><div2 type="commentary"><p id="pX24p0400a0101" rend="margin-left:1em">有封為或。無封為解。解為第一。所以希有也。</p><p id="pX24p0400a0118" place="inline" rend="margin-left:1em">○或
+<lb ed="X" n="0400a02"/>疑惑字。</p></div2>
+<lb ed="X" n="0400a03"/><div2 type="orig"><p id="pX24p0400a0301">何以故。離一切諸相。則名為佛。</p></div2>
+<lb ed="X" n="0400a04"/><div2 type="commentary"><p id="pX24p0400a0401" rend="margin-left:1em">相盡解極。則是為佛。故知惑見我人。解則無矣。</p></div2>
+<lb ed="X" n="0400a05"/><div2 type="orig"><p id="pX24p0400a0501">佛告須菩提。如是。如是。若復有人。得聞是經。不驚不
+<lb ed="X" n="0400a06"/>怖不畏。當知是人。甚為希有。何以故。須菩提。如來說。
+<lb ed="X" n="0400a07"/>第一波羅蜜。即非第一波羅蜜。是名第一波羅蜜。</p></div2>
+<lb ed="X" n="0400a08"/><div2 type="commentary"><p id="pX24p0400a0801" rend="margin-left:1em">述成須菩提之言。如汝所說。是而非&CB00980;也。</p></div2>
+<lb ed="X" n="0400a09"/><div2 type="orig"><p id="pX24p0400a0901">須菩提。忍辱波羅蜜。如來說非忍辱波羅蜜。</p></div2>
+<lb ed="X" n="0400a10"/><div2 type="commentary"><p id="pX24p0400a1001" rend="margin-left:1em">即以忍辱。明無我人。安耐為忍。加毀為辱。無我人。
+<lb ed="X" n="0400a11"/>誰加誰忍。故非忍之也。</p><p id="pX24p0400a1110" place="inline" rend="margin-left:1em">○無上疏有既字。</p></div2>
+<lb ed="X" n="0400a12"/><div2 type="orig"><p id="pX24p0400a1201">何以故。須菩提。如我昔為歌利王割截身體。我於爾
+<lb ed="X" n="0400a13"/>時。無我相．無人相．無眾生相．無壽者相。</p></div2>
+<lb ed="X" n="0400a14"/><div2 type="commentary"><p id="pX24p0400a1401" rend="margin-left:1em">何故忍即非忍耶。即引忍事以為證也。有人受割。
+<lb ed="X" n="0400a15"/>可名為忍。既無我人。割忍何生也。</p></div2>
+<lb ed="X" n="0400a16"/><div2 type="orig"><p id="pX24p0400a1601">何以故。我於往昔節節支解時。若有我相人相眾生
+<lb ed="X" n="0400a17"/>相壽者相。應生瞋恨。</p></div2>
+<lb ed="X" n="0400a18"/><div2 type="commentary"><p id="pX24p0400a1801" rend="margin-left:1em">何故爾時無我人相耶。若有我人。必生忿恚。而能
+<lb ed="X" n="0400a19"/>怡然。無我人明矣。</p><p id="pX24p0400a1908" place="inline" rend="margin-left:1em">○怡疏恬。</p></div2>
+<lb ed="X" n="0400a20"/><div2 type="orig"><p id="pX24p0400a2001">須菩提。又念過去。於五百世。作忍辱僊人。於爾所世。
+<lb ed="X" n="0400a21"/>無我相．無人相．無眾生相．無壽者相。</p></div2>
+<lb ed="X" n="0400a22"/><div2 type="commentary"><p id="pX24p0400a2201" rend="margin-left:1em">事理非&CB00980;。重引益明。</p></div2>
+<lb ed="X" n="0400a23"/><div2 type="orig"><p id="pX24p0400a2301">是故須菩提。菩薩應離一切相。發阿耨多羅三藐三
+<lb ed="X" n="0400a24"/>菩提心。</p></div2>
+<pb ed="X" id="X24.0454.0400b" n="0400b"/>
+<lb ed="X" n="0400b01"/><div2 type="commentary"><p id="pX24p0400b0101" rend="margin-left:1em">菩提以相盡為極。故宜以忘懷而期心也。</p></div2>
+<lb ed="X" n="0400b02"/><div2 type="orig"><p id="pX24p0400b0201">不應住色生心。不應住聲香味觸法生心。</p></div2>
+<lb ed="X" n="0400b03"/><div2 type="commentary"><p id="pX24p0400b0301" rend="margin-left:1em">離一切相者。不住色聲等也。</p></div2>
+<lb ed="X" n="0400b04"/><div2 type="orig"><p id="pX24p0400b0401">應生無所住心。</p></div2>
+<lb ed="X" n="0400b05"/><div2 type="commentary"><p id="pX24p0400b0501" rend="margin-left:1em">無相可緣。心何所住。</p></div2>
+<lb ed="X" n="0400b06"/><div2 type="orig"><p id="pX24p0400b0601">若心有住。則為非住。</p></div2>
+<lb ed="X" n="0400b07"/><div2 type="commentary"><p id="pX24p0400b0701" rend="margin-left:1em">住相則心動。故非住。</p></div2>
+<lb ed="X" n="0400b08"/><div2 type="orig"><p id="pX24p0400b0801">是故佛說。菩薩心不應住色布施。</p></div2>
+<lb ed="X" n="0400b09"/><div2 type="commentary"><p id="pX24p0400b0901" rend="margin-left:1em">還舉前宗會以成義。政以理無所住。故應忘心而
+<lb ed="X" n="0400b10"/>布施也。施不住色。無財物也。</p></div2>
+<lb ed="X" n="0400b11"/><div2 type="orig"><p id="pX24p0400b1101">須菩提。菩薩為利益一切眾生。應如是布施。</p></div2>
+<lb ed="X" n="0400b12"/><div2 type="commentary"><p id="pX24p0400b1201" rend="margin-left:1em">施不望報。利益必深。</p></div2>
+<lb ed="X" n="0400b13"/><div2 type="orig"><p id="pX24p0400b1301">如來說一切諸相。即是非相。</p></div2>
+<lb ed="X" n="0400b14"/><div2 type="commentary"><p id="pX24p0400b1401" rend="margin-left:1em">諸相皆無。不見施者。</p></div2>
+<lb ed="X" n="0400b15"/><div2 type="orig"><p id="pX24p0400b1501">又說一切眾生。則非眾生。</p></div2>
+<lb ed="X" n="0400b16"/><div2 type="commentary"><p id="pX24p0400b1601" rend="margin-left:1em">既非眾生。受者亦無。</p></div2>
+<lb ed="X" n="0400b17"/><div2 type="orig"><p id="pX24p0400b1701">須菩提。如來是真語者．實語者．如語者．不誑語者．不
+<lb ed="X" n="0400b18"/>異語者。</p></div2>
+<lb ed="X" n="0400b19"/><div2 type="commentary"><p id="pX24p0400b1901" rend="margin-left:1em">真不偽。實無&CB00980;。如必當理。不誑則非忘語。不異則
+<lb ed="X" n="0400b20"/>始終恒一。聖言不謬。故宜修行也。</p><p id="pX24p0400b2014" place="inline" rend="margin-left:1em">○忘疏作妄。</p></div2>
+<lb ed="X" n="0400b21"/><div2 type="orig"><p id="pX24p0400b2101">須菩提。如來所得法。此法無實無&CB00980;。</p></div2>
+<lb ed="X" n="0400b22"/><div2 type="commentary"><p id="pX24p0400b2201" rend="margin-left:1em">寄實以非&CB00980;。何實之可得。</p></div2>
+<lb ed="X" n="0400b23"/><div2 type="orig"><p id="pX24p0400b2301">須菩提。若菩薩心住於法而行布施。如人入闇。則無
+<lb ed="X" n="0400b24"/>所見。</p></div2>
+<pb ed="X" id="X24.0454.0400c" n="0400c"/>
+<lb ed="X" n="0400c01"/><div2 type="commentary"><p id="pX24p0400c0101" rend="margin-left:1em">住相非曉則實若夜遊。</p><p id="pX24p0400c0110" place="inline" rend="margin-left:1em">○實疏作冥。</p></div2>
+<lb ed="X" n="0400c02"/><div2 type="orig"><p id="pX24p0400c0201">若菩薩心不住法而行布施。如人有目。日光明照。見
+<lb ed="X" n="0400c03"/>種種色。</p></div2>
+<lb ed="X" n="0400c04"/><div2 type="commentary"><p id="pX24p0400c0401" rend="margin-left:1em">無或三事。則不住相也。慧見為目。理鏡為日。萬行
+<lb ed="X" n="0400c05"/>顯別。為種種色。</p><p id="pX24p0400c0507" place="inline" rend="margin-left:1em">○鏡疏作境。</p></div2>
+<lb ed="X" n="0400c06"/><div2 type="orig"><p id="pX24p0400c0601">須菩提。當來之世。若有善男子．善女人。能於此經受
+<lb ed="X" n="0400c07"/>持讀誦。則為如來以佛智慧。悉知是人。悉見是人。皆
+<lb ed="X" n="0400c08"/>得成就無量無邊功德。</p></div2>
+<lb ed="X" n="0400c09"/><div2 type="commentary"><p id="pX24p0400c0901" rend="margin-left:1em">如來所見。理周非謬。明勸將來。宜加修懃也。</p><p id="pX24p0400c0918" place="inline" rend="margin-left:1em">○周
+<lb ed="X" n="0400c10"/>疏作用。修懃作勤修。</p></div2>
+<lb ed="X" n="0400c11"/><div2 type="orig"><p id="pX24p0400c1101">須菩提。若有善男子．善女人。初日分以恒河沙等身
+<lb ed="X" n="0400c12"/>布施。中日分復以恒河沙等身布施。後日分亦以恒
+<lb ed="X" n="0400c13"/>河沙等身布施。如是無量百千萬億劫。以身布施。</p></div2>
+<lb ed="X" n="0400c14"/><div2 type="commentary"><p id="pX24p0400c1401" rend="margin-left:1em">分一日為三分。故言初中後分也。施重又多。功德
+<lb ed="X" n="0400c15"/>彌曠矣。</p></div2>
+<lb ed="X" n="0400c16"/><div2 type="orig"><p id="pX24p0400c1601">若復有人。聞此經典。信心不逆。其福勝彼。</p></div2>
+<lb ed="X" n="0400c17"/><div2 type="commentary"><p id="pX24p0400c1701" rend="margin-left:1em">施則有限。信心無極。</p></div2>
+<lb ed="X" n="0400c18"/><div2 type="orig"><p id="pX24p0400c1801">何況書寫受持讀誦。為人解說。</p></div2>
+<lb ed="X" n="0400c19"/><div2 type="commentary"><p id="pX24p0400c1901" rend="margin-left:1em">但言<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>信。況復持弘者也。</p><p id="pX24p0400c1911" place="inline" rend="margin-left:1em">○<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>疏作以。持弘作弘
+<lb ed="X" n="0400c20"/>持。</p></div2>
+<lb ed="X" n="0400c21"/><div2 type="orig"><p id="pX24p0400c2101">須菩提。以要言之。是經有不可思議．不可稱量．無邊
+<lb ed="X" n="0400c22"/>功德。</p></div2>
+<lb ed="X" n="0400c23"/><div2 type="commentary"><p id="pX24p0400c2301" rend="margin-left:1em">理圓道極。言不盡美。提宗表實。約言之耳。物莫能
+<lb ed="X" n="0400c24"/>測。不思議也。&CB08832;數不&CB00108;。不稱量也。蕩然無崖。無邊
+<pb ed="X" id="X24.0454.0401a" n="0401a"/>
+<lb ed="X" n="0401a01"/>也。取要言之。備此三句。</p><p id="pX24p0401a0110" place="inline" rend="margin-left:1em">○&CB08832;&CB00108;疏作筭該。</p></div2>
+<lb ed="X" n="0401a02"/><div2 type="orig"><p id="pX24p0401a0201">如來為發大乘者說。為發最上乘者說。</p></div2>
+<lb ed="X" n="0401a03"/><div2 type="commentary"><p id="pX24p0401a0301" rend="margin-left:1em">廣運無崖。謂之大乘。三乘之勝。謂之最上。自非其
+<lb ed="X" n="0401a04"/>人。不謬說也。</p></div2>
+<lb ed="X" n="0401a05"/><div2 type="orig"><p id="pX24p0401a0501">若有人能受持讀誦。廣為人說。如來悉知是人。悉見
+<lb ed="X" n="0401a06"/>是人。皆得成就不可量．不可稱．無有邊．不可思議功
+<lb ed="X" n="0401a07"/>德。</p></div2>
+<lb ed="X" n="0401a08"/><div2 type="commentary"><p id="pX24p0401a0801" rend="margin-left:1em">人高道曠。唯佛見之。</p></div2>
+<lb ed="X" n="0401a09"/><div2 type="orig"><p id="pX24p0401a0901">如是人等。則為荷擔如來阿耨多羅三藐三菩提。</p></div2>
+<lb ed="X" n="0401a10"/><div2 type="commentary"><p id="pX24p0401a1001" rend="margin-left:1em">千載不墜。由於人弘。住持運行。荷擔義也。</p><p id="pX24p0401a1017" place="inline" rend="margin-left:1em">○住疏
+<lb ed="X" n="0401a11"/>作任。</p></div2>
+<lb ed="X" n="0401a12"/><div2 type="orig"><p id="pX24p0401a1201">何以故。須菩提。若樂小法者。著我見人見眾生見壽
+<lb ed="X" n="0401a13"/>者見。則於此經。不能聽受讀誦。為人解說。</p></div2>
+<lb ed="X" n="0401a14"/><div2 type="commentary"><p id="pX24p0401a1401" rend="margin-left:1em">何故人能荷擔耶。心&CB00980;解曠。道軍必強也。</p></div2>
+<lb ed="X" n="0401a15"/><div2 type="orig"><p id="pX24p0401a1501">須菩提。在在處處。若有此經。一切世間天人阿修羅
+<lb ed="X" n="0401a16"/>所應供養。當知此處。則為是塔。皆應恭敬。作禮圍繞。
+<lb ed="X" n="0401a17"/>以諸華香而散其處。</p></div2>
+<lb ed="X" n="0401a18"/><div2 type="commentary"><p id="pX24p0401a1801" rend="margin-left:1em">地是無知。法處故貴。道在於人。而不寧乎。</p><p id="pX24p0401a1817" place="inline" rend="margin-left:1em">○寧疑
+<lb ed="X" n="0401a19"/>尊字。</p></div2>
+<lb ed="X" n="0401a20"/><div2 type="orig"><p id="pX24p0401a2001">復次。須菩提。善男子．善女人。受持讀誦此經。若為人
+<lb ed="X" n="0401a21"/>輕賤。是人先世&CB02782;業。應墮惡道。以今世人輕賤。故先
+<lb ed="X" n="0401a22"/>世&CB02782;業。則為消滅。</p></div2>
+<lb ed="X" n="0401a23"/><div2 type="commentary"><p id="pX24p0401a2301" rend="margin-left:1em">罪起由惑。福生於解。福解既積。宿殃矣。</p><p id="pX24p0401a2316" place="inline" rend="margin-left:1em">○殃下疏
+<lb ed="X" n="0401a24"/>有滅字。</p></div2>
+<pb ed="X" id="X24.0454.0401b" n="0401b"/>
+<lb ed="X" n="0401b01"/><div2 type="orig"><p id="pX24p0401b0101">當得阿耨多羅三藐三菩提。</p></div2>
+<lb ed="X" n="0401b02"/><div2 type="commentary"><p id="pX24p0401b0201" rend="margin-left:1em">累滅解生。菩提可登也。</p></div2>
+<lb ed="X" n="0401b03"/><div2 type="orig"><p id="pX24p0401b0301">須菩提。我念過去無量阿僧祇劫。於然燈佛前。得值
+<lb ed="X" n="0401b04"/>八百四千萬億那由他諸佛。悉皆供養承事。無空過
+<lb ed="X" n="0401b05"/>者。若復有人。於後末世。能受持讀誦此經。所得功德。
+<lb ed="X" n="0401b06"/>於我所供養諸佛功德。百及不分一。千萬億分。乃至
+<lb ed="X" n="0401b07"/>算數譬喻所不能及。</p></div2>
+<lb ed="X" n="0401b08"/><div2 type="commentary"><p id="pX24p0401b0801" rend="margin-left:1em">心限則福。曠則功多。</p><p id="pX24p0401b0809" place="inline" rend="margin-left:1em">○福下疏有少意二字。功下
+<lb ed="X" n="0401b09"/>亦有德字。</p></div2>
+<lb ed="X" n="0401b10"/><div2 type="orig"><p id="pX24p0401b1001">須菩提。若善男子．善女人。於後末世。有受持讀誦此
+<lb ed="X" n="0401b11"/>經。所得功德。我若具說者。或有人聞。心則狂亂。狐疑
+<lb ed="X" n="0401b12"/>不信。</p></div2>
+<lb ed="X" n="0401b13"/><div2 type="commentary"><p id="pX24p0401b1301" rend="margin-left:1em">解通人曠。德必無崖。狂亂不信。足以明道。</p><p id="pX24p0401b1317" place="inline" rend="margin-left:1em">○足上
+<lb ed="X" n="0401b14"/>脫不字。</p></div2>
+<lb ed="X" n="0401b15"/><div2 type="orig"><p id="pX24p0401b1501">須菩提。當知是經義不可思議。</p></div2>
+<lb ed="X" n="0401b16"/><div2 type="commentary"><p id="pX24p0401b1601" rend="margin-left:1em">萬行淵深。義能難測。</p><p id="pX24p0401b1609" place="inline" rend="margin-left:1em">○難疏作誰。</p></div2>
+<lb ed="X" n="0401b17"/><div2 type="orig"><p id="pX24p0401b1701">果報亦不可思議。</p></div2>
+<lb ed="X" n="0401b18"/><div2 type="commentary"><p id="pX24p0401b1801" rend="margin-left:1em">菩提妙果。豈有心之所議。第二章訖。</p></div2>
+<lb ed="X" n="0401b19"/><div2 type="orig"><p id="pX24p0401b1901">爾時須菩提白佛言。世尊。善男子．善女人。發阿耨多
+<lb ed="X" n="0401b20"/>羅三藐三菩提心。云何應住。云何降伏其心。</p></div2>
+<lb ed="X" n="0401b21"/><div2 type="commentary"><p id="pX24p0401b2101" rend="margin-left:1em">此第三章。明菩薩空也。夫解不頓生。教亦有漸。何
+<lb ed="X" n="0401b22"/>者。始開眾生空．法空。明境空也。次辯般若。則非即
+<lb ed="X" n="0401b23"/>慧空也。此下云。實無有法。發菩提者。即行人空也。
+<lb ed="X" n="0401b24"/>又更料辯二行始終之義。始習眾生空為降伏。終
+<pb ed="X" id="X24.0454.0401c" n="0401c"/>
+<lb ed="X" n="0401c01"/>得法空為住。然此二空。十地未窮。唯佛乃盡。是為
+<lb ed="X" n="0401c02"/>十地通有始終降住之義。故眾生空。以有自降住。
+<lb ed="X" n="0401c03"/>法空亦爾。是為初地之住。則是二地之降。降亦住
+<lb ed="X" n="0401c04"/>也。住亦降也。重問之旨。義兼於此。何以知之。舉二
+<lb ed="X" n="0401c05"/>行為兩問。混一空而併答。一空始終。降住備矣。事
+<lb ed="X" n="0401c06"/>以逍遙而非重出。雖幽開難啟。善拂易開。豈敢獨
+<lb ed="X" n="0401c07"/>悟。實希共曉。</p><p id="pX24p0401c0706" place="inline" rend="margin-left:1em">○則非二字疑衍。有自疑寫倒。幽開
+<lb ed="X" n="0401c08"/>疑幽關。啟疑啟字。</p></div2>
+<lb ed="X" n="0401c09"/><div2 type="orig"><p id="pX24p0401c0901">佛告須菩提。善男子．善女人。發阿耨多羅三藐三菩
+<lb ed="X" n="0401c10"/>提心者。當生如是心。我應滅度一切眾生。滅度一切
+<lb ed="X" n="0401c11"/>眾生<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。而無有一眾生實滅度者。何以故。須菩提。若
+<lb ed="X" n="0401c12"/>菩薩有我相人相眾生相壽者相。則非菩薩。</p></div2>
+<lb ed="X" n="0401c13"/><div2 type="commentary"><p id="pX24p0401c1301" rend="margin-left:1em">何故無滅者。以失明。得理可知矣。見我則非。忘我
+<lb ed="X" n="0401c14"/>為是。既無我人。豈得有滅也。</p></div2>
+<lb ed="X" n="0401c15"/><div2 type="orig"><p id="pX24p0401c1501">所以者何。須菩提。實無有法發阿耨多羅三藐三菩
+<lb ed="X" n="0401c16"/>提心者。</p></div2>
+<lb ed="X" n="0401c17"/><div2 type="commentary"><p id="pX24p0401c1701" rend="margin-left:1em">所以有我相則非菩薩者何。我法則我能發心。無
+<lb ed="X" n="0401c18"/>發心者。故知無我。計我為或。故非菩薩也。無發心
+<lb ed="X" n="0401c19"/>者。即行人空也。</p><p id="pX24p0401c1907" place="inline" rend="margin-left:1em">○或疏作惑。</p></div2>
+<lb ed="X" n="0401c20"/><div2 type="orig"><p id="pX24p0401c2001">須菩提。於意云何。如來於然燈佛所。有法得阿耨多
+<lb ed="X" n="0401c21"/>羅三藐三菩提不。</p></div2>
+<lb ed="X" n="0401c22"/><div2 type="commentary"><p id="pX24p0401c2201" rend="margin-left:1em">即引自得記之解。以證今記。</p><p id="pX24p0401c2212" place="inline" rend="margin-left:1em">○自下疏有昔字。今
+<lb ed="X" n="0401c23"/>記作前說。</p></div2>
+<lb ed="X" n="0401c24"/><div2 type="orig"><p id="pX24p0401c2401">不也。世尊。如我解佛所說義。佛於然燈佛所。無有法
+<pb ed="X" id="X24.0454.0402a" n="0402a"/>
+<lb ed="X" n="0402a01"/>得阿耨多羅三藐三菩提。</p></div2>
+<lb ed="X" n="0402a02"/><div2 type="commentary"><p id="pX24p0402a0201" rend="margin-left:1em">聖心難測。義推可圖。得記由於無相。無相之中。則
+<lb ed="X" n="0402a03"/>無所得也。</p></div2>
+<lb ed="X" n="0402a04"/><div2 type="orig"><p id="pX24p0402a0401">佛言。如是。如是。須菩提。實無有法如來得阿耨多羅
+<lb ed="X" n="0402a05"/>三藐三菩提。須菩提。若有法如來得阿耨多羅三藐
+<lb ed="X" n="0402a06"/>三菩提者。然燈佛則不與我授記。汝於來世。當得作
+<lb ed="X" n="0402a07"/>佛。號釋迦牟尼。</p></div2>
+<lb ed="X" n="0402a08"/><div2 type="commentary"><p id="pX24p0402a0801" rend="margin-left:1em">若見有法。則乖菩提。何容得記。</p></div2>
+<lb ed="X" n="0402a09"/><div2 type="orig"><p id="pX24p0402a0901">以實無有法得阿耨多羅三藐三菩提。是故然燈佛
+<lb ed="X" n="0402a10"/>與我授記。作是言。汝於來世。當得作佛。號釋迦牟尼。</p></div2>
+<lb ed="X" n="0402a11"/><div2 type="commentary"><p id="pX24p0402a1101" rend="margin-left:1em">無法則會理。會理則向極。故得記也。</p></div2>
+<lb ed="X" n="0402a12"/><div2 type="orig"><p id="pX24p0402a1201">何以故。如來者。即諸法如義。</p></div2>
+<lb ed="X" n="0402a13"/><div2 type="commentary"><p id="pX24p0402a1301" rend="margin-left:1em">何以故無法便得記耶。諸法性空。理無乖異。謂之
+<lb ed="X" n="0402a14"/>為如。會如解極。故名如來。有相則違。無相則順。順
+<lb ed="X" n="0402a15"/>必之極。故宜得記之也。</p></div2>
+<lb ed="X" n="0402a16"/><div2 type="orig"><p id="pX24p0402a1601">若有人言。如來得阿耨多羅三藐三菩提。</p></div2>
+<lb ed="X" n="0402a17"/><div2 type="commentary"><p id="pX24p0402a1701" rend="margin-left:1em">若說有如來得菩提者。此俗聞人語。非理中言也。</p>
+<lb ed="X" n="0402a18"/><p id="pX24p0402a1801" rend="margin-left:1em">○聞疏作間。</p></div2>
+<lb ed="X" n="0402a19"/><div2 type="orig"><p id="pX24p0402a1901">須菩提。實無有法。佛得阿耨多羅三藐三菩提。</p></div2>
+<lb ed="X" n="0402a20"/><div2 type="commentary"><p id="pX24p0402a2001" rend="margin-left:1em">佛人也。菩提道也。既無人法。誰得菩提乎。</p></div2>
+<lb ed="X" n="0402a21"/><div2 type="orig"><p id="pX24p0402a2101">須菩提。如來所得阿耨多羅三藐三菩提。於是中無
+<lb ed="X" n="0402a22"/>實無&CB00980;。</p></div2>
+<lb ed="X" n="0402a23"/><div2 type="commentary"><p id="pX24p0402a2301" rend="margin-left:1em">向來辯有得為非。無得為是。寄是以明非。非謂有
+<lb ed="X" n="0402a24"/>是。尋言著是。故復遣之。是非既盡。則會菩提。菩提
+<pb ed="X" id="X24.0454.0402b" n="0402b"/>
+<lb ed="X" n="0402b01"/>之中。不見是非。非實則無是。非&CB00980;無非也。</p></div2>
+<lb ed="X" n="0402b02"/><div2 type="orig"><p id="pX24p0402b0201">是故如來說。一切法。皆是佛法。</p></div2>
+<lb ed="X" n="0402b03"/><div2 type="commentary"><p id="pX24p0402b0301" rend="margin-left:1em">凡夫以違一切法理為耶。聖人以順一切法理為
+<lb ed="X" n="0402b04"/>正。正則覺悟。故皆佛法者矣。</p><p id="pX24p0402b0412" place="inline" rend="margin-left:1em">○耶疏邪。</p></div2>
+<lb ed="X" n="0402b05"/><div2 type="orig"><p id="pX24p0402b0501">須菩提。所言一切法者。即非一切法。是故名一切法。</p></div2>
+<lb ed="X" n="0402b06"/><div2 type="commentary"><p id="pX24p0402b0601" rend="margin-left:1em">一切法以何為理。而言皆佛法耶。諸法緣假。自性
+<lb ed="X" n="0402b07"/>皆無。如假會而解者。名得一切法理。為悟佛法矣。</p>
+<lb ed="X" n="0402b08"/><p id="pX24p0402b0801" rend="margin-left:1em">○如假二字疑剩。</p></div2>
+<lb ed="X" n="0402b09"/><div2 type="orig"><p id="pX24p0402b0901">須菩提。譬如人身長大。須菩提言。世尊。如來說人身
+<lb ed="X" n="0402b10"/>長大。則為非大身。是名大身。</p></div2>
+<lb ed="X" n="0402b11"/><div2 type="commentary"><p id="pX24p0402b1101" rend="margin-left:1em">旨舉人身。類上諸法。緣假故長大。無性則非身。即
+<lb ed="X" n="0402b12"/>又況下菩薩觀眾生。如身假名。則可度。無自性。故
+<lb ed="X" n="0402b13"/>無滅者。若見實眾生。而欲化者。則非菩薩者矣。</p><p id="pX24p0402b1319" place="inline" rend="margin-left:1em">○
+<lb ed="X" n="0402b14"/>旨疏作直。即字疑衍。</p></div2>
+<lb ed="X" n="0402b15"/><div2 type="orig"><p id="pX24p0402b1501">須菩提。菩薩亦如是。若作是言。我當滅度無量眾生。
+<lb ed="X" n="0402b16"/>則不名菩薩。</p></div2>
+<lb ed="X" n="0402b17"/><div2 type="commentary"><p id="pX24p0402b1701" rend="margin-left:1em">合譬也。無眾生。而橫見眾生。猶無身而見身耳。見
+<lb ed="X" n="0402b18"/>則乖道。非菩薩者也。</p><p id="pX24p0402b1809" place="inline" rend="margin-left:1em">○無眾生上疏有元字。</p></div2>
+<lb ed="X" n="0402b19"/><div2 type="orig"><p id="pX24p0402b1901">何以故。須菩提。無有法名為菩薩。</p></div2>
+<lb ed="X" n="0402b20"/><div2 type="commentary"><p id="pX24p0402b2001" rend="margin-left:1em">菩薩自無。何有眾生。</p></div2>
+<lb ed="X" n="0402b21"/><div2 type="orig"><p id="pX24p0402b2101">是故佛說。一切法無我無人無眾生無壽者。</p></div2>
+<lb ed="X" n="0402b22"/><div2 type="commentary"><p id="pX24p0402b2201" rend="margin-left:1em">收結上義也。以無菩薩。亦無眾生。一切法都無我
+<lb ed="X" n="0402b23"/>人也。</p></div2>
+<lb ed="X" n="0402b24"/><div2 type="orig"><p id="pX24p0402b2401">須菩提。若菩薩作是言。我當莊嚴佛土。是不名菩薩。</p></div2>
+<pb ed="X" id="X24.0454.0402c" n="0402c"/>
+<lb ed="X" n="0402c01"/><div2 type="commentary"><p id="pX24p0402c0101" rend="margin-left:1em">&CB00980;矜進道。嚴土濟物。濟物之行。方便慧也。解空無
+<lb ed="X" n="0402c02"/>相。謂之為慧。緣假不著。謂之方便。若言我能莊嚴
+<lb ed="X" n="0402c03"/>國土。眾生可化。見惑違道。何名菩薩之耳。</p><p id="pX24p0402c0317" place="inline" rend="margin-left:1em">○衿疏
+<lb ed="X" n="0402c04"/>作襟。</p></div2>
+<lb ed="X" n="0402c05"/><div2 type="orig"><p id="pX24p0402c0501">何以故。如來說。莊嚴佛土者。即非莊嚴。是名莊嚴。</p></div2>
+<lb ed="X" n="0402c06"/><div2 type="commentary"><p id="pX24p0402c0601" rend="margin-left:1em">無存於化而土自嚴。</p></div2>
+<lb ed="X" n="0402c07"/><div2 type="orig"><p id="pX24p0402c0701">須菩提。若菩薩通達無我．法者。如來說名真是菩薩。</p></div2>
+<lb ed="X" n="0402c08"/><div2 type="commentary"><p id="pX24p0402c0801" rend="margin-left:1em">解通非偽。真菩薩也。</p><p id="pX24p0402c0809" place="inline" rend="margin-left:1em">○解通疏作通達。</p></div2>
+<lb ed="X" n="0402c09"/><div2 type="orig"><p id="pX24p0402c0901">須菩提。於意云何。如來有肉眼不。如是。世尊。如來有
+<lb ed="X" n="0402c10"/>肉眼。須菩提。於意云何。如來有天眼不。如是。世尊。如
+<lb ed="X" n="0402c11"/>來有天眼。須菩提。於意云何。如來有慧眼不。如是。世
+<lb ed="X" n="0402c12"/>尊。如來有慧眼。須菩提。於意云何。如來有法眼不。如
+<lb ed="X" n="0402c13"/>是。世尊。如來有法眼。須菩提。於意云何。如來有佛眼
+<lb ed="X" n="0402c14"/>不。如是。世尊。如來有佛眼。</p></div2>
+<lb ed="X" n="0402c15"/><div2 type="commentary"><p id="pX24p0402c1501" rend="margin-left:1em">相盡照極。五眼淨矣。道成由乎行立。淨國本於化
+<lb ed="X" n="0402c16"/>物。國淨則化周。五眼必。道極化周。本願備矣。如來
+<lb ed="X" n="0402c17"/>一念照達三世。何用五眼之異乎。於化境別為立
+<lb ed="X" n="0402c18"/>耳。</p><p id="pX24p0402c1802" place="inline" rend="margin-left:1em">○眼必下恐脫淨字。</p></div2>
+<lb ed="X" n="0402c19"/><div2 type="orig"><p id="pX24p0402c1901">須菩提。於意云何。如恒河中所有沙。佛說是沙不。如
+<lb ed="X" n="0402c20"/>是。世尊。如來說是沙。須菩提。於意云何。如一恒河中
+<lb ed="X" n="0402c21"/>所有沙。有如是沙等恒河。是諸恒河所有沙數。佛世
+<lb ed="X" n="0402c22"/>界如是。寧為多不。甚多。世尊。佛告須菩提。爾所國土
+<lb ed="X" n="0402c23"/>中。所有眾生。若干種心。如來悉知。</p></div2>
+<lb ed="X" n="0402c24"/><div2 type="commentary"><p id="pX24p0402c2401" rend="margin-left:1em">五眼照極。理無不周。略舉色心。於境盡矣。心從緣
+<pb ed="X" id="X24.0454.0403a" n="0403a"/>
+<lb ed="X" n="0403a01"/>起。識了多端。故若干種也。</p><p id="pX24p0403a0111" place="inline" rend="margin-left:1em">○於疏作收。</p></div2>
+<lb ed="X" n="0403a02"/><div2 type="orig"><p id="pX24p0403a0201">何以故。如來說。諸心皆為非心。是名為心。</p></div2>
+<lb ed="X" n="0403a03"/><div2 type="commentary"><p id="pX24p0403a0301" rend="margin-left:1em">言必當理。故解無不周也。</p></div2>
+<lb ed="X" n="0403a04"/><div2 type="orig"><p id="pX24p0403a0401">所以者何。須菩提。過去心不可得。現在心不可得。未
+<lb ed="X" n="0403a05"/>來心不可得。</p></div2>
+<lb ed="X" n="0403a06"/><div2 type="commentary"><p id="pX24p0403a0601" rend="margin-left:1em">所以說非心名心者何。以三世心無性可得。故可
+<lb ed="X" n="0403a07"/>從緣而生心。</p></div2>
+<lb ed="X" n="0403a08"/><div2 type="orig"><p id="pX24p0403a0801">須菩提。於意云何。若有人滿三千大千世界七寶以
+<lb ed="X" n="0403a09"/>用布施。是人以是因緣。得福多不。世尊。此人以是因
+<lb ed="X" n="0403a10"/>緣。得福甚多。須菩提。若福德有實。如來不說得福德
+<lb ed="X" n="0403a11"/>多。以福德無故。如來說得福德多。</p></div2>
+<lb ed="X" n="0403a12"/><div2 type="commentary"><p id="pX24p0403a1201" rend="margin-left:1em">金玉無性。故可積滿三千大千。福德無實。則可曠
+<lb ed="X" n="0403a13"/>施而多。心之無性。惑滅解生矣。</p><p id="pX24p0403a1313" place="inline" rend="margin-left:1em">○大千二字疏無。</p></div2>
+<lb ed="X" n="0403a14"/><div2 type="orig"><p id="pX24p0403a1401">須菩提。於意云何。佛可以具足色身見不。不也。世尊。
+<lb ed="X" n="0403a15"/>如來不應以具足色身見。何以故。如來說具足色身。
+<lb ed="X" n="0403a16"/>即非具足色身。是名具足色身。須菩提。於意云何。如
+<lb ed="X" n="0403a17"/>來可以具足諸相見不。不也。世尊。如來不應以具足
+<lb ed="X" n="0403a18"/>諸相見。何以故。如來說諸相具足。即非具足。是名諸
+<lb ed="X" n="0403a19"/>相具足。</p></div2>
+<lb ed="X" n="0403a20"/><div2 type="commentary"><p id="pX24p0403a2001" rend="margin-left:1em">慧為萬善之主。施為眾行之首。因備道成。理之必
+<lb ed="X" n="0403a21"/>然。總為丈六金容。別則眾相之姿。妙集非有。故身
+<lb ed="X" n="0403a22"/>感構隨現則為相。豈可一方而盡極乎。</p></div2>
+<lb ed="X" n="0403a23"/><div2 type="orig"><p id="pX24p0403a2301">須菩提。汝勿謂如來作是念。我當有所說法。莫作是
+<lb ed="X" n="0403a24"/>念。</p></div2>
+<pb ed="X" id="X24.0454.0403b" n="0403b"/>
+<lb ed="X" n="0403b01"/><div2 type="commentary"><p id="pX24p0403b0101" rend="margin-left:1em">道成應出。說法化人也。</p></div2>
+<lb ed="X" n="0403b02"/><div2 type="orig"><p id="pX24p0403b0201">何以故。若人言如來有所說法。即為謗佛。不能解我
+<lb ed="X" n="0403b03"/>所說故。</p></div2>
+<lb ed="X" n="0403b04"/><div2 type="commentary"><p id="pX24p0403b0401" rend="margin-left:1em">謬傳毀聖。名為謗佛。</p></div2>
+<lb ed="X" n="0403b05"/><div2 type="orig"><p id="pX24p0403b0501">須菩提。說法者。無法可說。是名說法。</p></div2>
+<lb ed="X" n="0403b06"/><div2 type="commentary"><p id="pX24p0403b0601" rend="margin-left:1em">教傳者。說法之意也。向言無說。非杜嘿而不語也。
+<lb ed="X" n="0403b07"/>但無存而說。則說滿天下。無乖法理之過矣。</p></div2>
+<lb ed="X" n="0403b08"/><div2 type="orig"><p id="pX24p0403b0801">爾時。慧命須菩提白佛言。世尊。頗有眾生。於未來世。
+<lb ed="X" n="0403b09"/>聞說是法。生信心不。佛言須菩提。彼非眾生。非不眾
+<lb ed="X" n="0403b10"/>生。何以故。須菩提。眾生眾生者。如來說非眾生。是名
+<lb ed="X" n="0403b11"/>眾生。</p></div2>
+<lb ed="X" n="0403b12"/><div2 type="commentary"><p id="pX24p0403b1201" rend="margin-left:1em">○此六十二字。肇本無之。天台疏亦無科判。然諸
+<lb ed="X" n="0403b13"/>本皆有此文。故且存之。</p></div2>
+<lb ed="X" n="0403b14"/><div2 type="orig"><p id="pX24p0403b1401">須菩提白佛言。世尊。佛得阿耨多羅三藐三菩提。為
+<lb ed="X" n="0403b15"/>無所得耶。</p></div2>
+<lb ed="X" n="0403b16"/><div2 type="commentary"><p id="pX24p0403b1601" rend="margin-left:1em">佛。人也。菩提。道也。佛得道。故說示人。而言無法可
+<lb ed="X" n="0403b17"/>說。未審佛得道不也。</p><p id="pX24p0403b1709" place="inline" rend="margin-left:1em">○示上疏有以字。</p></div2>
+<lb ed="X" n="0403b18"/><div2 type="orig"><p id="pX24p0403b1801">佛言。如是。如是。須菩提。我於阿耨多羅三藐三菩提。
+<lb ed="X" n="0403b19"/>乃至無有少法可得。是名阿耨多羅三藐三菩提。</p></div2>
+<lb ed="X" n="0403b20"/><div2 type="commentary"><p id="pX24p0403b2001" rend="margin-left:1em">相盡&CB00980;通。謂之菩提。菩提無相。有何可得。寂滅無
+<lb ed="X" n="0403b21"/>得。道之至也。</p></div2>
+<lb ed="X" n="0403b22"/><div2 type="orig"><p id="pX24p0403b2201">復次。須菩提。是法平等。無有高下。是名阿耨多羅三
+<lb ed="X" n="0403b23"/>藐三菩提。</p></div2>
+<lb ed="X" n="0403b24"/><div2 type="commentary"><p id="pX24p0403b2401" rend="margin-left:1em">結成菩提義也。人無貴賤。法無好醜。蕩然平等。菩
+<pb ed="X" id="X24.0454.0403c" n="0403c"/>
+<lb ed="X" n="0403c01"/>提義也。</p></div2>
+<lb ed="X" n="0403c02"/><div2 type="orig"><p id="pX24p0403c0201">以無我無人無眾生無壽者。修一切善法。則得阿耨
+<lb ed="X" n="0403c03"/>多羅三藐三菩提。</p></div2>
+<lb ed="X" n="0403c04"/><div2 type="commentary"><p id="pX24p0403c0401" rend="margin-left:1em">夫形端故影直。聲和則<note n="0403001" resp="Xuzangjing" place="foot text" type="orig">嚮與響通</note>嚮順。忘我人而修因。必&CB00018;
+<lb ed="X" n="0403c05"/>無相之菩提也。</p></div2>
+<lb ed="X" n="0403c06"/><div2 type="orig"><p id="pX24p0403c0601">須菩提。所言善法者。如來說即非善法。是名善法。</p></div2>
+<lb ed="X" n="0403c07"/><div2 type="commentary"><p id="pX24p0403c0701" rend="margin-left:1em">人既不有。善何得實。</p></div2>
+<lb ed="X" n="0403c08"/><div2 type="orig"><p id="pX24p0403c0801">須菩提。若三千大千世界中所有諸須彌山王。如是
+<lb ed="X" n="0403c09"/>等七寶聚。有人持用布施。若人以此般若波羅蜜經。
+<lb ed="X" n="0403c10"/>乃至四句偈等。受持讀誦。為他人說。於前福德。百分
+<lb ed="X" n="0403c11"/>不及一。百千萬億分。乃至算數譬喻。所不能及。</p></div2>
+<lb ed="X" n="0403c12"/><div2 type="commentary"><p id="pX24p0403c1201" rend="margin-left:1em">聚寶有盡。妙解無窮也。</p></div2>
+<lb ed="X" n="0403c13"/><div2 type="orig"><p id="pX24p0403c1301">須菩提。於意云何。汝等勿謂如來作是念。我當度眾
+<lb ed="X" n="0403c14"/>生。須菩提。莫作是念。</p></div2>
+<lb ed="X" n="0403c15"/><div2 type="commentary"><p id="pX24p0403c1501" rend="margin-left:1em">菩提以無得為果。教以忘言而說。時聽唯疑。理未
+<lb ed="X" n="0403c16"/>悟心。故呵之。勿謂如來見眾生作念。而欲化之耳。</p></div2>
+<lb ed="X" n="0403c17"/><div2 type="orig"><p id="pX24p0403c1701">何以故。實無有眾生。如來度者。</p></div2>
+<lb ed="X" n="0403c18"/><div2 type="commentary"><p id="pX24p0403c1801" rend="margin-left:1em">何故勿謂作念耶。以如來不見有眾生可度也。</p></div2>
+<lb ed="X" n="0403c19"/><div2 type="orig"><p id="pX24p0403c1901">若有眾生。如來度者。如來則有我人眾生壽者。</p></div2>
+<lb ed="X" n="0403c20"/><div2 type="commentary"><p id="pX24p0403c2001" rend="margin-left:1em">若見有眾生。則為我見。何謂如來耶。</p></div2>
+<lb ed="X" n="0403c21"/><div2 type="orig"><p id="pX24p0403c2101">須菩提。如來說。有我者。則非有我。</p></div2>
+<lb ed="X" n="0403c22"/><div2 type="commentary"><p id="pX24p0403c2201" rend="margin-left:1em">但說假名我耳。非實我也。</p></div2>
+<lb ed="X" n="0403c23"/><div2 type="orig"><p id="pX24p0403c2301">而凡夫之人。以為有我。</p></div2>
+<lb ed="X" n="0403c24"/><div2 type="commentary"><p id="pX24p0403c2401" rend="margin-left:1em">聞說假名。不達言旨。以為實我。</p></div2>
+<pb ed="X" id="X24.0454.0404a" n="0404a"/>
+<lb ed="X" n="0404a01"/><div2 type="orig"><p id="pX24p0404a0101">須菩提。凡夫者。如來說則非凡夫。</p></div2>
+<lb ed="X" n="0404a02"/><div2 type="commentary"><p id="pX24p0404a0201" rend="margin-left:1em">凡夫不實。故可化而成聖。</p></div2>
+<lb ed="X" n="0404a03"/><div2 type="orig"><p id="pX24p0404a0301">須菩提。於意云何。可以三十二相觀如來不。</p></div2>
+<lb ed="X" n="0404a04"/><div2 type="commentary"><p id="pX24p0404a0401" rend="margin-left:1em">疑者謂眾生是有。可化而成聖。法身不無。可以妙
+<lb ed="X" n="0404a05"/>相而期。故問之云爾也。</p></div2>
+<lb ed="X" n="0404a06"/><div2 type="orig"><p id="pX24p0404a0601">須菩提言。如是。如是。以三十二相觀如來。</p></div2>
+<lb ed="X" n="0404a07"/><div2 type="commentary"><p id="pX24p0404a0701" rend="margin-left:1em">聽者實爾。用三十二相是如來。而觀求也。</p></div2>
+<lb ed="X" n="0404a08"/><div2 type="orig"><p id="pX24p0404a0801">佛言。須菩提。若以三十二相觀如來者。轉輪聖王則
+<lb ed="X" n="0404a09"/>是如來。</p></div2>
+<lb ed="X" n="0404a10"/><div2 type="commentary"><p id="pX24p0404a1001" rend="margin-left:1em">即以近事質之。令其自解。</p></div2>
+<lb ed="X" n="0404a11"/><div2 type="orig"><p id="pX24p0404a1101">須菩提白佛言。世尊。如我解佛所說義。不應以三十
+<lb ed="X" n="0404a12"/>二相觀如來。</p></div2>
+<lb ed="X" n="0404a13"/><div2 type="commentary"><p id="pX24p0404a1301" rend="margin-left:1em">時情謂然。我解不爾。</p></div2>
+<lb ed="X" n="0404a14"/><div2 type="orig"><p id="pX24p0404a1401">爾時。世尊而說偈言。若以色見我。以音聲求我。是人
+<lb ed="X" n="0404a15"/>行邪道。不能見如來。</p></div2>
+<lb ed="X" n="0404a16"/><div2 type="commentary"><p id="pX24p0404a1601" rend="margin-left:1em">金容煥眼而非形。八音盈耳而非聲。偏謬為邪。愚
+<lb ed="X" n="0404a17"/>隔不見也。</p><p id="pX24p0404a1705" place="inline" rend="margin-left:1em">○金容疏作五色。</p></div2>
+<lb ed="X" n="0404a18"/><div2 type="orig"><p id="pX24p0404a1801">須菩提。汝若作是念。如來不以具足相故。得阿耨多
+<lb ed="X" n="0404a19"/>羅三藐三菩提。須菩提。莫作是念。如來不以具足相
+<lb ed="X" n="0404a20"/>故。得阿耨多羅三藐三菩提。</p></div2>
+<lb ed="X" n="0404a21"/><div2 type="commentary"><p id="pX24p0404a2101" rend="margin-left:1em">不偏在色聲。故向言非。非不身相。故復言是之也。</p></div2>
+<lb ed="X" n="0404a22"/><div2 type="orig"><p id="pX24p0404a2201">須菩提。汝若作是念。發阿耨多羅三藐三菩提者。說
+<lb ed="X" n="0404a23"/>諸法斷滅。莫作是念。何以故。發阿耨多羅三藐三菩
+<lb ed="X" n="0404a24"/>提心者。於法不說斷滅相。</p></div2>
+<pb ed="X" id="X24.0454.0404b" n="0404b"/>
+<lb ed="X" n="0404b01"/><div2 type="commentary"><p id="pX24p0404b0101" rend="margin-left:1em">相盡寂滅故不有。道王十方非謂無。應畢而謝則
+<lb ed="X" n="0404b02"/>不常。滅至隨現故不斷。體令中軌物之拭也。而限
+<lb ed="X" n="0404b03"/>之一方。豈不謬。</p><p id="pX24p0404b0307" place="inline" rend="margin-left:1em">○滅至疏作感至。令中作合中道
+<lb ed="X" n="0404b04"/>三字。拭作式。謬下有哉字。</p></div2>
+<lb ed="X" n="0404b05"/><div2 type="orig"><p id="pX24p0404b0501">須菩提。若菩薩以滿恒河沙等世界七寶持用布施。
+<lb ed="X" n="0404b06"/>若復有人。知一切法無我。得成於忍。此菩薩勝前菩
+<lb ed="X" n="0404b07"/>薩所得功德。何以故。須菩提。以諸菩薩不受福德故。</p></div2>
+<lb ed="X" n="0404b08"/><div2 type="commentary"><p id="pX24p0404b0801" rend="margin-left:1em">忘我則忍成。超出故勝也。</p></div2>
+<lb ed="X" n="0404b09"/><div2 type="orig"><p id="pX24p0404b0901">須菩提白佛言。世尊。云何菩薩不受福德。須菩提。菩
+<lb ed="X" n="0404b10"/>薩所作福德。不應貪著。是故說不受福德。</p></div2>
+<lb ed="X" n="0404b11"/><div2 type="commentary"><p id="pX24p0404b1101" rend="margin-left:1em">期報鍾<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>名貪著。無存我人。取染何生。</p></div2>
+<lb ed="X" n="0404b12"/><div2 type="orig"><p id="pX24p0404b1201">須菩提。若有人言。如來若來若去若坐若臥。是人不
+<lb ed="X" n="0404b13"/>解我所說義。</p></div2>
+<lb ed="X" n="0404b14"/><div2 type="commentary"><p id="pX24p0404b1401" rend="margin-left:1em">一時般若。文理粗周。然上來所說。事分言散。故更
+<lb ed="X" n="0404b15"/>略始結終。領會大宗也。如來道蔭之主。世界權之
+<lb ed="X" n="0404b16"/>宅。眾生慈育之子。舉此三事。大旨彰矣。若計有實
+<lb ed="X" n="0404b17"/>人。履行而至為來。運盡之滅故去。處現優化則坐
+<lb ed="X" n="0404b18"/>臥。此但都形滯&CB00528;。不及道也。</p><p id="pX24p0404b1812" place="inline" rend="margin-left:1em">○權字下疏有應字。
+<lb ed="X" n="0404b19"/>都疑&CB00418;字。</p></div2>
+<lb ed="X" n="0404b20"/><div2 type="orig"><p id="pX24p0404b2001">何以故。如來者。無所從來。亦無所去。故名如來。</p></div2>
+<lb ed="X" n="0404b21"/><div2 type="commentary"><p id="pX24p0404b2101" rend="margin-left:1em">何故見去來坐臥不解義耶。解極會如。體無方所。
+<lb ed="X" n="0404b22"/>緣至物見。來無所從。感畢為隱。亦何所去。而云來
+<lb ed="X" n="0404b23"/>去。亦不乖乎。</p></div2>
+<lb ed="X" n="0404b24"/><div2 type="orig"><p id="pX24p0404b2401">須菩提。若善男子．善女人。以三千大千世界碎為微
+<pb ed="X" id="X24.0454.0404c" n="0404c"/>
+<lb ed="X" n="0404c01"/>塵。於意云何。是微塵眾。寧為多不。甚多。世尊。何以故。
+<lb ed="X" n="0404c02"/>若是微塵眾實有者。佛則不說是微塵眾。所以者何。
+<lb ed="X" n="0404c03"/>佛說微塵眾。則非微塵眾。是名微塵眾。世尊。如來所
+<lb ed="X" n="0404c04"/>說三千大千世界。則非世界。是名世界。</p></div2>
+<lb ed="X" n="0404c05"/><div2 type="commentary"><p id="pX24p0404c0501" rend="margin-left:1em">微塵非實。故可碎而為多。世界非有。則可假借而
+<lb ed="X" n="0404c06"/>成也。</p></div2>
+<lb ed="X" n="0404c07"/><div2 type="orig"><p id="pX24p0404c0701">何以故。若世界實有者。則是一合相。</p></div2>
+<lb ed="X" n="0404c08"/><div2 type="commentary"><p id="pX24p0404c0801" rend="margin-left:1em">何故非世界名世界耶。若是實有。應一性合而不
+<lb ed="X" n="0404c09"/>可分也。</p></div2>
+<lb ed="X" n="0404c10"/><div2 type="orig"><p id="pX24p0404c1001">如來說。一合相。則非一合相。是名一合相。</p></div2>
+<lb ed="X" n="0404c11"/><div2 type="commentary"><p id="pX24p0404c1101" rend="margin-left:1em">假眾為一。無合可得耳。</p></div2>
+<lb ed="X" n="0404c12"/><div2 type="orig"><p id="pX24p0404c1201">須菩提。一合相者。則是不可說。</p></div2>
+<lb ed="X" n="0404c13"/><div2 type="commentary"><p id="pX24p0404c1301" rend="margin-left:1em">假名無體。不可定說。</p></div2>
+<lb ed="X" n="0404c14"/><div2 type="orig"><p id="pX24p0404c1401">但凡夫之人。貪著其事。</p></div2>
+<lb ed="X" n="0404c15"/><div2 type="commentary"><p id="pX24p0404c1501" rend="margin-left:1em">癡惑則凡夫。貪著故計實。</p><p id="pX24p0404c1511" place="inline" rend="margin-left:1em">○癡疏作疑。</p></div2>
+<lb ed="X" n="0404c16"/><div2 type="orig"><p id="pX24p0404c1601">須菩提。若人言。佛說我見人見眾生見壽者見。須菩
+<lb ed="X" n="0404c17"/>提。於意云何。是人解我所說義不。不也。世尊。是人不
+<lb ed="X" n="0404c18"/>解如來所說義。</p></div2>
+<lb ed="X" n="0404c19"/><div2 type="commentary"><p id="pX24p0404c1901" rend="margin-left:1em">此辯無實眾生可化。如來但稱諸見為邪。不言見
+<lb ed="X" n="0404c20"/>體是實。若人報言佛說諸見是實者。謬取佛意。非
+<lb ed="X" n="0404c21"/>謂解也。</p></div2>
+<lb ed="X" n="0404c22"/><div2 type="orig"><p id="pX24p0404c2201">何以故。世尊說我見人見眾生見壽者見。即非我見
+<lb ed="X" n="0404c23"/>人見眾生見壽者見。是名我見人見眾生見壽者見。</p></div2>
+<lb ed="X" n="0404c24"/><div2 type="commentary"><p id="pX24p0404c2401" rend="margin-left:1em">諸見非實。可改為正。眾生&CB00980;假。凡至聖也。</p><p id="pX24p0404c2417" place="inline" rend="margin-left:1em">○凡上
+<pb ed="X" id="X24.0454.0405a" n="0405a"/>
+<lb ed="X" n="0405a01"/>疏有從字。</p></div2>
+<lb ed="X" n="0405a02"/><div2 type="orig"><p id="pX24p0405a0201">須菩提。發阿耨多羅三藐三菩提心者。於一切法。應
+<lb ed="X" n="0405a03"/>如是知。如是見。</p></div2>
+<lb ed="X" n="0405a04"/><div2 type="commentary"><p id="pX24p0405a0401" rend="margin-left:1em">始終既畢。故旨宗以勸人也。凡欲發心成佛。淨國
+<lb ed="X" n="0405a05"/>土。化眾生。當如上所說理而生知見之也。</p><p id="pX24p0405a0517" place="inline" rend="margin-left:1em">○旨疏
+<lb ed="X" n="0405a06"/>作指。</p></div2>
+<lb ed="X" n="0405a07"/><div2 type="orig"><p id="pX24p0405a0701">如是信解。</p></div2>
+<lb ed="X" n="0405a08"/><div2 type="commentary"><p id="pX24p0405a0801" rend="margin-left:1em">理深未明。政應推信為解。</p></div2>
+<lb ed="X" n="0405a09"/><div2 type="orig"><p id="pX24p0405a0901">不生法相。</p></div2>
+<lb ed="X" n="0405a10"/><div2 type="commentary"><p id="pX24p0405a1001" rend="margin-left:1em">但是&CB00980;假。非實法也。</p></div2>
+<lb ed="X" n="0405a11"/><div2 type="orig"><p id="pX24p0405a1101">須菩提。所言法相者。如來說。即非法相。是名法相。</p></div2>
+<lb ed="X" n="0405a12"/><div2 type="commentary"><p id="pX24p0405a1201" rend="margin-left:1em">窮理盡明。其唯如來。說言非實。故應從信矣。</p></div2>
+<lb ed="X" n="0405a13"/><div2 type="orig"><p id="pX24p0405a1301">須菩提。若有人以滿無量阿僧祇世界七寶持用布
+<lb ed="X" n="0405a14"/>施。若有善男子．善女人。發菩提心者。持於此經。乃至
+<lb ed="X" n="0405a15"/>四句偈等。受持讀誦。為人演說。其福勝彼。</p></div2>
+<lb ed="X" n="0405a16"/><div2 type="commentary"><p id="pX24p0405a1601" rend="margin-left:1em">七寶有竭。四句無窮。</p></div2>
+<lb ed="X" n="0405a17"/><div2 type="orig"><p id="pX24p0405a1701">云何為人演說。不取於相。如如不動。</p></div2>
+<lb ed="X" n="0405a18"/><div2 type="commentary"><p id="pX24p0405a1801" rend="margin-left:1em">末示弘宣之義也。夫道不正。不足授人。中心疑者
+<lb ed="X" n="0405a19"/>其辭枝。說當於如。故言如如。始終不易。不可動也。</p></div2>
+<lb ed="X" n="0405a20"/><div2 type="orig"><p id="pX24p0405a2001">何以故。一切有為法。如夢幻泡影。如露亦如電。應作
+<lb ed="X" n="0405a21"/>如是觀。</p></div2>
+<lb ed="X" n="0405a22"/><div2 type="commentary"><p id="pX24p0405a2201" rend="margin-left:1em">浮偽不實。理之皆空。空無異易。故如如不動也。</p></div2>
+<lb ed="X" n="0405a23"/><div2 type="orig"><p id="pX24p0405a2301">佛說是經<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。長老須菩提。及諸比丘．比丘尼．優婆塞．
+<lb ed="X" n="0405a24"/>優婆夷．一切世間天．人．阿修羅。聞佛所說。皆大歡喜。
+<pb ed="X" id="X24.0454.0405b" n="0405b"/>
+<lb ed="X" n="0405b01"/>信受奉行。</p></div2>
+<lb ed="X" n="0405b02"/><div2 type="commentary"><p id="pX24p0405b0201" rend="margin-left:1em">道蘊聖心。待孚則彰。宿感冥構。不謀而集。同聽齊
+<lb ed="X" n="0405b03"/>悟。法&CB00540;蕩心。服翫遵拭。永崇不朽也。</p><p id="pX24p0405b0315" place="inline" rend="margin-left:1em">○喜疏作喜
+<lb ed="X" n="0405b04"/>拭作式。</p></div2>
+<lb ed="X" n="0405b05"/>
+<lb ed="X" n="0405b06"/><juan fun="close" n="1"><jhead>金剛般若波羅蜜經注<note place="inline">終</note></jhead></juan></div1>
+</body></text></TEI.2>

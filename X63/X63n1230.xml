@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X63n1230.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1230 警世</title>
+			<author>宋 延壽撰</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $ (Big5)<date>$Date: 2009/04/22 09:02:06 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:02:06 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 63, No. 1230 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2004/08/05 10:36:29</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X63n1230.xml,v $
+Revision 1.2  2009/04/22 09:02:06  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.1  2004/08/05 06:23:30  ray
+由 basicx 產生自簡單標記版
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X63.1230.0081a" n="0081a"/>
+<lb ed="X" n="0081a01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0081a02"/>
+<lb ed="X" n="0081a03"/><head type="no">No. 1230</head>
+<lb ed="X" n="0081a04"/><juan fun="open" n="001"><mulu type="卷" n="1"/><jhead>警世</jhead></juan>
+<lb ed="X" n="0081a05"/>
+<lb ed="X" n="0081a06"/><div1><p id="pX63p0081a0601">夫不體道本。沒溺生死。處胎卵濕化橫豎飛沈之類。
+<lb ed="X" n="0081a07"/>於中失人身者。如大地之土。得人身者。如爪上之塵。
+<lb ed="X" n="0081a08"/>於人身中多生邊夷下賤。及處中國。或受女身。若為
+<lb ed="X" n="0081a09"/>男子。癃殘百疾。設得丈夫十相具足者。處恐畏世生
+<lb ed="X" n="0081a10"/>五濁時。以肉為身以氣為命。一報之內如石火風燈。
+<lb ed="X" n="0081a11"/>逝波殘照瞬息而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。於中少天非橫殂者。不計其數。
+<lb ed="X" n="0081a12"/>或有得天年壽極耳順。萬中無一。脫得知命之歲。除
+<lb ed="X" n="0081a13"/>童稚無知。至三十豪四十富。且約其間三十年。於中
+<lb ed="X" n="0081a14"/>有疾病&CB00321;禍愁憂苦惱。居強半矣。所以昔人有言。浮
+<lb ed="X" n="0081a15"/>生一月之中。可開口而&CB01170;。只四五日矣。故知憂長喜
+<lb ed="X" n="0081a16"/>促樂少苦多。如在萬仞之危&CB00123;。似處千尋之滄海。縱
+<lb ed="X" n="0081a17"/>得少樂畢慮漂沈。且夫有生勞我處胎。有老奪我壯
+<lb ed="X" n="0081a18"/>色。有病損我形貌。有死壞我神靈。有榮縱我驕奢。有
+<lb ed="X" n="0081a19"/>辱敗我意氣。有貴使我憍倨。有賤挫我行藏。有富恣
+<lb ed="X" n="0081a20"/>我貪婪。有貧乏我依報。有樂動我情地。有苦痛我精
+<lb ed="X" n="0081a21"/>神。有讚起我高心。有毀滅我聲價。乃至寒則逼切我
+<lb ed="X" n="0081a22"/>體。熱則煩悶我襟。渴則乾我喉。饑則羸我腹。驚則懾
+<lb ed="X" n="0081a23"/>我魄。懼則喪我魂。憂則撓我神。惱則敗我志。順則長
+<lb ed="X" n="0081a24"/>我愛。逆則起我憎。親則牽我情。&CB00520;則生我恨。害則殞
+<pb ed="X" id="X63.1230.0081b" n="0081b"/>
+<lb ed="X" n="0081b01"/>我體。愁則結我腸。乃至遇境生心。隨情動念。或美或
+<lb ed="X" n="0081b02"/>惡俱不稱懷。皆長業輪盡喪道本。其或更詭於君悖
+<lb ed="X" n="0081b03"/>於父。傲其物趨其時。獸其心狐其意。苟其利徇其名。
+<lb ed="X" n="0081b04"/>誑其人諂其行。附其勢欺其孤。淵其殃崇其業。扇其
+<lb ed="X" n="0081b05"/>火吹其風。驟其塵背其覺。邪其種睽其真。但顧前非
+<lb ed="X" n="0081b06"/>慮後。口謀去靡思回。唯求生焉知滅。則念念燒&CB00827;。步
+<lb ed="X" n="0081b07"/>步溝隍矣。如今或得剎那在世。須蘊仁悲。行善修心
+<lb ed="X" n="0081b08"/>除非去惡。書云。作善降之百祥。作不善降之百殃。是
+<lb ed="X" n="0081b09"/>以世間逆順種種因緣。空受身心妄苦皆為。不知三
+<lb ed="X" n="0081b10"/>界唯是一心。以前五識眼耳鼻舌身及第八識。皆是
+<lb ed="X" n="0081b11"/>現量所得。無心外法。以第六明了意識。比量計度而
+<lb ed="X" n="0081b12"/>成外境。全是想生隨念而至。若無想念萬法無形。故
+<lb ed="X" n="0081b13"/>經云。想滅間靜識停無為。又云。諸法不牢固。唯立在
+<lb ed="X" n="0081b14"/>於念。善解見空者。一切無想念。若了一心之旨。心外
+<lb ed="X" n="0081b15"/>自然無法可陳。豈有欣戚關懷是非干念。佛頌云。未
+<lb ed="X" n="0081b16"/>達境唯心。起種種分別。達境唯心<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。分別即不生。既
+<lb ed="X" n="0081b17"/>了境唯心。便捨外塵相。從此息分別。悟平等真空。故
+<lb ed="X" n="0081b18"/>起信論云。一切境界唯心妄動。心若不起。一切境界
+<lb ed="X" n="0081b19"/>相滅。唯一真心&CB00642;一切處。是故三界&CB00980;偽。唯心所作。
+<lb ed="X" n="0081b20"/>離心即無六塵境界。乃至一切分別。即分別自心。心
+<lb ed="X" n="0081b21"/>不見心。無相可得。先德云。心外有法。生死論迴。心外
+<lb ed="X" n="0081b22"/>無法。生死永&CB00020;。經云。諸法所生唯心所現。論云。三界
+<lb ed="X" n="0081b23"/>無別法。<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>是一心作。既信一心。須以禪定冥合。如經
+<lb ed="X" n="0081b24"/>云。若能教三千大千世界眾生令行十善。不如一食
+<pb ed="X" id="X63.1230.0081c" n="0081c"/>
+<lb ed="X" n="0081c01"/>頃一心靜處入一相法門。若能諦了自心。以此定慧
+<lb ed="X" n="0081c02"/>相應。則能不動塵勞。便成正覺。平生所遇。莫越於斯。
+<lb ed="X" n="0081c03"/>普動後賢。可書紳耳。</p></div1>
+</body></text></TEI.2>

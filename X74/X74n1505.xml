@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X74n1505.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1505 南山祖師禮讚文</title>
+			<author>宋 仁岳述</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.8 $ (Big5)<date>$Date: 2009/04/22 09:04:29 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:04:29 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 74, No. 1505 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/05/19 13:54:33</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X74n1505.xml,v $
+Revision 1.8  2009/04/22 09:04:29  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.7  2005/11/30 06:34:50  amtbgrace
+modified: 執行全部 mulu.py, 取消自訂目錄的全形括號
+
+Revision 1.6  2005/06/06 08:59:00  eva
+modified:依 note.txt 修訂
+
+Revision 1.5  2005/05/19 06:00:02  edith
+全部重轉
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X74.1505.1079c" n="1079c"/>
+<lb ed="X" n="1079c01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="1079c02"/>
+<lb ed="X" n="1079c03"/>
+<lb ed="X" n="1079c04"/>
+<lb ed="X" n="1079c05"/><head type="no">No. 1505</head>
+<lb ed="X" n="1079c06"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>南山祖師禮讚文</jhead></juan>
+<lb ed="X" n="1079c07"/>
+<lb ed="X" n="1079c08"/><byline type="author">霅川沙門釋　仁岳　述</byline>
+<lb ed="X" n="1079c09"/><div1 type="other"><mulu type="其他" level="1" label="前文"/><p id="pX74p1079c0901">竊以五乘啟運唯聲聞最先。三藏流輝故毗尼為本。
+<lb ed="X" n="1079c10"/>務遵正法。允屬宗師。既華竺以同文。遂聖賢而接武。
+<lb ed="X" n="1079c11"/>恭惟南山教主西明律師。&CB00528;應隋唐。化敷京隰。儀刑
+<lb ed="X" n="1079c12"/>開士&CB00573;示現於三生。申錫&CB01820;章乃流通於四分。伏自
+<lb ed="X" n="1079c13"/>紵麻染翰刪補成篇。空中之降&CB01200;雖分。案上之貫華
+<lb ed="X" n="1079c14"/>靡散。至誠所感昭應良多。會天辯以晤言。使神功而
+<lb ed="X" n="1079c15"/>宿衛。繇是德推僧首為後世之波離。學贍儒宗實方
+<lb ed="X" n="1079c16"/>袍之平叔。諸夏機緣告謝率天補處。爰昇玅用難量
+<lb ed="X" n="1079c17"/>常情罔逮。我等叨承祖裔。獲稟孫謀。屬諱日以斯臨。
+<lb ed="X" n="1079c18"/>敢陳禴供。想慈風而如在。聊杼讚辭。庶享克誠。俯迴
+<lb ed="X" n="1079c19"/>昭鑒。</p>
+<lb ed="X" n="1079c20"/><list><item id="itemX74p1079c2001">一心奉請南山教主澄照大師。</item></list>
+<lb ed="X" n="1079c21"/><p id="pX74p1079c2101" rend="margin-left:1em">惟願降臨道場。受我供養。</p>
+<lb ed="X" n="1079c22"/><p id="pX74p1079c2201">月在太&CB00980;則百川現影。心冥至道則三界垂形。德山
+<lb ed="X" n="1079c23"/>高而邁古賢。詞河注而潤來學。</p>
+<lb ed="X" n="1079c24"/><list><item id="itemX74p1079c2401">一心頂禮日嚴精舍求寶函舍利時身南山尊者。<note place="inline">下皆
+<pb ed="X" id="X74.1505.1080a" n="1080a"/>
+<lb ed="X" n="1080a01"/>倣此</note></item></list>
+<lb ed="X" n="1080a02"/><lg id="lgX74p1080a0201"><l>尸羅欲向靈壇受</l><l>舍利先從聖像求</l>
+<lb ed="X" n="1080a03"/><l>翹首刳心寂爾間</l><l>寶函珠顆鏗然降</l>
+<lb ed="X" n="1080a04"/><l>法蘭齎至功非異</l><l>僧會祈來事可同</l>
+<lb ed="X" n="1080a05"/><l>五分身因自此成</l><l>首師戒品無&CB00980;授</l></lg>
+<lb ed="X" n="1080a06"/><p id="pX74p1080a0601" rend="margin-left:1em">故我一心歸命頂禮。<note place="inline">下皆倣此</note>。</p>
+<lb ed="X" n="1080a07"/><list><item id="itemX74p1080a0701">一心頂禮紵麻蘭若撰毗尼事鈔時身。</item></list>
+<lb ed="X" n="1080a08"/><lg id="lgX74p1080a0801"><l>姚秦律部翻傳後</l><l>元魏宗師講說來</l>
+<lb ed="X" n="1080a09"/><l>象扇雖揚上首言</l><l>&CB00370;文終待南山筆</l>
+<lb ed="X" n="1080a10"/><l>五乘方駕毗尼道</l><l>三行潛通解脫門</l>
+<lb ed="X" n="1080a11"/><l>去濫傳真意不誣</l><l>新章舊疏今何在</l></lg>
+<lb ed="X" n="1080a12"/><list><item id="itemX74p1080a1201">一心頂禮太一山內修般舟三昧時身。</item></list>
+<lb ed="X" n="1080a13"/><lg id="lgX74p1080a1301"><l>擇地卜居當寶勢</l><l>依經修定號般舟</l>
+<lb ed="X" n="1080a14"/><l>九旬行處道場圓</l><l>三昧成時心性顯</l>
+<lb ed="X" n="1080a15"/><l>聽法或逢龍變女</l><l>呈祥曾感陸生蓮</l>
+<lb ed="X" n="1080a16"/><l>歷觀僧史聖賢中</l><l>希有如斯精進者</l></lg>
+<lb ed="X" n="1080a17"/><list><item id="itemX74p1080a1701">一心頂禮沁部雲室感天童給侍時身。</item></list>
+<lb ed="X" n="1080a18"/><lg id="lgX74p1080a1801"><l>久持淨業無諸染</l><l>爰感童真侍四儀</l>
+<lb ed="X" n="1080a19"/><l>檀炷氤氳發座隅</l><l>銖衣綽約來天界</l>
+<lb ed="X" n="1080a20"/><l>考槃自得無何趣</l><l>叩寂誰知不住心</l>
+<lb ed="X" n="1080a21"/><l>後代遺蹤尚可尋</l><l>白雲&CB00980;室還如故</l></lg>
+<lb ed="X" n="1080a22"/><list><item id="itemX74p1080a2201">一心頂禮西明金剎受佛牙供養時身。</item></list>
+<lb ed="X" n="1080a23"/><lg id="lgX74p1080a2301"><l>世主涅槃從火化</l><l>佛牙分布在天宮</l>
+<lb ed="X" n="1080a24"/><l>若非菩薩顯殊熏</l><l>安得那吒傳至寶</l>
+<pb ed="X" id="X74.1505.1080b" n="1080b"/>
+<lb ed="X" n="1080b01"/><l>鳴珮忽隨天籟寂</l><l>彩光猶帶月華寒</l>
+<lb ed="X" n="1080b02"/><l>當時入塔付文網</l><l>永與勞生為福利</l></lg>
+<lb ed="X" n="1080b03"/><list><item id="itemX74p1080b0301">一心頂禮清官寶地講楞伽毗奈時身。</item></list>
+<lb ed="X" n="1080b04"/><lg id="lgX74p1080b0401"><l>慈容侃侃居師座</l><l>真侶莘莘集句筵</l>
+<lb ed="X" n="1080b05"/><l>始為經宗演大乘</l><l>終因律學垂彝範</l>
+<lb ed="X" n="1080b06"/><l>棲身豈羨千株柰</l><l>化物寧拘一室籌</l>
+<lb ed="X" n="1080b07"/><l>辯才無礙異常倫</l><l>堪受南天甘露賜</l></lg>
+<lb ed="X" n="1080b08"/><list><item id="itemX74p1080b0801">一心頂禮慈恩靖&CB00419;與那提翻譯時身。</item></list>
+<lb ed="X" n="1080b09"/><lg id="lgX74p1080b0901"><l>遠人慕義來唐國</l><l>大士承恩赴譯場</l>
+<lb ed="X" n="1080b10"/><l>索隱同翻五印文</l><l>摛華自冠三經序</l>
+<lb ed="X" n="1080b11"/><l>蒲牢振響聞清禁</l><l>薝蔔流馨達紫宸</l>
+<lb ed="X" n="1080b12"/><l>千年像法漸陵遲</l><l>琅函鈿軸誰開演</l></lg>
+<lb ed="X" n="1080b13"/><list><item id="itemX74p1080b1301">一心頂禮淨業故寺建寶壇授戒時身。</item></list>
+<lb ed="X" n="1080b14"/><lg id="lgX74p1080b1401"><l>古佛曾經封土處</l><l>金園依舊築壇時</l>
+<lb ed="X" n="1080b15"/><l>五級珠連覆釜形</l><l>四方星應璿璣象</l>
+<lb ed="X" n="1080b16"/><l>成功遂有長眉禮</l><l>增戒仍多白足陞</l>
+<lb ed="X" n="1080b17"/><l>光闡毗尼唯一人</l><l>梵僧不是&CB00980;稱讚</l></lg>
+<lb ed="X" n="1080b18"/><list><item id="itemX74p1080b1801">一心頂禮終南壇谷入泥洹封定時身。</item></list>
+<lb ed="X" n="1080b19"/><lg id="lgX74p1080b1901"><l>閻州應&CB00528;緣初謝</l><l>良月加趺定不還</l>
+<lb ed="X" n="1080b20"/><l>薪火雖云有滅時</l><l>空華元是無生相</l>
+<lb ed="X" n="1080b21"/><l>棘林空遺天香在</l><l>石室深扃夜景長</l>
+<lb ed="X" n="1080b22"/><l>戒德彌彰身後名</l><l>懿宗追<app><lem wit="【CBETA】" resp="CBETA.maha">諡</lem><rdg wit="【卍續】">謚</rdg></app>為澄照</l></lg>
+<lb ed="X" n="1080b23"/><list><item id="itemX74p1080b2301">一心頂禮兜率天上生逸多內院時身。</item></list>
+<lb ed="X" n="1080b24"/><lg id="lgX74p1080b2401"><l>六事久修知足行</l><l>二嚴親近逸多身</l>
+<pb ed="X" id="X74.1505.1080c" n="1080c"/>
+<lb ed="X" n="1080c01"/><l>既留蟬蛻在南山</l><l>俄受蓮胎生內院</l>
+<lb ed="X" n="1080c02"/><l>法門<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>證圓成性</l><l>人界無忘汲引心</l>
+<lb ed="X" n="1080c03"/><l>天耳如聞哀歎聲</l><l>願向龍華先得度</l></lg></div1>
+<lb ed="X" n="1080c04"/><div1 type="other"><mulu type="其他" level="1" label="至心懺悔"/><head>至心懺悔</head>
+<lb ed="X" n="1080c05"/><p id="pX74p1080c0501">我及十方法界一切眾生。無始妄源。本來真淨。結精
+<lb ed="X" n="1080c06"/>明而為念。吸塵象以成勞。七趣流形罔有知歸之所。
+<lb ed="X" n="1080c07"/>三乘被物曾無命駕之期。隨惑業以飄零。在死生而
+<lb ed="X" n="1080c08"/>孤露。宿緣微善。今稟最靈。剪髮毀容雖<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>參於僧寶。
+<lb ed="X" n="1080c09"/>絕情洗慾且未涉於法流。何當像季之時。獲奉終南
+<lb ed="X" n="1080c10"/>之教。所愧身心靡執。遮性難持。違三千威儀。破八萬
+<lb ed="X" n="1080c11"/>微細。彝章屢犯。善法都亡。屍捐潡澥之間詎堪經宿。
+<lb ed="X" n="1080c12"/>糞刻旃檀之狀那可聞香。猶賴佛軫慈悲。理容懺悔。
+<lb ed="X" n="1080c13"/>既權門而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>闢。故實道以同遵。當觀罪性&CB00980;融。即使
+<lb ed="X" n="1080c14"/>戒根清淨。四依如在。三寶真常。惟願哀憐。俱垂護念。</p>
+<lb ed="X" n="1080c15"/><p id="pX74p1080c1501" rend="margin-left:1em">懺悔<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。至心歸命頂禮。<note place="inline">下皆倣之</note>。</p></div1>
+<lb ed="X" n="1080c16"/><div1 type="other"><mulu type="其他" level="1" label="至心勸請"/><head>至心勸請</head>
+<lb ed="X" n="1080c17"/><lg id="lgX74p1080c1701"><l>如來住壽依三藏</l><l>諸祖潛神在十方</l>
+<lb ed="X" n="1080c18"/><l>我今勸請演毗尼</l><l>長與人天行聖道</l></lg></div1>
+<lb ed="X" n="1080c19"/><div1 type="other"><mulu type="其他" level="1" label="至心隨喜"/><head>至心隨喜</head>
+<lb ed="X" n="1080c20"/><lg id="lgX74p1080c2001"><l>一乘等賜靈山後</l><l>萬善同歸秘藏中</l>
+<lb ed="X" n="1080c21"/><l>是故修行大士因</l><l>有為無漏皆隨喜</l></lg></div1>
+<lb ed="X" n="1080c22"/><div1 type="other"><mulu type="其他" level="1" label="至心迴向"/><head>至心迴向</head>
+<lb ed="X" n="1080c23"/><lg id="lgX74p1080c2301"><l>心佛眾生同體性</l><l>戒禪智慧互莊嚴</l>
+<lb ed="X" n="1080c24"/><l>盡迴功德向菩提</l><l>不住有流登彼岸</l></lg></div1>
+<pb ed="X" id="X74.1505.1081a" n="1081a"/>
+<lb ed="X" n="1081a01"/><div1 type="other"><mulu type="其他" level="1" label="至心發願"/><head>至心發願</head>
+<lb ed="X" n="1081a02"/><lg id="lgX74p1081a0201"><l>願奉律儀如上首</l><l>親於法會說圓通</l>
+<lb ed="X" n="1081a03"/><l>身心寂滅得無疑</l><l>以佛道聲聞一切</l></lg></div1>
+<lb ed="X" n="1081a04"/>
+<lb ed="X" n="1081a05"/><div1 type="w"><p id="pX74p1081a0501" rend="margin-left:1em">右霅溪法師讚歎德之辭。乃孤山法師所撰。元不
+<lb ed="X" n="1081a06"/>出祖禮。彼既採用。故不復移改也。</p></div1>
+<lb ed="X" n="1081a07"/>
+<lb ed="X" n="1081a08"/><juan fun="close" n="1"><jhead>南山祖師讚文<note place="inline">畢</note></jhead></juan>
+</body></text></TEI.2>

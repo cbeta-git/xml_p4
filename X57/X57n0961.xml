@@ -1,0 +1,1567 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X57n0961.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 961 施食通覽</title>
+			<author>宋 宗曉編</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.11 $ (Big5)<date>$Date: 2012/02/23 02:00:02 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/02/23 02:00:02 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 57, No. 961 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/06/06 13:40:31</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X57n0961.xml,v $
+Revision 1.11  2012/02/23 02:00:02  amtbgrace
+modified: 按 20120105 maha 來信修訂（主旨為: [經文修訂] 所作已辦 - 營辦, 能辦一切）
+
+Revision 1.10  2011/02/24 06:53:41  maha
+按 2011/2/18 maha 來信修訂（主旨為: [經文修訂] 甲[胃>胄]）
+
+Revision 1.9  2009/04/22 09:00:45  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.8  2008/12/04 08:37:04  amtbgrace
+modified: 序文 的 type xml 標記修訂。
+
+Revision 1.7  2007/08/24 07:41:34  amtbgrace
+modified: 校注插入 XML 作業完成
+
+Revision 1.6  2005/11/30 06:34:31  amtbgrace
+modified: 執行全部 mulu.py, 取消自訂目錄的全形括號
+
+Revision 1.5  2005/07/07 08:55:50  eva
+modified: HH 目錄檢查修訂
+
+Revision 1.4  2005/07/06 09:45:52  eva
+modified: 重複標題修訂
+
+Revision 1.3  2005/07/06 01:49:09  eva
+modified: 依note.txt修訂及目錄檢查
+
+Revision 1.2  2005/06/06 05:48:07  edith
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X57.0961.0101b" n="0101b"/>
+<lb ed="X" n="0101b01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0101b02"/>
+<lb ed="X" n="0101b03"/>
+<lb ed="X" n="0101b04"/>
+<lb ed="X" n="0101b05"/><div1 type="xu"><mulu type="序" level="1" label="No. 961-A 梓施食通覽序"/><head>No. 961-A
+<lb ed="X" n="0101b06"/> 梓施食通覽序</head>
+<lb ed="X" n="0101b07"/>
+<lb ed="X" n="0101b08"/><p id="pX57p0101b0801">詳夫檀施有三種焉一曰財施二曰法施三曰無畏
+<lb ed="X" n="0101b09"/>施夫法食之施能兼三施而有焉歟其以飲食濟彼
+<lb ed="X" n="0101b10"/>饑&CB00980;一也其施以&CB00057;食法隨食入二也其與法食<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0101b11"/>令彼等所有恐怖悉皆捨離解脫幽趣三也不特所
+<lb ed="X" n="0101b12"/>施而於能施五果現臻二嚴當備夫法食之施亦兼
+<lb ed="X" n="0101b13"/>二利而有焉歟諸佛之所稱揚&CB00320;賢之所褒述固無
+<lb ed="X" n="0101b14"/>容擬議也但弗之察者往往有言吾敦乎本不騖乎
+<lb ed="X" n="0101b15"/>末彼役志于施福者果何為也哉噫萬行有般若以
+<lb ed="X" n="0101b16"/>為導則三輪空寂雖終日施奚病焉苟徒拘泥而墮
+<lb ed="X" n="0101b17"/>斷滅之見則違道遠矣施食通覽者石芝法師曉公
+<lb ed="X" n="0101b18"/>之所編也&CB00582;公以&CB00573;知其施食之法簡而易行約而
+<lb ed="X" n="0101b19"/>成功乃取典籍之有涉于此者&CB15077;為此書使人人了
+<lb ed="X" n="0101b20"/>然知其所自則公之仁慈之及物不其博哉予幸得
+<lb ed="X" n="0101b21"/>此書於京師一寓目不勝嘆賞遂采數本而訂其亥
+<lb ed="X" n="0101b22"/>豕兼為和訓而梓之是欲施食之法益洋溢於不窮
+<lb ed="X" n="0101b23"/>也此書之編其意良出于此善讀者信之篤行之誠
+<lb ed="X" n="0101b24"/>則三施可成五果可臻二嚴可備而亦無負於曉公
+<pb ed="X" id="X57.0961.0101c" n="0101c"/>
+<lb ed="X" n="0101c01"/>之所望矣。</p>
+<lb ed="X" n="0101c02"/><p id="pX57p0101c0201" rend="margin-left:0em;text-indent:1em">&CB01213;
+<lb ed="C X" n="0101c03"/>元祿辛未四年仲秋清旦</p>
+<lb ed="X" n="0101c04"/><p id="pX57p0101c0401" rend="margin-left:6em">湖東安養律寺沙門戒山謹識</p></div1>
+<lb ed="X" n="0101c05"/>
+<lb ed="X" n="0101c06"/>
+<lb ed="X" n="0101c07"/>
+<lb ed="X" n="0101c08"/>
+<lb ed="X" n="0101c09"/><div1 type="xu"><mulu type="序" level="1" label="No. 961-B 施食通覽(并序)"/><head>No. 961-B
+<lb ed="X" n="0101c10"/> 施食通覽<note place="inline">并序</note></head>
+<lb ed="X" n="0101c11"/>
+<lb ed="X" n="0101c12"/><byline type="editor">四明石芝沙門　宗曉　編</byline>
+<lb ed="X" n="0101c13"/><p id="pX57p0101c1301">法食之施其利博哉非唯使彼脫幽塗生善道歸乎
+<lb ed="X" n="0101c14"/>三寶成乎正覺亦使人近則現招五果遠則成就二
+<lb ed="X" n="0101c15"/>嚴真自他兼濟之要津乃入佛勝地之妙道也余竊
+<lb ed="X" n="0101c16"/>見遐方近處若緇若俗遵行此法者雖眾然昧厥由
+<lb ed="X" n="0101c17"/>者亦復不少遂於披閱教典之次儻有關於施食者
+<lb ed="X" n="0101c18"/>悉謄錄之&CB15077;聚&CB05855;積不覺其多暇日銓次成帙因目
+<lb ed="X" n="0101c19"/>之曰施食通覽而今之後或有睹於斯文者願興悲
+<lb ed="X" n="0101c20"/>智之心益廣無相之施云爾。</p>
+<lb ed="X" n="0101c21"/><p id="pX57p0101c2101">嘉泰甲子中秋日宗曉序</p></div1>
+<lb ed="X" n="0101c22"/>
+<lb ed="X" n="0101c23"/>
+<lb ed="X" n="0101c24"/>
+<pb ed="X" id="X57.0961.0102a" n="0102a"/>
+<lb ed="X" n="0102a01"/><div1 type="other"><mulu type="其他" level="1" label="目錄"/><head>目錄</head>
+<lb ed="X" n="0102a02"/>
+<lb ed="X" n="0102a03"/><list><item id="itemX57p0102a0301">佛說救面然餓鬼陀羅尼神&CB00057;經　出大藏羊字函</item>
+<lb ed="X" n="0102a04"/><item id="itemX57p0102a0401">佛說施甘露水陀羅尼&CB00057;<note place="inline">并附施乳海水輪觀陀羅尼等</note></item>
+<lb ed="X" n="0102a05"/><item id="itemX57p0102a0501">佛說救拔焰口陀羅尼經序　天竺沙門遵式</item>
+<lb ed="X" n="0102a06"/><item id="itemX57p0102a0601">佛說救拔焰口餓鬼陀羅尼經　出大藏槐字函</item>
+<lb ed="X" n="0102a07"/><item id="itemX57p0102a0701">佛化曠野鬼神緣　出大藏壹字函</item>
+<lb ed="X" n="0102a08"/><item id="itemX57p0102a0801">佛化鬼子母緣　出大藏別字函</item>
+<lb ed="X" n="0102a09"/><item id="itemX57p0102a0901">比丘乞食分施鬼畜　出大藏艸字函</item>
+<lb ed="X" n="0102a10"/><item id="itemX57p0102a1001">受食&CB00057;願偈二章　南嶽思大禪師</item>
+<lb ed="X" n="0102a11"/><item id="itemX57p0102a1101">觀心食法　天台智者大師</item>
+<lb ed="X" n="0102a12"/><item id="itemX57p0102a1201">出生圖紀　孤山沙門智圓</item>
+<lb ed="X" n="0102a13"/><item id="itemX57p0102a1301">施食正名　天竺沙門遵式</item>
+<lb ed="X" n="0102a14"/><item id="itemX57p0102a1401">施食法　同前</item>
+<lb ed="X" n="0102a15"/><item id="itemX57p0102a1501">施食文　同前</item>
+<lb ed="X" n="0102a16"/><item id="itemX57p0102a1601">施食法式　同前</item>
+<lb ed="X" n="0102a17"/><item id="itemX57p0102a1701">施食觀想　同前</item>
+<lb ed="X" n="0102a18"/><item id="itemX57p0102a1801">改祭修齋決疑頌<note place="inline">并序</note>　同前</item>
+<lb ed="X" n="0102a19"/><item id="itemX57p0102a1901">施食須知　霅川沙門仁岳</item>
+<lb ed="X" n="0102a20"/><item id="itemX57p0102a2001">施餓鬼食文　文忠公蘇軾</item>
+<lb ed="X" n="0102a21"/><item id="itemX57p0102a2101">施食放生文　賢良陳舜俞</item>
+<lb ed="X" n="0102a22"/><item id="itemX57p0102a2201">崔伯易施食感驗　出夷堅志</item>
+<lb ed="X" n="0102a23"/><item id="itemX57p0102a2301">士大夫施食文　文惠公史浩</item>
+<lb ed="X" n="0102a24"/><item id="itemX57p0102a2401">水陸大齋靈跡記　東川推官楊鍔</item>
+<pb ed="X" id="X57.0961.0102b" n="0102b"/>
+<lb ed="X" n="0102b01"/><item id="itemX57p0102b0101">水陸緣起　長蘆沙門宗蹟</item>
+<lb ed="X" n="0102b02"/><item id="itemX57p0102b0201">水陸法像贊一十六首　文忠公蘇軾</item>
+<lb ed="X" n="0102b03"/><item id="itemX57p0102b0301">修水陸葬枯骨疏　同前</item>
+<lb ed="X" n="0102b04"/><item id="itemX57p0102b0401">初入道場敘建水陸意　出楊鍔水陸儀</item>
+<lb ed="X" n="0102b05"/><item id="itemX57p0102b0501">宣白召請水陸上下堂　同前</item>
+<lb ed="X" n="0102b06"/><item id="itemX57p0102b0601">水陸齋儀文後序　同前</item>
+<lb ed="X" n="0102b07"/><item id="itemX57p0102b0701">斛前召請啟白文</item>
+<lb ed="X" n="0102b08"/><item id="itemX57p0102b0801">歐陽文忠公宿採石聞鬼聲</item>
+<lb ed="X" n="0102b09"/><item id="itemX57p0102b0901">佛印禪師加持水陸感驗</item>
+<lb ed="X" n="0102b10"/><item id="itemX57p0102b1001">誦破地獄偈感驗</item>
+<lb ed="X" n="0102b11"/><item id="itemX57p0102b1101">誦破地獄&CB00057;感驗</item>
+<lb ed="X" n="0102b12"/><item id="itemX57p0102b1201">附錄</item></list></div1>
+<lb ed="X" n="0102b13"/>
+<lb ed="X" n="0102b14"/>
+<lb ed="X" n="0102b15"/>
+<lb ed="X" n="0102b16"/>
+<lb ed="X" n="0102b17"/><head type="no">No. 961</head>
+<lb ed="X" n="0102b18"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>施食通&CB15095;卷上</jhead></juan>
+<lb ed="X" n="0102b19"/>
+<lb ed="X" n="0102b20"/>
+<lb ed="X" n="0102b21"/><div1 type="other"><mulu type="其他" level="1" label="救面然餓鬼陀羅尼神＆CB00057；經"/><head>佛說救面然餓鬼陀羅尼神&CB00057;經</head><p id="pX57p0102b2114" place="inline" rend="margin-left:4em">出羊字函</p>
+<lb ed="X" n="0102b22"/><byline type="translator">大唐三藏法師實叉難陀奉　詔譯</byline>
+<lb ed="X" n="0102b23"/><p id="pX57p0102b2301">爾時世尊在迦毗羅城尼俱律那僧伽藍所與諸比
+<lb ed="X" n="0102b24"/>丘并諸菩薩無數眾生周&CB00038;圍繞而為說法爾時阿
+<pb ed="X" id="X57.0961.0102c" n="0102c"/>
+<lb ed="X" n="0102c01"/>難獨居淨處一心繫念即於其夜三更之後見一餓
+<lb ed="X" n="0102c02"/>鬼名曰面然住阿難前白阿難言&CB00230;後三日汝命將
+<lb ed="X" n="0102c03"/>盡即便生此餓鬼之中是時阿難聞此語<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>心生惶
+<lb ed="X" n="0102c04"/>怖問餓鬼言我此&CB00321;禍作何方計得免斯苦爾時餓
+<lb ed="X" n="0102c05"/>鬼報阿難言汝於晨朝若能布施百千那由他恒河
+<lb ed="X" n="0102c06"/>沙數餓鬼并百千婆羅門及仙人等以摩伽陀國斗
+<lb ed="X" n="0102c07"/>各施一斗飲食并及為我供養三寶汝得增壽令我
+<lb ed="X" n="0102c08"/>離於餓鬼之苦得生天上阿難見此面然餓鬼身形
+<lb ed="X" n="0102c09"/>羸瘦枯燋極醜面上火然其咽如針頭髮蓬亂毛爪
+<lb ed="X" n="0102c10"/>長利身如負重又聞如是不順之語甚大驚怖身毛
+<lb ed="X" n="0102c11"/>皆&CB00594;即從座起疾至佛所五體投地頂禮佛足身心
+<lb ed="X" n="0102c12"/>顫慄而白佛言救我世尊救我善逝過此三日命將
+<lb ed="X" n="0102c13"/>終盡昨夜見一面然餓鬼而語我言汝於三日必當
+<lb ed="X" n="0102c14"/>命盡生餓鬼中我即問言以何方計得免斯苦餓鬼
+<lb ed="X" n="0102c15"/>答言汝若能施百千那由佗恒河沙數餓鬼及百千
+<lb ed="X" n="0102c16"/>婆羅門并諸仙等飲食汝得增壽世尊我今云何得
+<lb ed="X" n="0102c17"/>免此苦爾時世尊告阿難言汝今勿怖有異方便令
+<lb ed="X" n="0102c18"/>汝得施如是餓鬼諸婆羅門及仙等食勿生憂惱佛
+<lb ed="X" n="0102c19"/>言阿難有陀羅尼名曰一切德光無量威力若有誦
+<lb ed="X" n="0102c20"/>此陀羅尼者即成<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>施俱胝那由佗百千恒河沙數
+<lb ed="X" n="0102c21"/>餓鬼及六十八俱胝那由佗百千婆羅門并諸仙等
+<lb ed="X" n="0102c22"/>前各有摩伽佗斗四斛九斗飲食佛告阿難我於前
+<lb ed="X" n="0102c23"/>世曾為婆羅門時於觀世音菩薩及世間自在德力
+<lb ed="X" n="0102c24"/>如來所受於陀羅尼我當以此陀羅尼<app><lem wit="【CBETA】" resp="CBETA.maha">方</lem><rdg wit="【卍續】">力</rdg></app>便得具足
+<pb ed="X" id="X57.0961.0103a" n="0103a"/>
+<lb ed="X" n="0103a01"/>施於無量無數餓鬼及婆羅門并仙等食以我施諸
+<lb ed="X" n="0103a02"/>餓鬼食故捨離此身得生天上阿難汝今受持此陀
+<lb ed="X" n="0103a03"/>羅尼當自護身即說&CB00057;曰。</p>
+<lb ed="X" n="0103a04"/><p id="pX57p0103a0401" type="dharani">那麼薩縛<note place="inline">無可反下同此</note><app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>佗揭多<note place="inline">去聲呼</note>縛路枳帝<note place="inline">一</note>唵三
+<lb ed="X" n="0103a05"/><note place="inline">上聲呼下同此</note>&CB02494;<note place="inline">鞞揭反下同此</note>囉三&CB02494;囉<note place="inline">二</note>虎&CB00292;<note place="inline">二合三</note></p>
+<lb ed="X" n="0103a06"/><p id="pX57p0103a0601">佛言阿難若欲作此施食法者先取飯食安置淨盤
+<lb ed="X" n="0103a07"/>器中誦此陀羅尼&CB00057;&CB00057;食七&CB00642;於門內立展臂戶外
+<lb ed="X" n="0103a08"/>置盤淨地彈指七下作此施<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>於其四方有百千俱
+<lb ed="X" n="0103a09"/>胝那由他恒河沙數餓鬼於一一餓鬼前各有摩伽
+<lb ed="X" n="0103a10"/>陀斗四斛九斗飲食如是鬼等&CB00642;皆飽滿是諸餓鬼
+<lb ed="X" n="0103a11"/>喫此食<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>悉捨鬼身盡得生天復言阿難若比丘比
+<lb ed="X" n="0103a12"/>丘尼優婆塞優婆夷若能常誦此陀羅尼并奉飲食
+<lb ed="X" n="0103a13"/>即為具足無量功德命得延長即成供養百千俱胝
+<lb ed="X" n="0103a14"/>如來功德顏色鮮潔威德強記一切非人步多鬼等
+<lb ed="X" n="0103a15"/>夜叉羅剎并諸餓鬼皆畏是人心不忍見是人即為
+<lb ed="X" n="0103a16"/>成就具足大力勤進復言阿難若欲施婆羅門及仙
+<lb ed="X" n="0103a17"/>食者當取飲食滿置&CB00425;中誦此陀羅尼&CB00057;&CB00057;食七&CB00642;
+<lb ed="X" n="0103a18"/>瀉流水中具足奉獻無量俱胝百千恒河沙數婆羅
+<lb ed="X" n="0103a19"/>門及諸仙等如天飲食其婆羅門并仙人等喫此食
+<lb ed="X" n="0103a20"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>諸根具足圓滿吉祥各發其願讚歎施人其施食
+<lb ed="X" n="0103a21"/>人心得清淨而便疾證梵天威德常修淨行具足成
+<lb ed="X" n="0103a22"/>就供養百千俱胝恒河沙數如來功德於諸怨敵而
+<lb ed="X" n="0103a23"/>常得勝若比丘比丘尼優婆塞優婆夷若欲供養一
+<lb ed="X" n="0103a24"/>切三寶應當具辦香華飲食誦此陀羅尼&CB00057;&CB00057;所施
+<pb ed="X" id="X57.0961.0103b" n="0103b"/>
+<lb ed="X" n="0103b01"/>食及香華等二十一&CB00642;供養三寶此善男子善女人
+<lb ed="X" n="0103b02"/>等具足成就諸天玅供及無上供尊重讚歎一切如
+<lb ed="X" n="0103b03"/>來剎土三寶諸佛憶念稱揚讚歎諸天擁護佛言汝
+<lb ed="X" n="0103b04"/>去阿難當自護身并及廣為諸眾生說令諸眾生成
+<lb ed="X" n="0103b05"/>就具足無量功德所生之世常值百千俱胝諸佛。</p>
+<lb ed="X" n="0103b06"/><p id="pX57p0103b0601">佛說救面然餓鬼陀羅尼神&CB00057;經終。</p>
+<lb ed="X" n="0103b07"/><p id="pX57p0103b0701" rend="margin-left:1em"><note place="inline">準施食須知及蜀本瑜伽密教皆云有甘露水&CB00057;出實叉譯救面然經後及撿藏本皆不載之往往後來
+<lb ed="X" n="0103b08"/>寫刻脫去矣今謹依密教錄附經後庶補其缺也彼仍有乳海&CB00057;一字水輪&CB00057;并偈句等併以傳流或有
+<lb ed="X" n="0103b09"/>所用則不為無考焉</note>。</p></div1>
+<lb ed="X" n="0103b10"/><div1 type="other"><mulu type="其他" level="1" label="施甘露水陀羅尼"/><head>佛說施甘露水陀羅尼<note place="inline">捧水盂誦&CB00057;七&CB00642;洒之下二&CB00057;亦然</note></head>
+<lb ed="X" n="0103b11"/><div2 type="other"><mulu type="其他" level="2" label="施甘露水陀羅尼"/><p id="pX57p0103b1101" type="dharani">南無<note place="inline">引</note>素嚕皤耶<note place="inline">一</note>怛他揭多<note place="inline">去聲呼之</note>耶<note place="inline">二</note>怛你他<note place="inline">二合
+<lb ed="X" n="0103b12"/>三</note>唵<note place="inline">引四</note>素嚕素嚕<note place="inline">五</note>&CB00425;囉<note place="inline">二合</note>素嚕&CB00425;囉<note place="inline">二合</note>素嚕<note place="inline">六</note>莎
+<lb ed="X" n="0103b13"/>呵<note place="inline">七</note></p>
+<lb ed="X" n="0103b14"/><lg id="lgX57p0103b1401"><l>此法最殊勝</l><l>大悲心上生</l><l>流演玅伽陀</l>
+<lb ed="X" n="0103b15"/><l>甘露難思法</l><l>一滴泛清涼</l><l>皆是毗盧藏</l></lg></div2>
+<lb ed="X" n="0103b16"/><div2 type="other"><mulu type="其他" level="2" label="施乳海陀羅尼"/><head>佛說施乳海陀羅尼</head>
+<lb ed="X" n="0103b17"/><p id="pX57p0103b1701" type="dharani">曩謨<note place="inline">引</note>三滿多沒&CB00499;喃鍐<note place="inline">準大藏經音無犯切下同</note></p>
+<lb ed="X" n="0103b18"/><p id="pX57p0103b1801">次為一切幽顯有情入毗盧遮那如來一字水輪觀
+<lb ed="X" n="0103b19"/>令諸有情恣飲十斛甘露法水陀羅尼曰。</p>
+<lb ed="X" n="0103b20"/><p id="pX57p0103b2001" type="dharani">唵<note place="inline">引</note>鍐鍐鍐鍐</p>
+<lb ed="X" n="0103b21"/><p id="pX57p0103b2101">此是毗盧教甘露解脫門以大祕密言加持微玅食
+<lb ed="X" n="0103b22"/>法喜禪悅食&CB00642;滿於法界一切鬼神眾願得酥陀味
+<lb ed="X" n="0103b23"/>永除飢渴想即證無生地。</p></div2>
+<lb ed="X" n="0103b24"/><div2 type="other"><mulu type="其他" level="2" label="甘露王如來讚"/><head>甘露王如來讚</head><byline type="author">無為子楊傑　述</byline>
+<pb ed="X" id="X57.0961.0103c" n="0103c"/>
+<lb ed="X" n="0103c01"/><p id="pX57p0103c0101">諸天以名藥投于大海中摩以玅寶山造成甘露味
+<lb ed="X" n="0103c02"/>&CB00573;者延壽命而無夭橫苦如來施法食充滿大千界
+<lb ed="X" n="0103c03"/>令諸渴愛者永斷生死本稽首甘露王一食&CB00642;一切。</p></div2></div1>
+<lb ed="X" n="0103c04"/><div1 type="xu"><mulu type="序" level="1" label="救拔焰口陀羅尼經序"/><head>佛說救拔焰口陀羅尼經序</head>
+<lb ed="X" n="0103c05"/><byline type="author">宋錢塘天竺寺沙門　遵式　撰</byline>
+<lb ed="X" n="0103c06"/><p id="pX57p0103c0601">事有簡而易從者物有微而大濟者功有倍而召速
+<lb ed="X" n="0103c07"/>者三者斯經備焉且陳一器之食&CB00057;之七反鳴指以
+<lb ed="X" n="0103c08"/>施之&CB00057;亦不過數句此其易從也徹窮泉包九野塵
+<lb ed="X" n="0103c09"/>沙莫數焰口之鬼皆甘嗜實腹此其大濟也夫報應
+<lb ed="X" n="0103c10"/>之理統論三世其業廣而醇者謂之順現即感延齡
+<lb ed="X" n="0103c11"/>此其召速也法王之制坦然明白可舉而行矣夫一
+<lb ed="X" n="0103c12"/>摶之食一勺之水有用無匱聞之者不能不惑苟推
+<lb ed="X" n="0103c13"/>功神&CB00057;理歸不測又何惑焉夫龍一鱗蟲耳得蹄涔
+<lb ed="X" n="0103c14"/>之水散之六&CB00980;以為洪流況至聖至良之神&CB00057;窮法
+<lb ed="X" n="0103c15"/>界之至變者也焦腹矩口沈幽動劫仰天無訴非慈
+<lb ed="X" n="0103c16"/>仁惻惻為心者展臂一惠雖一&CB00290;其可得乎大哉博
+<lb ed="X" n="0103c17"/>施濟眾真斯謂也何必云堯舜病諸且能恕<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>之飢
+<lb ed="X" n="0103c18"/>渴於彼之飢渴雖勞亦為況簡而易從也經曰如供
+<lb ed="X" n="0103c19"/>百千俱胝佛者非直顯其功大抑亦戒令慎重而後
+<lb ed="X" n="0103c20"/>施之必也重心則現招五果五果者一曰壽二曰色
+<lb ed="X" n="0103c21"/>三曰力四曰辯五曰安昭然在文不復委引信夫一
+<lb ed="X" n="0103c22"/>粒充於彼五福隆於此其猶影響焉詎有勤善聞斯
+<lb ed="X" n="0103c23"/>而不遷者也一經凡兩譯此本八十三行一字合千
+<lb ed="X" n="0103c24"/>四百十三言即三藏不空所翻也但加四如來及四
+<pb ed="X" id="X57.0961.0104a" n="0104a"/>
+<lb ed="X" n="0104a01"/>真言為異用者存略任意官坊俗務不暇廣行直誦
+<lb ed="X" n="0104a02"/>變食一&CB00057;於理<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>足實叉譯本但一&CB00057;而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>事備施
+<lb ed="X" n="0104a03"/>食正名不復煩敘云也。</p></div1>
+<lb ed="X" n="0104a04"/><div1 type="other"><mulu type="其他" level="1" label="救拔焰口餓鬼陀羅尼經"/><head>佛說救拔焰口餓鬼陀羅尼經</head><p id="pX57p0104a0413" place="inline" rend="margin-left:4em">出槐字函</p>
+<lb ed="X" n="0104a05"/><byline type="translator">唐大興善寺三藏沙門大廣智不空奉　詔譯</byline>
+<lb ed="X" n="0104a06"/><p id="pX57p0104a0601">爾時世尊在迦毗羅城尼拘律那僧伽藍所與諸比
+<lb ed="X" n="0104a07"/>丘并諸菩薩無數眾會前後圍繞而為說法爾時阿
+<lb ed="X" n="0104a08"/>難獨居靜處念所受法即於其夜三更<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>後見一餓
+<lb ed="X" n="0104a09"/>鬼名曰焰口其形醜陋身體枯瘦口中火然咽如針
+<lb ed="X" n="0104a10"/>鋒頭髮髼亂爪牙長利甚可怖畏住阿難前白阿難
+<lb ed="X" n="0104a11"/>言&CB00230;後三日汝命將盡即便生此餓鬼之中阿難聞
+<lb ed="X" n="0104a12"/>此語<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>心生惶怖問餓鬼言若我死後生餓鬼者行
+<lb ed="X" n="0104a13"/>何方便得免斯苦爾時餓鬼白阿難曰汝於明日若
+<lb ed="X" n="0104a14"/>能布施百千那由佗恒河沙數餓鬼并百千婆羅門
+<lb ed="X" n="0104a15"/>仙等以摩伽陀國所用之斛各施一斛飲食并及為
+<lb ed="X" n="0104a16"/>我供養三寶汝得增壽令我離於餓鬼之苦得生天
+<lb ed="X" n="0104a17"/>上阿難見此焰口餓鬼身形嬴瘦枯焦極醜口中火
+<lb ed="X" n="0104a18"/>然咽如針鋒頭髮髼亂爪牙長利又聞如是不順之
+<lb ed="X" n="0104a19"/>語甚大驚怖身毛皆&CB00594;即從座起疾至佛所五體投
+<lb ed="X" n="0104a20"/>地頂禮佛足身體戰慄而白佛言願救我苦所以者
+<lb ed="X" n="0104a21"/>何我住靜處念所受法見焰口餓鬼而語我言汝過
+<lb ed="X" n="0104a22"/>三日必當命盡生餓鬼中我即問言云何令我得免
+<lb ed="X" n="0104a23"/>斯苦餓鬼答言汝今若能施於百千那由佗恒河沙
+<lb ed="X" n="0104a24"/>數餓鬼及百千婆羅門仙等種種飲食汝得增壽世
+<pb ed="X" id="X57.0961.0104b" n="0104b"/>
+<lb ed="X" n="0104b01"/>尊我今云何能辨若干餓鬼仙人等食爾時世尊告
+<lb ed="X" n="0104b02"/>阿難言汝今勿怖我有方便令汝能施若干百千恒
+<lb ed="X" n="0104b03"/>河沙餓鬼及諸婆羅門仙等種種飲食勿生憂惱佛
+<lb ed="X" n="0104b04"/>告阿難有陀羅尼名曰無量威德自在光明勝玅力
+<lb ed="X" n="0104b05"/>若有誦此陀羅尼者即能充足俱胝那由佗百千恒
+<lb ed="X" n="0104b06"/>河沙數餓鬼及婆羅門仙等上玅飲食如是等眾乃
+<lb ed="X" n="0104b07"/>至一一皆得摩伽陀國所用之斛七七斛食阿難我
+<lb ed="X" n="0104b08"/>於前世作婆羅門於觀自在菩薩及世間自在威德
+<lb ed="X" n="0104b09"/>如來所受比陀羅尼故能散施與無量餓鬼及諸仙
+<lb ed="X" n="0104b10"/>等種種飲食令諸餓鬼解脫苦身得生天上阿難汝
+<lb ed="X" n="0104b11"/>今受持福德壽命皆得增長爾時世尊即為阿難說
+<lb ed="X" n="0104b12"/>陀羅尼曰。</p>
+<lb ed="X" n="0104b13"/><p id="pX57p0104b1301" type="dharani">曩謨薩&CB02389;怛佗<note place="inline">引</note>&CB00617;跢<note place="inline">引一</note>&CB02389;路<note place="inline">引</note>枳帝<note place="inline">二</note>唵<note place="inline">引三</note>三<note place="inline">去</note>
+<lb ed="X" n="0104b14"/>跋羅三&CB02494;羅吽<note place="inline">引四</note></p>
+<lb ed="X" n="0104b15"/><p id="pX57p0104b1501">佛告阿難若有善男子善女人欲求長壽福德增榮
+<lb ed="X" n="0104b16"/>速能滿足檀波羅蜜每於晨朝及一切時悉無障礙
+<lb ed="X" n="0104b17"/>取一淨器盛以淨水置少飲&CB00595;及諸餅飯等以右手
+<lb ed="X" n="0104b18"/>按器誦前陀羅尼滿七&CB00642;然障稱四如來名號。</p>
+<lb ed="X" n="0104b19"/><p id="pX57p0104b1901">南謨多寶如來。</p>
+<lb ed="X" n="0104b20"/><p id="pX57p0104b2001" type="dharani">曩謨婆<note place="inline">去</note>&CB00344;&CB02389;帝<note place="inline">一</note>&CB00425;囉<note place="inline">二合</note>部<note place="inline">引</note>哆囉怛曩<note place="inline">二合</note>野怛
+<lb ed="X" n="0104b21"/>佗<note place="inline">引</note>&CB00617;跢<note place="inline">引</note>野<note place="inline">二</note></p>
+<lb ed="X" n="0104b22"/><p id="pX57p0104b2201">由稱多寶如來名號加持故能破一切諸鬼多生<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0104b23"/>來慳吝惡業罪障消滅即得福德圓滿。</p>
+<lb ed="X" n="0104b24"/><p id="pX57p0104b2401">南謨玅色身如來。</p>
+<pb ed="X" id="X57.0961.0104c" n="0104c"/>
+<lb ed="X" n="0104c01"/><p id="pX57p0104c0101" type="dharani">曩謨婆&CB00344;&CB02389;帝<note place="inline">一</note>素嚕<note place="inline">二合</note>播<note place="inline">引</note>迦野<note place="inline">引</note>怛佗<note place="inline">引</note>&CB00344;跢
+<lb ed="X" n="0104c02"/>野<note place="inline">二</note></p>
+<lb ed="X" n="0104c03"/><p id="pX57p0104c0301">由稱玅色身如來名號加持故能破諸鬼醜陋惡形
+<lb ed="X" n="0104c04"/>即得色相具足。</p>
+<lb ed="X" n="0104c05"/><p id="pX57p0104c0501">南謨廣博身如來。</p>
+<lb ed="X" n="0104c06"/><p id="pX57p0104c0601" type="dharani">曩謨<note place="inline">引</note>婆&CB00344;&CB02389;帝<note place="inline">一</note>尾補囉&CB00344;<note place="inline">引</note>怛囉<note place="inline">二合引</note>野怛佗
+<lb ed="X" n="0104c07"/><note place="inline">引</note>&CB00617;跢<note place="inline">引</note>野<note place="inline">二</note></p>
+<lb ed="X" n="0104c08"/><p id="pX57p0104c0801">由稱廣博身如來名號加持故能令諸鬼咽喉寬大
+<lb ed="X" n="0104c09"/>所施之食恣意充飽。</p>
+<lb ed="X" n="0104c10"/><p id="pX57p0104c1001">南謨離怖畏如來。</p>
+<lb ed="X" n="0104c11"/><p id="pX57p0104c1101" type="dharani">曩謨婆<note place="inline">去</note>&CB00344;&CB02389;帝<note place="inline">一</note>阿<note place="inline">上</note>婆<note place="inline">去</note>孕迦囉<note place="inline">引</note>野怛佗<note place="inline">去</note>
+<lb ed="X" n="0104c12"/>&CB00617;跢<note place="inline">引</note>野<note place="inline">二</note></p>
+<lb ed="X" n="0104c13"/><p id="pX57p0104c1301">由稱離怖畏如來名號加持故能令諸鬼一切恐怖
+<lb ed="X" n="0104c14"/>悉皆除滅離餓鬼趣。</p>
+<lb ed="X" n="0104c15"/><p id="pX57p0104c1501">佛告阿難若族姓子等稱四如來名號加持<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>彈指
+<lb ed="X" n="0104c16"/>七&CB00642;取於食器於淨地上展臂瀉之作此施<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>於其
+<lb ed="X" n="0104c17"/>四方有百千那由佗恒河沙數餓鬼前各各有摩伽
+<lb ed="X" n="0104c18"/>陀國七七斛食受此食<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>悉皆飽滿是諸餓鬼等悉
+<lb ed="X" n="0104c19"/>捨鬼身生於天上阿難若有比丘比丘尼優婆塞優
+<lb ed="X" n="0104c20"/>婆夷常以此真言及四如來名號加持飲食施諸餓
+<lb ed="X" n="0104c21"/>鬼便能具足無量福德則同供養百千俱胝如來功
+<lb ed="X" n="0104c22"/>德等無差別壽命延長增益色力善根具足一切非
+<lb ed="X" n="0104c23"/>人夜叉羅剎諸惡鬼神不敢侵害又能成就無量福
+<lb ed="X" n="0104c24"/>德壽命若欲施諸婆羅門仙等以淨飲食滿盛一器
+<pb ed="X" id="X57.0961.0105a" n="0105a"/>
+<lb ed="X" n="0105a01"/>即以前真言加持二七&CB00642;投於淨流水中如是作<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0105a02"/>即為以天仙美玅飲食供養百千俱胝恒河沙數婆
+<lb ed="X" n="0105a03"/>羅門仙彼諸仙人得加持食故以明威德各各成就
+<lb ed="X" n="0105a04"/>根本所願諸善功德各各同時發誓願言願施食人
+<lb ed="X" n="0105a05"/>壽命廷長色力安樂又令其人心所見聞正解清淨
+<lb ed="X" n="0105a06"/>具足成就梵天威德行梵天行又同供養百千恒河
+<lb ed="X" n="0105a07"/>沙如來功德一切怨讎不能侵害若比丘比丘尼優
+<lb ed="X" n="0105a08"/>婆塞優婆夷若欲供養佛法僧寶應以香華及淨飲
+<lb ed="X" n="0105a09"/>食以前真言加持二十一&CB00642;奉獻三寶是善男子及
+<lb ed="X" n="0105a10"/>善女人則成以天肴膳上味奉獻供養滿十方世界
+<lb ed="X" n="0105a11"/>佛法僧寶亦為讚歎勸請隨喜功德恒為諸佛憶念
+<lb ed="X" n="0105a12"/>稱讚諸天善神恒來擁護即為滿足檀波羅蜜阿難
+<lb ed="X" n="0105a13"/>汝隨我語如法修行廣宣流布令諸眾生普得見聞
+<lb ed="X" n="0105a14"/>獲無量福是名救焰口餓鬼及苦眾生陀羅尼經以
+<lb ed="X" n="0105a15"/>是名字汝當奉持一切大眾及阿難等聞佛說<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>一
+<lb ed="X" n="0105a16"/>心信受歡喜奉行。</p>
+<lb ed="X" n="0105a17"/><p id="pX57p0105a1701">佛說救&CB15072;焰口餓鬼陀羅尼經<note place="inline">終</note></p></div1>
+<lb ed="X" n="0105a18"/><div1 type="other"><mulu type="其他" level="1" label="佛化曠野鬼神緣"/><head>佛化曠野鬼神緣</head><p id="pX57p0105a1808" place="inline" rend="margin-left:4em">出壹字函</p>
+<lb ed="X" n="0105a19"/><p id="pX57p0105a1901">大涅槃經北本第十六卷佛言善男子如我一時游
+<lb ed="X" n="0105a20"/>彼曠野聚落在叢樹下有一鬼神即名曠野純食肉
+<lb ed="X" n="0105a21"/>血多殺眾生復於其聚日食一人善男子我於爾時
+<lb ed="X" n="0105a22"/>為彼鬼神廣說法要然彼暴惡愚癡無智不受教法
+<lb ed="X" n="0105a23"/>我即化身為大力鬼動其宮殿令不安所彼鬼于時
+<lb ed="X" n="0105a24"/>將其眷屬出其宮殿欲來拒逆鬼見我時即失心念
+<pb ed="X" id="X57.0961.0105b" n="0105b"/>
+<lb ed="X" n="0105b01"/>惶怖&CB00570;地迷悶斷絕猶如死人我以慈愍手摩其身
+<lb ed="X" n="0105b02"/>即還起坐作如是言快哉今日還得身命是大神王
+<lb ed="X" n="0105b03"/>具大威德有慈愍心赦我&CB00985;咎即於我所生善信心
+<lb ed="X" n="0105b04"/>我即還復如來之身復更為說種種法要令彼鬼神
+<lb ed="X" n="0105b05"/>受不殺戒即於是日曠野村中有一長者次應當死
+<lb ed="X" n="0105b06"/>村人<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>送付彼鬼神鬼神得<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>即以施我我既受<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0105b07"/>便為長者更立名字名手長者爾時彼鬼即白我言
+<lb ed="X" n="0105b08"/>世尊我及眷屬唯仰血肉以自存活今以戒故當云
+<lb ed="X" n="0105b09"/>何活我即答言從今當敕聲聞弟子隨有修行佛法
+<lb ed="X" n="0105b10"/>之處悉當令其施汝飲食善男子以是因緣為諸比
+<lb ed="X" n="0105b11"/>丘制如是戒汝等從今常當施彼曠野鬼食若有住
+<lb ed="X" n="0105b12"/>處不能施者當知是輩非我弟子即是天魔徒黨眷
+<lb ed="X" n="0105b13"/>屬善男子如來為欲調伏眾生故示如是種種方便
+<lb ed="X" n="0105b14"/>非故令彼生怖畏也。</p></div1>
+<lb ed="X" n="0105b15"/><div1 type="other"><mulu type="其他" level="1" label="佛化鬼子母緣"/><head>佛化鬼子母緣</head><p id="pX57p0105b1507" place="inline" rend="margin-left:4em">出別字函</p>
+<lb ed="X" n="0105b16"/><p id="pX57p0105b1601">鼻柰耶雜事律三十卷佛在王舍大城城內有藥叉
+<lb ed="X" n="0105b17"/>神名曰娑多常護摩竭提國人民娑多娶妻時北方
+<lb ed="X" n="0105b18"/>健陀羅國復有藥叉名半遮羅亦復娶妻二共聚會
+<lb ed="X" n="0105b19"/>念無以重懽時娑多曰我等沒後所有子孫可作指
+<lb ed="X" n="0105b20"/>腹之親遮羅唯之時娑多妻忽生一女容貌端嚴為
+<lb ed="X" n="0105b21"/>之立字名曰懽喜半遮之妻後生一男號半支迦娑
+<lb ed="X" n="0105b22"/>多又生一男名娑多山娑多亡山為家主懽喜謂弟
+<lb ed="X" n="0105b23"/>曰我今欲食王城男女山曰我父於此常護人民爾
+<lb ed="X" n="0105b24"/>以云何生此惡念弟知&CB00106;意難迴即報半遮羅為婚
+<pb ed="X" id="X57.0961.0105c" n="0105c"/>
+<lb ed="X" n="0105c01"/>既婚之後懽喜謂夫半支迦曰我欲食王城男女迦
+<lb ed="X" n="0105c02"/>曰彼皆是汝家族佗來侵害尚欲相護寧為酷虐懽
+<lb ed="X" n="0105c03"/>喜生子次第至於五百其最小者名曰愛兒五百成
+<lb ed="X" n="0105c04"/>立母恃子勢欲行非法夫勸不從時懽喜便於王城
+<lb ed="X" n="0105c05"/>往來所有男女次第取食人民痛惱白王王即敕令
+<lb ed="X" n="0105c06"/>四門守捉亦被偷去王城災起即敕處處祭祀災橫
+<lb ed="X" n="0105c07"/>不除爾時天神即於夢中告諸人曰汝諸男女皆被
+<lb ed="X" n="0105c08"/>懽喜藥叉所噉當往告佛時諸人曰此鬼噉我男女
+<lb ed="X" n="0105c09"/>則是惡賊何名懽喜因此競呼為訶梨底眾往白佛
+<lb ed="X" n="0105c10"/>佛即明旦持&CB00425;入城到藥叉所值渠出行佛即以&CB00425;
+<lb ed="X" n="0105c11"/>覆其愛兒如來威力令眾不見母歸不見愛兒便即
+<lb ed="X" n="0105c12"/>顛狂內外尋覓直至四海四洲地獄天宮亦復不見
+<lb ed="X" n="0105c13"/>時多聞天言曰汝不須憂宜速歸佛彼當示汝懽喜
+<lb ed="X" n="0105c14"/>即迴遙見世尊告言失子佛言汝有幾子答言五百
+<lb ed="X" n="0105c15"/>佛言五百失一如是苦惱況佗一子母曰願以示誨
+<lb ed="X" n="0105c16"/>佛言可受我戒則便得見愛兒母曰我依佛教佛即
+<lb ed="X" n="0105c17"/>舉&CB00425;母乃得見愛兒即從佛求受三歸五學處不殺
+<lb ed="X" n="0105c18"/>生等受<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>白言我今與子何所食噉佛言我敕聲聞
+<lb ed="X" n="0105c19"/>弟子每於食次出眾生食并於行末設食一盤呼汝
+<lb ed="X" n="0105c20"/>等名字施之若有江河諸鬼神等宜應食者皆悉運
+<lb ed="X" n="0105c21"/>心令其飽滿佛說是<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>比丘白佛言訶梨底母先世
+<lb ed="X" n="0105c22"/>作何行業而乃如是佛言過去王城有牧牛妻懷妊
+<lb ed="X" n="0105c23"/>體重爾時無佛乃獨覺化世獨覺出城眾設大會有
+<lb ed="X" n="0105c24"/>五百人嚴持供養路中值見娠婦告言可來&CB01425;蹈婦
+<pb ed="X" id="X57.0961.0106a" n="0106a"/>
+<lb ed="X" n="0106a01"/>起欲心揚眉&CB01425;戲因是墮胎婦便憂惱乃以酪漿買
+<lb ed="X" n="0106a02"/>得五百菴羅果持供獨覺即發願言願我當來生王
+<lb ed="X" n="0106a03"/>舍城食諸男女由彼邪願今故噉人精氣時訶梨底
+<lb ed="X" n="0106a04"/>既受歸戒返被諸藥叉神作災即將諸子施與眾僧
+<lb ed="X" n="0106a05"/>諸子見僧乞食即化作小兒隨後而去王城女人見
+<lb ed="X" n="0106a06"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>抱持彼便隱沒諸女問曰此是誰子比丘答言訶
+<lb ed="X" n="0106a07"/>梨底子諸女人曰此乃怨家毒害之子耶比丘言彼
+<lb ed="X" n="0106a08"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>捨惡但為藥叉作災持以施我也諸女作念彼能
+<lb ed="X" n="0106a09"/>捨惡以子奉佛我何不施耶遂競捨男女與僧僧不
+<lb ed="X" n="0106a10"/>受前往白佛佛言應受受<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>不為守護佛言應以故
+<lb ed="X" n="0106a11"/>袈裟片繫其項上而為守護後時父母將財來贖僧
+<lb ed="X" n="0106a12"/>不受佛言應受時六&CB00320;比丘要索全價佛言不應索
+<lb ed="X" n="0106a13"/>價但隨彼意。</p></div1>
+<lb ed="X" n="0106a14"/><div1 type="other"><mulu type="其他" level="1" label="比丘乞食當分為四分"/><head>比丘乞食當分為四分</head><p id="pX57p0106a1410" place="inline" rend="margin-left:4em">出艸字函</p>
+<lb ed="X" n="0106a15"/><p id="pX57p0106a1501">寶雲經佛言善男子菩薩當具足十法行乞摶食謂
+<lb ed="X" n="0106a16"/>發心利益諸眾生故次第行乞無渴愛求<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>自知足
+<lb ed="X" n="0106a17"/>性樂分施無貪婪想於所乞食自知限量趣向助道
+<lb ed="X" n="0106a18"/>巧摶善根遠離摶想善男子菩薩見諸眾生貧窮困
+<lb ed="X" n="0106a19"/>苦功德微薄不種善根為利彼故行詣乞食若入城
+<lb ed="X" n="0106a20"/>郭聚落應善攝念於諸境界勿令馳騁威儀庠序諸
+<lb ed="X" n="0106a21"/>根不動視地七尺低頭而行若入富家亦不多求充
+<lb ed="X" n="0106a22"/>足是日一食而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>勿妨法事遠離諸惡毀謗等處勿
+<lb ed="X" n="0106a23"/>渴愛求勿強迫求亦不瞋恨隨宜所得<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>自知足持
+<lb ed="X" n="0106a24"/>&CB00425;而還安置衣&CB00425;而洗手足於所食者分為四分一
+<pb ed="X" id="X57.0961.0106b" n="0106b"/>
+<lb ed="X" n="0106b01"/>分與同學一分與貧窮一分與鬼畜一分而自食如
+<lb ed="X" n="0106b02"/>是取食無貪著心無悕望心莫為過少莫為過多若
+<lb ed="X" n="0106b03"/>少不能行道若多睡眠身重等。</p></div1>
+<lb ed="X" n="0106b04"/><div1 type="other"><mulu type="其他" level="1" label="受食＆CB00057；願偈"/><head>受食&CB00057;願偈</head><byline type="author">南嶽思大禪師</byline>
+<lb ed="X" n="0106b05"/><p id="pX57p0106b0501">師隨自意三昧云凡所得食應云。</p>
+<lb ed="X" n="0106b06"/><lg id="lgX57p0106b0601"><l>此食色香味</l><l>上供十方佛</l><l>中奉諸賢聖</l>
+<lb ed="X" n="0106b07"/><l>下及六道品</l><l>等施無差別</l><l>隨感皆飽滿</l>
+<lb ed="X" n="0106b08"/><l>令今施主得</l><l>無量波羅蜜</l></lg>
+<lb ed="X" n="0106b09"/><p id="pX57p0106b0901" rend="margin-left:2em">又云。</p>
+<lb ed="X" n="0106b10"/><lg id="lgX57p0106b1001"><l>念食色香</l><l>如栴檀風</l><l>一時普熏</l><l>十方世界</l>
+<lb ed="X" n="0106b11"/><l>凡聖有感</l><l>各得上味</l><l>六道聞香</l><l>發菩提心</l>
+<lb ed="X" n="0106b12"/><l>於食能生</l><l>六波羅蜜</l><l>及以三行</l></lg></div1>
+<lb ed="X" n="0106b13"/><div1 type="other"><mulu type="其他" level="1" label="觀心食法"/><head>觀心食法</head><byline type="author">天台智者大師</byline>
+<lb ed="X" n="0106b14"/><p id="pX57p0106b1401">既敷座<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>聽維那進止鳴鐘後歛手供養一體三寶
+<lb ed="X" n="0106b15"/>&CB00642;十方界施作佛事次出生飯稱施六道即表六波
+<lb ed="X" n="0106b16"/>羅蜜然後受此食夫食者眾生之外命若不入觀即
+<lb ed="X" n="0106b17"/>潤生死若能知入觀分別生死有邊無邊不問分衛
+<lb ed="X" n="0106b18"/>與清眾淨食皆須作觀觀之者自恐此身內舊食皆
+<lb ed="X" n="0106b19"/>是無明煩惱潤益生死今之所食皆是般若想於舊
+<lb ed="X" n="0106b20"/>食從毛孔次第而出食既出<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>心路即開食今新食
+<lb ed="X" n="0106b21"/>照諸暗滅成於般若故淨名云於食等者於法亦等
+<lb ed="X" n="0106b22"/>是為明證以此食故成般若食能養法身法身得立
+<lb ed="X" n="0106b23"/>即得解脫是為三德照此食者非新非故而有舊食
+<lb ed="X" n="0106b24"/>之故而有新食之新是名為假求故不得求新不得
+<pb ed="X" id="X57.0961.0106c" n="0106c"/>
+<lb ed="X" n="0106c01"/>畢竟空寂名之為空觀食者自那可食為新既無新
+<lb ed="X" n="0106c02"/>食那可得食食者而不離舊食養身而新食重益因
+<lb ed="X" n="0106c03"/>緣和合不可前後分別名之為中只中即假空只空
+<lb ed="X" n="0106c04"/>即中假只假即空中不可思議名為中道又淨名云
+<lb ed="X" n="0106c05"/>非有煩惱非離煩惱非入定意非起定意是名食法
+<lb ed="X" n="0106c06"/>也。</p></div1>
+<lb ed="X" n="0106c07"/><div1 type="other"><mulu type="其他" level="1" label="出生圖紀(并序)"/><head>出生圖紀<note place="inline">并序</note></head><byline type="author">孤山沙門智圓　述</byline>
+<lb ed="X" n="0106c08"/><p id="pX57p0106c0801">儒禮食必祭其先君子有事不忘本也釋氏之出生
+<lb ed="X" n="0106c09"/>具云出眾生食蓋祭曠野鬼神及鬼子母沙門用心
+<lb ed="X" n="0106c10"/>憫異類也不忘本仁也憫異類慈也兩者同出而異
+<lb ed="X" n="0106c11"/>名今觀後學鮮測厥由遂使出生事乖謹潔於檀越
+<lb ed="X" n="0106c12"/>家則或雜以所棄處眾堂則盤器汙雜因圖其形容
+<lb ed="X" n="0106c13"/>紀其事跡以示來者且祭神如神在享于克誠在儒
+<lb ed="X" n="0106c14"/>尚然況稟佛制今眾居宜以淨器聚斂安此像前良
+<lb ed="X" n="0106c15"/>久施飛走鱗介之屬檀越家當於僧食畢取其生飯
+<lb ed="X" n="0106c16"/>併著一器供彼形像然後散之然律亦許二食時先
+<lb ed="X" n="0106c17"/>送食供養<note place="inline">寄歸傳亦云復於行末安食一盤以供呵利帝母也</note>若或先供則眾
+<lb ed="X" n="0106c18"/>僧不須各出切恐於時未安今宜各出然後聚而供
+<lb ed="X" n="0106c19"/>之既人別用心則咸思佛制庶幾上士勤而行之所
+<lb ed="X" n="0106c20"/>謂賢者之祭必受其福也。</p>
+<lb ed="X" n="0106c21"/><p id="pX57p0106c2101">涅槃南本第十五云佛游曠野聚落有一鬼神即以
+<lb ed="X" n="0106c22"/>曠野為名食肉殺生復於其聚日食一人佛為說法
+<lb ed="X" n="0106c23"/>愚不受教佛即化身大力鬼動其宮殿彼鬼出宮拒
+<lb ed="X" n="0106c24"/>逆見佛所化&CB00570;地悶絕佛以慈手摩身即還起坐作
+<pb ed="X" id="X57.0961.0107a" n="0107a"/>
+<lb ed="X" n="0107a01"/>如是言快哉今日還得身命是大神王赦我&CB00977;咎佛
+<lb ed="X" n="0107a02"/>現本身復為說法令彼鬼神受不殺戒是日曠野村
+<lb ed="X" n="0107a03"/>中有一長者次應當死鬼神得<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>即以施佛佛為立
+<lb ed="X" n="0107a04"/>字名手長者鬼白佛言我及眷屬唯仰血肉以自存
+<lb ed="X" n="0107a05"/>活今<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>受戒當何資立佛即答言從今當敕聲聞弟
+<lb ed="X" n="0107a06"/>子隨有修行佛法之處悉當令其施汝飲食以是因
+<lb ed="X" n="0107a07"/>緣為諸比丘制如是戒汝等從今常當施彼曠野鬼
+<lb ed="X" n="0107a08"/>神食若有住處不能施者當知是輩非我弟子即是
+<lb ed="X" n="0107a09"/>天魔徒黨眷屬。</p>
+<lb ed="X" n="0107a10"/><p id="pX57p0107a1001">寄歸傳第一云施主初置聖僧供次乃行食以奉僧
+<lb ed="X" n="0107a11"/>眾復於行末安食一盤以供呵利帝母其母先身因
+<lb ed="X" n="0107a12"/>事發願食王舍城所有兒童遂受藥叉身生五百兒
+<lb ed="X" n="0107a13"/>日&CB00290;王舍城男女佛遂藏其稚子名愛兒母遂覓之
+<lb ed="X" n="0107a14"/>佛告曰汝子五百一尚見憐況復餘人但一二乎佛
+<lb ed="X" n="0107a15"/>因化之令受五戒乃請佛曰我兒五百今何食焉佛
+<lb ed="X" n="0107a16"/>言我令苾&CB00034;等隨所寺院住處日日常設祭食令汝
+<lb ed="X" n="0107a17"/>等充&CB00290;故西方諸寺每於門屋處或在食廚邊塑畫
+<lb ed="X" n="0107a18"/>母形抱一兒子於膝下或五或三以表其像每日於
+<lb ed="X" n="0107a19"/>前盛陳供食母乃四天王部眾也大豐勢力其有疾
+<lb ed="X" n="0107a20"/>病無兒息者饗禱焉皆悉遂願詳如律說神州先有
+<lb ed="X" n="0107a21"/>名鬼子母焉今詳此方佛寺皆於門壁畫二神神後
+<lb ed="X" n="0107a22"/>一女&CB00582;其遺像既二俱受祭故併畫之或有立居士
+<lb ed="X" n="0107a23"/>像者蓋手長者也西壁即嚝野之身東壁即佛所化
+<lb ed="X" n="0107a24"/>者今明受供唯圖曠野之像焉。</p></div1>
+<pb ed="X" id="X57.0961.0107b" n="0107b"/>
+<lb ed="X" n="0107b01"/><div1 type="other"><mulu type="其他" level="1" label="施食正名"/><head>施食正名</head><byline type="author">天竺沙門遵式　述</byline>
+<lb ed="X" n="0107b02"/><p id="pX57p0107b0201">施食一經凡兩譯共三名一曰救面然一曰救拔焰
+<lb ed="X" n="0107b03"/>口一直云施餓鬼食今吳越諸寺多置別院有題榜
+<lb ed="X" n="0107b04"/>水陸者所以取諸仙致食於流水鬼致食於淨地之
+<lb ed="X" n="0107b05"/>謂也<note place="inline">世言施水陸無主孤魂者理出誘俗言不涉教</note>有題斛食者所以取諸
+<lb ed="X" n="0107b06"/>摩提偉器之度顯變之大非器食于其中也有題冥
+<lb ed="X" n="0107b07"/>道者所以取諸鬼類別佗趣也天其冥乎人其冥乎
+<lb ed="X" n="0107b08"/>畜其冥乎夫燕&CB15179;以蟲粒自充牛羊以水艸而足泥
+<lb ed="X" n="0107b09"/>黎咀銅鐵而不暇提婆飲甘露而有餘生生之方既
+<lb ed="X" n="0107b10"/>殊服味之品萬計唯其鬼黨伺人廟食故大慈誨以
+<lb ed="X" n="0107b11"/>密教詛少令多而博濟之至若山海之仙莫貴匪人
+<lb ed="X" n="0107b12"/>莫高匪天不我類焉且能顯晦饗夫粒食于以求之
+<lb ed="X" n="0107b13"/>但小出鬼之上梁天監天下止殺乃用相似佛法設
+<lb ed="X" n="0107b14"/>六道之祭代江東淫祀蔬食菜&CB15135;免我犧羊今之承
+<lb ed="X" n="0107b15"/>之既非彝訓不能無差故牟尼有言曰人死祀之魂
+<lb ed="X" n="0107b16"/>為鬼則歆其食矣佗趣亡諸又諸無疑聖弟子曰六
+<lb ed="X" n="0107b17"/>趣各有自爾之力唯鬼能變食耳詩不云乎不愆不
+<lb ed="X" n="0107b18"/>忘率由舊章故大聖名之必可言也言之必可行也
+<lb ed="X" n="0107b19"/>過此<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>往則未知所裁。</p></div1>
+<lb ed="X" n="0107b20"/><div1 type="other"><mulu type="其他" level="1" label="施食法"/><head>施食法</head><p id="pX57p0107b2004" place="inline" rend="margin-left:4em">同前</p>
+<lb ed="X" n="0107b21"/><p id="pX57p0107b2101">先和會經文者經既兩譯略有異同實叉譯云若欲
+<lb ed="X" n="0107b22"/>施婆羅門及仙等食<note place="inline">婆羅門及仙乃分二類經文似&CB00386;也</note>不空譯云施
+<lb ed="X" n="0107b23"/>婆羅門仙<note place="inline">不云及仙此文似正若作二類婆羅門是人不合同鬼施食也</note>實叉&CB00057;仙
+<lb ed="X" n="0107b24"/>食七&CB00642;與鬼同不空云二七&CB00642;<note place="inline">二七為正</note>實叉云餓鬼得
+<pb ed="X" id="X57.0961.0107c" n="0107c"/>
+<lb ed="X" n="0107c01"/>摩伽佗斗四斛九斗飲食不空云七七斛食<note place="inline">譯者不同不須
+<lb ed="X" n="0107c02"/>和會據理但取飽滿為度</note>經云施食若晨朝及一切時悉無障礙
+<lb ed="X" n="0107c03"/>準毗羅三昧經云早起諸天食日中三世佛食日西
+<lb ed="X" n="0107c04"/>畜生食日暮鬼神食與此經如何和會釋曰應有多
+<lb ed="X" n="0107c05"/>意且作一解毗羅據理定說此經隨時不定說何者
+<lb ed="X" n="0107c06"/>餓鬼飢急苦若倒懸得食便施何&CB04453;終日故云一切
+<lb ed="X" n="0107c07"/>無礙也若天仙及佛須依毗羅定說過中之後決不
+<lb ed="X" n="0107c08"/>可以飲食雜果供養也經不說人者準人道既貴合
+<lb ed="X" n="0107c09"/>在中前食故人有夜食不節者自同鬼畜耳又實叉
+<lb ed="X" n="0107c10"/>唯用一&CB00057;不空加四如來名等今且依實叉貴易行
+<lb ed="X" n="0107c11"/>故一&CB00057;之力能兼一切不&CB04453;其諸又有甘露經及一
+<lb ed="X" n="0107c12"/>小卷者&CB00278;失譯不可用次正示方法者經云若欲作
+<lb ed="X" n="0107c13"/>此施食法者先取一淨器盛以淨水置少飲食及諸
+<lb ed="X" n="0107c14"/>餅飯以右手按器&CB00057;滿七&CB00642;云云&CB00057;竟彈指七下展
+<lb ed="X" n="0107c15"/>臂將食器瀉淨地上<note place="inline">方法訖實叉譯云於門內立展臂戶外置盤淨地不云瀉也</note>
+<lb ed="X" n="0107c16"/>作此施<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>於其四方有百千俱胝那由佗恒河沙數
+<lb ed="X" n="0107c17"/>餓鬼一一鬼前各有摩伽陀國七七斛食受此食<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0107c18"/>悉皆飽滿是諸餓鬼悉捨鬼身生於天上其施婆羅
+<lb ed="X" n="0107c19"/>門仙及供養三寶尋經易見<note place="inline">當誦&CB00057;時更加觀想既為盡善想器中飲食色
+<lb ed="X" n="0107c20"/>味無盡&CB00642;施不匱如淨名室中一盂香飯充足眾會無所乏少亦如涅槃純陀少飯充滿雙林大眾不多不少
+<lb ed="X" n="0107c21"/>信此陀羅尼不可思議飲食色香亦不可思議眾生心亦不可思議夫何惑哉</note>三勸修者此
+<lb ed="X" n="0107c22"/>經真長生之術也阿難尊者延三日必死之命滿百
+<lb ed="X" n="0107c23"/>年具壽之康五果見臻二嚴當備<note place="inline">五果者色力辯安壽二嚴者福惠也</note>
+<lb ed="X" n="0107c24"/>實在乎施一摶之食也經云若常以此真言加持飲
+<pb ed="X" id="X57.0961.0108a" n="0108a"/>
+<lb ed="X" n="0108a01"/>食施餓鬼者則同供養百千俱胝如來功德等無差
+<lb ed="X" n="0108a02"/>別壽命延長<note place="inline">壽也</note>顏色鮮白<note place="inline">色也</note>具足大力<note place="inline">力也</note>威德強記
+<lb ed="X" n="0108a03"/><note place="inline">辯也</note>一切非人夜叉羅剎不敢侵害<note place="inline">安也</note>又能成就無量
+<lb ed="X" n="0108a04"/>福德壽命<note place="inline">二嚴也前五果中<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>有壽命理無重出信知此中以慧為命五果二嚴在文炳然若
+<lb ed="X" n="0108a05"/>此</note>大矣哉能於少頃作大佛事能以摶食作大施會
+<lb ed="X" n="0108a06"/>常生梵天乃至成佛一日既爾何況一月何況一年
+<lb ed="X" n="0108a07"/>何況一生豈有智人聞而不信信而不行者乎。</p></div1>
+<lb ed="X" n="0108a08"/><div1 type="other"><mulu type="其他" level="1" label="施食文"/><head>施食文</head><p id="pX57p0108a0804" place="inline" rend="margin-left:4em">同前</p>
+<lb ed="X" n="0108a09"/><p id="pX57p0108a0901">以銅器盛飲食淨水灌之當臨食器面東而立起慈
+<lb ed="X" n="0108a10"/>悲心稱三寶名<note place="inline">三說</note>及大慈觀世音菩薩<note place="inline">三說破餓鬼障</note>稱竟
+<lb ed="X" n="0108a11"/>以左手擎食右指按食器心存目注誦陀羅尼云云
+<lb ed="X" n="0108a12"/>誦七&CB00642;竟彈指七下然後展手垂之起無畏施良久
+<lb ed="X" n="0108a13"/>即以食瀉之置淨地上合掌&CB00057;祝云我沙門<note place="inline">某甲</note>今
+<lb ed="X" n="0108a14"/>誦無量威德自在光明勝玅力陀羅尼加持飲食普
+<lb ed="X" n="0108a15"/>施餓鬼之眾惟願面然鬼王大權勝士慈善熏心普
+<lb ed="X" n="0108a16"/>攝無量無邊恒河沙數餓鬼之眾悉來我所受我所
+<lb ed="X" n="0108a17"/>施無遮無礙清淨法食如經所說各各皆得摩伽陀
+<lb ed="X" n="0108a18"/>國所用之斛七七斛食一一充飽無所乏少頓皆消
+<lb ed="X" n="0108a19"/>滅長劫飢渴倒懸之苦身心歡喜發菩提心應時即
+<lb ed="X" n="0108a20"/>得心樂三昧疾捨鬼身生佛淨土速圓種智廣度眾
+<lb ed="X" n="0108a21"/>生我此施食功德如世尊言即與供養無量百千俱
+<lb ed="X" n="0108a22"/>胝恒河沙諸佛正等無異願以此福迴向法界莊嚴
+<lb ed="X" n="0108a23"/>菩提願共眾生同得圓滿檀波羅蜜遠離一切生死
+<lb ed="X" n="0108a24"/>飢渴速得究竟菩提涅槃二無上果當施眾生無盡
+<pb ed="X" id="X57.0961.0108b" n="0108b"/>
+<lb ed="X" n="0108b01"/>法食。</p></div1>
+<lb ed="X" n="0108b02"/><div1 type="other"><mulu type="其他" level="1" label="施食法式"/><head>施食法式</head><p id="pX57p0108b0205" place="inline" rend="margin-left:4em">同前</p>
+<lb ed="X" n="0108b03"/><p id="pX57p0108b0301">施食方法一依經作尋文可見不勞別出若欲口自
+<lb ed="X" n="0108b04"/>&CB00057;祝者隨<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>智力都不須者祇是以左手擎食右手
+<lb ed="X" n="0108b05"/>按器&CB00057;之七&CB00642;彈指七下以食瀉置淨地即足也但
+<lb ed="X" n="0108b06"/>起施心想此水食由&CB00057;力故無窮無盡其外四如來
+<lb ed="X" n="0108b07"/>名并名下四真言能用即用或公務私緣及存長久
+<lb ed="X" n="0108b08"/>祇消&CB00057;食一&CB00057;誦至七&CB00642;一切<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>足實叉譯本祇是
+<lb ed="X" n="0108b09"/>一&CB00057;無四如來等具載施食正名行此法者願依古
+<lb ed="X" n="0108b10"/>式猶恐未諳特為書之沙門遵式重示。</p>
+<lb ed="X" n="0108b11"/><list><item id="itemX57p0108b1101">南無十方佛</item><item id="itemX57p0108b1106">南無十方法</item><item id="itemX57p0108b1111">南無十方僧</item>
+<lb ed="X" n="0108b12"/><item id="itemX57p0108b1201">南無大慈觀世音菩薩<note place="inline">并三稱</note></item></list>
+<lb ed="X" n="0108b13"/><lg id="lgX57p0108b1301"><l>神&CB00057;加持淨飲食</l><l>普施河沙眾鬼神</l>
+<lb ed="X" n="0108b14"/><l>願皆飽滿捨慳心</l><l>即脫幽冥生善道</l>
+<lb ed="X" n="0108b15"/><l>歸依三寶學菩提</l><l>究竟得成無上覺</l>
+<lb ed="X" n="0108b16"/><l>功德無邊盡未來</l><l>一切眾生同法食</l></lg>
+<lb ed="X" n="0108b17"/><p id="pX57p0108b1701" type="dharani" rend="margin-left:1em">曩謨薩&CB02389;怛佗<note place="inline">引</note>&CB00617;跢<note place="inline">引一</note>&CB02389;路<note place="inline">引</note>枳帝<note place="inline">二</note>唵<note place="inline">三</note>三
+<lb ed="X" n="0108b18"/><note place="inline">去</note>&CB02494;羅三跋羅吽<note place="inline">引四誦七&CB00642;</note></p>
+<lb ed="X" n="0108b19"/><list><item id="itemX57p0108b1901">南無多寶如來</item><item id="itemX57p0108b1907">南無玅色身如來</item>
+<lb ed="X" n="0108b20"/><item id="itemX57p0108b2001">南無廣博身如來</item><item id="itemX57p0108b2008">南無離怖畏如來<note place="inline">並三稱</note></item></list>
+<lb ed="X" n="0108b21"/><p id="pX57p0108b2101">汝等鬼神眾我今施汝供此食&CB00642;十方一切鬼神共
+<lb ed="X" n="0108b22"/>願以此功德普及於一切我等與眾生皆共成佛道。</p>
+<lb ed="X" n="0108b23"/><p id="pX57p0108b2301" rend="margin-left:1em"><note place="inline">言<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>彈指七下行無畏施然後以食瀉淨地上想諸鬼神食之</note>。</p></div1>
+<lb ed="X" n="0108b24"/><div1 type="other"><mulu type="其他" level="1" label="施食觀想"/><head>施食觀想<note place="inline">答崔育材職方所問</note></head><p id="pX57p0108b2413" place="inline" rend="margin-left:4em">同前</p>
+<pb ed="X" id="X57.0961.0108c" n="0108c"/>
+<lb ed="X" n="0108c01"/><p id="pX57p0108c0101">先略述大意次作觀想先述大意者飲食具色香味
+<lb ed="X" n="0108c02"/>觸法五塵唯缺聲耳於五塵中味塵為主味依色住
+<lb ed="X" n="0108c03"/>亦可觀色為境大品云色中無味相凡夫不應著色
+<lb ed="X" n="0108c04"/>中無離相二乘不應離即是非味非離顯色中道法
+<lb ed="X" n="0108c05"/>界何法不備是故一色具一切色亦具聲香等一切
+<lb ed="X" n="0108c06"/>諸塵及一切法一切心隨感而施何法不現淨名經
+<lb ed="X" n="0108c07"/>云譬如諸天共寶器食隨其福德飯色有異止觀大
+<lb ed="X" n="0108c08"/>意玅境云一一塵中一切塵一一塵中一切心一一
+<lb ed="X" n="0108c09"/>心中一切剎等云云釋論云菩薩呵色見色實相到
+<lb ed="X" n="0108c10"/>色彼岸即是見色中道若分別色具種種相即是見
+<lb ed="X" n="0108c11"/>色俗諦俗即是空即是見色真諦亦是見色三諦既
+<lb ed="X" n="0108c12"/>了色即是法界即是實相即是中道三諦等即應了
+<lb ed="X" n="0108c13"/>色即是陀羅尼當知所施飲食色之與味即陀羅尼
+<lb ed="X" n="0108c14"/>體也一食出無量食等即陀羅尼用也經云此陀羅
+<lb ed="X" n="0108c15"/>尼名無量威德自在光明勝玅力此復以三德為義
+<lb ed="X" n="0108c16"/>無量威德自在解脫德也光明般若德也勝玅法身
+<lb ed="X" n="0108c17"/>德也力是總結力用也自非法身勝玅之用安能一
+<lb ed="X" n="0108c18"/>&CB00290;充彼巨億萬數塵沙之眾乎問若我即是陀羅尼
+<lb ed="X" n="0108c19"/>者何故更須&CB00057;乎答實爾諸佛聖人證此一塵法界
+<lb ed="X" n="0108c20"/>故能以自在之力稱性而用何俟更&CB00057;淨名取一&CB00425;
+<lb ed="X" n="0108c21"/>香飯&CB00642;飽三萬二千無所乏少豈藉&CB00057;乎三乘賢聖
+<lb ed="X" n="0108c22"/>食此飯者悉入正位或增道損生其香乃消豈非具
+<lb ed="X" n="0108c23"/>一切法也但眾生在迷於理既惑於事亦礙於自在
+<lb ed="X" n="0108c24"/>法中而自桎梏如水為冰安責水用故聖人方便密
+<pb ed="X" id="X57.0961.0109a" n="0109a"/>
+<lb ed="X" n="0109a01"/>說此法名陀羅尼令誦以&CB00057;之&CB00057;句與色味法性相
+<lb ed="X" n="0109a02"/>應能令鬼神見食無量經云如人得一斤石汁變千
+<lb ed="X" n="0109a03"/>斤銅為金物性相感故也問施食正名中云六道各
+<lb ed="X" n="0109a04"/>有自爾之力唯鬼能變食者何不直施其食任其自
+<lb ed="X" n="0109a05"/>變何假&CB00057;乎答鬼有多種不必一例略出三類一者
+<lb ed="X" n="0109a06"/>無財鬼由無福德不得飲食故二者少財鬼少得淨
+<lb ed="X" n="0109a07"/>玅飲食故三者多財鬼多得淨玅飲食所此三類復
+<lb ed="X" n="0109a08"/>各有三種初無財鬼三者一炬口鬼謂火矩炎熾常
+<lb ed="X" n="0109a09"/>從口出二者針咽鬼謂腹大如山咽如針孔今經中
+<lb ed="X" n="0109a10"/>正為此二種傍兼一切三臭口鬼謂口中腐臭自惡
+<lb ed="X" n="0109a11"/>受苦二少財鬼亦三種一針毛鬼毛如針利行便自
+<lb ed="X" n="0109a12"/><app><lem wit="【CBETA】" resp="CBETA.maha">刺</lem><rdg wit="【卍續】">剌</rdg></app>二臭毛鬼毛利如<app><lem wit="【CBETA】" resp="CBETA.maha">刺</lem><rdg wit="【卍續】">剌</rdg></app>自拔受苦三大癭鬼咽垂大
+<lb ed="X" n="0109a13"/>癭自決噉膿三多財鬼三種者一得棄鬼謂常得祭
+<lb ed="X" n="0109a14"/>祀所棄食故二得失鬼謂常得巷陌所遺食故三勢
+<lb ed="X" n="0109a15"/>力鬼謂夜叉羅剎毗舍闍等所受富樂類於人天但
+<lb ed="X" n="0109a16"/>為惡道所攝所言能變食者即是第三多財中三種
+<lb ed="X" n="0109a17"/>鬼也又三中前二則劣後一為勝亦只能及於自類
+<lb ed="X" n="0109a18"/>不能有所廣濟今&CB00057;力所變能令九種鬼中平等皆
+<lb ed="X" n="0109a19"/>得上玅飲食無有差別又&CB00057;食者名為法食法隨食
+<lb ed="X" n="0109a20"/>入如服良藥能差重病身康受樂經云捨餓鬼身得
+<lb ed="X" n="0109a21"/>生天上即此意也第二作觀想者行人既了諸法無
+<lb ed="X" n="0109a22"/>非法界一多無礙復信陀羅尼力不可思議至施食
+<lb ed="X" n="0109a23"/>處安祥而立先起慈心憫彼飢渴我今將欲大施先
+<lb ed="X" n="0109a24"/>想其處廣博嚴淨其地平正作一施場能容受無量
+<pb ed="X" id="X57.0961.0109b" n="0109b"/>
+<lb ed="X" n="0109b01"/>餓鬼之眾次想食器隨我&CB00057;力如摩伽陀國大斛之
+<lb ed="X" n="0109b02"/>量滿中甘美飲食如天甘露一器為無量器滿其施
+<lb ed="X" n="0109b03"/>場畟塞周&CB00642;一一鬼前皆有我身誦&CB00057;彈指慈心展
+<lb ed="X" n="0109b04"/>臂授器施與隨意滿足想&CB00057;之聲普聞一切彈指之
+<lb ed="X" n="0109b05"/>聲驚覺幽沈之處一切餓鬼從四方來無所障礙現
+<lb ed="X" n="0109b06"/>前受食令想心明了猶同眼見然後不移此想心一
+<lb ed="X" n="0109b07"/>一為其說法或稱佛號或&CB00057;願等隨意作竟而退問
+<lb ed="X" n="0109b08"/>如上觀想據何處文作答此經雖文略不說據餘&CB00057;
+<lb ed="X" n="0109b09"/>部印契觀想隨&CB00057;句句而作不可一念差舛此&CB00057;亦
+<lb ed="X" n="0109b10"/>令以手按器&CB00057;之七反&CB00057;<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>彈指七下非全不作法
+<lb ed="X" n="0109b11"/>今加觀想彌益其功問作此路布次第觀想準何處
+<lb ed="X" n="0109b12"/>作答準天台三種觀中歷事觀作既云歷事隨彼事
+<lb ed="X" n="0109b13"/>相而設觀想故無常科今準天台供養三寶運香華
+<lb ed="X" n="0109b14"/>觀想大旨一同也又南嶽禪師食觀偈云此食色香
+<lb ed="X" n="0109b15"/>如栴檀風一時普熏十方世界凡聖有感各得上味
+<lb ed="X" n="0109b16"/>六道聞香發菩提心於食能生六波羅蜜及以三行
+<lb ed="X" n="0109b17"/>請詳此觀何&CB04453;致疑又淨名經云以一食施一切供
+<lb ed="X" n="0109b18"/>養諸佛及眾賢聖然後可食豈非食觀問變食由&CB00057;
+<lb ed="X" n="0109b19"/>力何用觀乎答觀扶於&CB00057;彌益其美又&CB00057;是佗力觀
+<lb ed="X" n="0109b20"/>是自力<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>&CB00057;而無觀譬如盲者使人作大施會但信
+<lb ed="X" n="0109b21"/>佗語云得食不得食等自終不見若加觀想如有目
+<lb ed="X" n="0109b22"/>者使人作大施會一一眼見不由佗語&CB00057;如使人觀
+<lb ed="X" n="0109b23"/>如眼見金剛般若云若菩薩心住於法而行布施如
+<lb ed="X" n="0109b24"/>人入闇則無所見若不住法而行布施如人有目日
+<pb ed="X" id="X57.0961.0109c" n="0109c"/>
+<lb ed="X" n="0109c01"/>光明照見種種色今無觀者只作事行如人入闇也
+<lb ed="X" n="0109c02"/>觀稱法界無住即是無住行施其福譬如十方&CB00980;空
+<lb ed="X" n="0109c03"/>不可思量也凡作一切佛事乃至獻一華一香皆能
+<lb ed="X" n="0109c04"/>作觀者不滯生死一一流入薩婆若海中少戒少施
+<lb ed="X" n="0109c05"/>皆成佛果良由茲矣。</p></div1>
+<lb ed="X" n="0109c06"/><div1 type="other"><mulu type="其他" level="1" label="改祭修齋決疑頌(并序)"/><head>改祭修齋決疑頌<note place="inline">并序</note></head><p id="pX57p0109c0610" place="inline" rend="margin-left:4em">同前</p>
+<lb ed="X" n="0109c07"/><p id="pX57p0109c0701">近見多改祭祀競修齋福斷肉止殺正信念佛甚為
+<lb ed="X" n="0109c08"/>希有其間或未知損益者妄生破毀便言在俗祭祀
+<lb ed="X" n="0109c09"/>為先或云齋戒不能救急見蔬食念佛我但持心聞
+<lb ed="X" n="0109c10"/>善惡因緣來世誰受於是善根未深者被斯惑亂多
+<lb ed="X" n="0109c11"/>退初心今為斷疑引經明證并作偈頌令易憶持依
+<lb ed="X" n="0109c12"/>此誠言莫信邪說然世人疑慮是故無量今但從要
+<lb ed="X" n="0109c13"/>略書十頌。</p>
+<lb ed="X" n="0109c14"/><dialog type="qa"><sp type="question"><p id="pX57p0109c1401">第一疑有鬼無鬼能禍能福耶。</p></sp>
+<lb ed="X" n="0109c15"/><sp type="answer"><p id="pX57p0109c1501" rend="margin-left:1em">釋曰經說六道鬼居其一何疑無鬼耶阿含經云
+<lb ed="X" n="0109c16"/>一切所居舍宅街巷道陌屠坊市肆及諸山冢皆
+<lb ed="X" n="0109c17"/>有鬼神但不能利害於人譬喻經云天下鬼神不
+<lb ed="X" n="0109c18"/>能活人不能殺人亦不能令人富貴貧窮但隨人
+<lb ed="X" n="0109c19"/>衰劣而作怪崇希望祭祀若求福必定無也世俗
+<lb ed="X" n="0109c20"/>不知空被誑惑殺生造惡頌曰。</p>
+<lb ed="X" n="0109c21"/><lg id="lgX57p0109c2101"><l>鬼神隨處有</l><l>諂誑世間人</l><l>祭祀都無福</l>
+<lb ed="X" n="0109c22"/><l>空增殺業因</l></lg></sp></dialog>
+<lb ed="X" n="0109c23"/><dialog type="qa"><sp type="question"><p id="pX57p0109c2301">第二疑現見世人病患祭祀獲安何言無福耶。</p></sp>
+<lb ed="X" n="0109c24"/><sp type="answer"><p id="pX57p0109c2401" rend="margin-left:1em">釋曰世人貧窮災福皆屬因果非鬼能為是鬼為
+<pb ed="X" id="X57.0961.0110a" n="0110a"/>
+<lb ed="X" n="0110a01"/>福蓋從邪信所招諂求而得辨正論云舊鬼教新
+<lb ed="X" n="0110a02"/>鬼興怪求食初往二家轉磨上碓其家事佛不信
+<lb ed="X" n="0110a03"/>是怪俱云善神助我盡日舂磨數斛米麥都不得
+<lb ed="X" n="0110a04"/>食後入邪信之家令白狗上空中而行其家大怪
+<lb ed="X" n="0110a05"/>殺狗設食因茲得飽當知信佛不要信怪設使見
+<lb ed="X" n="0110a06"/>怪但專念佛其怪自息頌曰。</p>
+<lb ed="X" n="0110a07"/><lg id="lgX57p0110a0701"><l>正信天龍護</l><l>邪神豈柰何</l><l>但知常念佛</l>
+<lb ed="X" n="0110a08"/><l>災怪自消磨</l></lg></sp></dialog>
+<lb ed="X" n="0110a09"/><dialog type="qa"><sp type="question"><p id="pX57p0110a0901">第三疑家眷死後祭祀得食不得食耶。</p></sp>
+<lb ed="X" n="0110a10"/><sp type="answer"><p id="pX57p0110a1001" rend="margin-left:1em">釋曰若墮餓鬼祭祀之時或有得食若在焰口之
+<lb ed="X" n="0110a11"/>鬼雖祭亦不得食阿含經云若為死人布施祭祀
+<lb ed="X" n="0110a12"/>者若死入餓鬼中得食若生餘處必不得食也六
+<lb ed="X" n="0110a13"/>道萬品受報差殊父母死亡豈皆作鬼世人不識
+<lb ed="X" n="0110a14"/>一向祭祀甚無理也頌曰。</p>
+<lb ed="X" n="0110a15"/><lg id="lgX57p0110a1501"><l>人死隨前業</l><l>升沈六道殊</l><l>如何純祭祀</l>
+<lb ed="X" n="0110a16"/><l>須道世人愚</l></lg></sp></dialog>
+<lb ed="X" n="0110a17"/><dialog type="qa"><sp type="question"><p id="pX57p0110a1701">第四疑祭祀之法廣在禮經天子七廟諸侯五廟大
+<lb ed="X" n="0110a18"/>夫卿士至於庶人皆同祭祀圓丘方澤上下神明國
+<lb ed="X" n="0110a19"/>之常典云何勸令斷祭柰太傷國風乎。</p></sp>
+<lb ed="X" n="0110a20"/><sp type="answer"><p id="pX57p0110a2001" rend="margin-left:1em">釋曰祭祀出其俗典斷祭據其佛經俗典則未逃
+<lb ed="X" n="0110a21"/>殺害佛經則唯尚慈悲殺害則報在三塗慈悲則
+<lb ed="X" n="0110a22"/>果成萬德以善改惡導淺令深佛度眾生無不皆
+<lb ed="X" n="0110a23"/>爾今人既信佛教須修佛慈不可更殺眾生稱佛
+<lb ed="X" n="0110a24"/>弟子況復時俗不獨祭先靡神不宗實謂淫祀不
+<pb ed="X" id="X57.0961.0110b" n="0110b"/>
+<lb ed="X" n="0110b01"/>修明德唯事殺生可悲之深略談難盡故昔梁武
+<lb ed="X" n="0110b02"/>帝敕天下斷祭止殺&CB00582;遵佛教豈獨今日也幸有
+<lb ed="X" n="0110b03"/>齋福正好競修足可利於存亡亦免傷於物命何
+<lb ed="X" n="0110b04"/>勞苦執祀典經乎頌曰。</p>
+<lb ed="X" n="0110b05"/><lg id="lgX57p0110b0501"><l>剎牛慚禴祭</l><l>黍稷本非馨</l><l>齋誦真明德</l>
+<lb ed="X" n="0110b06"/><l>何勞執禮經</l></lg></sp></dialog>
+<lb ed="X" n="0110b07"/><dialog type="qa"><sp type="question"><p id="pX57p0110b0701">第五疑祭祀之家及彼師巫得何罪報耶。</p></sp>
+<lb ed="X" n="0110b08"/><sp type="answer"><p id="pX57p0110b0801" rend="margin-left:1em">釋曰如毗尼律中說迦雷陀夷身證羅漢被婆羅
+<lb ed="X" n="0110b09"/>門婦殺之因過去曾為祭主今廟祀是也有五百
+<lb ed="X" n="0110b10"/>商人共宰一羊同來乞願殺羊祭祀<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>俱墮地獄
+<lb ed="X" n="0110b11"/>世世<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>來常被羊殺其五百人亦因彼婦被波斯
+<lb ed="X" n="0110b12"/>匿王所殺且五百人共殺一命并其祀主今證聖
+<lb ed="X" n="0110b13"/>果受報未盡何況一人殺多物命又晉時巴丘縣
+<lb ed="X" n="0110b14"/>有師巫姓舒名禮為人祭祀死墮熱殺地獄舉體
+<lb ed="X" n="0110b15"/>焦爛還魂自說又寶藏經廣說祭祀之報不能備
+<lb ed="X" n="0110b16"/>引頌曰。</p>
+<lb ed="X" n="0110b17"/><lg id="lgX57p0110b1701"><l>殺佗還自殺</l><l>影響逐形聲</l><l>鬼飽都無福</l>
+<lb ed="X" n="0110b18"/><l>空招墮火坑</l></lg></sp></dialog>
+<lb ed="X" n="0110b19"/><dialog type="qa"><sp type="question"><p id="pX57p0110b1901">第六疑今若改祭自古<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>來還有報驗耶。</p></sp>
+<lb ed="X" n="0110b20"/><sp type="answer"><p id="pX57p0110b2001" rend="margin-left:1em">釋曰此事感驗非一今為略引晉有張應本事俗
+<lb ed="X" n="0110b21"/>神鼓舞淫祀咸和八年妻病禱祭罄竭妻曰今病
+<lb ed="X" n="0110b22"/>日困求鬼無益乞作佛事應便許之請僧曇鎧明
+<lb ed="X" n="0110b23"/>當設齋夜夢神人責應不早嚴淨見鎧隨後曰始
+<lb ed="X" n="0110b24"/>欲發心未可責之眠覺連夜秉火設座因茲廢神
+<pb ed="X" id="X57.0961.0110c" n="0110c"/>
+<lb ed="X" n="0110c01"/>事佛其妻病愈後張應身死墮鑊湯地獄因前改
+<lb ed="X" n="0110c02"/>祭善神來救遂得解脫還魂自說又顏氏家訓云
+<lb ed="X" n="0110c03"/>梁世江陵劉氏以賣&CB00536;&CB15135;為業後生一兒頭是&CB00536;
+<lb ed="X" n="0110c04"/>自頸<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>下方為人耳又王克為永嘉郡守有人餉
+<lb ed="X" n="0110c05"/>羊集賓欲讌而羊繩解來投一客先跪兩拜便入
+<lb ed="X" n="0110c06"/>衣中此客竟不言之固無救請須臾宰羊為肉先
+<lb ed="X" n="0110c07"/>行至客一臠入口便下皮肉周行&CB00642;體痛楚號叫
+<lb ed="X" n="0110c08"/>方便說之遂作羊鳴而死梁孝元在江州有人為
+<lb ed="X" n="0110c09"/>望蔡縣令經劉敬&CB04457;亂縣廨被焚寄寺而住民將
+<lb ed="X" n="0110c10"/>牛酒作禮縣令以牛繫剎柱屏除佛像鋪設&CB00646;座
+<lb ed="X" n="0110c11"/>於堂上接賓未殺之頃牛解徑來至階而拜縣令
+<lb ed="X" n="0110c12"/>大笑命左右宰之飲噉醉飽便臥簷下稍醒而覺
+<lb ed="X" n="0110c13"/>體痒&CB15080;搔&CB17205;胗因爾成白癩病經十許年死又梁
+<lb ed="X" n="0110c14"/>世有人常以雞卵白和沐云使髮光每沐輒破二
+<lb ed="X" n="0110c15"/>三十枚臨死髮中<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>聞啾啾數千雞雛聲楚痛篤
+<lb ed="X" n="0110c16"/>病而死又顏氏家訓云齊國有一家甚豪侈非手
+<lb ed="X" n="0110c17"/>殺牛則噉之不美年三十許病篤大見牛來舉體
+<lb ed="X" n="0110c18"/>如被刀<app><lem wit="【CBETA】" resp="CBETA.maha">刺</lem><rdg wit="【卍續】">剌</rdg></app>叫呼而終江陵高偉隨吾入齊凡數年
+<lb ed="X" n="0110c19"/>向幽州淀中捕魚後病每見&CB00320;魚齧之而死又宋
+<lb ed="X" n="0110c20"/>有陳安居父母信釋教旦夕齋誦有伯事神神影
+<lb ed="X" n="0110c21"/>滿宅後伯死絕嗣父令安居紹伯家舍便廢淫祀
+<lb ed="X" n="0110c22"/>其神遂禍安居三年篤病執志不迴常誓曰若使
+<lb ed="X" n="0110c23"/>我殺生祭祀寧生自臠割四體終不殺命安居身
+<lb ed="X" n="0110c24"/>亡府君歎曰此人事佛大德人也壽當九十三歲
+<pb ed="X" id="X57.0961.0111a" n="0111a"/>
+<lb ed="X" n="0111a01"/>遂放令還其伯殺害祭祀欺誑百姓罪宜墮苦此
+<lb ed="X" n="0111a02"/>例非一不能盡書頌曰。</p>
+<lb ed="X" n="0111a03"/><lg id="lgX57p0111a0301"><l>迴邪生正信</l><l>臭艸出栴檀</l><l>逢難須堅固</l>
+<lb ed="X" n="0111a04"/><l>安居志好攀</l></lg></sp></dialog>
+<lb ed="X" n="0111a05"/><dialog type="qa"><sp type="question"><p id="pX57p0111a0501">第七疑改祭之後忽遇災禍既<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>捨神求誰救護耶。</p></sp>
+<lb ed="X" n="0111a06"/><sp type="answer"><p id="pX57p0111a0601" rend="margin-left:1em">釋曰但每日一心稱念觀世音菩薩一切災難一
+<lb ed="X" n="0111a07"/>切病痛牢獄賊盜水火風雷虎狼毒蛇蟲藥&CB00057;詛
+<lb ed="X" n="0111a08"/>皆不能害請觀音經中佛敕諸大天龍藥叉一切
+<lb ed="X" n="0111a09"/>威猛神將晝夜守護受持觀世音菩薩名者諸惡
+<lb ed="X" n="0111a10"/>鬼神尚不能以惡眼視之況復加害梁朝有沙門
+<lb ed="X" n="0111a11"/>名僧融為一家毀除神影勸受五戒被其鬼將領
+<lb ed="X" n="0111a12"/>鬼兵來責融融專念觀音一聲未絕忽見神人以
+<lb ed="X" n="0111a13"/>金剛杵擬其鬼眾一時走散身上甲<app><lem wit="【CBETA】" resp="CBETA.maha">冑</lem><rdg wit="【卍續】">胃</rdg></app>化為&CB01926;粉
+<lb ed="X" n="0111a14"/>又僧融曾勸夫婦二人受戒後為賊所累夫遂逃
+<lb ed="X" n="0111a15"/>避其婦繫獄融教至心稱觀世音更無餘法婦人
+<lb ed="X" n="0111a16"/>依語感枷杻三木自然釋脫獄門自開因是免難
+<lb ed="X" n="0111a17"/>其事非一不可備論頌曰。</p>
+<lb ed="X" n="0111a18"/><lg id="lgX57p0111a1801"><l>專持菩薩號</l><l>八部護君身</l><l>急難隨聲應</l>
+<lb ed="X" n="0111a19"/><l>唯除不信人</l></lg></sp></dialog>
+<lb ed="X" n="0111a20"/><dialog type="qa"><sp type="question"><p id="pX57p0111a2001">第八疑自來殺生祭祀所有罪業作何功德而得消
+<lb ed="X" n="0111a21"/>滅耶。</p></sp>
+<lb ed="X" n="0111a22"/><sp type="answer"><p id="pX57p0111a2201" rend="margin-left:1em">釋曰但各書寫供養金光明經迴此功德與彼怨
+<lb ed="X" n="0111a23"/>家將來無對如張居道殺生忽被怨家取去冥關
+<lb ed="X" n="0111a24"/>許寫此經怨家解脫居道放還但將所贖經文安
+<pb ed="X" id="X57.0961.0111b" n="0111b"/>
+<lb ed="X" n="0111b01"/>家中供養每日精勤稱此經題名目及三寶名自
+<lb ed="X" n="0111b02"/>然家中眷屬安穩財帛增多一切天龍皆來護宅
+<lb ed="X" n="0111b03"/>一切災橫邪鬼悉不敢害請至信此言終不&CB00980;也
+<lb ed="X" n="0111b04"/>頌曰。</p>
+<lb ed="X" n="0111b05"/><lg id="lgX57p0111b0501"><l>法寶真良藥</l><l>眾生自不&CB00573;</l><l>書持并供養</l>
+<lb ed="X" n="0111b06"/><l>世世上天堂</l></lg></sp></dialog>
+<lb ed="X" n="0111b07"/><dialog type="qa"><sp type="question"><p id="pX57p0111b0701">第九疑凡修齋福并讀誦經典當迴向家宅何等神
+<lb ed="X" n="0111b08"/>明凡有幾位耶。</p></sp>
+<lb ed="X" n="0111b09"/><sp type="answer"><p id="pX57p0111b0901" rend="margin-left:1em">釋曰迴向天龍善神閻羅冥官山川境邑一切神
+<lb ed="X" n="0111b10"/>明家中土地神護宅善神并先代亡靈墮在惡道
+<lb ed="X" n="0111b11"/>者除此以外其餘家中雜雜鬼神并不須事之亦
+<lb ed="X" n="0111b12"/>不須迴向此等皆非汝家所事悉名邪諂切信此
+<lb ed="X" n="0111b13"/>言頌曰。</p>
+<lb ed="X" n="0111b14"/><lg id="lgX57p0111b1401"><l>作福常迴施</l><l>天龍善鬼神</l><l>威光常覆護</l>
+<lb ed="X" n="0111b15"/><l>使汝免災迍</l></lg></sp></dialog>
+<lb ed="X" n="0111b16"/><dialog type="qa"><sp type="question"><p id="pX57p0111b1601">第十疑既不許祭祀或家眷死亡墮在鬼趣云何施
+<lb ed="X" n="0111b17"/>其飲食耶。</p></sp>
+<lb ed="X" n="0111b18"/><sp type="answer"><p id="pX57p0111b1801" rend="margin-left:1em">釋曰經有方法今當普示請各依行如此施食得
+<lb ed="X" n="0111b19"/>福無量如供養百千俱胝諸佛功德正等每日將
+<lb ed="X" n="0111b20"/>淨器盛一器淨飯唯除瓷器及鐵器不得用經中
+<lb ed="X" n="0111b21"/>銅器最上其器不須至大即是盂器之屬也每日
+<lb ed="X" n="0111b22"/>至暮時以淨水灌其飯上令滿以左手擎之以右
+<lb ed="X" n="0111b23"/>手舉頭指於器中誦&CB00057;七&CB00642;<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>彈指七下將飯傾
+<lb ed="X" n="0111b24"/>於淨地不得近桃李樹下傾<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而作是言我今普
+<pb ed="X" id="X57.0961.0111c" n="0111c"/>
+<lb ed="X" n="0111c01"/>施一切餓鬼依艸附木孤魂滯魄勝劣鬼神清淨
+<lb ed="X" n="0111c02"/>法食無遮無礙隨意飽滿或能更為稱三寶名等
+<lb ed="X" n="0111c03"/>其&CB00057;如經中此施法食不獨令家先眷屬得食普
+<lb ed="X" n="0111c04"/>令一切餓鬼飽滿利益甚深普勸若僧若俗若男
+<lb ed="X" n="0111c05"/>若女盡行此法頌曰。</p>
+<lb ed="X" n="0111c06"/><lg id="lgX57p0111c0601"><l>鬼道常飢渴</l><l>當生憐憫心</l><l>能蠲口中食</l>
+<lb ed="X" n="0111c07"/><l>佛讚福田深</l></lg></sp></dialog></div1>
+<lb ed="X" n="0111c08"/><div1 type="other"><mulu type="其他" level="1" label="施食須知"/><head>施食須知</head><byline type="author">霅川沙門　仁岳　述</byline>
+<lb ed="X" n="0111c09"/><p id="pX57p0111c0901">釋教施鬼神食者緣起有三一者涅槃經梵行品云
+<lb ed="X" n="0111c10"/>佛游曠野聚落有一鬼神即名曠野純食血肉多殺
+<lb ed="X" n="0111c11"/>眾生復於其聚落日食一人佛於爾時為說法要令
+<lb ed="X" n="0111c12"/>彼受不殺戒是日村中有一長者當死送與鬼神其
+<lb ed="X" n="0111c13"/>神得<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>即以施佛佛為立字名手長者鬼白佛言我
+<lb ed="X" n="0111c14"/>及眷屬唯仰血肉以自存活今<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>受戒當何資身佛
+<lb ed="X" n="0111c15"/>言從今當敕聲聞弟子隨有修行之處悉施汝食以
+<lb ed="X" n="0111c16"/>是因緣為諸比丘制如是戒若有住處不能施者當
+<lb ed="X" n="0111c17"/>知是輩非我弟子即是天魔徒黨眷屬二者寄歸傳
+<lb ed="X" n="0111c18"/>受齋戒軌則章云呵利帝母先身因事發願食王城
+<lb ed="X" n="0111c19"/>所有兒女因其邪願遂受藥叉之身生五百子日&CB00290;
+<lb ed="X" n="0111c20"/>王城男女諸人白佛佛為藏其稚子明日鬼母&CB00642;覓
+<lb ed="X" n="0111c21"/>至於佛所方得佛告之曰汝子五百一尚見憐況餘
+<lb ed="X" n="0111c22"/>人但一二而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>佛即化之令受五戒因請佛曰我子
+<lb ed="X" n="0111c23"/>五百今何食焉佛言我令苾&CB00034;等隨所住處日日設
+<lb ed="X" n="0111c24"/>食令汝充&CB00290;故西方諸寺每於門屋處或在食&CB00634;邊
+<pb ed="X" id="X57.0961.0112a" n="0112a"/>
+<lb ed="X" n="0112a01"/>塑畫母形抱一兒子於膝下或五或三以表其像每
+<lb ed="X" n="0112a02"/>日於前盛陳供食其母乃四天王部眾大豐勢力若
+<lb ed="X" n="0112a03"/>有疾病或無了息咸饗禱焉皆隨所願廣如律說三
+<lb ed="X" n="0112a04"/>者按焰口經云<note place="inline">此經兩譯一實叉難陀譯名救面然二不空譯名救拔焰口</note>佛在
+<lb ed="X" n="0112a05"/>尼拘律那僧伽籃爾時阿難獨居靜室念所受法即
+<lb ed="X" n="0112a06"/>於其夜見一餓鬼名曰焰口白阿難言卻後三日汝
+<lb ed="X" n="0112a07"/>命將盡生餓鬼中阿難聞此心生惶怖問餓鬼言行
+<lb ed="X" n="0112a08"/>何方便得免此苦鬼曰汝於明日若能布施百千那
+<lb ed="X" n="0112a09"/>由陀恒河沙數餓鬼并婆羅門仙等以摩伽陀國所
+<lb ed="X" n="0112a10"/>用之斛各施一斛飲食及為我供養三寶汝得增壽
+<lb ed="X" n="0112a11"/>令我離苦得生天上阿難以事白佛我今云何能辨
+<lb ed="X" n="0112a12"/>若干餓鬼仙人飲食佛言有陀羅尼名無量威德自
+<lb ed="X" n="0112a13"/>在光明勝玅力若有誦者即能充足餓鬼及仙上玅
+<lb ed="X" n="0112a14"/>飲食皆得摩伽陀國七七斛食乃至云若有善男子
+<lb ed="X" n="0112a15"/>善女人欲求長壽福德增榮速能滿足檀波羅蜜每
+<lb ed="X" n="0112a16"/>於晨朝及一切時悉無障礙取一淨器盛以淨水置
+<lb ed="X" n="0112a17"/>少飲&CB00595;及諸餅飯等以右手按器誦&CB00057;七&CB00642;加持<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0112a18"/>彈指七下於淨地上展臂瀉之<note place="inline">不空譯&CB00057;後令稱四如來名實叉譯則無
+<lb ed="X" n="0112a19"/>而有施水&CB00057;名甘露陀羅尼當取水一掬亦誦&CB00057;七&CB00642;散於空中其水一滴變成十斛甘露一切餓鬼悉得飽
+<lb ed="X" n="0112a20"/>滿兩經&CB00057;詞併列之然霅川此文列二&CB00057;今此施食通覽既引二經於前諸&CB00057;<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>具故於此中略去</note>議
+<lb ed="X" n="0112a21"/>曰所錄施食因起三種不同斯乃善權示&CB00528;俾後世
+<lb ed="X" n="0112a22"/>修梵行者依而行之須知二意一者佛戒令施違則
+<lb ed="X" n="0112a23"/>得罪出家弟子日日須施如為曠野鬼神并鬼子母
+<lb ed="X" n="0112a24"/>之類<note place="inline">今出生飯者是</note>二者佛敕令施順則得福此教在家之
+<pb ed="X" id="X57.0961.0112b" n="0112b"/>
+<lb ed="X" n="0112b01"/>人至心所辨如為焰口及婆羅門仙<note place="inline">今之施斛者是</note>或有為
+<lb ed="X" n="0112b02"/>亡人以食祭六道者未見教文荊溪禪師云此是梁
+<lb ed="X" n="0112b03"/>武帝見江東人多淫祀以相似佛法權宜替之按婆
+<lb ed="X" n="0112b04"/>沙論云若因祭祀唯鬼神得問為勝耶為劣耶答非
+<lb ed="X" n="0112b05"/>勝非劣若勝天人應得若劣地獄應得以其鬼道有
+<lb ed="X" n="0112b06"/>自爾之力故今更明之施曠野鬼神鬼子母食亦同
+<lb ed="X" n="0112b07"/>祭祀非勝非劣之類也既有自爾之力故經中無加
+<lb ed="X" n="0112b08"/>持之法如阿含經云鬼能變少為多即其事焉若焰
+<lb ed="X" n="0112b09"/>口經令誦&CB00057;者以餓鬼趣劣惡業至重須假法力除
+<lb ed="X" n="0112b10"/>障及變成上味故余觀今時僧伽藍俗舍齋次出生
+<lb ed="X" n="0112b11"/>食令傍人取斂安淨器散陸地上或川澤間唯飼鱗
+<lb ed="X" n="0112b12"/>介飛走之族復有畫阿難施餓鬼食并婆羅門仙眾
+<lb ed="X" n="0112b13"/>傳寫救焰口&CB00057;七如來名於圖之下以食供養而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0112b14"/>相承既久往往出家之流都忘佛制本為曠野鬼神
+<lb ed="X" n="0112b15"/>鬼子母之事也今請四眾凡出生食僧既出<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>併著
+<lb ed="X" n="0112b16"/>一處先安眾僧座末或清淨處置一卓子上盛水一
+<lb ed="X" n="0112b17"/>器焚香供養之<note place="inline">寄歸傳云西方施主請僧齋日初置聖僧供次行僧食復於行末安食一
+<lb ed="X" n="0112b18"/>盤以供呵利帝母據此不須人人各自出生今順此土常儀故各出生也</note>齋畢知法者取
+<lb ed="X" n="0112b19"/>食與水誦&CB00057;彈指呼名運想所謂呵利帝母曠野鬼
+<lb ed="X" n="0112b20"/>神焰口等一切餓鬼就淨潔處散食於地洒水於空
+<lb ed="X" n="0112b21"/>然其食不妨與飛走等類噉之或問施曠野鬼神鬼
+<lb ed="X" n="0112b22"/>子母等食今用焰口&CB00057;者何耶對曰鬼神既有自爾
+<lb ed="X" n="0112b23"/>之力循業所現能得幾何儻以&CB00057;法則微助其&CB00642;供
+<lb ed="X" n="0112b24"/>佛尚用真言況此幽塗豈無密益問將出生食令施
+<pb ed="X" id="X57.0961.0112c" n="0112c"/>
+<lb ed="X" n="0112c01"/>焰口等其事得否答經文既云每日晨朝及一切時
+<lb ed="X" n="0112c02"/>悉無障礙何獨夜勞斛食方施餓鬼是則均一&CB00290;之
+<lb ed="X" n="0112c03"/>少分充三類之飢&CB00980;所施甚微厥利尤博聖言不妄
+<lb ed="X" n="0112c04"/>切莫疑心或有云若是米&CB15097;之屬方可出生若蔬果
+<lb ed="X" n="0112c05"/>者物類則不食也余謂不爾左傳云苟有明信&CB00589;溪
+<lb ed="X" n="0112c06"/>沼沚之毛蘋蘩薀藻之菜可薦於鬼神那忽以物類
+<lb ed="X" n="0112c07"/>而為其妨耶昔孤山有出生圖紀天竺有施食正名
+<lb ed="X" n="0112c08"/>圖紀則專示誡呵正名則唯存勸意今總撮樞要庶
+<lb ed="X" n="0112c09"/>可兼通所冀在家出家仰遵佛制常行法食之惠也。</p></div1>
+<lb ed="X" n="0112c10"/><div1 type="other"><mulu type="其他" level="1" label="施餓鬼食文"/><head>施餓鬼食文</head><byline type="author">文忠公蘇　軾</byline>
+<lb ed="X" n="0112c11"/><p id="pX57p0112c1101">鬼趣多餓仁者當念濟之宜以錫或鐵為斛斗受一
+<lb ed="X" n="0112c12"/>二升量每晨取炊熟淨飯滿斛蓋覆著淨處至夜重
+<lb ed="X" n="0112c13"/>餾令熱取透并淨水一盞能不食酒肉固大善不能
+<lb ed="X" n="0112c14"/>當以淨水漱口誦淨口業真言七&CB00642;燒香&CB00057;願云奉
+<lb ed="X" n="0112c15"/>佛弟子<note place="inline">某甲</note>夜具斛食淨水供養一切鬼神又誦般
+<lb ed="X" n="0112c16"/>若心經三卷破地獄偈三&CB00642;便&CB00057;願云願此飯此水
+<lb ed="X" n="0112c17"/>承佛慈力下承<note place="inline">某甲</note>福力願力變少為多變粗為細
+<lb ed="X" n="0112c18"/>變垢為淨願諸佛子食此水飯頓除飢渴諸障消滅
+<lb ed="X" n="0112c19"/>離苦得樂究竟成佛言<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>以水掬飯三分之一散置
+<lb ed="X" n="0112c20"/>屋上餘者不妨以食貧人水即散洒之要在發平等
+<lb ed="X" n="0112c21"/>慈悲無求心耳。</p></div1>
+<lb ed="X" n="0112c22"/><div1 type="other"><mulu type="其他" level="1" label="施食放生文"/><head>施食放生文</head><byline type="author">賢良陳　舜俞</byline>
+<lb ed="X" n="0112c23"/><p id="pX57p0112c2301">惟一沙界中微塵國土一千聚落萬億伽藍於伽藍
+<lb ed="X" n="0112c24"/>中有一沙門以佛誕辰集諸善侶以一盂食召彼餓
+<pb ed="X" id="X57.0961.0113a" n="0113a"/>
+<lb ed="X" n="0113a01"/>鬼水陸空等隨意摶食聚諸畜生羽毛鱗甲類釋復
+<lb ed="X" n="0113a02"/>本處及為說法施清淨戒而作佛事時眾會中見一
+<lb ed="X" n="0113a03"/>居士謂沙門言聚食於食真汝慳貪取生於生真汝
+<lb ed="X" n="0113a04"/>殺害彼餓鬼等以慳貪故彼畜生等以殺害故不應
+<lb ed="X" n="0113a05"/>殺彼而隨彼墮時彼沙門謂居士言汝無以此取捨
+<lb ed="X" n="0113a06"/>生死&CB00980;妄諸相較我真實所作佛事所以者何若有
+<lb ed="X" n="0113a07"/>化人及化餓鬼諸畜生類化以食施及令放生一切
+<lb ed="X" n="0113a08"/>世間取捨生死不離是相以實不食變少分食作無
+<lb ed="X" n="0113a09"/>數食一切餓鬼無不能食以實不生令無盡生一切
+<lb ed="X" n="0113a10"/>畜生無不能生於意云何一切取捨非取捨故一切
+<lb ed="X" n="0113a11"/>生死非生死故尚不見法何況能說及諸解脫者尚
+<lb ed="X" n="0113a12"/>不見戒何況能持及諸說者爾時沙門作是語<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>一
+<lb ed="X" n="0113a13"/>切餓鬼水陸空等皆得飽滿一切畜生羽毛鱗甲類
+<lb ed="X" n="0113a14"/>皆得自在於是作記以書之。</p></div1>
+<lb ed="X" n="0113a15"/><div1 type="other"><mulu type="其他" level="1" label="崔學士施食感驗"/><head>崔學士施食感驗</head><byline type="author">見夷堅志</byline>
+<lb ed="X" n="0113a16"/><p id="pX57p0113a1601">崔公度字伯易自少好施食每施時常以尊勝黃旛
+<lb ed="X" n="0113a17"/>&CB00642;插食上率以夜半為節非有大故未&CB00573;廢為&CB00419;職
+<lb ed="X" n="0113a18"/>日&CB00573;飯於親故家至終夕方歸道&CB00403;蔡河有酒家帘
+<lb ed="X" n="0113a19"/>未下馬過觸之驚逸崔墜地迷而不知似醉夢間見
+<lb ed="X" n="0113a20"/>一婦人至曰此崔學士也急解帕巾裹其首又招其
+<lb ed="X" n="0113a21"/>徒曰此乃施食崔學士今有難不可不救俄有十餘
+<lb ed="X" n="0113a22"/>人應聲併來皆婦人也與之按摩崔覺稍甦卒勉上
+<lb ed="X" n="0113a23"/>馬送歸家人方聞其墜馬但怪暮夜安得有人裹頭
+<lb ed="X" n="0113a24"/>崔彷彿能道之亦不測其何人及解其帕視之乃二
+<pb ed="X" id="X57.0961.0113b" n="0113b"/>
+<lb ed="X" n="0113b01"/>紅纈有血慘色中實碎&CB02408;皆所插黃旛也應手&CB01926;飛
+<lb ed="X" n="0113b02"/>方知是鬼物耳。</p></div1>
+<lb ed="X" n="0113b03"/><div1 type="other"><mulu type="其他" level="1" label="士大夫施食文"/><head>士大夫施食文</head><byline type="author">會稽郡王史　浩</byline>
+<lb ed="X" n="0113b04"/><p id="pX57p0113b0401">我此飲食不為商販不為工作不為農耕不為緇黃
+<lb ed="X" n="0113b05"/>之受施何所從來何所從得當知此乃天地鬼神發
+<lb ed="X" n="0113b06"/>生護助之功君相祖先化育卑遺之德&CB00582;天地不發
+<lb ed="X" n="0113b07"/>生鬼神不護助則陰陽愆伏旱澇頻仍君相不化育
+<lb ed="X" n="0113b08"/>則征誅困迫盜賊敓&CB06589;廩粟不繼祖先不卑遺則吾
+<lb ed="X" n="0113b09"/>安得有此尺寸之土又安得有吾身而食此土哉此
+<lb ed="X" n="0113b10"/>四者飲食之根本不可不知也又況食方萌&CB00617;畢歲
+<lb ed="X" n="0113b11"/>始成耕耨乃苗收穫乃稻簸<app><lem wit="【CBETA】" resp="CBETA.maha">揚</lem><rdg wit="【卍續】">&CB15068;</rdg></app>乃穀磨&CB05381;乃米於是
+<lb ed="X" n="0113b12"/>臼杵去糠&CB00294;淘汰蠲砂礫始得以登庖僮僕供樵蘇
+<lb ed="X" n="0113b13"/>婢媵勤炊&CB00827;始得以登器鳴呼此食之至吾前不知
+<lb ed="X" n="0113b14"/>作勞者幾何人耶是故吾之一飽未&CB00573;不思報天地
+<lb ed="X" n="0113b15"/>鬼神君相祖先之功德又未&CB00573;不思念下人之勞苦
+<lb ed="X" n="0113b16"/>今舉斯心普伸愧謝願從今日不限華夷同躋豐樂
+<lb ed="X" n="0113b17"/>無有飢羸莩餓菜色愁歎之人然後以此清滌香&CB00271;
+<lb ed="X" n="0113b18"/>之薦敢用致告山川陵谷城邑郊墟有祀無祀之威
+<lb ed="X" n="0113b19"/>靈有知無知之魂魄冀聞斯語享于克誠或砉飲以
+<lb ed="X" n="0113b20"/>求前宜雍容而就列斟酌飽滿求離迷津正直聰明
+<lb ed="X" n="0113b21"/>永依聖道某年月日謹告。</p>
+<lb ed="X" n="0113b22"/><p id="pX57p0113b2201" rend="margin-left:1em">吾儒飲食必祭與浮圖施食同義然浮圖有文世
+<lb ed="X" n="0113b23"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>盛行吾儒此法或未盡用豈為無文以表出之
+<lb ed="X" n="0113b24"/>耶余雖以是補其遺&CB00582;不敢覬人之必信後有君
+<pb ed="X" id="X57.0961.0113c" n="0113c"/>
+<lb ed="X" n="0113c01"/>子從事於終食無違者當有取於斯焉鄭&CB00123;真隱
+<lb ed="X" n="0113c02"/>史浩書。</p></div1>
+<lb ed="X" n="0113c03"/><div1 type="other"><mulu type="其他" level="1" label="水陸大齋靈跡記"/><head>水陸大齋靈跡記</head><byline type="author">東川推官楊　鍔</byline>
+<lb ed="X" n="0113c04"/><p id="pX57p0113c0401">大梁武帝治化清時道利寰中兵戈永息唯崇佛理
+<lb ed="X" n="0113c05"/>寢處優閑艸履葛巾布被莞蓆精持齋戒濟&CB00421;含生
+<lb ed="X" n="0113c06"/>悲念四恩心緣三有晝夜焚誦靡暫停時遂感聖賢
+<lb ed="X" n="0113c07"/>同扶&CB15131;國忽於中夜夢一高僧神清貌古雪頂厖眉
+<lb ed="X" n="0113c08"/>前白帝言六道四生受苦無量世有水陸廣大冥齋
+<lb ed="X" n="0113c09"/>普濟含生利樂幽顯諸功德中最為殊勝宜以羞設
+<lb ed="X" n="0113c10"/>帝既覺悟詰旦升朝&CB04457;臨寶殿即以夢水陸之事首
+<lb ed="X" n="0113c11"/>問大臣及諸沙門悉無知者唯志公奏曰但乞陛下
+<lb ed="X" n="0113c12"/>廣尋經教必有因緣帝依奏即遣迎大藏經論置于
+<lb ed="X" n="0113c13"/>法雲殿積日披覽頗究端由及詳阿難遇焦面鬼王
+<lb ed="X" n="0113c14"/>因地建立平等斛食乃創製儀文三年乃就其間所
+<lb ed="X" n="0113c15"/>得事類具出一十一本經論其文既備心猶有疑一
+<lb ed="X" n="0113c16"/>慮聖意罔周二恐凡情未愜遂乃再嚴廣內特建道
+<lb ed="X" n="0113c17"/>場俯及夜分親臨法席跪膝致敬手捧儀文顧謂侍
+<lb ed="X" n="0113c18"/>臣息除燈燭悉令暗冥帝乃虔誠焚香發願敘其感
+<lb ed="X" n="0113c19"/>夢撰此齋文儻若理契聖凡利兼幽顯願禮拜起處
+<lb ed="X" n="0113c20"/>道場燈燭不熱自明或體式未周利益無狀所止燈
+<lb ed="X" n="0113c21"/>燭悉暗不明言訖投地作禮禮<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>燈燭盡明帝睹之
+<lb ed="X" n="0113c22"/>神情大悅於是欲營此齋乃召志公以問當就何處
+<lb ed="X" n="0113c23"/>志公曰宜以深山幽谷中羞設最奇貧道竊睹潤州
+<lb ed="X" n="0113c24"/>澤心寺<note place="inline">即金山寺舊名也</note>江上一&CB00123;水面千里潭月雙照雲
+<pb ed="X" id="X57.0961.0114a" n="0114a"/>
+<lb ed="X" n="0114a01"/>天四垂堪會神靈境通幽顯時天監四年二月十五
+<lb ed="X" n="0114a02"/>日夜帝召僧祐律師宣文鳳舸親臨法會興于水陸
+<lb ed="X" n="0114a03"/>大齋饒益幽冥普資群&CB15077;自後陳隋兩朝其文堙墜
+<lb ed="X" n="0114a04"/>至大唐咸享中有僧可宗為陰府所攝至泰山府君
+<lb ed="X" n="0114a05"/>所將加楚毒遂亟告曰某是西京法海寺英禪師之
+<lb ed="X" n="0114a06"/>弟子也府君聞<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>乃不加罪即遣捷疾往取英公英
+<lb ed="X" n="0114a07"/>公忽如夢寐至府君所府君問曰可宗是師弟子否
+<lb ed="X" n="0114a08"/>英公曰然時可宗遂得免罪以歸府君乃命英公演
+<lb ed="X" n="0114a09"/>法事<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>復遣送還後過旬日英公獨坐方丈見一異
+<lb ed="X" n="0114a10"/>人巍然冠冕足不履地前來告曰弟子向於府君所
+<lb ed="X" n="0114a11"/>偶見禪師知師拯救之慈故來奉謁有少悰悃願聽
+<lb ed="X" n="0114a12"/>所言世有水陸大齋可以利沾幽品若非吾師無能
+<lb ed="X" n="0114a13"/>興設英曰當何營<app><lem wit="【CBETA】" resp="CBETA.maha">辦</lem><rdg wit="【卍續】">辨</rdg></app>異人曰其法式齋文是梁武帝
+<lb ed="X" n="0114a14"/>所集今大覺寺有吳僧義濟得之久寘巾箱殆欲隳
+<lb ed="X" n="0114a15"/>&CB00541;願師往取為作津梁苟釋狴牢敢不知報英公許
+<lb ed="X" n="0114a16"/>之尋詣大覺寺訪其義濟果得其文遂剋日於山北
+<lb ed="X" n="0114a17"/>寺依法崇奉修設既畢復見異人與徒屬十數輩咸
+<lb ed="X" n="0114a18"/>來謝曰弟子即秦莊襄王也又指其屬曰此范睢穰
+<lb ed="X" n="0114a19"/>侯白起王翦張儀陳軫等皆其臣也咸坐本罪久處
+<lb ed="X" n="0114a20"/>陰司大夜冥冥無所依告今蒙吾師設齋并為懺罪
+<lb ed="X" n="0114a21"/>弟子甚眾皆承善力將生人間恐世異國殊不得再
+<lb ed="X" n="0114a22"/>見故來相謝今有少物在弟子墓下願以為贈弟子
+<lb ed="X" n="0114a23"/>之墓在通化門外者是也英公曰我聞西漢赤眉作
+<lb ed="X" n="0114a24"/>亂&CB07424;墓悉<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>開發此物豈可存耶襄王曰弟子葬時
+<pb ed="X" id="X57.0961.0114b" n="0114b"/>
+<lb ed="X" n="0114b01"/>深藏其物人所不見矣英公曰但貧道貴於知足雖
+<lb ed="X" n="0114b02"/>有珍寶亦何用也願王等從此<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>往各悟夙因永離
+<lb ed="X" n="0114b03"/>業界清升善道此貧道之所祝也言訖而隱英公既
+<lb ed="X" n="0114b04"/>因其事彌加精固遂與吳僧常設此齋其靈感異應
+<lb ed="X" n="0114b05"/>殆不可勝紀自爾流傳於天下凡植福種德之徒莫
+<lb ed="X" n="0114b06"/>不遵行之時皇宋&CB00696;寧四年二月一日東川楊鍔字
+<lb ed="X" n="0114b07"/>正臣謹記。</p>
+<lb ed="X" n="0114b08"/><p id="pX57p0114b0801" rend="margin-left:1em">平江府靈巖山秀&CB00123;寺住持傳法賜紫覺海大師
+<lb ed="X" n="0114b09"/>法宗睹此靈跡異事&CB15156;碣舊在鎮江府金山龍游
+<lb ed="X" n="0114b10"/>寺因改宮祠又復遭爇故無所存恐世不傳遂依
+<lb ed="X" n="0114b11"/>古本命工刊石當山以示萬世靈感云爾時皇宋
+<lb ed="X" n="0114b12"/>宣和七年六月望日謹題。</p></div1>
+<lb ed="X" n="0114b13"/><div1 type="other"><mulu type="其他" level="1" label="水陸緣起"/><head>水陸緣起</head><byline type="author">長蘆沙門　宗賾</byline>
+<lb ed="X" n="0114b14"/><p id="pX57p0114b1401">詳夫水陸會者上則供養法界諸佛諸位菩薩緣覺
+<lb ed="X" n="0114b15"/>聲聞明王八部婆羅門仙次則供養梵王帝釋二十
+<lb ed="X" n="0114b16"/>八天盡空宿曜一切尊神下則供養五嶽河海大地
+<lb ed="X" n="0114b17"/>龍神往古人倫阿修羅眾冥官眷屬地獄眾生幽魂
+<lb ed="X" n="0114b18"/>滯魄無主無依諸鬼神眾法界旁生六道中有四聖
+<lb ed="X" n="0114b19"/>六凡普通供養俱承如來祕密神&CB00057;功德法食故外
+<lb ed="X" n="0114b20"/>則資身增長色力內則資神增長福慧由是未發菩
+<lb ed="X" n="0114b21"/>提心者因此水陸勝會發菩提心未脫苦輪者因此
+<lb ed="X" n="0114b22"/>得不退轉未成佛道者因此水陸勝會得成佛道今
+<lb ed="X" n="0114b23"/>之供一佛齋一僧施一貧勸一善尚有無限功德何
+<lb ed="X" n="0114b24"/>況普通供養十方三寶六道萬靈豈止自利一身獨
+<pb ed="X" id="X57.0961.0114c" n="0114c"/>
+<lb ed="X" n="0114c01"/>超三界亦乃恩霑九族福被幽明等濟&CB00320;生同成佛
+<lb ed="X" n="0114c02"/>道可謂無央無數無量無邊不可思議功德大海矣
+<lb ed="X" n="0114c03"/>所以江淮兩浙川廣福建水陸佛事今古盛行或保
+<lb ed="X" n="0114c04"/>慶平安而不設水陸則人以為不善追資尊長而不
+<lb ed="X" n="0114c05"/>設水陸則人以為不孝濟拔卑幼而不設水陸則人
+<lb ed="X" n="0114c06"/>以為不慈由是富者獨力營<app><lem wit="【CBETA】" resp="CBETA.maha">辦</lem><rdg wit="【卍續】">辨</rdg></app>貧者共財修設感應
+<lb ed="X" n="0114c07"/>事&CB00528;不可具述恐此方之人或未知本末今具水陸
+<lb ed="X" n="0114c08"/>緣起于後昔者阿難獨居靜處於中夜時見一餓鬼
+<lb ed="X" n="0114c09"/>名曰面然白阿難曰汝後三日生我趣中能於百千
+<lb ed="X" n="0114c10"/>那由佗恒河沙餓鬼并百千婆羅門仙各施一斗飲
+<lb ed="X" n="0114c11"/>食并為我供養三寶汝得增壽我得生天阿難白佛
+<lb ed="X" n="0114c12"/>求免斯苦世尊為說一切德光無量威德力大陀羅
+<lb ed="X" n="0114c13"/>尼<note place="inline">出救面然餓鬼經</note>此是水陸因緣最初根本然未有水陸
+<lb ed="X" n="0114c14"/>之名也梁天監初二月十五日夜武帝夢一神僧告
+<lb ed="X" n="0114c15"/>曰六道四生受大苦惱何不為作水陸大齋而救拔
+<lb ed="X" n="0114c16"/>之帝問沙門咸無知者唯志公勸帝廣尋經典必有
+<lb ed="X" n="0114c17"/>因緣乃取藏經置法雲殿&CB04457;自披&CB15095;創造儀文三年
+<lb ed="X" n="0114c18"/>乃成<note place="inline">楊鍔云梁武齋儀相應者則有華嚴經寶積經涅槃經大明神&CB00057;經大圓覺經十輪經佛頂經
+<lb ed="X" n="0114c19"/>面然經施甘露水經蘇悉地經</note>帝建道場於夜分時執捧儀文悉停
+<lb ed="X" n="0114c20"/>燈燭而白佛曰若此儀文理&CB00396;聖凡利兼水陸願禮
+<lb ed="X" n="0114c21"/>拜起處所止燈燭不爇自明或體式未詳利益無狀
+<lb ed="X" n="0114c22"/>所止燈燭悉暗如初言訖投地一禮初起燈燭盡明
+<lb ed="X" n="0114c23"/>再禮宮殿震動三禮諸天雨華天監四年二月十五
+<lb ed="X" n="0114c24"/>日於金山寺依儀文修設帝親臨地席詔祐律師宣
+<pb ed="X" id="X57.0961.0115a" n="0115a"/>
+<lb ed="X" n="0115a01"/>文可謂利洽幽明澤及飛走矣周隋兩代此文不傳
+<lb ed="X" n="0115a02"/>至唐咸享中西京法海寺英禪師一日方丈獨坐有
+<lb ed="X" n="0115a03"/>異人衣冠甚偉足不履地來謁英公曰弟子知有六
+<lb ed="X" n="0115a04"/>道水陸齋可以利益幽明自梁武歿後因循不行今
+<lb ed="X" n="0115a05"/>大覺寺有吳僧義濟得此儀文久在篋笥殆欲&CB00541;損
+<lb ed="X" n="0115a06"/>願吾師往求以來月十五日於山北寺如法修設苟
+<lb ed="X" n="0115a07"/>釋狴牢敢不知報英公許之異人乃去英公尋詣大
+<lb ed="X" n="0115a08"/>覺寺果有吳僧義濟得儀文以歸即以所期日於山
+<lb ed="X" n="0115a09"/>北寺親臨道場修設既畢其日曛暮向者異人與十
+<lb ed="X" n="0115a10"/>數輩來謝英公曰弟子即秦莊襄王也又指其徒曰
+<lb ed="X" n="0115a11"/>此范雎穰侯白起王翦張儀陳軫皆秦臣也咸坐本
+<lb ed="X" n="0115a12"/>罪幽囚陰府大夜冥冥無能救護昔梁武帝於金山
+<lb ed="X" n="0115a13"/>寺設此齋時前代紂王之臣皆免所苦弟子爾時亦
+<lb ed="X" n="0115a14"/>暫息苦然以獄情未決不得出離今蒙吾師設齋弟
+<lb ed="X" n="0115a15"/>子與此輩并列國諸侯眾等皆乘善力將生人間慮
+<lb ed="X" n="0115a16"/>世異國殊故此來謝言訖遂滅自是儀文布行天下
+<lb ed="X" n="0115a17"/>作大利益<note place="inline">此是東川楊鍔水陸儀所載</note>本朝東川楊鍔祖述舊規
+<lb ed="X" n="0115a18"/>製儀文三卷行於蜀中最為近古然江淮所用并京
+<lb ed="X" n="0115a19"/>洛所行皆後人踵事增華以崇其法至於津濟一也
+<lb ed="X" n="0115a20"/>宗賾向於紹聖三年夏因摭諸家所集刪補詳定勒
+<lb ed="X" n="0115a21"/>為四卷粗為完文普勸四眾依法崇修利益有情咸
+<lb ed="X" n="0115a22"/>登覺岸。</p></div1>
+<lb ed="X" n="0115a23"/><div1 type="xu"><mulu type="序" level="1" label="水陸法像贊(并序)"/><head>水陸法像贊<note place="inline">并序</note></head><byline type="author">文忠公蘇　軾</byline>
+<lb ed="X" n="0115a24"/><div2 type="xu"><mulu type="序" level="2" label="序"/><p id="pX57p0115a2401">&CB00582;聞淨名之&CB00647;屬饜萬口寶積之蓋&CB00642;覆大千若知
+<pb ed="X" id="X57.0961.0115b" n="0115b"/>
+<lb ed="X" n="0115b01"/>法界本造於心則雖凡夫皆具此理在昔梁武皇帝
+<lb ed="X" n="0115b02"/>始作水陸道場以一十六名盡三千界用狹而施博
+<lb ed="X" n="0115b03"/>事約而理詳後生莫知隨世增廣若使一二而悉數
+<lb ed="X" n="0115b04"/>雖至千萬而靡周唯我蜀人頗存古法觀其像設猶
+<lb ed="X" n="0115b05"/>有典刑虔召請於三時分上下者八位但能起一念
+<lb ed="X" n="0115b06"/>於慈悲之上自然撫四海於俛仰之間軾敬發願心
+<lb ed="X" n="0115b07"/>具嚴繪事而大檀越張侯致敬禮樂聞其事共結勝
+<lb ed="X" n="0115b08"/>緣請法雲寺法涌禪師善本善擇其徒修營此會永
+<lb ed="X" n="0115b09"/>為無礙之施同守不刊之儀軾拜手稽首各為之贊
+<lb ed="X" n="0115b10"/>凡十有六篇。</p></div2>
+<lb ed="X" n="0115b11"/><div2 type="other"><mulu type="其他" level="2" label="上堂八位"/><head>上堂八位</head>
+<lb ed="X" n="0115b12"/><div3 type="other"><mulu type="其他" level="3" label="第一佛陀耶眾"/><head>第一佛陀耶眾</head>
+<lb ed="X" n="0115b13"/><lg id="lgX57p0115b1301"><l>謂此為佛</l><l>是事理障</l><l>謂此非佛</l><l>是斷滅相</l>
+<lb ed="X" n="0115b14"/><l>事理既融</l><l>斷滅亦空</l><l>佛自現前</l><l>如日之中</l></lg></div3>
+<lb ed="X" n="0115b15"/><div3 type="other"><mulu type="其他" level="3" label="第二達摩耶眾"/><head>第二達摩耶眾</head>
+<lb ed="X" n="0115b16"/><lg id="lgX57p0115b1601"><l>以意為根</l><l>是謂法塵</l><l>以佛為體</l><l>是謂法身</l>
+<lb ed="X" n="0115b17"/><l>風止浪靜</l><l>非別有水</l><l>放為江河</l><l>匯為沼沚</l></lg></div3>
+<lb ed="X" n="0115b18"/><div3 type="other"><mulu type="其他" level="3" label="第三僧伽耶眾"/><head>第三僧伽耶眾</head>
+<lb ed="X" n="0115b19"/><lg id="lgX57p0115b1901"><l>佛既強名</l><l>法亦非真</l><l>神而明之</l><l>存乎其人</l>
+<lb ed="X" n="0115b20"/><l>惟佛法僧</l><l>非三非一</l><l>如雲出雨</l><l>如水現日</l></lg></div3>
+<lb ed="X" n="0115b21"/><div3 type="other"><mulu type="其他" level="3" label="第四大菩薩眾"/><head>第四大菩薩眾</head>
+<lb ed="X" n="0115b22"/><lg id="lgX57p0115b2201"><l>神智無方</l><l>解脫無礙</l><l>以何因緣</l><l>得大自在</l>
+<lb ed="X" n="0115b23"/><l>障盡願滿</l><l>反于自然</l><l>無始以來</l><l>亡者復存</l></lg></div3>
+<lb ed="X" n="0115b24"/><div3 type="other"><mulu type="其他" level="3" label="第五大辟支佛眾"/><head>第五大辟支佛眾</head>
+<pb ed="X" id="X57.0961.0115c" n="0115c"/>
+<lb ed="X" n="0115c01"/><lg id="lgX57p0115c0101"><l>現無佛處</l><l>修第二乘</l><l>如日入時</l><l>膏火為燈</l>
+<lb ed="X" n="0115c02"/><l>我說二乘</l><l>如應病藥</l><l>敬禮辟支</l><l>即大圓覺</l></lg></div3>
+<lb ed="X" n="0115c03"/><div3 type="other"><mulu type="其他" level="3" label="第六大阿羅漢眾"/><head>第六大阿羅漢眾</head>
+<lb ed="X" n="0115c04"/><lg id="lgX57p0115c0401"><l>大不可知</l><l>山隨&CB00298;移</l><l>小入無間</l><l>澡身軍持</l>
+<lb ed="X" n="0115c05"/><l>我雖不能</l><l>能設此供</l><l>知一切法</l><l>具此玅用</l></lg></div3>
+<lb ed="X" n="0115c06"/><div3 type="other"><mulu type="其他" level="3" label="第七五通神仙眾"/><head>第七五通神仙眾</head>
+<lb ed="X" n="0115c07"/><lg id="lgX57p0115c0701"><l>孰云飛仙</l><l>高舉違世</l><l>湛然神凝</l><l>物不疵癘</l>
+<lb ed="X" n="0115c08"/><l>為同為異</l><l>本自無同</l><l>契我無生</l><l>長生之宗</l></lg></div3>
+<lb ed="X" n="0115c09"/><div3 type="other"><mulu type="其他" level="3" label="第八護法天龍眾"/><head>第八護法天龍眾</head>
+<lb ed="X" n="0115c10"/><lg id="lgX57p0115c1001"><l>外道壞法</l><l>如刀截風</l><l>壞者既妄</l><l>護者亦空</l>
+<lb ed="X" n="0115c11"/><l>偉茲龍神</l><l>威而不怒</l><l>示有四支</l><l>佛之禦侮</l></lg></div3></div2>
+<lb ed="X" n="0115c12"/><div2 type="other"><mulu type="其他" level="2" label="下堂八位"/><head>下堂八位</head>
+<lb ed="X" n="0115c13"/><div3 type="other"><mulu type="其他" level="3" label="第一官僚吏從眾"/><head>第一官僚吏從眾</head>
+<lb ed="X" n="0115c14"/><lg id="lgX57p0115c1401"><l>至難者君</l><l>至憂者臣</l><l>以眾生故</l><l>現宰官身</l>
+<lb ed="X" n="0115c15"/><l>以難為易</l><l>以憂為樂</l><l>樂兼萬人</l><l>禍倍眾惡</l></lg></div3>
+<lb ed="X" n="0115c16"/><div3 type="other"><mulu type="其他" level="3" label="第二三界諸天眾"/><head>第二三界諸天眾</head>
+<lb ed="X" n="0115c17"/><lg id="lgX57p0115c1701"><l>苦極則修</l><l>樂極則流</l><l>禍福無窮</l><l>糾纏相求</l>
+<lb ed="X" n="0115c18"/><l>遂超欲色</l><l>至非非相</l><l>不如一念</l><l>真發無上</l></lg></div3>
+<lb ed="X" n="0115c19"/><div3 type="other"><mulu type="其他" level="3" label="第三阿修羅王眾"/><head>第三阿修羅王眾</head>
+<lb ed="X" n="0115c20"/><lg id="lgX57p0115c2001"><l>正念淳想</l><l>則為飛行</l><l>毫&CB12530;之差</l><l>遂墮戰爭</l>
+<lb ed="X" n="0115c21"/><l>以此為道</l><l>穴胸隕首</l><l>是真作家</l><l>當師子吼</l></lg></div3>
+<lb ed="X" n="0115c22"/><div3 type="other"><mulu type="其他" level="3" label="第四人道眾"/><head>第四人道眾</head>
+<lb ed="X" n="0115c23"/><lg id="lgX57p0115c2301"><l>地獄天宮</l><l>同一念頃</l><l>涅槃生死</l><l>同一法性</l>
+<lb ed="X" n="0115c24"/><l>抱寶號窮</l><l>鑽穴索空</l><l>今夕何夕</l><l>當選大雄</l></lg></div3>
+<pb ed="X" id="X57.0961.0116a" n="0116a"/>
+<lb ed="X" n="0116a01"/><div3 type="other"><mulu type="其他" level="3" label="第五地獄道眾"/><head>第五地獄道眾</head>
+<lb ed="X" n="0116a02"/><lg id="lgX57p0116a0201"><l>汝一念起</l><l>業火熾然</l><l>非人燔汝</l><l>而汝自燔</l>
+<lb ed="X" n="0116a03"/><l>觀法界性</l><l>起滅電速</l><l>唯知心造</l><l>是破地獄</l></lg></div3>
+<lb ed="X" n="0116a04"/><div3 type="other"><mulu type="其他" level="3" label="第六餓鬼道眾"/><head>第六餓鬼道眾</head>
+<lb ed="X" n="0116a05"/><lg id="lgX57p0116a0501"><l>說食無味</l><l>涎流妄嚥</l><l>真食無火</l><l>中&CB00980;妄見</l>
+<lb ed="X" n="0116a06"/><l>美從妄生</l><l>惡亦幻成</l><l>知幻即離</l><l>既飽且寧</l></lg></div3>
+<lb ed="X" n="0116a07"/><div3 type="other"><mulu type="其他" level="3" label="第七旁生道眾"/><head>第七旁生道眾</head>
+<lb ed="X" n="0116a08"/><lg id="lgX57p0116a0801"><l>欲人不知</l><l>心則有負</l><l>此念未成</l><l>角尾<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>具</l>
+<lb ed="X" n="0116a09"/><l>集我道場</l><l>一洗濯之</l><l>盡未來劫</l><l>愧者勿為</l></lg></div3>
+<lb ed="X" n="0116a10"/><div3 type="other"><mulu type="其他" level="3" label="第八六道外者眾"/><head>第八六道外者眾</head>
+<lb ed="X" n="0116a11"/><lg id="lgX57p0116a1101"><l>陋劣之極</l><l>蕩於眇冥</l><l>胎卵溼化</l><l>莫從而生</l>
+<lb ed="X" n="0116a12"/><l>聞吾法音</l><l>飆超電動</l><l>如夢覺人</l><l>不復見夢</l></lg></div3></div2></div1>
+<lb ed="X" n="0116a13"/><div1 type="other"><mulu type="其他" level="1" label="修水陸葬枯骨疏"/><head>修水陸葬枯骨疏</head><p id="pX57p0116a1308" place="inline" rend="margin-left:4em">同前</p>
+<lb ed="X" n="0116a14"/><p id="pX57p0116a1401">右伏以諸佛眾生皆具大圓覺天官地獄同在一塵
+<lb ed="X" n="0116a15"/>中是故惡念纔萌便淪苦海善根瞥起<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>證法身要
+<lb ed="X" n="0116a16"/>在攝心易同反掌竊見惠州太守右丞議郎詹君範
+<lb ed="X" n="0116a17"/>與在州官吏舉行朝典破官錢葬失所暴骨數百軀
+<lb ed="X" n="0116a18"/>既掩覆其形該復安存其魂識使歸泉壤別受後身
+<lb ed="X" n="0116a19"/>軾目睹勝緣輒隨喜事以佛慈悲大願力以我廣大
+<lb ed="X" n="0116a20"/>平等心遵釋迦之遺文修地藏之本願起焦面之教
+<lb ed="X" n="0116a21"/>法設梁武之科儀伏願諸佛子等乘此良因離諸苦
+<lb ed="X" n="0116a22"/>趣沐浴法水悟罪垢之本空鼓舞梵音知道場之無
+<lb ed="X" n="0116a23"/>礙三歸<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>畢莫起邪心一飽之餘永無飢火以戒定
+<lb ed="X" n="0116a24"/>慧滅貪瞋癡勿眷戀於殘骸共逍遙於淨土伏惟三
+<pb ed="X" id="X57.0961.0116b" n="0116b"/>
+<lb ed="X" n="0116b01"/>寶俯賜證明。</p></div1>
+<lb ed="X" n="0116b02"/><div1 type="other"><mulu type="其他" level="1" label="初入道場敘建水陸意"/><head>初入道場敘建水陸意</head><p id="pX57p0116b0210" place="inline" rend="margin-left:4em">出楊鍔水陸儀</p>
+<lb ed="X" n="0116b03"/><p id="pX57p0116b0301">原夫無遮水陸大齋者遵釋迦文之垂教奉梁武帝
+<lb ed="X" n="0116b04"/>之科儀世間大慈人中上供於此可以修菩薩行於
+<lb ed="X" n="0116b05"/>此可以建如來心宜當屏絕外緣端持正念第一須
+<lb ed="X" n="0116b06"/>發菩提心以為道場當念此心本來湛寂與諸佛同
+<lb ed="X" n="0116b07"/>但以煩惱所障愛網所纏遂使諸佛成道我等在迷
+<lb ed="X" n="0116b08"/>只於今日今時便須覺悟發菩提心譬如蓮華初生
+<lb ed="X" n="0116b09"/>淤泥華一出時垢不能著以是事故當發菩提心以
+<lb ed="X" n="0116b10"/>為道場也第二須發廣大心以為法會當念此心自
+<lb ed="X" n="0116b11"/>無分別與&CB00980;空等徒以蔽於無明礙於有欲起吾我
+<lb ed="X" n="0116b12"/>見生怨親想遂使如來滅度我方受生佗界有佛我
+<lb ed="X" n="0116b13"/>不能見只於今日今時即須懺洗發廣大心譬如月
+<lb ed="X" n="0116b14"/>不離天凡有水處影無不現以此因緣當以廣大身
+<lb ed="X" n="0116b15"/>心而為法會第三須發大願心以為供養當念無邊
+<lb ed="X" n="0116b16"/>眾生未曾得度我今當度一切眾生未得果證我今
+<lb ed="X" n="0116b17"/>令證六道四生眾生當津濟之使周十方三世聖賢
+<lb ed="X" n="0116b18"/>當體事之使&CB00642;只於今日今時發如是大願心而為
+<lb ed="X" n="0116b19"/>供養法無盡故供養亦無盡也第四須發大悲心以
+<lb ed="X" n="0116b20"/>為法財當念眾生造諸惡業以惡業故轉入惡道一
+<lb ed="X" n="0116b21"/>入惡道無有休息若人欲我代諸眾生受諸苦惱我
+<lb ed="X" n="0116b22"/>則不答復於其中勸化發心令彼迴心向善只於今
+<lb ed="X" n="0116b23"/>日今時又須發起此大悲心而為法施施一切眾生
+<lb ed="X" n="0116b24"/>離苦得樂也既能堅發此四種大心則知此會不同
+<pb ed="X" id="X57.0961.0116c" n="0116c"/>
+<lb ed="X" n="0116c01"/>佗會乃是如來最勝無遮無礙大解脫門是故我今
+<lb ed="X" n="0116c02"/>修為水陸冥場大齋以集無量無邊功德也今則當
+<lb ed="X" n="0116c03"/>入法會正緣先為檀那合道場人及法界幽顯靈&CB15101;
+<lb ed="X" n="0116c04"/>依怙聖教教四種廣大身心有真言云云。</p></div1>
+<lb ed="X" n="0116c05"/><div1 type="other"><mulu type="其他" level="1" label="宣白召請水陸上下堂"/><div2 type="other"><mulu type="其他" level="2" label="宣白召請上堂八位聖眾"/><head>宣白召請上堂八位聖眾</head><p id="pX57p0116c0511" place="inline" rend="margin-left:4em">同前</p>
+<lb ed="X" n="0116c06"/><p id="pX57p0116c0601">&CB00582;聞大雄出現所以覆護眾生玅法軌持所以度脫
+<lb ed="X" n="0116c07"/>一切作希有事開大慈門視于四眾如象王迴演乎
+<lb ed="X" n="0116c08"/>一音作師子吼不起於寶蓮華座普化十方常放於
+<lb ed="X" n="0116c09"/>玉毫相光&CB00642;照六道布慈雲於法界沃甘露於&CB00320;生
+<lb ed="X" n="0116c10"/>人中眾聖之王世間大慈之父于夜則有弟子某惟
+<lb ed="X" n="0116c11"/>念自從曠劫受佛大恩乃至今生聞佛正教幸三寶
+<lb ed="X" n="0116c12"/>之普覆嗟六道之漂流望佛如浮木之龜何由可值
+<lb ed="X" n="0116c13"/>顧身有繫衣之寶不自覺知捨身受身從苦入苦今
+<lb ed="X" n="0116c14"/>欲導之以解脫之路進之以方便之門唯佛哀憐滿
+<lb ed="X" n="0116c15"/>我志願是以特獻微玅之蔬饌普陳希有之香華虔
+<lb ed="X" n="0116c16"/>&CB00013;無過精誠有在以故我今奉為施主殷勤禮請上
+<lb ed="X" n="0116c17"/>堂八位聖眾伏惟&CB03727;降。</p>
+<lb ed="X" n="0116c18"/><div3 type="other"><mulu type="其他" level="3" label="請佛陀耶眾"/><head>請佛陀耶眾</head>
+<lb ed="X" n="0116c19"/><p id="pX57p0116c1901">一心歸命禮請真法性海玅報化身擁萬德之莊嚴
+<lb ed="X" n="0116c20"/>廓十方而自在超諸名相了非三世之異同接彼塵
+<lb ed="X" n="0116c21"/>勞普為&CB00320;生而隱顯慈光無量悲願難窮巍巍大海
+<lb ed="X" n="0116c22"/>涌須彌耿耿眾星依皎月南無無盡&CB00980;空&CB00642;法界一
+<lb ed="X" n="0116c23"/>切常住佛陀耶眾惟願不違本際平等慈熏俯降道
+<lb ed="X" n="0116c24"/>場受乎供養。</p></div3>
+<pb ed="X" id="X57.0961.0117a" n="0117a"/>
+<lb ed="X" n="0117a01"/><div3 type="other"><mulu type="其他" level="3" label="請達摩耶眾"/><head>請達摩耶眾</head>
+<lb ed="X" n="0117a02"/><p id="pX57p0117a0201">一心歸命禮請性天萬像法海千波開毗盧廣大之
+<lb ed="X" n="0117a03"/>義門照實際幽深之寶藏三車載物同超火宅之鄉
+<lb ed="X" n="0117a04"/>八教應機盡入帝珠之網洞明權實示有筌蹄咸稱
+<lb ed="X" n="0117a05"/>最上大福田是謂無邊真法施南無無盡&CB00980;空&CB00642;法
+<lb ed="X" n="0117a06"/>界一切常住達摩耶眾。</p></div3>
+<lb ed="X" n="0117a07"/><div3 type="other"><mulu type="其他" level="3" label="請僧伽耶眾"/><head>請僧伽耶眾</head>
+<lb ed="X" n="0117a08"/><p id="pX57p0117a0801">一心歸命禮請六和清淨一性圓明依戒律以嚴身
+<lb ed="X" n="0117a09"/>具慈忍而攝物海傾談辯玅宣眾聖之法門月映禪
+<lb ed="X" n="0117a10"/>心高露千機之正眼一塵無染萬行不違頂圓三昧
+<lb ed="X" n="0117a11"/>祕珠明身挂九支靈艸秀南無無盡&CB00980;空&CB00642;法界一
+<lb ed="X" n="0117a12"/>切常住僧伽耶眾。</p></div3>
+<lb ed="X" n="0117a13"/><div3 type="other"><mulu type="其他" level="3" label="請大菩薩眾"/><head>請大菩薩眾</head>
+<lb ed="X" n="0117a14"/><p id="pX57p0117a1401">一心歸命禮請發弘誓願慕大菩提進六位之階差
+<lb ed="X" n="0117a15"/>體一真之平等慈悲喜捨了無覺照之機出入死生
+<lb ed="X" n="0117a16"/>不墮根塵之相補陀雲秀兜率風清寶華瓔珞共嚴
+<lb ed="X" n="0117a17"/>身性海光明常利物南無無盡&CB00980;空&CB00642;法界一切常
+<lb ed="X" n="0117a18"/>住大菩薩摩訶薩眾。</p></div3>
+<lb ed="X" n="0117a19"/><div3 type="other"><mulu type="其他" level="3" label="請大辟支佛眾"/><head>請大辟支佛眾</head>
+<lb ed="X" n="0117a20"/><p id="pX57p0117a2001">一心歸命禮請以緣而覺絕世而修常獨住於山林
+<lb ed="X" n="0117a21"/>初無取於言說鹿車運載脫塵勞於十二有支麟角
+<lb ed="X" n="0117a22"/>超升發觀行於四十四智真空密照玅定孤圓雖於
+<lb ed="X" n="0117a23"/>無佛世出興唯以中乘根取證南無無盡&CB00980;空&CB00642;法
+<lb ed="X" n="0117a24"/>界一切常住辟支迦羅眾。</p></div3>
+<pb ed="X" id="X57.0961.0117b" n="0117b"/>
+<lb ed="X" n="0117b01"/><div3 type="other"><mulu type="其他" level="3" label="請大阿羅漢眾"/><head>請大阿羅漢眾</head>
+<lb ed="X" n="0117b02"/><p id="pX57p0117b0201">一心歸命禮請慧根迥脫定境高明速超三界之苦
+<lb ed="X" n="0117b03"/>輪深證單空之玅理不受後有如明鏡之絕塵具足
+<lb ed="X" n="0117b04"/>神通似明珠之現像位分四果名滿十方人間天上
+<lb ed="X" n="0117b05"/>總歸依一&CB00647;千家能感應南無無盡&CB00980;空&CB00642;法界一
+<lb ed="X" n="0117b06"/>切常住大阿羅漢眾。</p></div3>
+<lb ed="X" n="0117b07"/><div3 type="other"><mulu type="其他" level="3" label="請五通神仙眾"/><head>請五通神仙眾</head>
+<lb ed="X" n="0117b08"/><p id="pX57p0117b0801">一心歸命奉請身心離欲德行過人慕煙霞清淨之
+<lb ed="X" n="0117b09"/>居住山海杳冥之際飄飄&CB15112;馭隨月露以光寒冉冉
+<lb ed="X" n="0117b10"/>霓裳逐天風而香散玅稱無漏獨取長生火分龍虎
+<lb ed="X" n="0117b11"/>見神丹波動鯨鼇騰祕殿南無無盡&CB00980;空&CB00642;法界一
+<lb ed="X" n="0117b12"/>切常住五通神仙眾。</p></div3>
+<lb ed="X" n="0117b13"/><div3 type="other"><mulu type="其他" level="3" label="請護法天龍眾"/><head>請護法天龍眾</head>
+<lb ed="X" n="0117b14"/><p id="pX57p0117b1401">一心歸命奉請積諸福德具大威神<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>登解脫之門
+<lb ed="X" n="0117b15"/>敬護如來之教衣冠照映莫非善力之資生眷屬莊
+<lb ed="X" n="0117b16"/>嚴豈受塵勞之愛染常參佛會降伏怨魔寶&CB00669;高輝
+<lb ed="X" n="0117b17"/>般若光旌旗秀發金剛焰南無無盡&CB00980;空&CB00642;法界一
+<lb ed="X" n="0117b18"/>切常住解脫門護法天龍眾。</p></div3></div2>
+<lb ed="X" n="0117b19"/><div2 type="other"><mulu type="其他" level="2" label="宣白召請下堂八位聖凡"/><head>宣白召請下堂八位聖凡</head>
+<lb ed="X" n="0117b20"/><p id="pX57p0117b2001">原夫神道不遠虔懇須知聖力非遙禱祈必應或彈
+<lb ed="X" n="0117b21"/>指斯須之際迴旋&CB00519;忽之間或作雨形瑞色共輕雲
+<lb ed="X" n="0117b22"/>之混雜或隨風勢信財與&CB00501;馬之飄颻今則豈色融
+<lb ed="X" n="0117b23"/>融祥雲靄靄敢希聖駕允副凡心特伸邀請。</p>
+<lb ed="X" n="0117b24"/><div3 type="other"><mulu type="其他" level="3" label="請官僚吏從眾"/><head>請官僚吏從眾<note place="inline">楊鍔儀文祇有召請名銜至各及眷屬自餘以餘文補之</note></head>
+<pb ed="X" id="X57.0961.0117c" n="0117c"/>
+<lb ed="X" n="0117c01"/><p id="pX57p0117c0101">一心奉請&CB00642;法界中往古今來一切官僚吏從眾皇
+<lb ed="X" n="0117c02"/>王帝主百辟千官萬類&CB00320;分各及眷屬黎元以君上
+<lb ed="X" n="0117c03"/>為所依官府以黎元為統攝由來率土盡屬王民故
+<lb ed="X" n="0117c04"/>梁武之儀文立官僚之褥位善緣宿構勝報今逢抱
+<lb ed="X" n="0117c05"/>文武兼備之才處富貴兩全之地九州四海皆歸化
+<lb ed="X" n="0117c06"/>育之中萬姓四民盡入旌麾之上與奪由<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>舉動任
+<lb ed="X" n="0117c07"/>情既勢去以時來故形亡而報轉愁&CB05943;黯黯長劫何
+<lb ed="X" n="0117c08"/>依幽趣冥冥棲身無地如是官僚吏從&CB00278;願承三寶
+<lb ed="X" n="0117c09"/>力仗祕密言降臨道場受此無遮廣大供養<note place="inline">辟必益切君也
+<lb ed="X" n="0117c10"/>褥而蜀切氈也</note>。</p></div3>
+<lb ed="X" n="0117c11"/><div3 type="other"><mulu type="其他" level="3" label="請三界諸天眾"/><head>請三界諸天眾</head>
+<lb ed="X" n="0117c12"/><p id="pX57p0117c1201">一心奉請&CB00642;法界中一切諸天眾欲界色界無色界
+<lb ed="X" n="0117c13"/>中天主天王各及眷屬報居六欲夙因五戒十善之
+<lb ed="X" n="0117c14"/>修上升九天安住八定四禪之位身雖有漏樂且無
+<lb ed="X" n="0117c15"/>窮巍巍而宮殿隨身奕奕而光明照體八萬四千劫
+<lb ed="X" n="0117c16"/>壽勝報時&CB00357;二十五有輪迴升沈何<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>五衰相現一
+<lb ed="X" n="0117c17"/>枕夢殘俄從宮殿之中奄入杳冥之境如是天道眾
+<lb ed="X" n="0117c18"/>&CB00278;願。</p></div3>
+<lb ed="X" n="0117c19"/><div3 type="other"><mulu type="其他" level="3" label="請阿修羅道眾"/><head>請阿修羅道眾</head>
+<lb ed="X" n="0117c20"/><p id="pX57p0117c2001">一心奉請&CB00642;法界中一切阿修羅眾三頭六臂五趣
+<lb ed="X" n="0117c21"/>四生海底山間各及眷屬前修善惡今報差殊負貢
+<lb ed="X" n="0117c22"/>高陵下之心起嫉妒猜疑之行既專麤暴遂受醜形
+<lb ed="X" n="0117c23"/>或項佩於多頭或肩生於數臂身如碧澱髮似金丹
+<lb ed="X" n="0117c24"/>現大身而高等須彌山示小質而竄入藕絲竅與帝
+<pb ed="X" id="X57.0961.0118a" n="0118a"/>
+<lb ed="X" n="0118a01"/>釋戰處雖莫能勝於如來輪下因<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>歸降冀收忿怒
+<lb ed="X" n="0118a02"/>之胸懷庶使惡心而調伏如是修羅部眾&CB00278;願<note place="inline">澱音殿</note>。</p></div3>
+<lb ed="X" n="0118a03"/><div3 type="other"><mulu type="其他" level="3" label="請人道眾"/><head>請人道眾</head>
+<lb ed="X" n="0118a04"/><p id="pX57p0118a0401">一心奉請&CB00642;法界中一切人道眾尊卑貴賤中國邊
+<lb ed="X" n="0118a05"/>方異狀殊形各及眷屬曩行五戒今報九流既為萬
+<lb ed="X" n="0118a06"/>物之靈故預三才之列或超五道而至八定或著五
+<lb ed="X" n="0118a07"/>欲而墜三塗&CB00278;由身口為緣遂致升沈異路聲香味
+<lb ed="X" n="0118a08"/>觸淫泆驕奢塵塵皆失於本心念念常存於妄想百
+<lb ed="X" n="0118a09"/>年易失不思聲色之本空一夢難留盡入輪迴之境
+<lb ed="X" n="0118a10"/>界如是人道部眾&CB00278;願。</p></div3>
+<lb ed="X" n="0118a11"/><div3 type="other"><mulu type="其他" level="3" label="請餓鬼道眾"/><head>請餓鬼道眾</head>
+<lb ed="X" n="0118a12"/><p id="pX57p0118a1201">一心奉請&CB00642;法界中一切餓鬼道眾焦面火口巨首
+<lb ed="X" n="0118a13"/>微咽渴惱針毛各及眷屬肇自七情來從十惡九類
+<lb ed="X" n="0118a14"/>分別於正理論三般總示於瑜伽宗阿難見者曰面
+<lb ed="X" n="0118a15"/>然目連睹之名華報鐵圍山畔論百億之何窮殑伽
+<lb ed="X" n="0118a16"/>河邊舉恒沙而不盡莫不咽喉針細肢節火然骨鳴
+<lb ed="X" n="0118a17"/>若破車之聲腹大似敗壺之&CB00646;怨甘漿之莫及痛熱
+<lb ed="X" n="0118a18"/>惱之煎熬色力飢&CB00980;形骸醜惡如是餓鬼部眾一切
+<lb ed="X" n="0118a19"/>飢渭眾生&CB00278;願。</p></div3>
+<lb ed="X" n="0118a20"/><div3 type="other"><mulu type="其他" level="3" label="請畜生道眾"/><head>請畜生道眾</head>
+<lb ed="X" n="0118a21"/><p id="pX57p0118a2101">一心奉請&CB00642;法界中一切畜生道眾毛&CB00320;羽族水陛
+<lb ed="X" n="0118a22"/>飛沈巢穴微軀各及眷屬同居三界共在四生如塵
+<lb ed="X" n="0118a23"/>若沙不可勝數莫不排空走野升天躍淵胎卵溼化
+<lb ed="X" n="0118a24"/>之所生山林川澤之所聚或多足而無足或匾毛而
+<pb ed="X" id="X57.0961.0118b" n="0118b"/>
+<lb ed="X" n="0118b01"/>混毛或有知而無知或小質而大質飛霜削木遽罹
+<lb ed="X" n="0118b02"/>羅網以哀鳴急浪翻空難免&CB05443;梁之張捕怨絕刀砧
+<lb ed="X" n="0118b03"/>之上&CB05943;飛湯火之中如是畜生部眾&CB00278;願<note place="inline">&CB05443;音戶取魚器</note>。</p></div3>
+<lb ed="X" n="0118b04"/><div3 type="other"><mulu type="其他" level="3" label="請地獄道眾"/><head>請地獄道眾</head>
+<lb ed="X" n="0118b05"/><p id="pX57p0118b0501">一心奉請&CB00642;法界中一切地獄道眾五無間獄十重
+<lb ed="X" n="0118b06"/>罪入八熱八寒各及眷屬名標地獄總號泥犁鐵城
+<lb ed="X" n="0118b07"/>高廣則無量無邊罪器彌多則可驚可怖種類區分
+<lb ed="X" n="0118b08"/>而具有五百隔子枉受生死而一日八萬四千鑊湯
+<lb ed="X" n="0118b09"/>爐炭之煎熬麋軀爛骨&CB00669;樹刀山之峻聳<app><lem wit="【CBETA】" resp="CBETA.maha">刺</lem><rdg wit="【卍續】">剌</rdg></app>眼剚心
+<lb ed="X" n="0118b10"/>輪輕治重而隨業昭彰拂石芥城而何時休息如是
+<lb ed="X" n="0118b11"/>地獄部眾一切內外受苦眾生&CB00278;願<note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">刺</lem><rdg wit="【卍續】">剌</rdg></app>七逆切剚側吏切</note>。</p></div3>
+<lb ed="X" n="0118b12"/><div3 type="other"><mulu type="其他" level="3" label="請六道外者眾"/><head>請六道外者眾</head>
+<lb ed="X" n="0118b13"/><p id="pX57p0118b1301">一心奉請&CB00642;法界中一切六道外者眾或自三界而
+<lb ed="X" n="0118b14"/>乍墮或從五趣以方來既涉升降之兩楹遂歷去來
+<lb ed="X" n="0118b15"/>之中陰罔罔像像杳杳冥冥或上升而頭向天宮或
+<lb ed="X" n="0118b16"/>下墜而首歸地府或橫趍於南北或足向於東西陋
+<lb ed="X" n="0118b17"/>劣匪堪形相奚既飲食甘漿而莫&CB00418;吸風飲露以充
+<lb ed="X" n="0118b18"/>飢素無毫善莊嚴故受如斯果報今則冤親等濟幽
+<lb ed="X" n="0118b19"/>顯咸資如是六道外者中陰眾生&CB00278;願。</p></div3></div2></div1>
+<lb ed="X" n="0118b20"/><div1 type="xu"><mulu type="序" level="1" label="水陸齋儀文後序"/><head>水陸齋儀文後序</head><p id="pX57p0118b2008" place="inline" rend="margin-left:4em">同前</p>
+<lb ed="X" n="0118b21"/><p id="pX57p0118b2101">按蕭氏建無遮齋其儀甚簡今所行者皆後人踵事
+<lb ed="X" n="0118b22"/>增華以崇其法至於津濟一也竊尋蕭意&CB00582;超三界
+<lb ed="X" n="0118b23"/>之外<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>入聖地者上八位該焉走三界之內未出苦
+<lb ed="X" n="0118b24"/>輪者下八位備焉<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>入聖地者靡不供養未出苦輪
+<pb ed="X" id="X57.0961.0118c" n="0118c"/>
+<lb ed="X" n="0118c01"/>者靡不薦拔此所以為無遮也然大地一切本與諸
+<lb ed="X" n="0118c02"/>佛同源諸佛如來自無眾生別處但緣起為妄真暗
+<lb ed="X" n="0118c03"/>成愚坐與諸聖隔為異道斯文者敷演正教申明本
+<lb ed="X" n="0118c04"/>緣開示其覺悟之機歸趣于解脫之法使參法會者
+<lb ed="X" n="0118c05"/>了見大地無有一物不成佛者然後為得也凡齋以
+<lb ed="X" n="0118c06"/>控帶江山依據林薄為勝地月望為佳日先期三日
+<lb ed="X" n="0118c07"/>以淨水置佛前晝夜持&CB00057;想水成甘露以洒法食即
+<lb ed="X" n="0118c08"/>三藏也臨壇宣文典其佛事即法師也以音聲屬和
+<lb ed="X" n="0118c09"/>梵唄間作即歌讚也捧鑪對聖冥運願力即檀越也
+<lb ed="X" n="0118c10"/>故檀越必勤其精意精意然後能致其感法師必選
+<lb ed="X" n="0118c11"/>其高行行高然後能尊其教三藏必堅其正念以正
+<lb ed="X" n="0118c12"/>念然後能資其&CB00057;力歌讚必嚴其端誠以端誠然後
+<lb ed="X" n="0118c13"/>能成其法會先事齋居以致潔畢會宴坐而如慕各
+<lb ed="X" n="0118c14"/>盡虔恭方蒙饒益有情或不謹便成無利則弗為聖
+<lb ed="X" n="0118c15"/>賢所祐且復有鬼神之譴敢告大眾其戒之哉。</p></div1>
+<lb ed="X" n="0118c16"/><div1 type="other"><mulu type="其他" level="1" label="斛前召請啟白"/><head>斛前召請啟白</head>
+<lb ed="X" n="0118c17"/><p id="pX57p0118c1701">&CB00582;聞大圓鏡體磨而不磷涅而不淄如意珠王取之
+<lb ed="X" n="0118c18"/>無禁用之無竭柰何眾生弱喪永劫陸沈黑山下頓
+<lb ed="X" n="0118c19"/>足牽衣黃泉中安身立命慧光不燭飢火長然圓頓
+<lb ed="X" n="0118c20"/>上乘可得而聞苦澀惡味備&CB00573;不<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>方以類聚物以
+<lb ed="X" n="0118c21"/>&CB00320;分其居也皆艱難險阻之鄉其黨也盡嫉妒慳貪
+<lb ed="X" n="0118c22"/>之眾真鬼虎龍蛇之可畏如稻麻竹葦之良多賴法
+<lb ed="X" n="0118c23"/>王留施食之緣幸施主奉如來之教時於清夜具展
+<lb ed="X" n="0118c24"/>香羞惟鬼神自爾之力能周仗佛祖無緣之慈普攝
+<pb ed="X" id="X57.0961.0119a" n="0119a"/>
+<lb ed="X" n="0119a01"/>我聞經說在昔阿難尊者獨居靜處念所受法則於
+<lb ed="X" n="0119a02"/>深夜見一餓鬼名曰面然白阿難言<app><lem wit="【CBETA】" resp="CBETA.maha">卻</lem><rdg wit="【卍續】">郤</rdg></app>後三日即便
+<lb ed="X" n="0119a03"/>命終當墮鬼趣與我同類阿難聞<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>心生惶怖問餓
+<lb ed="X" n="0119a04"/>鬼言若我死後生餓鬼者行何方便可得免脫爾時
+<lb ed="X" n="0119a05"/>餓鬼白阿難言汝若能布施百千那由佗恒河沙餓
+<lb ed="X" n="0119a06"/>鬼并百千婆羅門仙等以摩伽佗國之斛各施一斛
+<lb ed="X" n="0119a07"/>飲食汝得增壽我得離苦阿難聞此不順之語身毛
+<lb ed="X" n="0119a08"/>皆&CB00594;即至佛所具述此言世尊我今云何能辦若干
+<lb ed="X" n="0119a09"/>鬼仙等食佛即為說無量威德自在光明勝玅力真
+<lb ed="X" n="0119a10"/>言若誦此&CB00057;則能變少飲食令諸鬼仙一一皆得飽
+<lb ed="X" n="0119a11"/>滿阿難依教行持得延壽命鬼得生天法門不唯益
+<lb ed="X" n="0119a12"/>於現在亦欲遠被未來羅漢結集成文三藏傳來此
+<lb ed="X" n="0119a13"/>土人到于今咸受其賜大矣哉是真不可思議博施
+<lb ed="X" n="0119a14"/>濟眾之道也于夜蓋有清信檀那特為某事興建斛
+<lb ed="X" n="0119a15"/>食今則食時斯屆供事當陳欲召來儀須伸迎請<note place="inline">云
+<lb ed="X" n="0119a16"/>云</note>。</p></div1>
+<lb ed="X" n="0119a17"/><div1 type="other"><mulu type="其他" level="1" label="歐陽文忠公宿採石聞鬼聲"/><head>歐陽文忠公宿採石聞鬼聲</head>
+<lb ed="X" n="0119a18"/><p id="pX57p0119a1801">歐陽文忠公修&CB00573;宿採石渡夜聞呼聲曰去來舟尾
+<lb ed="X" n="0119a19"/>有應之曰參政宿此不可去齋料幸&CB01768;歸公默念舟
+<lb ed="X" n="0119a20"/>尾迫浦且無人必鬼也至五鼓又聞岸上獵獵馳驟
+<lb ed="X" n="0119a21"/>聲舟尾者呼曰齋料如何岸上者且行且答曰道場
+<lb ed="X" n="0119a22"/>不清淨皆無所得而歸公異其事後半月因游金山
+<lb ed="X" n="0119a23"/>寺以告長老長老曰昨有施主在寺修設方第二時
+<lb ed="X" n="0119a24"/>法事其妻乳臥少頃&CB02312;風滅燭時皆驚異不知是此
+<pb ed="X" id="X57.0961.0119b" n="0119b"/>
+<lb ed="X" n="0119b01"/>否公問其日乃宿採石之夜其事驗矣<note place="inline">見夷堅志</note>。</p></div1>
+<lb ed="X" n="0119b02"/><div1 type="other"><mulu type="其他" level="1" label="佛印禪師加持水陸感驗"/><head>佛印禪師加持水陸感驗</head>
+<lb ed="X" n="0119b03"/><p id="pX57p0119b0301">佛印禪師了元世傳是樓至佛化身余未之信後閱
+<lb ed="X" n="0119b04"/>師玅&CB00123;詩集及師&CB15156;銘果有其謂蓋師&CB00573;訪大覺璉
+<lb ed="X" n="0119b05"/>禪師未至前一日大覺忽夢樓至如來至遲明率眾
+<lb ed="X" n="0119b06"/>迎候而師遽來璉公因作詩以贈目以樓至稱之而
+<lb ed="X" n="0119b07"/>師又&CB00573;自夢釋迦本師告之曰汝吾弟子乃賢劫千
+<lb ed="X" n="0119b08"/>佛中最後樓至如來者是也夢覺遂成一偈有夢時
+<lb ed="X" n="0119b09"/>雖說同樓至覺後依然箇比丘寄語釋迦千道伴遇
+<lb ed="X" n="0119b10"/>抽頭處且抽頭之句又師住金山時有海賈到寺設
+<lb ed="X" n="0119b11"/>水陸是夜適法事僧&CB00403;幹而出師不得<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>即自行總
+<lb ed="X" n="0119b12"/>持此夜有漁舟泊于江湍深夜忽聞岸上有聲曰今
+<lb ed="X" n="0119b13"/>夜金山水陸甚勝乃樓至如來自行加持也漁人審
+<lb ed="X" n="0119b14"/>是鬼聲於師大生敬仰據斯顯驗則知人勝法勝乃
+<lb ed="X" n="0119b15"/>感鬼神懽悅歆享矣。</p></div1>
+<lb ed="X" n="0119b16"/><div1 type="other"><mulu type="其他" level="1" label="誦破地獄偈感驗"/><head>誦破地獄偈感驗</head>
+<lb ed="X" n="0119b17"/><p id="pX57p0119b1701">東坡大全云若人欲了知三世一切佛應觀法界性
+<lb ed="X" n="0119b18"/>一切唯心造市人喪妻者夢其妻求破地獄偈覺而
+<lb ed="X" n="0119b19"/>求之無有也問薦福古老云此偈是也遂舉家持誦
+<lb ed="X" n="0119b20"/>後見亡者寶衣天冠縹緲空中稱謝而去軾聞之於
+<lb ed="X" n="0119b21"/>佛印佛印聞之於范堯夫。</p>
+<lb ed="X" n="0119b22"/><p id="pX57p0119b2201">華嚴感應傳云垂拱三年華嚴藏法師往崇福寺見
+<lb ed="X" n="0119b23"/>薦律師云今夏有賢安坊郭神亮入寺禮拜於余自
+<lb ed="X" n="0119b24"/>言頃忽暴亡經于七日近得再蘇當時有使者三人
+<pb ed="X" id="X57.0961.0119c" n="0119c"/>
+<lb ed="X" n="0119c01"/>追至平等王所王勘問罪福等事令使者引某至地
+<lb ed="X" n="0119c02"/>獄忽逢一僧云我救汝苦汝但當受持一偈必脫此
+<lb ed="X" n="0119c03"/>苦偈曰若人欲了知等神亮倉皇而誦方數十&CB00642;其
+<lb ed="X" n="0119c04"/>與同罪者&CB00278;得脫免當知此偈能破地獄也藏師云
+<lb ed="X" n="0119c05"/>此偈乃華嚴經第四會中偈也薦公未之信乃請第
+<lb ed="X" n="0119c06"/>十九卷看之果然乃覺林菩薩所說偈也。</p>
+<lb ed="X" n="0119c07"/><p id="pX57p0119c0701">纂靈記云昔京兆有人姓王氏<note place="inline">失名</note>暴死三日而再迴
+<lb ed="X" n="0119c08"/>去時被二使者追赴地獄偶見一僧自稱是地獄即
+<lb ed="X" n="0119c09"/>令誦若人欲了知四句偈王急誦持聲所至處一切
+<lb ed="X" n="0119c10"/>罪人悉皆脫去王既蘇即發願終身誦之復向道俗
+<lb ed="X" n="0119c11"/>說此事以勸持誦時有一僧為撿經方知是華嚴偈
+<lb ed="X" n="0119c12"/>也。</p></div1>
+<lb ed="X" n="0119c13"/><div1 type="other"><mulu type="其他" level="1" label="誦破地獄＆CB00057；感驗"/><head>誦破地獄&CB00057;感驗</head>
+<lb ed="X" n="0119c14"/><p id="pX57p0119c1401">昔峽石有一朝士姓徐氏<note place="inline">失名</note>徐氏長婦因病忽亡乃
+<lb ed="X" n="0119c15"/>見一人身著王者之服形貌雄偉婦稽首拜問為誰
+<lb ed="X" n="0119c16"/>王答曰吾是冥官緣汝家中大小每誦破地獄&CB00057;使
+<lb ed="X" n="0119c17"/>冥中一切罪人皆得解脫汝有是功我特來報謝婦
+<lb ed="X" n="0119c18"/>驚曰妾是凡賤豈當王者之至報謝王曰汝雖凡人
+<lb ed="X" n="0119c19"/>佗日舉家必生天是故吾之為報若是汝今<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>後當
+<lb ed="X" n="0119c20"/>勿忘其&CB00057;也&CB00057;曰。</p>
+<lb ed="X" n="0119c21"/><p id="pX57p0119c2101" type="dharani">唵佉羅帝耶薩訶</p></div1>
+<lb ed="X" n="0119c22"/>
+<lb ed="X" n="0119c23"/><juan fun="close" n="1"><jhead>施食通覽<note place="inline">終</note></jhead></juan>
+<lb ed="X" n="0119c24"/>
+<pb ed="X" id="X57.0961.0120a" n="0120a"/>
+<lb ed="X" n="0120a01"/>
+<lb ed="X" n="0120a02"/>
+<lb ed="X" n="0120a03"/>
+<lb ed="X" n="0120a04"/>
+<lb ed="X" n="0120a05"/>
+<lb ed="X" n="0120a06"/>
+<lb ed="X" n="0120a07"/><div1 type="w"><mulu type="附文" level="1" label="附錄"/><head>附錄</head>
+<lb ed="X" n="0120a08"/><p id="pX57p0120a0801">瑜伽集要焰口施食儀云面向東立瀉於壇前或淨
+<lb ed="X" n="0120a09"/>地上或於石上或新淨瓦盆亦名于蘭盆生臺亦得
+<lb ed="X" n="0120a10"/>或泉池江海長流水中不得瀉於石榴桃樹之下鬼
+<lb ed="X" n="0120a11"/>神懼怕不得食之。</p>
+<lb ed="X" n="0120a12"/><p id="pX57p0120a1201">行事鈔云明出眾生食或在食前唱等得<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>出之或
+<lb ed="X" n="0120a13"/>在食後經論無文隨情安置涅槃因曠野鬼為受不
+<lb ed="X" n="0120a14"/>殺戒<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>告鬼言我今當&CB00330;聲聞弟子隨有佛法處悉
+<lb ed="X" n="0120a15"/>施汝食若有住處不能施者即是天魔徒黨非我弟
+<lb ed="X" n="0120a16"/>子四分僧伽藍中立鬼神廟屋傳云中國僧寺設鬼
+<lb ed="X" n="0120a17"/>廟伽藍神廟賓頭盧廟每至二食皆僧家送三處食
+<lb ed="X" n="0120a18"/>餘比丘不出愛道尼經令出如指甲大今有為亡人
+<lb ed="X" n="0120a19"/>設食者依中含云若死人布施祭祀者若生入處餓
+<lb ed="X" n="0120a20"/>鬼中者得餘處不得由各有活命食故雜含中廣明
+<lb ed="X" n="0120a21"/>此事若親族不生入處中者但施心施其自得功德
+<lb ed="X" n="0120a22"/>云云。</p>
+<lb ed="X" n="0120a23"/><p id="pX57p0120a2301">佛祖統紀云出生飯此有二緣一者涅槃經令施曠
+<lb ed="X" n="0120a24"/>野鬼毗奈那律令施鬼子母等此曹本食肉啖人佛
+<pb ed="X" id="X57.0961.0120b" n="0120b"/>
+<lb ed="X" n="0120b01"/>化之受戒不殺乃囑弟子隨處施食今齋堂各各出
+<lb ed="X" n="0120b02"/>眾生食是也此唯出家人行之二者&CB08504;口經託阿難
+<lb ed="X" n="0120b03"/>為緣令施餓鬼食今齋堂別具小斛於食畢眾作法
+<lb ed="X" n="0120b04"/>施之或各具小生斛夜間&CB00057;施此通道<note n="0120001" resp="Xuzangjing" place="foot text" type="orig">族疑俗</note>族行之。</p>
+<lb ed="X" n="0120b05"/><p id="pX57p0120b0501">又云六道斛淨名經云以一食施一切<note place="inline">言一切則全收六道</note>供
+<lb ed="X" n="0120b06"/>養諸佛及眾賢聖然後可食南岳隨自意三昧云凡
+<lb ed="X" n="0120b07"/>得食應云此食色香味上供十方佛中奉諸聖賢下
+<lb ed="X" n="0120b08"/>及六道品等施無差<note place="inline">楚宜反不齊也</note>別天台觀心食法鳴鐘
+<lb ed="X" n="0120b09"/>後斂手供養一體三寶次出生飯稱施六道此皆等
+<lb ed="X" n="0120b10"/>供十界即是今人施六道修水陸供之明證也　述
+<lb ed="X" n="0120b11"/>曰玅樂云世人設六道者是梁武見江東多淫祀<note place="inline">殺生
+<lb ed="X" n="0120b12"/>命祭邪鬼</note>乃以相似佛法權宜替之此&CB00582;荊谿一往以祭
+<lb ed="X" n="0120b13"/>祀惡法對佛法論之將以止天下之殺故未論十界
+<lb ed="X" n="0120b14"/>等供之義&CB08504;口經令供養三寶即是四聖供婆羅門
+<lb ed="X" n="0120b15"/>仙即是人道供&CB08504;口眾即是鬼道餘四道雖不備&CB00582;
+<lb ed="X" n="0120b16"/>是當時赴機未普故經文隱略耳若大乘行人圓觀
+<lb ed="X" n="0120b17"/>法界則當依淨名經中義若慈雲謂鬼道得食餘五
+<lb ed="X" n="0120b18"/>道不得者此等意亦是用婆娑論云若因祭祀唯鬼
+<lb ed="X" n="0120b19"/>神得之餘趣不可盡得此是約人世祭祀言之耳若
+<lb ed="X" n="0120b20"/>依出世法用平等心修無礙供則當仰觀淨名南岳
+<lb ed="X" n="0120b21"/>天台三處之文則理無不在今有營小斛曰散灑者
+<lb ed="X" n="0120b22"/>或一巨斛者或至四十九斛者皆所以等供六道群
+<lb ed="X" n="0120b23"/>品也可不信哉。</p>
+<lb ed="X" n="0120b24"/><p id="pX57p0120b2401" rend="margin-left:1em"><note place="inline">右數節文考閱之次錄附于此更有施食念誦祕軌若欲修者須從師受凡諸真言神&CB00057;亦未經師受而
+<pb ed="X" id="X57.0961.0120c" n="0120c"/>
+<lb ed="X" n="0120c01"/>誦則越諸佛三昧耶可慎也夫</note>。</p></div1>
+<lb ed="X" n="0120c02"/>
+<lb ed="X" n="0120c03"/>
+<lb ed="X" n="0120c04"/>
+<lb ed="X" n="0120c05"/>
+<lb ed="X" n="0120c06"/>
+<lb ed="X" n="0120c07"/><div1 type="xu"><mulu type="序" level="1" label="No. 961-C ＆CB02494；"/><head>No. 961-C
+<lb ed="X" n="0120c08"/> &CB02494;</head>
+<lb ed="X" n="0120c09"/>
+<lb ed="X" n="0120c10"/><p id="pX57p0120c1001">釋門施食難思之法也以&CB00057;持二七之數而謂能格
+<lb ed="X" n="0120c11"/>六道四生之類以升合一器之微而謂能變四斛九
+<lb ed="X" n="0120c12"/>斗之量以焦腹巨口之飢而謂能致甘美實腹之飽
+<lb ed="X" n="0120c13"/>豈非難思之法耶難思如是而不示之以所可信行
+<lb ed="X" n="0120c14"/>則其信愈難矣。</p>
+<lb ed="X" n="0120c15"/><p id="pX57p0120c1501">四明曉公廣披經教審知施食一法利濟尤多竊恐
+<lb ed="X" n="0120c16"/>人多不知所自雖昭&CB00473;典籍非會成一家則將泛然
+<lb ed="X" n="0120c17"/>難考於是備錄以為施食通&CB15095;遠從
+<lb ed="C X" n="0120c18"/>佛口親宣近自諸師輔贊以至加持響驗靡所不載
+<lb ed="X" n="0120c19"/>一日&CB00234;以見示師文沐手齋心讀之得未&CB00573;見因念
+<lb ed="X" n="0120c20"/>向之所信者今愈加信矣而人或未信者豈可無以
+<lb ed="X" n="0120c21"/>開其深信耶遂捨家資普為有情命工刊行俾今見
+<lb ed="X" n="0120c22"/>行者知所因依轉加精進其未&CB00573;見者開發信心奉
+<lb ed="X" n="0120c23"/>行勇猛庶幾自此人人樂於施食則三途八難飢火
+<lb ed="X" n="0120c24"/>悉滅乘
+<pb ed="X" id="X57.0961.0121a" n="0121a"/>
+<lb ed="C X" n="0121a01"/>佛願力勝處託生其利豈不博哉。</p><p id="pX57p0121a0114" place="inline">開禧改元乙丑歲
+<lb ed="X" n="0121a02"/>旦開封止菴林師文謹跋</p></div1>
+</body></text></TEI.2>

@@ -1,0 +1,3018 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X78n1550.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1550 淨土聖賢錄續編</title>
+			<author>清 胡&CB02928;述</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.13 $ (Big5)<date>$Date: 2009/04/22 09:05:38 $</date></edition>
+	</editionStmt>
+	<extent>4卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:05:38 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 78, No. 1550 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2004/12/10 14:42:50</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X78n1550.xml,v $
+Revision 1.13  2009/04/22 09:05:38  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.12  2008/12/04 08:40:03  amtbgrace
+modified: 序文 的 type xml 標記修訂。
+
+Revision 1.11  2008/07/29 07:19:44  amtbgrace
+modified:[通用字] 經文修訂 [[冠-寸+文]>[冠-寸+ㄆ]]
+
+Revision 1.10  2007/09/12 05:55:56  amtbgrace
+modified: 校注插入 XML 作業完成
+
+Revision 1.9  2007/01/03 04:09:41  eva
+modified: [經文修訂] [[療-(日/小)+土]>瘞]
+
+Revision 1.8  2006/12/14 06:37:44  eva
+modified: [經文修訂]  [屇>屆]
+
+Revision 1.7  2005/11/30 06:34:52  amtbgrace
+modified: 執行全部 mulu.py, 取消自訂目錄的全形括號
+
+Revision 1.6  2005/03/24 06:53:57  eva
+modified: 將 &M034294; &M005505;  &M026945; 取代為 Big5 系統字(裏 墻 粧)
+
+Revision 1.5  2005/01/07 10:52:20  eva
+modified: 將 M010527 取代為 Big5 系統字 恒
+
+Revision 1.4  2005/01/05 08:00:34  eva
+modified: mulu 檢查修訂
+
+Revision 1.3  2005/01/04 11:46:57  eva
+modified: 依 X78 note.txt 作修訂
+
+Revision 1.2  2005/01/04 06:33:48  eva
+modified: 修改 list item 裡的 note 及空格
+
+Revision 1.1  2004/12/21 06:27:12  ray
+由 basicx 程式轉自 簡單標記版
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X78.1550.0316a" n="0316a"/>
+<lb ed="X" n="0316a01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0316a02"/>
+<lb ed="X" n="0316a03"/><div1 type="other"><mulu type="其他" level="1" label="淨土聖賢錄續編發凡"/><head>淨土聖賢錄續編發凡</head>
+<lb ed="X" n="0316a04"/>
+<lb ed="X" n="0316a05"/><list><item id="itemX78p0316a0501"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一</rdg></app>是錄體例。悉準前錄。如出家二眾書一名。在家者
+<lb ed="X" n="0316a06"/>書二名。唯二林居士除本傳外。凡所引證。概以字
+<lb ed="X" n="0316a07"/>稱。尊所主也。以前錄係居士所定故。</item>
+<lb ed="X" n="0316a08"/><item id="itemX78p0316a0801"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一</rdg></app>前錄首標教主。次闡教聖眾。係探本窮源之意。茲
+<lb ed="X" n="0316a09"/>則既稱續編。首二層可以不贅而有明。以前諸書。
+<lb ed="X" n="0316a10"/>前錄引用略備。故茲之分門別類。以比邱居先。紀
+<lb ed="X" n="0316a11"/>月編年。以　國初為始。但敘事之前後。不論品之
+<lb ed="X" n="0316a12"/>高低。唯是所採有限。挂漏必多。願諸君子惠我遺
+<lb ed="X" n="0316a13"/>珠。俟編三錄。</item>
+<lb ed="X" n="0316a14"/><item id="itemX78p0316a1401"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一</rdg></app>染香集諸書。凡臨終正念者。輒從登記。夫往生瑞
+<lb ed="X" n="0316a15"/>應。雖或隱或顯。未可一定。然必徵諸素行。如其願
+<lb ed="X" n="0316a16"/>力未深。功夫未熟。直待臨終念佛。難保決定。回心
+<lb ed="X" n="0316a17"/>錄中。如王貞生施靜巖輩。雖亦十念之誠實有百
+<lb ed="X" n="0316a18"/>倍之勇。必如是者。生西可卜。否則名實不符。恐有
+<lb ed="X" n="0316a19"/>魚目混珠之慮。因略加芟汰。以歸一致。</item>
+<lb ed="X" n="0316a20"/><item id="itemX78p0316a2001"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一</rdg></app>近來載往生者。每經引用。遞有增加。二林居士深
+<lb ed="X" n="0316a21"/>痛其習。故前錄中。每一傳後。皆注原書。以作證明。
+<lb ed="X" n="0316a22"/>茲仍其體例。但稍易其俚鄙之句。間有近今。故事
+<lb ed="X" n="0316a23"/>必出自不妄語人之口。復向故老。咨訪再三。始敢
+<lb ed="X" n="0316a24"/>筆之於書。其或淨行可傳。而臨終無正念者。概弗
+<pb ed="X" id="X78.1550.0316b" n="0316b"/>
+<lb ed="X" n="0316b01"/>濫登。</item>
+<lb ed="X" n="0316b02"/><item id="itemX78p0316b0201"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一</rdg></app>雲棲往生集。傳後間有贊詞。晰其隱義。而前錄但
+<lb ed="X" n="0316b03"/>有總論贊詞。概從簡略。茲則有義不明者。亦用贊
+<lb ed="X" n="0316b04"/>詞發之。非敢妄生知見也。聊以導初機云爾。</item></list></div1>
+<lb ed="X" n="0316b05"/>
+<lb ed="X" n="0316b06"/><div1 type="other"><mulu type="其他" level="1" label="淨土聖賢錄續編偈"/><head>淨土聖賢錄續編偈</head>
+<lb ed="X" n="0316b07"/><byline type="author">淨業弟子　胡珽　述</byline>
+<lb ed="X" n="0316b08"/><lg id="lgX78p0316b0801"><l>我觀真性海</l><l>妙湛本不動</l><l>世出世間法</l>
+<lb ed="X" n="0316b09"/><l>無一不具足</l><l>上齊一切佛</l><l>下同含識類</l>
+<lb ed="X" n="0316b10"/><l>平等絕思議</l><l>離諸分別相</l><l>真俗皆無礙</l>
+<lb ed="X" n="0316b11"/><l>理事悉圓融</l><l>剎那不覺了</l><l>&CB02852;目忽生華</l>
+<lb ed="X" n="0316b12"/><l>無明為繫縛</l><l>障蔽智慧日</l><l>故於一相中</l>
+<lb ed="X" n="0316b13"/><l>妄起淨穢見</l><l>忘本唯逐物</l><l>念念入輪回</l>
+<lb ed="X" n="0316b14"/><l>由是顛倒心</l><l>沈淪難脫離</l><l>隨業而流轉</l>
+<lb ed="X" n="0316b15"/><l>聖凡從此隔</l><l>豈知十方剎</l><l>皆是一心生</l>
+<lb ed="X" n="0316b16"/><l>大覺如&CB00980;空</l><l>世界如浮雲</l><l>聚散本無&CB00528;</l>
+<lb ed="X" n="0316b17"/><l>空生而空滅</l><l>但隨心淨垢</l><l>剎剎各差別</l>
+<lb ed="X" n="0316b18"/><l>業濁現五濁</l><l>眾苦所逼惱</l><l>心淨感淨土</l>
+<lb ed="X" n="0316b19"/><l>七寶為莊嚴</l><l>迷人但執境</l><l>東西自不同</l>
+<lb ed="X" n="0316b20"/><l>譬如夢幻者</l><l>還受夢苦樂</l><l>覺知夢非真</l>
+<lb ed="X" n="0316b21"/><l>苦樂自然滅</l><l>我佛大慈悲</l><l>示此異方便</l>
+<lb ed="X" n="0316b22"/><l>一句阿彌陀</l><l>能截生死流</l><l>不出娑婆界</l>
+<lb ed="X" n="0316b23"/><l>穩坐紫金蓮</l><l>彌陀及心土</l><l>非一亦非二</l>
+<lb ed="X" n="0316b24"/><l>若能如是解</l><l>決定入無生</l><l>我今輯斯錄</l>
+<pb ed="X" id="X78.1550.0316c" n="0316c"/>
+<lb ed="X" n="0316c01"/><l>普勸諸有情</l><l>願見者聞者</l><l>悉發菩提心</l>
+<lb ed="X" n="0316c02"/><l>修諸福善業</l><l>回向無上覺</l><l>仰祈三寶力</l>
+<lb ed="X" n="0316c03"/><l>冥薰而加護</l><l>令我及眾生</l><l>同生極樂國</l></lg></div1>
+<lb ed="X" n="0316c04"/>
+<lb ed="X" n="0316c05"/>
+<lb ed="X" n="0316c06"/>
+<lb ed="X" n="0316c07"/><div1 type="other"><mulu type="其他" level="1" label="淨土聖賢錄續編目次"/><head>淨土聖賢錄續編目次</head>
+<lb ed="X" n="0316c08"/>
+<lb ed="X" n="0316c09"/><list><item id="itemX78p0316c0901">卷一
+<lb ed="X" n="0316c10"/><list><item id="itemX78p0316c1001">往生比邱第一
+<lb ed="X" n="0316c11"/><list><item id="itemX78p0316c1101">性修</item><item id="itemX78p0316c1103">行修</item><item id="itemX78p0316c1105">忍生</item>
+<lb ed="X" n="0316c12"/><item id="itemX78p0316c1201">仁筏</item><item id="itemX78p0316c1203">實&CB16362;</item><item id="itemX78p0316c1205">常智</item>
+<lb ed="X" n="0316c13"/><item id="itemX78p0316c1301">絡絲僧</item><item id="itemX78p0316c1304">廣志</item><item id="itemX78p0316c1306">道證<note place="inline">梅松</note></item>
+<lb ed="X" n="0316c14"/><item id="itemX78p0316c1401">千一</item><item id="itemX78p0316c1403">徹迷</item><item id="itemX78p0316c1405">嵩安</item>
+<lb ed="X" n="0316c15"/><item id="itemX78p0316c1501">邁春</item><item id="itemX78p0316c1503">律淨</item><item id="itemX78p0316c1505">慧明</item>
+<lb ed="X" n="0316c16"/><item id="itemX78p0316c1601">一禪</item><item id="itemX78p0316c1603">際醒</item><item id="itemX78p0316c1605">起信</item>
+<lb ed="X" n="0316c17"/><item id="itemX78p0316c1701">真傳</item><item id="itemX78p0316c1703">達純</item><item id="itemX78p0316c1705">靈徹</item>
+<lb ed="X" n="0316c18"/><item id="itemX78p0316c1801">道守</item><item id="itemX78p0316c1803">列權</item><item id="itemX78p0316c1805">佛度<note place="inline">絕相</note></item>
+<lb ed="X" n="0316c19"/><item id="itemX78p0316c1901">覺源</item><item id="itemX78p0316c1903">正真</item><item id="itemX78p0316c1905">東瓜和尚</item>
+<lb ed="X" n="0316c20"/><item id="itemX78p0316c2001">定基</item><item id="itemX78p0316c2003">悟靈</item><item id="itemX78p0316c2005">圓融</item>
+<lb ed="X" n="0316c21"/><item id="itemX78p0316c2101">悟開</item><item id="itemX78p0316c2103">方海</item><item id="itemX78p0316c2105">昌茂</item></list></item>
+<lb ed="X" n="0316c22"/><item id="itemX78p0316c2201">往生比邱尼第二
+<lb ed="X" n="0316c23"/><list><item id="itemX78p0316c2301">湖上老尼</item><item id="itemX78p0316c2305">本印</item><item id="itemX78p0316c2307">遂欽</item>
+<lb ed="X" n="0316c24"/><item id="itemX78p0316c2401">律宗</item><item id="itemX78p0316c2403">佛琦</item><item id="itemX78p0316c2405">蓮芳</item>
+<pb ed="X" id="X78.1550.0317a" n="0317a"/>
+<lb ed="X" n="0317a01"/><item id="itemX78p0317a0101">朗然</item><item id="itemX78p0317a0103">妙成</item><item id="itemX78p0317a0105">道乾</item>
+<lb ed="X" n="0317a02"/><item id="itemX78p0317a0201">蘭若庵尼</item><item id="itemX78p0317a0205">道悟</item></list></item></list></item>
+<lb ed="X" n="0317a03"/><item id="itemX78p0317a0301">卷二
+<lb ed="X" n="0317a04"/><list><item id="itemX78p0317a0401">往生王臣第三
+<lb ed="X" n="0317a05"/><list><item id="itemX78p0317a0501">張師誠</item><item id="itemX78p0317a0504">章攀桂</item></list></item>
+<lb ed="X" n="0317a06"/><item id="itemX78p0317a0601">往生居士第四之一
+<lb ed="X" n="0317a07"/><list><item id="itemX78p0317a0701">黃武城</item><item id="itemX78p0317a0704">吳如庵</item><item id="itemX78p0317a0707">俞有光</item>
+<lb ed="X" n="0317a08"/><item id="itemX78p0317a0801">蘇起鳳<note place="inline">吳敬山</note></item><item id="itemX78p0317a0807">惲又騑</item><item id="itemX78p0317a0810">王貞生</item>
+<lb ed="X" n="0317a09"/><item id="itemX78p0317a0901">蔡鵬九</item><item id="itemX78p0317a0904">唐漚和</item><item id="itemX78p0317a0907">陳君魁</item>
+<lb ed="X" n="0317a10"/><item id="itemX78p0317a1001">陸士銓</item><item id="itemX78p0317a1004">馬榮祖</item><item id="itemX78p0317a1007">彭希涑<note place="inline">顧氏</note></item>
+<lb ed="X" n="0317a11"/><item id="itemX78p0317a1101">彭紹升</item><item id="itemX78p0317a1104">呂蔚若</item><item id="itemX78p0317a1107">曾庚</item>
+<lb ed="X" n="0317a12"/><item id="itemX78p0317a1201">陸西橋</item><item id="itemX78p0317a1204">淩樹</item><item id="itemX78p0317a1206">沈暢<note place="inline">顧居士</note></item>
+<lb ed="X" n="0317a13"/><item id="itemX78p0317a1301">蔣龜蒙</item><item id="itemX78p0317a1304">曹聖友</item><item id="itemX78p0317a1307">馮庭桂</item>
+<lb ed="X" n="0317a14"/><item id="itemX78p0317a1401">浦文榮</item><item id="itemX78p0317a1404">鄭兆榮</item><item id="itemX78p0317a1407">吳濂</item>
+<lb ed="X" n="0317a15"/><item id="itemX78p0317a1501">沈廷瑜</item><item id="itemX78p0317a1504">施靜巖</item><item id="itemX78p0317a1507">張孝林<note place="inline">驥鍾</note></item>
+<lb ed="X" n="0317a16"/><item id="itemX78p0317a1601">方剛</item><item id="itemX78p0317a1603">潘萬宗</item><item id="itemX78p0317a1606">沈舒華</item>
+<lb ed="X" n="0317a17"/><item id="itemX78p0317a1701">沈虞尊</item><item id="itemX78p0317a1704">馬敬修</item><item id="itemX78p0317a1707">許仁熟</item></list></item></list></item>
+<lb ed="X" n="0317a18"/><item id="itemX78p0317a1801">卷三
+<lb ed="X" n="0317a19"/><list><item id="itemX78p0317a1901">往生居士第四之二
+<lb ed="X" n="0317a20"/><list><item id="itemX78p0317a2001">裴永度</item><item id="itemX78p0317a2004">鍾九思</item><item id="itemX78p0317a2007">周光</item>
+<lb ed="X" n="0317a21"/><item id="itemX78p0317a2101">路坤</item><item id="itemX78p0317a2103">吳允升</item><item id="itemX78p0317a2106">范元禮</item>
+<lb ed="X" n="0317a22"/><item id="itemX78p0317a2201">孫復元</item><item id="itemX78p0317a2204">張清新</item><item id="itemX78p0317a2207">丁繁桂</item>
+<lb ed="X" n="0317a23"/><item id="itemX78p0317a2301">李勤<note place="inline">杏姑</note></item><item id="itemX78p0317a2305">張惇五</item><item id="itemX78p0317a2308">曹諧和</item>
+<lb ed="X" n="0317a24"/><item id="itemX78p0317a2401">潘遵懋</item><item id="itemX78p0317a2404">宋萊</item><item id="itemX78p0317a2406">周慶孫</item>
+<pb ed="X" id="X78.1550.0317b" n="0317b"/>
+<lb ed="X" n="0317b01"/><item id="itemX78p0317b0101">陳居士</item><item id="itemX78p0317b0104">余&CB15131;賢</item><item id="itemX78p0317b0107">吳宗魏</item>
+<lb ed="X" n="0317b02"/><item id="itemX78p0317b0201">張齒延</item><item id="itemX78p0317b0204">金庭棟</item><item id="itemX78p0317b0207">徐僖<note place="inline">嚴氏</note></item>
+<lb ed="X" n="0317b03"/><item id="itemX78p0317b0301">錢萬鎰</item><item id="itemX78p0317b0304">華漢槎</item><item id="itemX78p0317b0307">方步瀛</item>
+<lb ed="X" n="0317b04"/><item id="itemX78p0317b0401">朱麟書</item><item id="itemX78p0317b0404">陳鍠<note place="inline">薛紹基</note></item><item id="itemX78p0317b0409">郭觀光</item></list></item>
+<lb ed="X" n="0317b05"/><item id="itemX78p0317b0501">往生雜流第五
+<lb ed="X" n="0317b06"/><list><item id="itemX78p0317b0601">吳生</item><item id="itemX78p0317b0603">沈承先</item><item id="itemX78p0317b0606">周絢堂</item>
+<lb ed="X" n="0317b07"/><item id="itemX78p0317b0701">姚生</item><item id="itemX78p0317b0703">宋寶官</item><item id="itemX78p0317b0706">陳德心</item>
+<lb ed="X" n="0317b08"/><item id="itemX78p0317b0801">東門&CB00456;者</item><item id="itemX78p0317b0805">癡頭道士</item><item id="itemX78p0317b0809">周耀發</item>
+<lb ed="X" n="0317b09"/><item id="itemX78p0317b0901">瞿晉槐</item><item id="itemX78p0317b0904">孫松亭</item><item id="itemX78p0317b0907">陳畫叟</item>
+<lb ed="X" n="0317b10"/><item id="itemX78p0317b1001">丁童子</item></list></item></list></item>
+<lb ed="X" n="0317b11"/><item id="itemX78p0317b1101">卷四
+<lb ed="X" n="0317b12"/><list><item id="itemX78p0317b1201">往生女人第六
+<lb ed="X" n="0317b13"/><list><item id="itemX78p0317b1301">田婆</item><item id="itemX78p0317b1303">蔣氏</item><item id="itemX78p0317b1305">黃氏女</item>
+<lb ed="X" n="0317b14"/><item id="itemX78p0317b1401">王荊石女</item><item id="itemX78p0317b1405">陸氏</item><item id="itemX78p0317b1407">徐氏</item>
+<lb ed="X" n="0317b15"/><item id="itemX78p0317b1501">兵家婦</item><item id="itemX78p0317b1504">曹媼<note place="inline">許氏母</note></item><item id="itemX78p0317b1509">陶氏</item>
+<lb ed="X" n="0317b16"/><item id="itemX78p0317b1601">汪氏</item><item id="itemX78p0317b1603">費孺人</item><item id="itemX78p0317b1606">許節婦</item>
+<lb ed="X" n="0317b17"/><item id="itemX78p0317b1701">宋孺人</item><item id="itemX78p0317b1704">鄭氏</item><item id="itemX78p0317b1706">百不管老媼</item>
+<lb ed="X" n="0317b18"/><item id="itemX78p0317b1801">陸氏</item><item id="itemX78p0317b1803">吳氏</item><item id="itemX78p0317b1805">沈媼</item>
+<lb ed="X" n="0317b19"/><item id="itemX78p0317b1901">姚氏</item><item id="itemX78p0317b1903">汪氏</item><item id="itemX78p0317b1905">王氏</item>
+<lb ed="X" n="0317b20"/><item id="itemX78p0317b2001">吳媼</item><item id="itemX78p0317b2003">倪嫗</item><item id="itemX78p0317b2005">潘氏</item>
+<lb ed="X" n="0317b21"/><item id="itemX78p0317b2101">汝氏</item><item id="itemX78p0317b2103">祁氏</item><item id="itemX78p0317b2105">王氏<note place="inline">張氏　陳氏</note></item>
+<lb ed="X" n="0317b22"/><item id="itemX78p0317b2201">潘氏</item><item id="itemX78p0317b2203">朱氏</item><item id="itemX78p0317b2205">朱氏</item>
+<lb ed="X" n="0317b23"/><item id="itemX78p0317b2301">羅氏</item><item id="itemX78p0317b2303">王氏女</item><item id="itemX78p0317b2306">邵媼</item>
+<lb ed="X" n="0317b24"/><item id="itemX78p0317b2401">張家婦</item><item id="itemX78p0317b2404">俞媼</item><item id="itemX78p0317b2406">吳婆</item>
+<pb ed="X" id="X78.1550.0317c" n="0317c"/>
+<lb ed="X" n="0317c01"/><item id="itemX78p0317c0101">錢孺人</item><item id="itemX78p0317c0104">沈婆</item><item id="itemX78p0317c0106">陸安人</item></list></item>
+<lb ed="X" n="0317c02"/><item id="itemX78p0317c0201">往生物類第七
+<lb ed="X" n="0317c03"/><list><item id="itemX78p0317c0301">雞<note place="inline">蛇　貓　猴　雀　豬</note></item></list></item>
+<lb ed="X" n="0317c04"/><item id="itemX78p0317c0401">種蓮集第八
+<lb ed="X" n="0317c05"/><list><item id="itemX78p0317c0501">善隆</item><item id="itemX78p0317c0503">達禪</item><item id="itemX78p0317c0505">王君榮</item>
+<lb ed="X" n="0317c06"/><item id="itemX78p0317c0601">唐景垣</item><item id="itemX78p0317c0604">沈載元</item><item id="itemX78p0317c0607">王際良</item>
+<lb ed="X" n="0317c07"/><item id="itemX78p0317c0701">夏耀文</item><item id="itemX78p0317c0704">曹居士</item><item id="itemX78p0317c0707">邵媼</item>
+<lb ed="X" n="0317c08"/><item id="itemX78p0317c0801">張氏</item><item id="itemX78p0317c0803">丁氏</item><item id="itemX78p0317c0805">高士橫</item>
+<lb ed="X" n="0317c09"/><item id="itemX78p0317c0901">丁世濟</item><item id="itemX78p0317c0904">陸孺人</item><item id="itemX78p0317c0907">邱逢泰</item>
+<lb ed="X" n="0317c10"/><item id="itemX78p0317c1001">錢氏</item><item id="itemX78p0317c1003">錢文彬</item><item id="itemX78p0317c1006">錢文燦</item></list></item></list></item></list>
+<lb ed="X" n="0317c11"/>
+<lb ed="X" n="0317c12"/><p id="pX78p0317c1201">淨土聖賢錄續編目次<note place="inline">終</note></p></div1>
+<lb ed="X" n="0317c13"/>
+<lb ed="X" n="0317c14"/>
+<lb ed="X" n="0317c15"/>
+<lb ed="X" n="0317c16"/>
+<lb ed="X" n="0317c17"/><head type="no">No. 1550</head>
+<lb ed="X" n="0317c18"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>淨土聖賢錄續編卷一</jhead></juan>
+<lb ed="X" n="0317c19"/>
+<lb ed="X" n="0317c20"/><div1 type="other"><mulu type="其他" level="1" label="往生比邱第一"/><head>往生比邱第一</head>
+<lb ed="X" n="0317c21"/><div2 type="other"><mulu type="其他" level="2" label="性修"/><head>性修</head>
+<lb ed="X" n="0317c22"/><p id="pX78p0317c2201">性修。不詳其所出。　大清順治中。住常德府圓照庵。
+<lb ed="X" n="0317c23"/>布衣蔬食。日課彌陀萬聲。寒暑不閒。遇歉年。將所有
+<lb ed="X" n="0317c24"/>錢米布帛。盡施飢寒孤苦之人。徒眾交責。修唯含淚
+<pb ed="X" id="X78.1550.0318a" n="0318a"/>
+<lb ed="X" n="0318a01"/>念佛而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。年七十。一月前。自知時至。屆期。含笑坐逝。
+<lb ed="X" n="0318a02"/>天樂迎空。聞於遠近。室內異香。經月不散<note place="inline">身世金丹</note>
+<lb ed="X" n="0318a03"/>西史氏曰。不惜布施。則貪業盡。含淚念佛。則瞋業盡。
+<lb ed="X" n="0318a04"/>自奉儉約。則癡業盡。三業盡。而往生品位必高。異香
+<lb ed="X" n="0318a05"/>天樂。非其梵行芬芳。心聲嘹亮之所致乎。</p></div2>
+<lb ed="X" n="0318a06"/><div2 type="other"><mulu type="其他" level="2" label="行修"/><head>行修</head>
+<lb ed="X" n="0318a07"/><p id="pX78p0318a0701">行修。姓陳。泰州沙村人。業農。不識一丁。無以自活。一
+<lb ed="X" n="0318a08"/>日赴水求死。有白衣人救之出。年三十一。出家為僧。
+<lb ed="X" n="0318a09"/>冬夏一衲。苦行數年。朝普陀山。中道路絕。遇老人引
+<lb ed="X" n="0318a10"/>至家止宿。迨天明。見荒墟而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。歸後。龕坐南關外荒
+<lb ed="X" n="0318a11"/>冢中。嘗五七日不食。參向上事。一日夜深有擊龕者。
+<lb ed="X" n="0318a12"/>曰。若可受法。修隔龕見橋下有大船。燈火鼓吹過。遂
+<lb ed="X" n="0318a13"/>大悟。後移住覺印寺。精修淨業者六年。康&CB00696;四年春。
+<lb ed="X" n="0318a14"/>謂人曰。明年六月二日。吾行矣。次年初夏。皆來問訊。
+<lb ed="X" n="0318a15"/>州主恐其惑眾。遣兵守之。曰。至期不驗。必置諸法。六
+<lb ed="X" n="0318a16"/>月朔猶無恙。人為危慄。明日晨起。書偈曰。慧日中天
+<lb ed="X" n="0318a17"/>照大千。晝行禮拜夜參禪。眉間斜挂吹毛劍。地獄天
+<lb ed="X" n="0318a18"/>堂任我前。遂端坐龕中。命人舁至一橋。曰。不可。此地
+<lb ed="X" n="0318a19"/>人皆畜形也。舁至東壩橋。曰。為我南向。手一魚念佛。
+<lb ed="X" n="0318a20"/>輕煙一縷。起自鼻端。須臾火熾。魚聲佛聲。琅琅達雲
+<lb ed="X" n="0318a21"/>表。忽聞龕內訇然。龕頂飛墮百步。火餘。遺一物。狀如
+<lb ed="X" n="0318a22"/>蓮華。堅白不碎<note place="inline">揚州府志蓮藏○揚州府志載修十一月朔圓寂與蓮藏互異</note>
+<lb ed="X" n="0318a23"/>西史氏曰。出火焚身。非扭&CB02852;裝飾之謂也。著魔辦道
+<lb ed="X" n="0318a24"/>者審之。</p></div2>
+<pb ed="X" id="X78.1550.0318b" n="0318b"/>
+<lb ed="X" n="0318b01"/><div2 type="other"><mulu type="其他" level="2" label="忍生"/><head>忍生</head>
+<lb ed="X" n="0318b02"/><p id="pX78p0318b0201">忍生。姓李。山西平陽府。世家子也。自幼厭俗。年四十
+<lb ed="X" n="0318b03"/>四。出家參禪。深有悟入。崇念佛法門。行&CB00560;至泰州。遇
+<lb ed="X" n="0318b04"/>下河楊居士。建庵供養。即閉關清修淨業。化導各莊
+<lb ed="X" n="0318b05"/>善信。後因下河被水。又至本州勸化。家家念佛。康&CB00696;
+<lb ed="X" n="0318b06"/>八年正月初。預知時至。<note n="0318001" resp="Xuzangjing" place="foot text" type="orig">偏疑&CB00642;</note>偏辭檀越。十九日。沐浴更衣。
+<lb ed="X" n="0318b07"/>屬大眾念佛緊要。遂趺坐逝。異香滿室中。至二十六
+<lb ed="X" n="0318b08"/>日。舉龕野外。出火自焚<note place="inline">蓮藏</note>。</p></div2>
+<lb ed="X" n="0318b09"/><div2 type="other"><mulu type="其他" level="2" label="仁筏"/><head>仁筏</head>
+<lb ed="X" n="0318b10"/><p id="pX78p0318b1001">仁筏。姓裴。常州北郭人。父母早逝。家業彫零。為人傭
+<lb ed="X" n="0318b11"/>作。年三十餘。聞淨土法門。遂發心出家。募刊淨土經
+<lb ed="X" n="0318b12"/>書。廣施四眾。後受華山具足戒。習禪定。每夜必坐香
+<lb ed="X" n="0318b13"/>數炷。康&CB00696;十九年七月。忽示疾。二十一日。訣別諸友。
+<lb ed="X" n="0318b14"/>次夕五鼓。謂其徒曰。吾行矣。乃整衣趺坐。有僧在旁。
+<lb ed="X" n="0318b15"/>&CB00501;誦佛號。筏曰。佛須朗念。乃高稱佛號。一聲而化<note place="inline">蓮藏</note>。</p></div2>
+<lb ed="X" n="0318b16"/><div2 type="other"><mulu type="其他" level="2" label="實＆CB16362；"/><head>實&CB16362;</head>
+<lb ed="X" n="0318b17"/><p id="pX78p0318b1701">實&CB16362;。字珍輝。姓陳。鳳陽府霍邱縣人。誕生時。祥光燭
+<lb ed="X" n="0318b18"/>鄰。異香滿室。幼有奇相。膚不受垢。性慈恕。喜聞僧誦
+<lb ed="X" n="0318b19"/>經。塾師授學。過目如流。師甚愛之。謂其父母曰。此子
+<lb ed="X" n="0318b20"/>實非塵俗之流。乃佛門法器。勿相錯誤也。父母許之。
+<lb ed="X" n="0318b21"/>遂送本邑大悲庵。從心開和尚。祝髮旋受具戒。研究
+<lb ed="X" n="0318b22"/>華嚴涅槃諸大部。宛如宿習者。後移住龍潭下院。一
+<lb ed="X" n="0318b23"/>意修持淨業。歷三十年如一日。康&CB00696;六十一年春。示
+<lb ed="X" n="0318b24"/>微疾。自知緣盡。屬付院事畢。唯注念淨域。至三月四
+<pb ed="X" id="X78.1550.0318c" n="0318c"/>
+<lb ed="X" n="0318c01"/>日早。命具湯洗浴。集眾同稱佛號數百聲。奄然而化。
+<lb ed="X" n="0318c02"/>闍維時。火光如五色雲霞。散布四山。世壽四十八。僧
+<lb ed="X" n="0318c03"/>臘三十一<note place="inline">南山宗統</note>。</p></div2>
+<lb ed="X" n="0318c04"/><div2 type="other"><mulu type="其他" level="2" label="常智"/><head>常智</head>
+<lb ed="X" n="0318c05"/><p id="pX78p0318c0501">常智。字聞慧。淮安沐陽人。幼喜禮觀音大士。既長披
+<lb ed="X" n="0318c06"/>緇。投聞思寺稟具。一日隨眾課誦。至心經之無&CB15145;礙
+<lb ed="X" n="0318c07"/>句。&CB05577;中凝結。一時渙然。遂渡江。&CB00642;遊名剎。參諸知識。
+<lb ed="X" n="0318c08"/>久之無所契。歸而專修淨業。精嚴戒行。凡人有過。必
+<lb ed="X" n="0318c09"/>循循化誘。有不遜者。亦必委婉遣之。終無慍色。又與
+<lb ed="X" n="0318c10"/>諸同志。結社修懺。數月前。即知寂期。告諸同社。至期
+<lb ed="X" n="0318c11"/>集眾禮佛。命湯沐浴。跏趺而逝。闍維。有紫色蓮華。大
+<lb ed="X" n="0318c12"/>如斗。自火光中湧出。上有重光。影影如智狀。久之方
+<lb ed="X" n="0318c13"/>散。人皆見之<note place="inline">南山宗統</note>
+<lb ed="X" n="0318c14"/>西史氏曰。明師無逾彌陀。善友誰如補處。昔人嘗言
+<lb ed="X" n="0318c15"/>之矣。顧後世沙門。輕視淨土。往往指為著相菩提。藉
+<lb ed="X" n="0318c16"/>非宿具慧眼。洞明大道者。鮮不為其所搖惑。聞慧&CB00642;
+<lb ed="X" n="0318c17"/>參不契。其庶幾乎。</p></div2>
+<lb ed="X" n="0318c18"/><div2 type="other"><mulu type="其他" level="2" label="絡絲僧"/><head>絡絲僧</head>
+<lb ed="X" n="0318c19"/><p id="pX78p0318c1901">絡絲僧。不知何許人也。住杭城之東園。俗以絡絲為
+<lb ed="X" n="0318c20"/>業。棄而出家。故名。獨居破庵。晝夜念佛不輟。顧無以
+<lb ed="X" n="0318c21"/>自活。謂其舊主曰。但飯我。仍為主絡絲可乎。主從之。
+<lb ed="X" n="0318c22"/>既得食。則手軋軋。口喃喃。他無所事矣。如是數年。一
+<lb ed="X" n="0318c23"/>日&CB06078;零紙滿筐。向西泠居士。吳樹&CB00980;欲易百錢。詰其
+<lb ed="X" n="0318c24"/>故。僧徐答曰。老居士前不敢隱。我今日西歸。擬市柴
+<pb ed="X" id="X78.1550.0319a" n="0319a"/>
+<lb ed="X" n="0319a01"/>一擔耳。樹&CB00980;曰。果爾。余供師柴。僧合掌謝。擔柴歸。並
+<lb ed="X" n="0319a02"/>期某時一臨。為作證明。樹&CB00980;至時往。則僧<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>積柴為
+<lb ed="X" n="0319a03"/>座。趺坐其上。四面火然。僧於火中。舉手作別。忽以手
+<lb ed="X" n="0319a04"/>抹面一過。頓現黃金色。頃刻化盡。樹&CB00980;喟然歎曰。古
+<lb ed="X" n="0319a05"/>德奇縱。再見於今日矣<note place="inline">染香集</note>
+<lb ed="X" n="0319a06"/>西史氏曰。疊薪自燼。與行修之鼻端出火。類而不類。
+<lb ed="X" n="0319a07"/>雖然安知其所焚者。非三昧火乎。</p></div2>
+<lb ed="X" n="0319a08"/><div2 type="other"><mulu type="其他" level="2" label="廣志"/><head>廣志</head>
+<lb ed="X" n="0319a09"/><p id="pX78p0319a0901">廣志。字爾立。會稽人。出家後。結茅天台黃金洞。專修
+<lb ed="X" n="0319a10"/>淨業。蘇州殷天成。詣天台飯僧。服其道行。延住吳山
+<lb ed="X" n="0319a11"/>接引庵。垂三十餘年。隨機化導。指歸淨土。從受戒者。
+<lb ed="X" n="0319a12"/>累百人。嘗結期念佛。晝夜不絕聲。其弟子造之。見志
+<lb ed="X" n="0319a13"/>經行之地。大書阿彌陀佛。放金色光。訝之以問志。志
+<lb ed="X" n="0319a14"/>曰。汝自本光發現耳。乾隆二十六年。四月望。要弟子
+<lb ed="X" n="0319a15"/>四人。詣庵供佛。臨別謂曰。明日午前。當來送我。及期。
+<lb ed="X" n="0319a16"/>眾至焚香。誦佛千聲。端坐而逝<note place="inline">西方公據集驗</note>。</p></div2>
+<lb ed="X" n="0319a17"/><div2 type="other"><mulu type="其他" level="2" label="道證"/><head>道證</head>
+<lb ed="X" n="0319a18"/><p id="pX78p0319a1801">道證。杭州人。住郡東大椿禪院。性誠實。專修淨土。每
+<lb ed="X" n="0319a19"/>日三時。炷香為度。長跪佛前。虔持名號。年八十。一日
+<lb ed="X" n="0319a20"/>謂眾曰。來年二月十二日。我西歸矣。及期無恙。或戲
+<lb ed="X" n="0319a21"/>之曰。今日是二月十二矣。師何不西歸。證驚曰。今果
+<lb ed="X" n="0319a22"/>華朝耶。即沐浴焚香。集眾而化。</p><p id="pX78p0319a2213" place="inline">有僧梅松者。與證同
+<lb ed="X" n="0319a23"/>修淨土。住妙嚴寺。其夜夢中。有人告曰。道證師坐化。
+<lb ed="X" n="0319a24"/>爾何不一送耶。梅松覺而趨視之。撫其背曰。平日相
+<pb ed="X" id="X78.1550.0319b" n="0319b"/>
+<lb ed="X" n="0319b01"/>知。臨去何無消息。雖然。我亦不久於世矣。歸三日。亦
+<lb ed="X" n="0319b02"/>坐化。事在乾隆三十年<note place="inline">染香集</note>
+<lb ed="X" n="0319b03"/>西史氏曰。至期而忘西歸。臨去而無消息。&CB00582;無心於
+<lb ed="X" n="0319b04"/>生死也。梅松隨步後塵。豈非有宿願而然哉。</p></div2>
+<lb ed="X" n="0319b05"/><div2 type="other"><mulu type="其他" level="2" label="千一"/><head>千一</head>
+<lb ed="X" n="0319b06"/><p id="pX78p0319b0601">千一。字遠人。姓王。海甯人。住西湖昭慶寺。謹持戒律。
+<lb ed="X" n="0319b07"/>精勤念佛。志樂寂靜。顏其居曰。廬山僻處。潛修其中。
+<lb ed="X" n="0319b08"/>乾隆四十三年秋。法侶過訪。一謂曰。公來恰好。正我
+<lb ed="X" n="0319b09"/>西歸。可作證明也。說偈坐化。塔於院左<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0319b10"/><div2 type="other"><mulu type="其他" level="2" label="徹迷"/><head>徹迷</head>
+<lb ed="X" n="0319b11"/><p id="pX78p0319b1101">徹迷。姓鍾。嘉興人。為人撲實。中年投海甯護國院。定
+<lb ed="X" n="0319b12"/>高和尚薙染。一心淨業。後移住延恩寺。出入持珠。默
+<lb ed="X" n="0319b13"/>觀。餘無所長。人多忽之。一日謂寮眾曰。我將辭別諸
+<lb ed="X" n="0319b14"/>公。眾問何往。曰。往西方。眾共笑之。後數日。從外歸。又
+<lb ed="X" n="0319b15"/>謂曰。今日決意去矣。頃之。更衣趺坐。大聲云。我去也。
+<lb ed="X" n="0319b16"/>遂寂然。眾呼之逝矣。時在乾隆五十六年<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0319b17"/><div2 type="other"><mulu type="其他" level="2" label="嵩安"/><head>嵩安</head>
+<lb ed="X" n="0319b18"/><p id="pX78p0319b1801">嵩安。不詳其所出。住舒邑白衣庵。性椎魯。秉戒於慈
+<lb ed="X" n="0319b19"/>濟履實和尚。信根宿具。荎村道人。教誦法華經。頗有
+<lb ed="X" n="0319b20"/>悟入。後銳志念佛。晝夜不輟。晚年得腹鼓疾。自知定
+<lb ed="X" n="0319b21"/>業。恬不介意。念佛如常時。疾垂革。徒眾往視。安止之。
+<lb ed="X" n="0319b22"/>乃屈指曰。當於某日來候。及期。沐浴更衣。誡徒輩勿
+<lb ed="X" n="0319b23"/>哭泣。須高聲念佛。助我往生。頃之。怡然而逝<note place="inline">蓮宗集要</note>。</p></div2>
+<lb ed="X" n="0319b24"/><div2 type="other"><mulu type="其他" level="2" label="邁春"/><head>邁春</head>
+<pb ed="X" id="X78.1550.0319c" n="0319c"/>
+<lb ed="X" n="0319c01"/><p id="pX78p0319c0101">邁春。姓周。桐縣人。幼讀書聰慧。好內典。年十九。遊靈
+<lb ed="X" n="0319c02"/>隱寺。登法堂。見心空及第額有省。出家天竺延壽堂。
+<lb ed="X" n="0319c03"/>&CB00642;參名山。入福嚴室。樹蓮和尚。知為法器。一日問曰。
+<lb ed="X" n="0319c04"/>煩惱起時。將何止息。春曰。本性湛然。有何煩惱。蓮深
+<lb ed="X" n="0319c05"/>契之。遂付大法。春雖得法禪宗。而崇尚淨業。既住雲
+<lb ed="X" n="0319c06"/>峰寺。率眾念佛。剋二十一日為期。周而復始。數年不
+<lb ed="X" n="0319c07"/>懈。既復結期百日。晝夜持念。不展&CB00646;褥。嘉慶十二年
+<lb ed="X" n="0319c08"/>冬。沐浴端坐。謂眾曰。頃見鸚鵡念佛法僧。其音微妙。
+<lb ed="X" n="0319c09"/>殊可樂也。合掌而終<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0319c10"/><div2 type="other"><mulu type="其他" level="2" label="律淨"/><head>律淨</head>
+<lb ed="X" n="0319c11"/><p id="pX78p0319c1101">律淨。字明徹。姓錢。湖州德清人。年四十。出家抗之慈
+<lb ed="X" n="0319c12"/>聖庵。嗣往東園德寧庵。以誦法華經為日課。二十年
+<lb ed="X" n="0319c13"/>不閒。一日法侶戒乘。語之曰。汝道心如此堅固。若加
+<lb ed="X" n="0319c14"/>以念佛回向。更佳矣。如智者大師得法華三昧。尚求
+<lb ed="X" n="0319c15"/>往生淨土。汝何不然。因出十疑論示之。淨瞿然有省。
+<lb ed="X" n="0319c16"/>自是誦經畢。即念佛回向。又年餘。嘉慶十一年七月。
+<lb ed="X" n="0319c17"/>告其徒增秀曰。吾中秋前。當往西方。八月二日。復謂
+<lb ed="X" n="0319c18"/>曰。初七日卯時行矣。問何以知之。淨笑曰。水到渠成。
+<lb ed="X" n="0319c19"/>及期往視。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>新衣趺坐。時鄰僧多來念佛相助。淨止
+<lb ed="X" n="0319c20"/>之曰。用功全在平日。臨渴掘井何為。乃移坐龕中。說
+<lb ed="X" n="0319c21"/>偈云。吾年六十九。真實不&CB00980;口。放下者雙手。直往西
+<lb ed="X" n="0319c22"/>方走。合掌而寂<note place="inline">染香集</note>
+<lb ed="X" n="0319c23"/>西史氏曰。前仁筏。繼嵩安。皆令高聲唱佛。明乎助緣
+<lb ed="X" n="0319c24"/>緊要矣。而茲謂臨渴掘井者。正其功臻純熟。勉人精
+<pb ed="X" id="X78.1550.0320a" n="0320a"/>
+<lb ed="X" n="0320a01"/>進耳。三昧未成者。勿以是藉口。</p></div2>
+<lb ed="X" n="0320a02"/><div2 type="other"><mulu type="其他" level="2" label="慧明"/><head>慧明</head>
+<lb ed="X" n="0320a03"/><p id="pX78p0320a0301">慧明。甯波鄞縣人。住杭州報國寺。性質直。唯知念佛。
+<lb ed="X" n="0320a04"/>每執持洪名。聲若潮沸。香盡不知也。得施即放生。隨
+<lb ed="X" n="0320a05"/>放隨稱佛名。必回向西方。見人不作寒暄語。<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>云。死
+<lb ed="X" n="0320a06"/>到哉。快些念佛。越中緇白知其名者。每居病危。即延
+<lb ed="X" n="0320a07"/>之念佛。助往生緣。或叩其所謂。曰。憶昔患熱病日甚。
+<lb ed="X" n="0320a08"/>幾不能支。幸意根中佛號。一句頂一句而出。連&CB00381;不
+<lb ed="X" n="0320a09"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。病魔消&CB00230;。竟仗此而痊。自此以後。無論語默動靜。
+<lb ed="X" n="0320a10"/>皆有一佛號。從意根中一句頂一句而出也。嘉慶十
+<lb ed="X" n="0320a11"/>二年。頸後患疽。絕不呻吟。臨終色和悅。手作捻珠狀。
+<lb ed="X" n="0320a12"/>念佛移時而逝。先是杭城某。夢所識<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>故黃和尚語
+<lb ed="X" n="0320a13"/>曰。我勸汝歸依慧明師。汝因循不果。今明師月內欲
+<lb ed="X" n="0320a14"/>西歸。再遲無及矣。汝當速往求之。汝法名大通。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>與
+<lb ed="X" n="0320a15"/>汝定。醒而異之。天明起詣寺。明<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>疽發甚劇。急邀同
+<lb ed="X" n="0320a16"/>伴五人。求歸依。明許之。及授法名。明手書五字。作鬮
+<lb ed="X" n="0320a17"/>置香臺旁。謂曰我病中。不及一一屬付。法名下一字。
+<lb ed="X" n="0320a18"/>皆通字派。汝等各隨緣自取。上一字。某適拈得大字。
+<lb ed="X" n="0320a19"/>宛若夢中故事云<note place="inline">染香集</note>
+<lb ed="X" n="0320a20"/>西史氏曰。歸依而能預定法名何也。昔世尊於無量
+<lb ed="X" n="0320a21"/>劫前。聞古釋迦文講涅槃經。得經中一偈。乃至賣身
+<lb ed="X" n="0320a22"/>供養。願來世成佛。亦同此號。是故今日如來。亦號釋
+<lb ed="X" n="0320a23"/>迦文。今明師與某。亦無量劫前。願重緣深之所致耳。
+<lb ed="X" n="0320a24"/>然則欲生安養。而慮其不遂者。從可想矣。</p></div2>
+<pb ed="X" id="X78.1550.0320b" n="0320b"/>
+<lb ed="X" n="0320b01"/><div2 type="other"><mulu type="其他" level="2" label="一禪"/><head>一禪</head>
+<lb ed="X" n="0320b02"/><p id="pX78p0320b0201">一禪。海甯人。俗業屠。年四旬。痛悔前非。思唯出家。可
+<lb ed="X" n="0320b03"/>解此業。遂於本邑海音寺祝髮。旋受具。任監院職。誦
+<lb ed="X" n="0320b04"/>經念佛。發露懺悔。迴向淨土。誠懇翹勤。二十餘載不
+<lb ed="X" n="0320b05"/>倦。嘉慶十二年。年六十八。退監院。閉關數月。至臘月
+<lb ed="X" n="0320b06"/>二十八日。命眾念佛一晝夜。次早沐浴禮佛而化。闍
+<lb ed="X" n="0320b07"/>維。得白色舍利。數十粒<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0320b08"/><div2 type="other"><mulu type="其他" level="2" label="際醒"/><head>際醒</head>
+<lb ed="X" n="0320b09"/><p id="pX78p0320b0901">際醒。字徹悟。號訥堂。姓馬。京東豐潤縣人。幼通經史。
+<lb ed="X" n="0320b10"/>薙染後。&CB00642;歷講席。博貫性相兩宗。而於法華三觀十
+<lb ed="X" n="0320b11"/>乘之旨。尤為心得。參廣通粹如純禪師。明向上事。師
+<lb ed="X" n="0320b12"/>資道合。乃印心焉。後純公遷萬壽寺。醒繼席廣通。&CB15081;
+<lb ed="X" n="0320b13"/>勵後學。宗風大振。每謂永明壽禪師。乃禪門宗匠。尚
+<lb ed="X" n="0320b14"/>歸心淨土。況今末代。尤宜遵承。於是專修淨業。主張
+<lb ed="X" n="0320b15"/>蓮宗。日限枝香晤客。過時則禮念而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。嗣遷覺生寺
+<lb ed="X" n="0320b16"/>住持。尋退居紅蠡山資福寺。衲子依戀。追隨日眾。遂
+<lb ed="X" n="0320b17"/>成叢林。醒為法為人。心終無厭。但一以淨土為歸。每
+<lb ed="X" n="0320b18"/>當開演如來。救苦攝樂之恩。或至淚隨聲落。聽者亦
+<lb ed="X" n="0320b19"/>未嘗不涕泗沾衣也。其語錄二卷。尤為切至。略言吾
+<lb ed="X" n="0320b20"/>人生死關頭。唯二種力。一者。心緒多端。重處偏墜。此
+<lb ed="X" n="0320b21"/>心力也。二者。如人負債。強者先牽。此業力也。業力最
+<lb ed="X" n="0320b22"/>大。心力尤大。以業無自性全依於心。故心重能使業
+<lb ed="X" n="0320b23"/>強。今以重心而修淨業。則淨業強。他日報盡命終。定
+<lb ed="X" n="0320b24"/>生西方。不生餘處矣。如大樹大牆。尋常向西而歪。他
+<pb ed="X" id="X78.1550.0320c" n="0320c"/>
+<lb ed="X" n="0320c01"/>日若倒。決不向餘處也。何為重心。我輩修習淨業。信
+<lb ed="X" n="0320c02"/>貴於深。願貴於切。以信願深切。故一切邪說。莫能搖
+<lb ed="X" n="0320c03"/>惑。一切境緣。莫能引轉。假若正修淨業時。達摩祖師。
+<lb ed="X" n="0320c04"/>忽現在前。令我捨淨趨禪。可以立地成佛。我不敢從
+<lb ed="X" n="0320c05"/>命。即釋迦如來。忽爾現身。謂更有異方便。勝於淨土。
+<lb ed="X" n="0320c06"/>令我捨此從彼。我亦不敢依教。此之謂深信。假如赤
+<lb ed="X" n="0320c07"/>熱鐵輪。旋轉頂上。不以此苦。退失往生之願。又若輪
+<lb ed="X" n="0320c08"/>王勝妙。五欲現前。亦不以此樂。退失往生之願。如此
+<lb ed="X" n="0320c09"/>逆順至極。尚不改所願。此之謂切願。信深願切。是謂
+<lb ed="X" n="0320c10"/>重心。以是修淨。淨業必強。業強則熟。極樂淨業若熟。
+<lb ed="X" n="0320c11"/>娑婆染緣便盡。臨終時。雖欲輪回境界。再現在前。不
+<lb ed="X" n="0320c12"/>可得矣。雖欲彌陀淨土。不現在前。亦不可得矣。然此
+<lb ed="X" n="0320c13"/>信願要在操之於素。到時自不入於岐路。如古德臨
+<lb ed="X" n="0320c14"/>欲命終。六欲天童。次第接引。皆不去。專心待佛。佛現
+<lb ed="X" n="0320c15"/>乃去。夫四大分張。此何時也。天童接引。此何境也。苟
+<lb ed="X" n="0320c16"/>素常信願。不到十分堅固。當此時。對此境。而能強作
+<lb ed="X" n="0320c17"/>主宰乎。又云。有禪者。問曰。一切諸法。悉皆如夢。娑婆
+<lb ed="X" n="0320c18"/>固夢也。極樂亦夢也。同是一夢。修之何益。答曰。不然。
+<lb ed="X" n="0320c19"/>七地以前。夢中修道。無明大夢。雖等覺猶眠。唯佛一
+<lb ed="X" n="0320c20"/>人。始稱大覺。當夢眼未開之時。苦樂宛然。與其夢受
+<lb ed="X" n="0320c21"/>娑婆之苦。何若夢受極樂之樂。況娑婆之夢。從夢入
+<lb ed="X" n="0320c22"/>夢。展轉沈迷者也。極樂之夢。從夢入覺。漸至於大覺
+<lb ed="X" n="0320c23"/>者也。夢雖同。而所以夢者。實不同也。可概論乎。嘉慶
+<lb ed="X" n="0320c24"/>十五年二月。預知時至。辭諸外護。屬曰。幻緣不久。&CB00980;
+<pb ed="X" id="X78.1550.0321a" n="0321a"/>
+<lb ed="X" n="0321a01"/>生可惜。各宜努力念佛。他年淨土。好相見也。臨寂半
+<lb ed="X" n="0321a02"/>月前。示疾。命眾助稱佛號。見空中幢旛。無數。自西而
+<lb ed="X" n="0321a03"/>來。告眾曰。淨土相現。吾將西歸。至十二月十七日申
+<lb ed="X" n="0321a04"/>刻。復告眾曰。昨見文殊觀音勢至三大士。今復蒙佛
+<lb ed="X" n="0321a05"/>親來。接引吾去矣。眾稱佛號愈厲。醒面西端坐。合掌
+<lb ed="X" n="0321a06"/>凝眸曰。稱一聲洪名。見一分相好。言畢結印而逝。眾
+<lb ed="X" n="0321a07"/>聞異香浮空。露龕七日。貌如生。髮白變黑。闍維。獲舍
+<lb ed="X" n="0321a08"/>利百餘粒。世壽七十。僧臘四十九<note place="inline">徹悟禪師語錄</note>
+<lb ed="X" n="0321a09"/>西史氏曰。修禪修淨。而獨歸心於安養。&CB00528;其梵行之
+<lb ed="X" n="0321a10"/>精嚴。導人之切至。抑何與蓮宗尊宿。如同一轍歟。為
+<lb ed="X" n="0321a11"/>人師。作佛祖。吾於是見之矣。</p></div2>
+<lb ed="X" n="0321a12"/><div2 type="other"><mulu type="其他" level="2" label="起信"/><head>起信</head>
+<lb ed="X" n="0321a13"/><p id="pX78p0321a1301">起信。字香海。姓單。富春人。父華藏。博通內典。明向上
+<lb ed="X" n="0321a14"/>也。令信出家。往南屏求戒。教看誰字話。信窮參力究。
+<lb ed="X" n="0321a15"/>嘗徹夜不寐。兀坐一室。如木偶然。嘉慶元年七月望。
+<lb ed="X" n="0321a16"/>登吳山值夜分。見燈光互&CB00153;。晃乎心目。有省。歸語華
+<lb ed="X" n="0321a17"/>藏。華藏復令&CB00642;參知識。至蘇州。遇會一傳公。示念佛
+<lb ed="X" n="0321a18"/>法門。信即返杭閉關古梅庵。日課彌陀十萬聲。偶為
+<lb ed="X" n="0321a19"/>詩都指歸淨土。有念佛歌曰。念佛好。念佛好。萬事從
+<lb ed="X" n="0321a20"/>頭一筆埽。幾回背父走風塵。旅邸神魂多顛倒。不參
+<lb ed="X" n="0321a21"/>禪。不矜教。一鑪香篆縈繚繞。奔波肩擔沒來由。訪友
+<lb ed="X" n="0321a22"/>尋師何日了。休外求。只內照。衣裏摩尼無價寶。應聲
+<lb ed="X" n="0321a23"/>現色忒分明。六道神光誰欠少。水自流。山自峭。靜裏
+<lb ed="X" n="0321a24"/>觀來都入妙。笑他名利日忙忙。自在真修誰能造。月
+<pb ed="X" id="X78.1550.0321b" n="0321b"/>
+<lb ed="X" n="0321b01"/>沈西。鐘報曉。漫說容顏未衰老。古來賢哲若河沙。誰
+<lb ed="X" n="0321b02"/>非白骨埋荒草。獨此心。無壽夭。脫離苦海無煩惱。百
+<lb ed="X" n="0321b03"/>年身世等空華。空華勘破一長嘯。&CB00425;囊懸。柱杖&CB01855;。撇
+<lb ed="X" n="0321b04"/>&CB00230;塵緣歸路早。人生定數<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>安排。佛本天真非矜造。
+<lb ed="X" n="0321b05"/>閒住庵。嬾談道。吏難役兮君難召。禪&CB00646;鎮日坐忘機。
+<lb ed="X" n="0321b06"/>碧眼胡僧&CB15111;不到。曝晴檐。補破襖。一盂脫粟隨緣飽。
+<lb ed="X" n="0321b07"/>敢云閉戶慕清高。亦非目視諸方藐。生寡交。死絕弔。
+<lb ed="X" n="0321b08"/>氣盡皮囊便撇掉。土埋火葬總由他。不賸兒孫免不
+<lb ed="X" n="0321b09"/>肖。苦莫悲。喜莫笑。總是浮生夢未覺。大家拋&CB00230;瓜葛
+<lb ed="X" n="0321b10"/>藤。刀環請唱還鄉調。有一言。最簡要。世人如入羅網
+<lb ed="X" n="0321b11"/>鳥。欲脫羅網何處求。唯有勸君念佛好。十七年十月
+<lb ed="X" n="0321b12"/>十九日。卒於東園隱修庵。臨終盥沐易衣。念佛坐逝。
+<lb ed="X" n="0321b13"/>逾時。頂可灼手。舉體入龕。輕如一&CB01200;。華藏贊以聯句
+<lb ed="X" n="0321b14"/>云。頂煖決生安樂剎。身輕顯示涅槃心。年三十七<note place="inline">钁
+<lb ed="X" n="0321b15"/>頭吟并序染香集</note>。</p></div2>
+<lb ed="X" n="0321b16"/><div2 type="other"><mulu type="其他" level="2" label="真傳"/><head>真傳</head>
+<lb ed="X" n="0321b17"/><p id="pX78p0321b1701">真傳。字會一。姓何。蘇州吳縣人。年十九。遇嬾珙和尚。
+<lb ed="X" n="0321b18"/>指示佛乘。受五戒。彭二林居士。招入文星閣。傳執贄
+<lb ed="X" n="0321b19"/>稱弟子。共修念佛三昧。年二十八。投杭州崇福寺出
+<lb ed="X" n="0321b20"/>家。研究楞嚴。唯識大義。為人講說。詞旨明暢。後住嘉
+<lb ed="X" n="0321b21"/>興楞嚴寺。矢志募修大藏經版。工興有日矣。忽疾作。
+<lb ed="X" n="0321b22"/>退隱蘇州鳳巢庵。一意西歸。嘉慶十七年正月杪。謂
+<lb ed="X" n="0321b23"/>其徒曰。爾等勿訝。明日余將去矣。至夜分。蹶然起坐。
+<lb ed="X" n="0321b24"/>西向念佛。含笑而逝。年五十三<note place="inline">參茶老人集</note>
+<pb ed="X" id="X78.1550.0321c" n="0321c"/>
+<lb ed="X" n="0321c01"/>西史氏曰。刊經助緣也。念佛正行也。疾作而專務正
+<lb ed="X" n="0321c02"/>行。固宜矣。</p></div2>
+<lb ed="X" n="0321c03"/><div2 type="other"><mulu type="其他" level="2" label="達純"/><head>達純</head>
+<lb ed="X" n="0321c04"/><p id="pX78p0321c0401">達純。字粹修。號悉檀。姓朱。嘉興桐鄉縣人。自幼薙染。
+<lb ed="X" n="0321c05"/>住嘉興覺海寺。精修淨業。一十六年。建西方三聖殿。
+<lb ed="X" n="0321c06"/>春冬啟念佛期。遠近觀感。緇素雲集。嘗行般舟三昧
+<lb ed="X" n="0321c07"/>二次。一夕夢中。見大蓮華。從空而降。自此知見超卓。
+<lb ed="X" n="0321c08"/>辯才無礙。彭二林居士。逖聞道行。延住流水居。及文
+<lb ed="X" n="0321c09"/>星閣。領眾念佛。日課嚴密。常演講雲棲彌陀疏鈔。及
+<lb ed="X" n="0321c10"/>天台教觀。歷十載不倦。嗣開法南禪寺。百廢具興。淨
+<lb ed="X" n="0321c11"/>業無間。旋退隱殊勝庵。愈精念佛。嘉慶十八年冬示
+<lb ed="X" n="0321c12"/>疾。次年春。料理院務畢。時其徒悟靈在南禪。手書促
+<lb ed="X" n="0321c13"/>至。曰。余將長往。需汝一訣。二月十三日。集眾念佛。沐
+<lb ed="X" n="0321c14"/>浴更衣。跏趺說偈曰。多生濁苦纏&CB00381;。一旦逍遙變遷。
+<lb ed="X" n="0321c15"/>快&CB00418;彌陀影現。廓然別有一天。合掌而終。年六十三。
+<lb ed="X" n="0321c16"/>僧臘五十七<note place="inline">悉檀吟&CB00506;。染香集</note>。</p></div2>
+<lb ed="X" n="0321c17"/><div2 type="other"><mulu type="其他" level="2" label="靈徹"/><head>靈徹</head>
+<lb ed="X" n="0321c18"/><p id="pX78p0321c1801">靈徹。杭州人。於郡之寶壽寺出家。精進念佛十餘載。
+<lb ed="X" n="0321c19"/>年踰五旬得疾。集眾念佛。以七日為期。自亦力疾隨
+<lb ed="X" n="0321c20"/>之。至三日。謝眾曰。吾得淨土生矣。諸公勉之。言訖而
+<lb ed="X" n="0321c21"/>逝。時嘉慶二十年<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0321c22"/><div2 type="other"><mulu type="其他" level="2" label="道守"/><head>道守</head>
+<lb ed="X" n="0321c23"/><p id="pX78p0321c2301">道守。鳳陽人。出家九華山。三十年&CB00642;歷叢林。缾&CB00425;蕭
+<lb ed="X" n="0321c24"/>然。恬淡自得。後住嘉興鍾埭鎮古剎。杜門念佛者四
+<pb ed="X" id="X78.1550.0322a" n="0322a"/>
+<lb ed="X" n="0322a01"/>載。嘉慶二十三年春。忽扁舟入城。&CB00642;勸檀越。專心念
+<lb ed="X" n="0322a02"/>佛。意極懇切。次日相契數人往候。見寮門未啟。排闥
+<lb ed="X" n="0322a03"/>視之。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>趺坐化去矣<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0322a04"/><div2 type="other"><mulu type="其他" level="2" label="列權"/><head>列權</head>
+<lb ed="X" n="0322a05"/><p id="pX78p0322a0501">列權。字天聖。海&CB03408;人。歸定高和尚為弟子。與徹迷同
+<lb ed="X" n="0322a06"/>居延恩。念佛精進。嘉慶二十三年冬。謂人曰。吾將逝
+<lb ed="X" n="0322a07"/>矣。走別四鄰。眾共驚異。欲送之歸。辭曰。勿爾。時尚未
+<lb ed="X" n="0322a08"/>至。翌日晚課如常時。至二鼓始歸寮。及寺眾曉起。則
+<lb ed="X" n="0322a09"/>趺坐終矣<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0322a10"/><div2 type="other"><mulu type="其他" level="2" label="佛度"/><head>佛度</head>
+<lb ed="X" n="0322a11"/><p id="pX78p0322a1101">佛度。安徽歙縣人。住蘇州南禪寺。過午不食。脅不貼
+<lb ed="X" n="0322a12"/>席。專修淨業。嘉慶二十三年春。有疾。辭諸道友。端坐
+<lb ed="X" n="0322a13"/>而化。</p><p id="pX78p0322a1303" place="inline">有僧絕相者。嘉禾人。亦居南禪。與度道誼頗洽。
+<lb ed="X" n="0322a14"/>貌極陋。人多輕之。終日不言。持過午不食戒。晨禮四
+<lb ed="X" n="0322a15"/>十八願。及大悲懺。餘時佛聲不絕口。夜則面西危坐。
+<lb ed="X" n="0322a16"/>如是二十年。及度化去。乃曰。渠去我亦隨之矣。沐浴
+<lb ed="X" n="0322a17"/>焚香。面西合掌化<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0322a18"/><div2 type="other"><mulu type="其他" level="2" label="覺源"/><head>覺源</head>
+<lb ed="X" n="0322a19"/><p id="pX78p0322a1901">覺源。字性海。安徽定遠張氏子也。幼&CB00002;異。九歲五經
+<lb ed="X" n="0322a20"/>俱成誦。弱冠入邑庠。文名日甚。顧無心仕進。每作出
+<lb ed="X" n="0322a21"/>世想。閱華嚴法華。多有契語。亡何父母相繼沒。遂決
+<lb ed="X" n="0322a22"/>志出家。依金陵耆闍律師祝髮。禮封崇皓清律師。受
+<lb ed="X" n="0322a23"/>具足戒。時年<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>四十矣。自以出家遲暮。行苦行。堅持
+<lb ed="X" n="0322a24"/>戒律。不妄語。不非時食。手不觸金銀寶物。身不著獸
+<pb ed="X" id="X78.1550.0322b" n="0322b"/>
+<lb ed="X" n="0322b01"/>毛蠶吐。嘗於投子閱藏畢。行二時頭陀。&CB00642;參知識。聞
+<lb ed="X" n="0322b02"/>焦山借庵禪師。為洞下名德。特往參叩。機緣契合。遂
+<lb ed="X" n="0322b03"/>承印記。復住山中閱藏。愈深入教海。於華嚴奧旨。獨
+<lb ed="X" n="0322b04"/>有心得。口誦手披。不下數百過。乃至背誦不遺一字。
+<lb ed="X" n="0322b05"/>常為緇白。開演大義。抉幽剔微。聽者豁然。因自別其
+<lb ed="X" n="0322b06"/>號曰。一真法界。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而棲心安養。日課西方佛名。十萬
+<lb ed="X" n="0322b07"/>聲。脅不著席者。數十年。晚年石谷成公。延居高旻寺。
+<lb ed="X" n="0322b08"/>素患足疾。雖至增劇。而六時禮拜。無少間。復加禮普
+<lb ed="X" n="0322b09"/>明懺及彌陀四十八願。禮<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。即誦佛名不歇口。見人
+<lb ed="X" n="0322b10"/>不談他語。唯以西方淨業。諄諄勸勉而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。計居十餘
+<lb ed="X" n="0322b11"/>載。緇白多欽其品。嘉慶二十四年六月。忽欲歸焦山。
+<lb ed="X" n="0322b12"/>成公堅留不可。歸甫逾月。示微疾。八月二十六日。晨
+<lb ed="X" n="0322b13"/>起。索浴竟。端坐念佛。如入禪定。闍維時。瑞雲盤空。有
+<lb ed="X" n="0322b14"/>光五色。從火際透起。獲舍利三大粒。瑩淨如玉。現藏
+<lb ed="X" n="0322b15"/>本山。世壽六十九。著有淨土詩百首行世<note place="inline">染香集</note>
+<lb ed="X" n="0322b16"/>西史氏曰。昔人謂乘戒俱急。生品最高。若有乘無戒。
+<lb ed="X" n="0322b17"/>流入鬼神趣中。源如是持戒。如是參修。非乘戒並急
+<lb ed="X" n="0322b18"/>者乎。彼輕視木又。而高談般若。嗚呼危矣。</p></div2>
+<lb ed="X" n="0322b19"/><div2 type="other"><mulu type="其他" level="2" label="正真"/><head>正真</head>
+<lb ed="X" n="0322b20"/><p id="pX78p0322b2001">正真。字達宗。湖廣湘潭縣人。曾參高旻昭月貞公。薦
+<lb ed="X" n="0322b21"/>紳延主鷲峰古剎。初至則&CB02057;垣老屋。人不堪其憂。而
+<lb ed="X" n="0322b22"/>真則晏如也。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而檀施普集。百廢咸新。次第建諸殿
+<lb ed="X" n="0322b23"/>閣。復置田數百頃。率眾念佛。凡來求法者。雖臧穫所
+<lb ed="X" n="0322b24"/>不忍棄。示以持名法門。維時宰官薦紳。遠近緇素皆
+<pb ed="X" id="X78.1550.0322c" n="0322c"/>
+<lb ed="X" n="0322c01"/>服其品。太史姚姬傅。觀察章淮樹。尤為宏護。淮樹一
+<lb ed="X" n="0322c02"/>日邀真。相對據榻。出其二妾令受經。真曰。受經之法。
+<lb ed="X" n="0322c03"/>須正几中庭。焚香恭敬而後可。不然是慢法也。淮樹
+<lb ed="X" n="0322c04"/>如所教。既離榻。則梁墜而榻碎。淮樹異之。率二妾同
+<lb ed="X" n="0322c05"/>秉戒法。後舍二妾為尼。精修淨土。未幾。真慨然有隱
+<lb ed="X" n="0322c06"/>志。屏絕諸緣。著淨土偈若干首。道光元年正月九日。
+<lb ed="X" n="0322c07"/>令嗣法脫凡至寮。劇談安養樂趣。貌和神恬。旋自鳴
+<lb ed="X" n="0322c08"/>魚。念佛時許。命凡過堂食粥。及復至。則真<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>新衣逝
+<lb ed="X" n="0322c09"/>矣<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0322c10"/><div2 type="other"><mulu type="其他" level="2" label="東瓜和尚"/><head>東瓜和尚</head>
+<lb ed="X" n="0322c11"/><p id="pX78p0322c1101">東瓜和尚。遺其名。姓孫。杭州人。嗜食東瓜故名。出家
+<lb ed="X" n="0322c12"/>華嚴庵。為人緘默。竟日遊行街市。寒暑無間。經十餘
+<lb ed="X" n="0322c13"/>年。人莫測之。與鄰庵僧慧照友。將寂之前月。告照曰。
+<lb ed="X" n="0322c14"/>新正六日。吾行矣。汝合來送我。屆期。和尚。赴法慧庵
+<lb ed="X" n="0322c15"/>齋返。見照先在。曰。汝何來。照笑曰。汝與我約。特來相
+<lb ed="X" n="0322c16"/>送耳。和尚曰。微子言。幾忘<app><lem wit="【CBETA】" resp="CBETA.maha">卻</lem><rdg wit="【卍續】">郤</rdg></app>了。遂盥沐新衣禮佛竟。
+<lb ed="X" n="0322c17"/>謂照曰。既行。不可無偈。為我書之。偈云。終日走街坊。
+<lb ed="X" n="0322c18"/>心中念佛忙。世人都不識。別有一天堂。怡然而終<note place="inline">染
+<lb ed="X" n="0322c19"/>香集</note>
+<lb ed="X" n="0322c20"/>西史氏曰。時至而忘歸期。前有道證。至此再見。何其
+<lb ed="X" n="0322c21"/>生死自如乎。而究其所以致此者。無他。心即佛故也。
+<lb ed="X" n="0322c22"/>今人念佛之功。日僅片時。且不能一其心於安養。而
+<lb ed="X" n="0322c23"/>亦欲冀臨終之瑞應。難矣哉。</p></div2>
+<lb ed="X" n="0322c24"/><div2 type="other"><mulu type="其他" level="2" label="定基"/><head>定基</head>
+<pb ed="X" id="X78.1550.0323a" n="0323a"/>
+<lb ed="X" n="0323a01"/><p id="pX78p0323a0101">定基。字琳琇。臨海人。出家於天台山。受戒後。&CB00642;參知
+<lb ed="X" n="0323a02"/>識。晚居蘇州靜室。掩關九載。誓不食鹹味。<app><lem wit="【CBETA】" resp="CBETA.maha">刺</lem><rdg wit="【卍續】">剌</rdg></app>舌血。書
+<lb ed="X" n="0323a03"/>華嚴經。八十一卷。日誦阿彌陀佛。為常課。道光元年。
+<lb ed="X" n="0323a04"/>詣鄮山禮阿育王塔。臂香供養。塔中舍利。現黃白二
+<lb ed="X" n="0323a05"/>珠。大如蓮子。光耀炫目。既歸得蠱疾。醫藥罔效。法侶
+<lb ed="X" n="0323a06"/>乘戒往視之。&CB15081;以一心念佛。求生淨土。基曰然。即於
+<lb ed="X" n="0323a07"/>臥榻前。供接引佛像。令庵內僧眾。輪流念佛。至七日。
+<lb ed="X" n="0323a08"/>忽起坐。索浴易衣曰。速邀乘公來。其徒從之。乘戒至。
+<lb ed="X" n="0323a09"/>基謝曰。蒙君示我念佛。今晨見大勢至菩薩接引。我
+<lb ed="X" n="0323a10"/>得中品中生矣。遂斂目合掌而逝。眾聞異香。彌時方
+<lb ed="X" n="0323a11"/>息。年五十八<note place="inline">舍利瑞應錄</note>。</p></div2>
+<lb ed="X" n="0323a12"/><div2 type="other"><mulu type="其他" level="2" label="悟靈"/><head>悟靈</head>
+<lb ed="X" n="0323a13"/><p id="pX78p0323a1301">悟靈。字軼&CB00320;。號幻如。浙之海昌金氏子也。幼有出塵
+<lb ed="X" n="0323a14"/>志。見佛輒膜拜。洎九齡。善病。亟請於父母。求出家。許
+<lb ed="X" n="0323a15"/>之。乃脫白於本城。安國寺西房。禮象隴上座為師。旋
+<lb ed="X" n="0323a16"/>圓具於杭州昭慶寺。時悉檀純。公方開念佛堂。於蘇
+<lb ed="X" n="0323a17"/>州流水居。靈裹具從之。六時持念不懈。復逐字禮華
+<lb ed="X" n="0323a18"/>嚴法華金剛圓覺等經。純公見靈&CB00560;根穩密。即授衣
+<lb ed="X" n="0323a19"/>拂。靈於淨土法門。諦信不貳。父早歿。勸母周氏。發往
+<lb ed="X" n="0323a20"/>生願。母後果無疾。念佛而脫。其兄蓮隱感而出家。純
+<lb ed="X" n="0323a21"/>公寂後。靈繼席南禪。三年引退。居松江韋陀庵。精舍
+<lb ed="X" n="0323a22"/>數楹。塵囂不到。與蓮隱同居。以念佛為日課。嘗於中
+<lb ed="X" n="0323a23"/>夜禪觀中。見天上眾星。由四方翕聚。成憶佛念佛四
+<lb ed="X" n="0323a24"/>字。字大尋丈。晶光晃耀。自是目炯炯有光。凡緇白聞
+<pb ed="X" id="X78.1550.0323b" n="0323b"/>
+<lb ed="X" n="0323b01"/>人以及農販牧豎。皆見而生。敬感化念佛者不下數
+<lb ed="X" n="0323b02"/>千人。靈既專志淨業。念從上往生諸人。自淨土聖賢
+<lb ed="X" n="0323b03"/>錄以後。無有續集。而高人輩出。不可湮沒無傳。於是
+<lb ed="X" n="0323b04"/>廣採博訪。輯為染香集一卷。自嘉慶以來。凡染香於
+<lb ed="X" n="0323b05"/>此法門者。罔弗紀載。越五年而書成。刻行於世道光
+<lb ed="X" n="0323b06"/>八年春患噎隔。集緇白交好。告以別期不久。諸君幸
+<lb ed="X" n="0323b07"/>各自愛專志念佛。以圖後會也。自製影堂聯句云。泥
+<lb ed="X" n="0323b08"/>牛吼落江心月。木馬嘶歸海上雲。絕醫藥。一意西歸。
+<lb ed="X" n="0323b09"/>入五月而劇。人來問疾但曰。生死事大。各自努力。便
+<lb ed="X" n="0323b10"/>口佛喃喃而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。十七日西向趺坐。持名。或問臨行一
+<lb ed="X" n="0323b11"/>句作麼生。曰。阿彌陀佛。良久。聲漸微。泊然歸寂世壽
+<lb ed="X" n="0323b12"/>六十一。坐三十五夏。三日合龕。貌如生<note place="inline">染香續集</note>
+<lb ed="X" n="0323b13"/>西史氏曰導母往生。感兄出家。可謂極孝悌之大者
+<lb ed="X" n="0323b14"/>矣。至其見星成字。&CB00582;精誠之極。心光發現耳。修淨業
+<lb ed="X" n="0323b15"/>者。勿懷疑貳焉。</p></div2>
+<lb ed="X" n="0323b16"/><div2 type="other"><mulu type="其他" level="2" label="圓融"/><head>圓融</head>
+<lb ed="X" n="0323b17"/><p id="pX78p0323b1701">圓融。字竺峰。姓姚。湖州德清人。年二十出家。薙染於
+<lb ed="X" n="0323b18"/>杭州石屋嶺煙霞寺。旋於昭慶律寺受具足戒。持守
+<lb ed="X" n="0323b19"/>無缺。而篤好禮念。以往生淨土。為一生決定志願。不
+<lb ed="X" n="0323b20"/>自住庵。恒依人以修。謂可免雜用心也。亦不定居一
+<lb ed="X" n="0323b21"/>處。合則留。不合則去。意氣灑落。不為膠執。其所住處
+<lb ed="X" n="0323b22"/>不樂隨眾作務。常靜掩一關。禮念並行。不禮則念。不
+<lb ed="X" n="0323b23"/>念則禮。無一時間斷。亦不少參以他法。竟以此二事
+<lb ed="X" n="0323b24"/>終其身。嘗於一日午間。念。阿彌陀佛名。魚聲朗朗。相
+<pb ed="X" id="X78.1550.0323c" n="0323c"/>
+<lb ed="X" n="0323c01"/>應徹一夜。直至次日晡時。人見其終無休歇。大聲喚
+<lb ed="X" n="0323c02"/>之。始止。自謂纔如半日耳。問其飢否。則曰我口中甜
+<lb ed="X" n="0323c03"/>水如蜜。常盈常嚥。受用無量。更不思食也。脅不貼席
+<lb ed="X" n="0323c04"/>者數十年。故少夢。偶有夢。亦不離禮念。更無異緣。其
+<lb ed="X" n="0323c05"/>夢中常見佛菩薩活動如生。間作獎勵之語。有時韋
+<lb ed="X" n="0323c06"/>&CB00501;尊天導引念佛。&CB00582;其所夢皆類此。道光十年。三月
+<lb ed="X" n="0323c07"/>十九日。寂於杭城東園之天華庵。前數日。示微疾。自
+<lb ed="X" n="0323c08"/>知時至。略屬庵主數語。即默自持念。更無他言。寂後
+<lb ed="X" n="0323c09"/>示頂煖相。闍維於龍慶寺之普同塔。香柴無多。頃刻
+<lb ed="X" n="0323c10"/>化盡。世壽六十四。不畜徒<note place="inline">染香續集</note>
+<lb ed="X" n="0323c11"/>西史氏曰。居無常者。真解脫也。不畜徒者。真乾淨也
+<lb ed="X" n="0323c12"/>闍維速化。謂非不戀世緣之明徵哉。</p></div2>
+<lb ed="X" n="0323c13"/><div2 type="other"><mulu type="其他" level="2" label="悟開"/><head>悟開</head>
+<lb ed="X" n="0323c14"/><p id="pX78p0323c1401">悟開。字豁然。號水雲道人。姓張。蘇州木瀆人。幼孤。讀
+<lb ed="X" n="0323c15"/>書聰慧。喜經史根柢之學。而淡於功名。家貧。棄儒為
+<lb ed="X" n="0323c16"/>賈。一日見僧背負警&CB15081;生死文句。市中行魚勸人念
+<lb ed="X" n="0323c17"/>佛。即猛省遂受三歸五戒。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而辭親。禮祥峰文公脫
+<lb ed="X" n="0323c18"/>白。旋秉具於高旻如鑑和尚。留住過夏結冬。窮參力
+<lb ed="X" n="0323c19"/>究苦不得入。一日偶觸踏破鐵&CB03603;無覓處。得來全不
+<lb ed="X" n="0323c20"/>費工夫語。本參一句。廓然頓現。復閱古德。&CB05070;訛公案。
+<lb ed="X" n="0323c21"/>皆據實供通。旋開法於荊南顯親寺。未幾引退。歷居
+<lb ed="X" n="0323c22"/>雲間練川支硎等處。皆水邊林下。有所修建檀施不
+<lb ed="X" n="0323c23"/>足。即自罄其&CB00425;囊。不住。則包裹以行。無貪戀心也。後
+<lb ed="X" n="0323c24"/>歸住靈巖之寶藏庵。所至白衣向化。尤夥。一以淨土
+<pb ed="X" id="X78.1550.0324a" n="0324a"/>
+<lb ed="X" n="0324a01"/>指歸。著有念佛百問。開示後學。自題偈曰。我以大悲
+<lb ed="X" n="0324a02"/>心。闡揚念佛法。仰祈三寶尊。慈悲加護我。假此螢火
+<lb ed="X" n="0324a03"/>光。化作智慧燈。照耀於世間。引之深入佛。念佛願往
+<lb ed="X" n="0324a04"/>坐。還來度含識。西方不退轉。直至成菩提。道光十年
+<lb ed="X" n="0324a05"/>入夏疾作。寄書遠道諸友。諄諄以生死事大為勗且
+<lb ed="X" n="0324a06"/>有秋盡當西歸之語。常住事宜。以次了畢。絕藥食。九
+<lb ed="X" n="0324a07"/>月二十日淩晨。向西趺坐。合掌誦楞嚴&CB00057;竟。接佛號
+<lb ed="X" n="0324a08"/>觀音號。良久聲微。奄然而化。恰在立冬前二日。次日
+<lb ed="X" n="0324a09"/>入龕。頂相猶溫。送者數百人。咸讚歎焉<note place="inline">染香續集念佛百問</note>。</p></div2>
+<lb ed="X" n="0324a10"/><div2 type="other"><mulu type="其他" level="2" label="方海"/><head>方海</head>
+<lb ed="X" n="0324a11"/><p id="pX78p0324a1101">方海。字普澄。號西臺。姓崔。湖州烏程人。年二十一。入
+<lb ed="X" n="0324a12"/>天台華頂寺祝髮。旋受具於清涼寺際雲禪師專心
+<lb ed="X" n="0324a13"/>閱藏。淹貫諸論。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而駐錫蘇州杯渡庵。純提淨土。廣
+<lb ed="X" n="0324a14"/>勸緇白。從而信向者甚眾。先後遭父母喪。日禮華嚴
+<lb ed="X" n="0324a15"/>法華。諸大乘經。代親迴向。生平所著淨土詩。及書寫
+<lb ed="X" n="0324a16"/>經論無算。道光二十一年七月。忽語人曰。我月內將
+<lb ed="X" n="0324a17"/>行。諸未了願。屬付汝等。翌日而病。至二十七日。見幢
+<lb ed="X" n="0324a18"/>旛招引。曰。佛來迎矣。索筆作偈。據几疾書曰。七十年
+<lb ed="X" n="0324a19"/>來夢幻多。彌陀一句盡消磨。而今直入如來地。空有
+<lb ed="X" n="0324a20"/>雙忘禮寶陀遂擲筆而逝。世壽七十。僧臘四十九<note place="inline">西
+<lb ed="X" n="0324a21"/>臺賸&CB01175;</note>。</p></div2>
+<lb ed="X" n="0324a22"/><div2 type="other"><mulu type="其他" level="2" label="昌茂"/><head>昌茂</head>
+<lb ed="X" n="0324a23"/><p id="pX78p0324a2301">昌茂。字在經。紹興人。年二十五。出家於南海積善堂。
+<lb ed="X" n="0324a24"/>詣鄮山舍利塔前。然指供佛。&CB00642;參名山知識。晚年住
+<pb ed="X" id="X78.1550.0324b" n="0324b"/>
+<lb ed="X" n="0324b01"/>蘇州松雲庵。終身供奉阿彌陀佛。及地藏菩薩。見人
+<lb ed="X" n="0324b02"/>輒談因果。勸修淨土。歸依者盈千。生平不放&CB08504;口。曰
+<lb ed="X" n="0324b03"/>無德行故。受人銀錢。隨受隨施。嘗刊佛經數種。及萬
+<lb ed="X" n="0324b04"/>善同歸等書。又鑄大鐘三具。發願度地獄眾生。道光
+<lb ed="X" n="0324b05"/>二十八年。正月二十三夜忽患胃疾。自知將終。禮佛
+<lb ed="X" n="0324b06"/>誦經。益加嚴密。命邀歸依弟子某某來。時夜將半侍
+<lb ed="X" n="0324b07"/>者勸待天明。曰。白菩薩至。吾定四更時去矣。口中念
+<lb ed="X" n="0324b08"/>佛不絕。令沐浴更衣。果至四更。危坐而逝年八十三。
+<lb ed="X" n="0324b09"/>闍維得青白色舍利十餘粒<note place="inline">王吟軒述</note>
+<lb ed="X" n="0324b10"/>西史氏曰。人疑白菩薩。為無常惡鬼。故師之生西。疑
+<lb ed="X" n="0324b11"/>信者各半。余昔聞師言。江河社稷之神。不敢僭受菩
+<lb ed="X" n="0324b12"/>薩之號。夫神且不可。況鬼乎。白菩薩者。或觀音應現
+<lb ed="X" n="0324b13"/>也觀其捨報安詳。合諸素行。往生無足疑者。</p>
+<lb ed="X" n="0324b14"/><p id="pX78p0324b1401">總論曰。自蓮宗之教行。有志之士。聞風向化者盛矣。
+<lb ed="X" n="0324b15"/>顧念佛者如牛毛。往生者如麟角。究其病根。信行願
+<lb ed="X" n="0324b16"/>不切故耳。如上諸公。或明向上而理事圓融。或專淨
+<lb ed="X" n="0324b17"/>行而戒忍堅固。卒乃出輪回。登聖域。甚哉。其善牖後
+<lb ed="X" n="0324b18"/>人也。彼身作沙門。而心非沙門者。&CB00418;此當何如愧奮
+<lb ed="X" n="0324b19"/>耶。</p></div2></div1>
+<lb ed="X" n="0324b20"/><div1 type="other"><mulu type="其他" level="1" label="往生比邱尼第二"/><head>往生比邱尼第二</head>
+<lb ed="X" n="0324b21"/><div2 type="other"><mulu type="其他" level="2" label="湖上老尼"/><head>湖上老尼</head>
+<lb ed="X" n="0324b22"/><p id="pX78p0324b2201">湖上老尼。不詳其人。念佛誦經。極虔謹。精嚴戒律。有
+<lb ed="X" n="0324b23"/>道人每歲一來。來則劇談彌日。然後去。一日尼預與
+<lb ed="X" n="0324b24"/>道人約。待之不至。自言將逝不得與此友別。柰何復
+<pb ed="X" id="X78.1550.0324c" n="0324c"/>
+<lb ed="X" n="0324c01"/>待數日。又不至。乃命一舁龕斷橋上。手執線香一枝。
+<lb ed="X" n="0324c02"/>從容入龕。頃之火發。遂自焚。觀者如堵。至身<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>焦黑。
+<lb ed="X" n="0324c03"/>念佛聲猶不絕云<note place="inline">何士瑗陰&CB01460;文註釋</note>。</p></div2>
+<lb ed="X" n="0324c04"/><div2 type="other"><mulu type="其他" level="2" label="本印"/><head>本印</head>
+<lb ed="X" n="0324c05"/><p id="pX78p0324c0501">本印。字松岐。吳縣人。幼多病。因發願出家。年二十五。
+<lb ed="X" n="0324c06"/>父母送之城中。圓通庵薙染。尋受具戒。別買屋數間
+<lb ed="X" n="0324c07"/>以居。名曰觀幻。戒行潔清。勤修福業。歷諸名剎。供佛
+<lb ed="X" n="0324c08"/>飯僧。迴向淨土。乾隆四十五年八月。自九華歸。結期
+<lb ed="X" n="0324c09"/>禮大悲懺。甫逾二七。忽感微疾。曰。吾生緣其盡乎。遂
+<lb ed="X" n="0324c10"/>輟懺。專持佛名。至十月初旬。臥&CB00646;七日。右脅西向。念
+<lb ed="X" n="0324c11"/>佛無間。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而屬付後事畢。命其徒誦阿彌陀經。至三
+<lb ed="X" n="0324c12"/>周。寂然而逝<note place="inline">西方公據集驗</note>。</p></div2>
+<lb ed="X" n="0324c13"/><div2 type="other"><mulu type="其他" level="2" label="遂欽"/><head>遂欽</head>
+<lb ed="X" n="0324c14"/><p id="pX78p0324c1401">遂欽。字越成。無錫人。九歲出家。稍長遇一尼師激發。
+<lb ed="X" n="0324c15"/>專持佛名。行住無間。尋住蘇州南園白衣庵。興復殿
+<lb ed="X" n="0324c16"/>堂。念佛益切。年五十。始受具戒。至五十五。其年三月。
+<lb ed="X" n="0324c17"/>雞初鳴。召其徒曰。吾將去矣。徒曰。師無他恙。何出此
+<lb ed="X" n="0324c18"/>言。因泣下。欽曰。癡人。哭我何益。認真念佛可爾。遂趺
+<lb ed="X" n="0324c19"/>坐西向。同稱佛名。盡炷香乃逝。事在乾隆五十三年
+<lb ed="X" n="0324c20"/><note place="inline">西方公據集驗</note>。</p></div2>
+<lb ed="X" n="0324c21"/><div2 type="other"><mulu type="其他" level="2" label="律宗"/><head>律宗</head>
+<lb ed="X" n="0324c22"/><p id="pX78p0324c2201">律宗。字聖可。嘉定人。三歲失母。其祖母&CB01768;至蘇城圓
+<lb ed="X" n="0324c23"/>通庵。尋薙染受具戒。少好禮佛。長誦法華經。苦不能
+<lb ed="X" n="0324c24"/>解義。因詣金山。及杭州崇福。參究累冬。歸而專修淨
+<pb ed="X" id="X78.1550.0325a" n="0325a"/>
+<lb ed="X" n="0325a01"/>業。屢詣諸名山。供佛飯僧。年五十三。得咳疾。遂閉關
+<lb ed="X" n="0325a02"/>不出。以西方為期。至年六十四。正月望。集諸緇白。同
+<lb ed="X" n="0325a03"/>稱佛名。至日昃。顧視左右。勸勉修行。語劇苦切。尋舉
+<lb ed="X" n="0325a04"/>手稱西方極樂世界。大慈大悲。阿彌陀佛。如是者三。
+<lb ed="X" n="0325a05"/>趺坐而逝。蓮華香滿室中。事在乾隆五十五年<note place="inline">西方
+<lb ed="X" n="0325a06"/>公據集驗</note>。</p></div2>
+<lb ed="X" n="0325a07"/><div2 type="other"><mulu type="其他" level="2" label="佛琦"/><head>佛琦</head>
+<lb ed="X" n="0325a08"/><p id="pX78p0325a0801">佛琦。字見琳。長洲縣人。自少不願有家。既長。其母送
+<lb ed="X" n="0325a09"/>閶門外雨華庵。薙染。尋受具戒。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而受城中崇佛庵。
+<lb ed="X" n="0325a10"/>尼道堅屬付。繼為庵主。募金千餘兩。造西方三聖旃
+<lb ed="X" n="0325a11"/>檀像。高八尺。歲結七日期場。集淨行僧。為念佛會。歷
+<lb ed="X" n="0325a12"/>諸名山。供佛飯僧。為常州天寧寺。置田三十畝。晚而
+<lb ed="X" n="0325a13"/>專修淨業。將逝前三日。見菩薩現身。兩童子侍。或言
+<lb ed="X" n="0325a14"/>聞菊花香。琦曰。此青蓮華香也。乾隆五十六年。八月
+<lb ed="X" n="0325a15"/>晦。有近事女問疾。琦令扶起。集眾焚香。稱佛名可二
+<lb ed="X" n="0325a16"/>千聲。遂逝<note place="inline">西方公據集驗</note>
+<lb ed="X" n="0325a17"/>西史氏曰。飯僧作福。在家人恒有之。今出家女眾。亦
+<lb ed="X" n="0325a18"/>屢見焉。謂非能破慳貪者乎。雖然。女眾可以修福。而
+<lb ed="X" n="0325a19"/>號為沙門者。愈當精進。若夫<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>圖人之供養。而不知
+<lb ed="X" n="0325a20"/><app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>之承事。嗚呼。其亦可以<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>矣。</p></div2>
+<lb ed="X" n="0325a21"/><div2 type="other"><mulu type="其他" level="2" label="蓮芳"/><head>蓮芳</head>
+<lb ed="X" n="0325a22"/><p id="pX78p0325a2201">蓮芳。不詳其所出。居崇佛庵。目擊琦往生事&CB00528;遂亦
+<lb ed="X" n="0325a23"/>密密行持。年三十餘。得疾。念力益堅。臨終。亦正念分
+<lb ed="X" n="0325a24"/>明。面西趺坐。合掌而逝。事在嘉慶十三年<note place="inline">染香集</note>。</p></div2>
+<pb ed="X" id="X78.1550.0325b" n="0325b"/>
+<lb ed="X" n="0325b01"/><div2 type="other"><mulu type="其他" level="2" label="朗然"/><head>朗然</head>
+<lb ed="X" n="0325b02"/><p id="pX78p0325b0201">朗然。姓沈。嘉善人。年十八。見嫂氏產難之苦。自誓不
+<lb ed="X" n="0325b03"/>字。求父母出家。於邑之陶莊淨池庵。專志淨土。行持
+<lb ed="X" n="0325b04"/>既久。閒忙無間。嘉慶十三年。謂其徒福緣曰。吾三月
+<lb ed="X" n="0325b05"/>中。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>三夢寶池。跏趺華中。往生有分矣。汝當篤志念
+<lb ed="X" n="0325b06"/>佛。自然水到渠成。功不唐捐。慎母錯過。至三月念五
+<lb ed="X" n="0325b07"/>日。無疾坐脫。年七十一<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0325b08"/><div2 type="other"><mulu type="其他" level="2" label="妙成"/><head>妙成</head>
+<lb ed="X" n="0325b09"/><p id="pX78p0325b0901">妙成。湖州菰城何氏女。生有慧性。髫年。即容止端莊。
+<lb ed="X" n="0325b10"/>不同常兒。母故奉佛。每見母舉佛號。便合掌相和。年
+<lb ed="X" n="0325b11"/>二十一。適同里王生。未半載。夫亡。翁亦信心念佛顧
+<lb ed="X" n="0325b12"/>家貧。成勤紡績。以供菽水。朝暮則誦華嚴。持佛號。為
+<lb ed="X" n="0325b13"/>常課。如是。十餘年。後翁出家為僧。姑繼亡。成亦投本
+<lb ed="X" n="0325b14"/>城北門外廣嚴庵為尼。旋受具戒。持守嚴恪。益專志
+<lb ed="X" n="0325b15"/>誦經念佛。甘棲淡泊絕意攀援。嘉慶十九年。示微疾
+<lb ed="X" n="0325b16"/>語侍者曰。吾生緣<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>盡後三日。當西去。若輩幸自努
+<lb ed="X" n="0325b17"/>力修持。或有見期。勿忘吾言。至第三日。正趺坐誦佛。
+<lb ed="X" n="0325b18"/>忽舉首曰。接引佛<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>到。吾行矣。即瞑目而化。年四十
+<lb ed="X" n="0325b19"/>七<note place="inline">染香續集</note>。</p></div2>
+<lb ed="X" n="0325b20"/><div2 type="other"><mulu type="其他" level="2" label="道乾"/><head>道乾</head>
+<lb ed="X" n="0325b21"/><p id="pX78p0325b2101">道乾字世禪。嘉禾雙溪陳氏女。年十七。出家於秀州
+<lb ed="X" n="0325b22"/>之蘿庵。喜清淨自居看古德機緣。遂發明向上志。圓
+<lb ed="X" n="0325b23"/>具後。詣天台國清寺。參寶林珍公。見時便問。如何是
+<lb ed="X" n="0325b24"/>大人相。珍曰。待汝除卻五障來。即向汝道。乾曰。與麼。
+<pb ed="X" id="X78.1550.0325c" n="0325c"/>
+<lb ed="X" n="0325c01"/>則瞞和尚去也。珍曰。汝那裏學得這&CB00980;頭來。乾不覺
+<lb ed="X" n="0325c02"/>汗流浹背。便禮拜。珍復問曰。如何是大人相。乾展兩
+<lb ed="X" n="0325c03"/>手示之。珍公印可。旋受衣拂。乾既得旨。罷參。住南湖
+<lb ed="X" n="0325c04"/>之草庵。庵破敗不堪。處之晏如也。操履真實。順逆一
+<lb ed="X" n="0325c05"/>如。平居一字一禮。三轉華嚴。課大般若經數十部由
+<lb ed="X" n="0325c06"/>是道風遠著。施者雲集。次第建諸殿堂。其庵居偈曰。
+<lb ed="X" n="0325c07"/>學道殷勤年復年。從今不著有無邊。歸家莫便家中
+<lb ed="X" n="0325c08"/>坐。好為人耕劫外田。又於庵中設念佛堂。晝夜魚聲
+<lb ed="X" n="0325c09"/>不絕者。垂四十年。嘉慶二十五年冬。示微疾。十一月
+<lb ed="X" n="0325c10"/>十一日。謂其徒曰。吾明日寅時。當去矣。至時說偈曰。
+<lb ed="X" n="0325c11"/>八十八年。無貪無戀。歸去來兮。水清月現。命眾同聲
+<lb ed="X" n="0325c12"/>念佛吉祥而逝<note place="inline">染香集</note>
+<lb ed="X" n="0325c13"/>西史氏曰。自古及今。禪淨雙修。而出自女眾者。&CB00582;鮮
+<lb ed="X" n="0325c14"/>矣。至其居不求安。殷勤辦道。宛具大人之相。苟非真
+<lb ed="X" n="0325c15"/>實了當其可勉強為之耶。</p></div2>
+<lb ed="X" n="0325c16"/><div2 type="other"><mulu type="其他" level="2" label="蘭若庵尼"/><head>蘭若庵尼</head>
+<lb ed="X" n="0325c17"/><p id="pX78p0325c1701">蘭若庵尼。失其名。姓陳&CB03408;國郡西世家女。西禪寺僧
+<lb ed="X" n="0325c18"/>某。未出家時。聘為室。後某棄家為僧。尼亦出家於三
+<lb ed="X" n="0325c19"/>乘庵旋移居蘭若。日則隨眾作苦。夜則獨坐念佛。性
+<lb ed="X" n="0325c20"/>甘淡泊。其兄時遺衣食。卒乃卻之曰。我既出家。若常
+<lb ed="X" n="0325c21"/>與在家昆季往還。仍如未出家矣。後念佛坐化。時當
+<lb ed="X" n="0325c22"/>酷暑。七日肉身不腐<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0325c23"/><div2 type="other"><mulu type="其他" level="2" label="道悟"/><head>道悟</head>
+<lb ed="X" n="0325c24"/><p id="pX78p0325c2401">道悟。字慧心。姓汪。松江華亭人。早喪父。寡兄弟。與祖
+<pb ed="X" id="X78.1550.0326a" n="0326a"/>
+<lb ed="X" n="0326a01"/>母母氏同居。家甚貧。守貞不字。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而投吉祥庵出家。
+<lb ed="X" n="0326a02"/>旋詣地藏院受具戒。念佛精進。道光十三年。六月。母
+<lb ed="X" n="0326a03"/>氏念佛而逝。七月。祖母亦逝悟於八月五日。請戒師
+<lb ed="X" n="0326a04"/>道生和尚。告曰。大事了畢。吾欲西歸。懇置龕一具。明
+<lb ed="X" n="0326a05"/>日。邀眾念佛一天。以為助緣。是晚香湯澡浴。及旦。集
+<lb ed="X" n="0326a06"/>眾念佛一&CB16656;日。至夜告曰。佛來接引矣。跏趺而逝<note place="inline">楊
+<lb ed="X" n="0326a07"/>藕槎筆記</note>
+<lb ed="X" n="0326a08"/>總論曰。或謂女人有三隔五礙。何以得生淨土。是不
+<lb ed="X" n="0326a09"/>知眾生之身。皆由業造。視業輕重而分男女。今以女
+<lb ed="X" n="0326a10"/>身而決志出家。斯其宿業決定消除。以是而登清泰
+<lb ed="X" n="0326a11"/>之鄉。成菩提之果。而女身男身。了不可得。復何有所
+<lb ed="X" n="0326a12"/>隔礙哉。</p></div2></div1>
+<lb ed="X" n="0326a13"/>
+<lb ed="X" n="0326a14"/><juan fun="close" n="1"><jhead>淨土聖賢錄續編卷一</jhead></juan>
+<lb ed="X" n="0326a15"/><milestone unit="juan" n="2"/>
+<lb ed="X" n="0326a16"/>
+<lb ed="X" n="0326a17"/><juan fun="open" n="2"><mulu type="卷" n="2"/><jhead>淨土聖賢錄續編卷二</jhead></juan>
+<lb ed="X" n="0326a18"/>
+<lb ed="X" n="0326a19"/><div1 type="other"><mulu type="其他" level="1" label="往生王臣第三"/><head>往生王臣第三</head>
+<lb ed="X" n="0326a20"/><div2 type="other"><mulu type="其他" level="2" label="張師誠"/><head>張師誠</head>
+<lb ed="X" n="0326a21"/><p id="pX78p0326a2101">張師誠。字心友。號蘭渚。湖州歸安人。父夢日輪照窗。
+<lb ed="X" n="0326a22"/>寤而生師誠。母早故。事父以孝聞。少年登科第歷任
+<lb ed="X" n="0326a23"/>封疆。為江蘇巡撫。見蘇城殺業甚夥。屢出示勸戒。遇
+<lb ed="X" n="0326a24"/>放生河等處。則嚴捕魚之禁。署中不宴客。不殺生<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<pb ed="X" id="X78.1550.0326b" n="0326b"/>
+<lb ed="X" n="0326b01"/>而長齋奉佛。棲心淨土。自號一西居士擇前賢淨土
+<lb ed="X" n="0326b02"/>論說。輯徑中徑又徑一書。後附淨土歌詠。其自作數
+<lb ed="X" n="0326b03"/>十首。最為警切。今錄其八首。一云。佛緣幸遇識鴻名。
+<lb ed="X" n="0326b04"/>火急西歸此一生。不向此生拼力去。胞胎再入墮無
+<lb ed="X" n="0326b05"/>明。一云。纔提佛號眾魔侵降伏云何到一心。口耳相
+<lb ed="X" n="0326b06"/>聞心應手。牟尼歷歷字推尋。一云。全拋名利與悲歡。
+<lb ed="X" n="0326b07"/>切<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>無如此一端。斫斷愛繩憑慧劍。雲棲七筆萬回
+<lb ed="X" n="0326b08"/>看。一云。船乘大願度塵寰。自利利他念一般。先借枝
+<lb ed="X" n="0326b09"/>棲蓮界穩。羽毛豐滿任飛還。一云。執持無間矢初衷。
+<lb ed="X" n="0326b10"/>尤在臨時一念融。堪惜坡公公據在。未能著力棄前
+<lb ed="X" n="0326b11"/>功<note place="inline">自注東坡常以彌陀像自隨謂生西方公據似有志於淨土者乃疾革時則曰西方不無然箇裏著
+<lb ed="X" n="0326b12"/>力不得錢世雄云固先生平時履踐至此更須著力曰著力即差語絕而逝是東坡臨終竟未著力不能&CB01191;生
+<lb ed="X" n="0326b13"/>良可歎息</note>。一云。最怕臨終神識迷。舌根堅硬氣難提。若非
+<lb ed="X" n="0326b14"/>平日心專一。那得資糧助往西。一云。唯心自性理難
+<lb ed="X" n="0326b15"/>明。水火鏡觀取譬精。念到一心心佛合。臨時自有佛
+<lb ed="X" n="0326b16"/>來迎<note place="inline">自注般舟三昧經水火鏡之喻謂以鏡具水火之性喻眾生本具佛性之力也須假日月之光
+<lb ed="X" n="0326b17"/>來照者喻彌陀慈光攝取之力也以珠艾能引水火者喻信心念佛之力也故知唯心淨土自性彌陀非託空
+<lb ed="X" n="0326b18"/>參果能專注靜修念到一心不亂則此心此性克復其初與佛融成一片臨命終時自能見佛</note>。一云。
+<lb ed="X" n="0326b19"/>稍留一愛未全捐。便恐臨時被此牽。欲出娑婆除必
+<lb ed="X" n="0326b20"/>盡。次公名論許重詮<note place="inline">自注宋楊次公嘗謂愛不重不生娑婆念不一不生極樂夫極
+<lb ed="X" n="0326b21"/>樂之生必由念一洵為至論而欲出娑婆設有一愛未除即恐難離世網非獨愛重者然也當云愛不除不出
+<lb ed="X" n="0326b22"/>娑婆似更精到</note>道光八年。年六旬餘。乞假歸里。靜居斗室。一
+<lb ed="X" n="0326b23"/>意西馳。逾年卒。臨終時。誦彌陀經畢。纔與佛號。至第
+<lb ed="X" n="0326b24"/>五聲。寂然而逝<note place="inline">張蘭渚年譜。徑中徑又徑。汪石心述</note>。</p></div2>
+<pb ed="X" id="X78.1550.0326c" n="0326c"/>
+<lb ed="X" n="0326c01"/><div2 type="other"><mulu type="其他" level="2" label="章攀桂"/><head>章攀桂</head>
+<lb ed="X" n="0326c02"/><p id="pX78p0326c0201">章攀桂。不詳其人。乾隆間。服官在外。篤信淨業。自號
+<lb ed="X" n="0326c03"/>寶嚴居士。與投子沙門世惺。輯蓮宗集要一書。自為
+<lb ed="X" n="0326c04"/>序曰。淨名云。隨其心淨則佛士淨。華嚴云。應觀法界
+<lb ed="X" n="0326c05"/>性。一切唯心造。皆唯心淨土之旨也。樂&CB15131;苦域。金寶
+<lb ed="X" n="0326c06"/>泥沙。垢淨心生。麤妙境現。此理唯禪淨雙修者。可以
+<lb ed="X" n="0326c07"/>默契。初機淺學。何由得其門哉。永明料揀云。但得見
+<lb ed="X" n="0326c08"/>彌陀。何愁不開悟。而雲棲謂持名一法。徹上徹下。大
+<lb ed="X" n="0326c09"/>小兼收。所以修淨土者。當以持名為正課。以修一切
+<lb ed="X" n="0326c10"/>善法為助因。正助既分。而後修行之路。較然不惑。蓮
+<lb ed="X" n="0326c11"/>池大師疏彌陀經。以信願行。判為一經資糧而以一
+<lb ed="X" n="0326c12"/>心不亂專持名號為宗旨。洵確論與。余素慕佛乘。主
+<lb ed="X" n="0326c13"/>心西極。雖宦遊幾三十年。夷險備歷。而十念定課。未
+<lb ed="X" n="0326c14"/>嘗一日忘也。己酉春。與投子憨公遊浮山。至華嚴寺。
+<lb ed="X" n="0326c15"/>偶於案頭見龍舒淨土文。理明詞達。誠為淨土津梁。
+<lb ed="X" n="0326c16"/>但篇帙稍繁。讀者或不終卷而廢。乃與憨公。&CB00642;取淨
+<lb ed="X" n="0326c17"/>土諸篇。細心商確。重加編集。冗者節之。缺者補之。分
+<lb ed="X" n="0326c18"/>門別類。略如蘧庵之淨土指歸。而大旨一主阿彌陀
+<lb ed="X" n="0326c19"/>經。以持名為宗旨。故開卷即以此經冠首。俾行人知
+<lb ed="X" n="0326c20"/>先守約。二六時中專持名號。以為正行。而以深信發
+<lb ed="X" n="0326c21"/>願。為往生前茅。信願行三者相須。淨業乃成。&CB00582;淨土
+<lb ed="X" n="0326c22"/>為佛門。之異方便。而持名又異方便中之方便世。書
+<lb ed="X" n="0326c23"/>凡六卷。帙雖半於龍舒。義實該乎蓮藏。爰付剞劂。質
+<lb ed="X" n="0326c24"/>之四方淨侶。倘以為不背教理。不越淨規。愚者暫得
+<pb ed="X" id="X78.1550.0327a" n="0327a"/>
+<lb ed="X" n="0327a01"/>心開。智士益增淨行。斯願足矣。若夫唯心淨土。則在
+<lb ed="X" n="0327a02"/>當人默契。固無須門外漢之饒舌也。後莫知其所終
+<lb ed="X" n="0327a03"/><note place="inline">蓮宗集要</note>
+<lb ed="X" n="0327a04"/>總論曰。向來載宰官往生。不下數十人。然皆古記所
+<lb ed="X" n="0327a05"/>傳。而近代者無聞。余廣採博訪。寥寥然僅得二人。焉
+<lb ed="X" n="0327a06"/>何夙因之易昧若斯也。嗚呼。豪貴學道。自古為難。況
+<lb ed="X" n="0327a07"/>當像季。不更宜然。今者。一則居尊貴。而不戀世榮。一
+<lb ed="X" n="0327a08"/>則歷夷險而不廢定課。有志淨業者。當以二人為軌
+<lb ed="X" n="0327a09"/>則。所謂案牘雖忙姑少置朝朝十念不宜虧不覺深
+<lb ed="X" n="0327a10"/>味乎其言哉。</p></div2></div1>
+<lb ed="X" n="0327a11"/><div1 type="other"><mulu type="其他" level="1" label="往生居士第四之一"/><head>往生居士第四之一</head>
+<lb ed="X" n="0327a12"/><div2 type="other"><mulu type="其他" level="2" label="黃武城"/><head>黃武城</head>
+<lb ed="X" n="0327a13"/><p id="pX78p0327a1301">黃武城。泰州姜堰人。世業儒。遇法宗和尚導以念佛。
+<lb ed="X" n="0327a14"/>康熙十年。染微恙。沐浴更衣。請法宗至決擇臨終四
+<lb ed="X" n="0327a15"/>關。忽猛省。頓斷恩愛。不容妻孥相見。一心念佛。三日
+<lb ed="X" n="0327a16"/>後。趺坐合掌而逝<note place="inline">蓮藏</note>。</p></div2>
+<lb ed="X" n="0327a17"/><div2 type="other"><mulu type="其他" level="2" label="吳如庵"/><head>吳如庵</head>
+<lb ed="X" n="0327a18"/><p id="pX78p0327a1801">吳如庵。徽州人。入籍常州宜興縣。生平信向佛乘。參
+<lb ed="X" n="0327a19"/>璞中和尚。遂修淨業。康熙十二年夏。示微疾。以數珠
+<lb ed="X" n="0327a20"/>分給子女。教之修持。其姻親俞有光往省之。與如庵
+<lb ed="X" n="0327a21"/>談及念佛法門。如庵曰。念佛之法。須間也念。忙也念
+<lb ed="X" n="0327a22"/>行坐也念。夢寐也念。乃至鬼哭神號無不念。纔是真
+<lb ed="X" n="0327a23"/>念佛的人。欲得此真念者。只在一信字。汝當緊信。汝
+<lb ed="X" n="0327a24"/>當緊信。乃說偈曰。參<app><lem wit="【CBETA】" resp="CBETA.maha">禪</lem><rdg wit="【卍續】">神</rdg></app>念佛本非歧。三聖慈悲引我
+<pb ed="X" id="X78.1550.0327b" n="0327b"/>
+<lb ed="X" n="0327b01"/>西。普勸世人勤念佛。白蓮臺上見阿彌。遂命家人。朗
+<lb ed="X" n="0327b02"/>念佛號。趺坐而逝<note place="inline">蓮藏</note>。</p></div2>
+<lb ed="X" n="0327b03"/><div2 type="other"><mulu type="其他" level="2" label="愈有光"/><head>愈有光</head>
+<lb ed="X" n="0327b04"/><p id="pX78p0327b0401">俞有光。新安人。幼居宜興。與吳如庵同修淨業。日持
+<lb ed="X" n="0327b05"/>佛號五千。金剛經三卷。發願往生。後見如庵西歸。益
+<lb ed="X" n="0327b06"/>加精進。書念佛緊要四字於&CB00646;右。以自警策。康熙二
+<lb ed="X" n="0327b07"/>十三年三月三日。&CB00642;別親友。作偈曰。西方淨土是吾
+<lb ed="X" n="0327b08"/>家。一句彌陀度歲華。清磬數聲明月上。此身隱坐白
+<lb ed="X" n="0327b09"/>蓮華。初八日。示微疾。謂家人曰。吾去。汝等切莫啼哭。
+<lb ed="X" n="0327b10"/>當念佛相送。十二日。閉目寂然。眷屬圍繞。忽張目曰。
+<lb ed="X" n="0327b11"/>念佛緊要。言訖而逝。年七十八<note place="inline">蓮藏</note>。</p></div2>
+<lb ed="X" n="0327b12"/><div2 type="other"><mulu type="其他" level="2" label="蘇起鳳"/><head>蘇起鳳</head>
+<lb ed="X" n="0327b13"/><p id="pX78p0327b1301">蘇起鳳。字岐山。崑山人。幼年矢志宗乘。&CB00642;參知識。有
+<lb ed="X" n="0327b14"/>所悟入。一生戒殺。蟲蟻不傷。晚年篤修淨土。四威儀
+<lb ed="X" n="0327b15"/>中。未嘗間缺。康熙三十八年。年<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>八十。時值嚴寒。擁
+<lb ed="X" n="0327b16"/>被而坐。十一月二十六日午間。謂其孫甸方曰。淨土
+<lb ed="X" n="0327b17"/>之緣熟矣。三日前即見佛來。吾不欲顯言耳。今夜子
+<lb ed="X" n="0327b18"/>時。吾往矣。更餘披衣而起。焚香然燭。端坐向西。命家
+<lb ed="X" n="0327b19"/>中人念佛。自亦隨之。將三更聲音漸低。寂然而化。</p><p id="pX78p0327b1920" place="inline">有
+<lb ed="X" n="0327b20"/>吳敬山者。與起鳳同里。為蓮社友。年逾七十。發願參
+<lb ed="X" n="0327b21"/>學。甸方以其年老。勸之專修淨土。可以一生成就。敬
+<lb ed="X" n="0327b22"/>山信之。晝夜念佛不輟。未及一載。其至戚友來。謂旬
+<lb ed="X" n="0327b23"/>方曰。今早敬山見護法神現。接引往生臨行安然坐
+<lb ed="X" n="0327b24"/>脫。屬我致謝是以來耳<note place="inline">西歸直指</note>。</p></div2>
+<pb ed="X" id="X78.1550.0327c" n="0327c"/>
+<lb ed="X" n="0327c01"/><div2 type="other"><mulu type="其他" level="2" label="惲又騑"/><head>惲又騑</head>
+<lb ed="X" n="0327c02"/><p id="pX78p0327c0201">惲又騑。常州人。素誦金剛經。長子嗣曾。季子&CB04362;聞。皆
+<lb ed="X" n="0327c03"/>修淨業。其年春。又騑疾作。二子呈蓮藏一函。又騑甚
+<lb ed="X" n="0327c04"/>喜。二子曰。大人既信淨業。何不從此修持。又騑遂以
+<lb ed="X" n="0327c05"/>佛誕日茹素。日持佛號萬聲。至五月二十六日。諸子
+<lb ed="X" n="0327c06"/>進參劑。又騑不服。曰。藥醫不死病。乃舉念珠云。佛度
+<lb ed="X" n="0327c07"/>有緣人。時舉家忽聞蓮華香。諸子驚異。請曰。大人此
+<lb ed="X" n="0327c08"/>際意況若何。答曰。月白風清。香&CB00195;滿路。遂面西端坐
+<lb ed="X" n="0327c09"/>而逝。事在康熙三十九年<note place="inline">蓮藏</note>
+<lb ed="X" n="0327c10"/>西史氏曰。修淨業者。不在時之久。而在信之篤。又騑
+<lb ed="X" n="0327c11"/>發心。纔一月耳。一念堅勇。疾證菩提。游移莫決者。此
+<lb ed="X" n="0327c12"/>誠可為龜鑑也。</p></div2>
+<lb ed="X" n="0327c13"/><div2 type="other"><mulu type="其他" level="2" label="王貞生"/><head>王貞生</head>
+<lb ed="X" n="0327c14"/><p id="pX78p0327c1401">王貞生。崑山人。父彥敷。為崑庠善友。崇奉三寶。而貞
+<lb ed="X" n="0327c15"/>生多習氣。不甚信奉。一日得病。見有長大黑鬼。謂是
+<lb ed="X" n="0327c16"/>前世怨仇。貞生怖甚。遂勇猛念佛。求生西方。念佛稍
+<lb ed="X" n="0327c17"/>懈。鬼形遂現。由是往生益切。念佛益銳。念至數日。鬼
+<lb ed="X" n="0327c18"/>不復現。臨歿時。至氣盡力竭。其聲漸低。隱隱向西去。
+<lb ed="X" n="0327c19"/><note place="inline">西歸直指</note>
+<lb ed="X" n="0327c20"/>西史氏曰。臨終善友。最為難值。貞生所見惡鬼。明為
+<lb ed="X" n="0327c21"/>怨仇。實則善友也。且貞生既得往生。惡鬼必能度脫。
+<lb ed="X" n="0327c22"/>一得兩全。不可謂非幸也。</p></div2>
+<lb ed="X" n="0327c23"/><div2 type="other"><mulu type="其他" level="2" label="蔡鵬九"/><head>蔡鵬九</head>
+<lb ed="X" n="0327c24"/><p id="pX78p0327c2401">蔡鵬九。字資萬。蘇州西洞庭山人。世為賈。鵬九則好
+<pb ed="X" id="X78.1550.0328a" n="0328a"/>
+<lb ed="X" n="0328a01"/>二氏書。與高人逸士遊。後遇唯然和尚。勸修淨業。始
+<lb ed="X" n="0328a02"/>誦佛經。舉放生會。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而持長齋。自號&CB00980;白居士。亡何
+<lb ed="X" n="0328a03"/>得疾。以乾隆四十五年。八月八日終於家。先一夕。洗
+<lb ed="X" n="0328a04"/>浴。將旦集家人與訣。謂曰。世間眷屬。報盡則離。圖久
+<lb ed="X" n="0328a05"/>長者。當結法緣。若輩勉之。眾哭。曰。勿哭。為我。齊聲唱
+<lb ed="X" n="0328a06"/>阿彌陀佛。復謂其子曰。吾蔬食者。一年矣。喪中設祭
+<lb ed="X" n="0328a07"/>享賓。勿用肉。汝若憶我須常斷殺。能斷殺者。是為孝
+<lb ed="X" n="0328a08"/>子。勉之。遂轉面向西而逝。及將斂。遷尸於堂。向西如
+<lb ed="X" n="0328a09"/>故。其子跪而祝之。面始仰。卒年五十<note place="inline">一行居集</note>
+<lb ed="X" n="0328a10"/>西史氏曰。往生者。首重慈心不殺。經有明文。今汝若
+<lb ed="X" n="0328a11"/>憶我一語。直身眾生之身。心菩薩之心矣。悲哉言乎。</p></div2>
+<lb ed="X" n="0328a12"/><div2 type="other"><mulu type="其他" level="2" label="唐漚和"/><head>唐漚和</head>
+<lb ed="X" n="0328a13"/><p id="pX78p0328a1301">唐漚和。不詳其出。身列武庠。初不信因果。晚年與鑒
+<lb ed="X" n="0328a14"/>機子遊。始信向。因教以受持十念法。精進不懈。年九
+<lb ed="X" n="0328a15"/>十六。示微疾。忽躍起合掌曰。佛來迎我。溘然而逝<note place="inline">蓮
+<lb ed="X" n="0328a16"/>宗集要</note>。</p></div2>
+<lb ed="X" n="0328a17"/><div2 type="other"><mulu type="其他" level="2" label="陳君魁"/><head>陳君魁</head>
+<lb ed="X" n="0328a18"/><p id="pX78p0328a1801">陳君魁。池陽貢生也。遇淨川老僧。指示念佛。遂長齋
+<lb ed="X" n="0328a19"/>戒殺。精勤禮念。晝夜不輟。發願印施龍舒淨土文。結
+<lb ed="X" n="0328a20"/>菩提緣。未半年。兩&CB00418;阿彌陀佛。身滿&CB00980;空。末後又見。
+<lb ed="X" n="0328a21"/>自知往生時至。沐浴焚香。手執數珠。端坐而化<note place="inline">蓮宗集要</note>。</p></div2>
+<lb ed="X" n="0328a22"/><div2 type="other"><mulu type="其他" level="2" label="陸士銓"/><head>陸士銓</head>
+<lb ed="X" n="0328a23"/><p id="pX78p0328a2301">陸士銓。字近堂。蘇州元和人。始習扶鸞術。歸玉壇為
+<lb ed="X" n="0328a24"/>弟子。後為壇友祈疾。神教禮梁皇懺。士銓因禮懺發
+<pb ed="X" id="X78.1550.0328b" n="0328b"/>
+<lb ed="X" n="0328b01"/>心。遂詣天寧庵。受菩薩戒。會有寂根菩薩。自極樂國
+<lb ed="X" n="0328b02"/>來。降於玉壇。開闡淨土法門。教人痛念生死。屏絕歧
+<lb ed="X" n="0328b03"/>趨。一心念佛。先後凡十一會。由是與會者。始知回向
+<lb ed="X" n="0328b04"/>極樂。然故習未忘。多有出入。唯士銓一意持名修觀。
+<lb ed="X" n="0328b05"/>誦法華經。長齋一二年。尋得瘍疾。漏下減食遂開肉
+<lb ed="X" n="0328b06"/>戒。而疾亟。臥&CB00646;不能起。自知將終。愧悔甚切。先歾前
+<lb ed="X" n="0328b07"/>七日。屏葷腥。連稱阿彌陀佛。有女年十餘。戒以持齋
+<lb ed="X" n="0328b08"/>念佛。去時勿哭。及病革。目光上燭。若有所見口稱白
+<lb ed="X" n="0328b09"/>蓮白&CB15112;。及諸上善人。復連稱佛佛。右脅而逝。異香滿
+<lb ed="X" n="0328b10"/>室中。時乾隆五十二年。五月十八日也。年三十九。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0328b11"/>而諸友詣壇。叩士銓生處。王天君報曰。陸子大幸。若
+<lb ed="X" n="0328b12"/>非臨終正念。幾至墮落。現<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>得生西方邊地矣。其明
+<lb ed="X" n="0328b13"/>年。五月朔。士銓降壇示諸子曰。有一件最切<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>事。人
+<lb ed="X" n="0328b14"/>人不能逃。人人多忘&CB00230;者。汝知之乎。現前爾等。四大
+<lb ed="X" n="0328b15"/>輕安。精神強健。曾不思一旦臥病於&CB00646;。魂離魄散。東
+<lb ed="X" n="0328b16"/>西不辨。南北不分。前路茫茫。毫無把握。隨業輪轉。受
+<lb ed="X" n="0328b17"/>苦無窮。唯有平生虔修淨業者。到時自見佛來接引。
+<lb ed="X" n="0328b18"/>生蓮華中。受諸快樂壽命無量。諸子有志斯道者。當
+<lb ed="X" n="0328b19"/>講信行願三事耳。信者。信西方之有淨土。猶此城之
+<lb ed="X" n="0328b20"/>有閶胥。娑婆在東。猶此城之有婁葑。娑婆既實實是
+<lb ed="X" n="0328b21"/>有。淨土豈不實實是有。同在圓明覺海之中。舉念可
+<lb ed="X" n="0328b22"/>到亦猶同處一城之內。舉足可到也。既信得淨土決
+<lb ed="X" n="0328b23"/>定可到。又須信念佛法門。如穿衣喫飯一般穿衣免
+<lb ed="X" n="0328b24"/>凍。喫飯免飢。念佛免生死。今日信明日不信。未為真
+<pb ed="X" id="X78.1550.0328c" n="0328c"/>
+<lb ed="X" n="0328c01"/>信。終身信。一念忽不信。未為真信。從今日去。直至命
+<lb ed="X" n="0328c02"/>終。一信到底。更無纖毫疑惑。方為真信既信有西方
+<lb ed="X" n="0328c03"/>矣。又信有念佛法門矣。空言讚歎。何益生死。故凡發
+<lb ed="X" n="0328c04"/>信心者即當如教奉行。今日信。今日即行。明日信。明
+<lb ed="X" n="0328c05"/>日即行。切不可曰。我今後生。且待耄年未晚。不見道
+<lb ed="X" n="0328c06"/>青冢多埋紅粉骨。黃泉半是黑頭人。何耄年之可待
+<lb ed="X" n="0328c07"/>也。又不可曰。我父母之事未完。兒女之債未了。且待
+<lb ed="X" n="0328c08"/>閒暇無事時未晚。豈知無常迅速。鬼使臨門。不可向
+<lb ed="X" n="0328c09"/>他道。我父母之事未完。兒女之債未畢。且待閒暇無
+<lb ed="X" n="0328c10"/>事時。然後來也。又有勇猛一時。懈弛一時是謂人而
+<lb ed="X" n="0328c11"/>無恒。譬如雞之抱卵。必其息息不離於卵。俾熱氣相
+<lb ed="X" n="0328c12"/>續。方能生育。若今日抱之明日去之。未有能生者也。
+<lb ed="X" n="0328c13"/>涵養蓮胎。亦復如是。至願之一字。尤為緊要。世間信
+<lb ed="X" n="0328c14"/>佛念佛者。固不乏人。然或求現生富貴。或求來世福
+<lb ed="X" n="0328c15"/>壽。得好人身。不至墮落。此為背佛意指。佛教。你出生
+<lb ed="X" n="0328c16"/>死。你偏要入生死。佛教你生極樂。你偏要住娑婆。一
+<lb ed="X" n="0328c17"/>生信行。盡付東流。譬如耕田下了稗子。而望其生苗
+<lb ed="X" n="0328c18"/>也。有是理乎。故發真信者。當行真行。行真行者。當發
+<lb ed="X" n="0328c19"/>真願盡此一生。決定不生天上人間。決定要生西方
+<lb ed="X" n="0328c20"/>淨土。如此念佛。方為隨順佛語。不至唐喪光陰諸子
+<lb ed="X" n="0328c21"/>勉之。其後四年。嘗再降黃敬敷家。勖勉同壇。語多切
+<lb ed="X" n="0328c22"/>至<note place="inline">一行居集西方公據書證</note>。</p></div2>
+<lb ed="X" n="0328c23"/><div2 type="other"><mulu type="其他" level="2" label="馬榮祖"/><head>馬榮祖</head>
+<lb ed="X" n="0328c24"/><p id="pX78p0328c2401">馬榮祖。字宁良。浙江秀水人。少能文。弱冠補諸生。父
+<pb ed="X" id="X78.1550.0329a" n="0329a"/>
+<lb ed="X" n="0329a01"/>母早逝。事繼母甚謹。年三十。得咯血疾。又五年疾甚。
+<lb ed="X" n="0329a02"/>進食輒吐。有僧祥峰者。未出家時。與榮祖習。及是參
+<lb ed="X" n="0329a03"/>學還。宿慧頓開信解通利。榮祖心異之。語及&CB00230;病方。
+<lb ed="X" n="0329a04"/>祥峰曰。子病殆非藥石所能療。子能放下萬緣。觀佛
+<lb ed="X" n="0329a05"/>念佛。日久功深。坐斷無明。無量劫來。生死重病。直下
+<lb ed="X" n="0329a06"/>解脫。復何身病之患乎。榮祖瞿然有省。遂長齋修淨
+<lb ed="X" n="0329a07"/>業。病良<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。先是夜夢&CB00980;空中。涌出壽字。不可算數。光
+<lb ed="X" n="0329a08"/>明爛然。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而閱梵書。云阿彌陀。一名無量壽。亦名無
+<lb ed="X" n="0329a09"/>量光。適與夢符。益自喜以為宿緣在是矣。尋讀六祖
+<lb ed="X" n="0329a10"/>壇經。默契法原。愧悔交切。後詣山陰大覺林。受三歸
+<lb ed="X" n="0329a11"/>五戒。日持佛名三萬。阿彌陀經金剛經。各一周。兼修
+<lb ed="X" n="0329a12"/>淨觀。暇輒邀諸梵侶。晝夜課佛名。其年正月下旬。自
+<lb ed="X" n="0329a13"/>蘇歸。閱月病作。三月初。臥&CB00646;不能起。謂所親曰。我從
+<lb ed="X" n="0329a14"/>三十五歲。發菩提心。唯求嚴淨佛土。利益眾生。雖卿
+<lb ed="X" n="0329a15"/>相之榮。視同敝蹤矣。今即沉&CB04955;在體。然一念歡喜心。
+<lb ed="X" n="0329a16"/>未曾少變。庶幾臨終正念。直往西方耳。或問數口嗷
+<lb ed="X" n="0329a17"/>嗷。何以善後。曰。此有天焉。非吾所及也。至十八日。晚
+<lb ed="X" n="0329a18"/>云。明日要大懺悔。晨起搭衣禮佛。向西端坐。誦阿彌
+<lb ed="X" n="0329a19"/>陀佛名數百。及雲棲發願文。盡炷香。乃就寢。又三日
+<lb ed="X" n="0329a20"/>云。三聖現前為我說法。我常在大光明中。其明日又
+<lb ed="X" n="0329a21"/>云。菩薩以淨水沐我。洗我夙垢。頓獲清涼。樂不可言。
+<lb ed="X" n="0329a22"/>向晚。有友沈鴻調來視。問念佛否。曰。念。鴻調曰。不可
+<lb ed="X" n="0329a23"/>著相。曰。即心即佛。何著之有。遂屏諸穀食。日飲茶二
+<lb ed="X" n="0329a24"/>醆。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而唯飲淨水者二日。方向午。謂家人曰。佛來迎
+<pb ed="X" id="X78.1550.0329b" n="0329b"/>
+<lb ed="X" n="0329b01"/>我。連舉阿彌陀佛。右脅而逝。時乾隆五十六年。三月
+<lb ed="X" n="0329b02"/>二十九日也。年四十八。無子。遺命不立後。時祥峰和
+<lb ed="X" n="0329b03"/>尚。方閉關蘇州文星閣。修念佛三昧。其年冬夜夢三
+<lb ed="X" n="0329b04"/>人入室。南向坐。其一僧服。旁兩居士。神儀儼然。上有
+<lb ed="X" n="0329b05"/>白光覆頂。祥峰禮足<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。問三大德何來。僧服者曰。西
+<lb ed="X" n="0329b06"/>方來。祥峰曰。莫非阿彌陀佛國中人否。曰然。因問何
+<lb ed="X" n="0329b07"/>名。三人同聲曰。汝名甚麼。祥峰曰。弟子法名達文。僧
+<lb ed="X" n="0329b08"/>服者曰。&CB00230;來妄語。祥峰曰。真也非妄。僧服者又問。汝
+<lb ed="X" n="0329b09"/>名甚麼。祥峰曰。弟子法名達文。僧服者云。還要妄語。
+<lb ed="X" n="0329b10"/>祥峰曰。弟子實非妄語。如何上座云我妄語。僧服者
+<lb ed="X" n="0329b11"/>曰一切眾生。以妄為真。執假為實故受輪轉。若有智
+<lb ed="X" n="0329b12"/>者。知是妄語。即無輪轉。汝莫自迷失本真心。當知真
+<lb ed="X" n="0329b13"/>心無心。真知無知。覺知乃魔。佛無知覺。汝當信受。莫
+<lb ed="X" n="0329b14"/>懷疑惑。祥峰言下開悟。復進曰。上座之說的是佛法。
+<lb ed="X" n="0329b15"/>不可思議。請問上座。既自阿彌陀佛國中來。可曾見
+<lb ed="X" n="0329b16"/>阿彌陀佛否。左一人答曰。我向汝說汝終不信。汝須
+<lb ed="X" n="0329b17"/>親見始得。三人齊起。各向祥峰頂上一拍。為說偈曰。
+<lb ed="X" n="0329b18"/>應當勤精進。修諸清淨業。因深則果實。慎勿生疑惑。
+<lb ed="X" n="0329b19"/>又曰諸法從心生。諸法從心滅。心法本來空。取舍不
+<lb ed="X" n="0329b20"/>可得。又曰。生佛心法等譬如夢中鏡。如幻三摩提。汝
+<lb ed="X" n="0329b21"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>知少分。偈畢。忽見馬榮祖。嚴整威儀。頂禮三人。三
+<lb ed="X" n="0329b22"/>人即騰空。向西而去。空中樂音嘹亮。佛聲朗然。榮祖
+<lb ed="X" n="0329b23"/>更向祥峰三拜。曰。蒙師勸我。修淨業。歸依三寶。今<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0329b24"/>生淨土。得大安樂。故求菩薩。來演妙法。以報深恩。又
+<pb ed="X" id="X78.1550.0329c" n="0329c"/>
+<lb ed="X" n="0329c01"/>向祥峰三拜。合掌念佛。向西而去。適晨鐘乍發。遽然
+<lb ed="X" n="0329c02"/>而覺。向晨書之為紀夢篇。祥峰後隱婁江福城院。臨
+<lb ed="X" n="0329c03"/>終。預知時至。念佛坐脫<note place="inline">一行居集。西方公據。書證染香集</note>
+<lb ed="X" n="0329c04"/>西史氏曰。前近堂以降壇而勖同學。今宁良以托夢
+<lb ed="X" n="0329c05"/>而謝深恩。孰謂一生安養。杳無信息乎。雖然機緣未
+<lb ed="X" n="0329c06"/>熟者。不可一&CB01356;例也。</p></div2>
+<lb ed="X" n="0329c07"/><div2 type="other"><mulu type="其他" level="2" label="彭希涑"/><head>彭希涑</head>
+<lb ed="X" n="0329c08"/><p id="pX78p0329c0801">彭希涑。字樂園。號蘭臺。蘇州元和廩生。即二林居士
+<lb ed="X" n="0329c09"/>從子也。年二十六。舉於鄉。少喜蔬食。成童後。即長齋
+<lb ed="X" n="0329c10"/>五年<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而得咯血疾。始開肉禁。然因病發心。遂信向
+<lb ed="X" n="0329c11"/>佛乘。持六齋。誦華嚴經。日課西方佛名。求生淨土。雖
+<lb ed="X" n="0329c12"/>舟車南北。未嘗廢忘。嘗作回向詩十首。一云。輾轉因
+<lb ed="X" n="0329c13"/>緣十二支。塵沙劫數了何時。空王足下勤稽首雙淚
+<lb ed="X" n="0329c14"/>潛流不自知。二云。風力吹人豈自由。幻緣牽引惹閒
+<lb ed="X" n="0329c15"/>愁。病魔天遣重重逼。垂死方悲不早修。三云。由來色
+<lb ed="X" n="0329c16"/>相盡空&CB00980;。萬劫貪癡未易除。何似彌陀一句子。六根
+<lb ed="X" n="0329c17"/>收拾了無餘。四云。營營逐逐不如閒。人命須知呼吸
+<lb ed="X" n="0329c18"/>間。&CB00230;恐修行迷正路。臨歧回首黑漫漫。五云。靜觀深
+<lb ed="X" n="0329c19"/>時落日斜。了知極樂路非賒。十年蕩子無歸處。一念
+<lb ed="X" n="0329c20"/>回光便是家。六云。疏風林下百千樂。好鳥枝頭和雅
+<lb ed="X" n="0329c21"/>音。一百八粒菩提子。種得蓮根十丈深。七云。心心相
+<lb ed="X" n="0329c22"/>續憶彌陀。萬事浮雲一任他。何待命終生彼國。現前
+<lb ed="X" n="0329c23"/>先<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>出娑婆。八云。塵障空時法身現。潭心月&CB00153;為波
+<lb ed="X" n="0329c24"/>清。大千無盡音聲海。收拾聞根絕送迎。九云。佛心念
+<pb ed="X" id="X78.1550.0330a" n="0330a"/>
+<lb ed="X" n="0330a01"/>佛原無隔。六字&CB00381;&CB00381;覺亦忘。我<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>千生病煩惱。醍醐
+<lb ed="X" n="0330a02"/>此日灌焦腸。十云。我為菩提發宏誓。不求福利與生
+<lb ed="X" n="0330a03"/>天。盡&CB00980;空際普賢願。未到蓮&CB15131;怎得圓。二林居士以
+<lb ed="X" n="0330a04"/>雲棲往生集。事詞太略。欲重加採葺。續以近今故事。
+<lb ed="X" n="0330a05"/>甫創其凡。希涑欣然任之與妻顧氏。篝燈鈔寫。成書
+<lb ed="X" n="0330a06"/>九卷。名曰淨土聖賢錄。刻行於世。又嘗手書法華經
+<lb ed="X" n="0330a07"/>一周。累年始竣。乾隆五十八年十月三日病瘧且痢。
+<lb ed="X" n="0330a08"/>自房中出。就母寢。絕口不及家事。日唯勸母念佛。曰。
+<lb ed="X" n="0330a09"/>他日西方好相見也。先歾前三日。請澄谷和尚至&CB00646;
+<lb ed="X" n="0330a10"/>前設几案。受三歸五戒。懺悔發願。益加懇至。自言一
+<lb ed="X" n="0330a11"/>二日間。淨念現前。寶池蓮華。宛然可掇也。十三日早。
+<lb ed="X" n="0330a12"/>命家人張接引佛像。移榻向西。仍請澄谷和尚至。曰
+<lb ed="X" n="0330a13"/>煩師。助我念佛。至晚口喃喃誦佛名。右脅而逝異香
+<lb ed="X" n="0330a14"/>滿室中。年三十三。二林居士贈以詩曰。&CB00642;界蓮華撲
+<lb ed="X" n="0330a15"/>鼻香。翛然撒手便還鄉。昌黎不識西方路。孤負當年
+<lb ed="X" n="0330a16"/>十二郎。</p><p id="pX78p0330a1604" place="inline">顧氏。名韞玉。早慧能詩。年二十九。得疾亦念
+<lb ed="X" n="0330a17"/>佛坐逝<note place="inline">蘭臺遺&CB00506;</note>。</p></div2>
+<lb ed="X" n="0330a18"/><div2 type="other"><mulu type="其他" level="2" label="彭紹升"/><head>彭紹升</head>
+<lb ed="X" n="0330a19"/><p id="pX78p0330a1901">彭紹升。法名際清。字允初。一字尺木。蘇州長洲人。幼
+<lb ed="X" n="0330a20"/>聰穎。年十六。為諸生。明年舉於鄉。又明年。捷南宮。以
+<lb ed="X" n="0330a21"/>名進士終於家。初不信佛。好世間文字。志存利濟。忽
+<lb ed="X" n="0330a22"/>自省曰。吾未明吾心柰何。或告以道家修鍊法習之
+<lb ed="X" n="0330a23"/>三年不效。後讀佛書。爽然曰。道之所歸在是矣。始信
+<lb ed="X" n="0330a24"/>向佛乘。慕梁谿高忠憲。廬山劉遺民之為人。故又號
+<pb ed="X" id="X78.1550.0330b" n="0330b"/>
+<lb ed="X" n="0330b01"/>曰二林。以兩公修學地。同名東林也。性純孝。居母喪。
+<lb ed="X" n="0330b02"/>宿殯側者三年。父歿。建念佛道場。又願以平日所誦
+<lb ed="X" n="0330b03"/>華嚴經十部。彌陀經一千部。金剛經一千部。佛號一
+<lb ed="X" n="0330b04"/>千萬聲。代父回向西方。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而盡棄所習。專心竺教。好
+<lb ed="X" n="0330b05"/>方山永明之書。尤推蓮池憨山。為淨土之前導。年二
+<lb ed="X" n="0330b06"/>十九。斷肉食。又五年。從聞學定公。受菩薩戒。自是不
+<lb ed="X" n="0330b07"/>復近婦人。以知歸子自稱。嘗言志在西方。行在梵網。
+<lb ed="X" n="0330b08"/>其自誓。文云。若我際清。既受戒<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。還復破戒。增長惡
+<lb ed="X" n="0330b09"/>法毀壞善根。唯願護法諸天。速行誅殛。為世鑒戒。若
+<lb ed="X" n="0330b10"/>我際清。克厲身心。護持戒品。盡此形壽。必生安養十
+<lb ed="X" n="0330b11"/>方三寶。為我證明。俾我速得念佛三昧。臨命終時。遠
+<lb ed="X" n="0330b12"/>離塵垢。親見彌陀。脫然西邁。更無遮障。見者聞者。如
+<lb ed="X" n="0330b13"/>我發心。生極樂國。獲無生忍。回入娑婆。普度有情。俱
+<lb ed="X" n="0330b14"/>成正覺。後閉關文星閣。修一行三昧。顏所處曰。一行
+<lb ed="X" n="0330b15"/>居。作閉關詩十首。一云。福德門頭事孰真。&CB00560;邊狼籍
+<lb ed="X" n="0330b16"/>幾多春。而今回向無生國。蜨夢龕中瞌睡頻。二云。我
+<lb ed="X" n="0330b17"/>佛真身&CB00642;十&CB00980;。塵塵寂滅更無餘。休將知見重分別。
+<lb ed="X" n="0330b18"/>一念回光識得渠。三云輪珠一串無頭尾。念念明時
+<lb ed="X" n="0330b19"/>粒粒圓。六字打開無盡藏。拈來放去只如然。四云。園
+<lb ed="X" n="0330b20"/>居深處悄如山。長日何人更扣關。報與諸公勤護惜。
+<lb ed="X" n="0330b21"/>休從門外苦追攀。五云。堯峰山下雲深處。聞說幽人
+<lb ed="X" n="0330b22"/>&CB15081;短蔾。多事東風輕漏泄。經聲又度小樓西。六云。一
+<lb ed="X" n="0330b23"/>枝梅&CB01824;破寒林。得意春風枝上禽。聲色堆中休錯過。
+<lb ed="X" n="0330b24"/>焚香為爾念觀音。七云。舉首低頭放下看蓮池不隔
+<pb ed="X" id="X78.1550.0330c" n="0330c"/>
+<lb ed="X" n="0330c01"/>一毫端。迦陵音裏分明說。常寂光中休自瞞。八云。閒
+<lb ed="X" n="0330c02"/>話閨中破寂寥。人傳此夕是元宵。法華課罷無餘事。
+<lb ed="X" n="0330c03"/>龍井新茶試一瓢<note place="inline">目注時為二女子授法華經</note>。九云。重向尼山訪
+<lb ed="X" n="0330c04"/>舊盟。鏗然點瑟話無生。蓮華&CB00560;下如輪大。沂水春風
+<lb ed="X" n="0330c05"/>掉臂行。十云。香山老子最清真。每到歧涂一問津。莫
+<lb ed="X" n="0330c06"/>悵華原消息斷。谿邊依舊十分春。又令畫工<app><lem wit="【CBETA】" resp="CBETA.maha">繪</lem><rdg wit="【卍續】">繒</rdg></app>極樂
+<lb ed="X" n="0330c07"/>世界圖。悉本淨土三經。依正莊嚴。凡四易&CB01175;。閱半載
+<lb ed="X" n="0330c08"/>乃成。自題偈曰。若人欲了知。三世一切佛。應觀法界
+<lb ed="X" n="0330c09"/>性。一切唯心造。我讀華嚴偈。信入淨土門。由諸佛淨
+<lb ed="X" n="0330c10"/>願。成就妙莊嚴。淨願如&CB00980;空。不拒種種相。無邊功德
+<lb ed="X" n="0330c11"/>水。涌現寶蓮華。一華一眾生。具有如來藏。寶池及寶
+<lb ed="X" n="0330c12"/>樹。圍繞寶闌楯。重重妙樓臺。充滿&CB00980;空界。或浴香水
+<lb ed="X" n="0330c13"/>流。或享上妙味。或趺坐經行。或誦經聽法。或衣&CB00525;盛
+<lb ed="X" n="0330c14"/>華。供養十方佛或上善同會。畢入菩提場。眾鳥共天
+<lb ed="X" n="0330c15"/>樂。暢發和雅音。從聞入思修。一念總超越。況乃無量
+<lb ed="X" n="0330c16"/>壽。安坐寶華臺。慈雲覆人天。諸根普一雨。聞法得解
+<lb ed="X" n="0330c17"/>脫。直至次補處。如斯利益事。思議何可窮。亦如彼畫
+<lb ed="X" n="0330c18"/>師。一心所轉變。不離毫端量。現此寶王居。非我復非
+<lb ed="X" n="0330c19"/>渠。一即&CB00642;一切。畫與能畫人。畢竟了無有。願見者聞
+<lb ed="X" n="0330c20"/>者。如我所發心。&CB15155;茲一念功。自致不退轉。何論萬億
+<lb ed="X" n="0330c21"/>程。當處悉具足。又憫末法眾生。不具正眼。互相抵觸。
+<lb ed="X" n="0330c22"/>著一乘決疑論。以通儒釋之閡。著華嚴念佛三昧論。
+<lb ed="X" n="0330c23"/>以釋禪淨之諍。著淨土三經新論。以暢從上蓮宗未
+<lb ed="X" n="0330c24"/>竟之旨。其居士傳。善女人傳。淨土聖賢錄。隨機接引。
+<pb ed="X" id="X78.1550.0331a" n="0331a"/>
+<lb ed="X" n="0331a01"/>世多傳而誦之。又嘗醵金萬兩。權入出息。以&CB01772;佛宮。
+<lb ed="X" n="0331a02"/>刊教典。飯僧眾。開近取堂以周窮乏。置潤族田以贍
+<lb ed="X" n="0331a03"/>貧族。舉恤&CB12530;會以濟孀居。立放生會以全物命。各有
+<lb ed="X" n="0331a04"/>發願文。回向淨土。於蘇杭僧舍。屏居十餘年。日有課
+<lb ed="X" n="0331a05"/>程。預為終制。俾無立後。乾隆六十年秋。下痢。仍居文
+<lb ed="X" n="0331a06"/>星閣。入冬。精神漸耗。將諸善會貲。一一屬付其姪祝
+<lb ed="X" n="0331a07"/>華。令以後永久勿替。有僧真清。問曾見瑞應否。紹升
+<lb ed="X" n="0331a08"/>曰。有何瑞應。我大事在來年開印日耳。至嘉慶元年
+<lb ed="X" n="0331a09"/>正月二十日清晨。作辭世偈云。出沒閻浮塵點身。流
+<lb ed="X" n="0331a10"/>離瑣尾竟何因。而今驀直西方去。瞥眼收回萬劫春。
+<lb ed="X" n="0331a11"/>遂西向趺坐。念佛而脫。時果為署中開印日。年五十
+<lb ed="X" n="0331a12"/>七<note place="inline">居士傳。二林居集。一行居集。觀河集。彭氏家譜。僧真清述</note>
+<lb ed="X" n="0331a13"/>西史氏曰。余聞二林不若一林好。就了廬山去錫山。
+<lb ed="X" n="0331a14"/>竊深然其語。及讀一行書。而歎其去就之得宜。讀決
+<lb ed="X" n="0331a15"/>疑念佛兩論。覺非一非二。無我無渠。乃爽然自失矣。</p></div2>
+<lb ed="X" n="0331a16"/><div2 type="other"><mulu type="其他" level="2" label="呂蔚若"/><head>呂蔚若</head>
+<lb ed="X" n="0331a17"/><p id="pX78p0331a1701">呂蔚若錢塘人。樂善好施。篤修淨業。茄素二十餘年。
+<lb ed="X" n="0331a18"/>晨夕課誦無間。嘉慶三年二月朔。抱疾。時苕溪章銓
+<lb ed="X" n="0331a19"/>因事至杭。舍其家。夜夢一僧趺坐庭中唱佛。因問念
+<lb ed="X" n="0331a20"/>佛何為。僧曰。呂某有善根。不日當歸極樂國土。君未
+<lb ed="X" n="0331a21"/>之知耶。覺而異之。晨告其子文燕。愀然曰。吾父正月
+<lb ed="X" n="0331a22"/>下旬。即屬付後事。謂於二月七日。往生淨土。今公夢
+<lb ed="X" n="0331a23"/>如此。信矣。至初六日。其臥室&CB00642;滿蓮華香。經宿不散。
+<lb ed="X" n="0331a24"/>翌日清晨。香愈烈。自云阿彌陀佛。與諸菩薩皆來矣。
+<pb ed="X" id="X78.1550.0331b" n="0331b"/>
+<lb ed="X" n="0331b01"/>乃趺坐合掌。唱佛號而逝。章銓為之傳<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0331b02"/><div2 type="other"><mulu type="其他" level="2" label="曾庚"/><head>曾庚</head>
+<lb ed="X" n="0331b03"/><p id="pX78p0331b0301">曾庚。江蘇寶山人。印顯觀察之子也。壯年舉賢良。不
+<lb ed="X" n="0331b04"/>求仕進。好善樂施。尤喜放生。家中絕宰殺。有僧授以
+<lb ed="X" n="0331b05"/>念佛法門。遂篤信力行嘉慶十三年九月。下痢。自知
+<lb ed="X" n="0331b06"/>不起。念佛愈切。至十月二日。告家人曰。我歸期在今
+<lb ed="X" n="0331b07"/>日矣汝等為我稱佛名。一切事不許告我。自起作書。
+<lb ed="X" n="0331b08"/>別其歸戒師智照和尚。踰刻。令家人焚香。合掌正念
+<lb ed="X" n="0331b09"/>而逝<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0331b10"/><div2 type="other"><mulu type="其他" level="2" label="陸西橋"/><head>陸西橋</head>
+<lb ed="X" n="0331b11"/><p id="pX78p0331b1101">陸西橋。以字傳。蘇州人。年少有才。而省試屢黜。乃慨
+<lb ed="X" n="0331b12"/>然發出世心。與妻周氏。同修淨業。膝前止一女未嫁。
+<lb ed="X" n="0331b13"/>一日西橋示疾。謂周氏曰。後七日吾行。矣汝勿令我
+<lb ed="X" n="0331b14"/>女知。之恐其哭泣亂人正念。周氏曰。諾至期盥沐更
+<lb ed="X" n="0331b15"/>衣。面西端坐。誦阿彌陀經。至白&CB15112;孔&CB15179;句。舉目仰面。
+<lb ed="X" n="0331b16"/>若有所見。寂然而逝。此嘉慶六七年。間事也<note place="inline">&CB01191;生近驗錄</note>。</p></div2>
+<lb ed="X" n="0331b17"/><div2 type="other"><mulu type="其他" level="2" label="淩樹"/><head>淩樹</head>
+<lb ed="X" n="0331b18"/><p id="pX78p0331b1801">淩樹。字吉人。松江婁縣庠生。喜講性理之學。言行篤
+<lb ed="X" n="0331b19"/>實。鄉黨敬之晚年。閱雲棲法&CB15077;。遂發信心。常靜坐念
+<lb ed="X" n="0331b20"/>佛。晨夕有定課。時松人多未知念佛法門。淩樹實倡
+<lb ed="X" n="0331b21"/>之。繼起者遂眾。嘉慶十二年秋。得疾謂所親曰。我去
+<lb ed="X" n="0331b22"/>必趁中秋好月色。至中秋夜。果念佛而逝。時月明如
+<lb ed="X" n="0331b23"/>晝<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0331b24"/><div2 type="other"><mulu type="其他" level="2" label="沈暢"/><head>沈暢</head>
+<pb ed="X" id="X78.1550.0331c" n="0331c"/>
+<lb ed="X" n="0331c01"/><p id="pX78p0331c0101">沈暢。字紫林。元和武生。為人沈靜。以訓蒙自給。既而
+<lb ed="X" n="0331c02"/>歸心淨土。凡念佛七期必與焉。節間解館。及歲終。輒
+<lb ed="X" n="0331c03"/>居南禪寺念佛。一日忽謂其子曰。吾欲歸去。其子訝
+<lb ed="X" n="0331c04"/>之越日示微疾。招沙門數人助念。合掌而逝。有顧居
+<lb ed="X" n="0331c05"/>士者。亦居南禪念佛。先暢而去。西歸時。家人皆聞蓮
+<lb ed="X" n="0331c06"/>華香。欲為延僧助念。居士曰無庸。我<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>坐蓮華中。見
+<lb ed="X" n="0331c07"/>佛放光照我。我時在光中。不須燈燭也。如是三日。吉
+<lb ed="X" n="0331c08"/>祥而蛻。香三日始歇。事在嘉慶十五年<note place="inline">西歸見聞錄</note>。</p></div2>
+<lb ed="X" n="0331c09"/><div2 type="other"><mulu type="其他" level="2" label="蔣龜蒙"/><head>蔣龜蒙</head>
+<lb ed="X" n="0331c10"/><p id="pX78p0331c1001">蔣龜蒙。會稽人。壯年遊幕四方。樂行善事。尤注意淨
+<lb ed="X" n="0331c11"/>土一門。嘉興楞嚴寺念佛堂。及放生會。皆其侶建晚
+<lb ed="X" n="0331c12"/>年旋家。作淨室三間。為棲息地。中供阿彌陀佛像。日
+<lb ed="X" n="0331c13"/>課洪名十萬聲。數年不閒。嘉慶十六年某月。預知時
+<lb ed="X" n="0331c14"/>至。臨終前三日。&CB00642;辭親友至期邀僧十人於靜室念
+<lb ed="X" n="0331c15"/>佛。白趺坐庭中。僧眾繞行持名。日將午。正當行香。合
+<lb ed="X" n="0331c16"/>掌而逝<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0331c17"/><div2 type="other"><mulu type="其他" level="2" label="曹聖友"/><head>曹聖友</head>
+<lb ed="X" n="0331c18"/><p id="pX78p0331c1801">曹聖友。嘉善人。嘗患風病。手足癱瘓。進香杭之天竺。
+<lb ed="X" n="0331c19"/>於佛前發願。念佛求生誓不退轉。從此行住坐臥。佛
+<lb ed="X" n="0331c20"/>聲不絕。念至切處。必痛哭流涕。如是者十年。嘉慶十
+<lb ed="X" n="0331c21"/>六年七月十一日。令其子到北港荻秋庵。請僧六人
+<lb ed="X" n="0331c22"/>來家念佛。十四日僧至。聖友曰。吾十六日當西去。請
+<lb ed="X" n="0331c23"/>師等三日相助。感謝不淺。即於是日始。每日念香十
+<lb ed="X" n="0331c24"/>枝。行坐相半。聖友日隨之。至十六日晚。坐香甫及二
+<pb ed="X" id="X78.1550.0332a" n="0332a"/>
+<lb ed="X" n="0332a01"/>寸。遂化去<note place="inline">染香集</note>
+<lb ed="X" n="0332a02"/>西史氏曰。昔人念佛。痛哭流涕。今則釣譽沽名。即使
+<lb ed="X" n="0332a03"/>勇猛一時。旋復怠弛。用力多而成功少者。職是故也
+<lb ed="X" n="0332a04"/>慎之哉。</p></div2>
+<lb ed="X" n="0332a05"/><div2 type="other"><mulu type="其他" level="2" label="馮庭桂"/><head>馮庭桂</head>
+<lb ed="X" n="0332a06"/><p id="pX78p0332a0601">馮庭桂。蘇州元和人。受持五戒。嘗於普福禪院。禮華
+<lb ed="X" n="0332a07"/>嚴法華兩經。每日千拜。寒暑不閒。後居南禪亦然禮
+<lb ed="X" n="0332a08"/>經之暇。即念佛不輟。如是二十餘載。嘉慶十八年春。
+<lb ed="X" n="0332a09"/>預知時至。&CB00642;辭親故。安然念佛而逝。異香三日<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0332a10"/><div2 type="other"><mulu type="其他" level="2" label="浦文榮"/><head>浦文榮</head>
+<lb ed="X" n="0332a11"/><p id="pX78p0332a1101">浦文榮。吳江人。中年。歸依接待寺僧祥謙。秉受五戒。
+<lb ed="X" n="0332a12"/>發心念佛。求生西方。數十年日課佛號不輟。有二子。
+<lb ed="X" n="0332a13"/>一出家胥江禪院亦常至父舍。父子兄弟。同心念佛。
+<lb ed="X" n="0332a14"/>嘉慶十八年。文榮年七十。感微疾。自知時至。命二子
+<lb ed="X" n="0332a15"/>同稱佛號。合掌而逝。室中異香。竟日不散<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0332a16"/><div2 type="other"><mulu type="其他" level="2" label="鄭兆榮"/><head>鄭兆榮</head>
+<lb ed="X" n="0332a17"/><p id="pX78p0332a1701">鄭兆榮。字廷勳。吳江盛澤人。自幼茄齋好善。中年賈
+<lb ed="X" n="0332a18"/>於漢口。家漸起。而善心益厚。先是有同事妻某氏。因
+<lb ed="X" n="0332a19"/>病入冥。神責不孝。欲奪其命。氏急求免。神曰。爾欲消
+<lb ed="X" n="0332a20"/>罪。須向善人徐大均商之乃可。氏醒。如其言。乃獲免。
+<lb ed="X" n="0332a21"/>其徐大均者。素修淨業。兆榮至戚也。兆榮聞其事。遂
+<lb ed="X" n="0332a22"/>信向念佛。日漸加功。慨然捐貲萬金。開善堂。濟貧困。
+<lb ed="X" n="0332a23"/>回向淨土。客至無事。不交一言。晚年。自將久備杪枋
+<lb ed="X" n="0332a24"/>壽木售人。時懷數珠及錢。往諸貧里。施勸念佛。遇隆
+<pb ed="X" id="X78.1550.0332b" n="0332b"/>
+<lb ed="X" n="0332b01"/>冬號寒。雖解衣衣人。所不惜也。嘉慶十八年十二月。
+<lb ed="X" n="0332b02"/>染微疾。至望日。子欲辭之他往。兆榮曰。去宜速歸。吾
+<lb ed="X" n="0332b03"/>行有日矣。至期。面西趺坐。眷屬環立。兆榮曰。為我念
+<lb ed="X" n="0332b04"/>佛。菩薩降臨矣。眾聞異香。移時而化。年七十八<note place="inline">染香集</note>
+<lb ed="X" n="0332b05"/>西史氏曰世俗愚人。生前不修安養。但知預備壽木。
+<lb ed="X" n="0332b06"/>以為安頓一生。及其身入棺中。無錢財者。付之一堆
+<lb ed="X" n="0332b07"/>野火。有體面者。埋之萬里荒山。其為計亦左矣。今廷
+<lb ed="X" n="0332b08"/>勳以壽木售人。其亦有鑒於此夫。</p></div2>
+<lb ed="X" n="0332b09"/><div2 type="other"><mulu type="其他" level="2" label="吳濂"/><head>吳濂</head>
+<lb ed="X" n="0332b10"/><p id="pX78p0332b1001">吳濂。字&CB03953;謀。元和庠生。父奉佛。與師林寺某僧善。父
+<lb ed="X" n="0332b11"/>病。僧頻來問疾。開示念佛法門。濂在旁聞之。恍然有
+<lb ed="X" n="0332b12"/>省。遂棲心淨業為人簡默。雖念佛無間。人不知也。年
+<lb ed="X" n="0332b13"/>三十餘。家貧。以教讀為業。試前列。無喜色。嘗語所知
+<lb ed="X" n="0332b14"/>曰。我之志。固有大者在也。一日小腹忽起一瘤。醫治
+<lb ed="X" n="0332b15"/>罔效。瘤潰。血流不止。因賦詩二絕。一云贅瘤還繫贅
+<lb ed="X" n="0332b16"/>瘤身。自歎今生半廢人。四大本來無我相。皮囊雖好
+<lb ed="X" n="0332b17"/>不多春。一云。不用良方不用醫。自家有病自家知。從
+<lb ed="X" n="0332b18"/>今晝夜彌陀佛。證到金剛不壞時。臥病兩月。病苦日
+<lb ed="X" n="0332b19"/>劇。念力益堅。臨沒前三日。預知時至。屏家人勿近。至
+<lb ed="X" n="0332b20"/>期。請名僧數人助念。跏趺合掌而終。時在嘉慶十九
+<lb ed="X" n="0332b21"/>年二月二十三日<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0332b22"/><div2 type="other"><mulu type="其他" level="2" label="沈廷瑜"/><head>沈廷瑜</head>
+<lb ed="X" n="0332b23"/><p id="pX78p0332b2301">沈廷瑜。嘉興北版人。性端謹。遇事必躬為之。而信口
+<lb ed="X" n="0332b24"/>佛聲。滔滔不絕。人或笑之。皆所不顧也。如是數十年。
+<pb ed="X" id="X78.1550.0332c" n="0332c"/>
+<lb ed="X" n="0332c01"/>自云。念佛愈能熟。處事愈詳明。年七十三。示微疾忽
+<lb ed="X" n="0332c02"/>語家人曰。佛來也。為我炳燭。手自焚香而絕。時嘉慶
+<lb ed="X" n="0332c03"/>十九年三月十九日也<note place="inline">染香集</note>
+<lb ed="X" n="0332c04"/>西史氏曰。念佛愈能熟。處事愈詳明。此真動靜一如。
+<lb ed="X" n="0332c05"/>深入三昧者也。營心名利者。動云我處事紛心。無暇
+<lb ed="X" n="0332c06"/>念佛。直至生死到來。放下空手。是誰之過與。</p></div2>
+<lb ed="X" n="0332c07"/><div2 type="other"><mulu type="其他" level="2" label="施靜巖"/><head>施靜巖</head>
+<lb ed="X" n="0332c08"/><p id="pX78p0332c0801">施靜巖。華亭人。性端謹作事周密。為人謀。必盡心。親
+<lb ed="X" n="0332c09"/>族多賴之。嘉慶二十三年春。臥病。藥餌罔效。入夏病
+<lb ed="X" n="0332c10"/>劇。其表兄鄭慧&CB06059;來視。憫之曰。弟病亟矣。何不念阿
+<lb ed="X" n="0332c11"/>彌陀佛。經云。臨終十念。亦得往生。靜巖曰。我恨平日
+<lb ed="X" n="0332c12"/>未知念佛。今不能念矣。奈何。遂大哭。慧&CB06059;曰。無妨。弟
+<lb ed="X" n="0332c13"/>聽我念。心中。觀想可也。即朗唱佛名。靜巖亦高聲隨
+<lb ed="X" n="0332c14"/>誦。纔數十聲。忽曰。阿彌陀佛并諸菩薩多在目前。言
+<lb ed="X" n="0332c15"/>畢而逝<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0332c16"/><div2 type="other"><mulu type="其他" level="2" label="張孝林"/><head>張孝林</head>
+<lb ed="X" n="0332c17"/><p id="pX78p0332c1701">張孝林。號鹿泉。華亭人。奉佛甚&CB05418;。好施與。告急者無
+<lb ed="X" n="0332c18"/>弗應。日誦金剛彌陀諸經。並持佛號萬聲。嘉慶二十
+<lb ed="X" n="0332c19"/>三年。晨起。告家人曰。吾夢蓮華開矣。明年正月某夜。
+<lb ed="X" n="0332c20"/>炷香向西。朗誦彌陀經及心經各一周。復頂禮者三。
+<lb ed="X" n="0332c21"/>趺坐合掌。默持佛號。至夜半。含笑而逝。異香滿室。</p><p id="pX78p0332c2120" place="inline">先
+<lb ed="X" n="0332c22"/>是孝林第四子。名驥鍾。隨父修淨業。施與周急。亦如
+<lb ed="X" n="0332c23"/>孝林。自奉甚薄。蔬食終年不厭。事親孝。母死。哀毀骨
+<lb ed="X" n="0332c24"/>立嘔血數升。曰父有三兄在。我去矣。即趺坐母柩前。
+<pb ed="X" id="X78.1550.0333a" n="0333a"/>
+<lb ed="X" n="0333a01"/>默持佛號。閱三日。捻珠而逝。載入郡志<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0333a02"/><div2 type="other"><mulu type="其他" level="2" label="方剛"/><head>方剛</head>
+<lb ed="X" n="0333a03"/><p id="pX78p0333a0301">方剛。字鐵華。華亭庠生。與蓮生庵主。洵庵為方外交。
+<lb ed="X" n="0333a04"/>知念佛法門。由是長齋念佛。精進數年。嘉慶二十三
+<lb ed="X" n="0333a05"/>年秋。染疾。自知不起。絕食飲水。命其弟邀洵庵夜話。
+<lb ed="X" n="0333a06"/>謂曰。承師開示念佛法門。遵以修行。今我於十五日
+<lb ed="X" n="0333a07"/>去矣。感不去心。故相邀一別耳。至期能來一助為望。
+<lb ed="X" n="0333a08"/>遂口占一聯云。十念堪憑。休放過臨終一念。眾生可
+<lb ed="X" n="0333a09"/>憫。先了&CB00230;自<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>三生。<app><lem wit="【CBETA】" resp="CBETA.maha">屆</lem><rdg wit="【卍續】">屇</rdg></app>期洵庵至。剛曰。頃<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>見大和
+<lb ed="X" n="0333a10"/>尚接引。可急焚香。念佛千聲即去矣。眾稱佛名果至
+<lb ed="X" n="0333a11"/>千聲。合掌而瞑<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0333a12"/><div2 type="other"><mulu type="其他" level="2" label="潘萬宗"/><head>潘萬宗</head>
+<lb ed="X" n="0333a13"/><p id="pX78p0333a1301">潘萬宗。吳江黎涇港人。中年喪子。發出世心。詣南海
+<lb ed="X" n="0333a14"/>佛頂山。求藏悟和尚薙染。悟公曰。爾有母在。未可也。
+<lb ed="X" n="0333a15"/>況修行不在出家。得一良友。不時熏習足矣。萬宗乃
+<lb ed="X" n="0333a16"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。晚年。長齋奉佛。下體素患癬疾。至是忽升頭面。甚
+<lb ed="X" n="0333a17"/>重。欲赴水自盡。方外友定川止之曰。疾從業起。業由
+<lb ed="X" n="0333a18"/>心生。如其含怨沈波。則迷根深植。後生益苦。可不懼
+<lb ed="X" n="0333a19"/>耶。若能悔悟自責。隨緣忍受。益其進修。則禍為福基。
+<lb ed="X" n="0333a20"/>所以經歎修行正念。而臨終尤甚。祇為心力難思故
+<lb ed="X" n="0333a21"/>也。萬宗言下豁然。由是念佛愈勤。一載後。疾良<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。嘉
+<lb ed="X" n="0333a22"/>慶二十四年仲夏時。見淨室門上油雲盤旋。隱露葫
+<lb ed="X" n="0333a23"/>蘆放光狀。心竊異之。是年十月朔。示微疾。又三日。沐
+<lb ed="X" n="0333a24"/>浴更衣。端坐繩&CB00646;。令妻助稱佛號。移時而寂。妻為焚
+<pb ed="X" id="X78.1550.0333b" n="0333b"/>
+<lb ed="X" n="0333b01"/>衣。火滅後。&CB01926;燼中現三聖像。眉目分明。衣摺畢具。又
+<lb ed="X" n="0333b02"/>於招魂日化一襯衫。&CB01926;上現大字數十。皆赤色。惜為
+<lb ed="X" n="0333b03"/>無知者埽去。遠近歎異。年六十六<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0333b04"/><div2 type="other"><mulu type="其他" level="2" label="沈舒華"/><head>沈舒華</head>
+<lb ed="X" n="0333b05"/><p id="pX78p0333b0501">沈舒華。號苧茶。錢唐孝廉。自幼敬信三寶。力行善事。
+<lb ed="X" n="0333b06"/>嘗刊佛經及諸善書印施。戒殺放生等事。尤實力奉
+<lb ed="X" n="0333b07"/>行。中年受五戒。長齋奉佛。專心淨土。日誦彌陀名號
+<lb ed="X" n="0333b08"/>五萬聲。數十年無間。晚選甯郡教職。辭不赴。繪趺坐
+<lb ed="X" n="0333b09"/>蓮臺圖以見志。一夕五鼓。忽睹室中光明。以為天曉。
+<lb ed="X" n="0333b10"/>遽起禮拜。未幾復暗。閱半月。早誦甫畢。覺體憊倦。仍
+<lb ed="X" n="0333b11"/>默持佛名不輟。明日晚。合掌而逝。時在嘉慶二十四
+<lb ed="X" n="0333b12"/>年十二月十五日<note place="inline">染香集</note>
+<lb ed="X" n="0333b13"/>西史氏曰。古人有鏡光現於壁端者。有月光現於塔
+<lb ed="X" n="0333b14"/>上者。往生集謂身心瑩徹之明驗。室中光明。得毋類
+<lb ed="X" n="0333b15"/>是。</p></div2>
+<lb ed="X" n="0333b16"/><div2 type="other"><mulu type="其他" level="2" label="沈虞尊"/><head>沈虞尊</head>
+<lb ed="X" n="0333b17"/><p id="pX78p0333b1701">沈虞尊。震澤麻園&CB15147;人。自幼至老。念佛日課。無有間
+<lb ed="X" n="0333b18"/>斷。臨終前一日。&CB00642;召親友告別。屆期澡浴易衣。出坐
+<lb ed="X" n="0333b19"/>堂中。合掌念佛而逝。卒時室中異香。達於鄰里。年六
+<lb ed="X" n="0333b20"/>十七<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0333b21"/><div2 type="other"><mulu type="其他" level="2" label="馬敬修"/><head>馬敬修</head>
+<lb ed="X" n="0333b22"/><p id="pX78p0333b2201">馬敬修。松江金山縣人。中年好道。與里中同志數人。
+<lb ed="X" n="0333b23"/>共修淨業。行願切實。樂善不倦。戒殺放生。尤為勇猛。
+<lb ed="X" n="0333b24"/>會參一和尚。暨松濤和尚。相與提持。益切求生之願。
+<pb ed="X" id="X78.1550.0333c" n="0333c"/>
+<lb ed="X" n="0333c01"/>即受優婆塞戒。苦志數年。後病頤腫。轉側維艱。然志
+<lb ed="X" n="0333c02"/>不稍懈。適松濤和尚來問疾。留之念佛相助。三日後。
+<lb ed="X" n="0333c03"/>自見&CB00646;前有金小塔。淩空而下。兼有四色蓮華。鮮盛
+<lb ed="X" n="0333c04"/>異常。乃合掌謝眾曰。導師來矣。連稱佛號而瞑<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0333c05"/><div2 type="other"><mulu type="其他" level="2" label="許仁熟"/><head>許仁熟</head>
+<lb ed="X" n="0333c06"/><p id="pX78p0333c0601">許仁熟。丹徒南鄉人。性&CB05109;厚。父悟誠。精修淨業。仁熟
+<lb ed="X" n="0333c07"/>亦篤信三寶。常誦準提&CB00057;。既冠。肄業城中。每得修貲。
+<lb ed="X" n="0333c08"/>輒放生濟苦。悟誠欲為聘妻。辭之。年二十二赴院試。
+<lb ed="X" n="0333c09"/>得咯血疾。後數年漸入沈&CB04955;。呻吟&CB00646;第。悟誠曉之曰。
+<lb ed="X" n="0333c10"/>病乃宿業所招。西方阿彌陀佛。是無上醫王。汝能往
+<lb ed="X" n="0333c11"/>生彼國。萬劫沉&CB04955;。一朝脫去矣。仁熟恍然。遂請竹林
+<lb ed="X" n="0333c12"/>寺雪谷和尚。庭中設座。受三歸五戒。發露懺悔。刻志
+<lb ed="X" n="0333c13"/>西方。至四月八日。令延僧念佛。以七日為期。期滿。即
+<lb ed="X" n="0333c14"/>薙髮披緇。眷屬悲甚。仁熟曰。爾等速去。勿亂我正念。
+<lb ed="X" n="0333c15"/>自此持誦益力。五月一日。又令延僧念佛七日。遂絕
+<lb ed="X" n="0333c16"/>粒飲水。直身仰臥。莫能舉轉。至初六日晚。謂悟誠曰。
+<lb ed="X" n="0333c17"/>今夜圓滿可耳。遂上燈起香。至夜半。忽窗外紅光燭
+<lb ed="X" n="0333c18"/>天。連放二次。仁熟自力轉身。右&CB00169;合掌。微笑而逝。年
+<lb ed="X" n="0333c19"/>二十五。</p><p id="pX78p0333c1904" place="inline">悟誠者。字心僧。有詠道詩偈行世。今錄其四
+<lb ed="X" n="0333c20"/>首。一云。心似浮雲到處閒。本來不住有無邊。黃華翠
+<lb ed="X" n="0333c21"/>竹皆真諦。一著研求便落詮。一云。勤修淨業脫塵緣。
+<lb ed="X" n="0333c22"/>不用思維自了然。若是狐疑生識見。密雲濃霧障青
+<lb ed="X" n="0333c23"/>天。一云。談宗講教世滔滔。競說聰明見地高。何似堅
+<lb ed="X" n="0333c24"/>修真實行。彌陀一句斬魔刀。一云。萬劫沈迷悔悟遲。
+<pb ed="X" id="X78.1550.0334a" n="0334a"/>
+<lb ed="X" n="0334a01"/>今朝始識路多歧。幻緣報盡成無漏。七寶池蓮占一
+<lb ed="X" n="0334a02"/>枝<note place="inline">詠道詩偈并序</note>。</p></div2></div1>
+<lb ed="X" n="0334a03"/>
+<lb ed="X" n="0334a04"/><juan fun="close" n="2"><jhead>淨土聖賢錄續編卷二</jhead></juan>
+<lb ed="X" n="0334a05"/><milestone unit="juan" n="3"/>
+<lb ed="X" n="0334a06"/>
+<lb ed="X" n="0334a07"/><juan fun="open" n="3"><mulu type="卷" n="3"/><jhead>淨土聖賢錄續編卷三</jhead></juan>
+<lb ed="X" n="0334a08"/>
+<lb ed="X" n="0334a09"/><div1 type="other"><mulu type="其他" level="1" label="往生居士第四之二"/><head>往生居士第四之二</head>
+<lb ed="X" n="0334a10"/><div2 type="other"><mulu type="其他" level="2" label="裴永度"/><head>裴永度</head>
+<lb ed="X" n="0334a11"/><p id="pX78p0334a1101">裴永度。江南泰州人。世居曲塘鎮。耕稼為業。性恬淡
+<lb ed="X" n="0334a12"/>無所好。而見善必為。幼即篤信佛法。長齋課佛名無
+<lb ed="X" n="0334a13"/>間。既而歸依高旻古光和尚。受滿分優婆塞戒。行持
+<lb ed="X" n="0334a14"/>嚴潔。未嘗缺漏。其妻亦信向念佛法門。受優婆夷戒。
+<lb ed="X" n="0334a15"/>夫婦雖同居一室。數十年中。履踐純白。人無得而議
+<lb ed="X" n="0334a16"/>焉。早年無子。唯一女。亦齋素奉佛。未幾懇求出家。許
+<lb ed="X" n="0334a17"/>之。為薙髮披緇。受苾芻尼大戒。永度捨宅為庵。令妻
+<lb ed="X" n="0334a18"/>女同修淨業。自則別搆靜室。獨居念佛者數十年。後
+<lb ed="X" n="0334a19"/>年近七旬。一日告其親族曰。吾五日後當相別矣。幸
+<lb ed="X" n="0334a20"/>以吾遺蛻焚化。此身如幻。勿錯相愛惜也。至期。端坐
+<lb ed="X" n="0334a21"/>持佛名而逝。家人從其遺命。闍維。得舍利百餘粒如
+<lb ed="X" n="0334a22"/>豆。五色晶瑩。遂貯以&CB00222;璃缾。供奉庵中。時道光初年
+<lb ed="X" n="0334a23"/>事也<note place="inline">染香續集</note>。</p></div2>
+<lb ed="X" n="0334a24"/><div2 type="other"><mulu type="其他" level="2" label="鍾九思"/><head>鍾九思</head>
+<pb ed="X" id="X78.1550.0334b" n="0334b"/>
+<lb ed="X" n="0334b01"/><p id="pX78p0334b0101">鍾九思。杭州人。家西溪。為人長厚。篤信三寶。鄰近僧
+<lb ed="X" n="0334b02"/>舍茅蓬數十。九思一一護持。供養不怠。或以事故。虧
+<lb ed="X" n="0334b03"/>其多金。亦無怨色。與人交易。無分毫欺詐。婦沈氏同
+<lb ed="X" n="0334b04"/>修淨業。九思作諸功德。恒樂助之。一子一女。皆樸素
+<lb ed="X" n="0334b05"/>勤謹。道光六年初夏。九思示微疾。至二十四日清晨。
+<lb ed="X" n="0334b06"/>告其妻曰。我以平日忠實不欺。淨願肫切。蒙佛菩薩
+<lb ed="X" n="0334b07"/>接引。今午當西去。爾等好事。量力常作。其慎守我志
+<lb ed="X" n="0334b08"/>也。及午曰。為我然香燭。復謂沈氏曰。爾來日無多。念
+<lb ed="X" n="0334b09"/>佛緊要。言訖而逝。年五十二歲。明年七月。沈氏亦示
+<lb ed="X" n="0334b10"/>疾。邀其夫兄。將家事交付畢。靜坐念佛。至二十一日。
+<lb ed="X" n="0334b11"/>謂子女曰。做好人。<note n="0334001" resp="Xuzangjing" place="foot text" type="orig">洎疑泊</note>洎然而逝。年五十四歲<note place="inline">染香續集</note>。</p></div2>
+<lb ed="X" n="0334b12"/><div2 type="other"><mulu type="其他" level="2" label="周光"/><head>周光</head>
+<lb ed="X" n="0334b13"/><p id="pX78p0334b1301">周光。字西蓮。江甯諸生。天性純厚。淡於榮利。雖家世
+<lb ed="X" n="0334b14"/>貴顯。絕無紈&CB01726;習。中年。長齋奉佛。日誦金剛般若經。
+<lb ed="X" n="0334b15"/>佛號數萬聲。求生淨土。每朋友相見。寒暄數語外。即
+<lb ed="X" n="0334b16"/>提唱淨土法門。諄諄勸勉。集貲重刊彌陀經疏鈔。手
+<lb ed="X" n="0334b17"/>自校&CB00677;。流通江淮間。耄年。神氣矍鑠。念佛益銳。嘉慶
+<lb ed="X" n="0334b18"/>二十二年秋。患疝疾甚危。而執持名號不輟。疾旋<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。
+<lb ed="X" n="0334b19"/>人或以此。稱之。則云我於爾時。初亦痛苦難忍。繼想
+<lb ed="X" n="0334b20"/>身既是假。則苦亦非真。況身之與心。精麤判然。彼身
+<lb ed="X" n="0334b21"/>自痛苦。我無如彼何。我心自念佛。彼亦無如我何。始
+<lb ed="X" n="0334b22"/>猶身心角立。漸漸只知有心。不知有身。而痛苦遂絕
+<lb ed="X" n="0334b23"/>矣。尋卒。嘗作淨土詩百餘首。刊行於世。一云。早投清
+<lb ed="X" n="0334b24"/>泰為&CB00246;息。休向濁塵論有無。煩惱熾時徵定力。念頭
+<pb ed="X" id="X78.1550.0334c" n="0334c"/>
+<lb ed="X" n="0334c01"/>起處作工夫。尺香勤課三千佛。趁意隨輪百八珠。慈
+<lb ed="X" n="0334c02"/>母倚閭&CB00980;眼望。可憐逝子尚迷塗。一云。娑婆障道事
+<lb ed="X" n="0334c03"/>縱橫。說著蓮&CB15131;夢亦清。一息不來千劫恨。寸陰肯捨
+<lb ed="X" n="0334c04"/>六時名。如雞抱卵溫相續。似火鎔金鍊愈精。當下情
+<lb ed="X" n="0334c05"/>根除&CB00230;盡。自然真性現圓明<note place="inline">染香集淨土詠</note>
+<lb ed="X" n="0334c06"/>西史氏曰。佛言苦莫過於有身。是故有身即有罪業。
+<lb ed="X" n="0334c07"/>有罪業即有痛苦。洵能知身假苦不真。斯返本窮源。
+<lb ed="X" n="0334c08"/>罪亡心滅。西蓮其智矣乎。</p></div2>
+<lb ed="X" n="0334c09"/><div2 type="other"><mulu type="其他" level="2" label="路坤"/><head>路坤</head>
+<lb ed="X" n="0334c10"/><p id="pX78p0334c1001">路坤。江&CB03408;人。性慈善。信三寶。其弟某。服官他處。坤嘗
+<lb ed="X" n="0334c11"/>至其署。見廚中日事宰割。惻然傷之。常以因果勸諭
+<lb ed="X" n="0334c12"/>其弟。而仍復不斷。坤遂發願茹素。即於署中<app><lem wit="【CBETA】" resp="CBETA.maha">刺</lem><rdg wit="【卍續】">剌</rdg></app>舌血。
+<lb ed="X" n="0334c13"/>書阿彌陀經。求生淨土。旋辭歸。讀書教子。以道自樂。
+<lb ed="X" n="0334c14"/>未幾。子入邑庠。乃令教讀自活。自此不問家事。一心
+<lb ed="X" n="0334c15"/>念佛。雖寒暑疾病無少間。與周光交好。常以淨業。互
+<lb ed="X" n="0334c16"/>相淬厲。坤體素肥。緣茹素刻苦。日漸減瘦。至晚年。形
+<lb ed="X" n="0334c17"/>消骨立。而課誦益密。無時無事。不迴向西方。素喜誦
+<lb ed="X" n="0334c18"/>金剛經。每於佛前跪誦。雖困頓俯伏。卷未終。不起也。
+<lb ed="X" n="0334c19"/>偶染病垂危。家人為備身後事。坤於恍惚間。見梵僧
+<lb ed="X" n="0334c20"/>八人。身皆丈餘。入其室中。舖設壇場。代作佛事。坤方
+<lb ed="X" n="0334c21"/>隨誦彌陀經。遽醒。經聲猶喃喃在口。而病若失矣。逾
+<lb ed="X" n="0334c22"/>年。無疾而逝<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0334c23"/><div2 type="other"><mulu type="其他" level="2" label="吳允升"/><head>吳允升</head>
+<lb ed="X" n="0334c24"/><p id="pX78p0334c2401">吳允升。字常導。徽州歙縣人。少年貿易蘇杭間。偶於
+<pb ed="X" id="X78.1550.0335a" n="0335a"/>
+<lb ed="X" n="0335a01"/>虎邱遇一僧。熟視之。謂曰。子頗有善根。惜二十九歲
+<lb ed="X" n="0335a02"/>有水&CB00147;。當柰何。允升甚恐。求解免之&CB15081;。僧良久曰。從
+<lb ed="X" n="0335a03"/>今以往。戒殺放生。每日&CB05418;誠念佛。持大悲&CB00057;。或可免
+<lb ed="X" n="0335a04"/>耳。允升信受奉行。并常以此勸人。至二十九歲。因歸
+<lb ed="X" n="0335a05"/>里道由杭州。於江干附舟。同舟十七人。開行數十里。
+<lb ed="X" n="0335a06"/>而潮適至。巨浪洶湧。勢瀕危。忽憶前僧言。急合掌念
+<lb ed="X" n="0335a07"/>佛。未幾。舟覆。允升墮水。於昏瞀中聞人語曰。吳允升
+<lb ed="X" n="0335a08"/>勸人念佛有功。可免此難。開目顧視。則身<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>登岸。乃
+<lb ed="X" n="0335a09"/>為漁人撈救而出也。冠履盡被水衝去。唯平日念佛
+<lb ed="X" n="0335a10"/>十八子數珠一串。猶牢持手中。其同舟十六人。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>漂
+<lb ed="X" n="0335a11"/>沒無蹤矣。自是益信念佛功德。不可思議。不復還里。
+<lb ed="X" n="0335a12"/>於吳山開相館。謂藉此可與人談因果。自愈精進。嘗
+<lb ed="X" n="0335a13"/>然臂香作求生西方四字。以表行願。杭人承雲棲之
+<lb ed="X" n="0335a14"/>遺風。多知信向念佛法門。但從事者。祇屬老年。每月
+<lb ed="X" n="0335a15"/>一日。於寺中念佛。謂之老兒會。少年則否。會中亦不
+<lb ed="X" n="0335a16"/>敢多集人。恐涉異教之嫌。允升慨然曰。念佛之法。無
+<lb ed="X" n="0335a17"/>分老少。佛為正教。我　朝崇尚。乃一一為開導之。是
+<lb ed="X" n="0335a18"/>時延公儉田。方主鹽政於杭。允升與有舊。因募捐二
+<lb ed="X" n="0335a19"/>百金為倡。於紫陽山寶成寺。啟念佛會。每植會期。為
+<lb ed="X" n="0335a20"/>諸人開演利益。廣說因果。未發心者。勸其發心。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>發
+<lb ed="X" n="0335a21"/>心者。勉其精進。又於城中仙林寺等處。皆舉會勸化。
+<lb ed="X" n="0335a22"/>信從者日眾。每期不下千餘人。率皆恂恂恭謹。絕無
+<lb ed="X" n="0335a23"/>喧囂之習。寺中西方殿。并丈六像。亦是時所重新者。
+<lb ed="X" n="0335a24"/>一日清晨。人共見大勢至菩薩鼻中。放白光如繩。蜿
+<pb ed="X" id="X78.1550.0335b" n="0335b"/>
+<lb ed="X" n="0335b01"/>蜒殿庭。逾數刻始滅。自是以來。杭城念佛之風大行。
+<lb ed="X" n="0335b02"/>城鄉之間。互相感化男女老幼。手數珠。口喃喃者。習
+<lb ed="X" n="0335b03"/>見為常。不復詫異。允升之名。婦孺皆知。每值會期。無
+<lb ed="X" n="0335b04"/>不延佇其來。西湖有靈峰寺。伏虎禪師遺跡也。穨廢
+<lb ed="X" n="0335b05"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>久。允升於道光初年發願重興。經營數載。始告厥
+<lb ed="X" n="0335b06"/>成。年六十六卒。臨終時。正念分明。自言見無數菩薩
+<lb ed="X" n="0335b07"/>經行於前。趺坐泊然而化。時在道光九年五月朔日
+<lb ed="X" n="0335b08"/><note place="inline">染香續集</note>
+<lb ed="X" n="0335b09"/>西史氏曰。路坤念佛。本求往生。而兼免現生之病苦。
+<lb ed="X" n="0335b10"/>常導念佛。本圖脫難。而復獲瑞應於臨時。孰謂念佛
+<lb ed="X" n="0335b11"/>功德。但利身後乎。顧彼二公者。皆實力奉行。諦信不
+<lb ed="X" n="0335b12"/>貳。今人以少時之力。逞意貪求。不能徼倖於萬一。遂
+<lb ed="X" n="0335b13"/>謂佛無靈驗。盡棄前功。良可慨也夫。</p></div2>
+<lb ed="X" n="0335b14"/><div2 type="other"><mulu type="其他" level="2" label="范元禮"/><head>范元禮</head>
+<lb ed="X" n="0335b15"/><p id="pX78p0335b1501">范元禮。字用和。錢塘人。幼習儒。履踐篤實。事親孝。父
+<lb ed="X" n="0335b16"/>有疾。刲股和藥以進。遂霍然。母余氏病。復刲之而愈。
+<lb ed="X" n="0335b17"/>迨父母沒。妻隨亡。時甫壯年。慨然卻塵緣。從養真家
+<lb ed="X" n="0335b18"/>遊。經十餘年。頗著功效。後閱雲棲書。有省。遂於雲棲
+<lb ed="X" n="0335b19"/>受五戒。壹志堅持。乃至獸毛蠶吐。不以著體。盡棄所
+<lb ed="X" n="0335b20"/>習。專修淨土。於觀想一法。尤為精密。先是其母臨終
+<lb ed="X" n="0335b21"/>時。彌留瞀亂。元禮勸以專心觀想觀世音。其母從之。
+<lb ed="X" n="0335b22"/>一日忽謂曰。我見菩薩接引。將到勝妙處矣。言訖。安
+<lb ed="X" n="0335b23"/>然而終。故元禮深信觀想之效。性慈善好施與。作放
+<lb ed="X" n="0335b24"/>生恤貧等事。審慎周詳。不惜勞瘁。遇貧難僧眾。供養
+<pb ed="X" id="X78.1550.0335c" n="0335c"/>
+<lb ed="X" n="0335c01"/>不缺。一時緇白。無不耳其名者。道光八年夏。掩關城
+<lb ed="X" n="0335c02"/>南大洞閣。為百日念佛期。一日方靜息間。壯歲玄功
+<lb ed="X" n="0335c03"/>忽現。覺天地之氣於&CB00980;空中。縷縷然。汩汩然。從口鼻
+<lb ed="X" n="0335c04"/>貫入。直至丹田。與<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>之元氣和合。此時輕安之境。不
+<lb ed="X" n="0335c05"/>可言喻。頃有嬰兒。長數寸。由頂門出。游漾於前。經時
+<lb ed="X" n="0335c06"/>許。仍由頂門入。自此以後。每至靜極忘念之際。輒有
+<lb ed="X" n="0335c07"/>嬰兒出入如前。初意甚喜。既轉念曰。此得非如楞嚴
+<lb ed="X" n="0335c08"/>五十種陰魔之謂耶。若作奇特。將受&CB00320;邪。且念佛者
+<lb ed="X" n="0335c09"/>志在西方。聖境不現。奚以此為。遂時時覺照。正念現
+<lb ed="X" n="0335c10"/>前。嬰兒乃不復出。從此於唯心之旨。深有契悟。信行
+<lb ed="X" n="0335c11"/>願力。愈加純摯。常語人曰。此乃生平第一險關。少不
+<lb ed="X" n="0335c12"/>省覺。便墮旁門。以知修行不可不慎也。十一年夏。養
+<lb ed="X" n="0335c13"/>靜於清泰門外寂照寺。其地有瞽目沈嫗。志念佛。而
+<lb ed="X" n="0335c14"/>為媳所阻。元禮聞之曰。是可轉也。彼所患者貧耳。若
+<lb ed="X" n="0335c15"/>助以資糧。自當無辭。遂入城。為募月米數斗。嫗取給
+<lb ed="X" n="0335c16"/>外。有餘則逮其媳。乃歡然不阻。元禮復為演說念佛
+<lb ed="X" n="0335c17"/>利益。并教以懺悔發願。閱數月。其鄰人來告曰。曩者
+<lb ed="X" n="0335c18"/>念佛老嫗。生西去矣。問其由。具言自得供養後。如何
+<lb ed="X" n="0335c19"/>精勤念佛。如何懺悔發願。至某月。預知去期。以告媳。
+<lb ed="X" n="0335c20"/>及期。沐浴更衣。合掌坐逝。曾遺言致謝范公。唯尚無
+<lb ed="X" n="0335c21"/>棺殮。媳將賣女營辦。奈何。元禮即謀諸善友。得殮資
+<lb ed="X" n="0335c22"/>若干。交其鄰人持去。旬日後。元禮詣其家訪之。至則
+<lb ed="X" n="0335c23"/>有手數珠。口喃喃持佛名者。其媳也。一見元禮。歡然
+<lb ed="X" n="0335c24"/>迎謝。甫坐次。其鄰舍人&CB05855;至。爭欲識范公面。旋交口
+<pb ed="X" id="X78.1550.0336a" n="0336a"/>
+<lb ed="X" n="0336a01"/>為述老嫗近事。一如向者鄰人之言。復指一幼女曰。
+<lb ed="X" n="0336a02"/>此即蒙恩免賣者也。問嫗安柩在。則曰自棺殮後。鄰
+<lb ed="X" n="0336a03"/>里共議。彼城中人。尚肯遠來作善。我等鄰舍。豈可坐
+<lb ed="X" n="0336a04"/>視。遂集貲買地。并其子久停之棺。同日安葬矣。元禮
+<lb ed="X" n="0336a05"/>欣然歸。是年冬。其所經紀善事。促了之。明年正月。法
+<lb ed="X" n="0336a06"/>侶所。以次過從。殷殷敘談。若將遠別者。其子有松江
+<lb ed="X" n="0336a07"/>之行。語之曰。汝出外。好自作務。吾年老。倘有變故。慎
+<lb ed="X" n="0336a08"/>勿倉皇。遽拋正事。負人委任。其子領之。謂是老年人
+<lb ed="X" n="0336a09"/>過慮語也。至二十四日。早起。謂家人曰。今日殊覺氣
+<lb ed="X" n="0336a10"/>急。然又如常食粥。粥後。復詣鄰舍盤桓刻許。歸家。則
+<lb ed="X" n="0336a11"/>就堂中端坐念佛。姪輩有問。搖手止之。至午。氣漸微。
+<lb ed="X" n="0336a12"/>遂終。次日酉時入殮。其頂猶溫。年六十三。時在道光
+<lb ed="X" n="0336a13"/>十二年<note place="inline">染香續集</note>
+<lb ed="X" n="0336a14"/>西史氏曰。觀用和示子別友。先期了結諸務。不可謂
+<lb ed="X" n="0336a15"/>非預知時至矣。然則何不明言之。曰。所貴預知者。貴
+<lb ed="X" n="0336a16"/>其自知。以穩心地耳。非圖稱美於人也。況至時而善
+<lb ed="X" n="0336a17"/>友齊臨。或有助道之益。設使眷屬圍繞。涕淚哭泣。豈
+<lb ed="X" n="0336a18"/>非欲成反敗耶。和之不言。良有以也。</p></div2>
+<lb ed="X" n="0336a19"/><div2 type="other"><mulu type="其他" level="2" label="孫復元"/><head>孫復元</head>
+<lb ed="X" n="0336a20"/><p id="pX78p0336a2001">孫復元。字敏斯。仁和庠生。性慈善。幼喜讀感應篇陰
+<lb ed="X" n="0336a21"/>&CB01460;文。立願遵行。所居與屠肆相對。一日晨起。見屠豕。
+<lb ed="X" n="0336a22"/>遂發願戒殺。買豬放雲棲。雖不能斷肉食。而常茹素。
+<lb ed="X" n="0336a23"/>蚊蚋蚤蝨。亦不偶傷。壯年後。日課佛號金剛經大悲
+<lb ed="X" n="0336a24"/>懺。兼記功過格。甫二載。夜行無燭。目前輒有光明。愈
+<pb ed="X" id="X78.1550.0336b" n="0336b"/>
+<lb ed="X" n="0336b01"/>自奮勉。行諸功德。尤以濟貧放生為急務。事無巨細。
+<lb ed="X" n="0336b02"/>皆盡力為之。嗣因襄理鹺務。塵擾紛紜。夜行光明漸
+<lb ed="X" n="0336b03"/>隱。乃矍然曰。吾自誤大矣。遂辭歸黽勉如前。光明復
+<lb ed="X" n="0336b04"/>顯。益信感應不&CB00980;。念佛觀想。一意西馳。數十年無間。
+<lb ed="X" n="0336b05"/>七旬外。彌加精進。屢感瑞應。或夢大星如&CB01405;。燭照<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0336b06"/>身。或夢長跪白蓮。對佛持誦。一夕纔就枕。聞人語曰。
+<lb ed="X" n="0336b07"/>德由<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>積。福自天來。開眼無所&CB00418;。而語音歷歷在耳。
+<lb ed="X" n="0336b08"/>道光十二年二月二十一日。正禮拜時。恍惚見一披
+<lb ed="X" n="0336b09"/>袈裟者。立於蒲團前。頂禮時。首著其衣。及舉首。則又
+<lb ed="X" n="0336b10"/>見其據高座。越三日。覺精力憊倦。臥持佛號。牟尼妙
+<lb ed="X" n="0336b11"/>相。復現於窗&CB04523;間。至三月二日早起。神志怡悅。隨意
+<lb ed="X" n="0336b12"/>行坐。略無病態。迨晚。諭家人曰。明日為我買螺螄二
+<lb ed="X" n="0336b13"/>擔。鱔鰻數百斤。散放河池。且曰我死。汝等務須念佛
+<lb ed="X" n="0336b14"/>放生。力行善事。勿忘此語。時方坐繩&CB00646;。即燈下握管。
+<lb ed="X" n="0336b15"/>親書放生文疏。字畫端楷。無少舛錯。書畢安臥。微聲
+<lb ed="X" n="0336b16"/>持佛號而終。年七十五<note place="inline">染香續集</note>
+<lb ed="X" n="0336b17"/>西史氏曰。觀想功深。而屢感瑞應。宜矣。至其聞人語
+<lb ed="X" n="0336b18"/>於&CB00980;空。&CB00418;聖容於禮拜。雖云一誠所感。不幾鄰於魔
+<lb ed="X" n="0336b19"/>事乎。姑錄之以俟有識者正焉。</p></div2>
+<lb ed="X" n="0336b20"/><div2 type="other"><mulu type="其他" level="2" label="張清新"/><head>張清新</head>
+<lb ed="X" n="0336b21"/><p id="pX78p0336b2101">張清新。字六華。金山附貢生。少孤。事母孝。及長。&CB00642;遊
+<lb ed="X" n="0336b22"/>名勝。樂與方外交。名利淡如也。年三十餘。歸依軼&CB00320;
+<lb ed="X" n="0336b23"/>靈公。法名真倓。旋禮豁然開公。奉葷酒戒。長齋念佛。
+<lb ed="X" n="0336b24"/>戒殺放生。一門眷屬。咸欣從事。晨夕佛聲浩浩。三十
+<pb ed="X" id="X78.1550.0336c" n="0336c"/>
+<lb ed="X" n="0336c01"/>年如一日。所居洙涇鎮。皆熏其德而善良。暇則手數
+<lb ed="X" n="0336c02"/>珠。稱佛名者比比然也。清新嘗於崇福寺結淨制二
+<lb ed="X" n="0336c03"/>七日。解制後。朝山禮海。&CB00642;參諸識。心性益徹。勵志西
+<lb ed="X" n="0336c04"/>歸。以其餘閒。著薝蔔居詩集若干卷。與佛旨相契。道
+<lb ed="X" n="0336c05"/>光十一年冬示微疾。命子詣崇福建水陸道場。明年
+<lb ed="X" n="0336c06"/>五月。病劇。曰。吾三日內當西歸。眷屬等勿得悲惱。命
+<lb ed="X" n="0336c07"/>請洪基和尚至。令家人同聲念佛。至初四日。沐浴趺
+<lb ed="X" n="0336c08"/>坐而逝。頂煖一晝夜。壽六十二<note place="inline">染集續集</note>。</p></div2>
+<lb ed="X" n="0336c09"/><div2 type="other"><mulu type="其他" level="2" label="丁繁桂"/><head>丁繁桂</head>
+<lb ed="X" n="0336c10"/><p id="pX78p0336c1001">丁繁桂。字小山。金山庠生。自幼攻舉子業。不談佛法。
+<lb ed="X" n="0336c11"/>亦不毀謗。唯父母欲為聘室。決志不從。曰。吾行吾志
+<lb ed="X" n="0336c12"/>也。所親或伺察之。乃知其密行淨業<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>久。向者特不
+<lb ed="X" n="0336c13"/>露相耳。道光十二年夏。&CB05558;發血症。延至八月十六夜。
+<lb ed="X" n="0336c14"/>忽微笑。謂父母曰。報緣<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>盡。吾得西方去矣。朗誦佛
+<lb ed="X" n="0336c15"/>號千聲。而絕。年二十二<note place="inline">染香續集</note>。</p></div2>
+<lb ed="X" n="0336c16"/><div2 type="other"><mulu type="其他" level="2" label="李勤"/><head>李勤</head>
+<lb ed="X" n="0336c17"/><p id="pX78p0336c1701">李勤。字香臺。仁和人。生而醇厚。與人無忤。&CB00002;悟好學。
+<lb ed="X" n="0336c18"/>經史子集靡不周&CB15095;。顧淡於名利。無意進取。思出世
+<lb ed="X" n="0336c19"/>籠。從元學家遊。志意清潔。皎然不污。中年後。信向佛
+<lb ed="X" n="0336c20"/>乘。受在家五戒。法名妙淨。由是進修&CB00381;密。於宗門中
+<lb ed="X" n="0336c21"/>事。頗有省發。而特以淨土為歸宿。嘗曰。一知半解終
+<lb ed="X" n="0336c22"/>歸無濟。吾寧守穩當法。不敢大言自欺也。勤家故不
+<lb ed="X" n="0336c23"/>豐。而布施罔惜。且能不矜不伐。於三寶中事。尤極意
+<lb ed="X" n="0336c24"/>尊崇。嘗鐫旃檀佛像。及金剛經塔。互&CB15156;二座。立於海
+<pb ed="X" id="X78.1550.0337a" n="0337a"/>
+<lb ed="X" n="0337a01"/>潮寺中。工費不敷。則質典以足其數。繼又鐫極樂世
+<lb ed="X" n="0337a02"/>界全圖一&CB15156;。以志信願。一日因齋僧宿寺中。賊乘間
+<lb ed="X" n="0337a03"/>踰垣。入其室。天明方覺。門戶洞啟。竟未失物。信為鬼
+<lb ed="X" n="0337a04"/>神呵護。國清寺鑑堂和尚。為近今叢林傑出。早卒於
+<lb ed="X" n="0337a05"/>杭。有遺&CB00506;一卷。勤收拾而刊傳之。初未嘗識鑑公也。
+<lb ed="X" n="0337a06"/>道光十二年夏。其姪女杏姑。病將革。勤日夕顧之。提
+<lb ed="X" n="0337a07"/>其正念。卒能念佛化去。未幾。勤亦病。醫者曰。是積勞
+<lb ed="X" n="0337a08"/>傷氣所致。宜善靜攝。不爾。恐益深。醫去。勤曰。是正令
+<lb ed="X" n="0337a09"/>我取小失大也。烏乎可。愈精勤念佛。并手了一切功
+<lb ed="X" n="0337a10"/>德事。至十月。病劇。十一日中夜。趺坐持佛名。泊然而
+<lb ed="X" n="0337a11"/>逝。先是三日前。向家人索僧帽一頂。急製與之。遽戴
+<lb ed="X" n="0337a12"/>頭上。喜曰。縵衣吾固有之。所少者此耳。今得頂戴。以
+<lb ed="X" n="0337a13"/>覲彌陀。吾願足矣。幸即此成殮。以遂吾志。次日就木
+<lb ed="X" n="0337a14"/>時。所親試啟帽視之。煖氣氤氳。如揭釜上&CB00582;云。年四
+<lb ed="X" n="0337a15"/>十七<note place="inline">染香續集</note>。</p></div2>
+<lb ed="X" n="0337a16"/><div2 type="other"><mulu type="其他" level="2" label="張惇五"/><head>張惇五</head>
+<lb ed="X" n="0337a17"/><p id="pX78p0337a1701">張惇五。一名爻泰。字敘堂。長洲學附生。晚年篤信淨
+<lb ed="X" n="0337a18"/>業。與善慶庵德公習。久之淨業益純。持長齋。後因年
+<lb ed="X" n="0337a19"/>高減食。長女勸開齋。少女曰。小孝無益。以是作往生
+<lb ed="X" n="0337a20"/>&CB00374;。可矣。未幾。少女抱病。病中絕不念佛。惇五訝曰。病
+<lb ed="X" n="0337a21"/>重力劣。誠可懼也。吾可不自省乎。乃日課佛號十萬
+<lb ed="X" n="0337a22"/>聲。一日忽謂德公曰。緩急之秋。非時相招。幸必援我。
+<lb ed="X" n="0337a23"/>越數日。夜扣德公門。欲延淨侶數人。德公意謂惇五
+<lb ed="X" n="0337a24"/>並未有疾。必其女逝。先遣數僧去。德公繼往。則惇五
+<pb ed="X" id="X78.1550.0337b" n="0337b"/>
+<lb ed="X" n="0337b01"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>趺坐逝矣。踰旬。其女亦念佛而逝。始知其病重不
+<lb ed="X" n="0337b02"/>念。正以勵其父之努力也。時在道光十四年<note place="inline">西歸見聞錄</note>
+<lb ed="X" n="0337b03"/>西史氏曰。全父齋戒。激父勇猛。成父往生。孝之至矣。
+<lb ed="X" n="0337b04"/>少女固善於啟發。敘堂亦樂於信從。敘堂沒而少女
+<lb ed="X" n="0337b05"/>隨逝。豈非因緣會遇。乘宿願而來者哉。</p></div2>
+<lb ed="X" n="0337b06"/><div2 type="other"><mulu type="其他" level="2" label="曹諧和"/><head>曹諧和</head>
+<lb ed="X" n="0337b07"/><p id="pX78p0337b0701">曹諧和。法名廣智。字聲五。江南上元人。業染絳於蘇。
+<lb ed="X" n="0337b08"/>家焉。道光七年秋。延夏文榮視其妻病。文榮教以淨
+<lb ed="X" n="0337b09"/>土法門。從之。既而疑焉。謂文榮曰。人說君以念佛誑
+<lb ed="X" n="0337b10"/>人。何故。文榮曰。誘人以惑業受苦果。輪轉三塗。是流
+<lb ed="X" n="0337b11"/>落他鄉也。謂之誑可。勸人以戒定慧往生極樂。究竟
+<lb ed="X" n="0337b12"/>菩提。乃勸人歸家也。何誑焉。諧和言下有省。問如何
+<lb ed="X" n="0337b13"/>可以歸家。曰。持戒為基。作福為助。執持名號。到一心
+<lb ed="X" n="0337b14"/>不亂。是歸家消息也。遂欣躍而去。既歸依杯渡海公。
+<lb ed="X" n="0337b15"/>明春受五戒於靈鷲義公。一夕忽夢黑山在前。欲上
+<lb ed="X" n="0337b16"/>而溪水隔之。有紅日西沉之象。遂醒。悟塵緣將盡。功
+<lb ed="X" n="0337b17"/>益進。家資三千金。不數年而布施罄矣。十四年四月。
+<lb ed="X" n="0337b18"/>以資罄輟業歸。先是諧和勸母修淨業。母以其無子。
+<lb ed="X" n="0337b19"/>命之納妾。謂母曰。願母同生淨土足矣。五濁多造業
+<lb ed="X" n="0337b20"/>事。嗣續可不計也。既而奉母還鄉。未幾其母念佛而
+<lb ed="X" n="0337b21"/>逝。是年六月。諧和示疾。越六日亦念佛安坐而逝。其
+<lb ed="X" n="0337b22"/>女見之。發深信心。念佛四十九日。吉祥坐脫<note place="inline">西歸見聞錄</note>
+<lb ed="X" n="0337b23"/>西史氏曰。百日之內。亡其三人。在世俗豈無物議。而
+<lb ed="X" n="0337b24"/>一門眷屬。同託蓮胎。實堪慶幸。此誠可為知者道。</p></div2>
+<pb ed="X" id="X78.1550.0337c" n="0337c"/>
+<lb ed="X" n="0337c01"/><div2 type="other"><mulu type="其他" level="2" label="潘遵懋"/><head>潘遵懋</head>
+<lb ed="X" n="0337c02"/><p id="pX78p0337c0201">潘遵懋。字意蘭。吳縣人。小業賈。丱角後。即歸心佛乘。
+<lb ed="X" n="0337c03"/>修淨土法門。力行之。日有程課。仁慈好施。恤孤窮。護
+<lb ed="X" n="0337c04"/>生命。飯僧修寺諸功德。無不隨喜。平居自奉。泊如也。
+<lb ed="X" n="0337c05"/>年三十。得咯血疾。乃發心刺舌血。書法華經。經畢而
+<lb ed="X" n="0337c06"/>疾閒。自是屏絕塵累。專心禪誦。一室之內。鑪香缾水。
+<lb ed="X" n="0337c07"/>蕭然寒衲。日與家人輩說無生法。每風日晴美。出遊
+<lb ed="X" n="0337c08"/>名藍蕭寺。與一二禪慧。結林下契。善慶德公尤所莫
+<lb ed="X" n="0337c09"/>逆。嘗隨德公詣鄮山。於阿育王塔前。設涅槃供。獲睹
+<lb ed="X" n="0337c10"/>舍利瑞相。臂香翹敬。求生安養。道光十五年春。舊疾
+<lb ed="X" n="0337c11"/>復作。自知不起。語德公曰。病亟矣。立意作西歸計。願
+<lb ed="X" n="0337c12"/>諸淨侶。日來我家。為我助念。我以持名切故。能兩三
+<lb ed="X" n="0337c13"/>時不起雜念。唯不見佛來。奈何。自恨障深緣淺。痛哭
+<lb ed="X" n="0337c14"/>責勵。淚涔涔下。德公多方開示。越日。謂德公曰。西方
+<lb ed="X" n="0337c15"/>有大白光來。照我身心。樂不可言。持念益切。一夕夢
+<lb ed="X" n="0337c16"/>遊蓮池境界。莊嚴勝妙。如經所說。明日忽起。曰。見佛
+<lb ed="X" n="0337c17"/>無數。&CB00642;滿&CB00980;空。我以念力勇猛。得中品生矣。寄語同
+<lb ed="X" n="0337c18"/>學。努力進修。早來淨土。毋自阻也。合掌念佛而逝。家
+<lb ed="X" n="0337c19"/>人得其日課之簿。持經念佛。按日登記。&CB00582;二十年如
+<lb ed="X" n="0337c20"/>一日云<note place="inline">僧覺阿撰潘意蘭傳</note>。</p></div2>
+<lb ed="X" n="0337c21"/><div2 type="other"><mulu type="其他" level="2" label="宋萊"/><head>宋萊</head>
+<lb ed="X" n="0337c22"/><p id="pX78p0337c2201">宋萊。字望山。蘇州人。年六十餘。聞淨土法門。日持佛
+<lb ed="X" n="0337c23"/>號數萬。曰。我憑仗六字。了當一生矣。後館錢萬里橋
+<lb ed="X" n="0337c24"/>江氏。館主以其持齋念佛故。禁之不可。遂辭之。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而
+<pb ed="X" id="X78.1550.0338a" n="0338a"/>
+<lb ed="X" n="0338a01"/>移席他所。師生相得。謂其徒曰。學堂甚好。我設終於
+<lb ed="X" n="0338a02"/>此。可乎。一日學徒入塾。見萊方合掌念佛。頃復入如
+<lb ed="X" n="0338a03"/>故。即之逝矣。硯下得一紙。&CB00582;三日前所書期也。室有
+<lb ed="X" n="0338a04"/>異香。經宿不散。事在道光十五年<note place="inline">宋梅浦述</note>。</p></div2>
+<lb ed="X" n="0338a05"/><div2 type="other"><mulu type="其他" level="2" label="周慶孫"/><head>周慶孫</head>
+<lb ed="X" n="0338a06"/><p id="pX78p0338a0601">周慶孫。字雲田。蘇州國學生。事母孝。娶曲阜孔氏。既
+<lb ed="X" n="0338a07"/>而孔氏招之。將為之援例得官。率其妻子往。舟覆於
+<lb ed="X" n="0338a08"/>河。妻子俱死。慶孫僅以身免。遂意絕進取。奉母家居。
+<lb ed="X" n="0338a09"/>虔修淨業。自號夷白居士。為人謹而葸。戒恐破。不敢
+<lb ed="X" n="0338a10"/>受。齋恐開。不敢持。經論畏深。不敢閱。時鐵君定公與
+<lb ed="X" n="0338a11"/>慶孫善。謂曰。佛門修持。當不知足。君如此自餒。幾生
+<lb ed="X" n="0338a12"/>能了生死耶。慶孫默然。一日忽到定公處。投地頂禮
+<lb ed="X" n="0338a13"/>曰。今日始知君之善也。近閱藏經。獲無量妙益。決意
+<lb ed="X" n="0338a14"/>長齋矣。持名亦甚得力。微君則不及此。精進數載。道
+<lb ed="X" n="0338a15"/>光十五年八月望。早啜粥一盂。箸忽落地。無疾而終。
+<lb ed="X" n="0338a16"/>僧覺阿在朱涇即是菴。於是月下旬。忽夢張惇五及
+<lb ed="X" n="0338a17"/>慶孫。慶孫不言。惇五謂覺阿曰。我竭力僅能到西方
+<lb ed="X" n="0338a18"/>耳。不及渠品位高也。醒而異之。九月。其弟到庵。覺阿
+<lb ed="X" n="0338a19"/>述其夢。始知慶孫之<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>卒也<note place="inline">西歸見聞錄</note>。</p></div2>
+<lb ed="X" n="0338a20"/><div2 type="other"><mulu type="其他" level="2" label="陳居士"/><head>陳居士</head>
+<lb ed="X" n="0338a21"/><p id="pX78p0338a2101">陳居士。遺其名。常熟人。世英茂才之從父也。平日晨
+<lb ed="X" n="0338a22"/>起。爇香默然。誦經課佛。家人莫之知者。&CB00582;密行也。風
+<lb ed="X" n="0338a23"/>雨寒暑不間。歷有年所。道光十五年七月。自言九月
+<lb ed="X" n="0338a24"/>二十三日西歸。家人以其無疾。弗信。及逝之前三日。
+<pb ed="X" id="X78.1550.0338b" n="0338b"/>
+<lb ed="X" n="0338b01"/>示微疾。而起居如常。至期坐脫。家人環呼。乃開目略
+<lb ed="X" n="0338b02"/>數言。旋曰。吾行矣。遂瞑。異香發自毛孔。既殮。室猶三
+<lb ed="X" n="0338b03"/>日香也<note place="inline">&CB01191;生近驗錄</note>
+<lb ed="X" n="0338b04"/>西史氏曰。修密行者。蘊釀必深。體發異香。所以顯之
+<lb ed="X" n="0338b05"/>也。</p></div2>
+<lb ed="X" n="0338b06"/><div2 type="other"><mulu type="其他" level="2" label="余＆CB15131；賢"/><head>余&CB15131;賢</head>
+<lb ed="X" n="0338b07"/><p id="pX78p0338b0701">余&CB15131;賢。紹興人。少業賈。年六十餘。輟業與妻同修淨
+<lb ed="X" n="0338b08"/>土。念佛之外。嘗各禮華嚴經八部。道光十八年。年八
+<lb ed="X" n="0338b09"/>十六矣。妻先示疾。&CB15131;賢亦病。一日妻謂其媳曰。為我
+<lb ed="X" n="0338b10"/>辭汝翁。吾欲行矣。媳訝之。以告&CB15131;賢。&CB15131;賢曰。姑緩三
+<lb ed="X" n="0338b11"/>日。可與同行。妻聞曰。諾。果至三日。同時化去。時為六
+<lb ed="X" n="0338b12"/>月二十三<note place="inline">朱寅堂述</note>。</p></div2>
+<lb ed="X" n="0338b13"/><div2 type="other"><mulu type="其他" level="2" label="吳宗魏"/><head>吳宗魏</head>
+<lb ed="X" n="0338b14"/><p id="pX78p0338b1401">吳宗魏。字秋亭。元和人。父濂。修淨業往生。事載本傳。
+<lb ed="X" n="0338b15"/>母周氏。故有肝疾。宗魏侍奉極孝。病劇。刲股以進。疾
+<lb ed="X" n="0338b16"/>旋<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。既而母歿。宗魏於七七日中<app><lem wit="【CBETA】" resp="CBETA.maha">刺</lem><rdg wit="【卍續】">剌</rdg></app>血。書地藏本願
+<lb ed="X" n="0338b17"/>經。遂歸心佛乘。宗教兼通。諸方老病。亟稱之。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而專
+<lb ed="X" n="0338b18"/>修淨土。自號一如居士。長齋受五戒。於寄葉庵結蓮
+<lb ed="X" n="0338b19"/>社。其於放生施衣捨槥諸善事。皆盡力助行。一日示
+<lb ed="X" n="0338b20"/>疾。自知不起。遺書諸道友。一以淨土相勗。自謂平日
+<lb ed="X" n="0338b21"/>功夫。病中祇存一半。有退無進。甚難甚難。諸君子切
+<lb ed="X" n="0338b22"/>切謂我平日且作世事。待病時用功。悔之無及。自誤
+<lb ed="X" n="0338b23"/>不小。其沈痛若此。歿之前一日。其友錢文燦省之。問
+<lb ed="X" n="0338b24"/>念佛否。時宗魏言<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>艱澀。索筆書曰。死苦如是。往生
+<pb ed="X" id="X78.1550.0338c" n="0338c"/>
+<lb ed="X" n="0338c01"/>願力愈堅。翌日遂逝。遺言不焚衣。不接煞。不繪遺容。
+<lb ed="X" n="0338c02"/>時道光十八年七月二十六日<note place="inline">吳今帆述</note>。</p></div2>
+<lb ed="X" n="0338c03"/><div2 type="other"><mulu type="其他" level="2" label="張齒延"/><head>張齒延</head>
+<lb ed="X" n="0338c04"/><p id="pX78p0338c0401">張齒延。常熟國學生。素善飲。自命不凡。聽人談及佛
+<lb ed="X" n="0338c05"/>典。即聲色俱厲。一日偶閱因果輪回之說。忽明生死
+<lb ed="X" n="0338c06"/>大事。遂戒殺屏飲。日持金剛經。大悲&CB00057;。佛號。回向生
+<lb ed="X" n="0338c07"/>西。懺悔病業。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而斷葷血。時方患風疾。右體偏枯。有
+<lb ed="X" n="0338c08"/>勸食肉調養者。笑謝而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。道光十九年春。手書普門
+<lb ed="X" n="0338c09"/>品數冊。刊印散施。謂人曰。苦海慈航。勿覿面錯過也。
+<lb ed="X" n="0338c10"/>是秋。夢吞蓮華。自是益精進。告其弟爾旦曰。吾誦普
+<lb ed="X" n="0338c11"/>門品。須滿一萬二千。方酬我願。爾旦詰其故。太息曰。
+<lb ed="X" n="0338c12"/>世間四苦。生老病死。吾歷其三。所未可預剋者死耳。
+<lb ed="X" n="0338c13"/>然亦駸駸迫矣。可弗早備資糧耶。二十年正月十一
+<lb ed="X" n="0338c14"/>夜。爾旦臥不成寐。聞齒延誦普門品。聲琅琅然問之。
+<lb ed="X" n="0338c15"/>則齒延正在熟睡。並未出聲。&CB00582;夢中誦也。明日晨起。
+<lb ed="X" n="0338c16"/>常誦畢。以事往姻戚家。忽痰湧塞&CB15287;。急送之歸臥&CB00646;
+<lb ed="X" n="0338c17"/>不醒。十三日晚。其友謝鳳梧來視疾。令爇香然燭於
+<lb ed="X" n="0338c18"/>榻前。以其平日數珠授之。手忽舉。掐珠至胸前。目光
+<lb ed="X" n="0338c19"/>上燭。舉體皆動。而氣遂絕。眾決之曰。此善逝也。必生
+<lb ed="X" n="0338c20"/>西方。獨妻不信。向棺祝曰。果爾。當於夢中相報。越五
+<lb ed="X" n="0338c21"/>日。夜夢有人傳語曰。勿哭勿哭。汝家此人。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>往越十
+<lb ed="X" n="0338c22"/>萬億佛土矣。醒而異之。然平生未誦彌陀經。不知十
+<lb ed="X" n="0338c23"/>萬億佛土五字為何義。次日問諸大眾。始知其夫往
+<lb ed="X" n="0338c24"/>生。有明驗矣。爾旦。字眉叔。亦修淨業。刊往生近驗錄
+<pb ed="X" id="X78.1550.0339a" n="0339a"/>
+<lb ed="X" n="0339a01"/>行世<note place="inline">&CB01191;生近驗錄</note>。</p></div2>
+<lb ed="X" n="0339a02"/><div2 type="other"><mulu type="其他" level="2" label="金庭棟"/><head>金庭棟</head>
+<lb ed="X" n="0339a03"/><p id="pX78p0339a0301">金庭棟。字友蘭。蘇州人。篤修淨業。道光二十年冬。得
+<lb ed="X" n="0339a04"/>疾。自知將終。邀其歸依師亮寬和尚。及善友數人來。
+<lb ed="X" n="0339a05"/>告之曰。吾生死將判。願諸公助成勝緣耳。眾舉聲唱
+<lb ed="X" n="0339a06"/>佛號。良久曰。此時吾目前所現之地。皆七寶合成。然
+<lb ed="X" n="0339a07"/>踏之柔&CB00365;。耳中所聞之聲。則微妙難狀。且極西見金
+<lb ed="X" n="0339a08"/>色八字甚分明。一友正之曰。汝誤矣。今所誦者六字
+<lb ed="X" n="0339a09"/>耳。庭棟以手指曰。極樂世界阿彌陀佛。非八字耶。又
+<lb ed="X" n="0339a10"/>久之。合掌告師曰。弟子行矣。遂逝<note place="inline">&CB01191;生近驗錄</note>。</p></div2>
+<lb ed="X" n="0339a11"/><div2 type="other"><mulu type="其他" level="2" label="徐僖"/><head>徐僖</head>
+<lb ed="X" n="0339a12"/><p id="pX78p0339a1201">徐僖。字夢白。吳庠增廣生。少遊黔滇。攬江山之勝。胸
+<lb ed="X" n="0339a13"/>襟曠如。遇節孝等事。輒為表彰。中年。遊幕於外。四旬
+<lb ed="X" n="0339a14"/>餘。遇朱麟書以龍舒淨土文&CB06078;贈。遂信奉佛乘。更號
+<lb ed="X" n="0339a15"/>夢蓮。茄十齋。立淨課。矢願往西。詣尊勝庵。歸依亮寬
+<lb ed="X" n="0339a16"/>和尚。法名如超。六旬餘。業益專。依靈鷲義公受菩薩
+<lb ed="X" n="0339a17"/>戒。時城中盧師庵。方募建大通閣。僖極力貲助。道光
+<lb ed="X" n="0339a18"/>二十一年夏。忽清釐家。務謂家人曰。人生七十。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>慶
+<lb ed="X" n="0339a19"/>古稀。吾七十有二。今秋殆必歸矣。著反本瑣言數則。
+<lb ed="X" n="0339a20"/>誡臨終諸事。一則云。人生如寄。生必有死。死固人之
+<lb ed="X" n="0339a21"/>常事。唯妻孥兒女情長。以為從此永別。不禁痛哭哀
+<lb ed="X" n="0339a22"/>號。殊不知全受全歸。令終為福。且吾輩既修淨業。正
+<lb ed="X" n="0339a23"/>欲脫離苦海。直往樂&CB15131;。所望臨終一心不亂。庶可如
+<lb ed="X" n="0339a24"/>願往生。若聞哀哭之聲。必至為情愛所牽。寸心散亂。
+<pb ed="X" id="X78.1550.0339b" n="0339b"/>
+<lb ed="X" n="0339b01"/>則平日之修持。都屬無用。是眷屬之愛吾哭吾。適所
+<lb ed="X" n="0339b02"/>以惡吾害吾矣。切記於氣將斷絕時。各人助吾念佛。
+<lb ed="X" n="0339b03"/>不可混叫亂哭。須俟瞑目一二時。方可舉動。易衣轉
+<lb ed="X" n="0339b04"/>屍。寧遲毋速。昔邵康節先生父伊川丈人。臨終謂家
+<lb ed="X" n="0339b05"/>人曰。侯吾就殮方哭。勿急叫號。俾吾失路。語見康節
+<lb ed="X" n="0339b06"/>外傳。是可法也。又作禪淨四料云。念佛不參禪。老實
+<lb ed="X" n="0339b07"/>做鈍漢。念到佛即心。勝把話頭看。參禪不念佛。直須
+<lb ed="X" n="0339b08"/>桶底脫。倘有一點疑。盡頭難著力。念佛復參禪。是二
+<lb ed="X" n="0339b09"/>即是一。參念要膠黏。否則易放佚。不念亦不參。得法
+<lb ed="X" n="0339b10"/>可捨法。若未到岸時。欲渡苦無筏。其年秋。果遘疾。日
+<lb ed="X" n="0339b11"/>邀僧人善友。到家念佛。&CB00646;前供像拈香。自七月二十
+<lb ed="X" n="0339b12"/>一日起病。至八月二十一日&CB00038;月。粒米未進。但飲水
+<lb ed="X" n="0339b13"/>漿而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。延醫進藥。堅不服口。疾革時。合掌朗念而逝。</p>
+<lb ed="X" n="0339b14"/><p id="pX78p0339b1401">妻嚴氏。平居亦持&CB00057;課佛名。年七十三。下痢。臥&CB00646;不
+<lb ed="X" n="0339b15"/>起。素患耳聾。一日忽聰聽。身中痛苦俱絕。其子立方。
+<lb ed="X" n="0339b16"/>以西方之說進。曰。余固時時念佛。未嘗廢忘也。至夜
+<lb ed="X" n="0339b17"/>二鼓時。謂家人曰。我天明去矣。遂起坐。朗念輪珠一
+<lb ed="X" n="0339b18"/>串。至力竭不能支。復就寢。迨天明。曰。時至矣。復起坐
+<lb ed="X" n="0339b19"/>合掌。立方勸直往西方。決然應曰諾。遂終<note place="inline">反本瑣言徐稼甫述</note>。</p></div2>
+<lb ed="X" n="0339b20"/><div2 type="other"><mulu type="其他" level="2" label="錢萬鎰"/><head>錢萬鎰</head>
+<lb ed="X" n="0339b21"/><p id="pX78p0339b2101">錢萬鎰。字翼山。常熟人。居梅里鎮。世業酤。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而戒殺
+<lb ed="X" n="0339b22"/>修淨業。力改前行。膝下止一子。病瘵。念佛而終。旁人
+<lb ed="X" n="0339b23"/>誹笑之。萬鎰奉佛如故。一夕店屋失火。望空祝曰。吾
+<lb ed="X" n="0339b24"/>業應焚燒。願勿傷鄰舍。撲滅後。鄰果無恙。初萬鎰勸
+<pb ed="X" id="X78.1550.0339c" n="0339c"/>
+<lb ed="X" n="0339c01"/>母吳氏。長齋念佛。母從之。旋復自斷葷血。然餘習未
+<lb ed="X" n="0339c02"/>除。善飲酒。其至戚謝鳳梧勸戒。力除之。道光二十二
+<lb ed="X" n="0339c03"/>年春。妻亡。處之淡然。有勸續娶者。萬鎰拒之曰。有子
+<lb ed="X" n="0339c04"/>而殤。續復何為。且吾志在出世。豈屑屑於嗣續哉。是
+<lb ed="X" n="0339c05"/>年夏。患咯血疾。念佛加勵。生死心益切。至七月初。病
+<lb ed="X" n="0339c06"/>劇。進食輒吐。鳳梧往視之。告以古德斷食見佛之事。
+<lb ed="X" n="0339c07"/>欣然曰。有此大便宜事。吾當勇為。即於次日盥沐。詣
+<lb ed="X" n="0339c08"/>佛前拈香發誓。持七日齋。出貲放生。求生淨土。日夜
+<lb ed="X" n="0339c09"/>念佛不輟。渴則噉瓜而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。人問徹夜不睡。得不疲乏
+<lb ed="X" n="0339c10"/>乎。曰。利其不睡。得多念佛。我無病時。不得安閒。今病
+<lb ed="X" n="0339c11"/>得閒。正好著力。何疲乏之有。及七日期滿。神識瞀亂。
+<lb ed="X" n="0339c12"/>進以薄糜。即苦脹悶。久之。瞀亂益甚。大懼。合掌枕上。
+<lb ed="X" n="0339c13"/>命然指。鳳梧曰。君此時發此願與然指同。不如一意
+<lb ed="X" n="0339c14"/>西方之為愈也。遂閉目念佛。初若勉強。用力猛勵。神
+<lb ed="X" n="0339c15"/>志安定。復得助緣者十數人。晝夜佛聲相續。初十日
+<lb ed="X" n="0339c16"/>晚。自言見一人至&CB00646;前。令瓜果俱勿食。問之曰。吾上
+<lb ed="X" n="0339c17"/>界使人也。言訖不見。明日。忽見西方三聖光明相好。
+<lb ed="X" n="0339c18"/>住立於前。欲涌身入金臺。聞空中聲言。汝身未淨。即
+<lb ed="X" n="0339c19"/>命香湯沐浴。浴畢。三聖現前如故。又謂家人曰。吾<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0339c20"/>遊淨土。見無數蓮華。吾坐其中。樂不可言。復自指身
+<lb ed="X" n="0339c21"/>曰。此非吾身也。十二日清晨。告其母曰。佛盈室矣。面
+<lb ed="X" n="0339c22"/>西趺坐合掌而逝。年三十八<note place="inline">謝鳳梧撰錢翼山傳</note>
+<lb ed="X" n="0339c23"/>西史氏曰。遭逆境而初心不退。纏疾苦而正念堅持。
+<lb ed="X" n="0339c24"/>卒乃瑞感金臺。神遊蓮域。其高登品位也無疑。嗚呼。
+<pb ed="X" id="X78.1550.0340a" n="0340a"/>
+<lb ed="X" n="0340a01"/>勇矣哉。</p></div2>
+<lb ed="X" n="0340a02"/><div2 type="other"><mulu type="其他" level="2" label="華漢槎"/><head>華漢槎</head>
+<lb ed="X" n="0340a03"/><p id="pX78p0340a0301">華漢槎。字以傳。蘇州人。年七旬餘。遇善士蔣文勳。開
+<lb ed="X" n="0340a04"/>示念佛法門。且招之供養。信心篤實。歸依在經茂公。
+<lb ed="X" n="0340a05"/>一日禮佛時。&CB00519;見蓮華。&CB00642;滿&CB00980;空。自是念力益純。道
+<lb ed="X" n="0340a06"/>光二十四年正月十九日晚。課佛名至夜半。聲不絕
+<lb ed="X" n="0340a07"/>口。人詰之。曰。將往西方。明晨。自著衣冠。欲往蔣文勳
+<lb ed="X" n="0340a08"/>家辭別。因天雨而止。人以其無疾。不介意。頃入視之。
+<lb ed="X" n="0340a09"/>趺坐合掌逝矣<note place="inline">楊藕槎周尚文述</note>。</p></div2>
+<lb ed="X" n="0340a10"/><div2 type="other"><mulu type="其他" level="2" label="方步瀛"/><head>方步瀛</head>
+<lb ed="X" n="0340a11"/><p id="pX78p0340a1101">方步瀛。字小湘。崑山人。善書畫。多藝能。既習扶鸞術。
+<lb ed="X" n="0340a12"/>神教誦大悲&CB00057;。從之。每晨起。定課數十&CB00642;。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而遇張
+<lb ed="X" n="0340a13"/>爾旦勸修淨土。始專心西邁。一日示微疾。起居如常。
+<lb ed="X" n="0340a14"/>向晚謂其僕曰。吾逝期在明日。汝慎勿告女主。僕曰。
+<lb ed="X" n="0340a15"/>吾不以告。恐事後有怨。曰。設有怨。汝言生死之事。非
+<lb ed="X" n="0340a16"/>他人所可預知也。僕頷之。明日。有友過從。步瀛延之
+<lb ed="X" n="0340a17"/>坐。曰。為我誦彌陀經。友曰。吾未習學。如何。步瀛取經
+<lb ed="X" n="0340a18"/>授之。曰。吾教汝。遂從容誦經終卷。纔舉佛號。目光上
+<lb ed="X" n="0340a19"/>燭。掀髯微笑。趣視之。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>化去矣<note place="inline">汪石心述</note>。</p></div2>
+<lb ed="X" n="0340a20"/><div2 type="other"><mulu type="其他" level="2" label="朱麟書"/><head>朱麟書</head>
+<lb ed="X" n="0340a21"/><p id="pX78p0340a2101">朱麟書。字文泉。新陽庠生。年近五旬。遘危疾。生大怖
+<lb ed="X" n="0340a22"/>畏。遂棲心內典。手不釋卷。常以勸善諸書贈人。志存
+<lb ed="X" n="0340a23"/>利濟。時亮寬和尚自師林退院。住尊勝庵。有梵行。麟
+<lb ed="X" n="0340a24"/>書歸依受五戒。法名如因。結社尊勝。月一集。禮四明
+<pb ed="X" id="X78.1550.0340b" n="0340b"/>
+<lb ed="X" n="0340b01"/>懺法。與社諸人。互相&CB15081;勵。講演淨土法門。後兩目&CB13413;
+<lb ed="X" n="0340b02"/>矓。不能看書。而課誦益勤。行住坐臥間。默誦西方佛
+<lb ed="X" n="0340b03"/>號不輟。年七十。示疾數月。臨逝前數日。夢寐中見白
+<lb ed="X" n="0340b04"/>光。述偈言三首。一云。一入塵勞名利牽。忙忙營逐不
+<lb ed="X" n="0340b05"/>知愆。室人交謫怨盈耳。生計無聊度老年。樂道安貧
+<lb ed="X" n="0340b06"/>知有命。存心養性俟諸天。隨緣應世了前業。幻境空
+<lb ed="X" n="0340b07"/>華任變遷。一云。旅泊他鄉七十秋。升沈變態豈無由。
+<lb ed="X" n="0340b08"/>回頭覺岸徑歸去。不變隨緣自在遊。一云。業報今<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0340b09"/>盡。自性幸不迷。踏著無生路。引心<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>到西。及革。起坐
+<lb ed="X" n="0340b10"/>念佛而逝。氣絕逾時。掌猶緊合不釋。時在道光二十
+<lb ed="X" n="0340b11"/>五年冬月<note place="inline">郭仰山徐稼甫述</note>。</p></div2>
+<lb ed="X" n="0340b12"/><div2 type="other"><mulu type="其他" level="2" label="陳鍠"/><head>陳鍠</head>
+<lb ed="X" n="0340b13"/><p id="pX78p0340b1301">陳鍠。法名廣聲。字西堂。嘉興石門人。業賈蘇州。長齋
+<lb ed="X" n="0340b14"/>奉佛。為人鯁直。歸依杯渡海公。復從靈鷲義公受五
+<lb ed="X" n="0340b15"/>戒。日與朱麟書結念佛。社於定慧寺。雖&CB00974;忙不輟。道
+<lb ed="X" n="0340b16"/>光二十五年十月。下痢。至初六日。有友談雲屏往省
+<lb ed="X" n="0340b17"/>之。鍠曰。子來恰好。我明日一早欲行。為我往小普陀。
+<lb ed="X" n="0340b18"/>邀朱寅堂作別。時寅堂以路遠時晚。不至。復顧其弟
+<lb ed="X" n="0340b19"/>曰。汝學醫。試為余診脈。自後凡&CB07497;象似此者。不可再
+<lb ed="X" n="0340b20"/>示方也。頃之從容念佛。至夜半。聲漸厲。人問見佛否。
+<lb ed="X" n="0340b21"/>曰。見大和尚。特遠耳。迨天明。泊然而寂。年五十五。</p><p id="pX78p0340b2120" place="inline">越
+<lb ed="X" n="0340b22"/>四載蘇州有薛紹基者。鍠在日。常主其家。勸之念佛。
+<lb ed="X" n="0340b23"/>後亦發心信行。年六旬。疾篤神識瞀亂。忽作鍠口音
+<lb ed="X" n="0340b24"/>云。此刻緊要。何故不念佛。且須向西臥。紹基遂自舉
+<pb ed="X" id="X78.1550.0340c" n="0340c"/>
+<lb ed="X" n="0340c01"/>轉。家人往視。宛然是鍠聲吻。頃之。紹基念佛而逝。此
+<lb ed="X" n="0340c02"/>道光二十八年三月中事也<note place="inline">錢安軒朱寅堂述</note>
+<lb ed="X" n="0340c03"/>西史氏曰。藉助緣而往生者。屢聞之矣。至若沒經數
+<lb ed="X" n="0340c04"/>載。而乃念故舊之深情。顯靈蹤而接引。斯誠極千古
+<lb ed="X" n="0340c05"/>之異事哉。</p></div2>
+<lb ed="X" n="0340c06"/><div2 type="other"><mulu type="其他" level="2" label="郭觀光"/><head>郭觀光</head>
+<lb ed="X" n="0340c07"/><p id="pX78p0340c0701">郭觀光。字尚賓。一字仰山。蘇州元和人。為人醇謹。業
+<lb ed="X" n="0340c08"/>醫。不與人計利。病者招之輒往。中年奉西方教。從杯
+<lb ed="X" n="0340c09"/>渡海公受歸戒。法名廣仁。每晨起。靜埽斗室。默誦佛
+<lb ed="X" n="0340c10"/>號。寒暑無間。祖遺有魚蕩一所。在陸墓北蕪塘。租人
+<lb ed="X" n="0340c11"/>捕魚。為祭埽費。觀光再三向族人商議。解囊金代之。
+<lb ed="X" n="0340c12"/>請示勒石。捐作放生河。活生靈無算。常與家人言。<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>
+<lb ed="X" n="0340c13"/>酉八月有凶。道光二十九年。歲次己酉。春間病篤。家
+<lb ed="X" n="0340c14"/>人為之恐懼。觀光搖手曰。勿慮。木樨香未聞。余命未
+<lb ed="X" n="0340c15"/>絕也。至八月。復病。命延僧唱佛。初五日。家人問逝期。
+<lb ed="X" n="0340c16"/>觀光豎二指。至初七日晚。合掌而逝。頂上煖氣勃發。
+<lb ed="X" n="0340c17"/>良久乃散。年五十六<note place="inline">郭辰生述</note>
+<lb ed="X" n="0340c18"/>西史氏曰。余識仰山於談道會。和藹之風。溢於眉宇。
+<lb ed="X" n="0340c19"/>及叩其淨業之修。余固決其必定生也。而卒能不出
+<lb ed="X" n="0340c20"/>所料。其化族捐河一節。不尤足多乎。</p>
+<lb ed="X" n="0340c21"/><p id="pX78p0340c2101">總論曰。古今來。才人傑士。講道論德者。不少概見。求
+<lb ed="X" n="0340c22"/>其臨逝安詳。現諸瑞應。則什百千萬中。未有一人也。
+<lb ed="X" n="0340c23"/>獨此念佛往生之人。或聞異香盈室。或見化佛迎空。
+<lb ed="X" n="0340c24"/>種種休祥。未易悉數。而世之顛倒凡夫。不此之警覺。
+<pb ed="X" id="X78.1550.0341a" n="0341a"/>
+<lb ed="X" n="0341a01"/>反自附於儒者之列。毀之斥之。卒至沈淪於苦海中。
+<lb ed="X" n="0341a02"/>而莫之救也。悲夫。</p></div2></div1>
+<lb ed="X" n="0341a03"/><div1 type="other"><mulu type="其他" level="1" label="往生雜流第五"/><head>往生雜流第五</head>
+<lb ed="X" n="0341a04"/><div2 type="other"><mulu type="其他" level="2" label="吳生"/><head>吳生</head>
+<lb ed="X" n="0341a05"/><p id="pX78p0341a0501">吳生。杭州人。祖父俱庠生。　大清順治初年。大兵圍
+<lb ed="X" n="0341a06"/>城。父母失散。生被掠。送張將官標下服役。時年方十
+<lb ed="X" n="0341a07"/>三。自歎吾本儒家子。今下賤若此。必是宿業。遂於佛
+<lb ed="X" n="0341a08"/>前立誓。持齋念佛。日誦金剛經。回向生西。年十六。本
+<lb ed="X" n="0341a09"/>官發糧充丁。即將糧銀買香供佛。跪誦阿彌陀聖號。
+<lb ed="X" n="0341a10"/>至十四年十月二十二日。忽告本官。欲往西方。本官
+<lb ed="X" n="0341a11"/>不信。訶為妖言。次日。又到提督前乞假。提督怒。批本
+<lb ed="X" n="0341a12"/>官捆打十五。毫無怨言。又向各營作別。自限十一月
+<lb ed="X" n="0341a13"/>一日歸西。是日五更。沐浴焚香。禮佛畢。仍至本官船
+<lb ed="X" n="0341a14"/>上叩辭。本官大怒。遣兵&CB00528;之。見其西向三拜。端坐說
+<lb ed="X" n="0341a15"/>偈曰。身在營中心出家。身披鎧甲是袈裟。刀刀親見
+<lb ed="X" n="0341a16"/>彌陀佛。箭箭射著白蓮華。偈畢。自吐火。焚其軀。合營
+<lb ed="X" n="0341a17"/>官長。皆遙望羅拜。本官合門齋戒<note place="inline">蓮藏</note>。</p></div2>
+<lb ed="X" n="0341a18"/><div2 type="other"><mulu type="其他" level="2" label="沈承先"/><head>沈承先</head>
+<lb ed="X" n="0341a19"/><p id="pX78p0341a1901">沈承先。崑山人。住宣化坊。業木工。年七十餘。持齋念
+<lb ed="X" n="0341a20"/>佛。專修淨土。手不停斧斤。而佛聲亦不絕口。康熙十
+<lb ed="X" n="0341a21"/>年三月。預知時至。三日前。&CB00642;別親友。謂將往西方。此
+<lb ed="X" n="0341a22"/>後不復相見。告家人曰。明日十五。當行矣。明晨。澡浴
+<lb ed="X" n="0341a23"/>易衣。向西趺坐。取一淨几置前。焚香念佛而終<note place="inline">西歸直指</note>。</p></div2>
+<lb ed="X" n="0341a24"/><div2 type="other"><mulu type="其他" level="2" label="周絢堂"/><head>周絢堂</head>
+<pb ed="X" id="X78.1550.0341b" n="0341b"/>
+<lb ed="X" n="0341b01"/><p id="pX78p0341b0101">周絢堂。潛陽人。始辦事公門。既而勘破世情。立除澆
+<lb ed="X" n="0341b02"/>惡。靜坐一室。誦白衣&CB00057;。持齋放生。廣行方便。見貧而
+<lb ed="X" n="0341b03"/>無歸者。隨力救護。後遇旵莊道人。勸修淨土。遂銳志
+<lb ed="X" n="0341b04"/>念佛。六時不懈。并轉以教友朋。從中多信向者。曾刻
+<lb ed="X" n="0341b05"/>極樂津梁。廣為施送。乾隆五十一年春荒。邑中募賑
+<lb ed="X" n="0341b06"/>粥糜。絢堂殫精竭力。晝夜從事。一日五鼓忽起。索浴
+<lb ed="X" n="0341b07"/>更衣。謂妻子曰。吾生西時至矣。汝等勿效世俗。但一
+<lb ed="X" n="0341b08"/>心念佛。言畢。端坐而逝。略無一語及家事。是早。猶有
+<lb ed="X" n="0341b09"/>人見絢堂在粥&CB01927;中。往來撿視云<note place="inline">蓮宗集要</note>
+<lb ed="X" n="0341b10"/>西史氏曰。絢堂既<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>往生。何以復在粥&CB01927;。意者慮人
+<lb ed="X" n="0341b11"/>疑謗。故示奇蹤耳。其願力之宏。不益見哉。</p></div2>
+<lb ed="X" n="0341b12"/><div2 type="other"><mulu type="其他" level="2" label="姚生"/><head>姚生</head>
+<lb ed="X" n="0341b13"/><p id="pX78p0341b1301">姚生。為長洲縣役。家貧。聘妻卒。不復娶。役事讓諸人。
+<lb ed="X" n="0341b14"/>寺院中事。竭心力為之。為人正直。能面斥人過。夜定
+<lb ed="X" n="0341b15"/>必坐。持佛號萬聲無間。年二十餘。以疾卒。端坐而逝。
+<lb ed="X" n="0341b16"/>香盈室。頂如灼也。鐵君定公贊以詩曰。醴泉及芝草。
+<lb ed="X" n="0341b17"/>本無根與原。居士西方來。廣度諸有緣。緣盡便歸去。
+<lb ed="X" n="0341b18"/>&CB00560;跟絕牽纏。斯人難最得。高望長睪然<note place="inline">西歸見聞錄</note>。</p></div2>
+<lb ed="X" n="0341b19"/><div2 type="other"><mulu type="其他" level="2" label="宋寶官"/><head>宋寶官</head>
+<lb ed="X" n="0341b20"/><p id="pX78p0341b2001">宋寶官。華亭人。家貧。賣醬度日。事母孝。奉養甘旨。不
+<lb ed="X" n="0341b21"/>諉昆季。聞人說淨土法門。遂篤信遵行。一日告其母
+<lb ed="X" n="0341b22"/>曰。母有兄在。兒將西歸。即念佛坐逝。時在嘉慶十六
+<lb ed="X" n="0341b23"/>年<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0341b24"/><div2 type="other"><mulu type="其他" level="2" label="陳德心"/><head>陳德心</head>
+<pb ed="X" id="X78.1550.0341c" n="0341c"/>
+<lb ed="X" n="0341c01"/><p id="pX78p0341c0101">陳德心。字大坤。蘇州農夫也。夏日納涼。偶遇村館。見
+<lb ed="X" n="0341c02"/>敬信錄。乞塾師講解。有省。沿街收拾字紙。彭二林居
+<lb ed="X" n="0341c03"/>士聞之。招入文星閣。勸修念佛三昧。德心素不識字。
+<lb ed="X" n="0341c04"/>奉教靜篤。後漸能書。未幾。為蘇郡妙濟堂司放生掩
+<lb ed="X" n="0341c05"/>埋等事。每見髑髏。頻生嗟歎。悟世非常。於是念佛益
+<lb ed="X" n="0341c06"/>勤。終身不娶。年六十九。身健如常。忽自知時至。走別
+<lb ed="X" n="0341c07"/>親友。至期。於堂中寂然閉戶久之。同事推門入視。見
+<lb ed="X" n="0341c08"/>案上供佛一尊。雙燭輝煌。香&CB00195;滿室。德心面西坐逝
+<lb ed="X" n="0341c09"/>矣。時嘉慶十八年八月望日事也<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0341c10"/><div2 type="other"><mulu type="其他" level="2" label="東門＆CB00456；"/><head>東門&CB00456;者</head>
+<lb ed="X" n="0341c11"/><p id="pX78p0341c1101">東門&CB00456;者。住松江明星橋。一破屋中。日向市門誦心
+<lb ed="X" n="0341c12"/>經一卷。乞一錢。與之則連聲稱謝。訶之亦不介意。但
+<lb ed="X" n="0341c13"/>足供一日&CB00711;&CB01476;。即闔扉念佛。蔡西齋方伯異之。親餽
+<lb ed="X" n="0341c14"/>錢米。欲葺其廬。&CB00456;者卻之。西齋曰。我所施皆廉俸。豈
+<lb ed="X" n="0341c15"/>盜泉乎。&CB00456;者曰。素知公操守嚴潔。我懼為衣食房屋
+<lb ed="X" n="0341c16"/>移我素志耳。無<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>請為公飲僧。即&CB06078;所贈往東禪修
+<lb ed="X" n="0341c17"/>供。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>則仍歸破廬。念佛如故。嘉慶中。無疾坐脫。里人
+<lb ed="X" n="0341c18"/>葬之桃華庵後<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0341c19"/><div2 type="other"><mulu type="其他" level="2" label="癡頭道士"/><head>癡頭道士</head>
+<lb ed="X" n="0341c20"/><p id="pX78p0341c2001">癡頭道士。姓王。直隸人。極愚。親亡乏食。困臥敝廬。無
+<lb ed="X" n="0341c21"/>所為計。或與之錢。亦莫辨數之多寡。京邑陳道人收
+<lb ed="X" n="0341c22"/>為徒。令日埽地拾柴。晚則課彌陀佛號數百。禮拜。炷
+<lb ed="X" n="0341c23"/>香為度。癡頭誦佛不成韻。每昏沈欲睡。道人以長竿
+<lb ed="X" n="0341c24"/>擊之曰。汝愚昧若此。尚不知精進耶。如是者三載。一
+<pb ed="X" id="X78.1550.0342a" n="0342a"/>
+<lb ed="X" n="0342a01"/>夕呵呵大笑。道人復擊之。癡頭曰。今日打我不得矣。
+<lb ed="X" n="0342a02"/>詰其故曰。師枯坐十八年。不知修法。若能如我老實
+<lb ed="X" n="0342a03"/>禮念。早生西方見佛矣。道人奇之。而莫測其所謂。翌
+<lb ed="X" n="0342a04"/>日癡頭登峭崖。西向合掌。屹立而化。闍維得舍利二
+<lb ed="X" n="0342a05"/>粒<note place="inline">染香集</note>
+<lb ed="X" n="0342a06"/>西史氏曰。道士往生。古傳罕聞。今癡頭以愚昧之子。
+<lb ed="X" n="0342a07"/>為千古特出之人。而黃冠者流。則曰我學神仙。念佛
+<lb ed="X" n="0342a08"/>乃愚夫所為。豈非反被聰明誤耶。</p></div2>
+<lb ed="X" n="0342a09"/><div2 type="other"><mulu type="其他" level="2" label="周耀發"/><head>周耀發</head>
+<lb ed="X" n="0342a10"/><p id="pX78p0342a1001">周耀發。蘇州伶人也。為演劇。不唱淫辭。暇則默誦佛
+<lb ed="X" n="0342a11"/>號。家中絕宰殺。晚年。念佛禮拜。益勤謹。額間成叩印。
+<lb ed="X" n="0342a12"/>且逢人即勸。優伶中。間有為其所感發者。年六十六。
+<lb ed="X" n="0342a13"/>示疾。臥&CB00646;月餘。念佛不輟。一日忽令妻子掖起。曰。吾
+<lb ed="X" n="0342a14"/>欲行矣。為我取滌腸湯來。妻子不解。問之。曰。淨水耳。
+<lb ed="X" n="0342a15"/>遂飲水一盞。腹中滃然作聲久之。令家人稱佛名。端
+<lb ed="X" n="0342a16"/>坐向西。隨誦數聲。合掌而終。移時。鼻&CB00552;下垂。長尺許。
+<lb ed="X" n="0342a17"/>久之方隱。事在道光六年十一月<note place="inline">錢安軒述</note>
+<lb ed="X" n="0342a18"/>西史氏曰。篤信念佛。固佳矣。但未知其回向淨土與
+<lb ed="X" n="0342a19"/>否。往生未可定也。第其端坐向西。從容而逝。即不生。
+<lb ed="X" n="0342a20"/>不遠矣。</p></div2>
+<lb ed="X" n="0342a21"/><div2 type="other"><mulu type="其他" level="2" label="瞿晉槐"/><head>瞿晉槐</head>
+<lb ed="X" n="0342a22"/><p id="pX78p0342a2201">瞿晉槐。常熟人。素不信佛。以求生西方為大愚。道光
+<lb ed="X" n="0342a23"/>十七年三月。病咯血漸劇。服藥不效。忽夢神告曰。汝
+<lb ed="X" n="0342a24"/>之病。唯孫姓者可治。醒而憶及戚友中有孫旃林。延
+<pb ed="X" id="X78.1550.0342b" n="0342b"/>
+<lb ed="X" n="0342b01"/>之診&CB07497;。旃林曰。病深矣。投藥不過盡人事。君能念佛
+<lb ed="X" n="0342b02"/>回向。即是妙方。否則非吾所治也。晉槐遂持佛名。忽
+<lb ed="X" n="0342b03"/>謂家人曰。吾今戒殺。為我買生命放之。且曰。今悟矣。
+<lb ed="X" n="0342b04"/>當詣和尚處受戒。以懺宿業。然獨言獨語。從未有與
+<lb ed="X" n="0342b05"/>之言此事者。及卒前兩日。以家事屬母。料理積逋。若
+<lb ed="X" n="0342b06"/>將遠行者。至四月十四日。強起憑几。忽仰首若有所
+<lb ed="X" n="0342b07"/>見。急稱阿彌陀佛。連唱十餘聲。首俯而絕<note place="inline">&CB01191;生近驗錄</note>
+<lb ed="X" n="0342b08"/>西史氏曰。或疑晉槐既<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>緣熟。神曷必藉口於孫姓。
+<lb ed="X" n="0342b09"/>噫。佛世一城人難化。獨與目連有緣。寧不聞之乎。</p></div2>
+<lb ed="X" n="0342b10"/><div2 type="other"><mulu type="其他" level="2" label="孫松亭"/><head>孫松亭</head>
+<lb ed="X" n="0342b11"/><p id="pX78p0342b1101">孫松亭。錢唐人。素奉斗。道光十七年秋。病亟。見旌&CB00582;
+<lb ed="X" n="0342b12"/>輿馬來迎。謂人曰。吾從之行矣。其季弟又村止之。曰。
+<lb ed="X" n="0342b13"/>此鬼神趣。非大善處。不可從也。良久曰。若輩悉滅形
+<lb ed="X" n="0342b14"/>矣。吾將安歸。又村以淨土法門進。松亭奮然。欲誦佛
+<lb ed="X" n="0342b15"/>名。而舌本強澀。格格不能成六字。又村助誦之。始琅
+<lb ed="X" n="0342b16"/>然出聲。至千餘聲乃寂<note place="inline">&CB01191;生近驗錄</note>。</p></div2>
+<lb ed="X" n="0342b17"/><div2 type="other"><mulu type="其他" level="2" label="陳畫叟"/><head>陳畫叟</head>
+<lb ed="X" n="0342b18"/><p id="pX78p0342b1801">陳畫叟。紹興人以善畫遊滇。家焉。長齋奉佛。歷數十
+<lb ed="X" n="0342b19"/>年。鄰有善女人。為叟所敬服。有疑必諮。習為常。道光
+<lb ed="X" n="0342b20"/>十九年夏。年六十餘。忽厭齋素。臨飯減食。且漸形聲
+<lb ed="X" n="0342b21"/>色。子婦邀其敬服者。來相勸勉。遂愧而自責。曰。余為
+<lb ed="X" n="0342b22"/>舌根所誤矣。謂家人曰。今後供饌。勿問余隨緣而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。
+<lb ed="X" n="0342b23"/>又何擇哉。由是仍復如常。一日忽命設祭於寢。子婦
+<lb ed="X" n="0342b24"/>異之。曰。余將西歸。與先靈別。無他故也。問其期。曰。三
+<pb ed="X" id="X78.1550.0342c" n="0342c"/>
+<lb ed="X" n="0342c01"/>日後。從之。至期晨沐。衣冠西向趺坐爇香。朗誦佛名。
+<lb ed="X" n="0342c02"/>顧子婦曰。尚有屬付。可邀鄰女來。家人佯諾之。而未
+<lb ed="X" n="0342c03"/>往。叟顧日影。太息曰。緣止如是。吾不欲久稽矣。遂合
+<lb ed="X" n="0342c04"/>掌而終。此事范西民孝廉在滇中。得於鄰女所自述
+<lb ed="X" n="0342c05"/>者<note place="inline">&CB01191;生近驗錄</note>。</p></div2>
+<lb ed="X" n="0342c06"/><div2 type="other"><mulu type="其他" level="2" label="丁童子"/><head>丁童子</head>
+<lb ed="X" n="0342c07"/><p id="pX78p0342c0701">丁童子。常熟人。居梅里鎮。七歲時。聞其父母持佛名。
+<lb ed="X" n="0342c08"/>亦每朝持之。未幾。有微疾。晨臥。忽蹶然興曰。今日未
+<lb ed="X" n="0342c09"/>課佛名。自誤大矣。遂盥漱禮誦畢。復就寢。至晚。告母
+<lb ed="X" n="0342c10"/>曰。吾隨佛西去。願勿驚訝。乃連誦佛名。良久暈絕。母
+<lb ed="X" n="0342c11"/>出不意。猶望其蘇。聞喉中作聲。若欲有言。喚之不應。
+<lb ed="X" n="0342c12"/>忽大聲稱大慈大悲四字。遂絕。次日就殮。舉體皆冷。
+<lb ed="X" n="0342c13"/>而頂則尚煖也<note place="inline">&CB01191;生近驗錄</note>
+<lb ed="X" n="0342c14"/>總論曰。或疑雜流往生。純是淨土聖賢隨機化導。言
+<lb ed="X" n="0342c15"/>雖近理。而畫地自限者多矣。觀是錄中。若皂&CB00619;。若伶
+<lb ed="X" n="0342c16"/>人。若勾者。乃至闡提外道。但得發心。都能成就。猥曰
+<lb ed="X" n="0342c17"/>下愚根鈍。不足以及上智乎哉。</p></div2></div1>
+<lb ed="X" n="0342c18"/>
+<lb ed="X" n="0342c19"/><juan fun="close" n="3"><jhead>淨土聖賢錄續編卷三</jhead></juan>
+<pb ed="X" id="X78.1550.0343a" n="0343a"/>
+<lb ed="X" n="0343a01"/><milestone unit="juan" n="4"/><juan fun="open" n="4"><mulu type="卷" n="4"/><jhead>淨土聖賢錄續編卷四</jhead></juan>
+<lb ed="X" n="0343a02"/>
+<lb ed="X" n="0343a03"/><div1 type="other"><mulu type="其他" level="1" label="往生女人第六"/><head>往生女人第六</head>
+<lb ed="X" n="0343a04"/><div2 type="other"><mulu type="其他" level="2" label="田婆"/><head>田婆</head>
+<lb ed="X" n="0343a05"/><p id="pX78p0343a0501">田婆。泰州野田莊人。夫婦俱信三寶。造像放生。齋僧
+<lb ed="X" n="0343a06"/>布施。其夫日誦法華經。婆獨念佛。如是二十餘年。婆
+<lb ed="X" n="0343a07"/>忽於順治十四年八月二十三日。向子言。可將二妹
+<lb ed="X" n="0343a08"/>領回。我今日西方去矣。子從之。家人都為淚下。婆說
+<lb ed="X" n="0343a09"/>偈曰。五十六年大事畢。丈夫兒女休啼泣。我今撒手
+<lb ed="X" n="0343a10"/>往西方。摩訶般若波羅蜜。端坐而逝<note place="inline">蓮藏</note>。</p></div2>
+<lb ed="X" n="0343a11"/><div2 type="other"><mulu type="其他" level="2" label="蔣氏"/><head>蔣氏</head>
+<lb ed="X" n="0343a12"/><p id="pX78p0343a1201">蔣氏。興化縣東鄉人。年四十。夫亡。葬畢。向子泣曰。無
+<lb ed="X" n="0343a13"/>常到來。莫能替代。譬如我今亦死。汝亦無奈。從今以
+<lb ed="X" n="0343a14"/>後。我持齋念佛。不管閒事矣。子順母命。宅旁&CB00582;一茅
+<lb ed="X" n="0343a15"/>舍。禁足念佛。經歷五載。至順治十七年。五月二十日。
+<lb ed="X" n="0343a16"/>忽向子言。可買木作龕。吾於二十三日午時。西方去
+<lb ed="X" n="0343a17"/>矣。遂往鄰家辭別。屆期。念佛而逝。頃之。出火自焚<note place="inline">蓮藏</note>
+<lb ed="X" n="0343a18"/>西史氏曰。夫亡而修成淨業。則夫必藉以超生。理實
+<lb ed="X" n="0343a19"/>可推。近世有青年喪偶。而自盡其軀者。縱節烈可風。
+<lb ed="X" n="0343a20"/>失利益矣。孰若蔣氏之為得計耶。</p></div2>
+<lb ed="X" n="0343a21"/><div2 type="other"><mulu type="其他" level="2" label="賀氏"/><head>賀氏</head>
+<lb ed="X" n="0343a22"/><p id="pX78p0343a2201">賀氏。常州魏村人。與夫潘尚高。同修淨業。日誦金剛
+<lb ed="X" n="0343a23"/>經。晨夕禮拜念佛。回向西方。康熙十九年七月。有疾。
+<lb ed="X" n="0343a24"/>預期二十九日午刻。辭世。屆期。子女畢集。又延諸善
+<pb ed="X" id="X78.1550.0343b" n="0343b"/>
+<lb ed="X" n="0343b01"/>友至。齊聲念佛而終<note place="inline">蓮藏</note>。</p></div2>
+<lb ed="X" n="0343b02"/><div2 type="other"><mulu type="其他" level="2" label="黃氏女"/><head>黃氏女</head>
+<lb ed="X" n="0343b03"/><p id="pX78p0343b0301">黃氏女。名峻。不詳其里居。自幼失怙。隨其祖母顧。禮
+<lb ed="X" n="0343b04"/>佛誦經。年十四受陵某聘。甫五日而病。且劇。乃決意
+<lb ed="X" n="0343b05"/>出家。命扶掖起向佛膜拜。懺悔宿業。&CB01753;聞來候。家人
+<lb ed="X" n="0343b06"/>欲引至榻前。峻搖手止之。日暮延僧受戒訖。朗呼陸
+<lb ed="X" n="0343b07"/>某曰。自今姻緣斷絕。勿復為念。爾亦及早回頭。毋久
+<lb ed="X" n="0343b08"/>迷也。遂令僧祝髮。從之合掌三謝。翛然坐脫。逾時不
+<lb ed="X" n="0343b09"/>傾。次日家人為更衣。體發異香。眉頰間。紅光赫然<note place="inline">何
+<lb ed="X" n="0343b10"/>士瑗陰&CB01460;文註釋</note>。</p></div2>
+<lb ed="X" n="0343b11"/><div2 type="other"><mulu type="其他" level="2" label="王荊石女"/><head>王荊石女</head>
+<lb ed="X" n="0343b12"/><p id="pX78p0343b1201">王荊石女。江蘇太倉人。許字徐景韶。年十七。忽長齋
+<lb ed="X" n="0343b13"/>受戒。朝夕禮大士像。後景韶病死。聞訃日。即布衣草
+<lb ed="X" n="0343b14"/>履。別築一室。焚修五年。一日與家人別。期重九日當
+<lb ed="X" n="0343b15"/>行。屆期。左手結印卓立而逝<note place="inline">何士瑗陰&CB01460;文註釋</note>。</p></div2>
+<lb ed="X" n="0343b16"/><div2 type="other"><mulu type="其他" level="2" label="陸氏"/><head>陸氏</head>
+<lb ed="X" n="0343b17"/><p id="pX78p0343b1701">陸氏太倉人。大西關外。張季思妻也。年十七。即長齋
+<lb ed="X" n="0343b18"/>念佛。且誦金剛經。大悲&CB00057;。回向西方。見殺物命者。即
+<lb ed="X" n="0343b19"/>發願救度。康&CB00696;四十二年九月。空中見輿舟西往。其
+<lb ed="X" n="0343b20"/>肩輿運舟者皆僧。不三日安然念佛而脫。時為九月
+<lb ed="X" n="0343b21"/>二十六<note place="inline">西歸直指</note>。</p></div2>
+<lb ed="X" n="0343b22"/><div2 type="other"><mulu type="其他" level="2" label="徐氏"/><head>徐氏</head>
+<lb ed="X" n="0343b23"/><p id="pX78p0343b2301">徐氏。松江人。歸本郡楊拂齋。年三十二。茹素念佛。并
+<lb ed="X" n="0343b24"/>&CB05418;持大悲神&CB00057;。期生安養。每晨興。必盥洗焚香。念佛
+<pb ed="X" id="X78.1550.0343c" n="0343c"/>
+<lb ed="X" n="0343c01"/>千聲。持&CB00057;二十一遍。然後理家事。如是數十年。乾隆
+<lb ed="X" n="0343c02"/>三十五年。夏微疾。至六月八日。課誦如常。持&CB00057;刻許。
+<lb ed="X" n="0343c03"/>漸覺聲出戶外。視之<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>含笑坐逝矣。時值酷暑。三日
+<lb ed="X" n="0343c04"/>後。顏色如生。焚化衣衫。火&CB08504;皆成五色蓮華。見者歎
+<lb ed="X" n="0343c05"/>異<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0343c06"/><div2 type="other"><mulu type="其他" level="2" label="兵家婦"/><head>兵家婦</head>
+<lb ed="X" n="0343c07"/><p id="pX78p0343c0701">松江一兵家婦。失其姓氏。寡居無子女。住普照寺南。
+<lb ed="X" n="0343c08"/>性質直。見婦女有過。必面斥其非。以故婦女輩。多敬
+<lb ed="X" n="0343c09"/>憚之。婦日有常課。曉起誦金剛經數卷畢。始經理紡
+<lb ed="X" n="0343c10"/>績。資生等事。夜則闔扉念佛。至老不倦。一日有高行
+<lb ed="X" n="0343c11"/>老僧。過其門。婦合掌問曰。我聞金剛不壞身。誦此經
+<lb ed="X" n="0343c12"/>者。肉身亦可不壞。信乎。僧曰。然。婦隨坐脫。時當盛暑。
+<lb ed="X" n="0343c13"/>貧無以斂。三日尸不腐。異香滿室中。提督楊公捷夫
+<lb ed="X" n="0343c14"/>人親臨其喪。即其地建坐化庵。漆其身。至今尚存。後
+<lb ed="X" n="0343c15"/>有鎮江某氏婦。隨宦松城。青年夫死。自誓守貞。焚修
+<lb ed="X" n="0343c16"/>此庵。以念佛為日課。五十年。足不踰閾。年荒&CB00827;草為
+<lb ed="X" n="0343c17"/>食。婦女輩或周之。非其人一毫不受。先後致徒數人。
+<lb ed="X" n="0343c18"/>不堪其苦。輒散去。年五十。語其所契某齋婆曰。我既
+<lb ed="X" n="0343c19"/>歸向佛門。不可不聞戒律。遂偕往大雄山。禮谿谷和
+<lb ed="X" n="0343c20"/>尚稟受戒法。既歸行持益勵。年近九旬。念佛吉祥而
+<lb ed="X" n="0343c21"/>逝。事在乾隆中<note place="inline">染香集</note>
+<lb ed="X" n="0343c22"/>西史氏曰。盛暑不腐。必其淨業<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>久。色身堅固者能
+<lb ed="X" n="0343c23"/>然。而往生淨土之人。或不盡是。勿取相以求可也。</p></div2>
+<lb ed="X" n="0343c24"/><div2 type="other"><mulu type="其他" level="2" label="曹媼"/><head>曹媼</head>
+<pb ed="X" id="X78.1550.0344a" n="0344a"/>
+<lb ed="X" n="0344a01"/><p id="pX78p0344a0101">曹媼常州柏天佑母也。天佑平生樂善。事呂真人謹。
+<lb ed="X" n="0344a02"/>嘗設鸞問仙術。退輒冥心端坐。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而至蘇。或詒以西
+<lb ed="X" n="0344a03"/>方確指一書。闢仙術。指歸淨土。始回向佛乘。然頗疑
+<lb ed="X" n="0344a04"/>與仙術異。以問真人。真人曰。爾何疑哉。三災到時。我
+<lb ed="X" n="0344a05"/>輩亦無別路可走。樂&CB15131;安隱。爾其勉之。因令兼誦金
+<lb ed="X" n="0344a06"/>剛般若經。天佑意遂釋然。先是媼年六十四。病熱。天
+<lb ed="X" n="0344a07"/>佑自蘇馳歸。視母氣<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>絕。唯胸前微溫。家人為治棺
+<lb ed="X" n="0344a08"/>衾。天佑悲慟。禱於白衣大士。誦白衣&CB00057;一萬二千。願
+<lb ed="X" n="0344a09"/>減<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>壽一紀以益母。涕淚并下。其明日索飲。閱數日。
+<lb ed="X" n="0344a10"/>病起。言始死時。為兩吏所引。歷土地城隍諸司。尋詣
+<lb ed="X" n="0344a11"/>東嶽府。府君言汝有子。為汝誠禱。仗大士力。貸汝死。
+<lb ed="X" n="0344a12"/>命吏引出放還。天佑由是勸母修淨業。媼遂長齋。日
+<lb ed="X" n="0344a13"/>以初中後分。掐數珠。課西方佛名。回向淨土。居十二
+<lb ed="X" n="0344a14"/>年。年七十六。九月既望。晨興。謂天佑曰。吾將去矣。可
+<lb ed="X" n="0344a15"/>召諸親屬為別。越三日。起坐。洗沐易衣。就枕而逝。又
+<lb ed="X" n="0344a16"/>天佑有外姑許氏母。家居。亦長齋念佛。而未能專一。
+<lb ed="X" n="0344a17"/>天佑迎之至家。教以放下萬緣。一心念佛。母如其言。
+<lb ed="X" n="0344a18"/>時年六十五矣。自三月至六月。未嘗有間。一日。向天
+<lb ed="X" n="0344a19"/>佑拜。驚問其由。曰。吾生六十餘年。顛倒夢想中。未嘗
+<lb ed="X" n="0344a20"/>獲一日安樂。自子導我以念佛。吾旦而念焉。俄然而
+<lb ed="X" n="0344a21"/>夜矣。夕而念焉。俄然而旦矣。世間安樂。何以過之。微
+<lb ed="X" n="0344a22"/>子則不及此。是以拜。天佑因為稱說極樂莊嚴。且曰。
+<lb ed="X" n="0344a23"/>但得一心。聖境自現。聖境現時。亦勿生著。又三月。方
+<lb ed="X" n="0344a24"/>夜坐。忽見金蓮華現前。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而化作百千萬億。鄂不層
+<pb ed="X" id="X78.1550.0344b" n="0344b"/>
+<lb ed="X" n="0344b01"/>出。上升&CB00980;空。光耀無極。向晨。復拜天佑。言其事。</p><p id="pX78p0344b0119" place="inline">母自
+<lb ed="X" n="0344b02"/>是容色腴潤。如三十許人。終日無他言。夜臥更許。即
+<lb ed="X" n="0344b03"/>起坐念佛。時乾隆四十二年。後不詳其所終<note place="inline">西方公據。集驗</note>
+<lb ed="X" n="0344b04"/>西史氏曰。觀真人此語。則修淨土其急務矣。世有崇
+<lb ed="X" n="0344b05"/>仙術而譏佛理者。將誰欺乎。</p></div2>
+<lb ed="X" n="0344b06"/><div2 type="other"><mulu type="其他" level="2" label="陶氏"/><head>陶氏</head>
+<lb ed="X" n="0344b07"/><p id="pX78p0344b0701">陶氏。名善。字慶餘。一字瓊樓。蘇州長洲人。彭二林居
+<lb ed="X" n="0344b08"/>士。從子希洛之妻也幼&CB00002;敏。通等韻之學。與妹仁。晨
+<lb ed="X" n="0344b09"/>夕酬倡。性愛蕭寂。遇佳山水。一往有遺世志。時見於
+<lb ed="X" n="0344b10"/>詩。亡何。妹得羸疾以歿。遂輟詩。不復為。讀大報恩經。
+<lb ed="X" n="0344b11"/>感如來往昔苦行因緣。遂發大願。願證無生法忍。手
+<lb ed="X" n="0344b12"/>書是經。及金剛彌陀諸經楷法端整。日誦西方佛名
+<lb ed="X" n="0344b13"/>不輟。著慚愧吟數十首。多近裏。之言。既嫁日與家人。
+<lb ed="X" n="0344b14"/>說苦空無常之法。晨興。仍課淨業。以次閱法華楞嚴
+<lb ed="X" n="0344b15"/>華嚴諸大乘經。信解益利。其年秋。和二林居士閉關
+<lb ed="X" n="0344b16"/>詩十首。一云。無相光中自有真。慈風披拂四時春。而
+<lb ed="X" n="0344b17"/>今一著通消息。回向蓮&CB15131;稽首頻。二云。原來無實亦
+<lb ed="X" n="0344b18"/>無&CB00980;。論道談禪事也餘。一句彌陀空自性。孰為是我
+<lb ed="X" n="0344b19"/>孰為渠。三云。&CB05640;泮波塘水影定。照空萬象慧光圓。須
+<lb ed="X" n="0344b20"/>知行滿功成後。鳥語花香也自然。四云。亭俯清流屋
+<lb ed="X" n="0344b21"/>倚山。綠蘿影裏掩松關。閒來好認歸家路。免得臨時
+<lb ed="X" n="0344b22"/>無處攀。五云。淨域神遊明似日。杖頭何用夜然藜漫
+<lb ed="X" n="0344b23"/>論十萬八千路。樓閣&CB00980;空更在西。六云。行樹何殊七
+<lb ed="X" n="0344b24"/>寶林。枝頭也得聽靈禽。自然說法東風裏。演出百千
+<pb ed="X" id="X78.1550.0344c" n="0344c"/>
+<lb ed="X" n="0344c01"/>微妙音。七云。夙夜惺惺徹底看。幾番生滅總無端。前
+<lb ed="X" n="0344c02"/>村雪後梅花放。露出春光不可瞞。八云。九十風光易
+<lb ed="X" n="0344c03"/>寂寥。然燈朗照度春宵。烹茶非為清香味。適興何妨
+<lb ed="X" n="0344c04"/>一飲瓢。九云。此土結得蓮華盟。八功德水蓮華生。一
+<lb ed="X" n="0344c05"/>心不亂超凡品。定向樂&CB15131;淨處行。十云。勘破重關觸
+<lb ed="X" n="0344c06"/>處真。從今不<app><lem wit="【CBETA】" resp="CBETA.maha">入</lem><rdg wit="【卍續】">八</rdg></app>舊迷津。輪回六字無終始。流水行雲
+<lb ed="X" n="0344c07"/>總是春。入冬感疾。自知不起。時誦西方佛名。歿之前。
+<lb ed="X" n="0344c08"/>請母為別。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而曰。大和尚來。吾去矣。侍者曰。如老人
+<lb ed="X" n="0344c09"/>何。曰西方好。吾他日。當迓老人去也。遂瞑。時為乾隆
+<lb ed="X" n="0344c10"/>四十五年。正月二十三日。年二十五。四十九年春。有
+<lb ed="X" n="0344c11"/>西方大士降於玉壇。為諸弟子宣揚淨土法門一日。
+<lb ed="X" n="0344c12"/>二林居士往造焉。問異時師友所生諸處。大士一一
+<lb ed="X" n="0344c13"/>答之。某生兜率。某歸福報。其生淨土者四人。香山老
+<lb ed="X" n="0344c14"/>人<note place="inline">名實定</note>。旅亭<note place="inline">名際會</note>誓願<note place="inline">名佛安</note>二師。沈居士敬孚<note place="inline">名炳</note>也。
+<lb ed="X" n="0344c15"/><note place="inline">以上四人詳聖賢錄初編</note>最後問及陶氏。大士曰。陶氏<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>生西方
+<lb ed="X" n="0344c16"/>邊地矣。未幾陶氏至。題詩曰。雨歇閒階芳草多。五年
+<lb ed="X" n="0344c17"/>消息等流梭。洞中深閉煙霞&CB00528;。一任薰風送客過。因
+<lb ed="X" n="0344c18"/>語眾曰。子等歸向極樂。全要打得一副金鐵心腸。外
+<lb ed="X" n="0344c19"/>不為六塵所染。內不為七情所錮。汙泥中便有蓮華
+<lb ed="X" n="0344c20"/>出現也。一句佛號。便有一光。千句佛號。便有千光。光
+<lb ed="X" n="0344c21"/>自內生。非從外得。以無相故。阿彌陀佛。在爾諸人面
+<lb ed="X" n="0344c22"/>門。隨處出現才有絲毫隔礙。此光便不能發現矣。念
+<lb ed="X" n="0344c23"/>佛心要時時覺照。方發得不退念頭。念佛聲要心心
+<lb ed="X" n="0344c24"/>悲切。方發得無上願力。心聲互融。光明四徹。無處不
+<pb ed="X" id="X78.1550.0345a" n="0345a"/>
+<lb ed="X" n="0345a01"/>是佛。無時不念佛。方為得手。佛號無量。要知智慧無
+<lb ed="X" n="0345a02"/>量神通無量慈悲無量。攝受無量。苟不發無量心。安
+<lb ed="X" n="0345a03"/>能親見本師頂相。悲哉眾生。欲念未除。道根日壞。佛
+<lb ed="X" n="0345a04"/>之視爾。將何以堪。快快念佛去也。踰月。二林居士復
+<lb ed="X" n="0345a05"/>往。致札陶氏曰。聞卿得生淨土。不負生平志願。大善
+<lb ed="X" n="0345a06"/>但羅臺山。朱仲君。清齋宏誓。甚為希有。尚羈福報。而
+<lb ed="X" n="0345a07"/>卿戒品未全。功夫未熟。乃能直往無礙。此何故也。其
+<lb ed="X" n="0345a08"/>往生時光景。既生後如何享用。如何進修。亦<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>見佛
+<lb ed="X" n="0345a09"/>否。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>登不退地否。試一一言之。俾聞者起欣慕心。起
+<lb ed="X" n="0345a10"/>精進心。斯亦度人之本願也。其曰大士降。報云前月
+<lb ed="X" n="0345a11"/>予適從西方邊地行化而來。故陶氏亦得隨到。今日
+<lb ed="X" n="0345a12"/>彼不能至矣。彼平日功夫戒力。雖不及臺山輩。然臨
+<lb ed="X" n="0345a13"/>終正念。遠勝臺山。故感觀音接引終時。見金蓮華現
+<lb ed="X" n="0345a14"/>前。即覺身變男子。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>到西方七寶世界。衣食自然。雖
+<lb ed="X" n="0345a15"/>不能見佛。每日諸大菩薩說法二會。精進者漸登九
+<lb ed="X" n="0345a16"/>品。懈怠者壽五百歲。娑婆百年。邊地一日。陶氏自往
+<lb ed="X" n="0345a17"/>生以來。頗精進將來。可得上品下生。其時尚須娑婆
+<lb ed="X" n="0345a18"/>二千年耳。大士者。號寂根。無量壽維摩詰諸經。皆嘗
+<lb ed="X" n="0345a19"/>與法會。其證果久如。未能詳也<note place="inline">善女人傳。瓊樓吟&CB00506;。西方公據。書證</note>。</p></div2>
+<lb ed="X" n="0345a20"/><div2 type="other"><mulu type="其他" level="2" label="汪氏"/><head>汪氏</head>
+<lb ed="X" n="0345a21"/><p id="pX78p0345a2101">汪氏。自號鏡智道人。吳縣人。歸李景熹為繼室。年二
+<lb ed="X" n="0345a22"/>十六而寡。子甫七月。汪氏既痛其夫。適有以枯髏圖
+<lb ed="X" n="0345a23"/>相示者。瞿然發出世心。既復從有些和尚受念佛法
+<lb ed="X" n="0345a24"/>門。遂長齋。晨夕向西。懺悔發願。誓畢此生。決生安養。
+<pb ed="X" id="X78.1550.0345b" n="0345b"/>
+<lb ed="X" n="0345b01"/>導諸族姻里黨。下及園丁&CB01105;婢。同歸佛法。從而起信
+<lb ed="X" n="0345b02"/>者。百餘人。其長齋修淨業者。十餘人。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而參聞學定
+<lb ed="X" n="0345b03"/>公。聞是心是佛之旨。有省。年三十四。從旅亭會公受
+<lb ed="X" n="0345b04"/>菩薩戒。誦梵<app><lem wit="【CBETA】" resp="CBETA.maha">網</lem><rdg wit="【卍續】">綱</rdg></app>經。發心<app><lem wit="【CBETA】" resp="CBETA.maha">刺</lem><rdg wit="【卍續】">剌</rdg></app>血。書法華彌陀二經。苦舌
+<lb ed="X" n="0345b05"/>血不繼。有僧教以子午二時。應候取之。始克終事焉。
+<lb ed="X" n="0345b06"/>故有肝疾。歲秋輒發。至是血既枯。疾發益劇。或勸以
+<lb ed="X" n="0345b07"/>補養。曰。此間學道。多致退緣。得速捨報身。見佛聞法。
+<lb ed="X" n="0345b08"/>吾之願也。復何求哉。乾隆四十九年十一月。下痢。臥
+<lb ed="X" n="0345b09"/>&CB00646;數日。默觀不輟。至初十日。語侍者云。明日吾當西
+<lb ed="X" n="0345b10"/>方去矣。問生何品。曰。中品上生。明日。有方氏婦省之。
+<lb ed="X" n="0345b11"/>汪氏曰。子來大好。可為我洗沐。洗沐畢。趺坐頃之。命
+<lb ed="X" n="0345b12"/>同舉佛名。方午。合掌而逝。旃檀香滿室中。年三十八。
+<lb ed="X" n="0345b13"/>其後三年。有同里何氏。女病死。至三更而蘇。自言到
+<lb ed="X" n="0345b14"/>冥王殿中。王令鬼卒。取鎚欲打。忽見旛幢。擁護一道
+<lb ed="X" n="0345b15"/>人。自西方來。在冥教化。端正嚴潔。世無與比。審視之。
+<lb ed="X" n="0345b16"/>即萬年橋李家姆也。冥王跪迎。稱菩薩。姆令釋我。引
+<lb ed="X" n="0345b17"/>我歷觀諸地獄苦。且謂持齋念佛。一意西方。時至迎
+<lb ed="X" n="0345b18"/>汝。遂命輿送歸。以是得醒。翌日病間。其兄子性三。書
+<lb ed="X" n="0345b19"/>其事而傳之<note place="inline">一行居集。西方公據。書證</note>。</p></div2>
+<lb ed="X" n="0345b20"/><div2 type="other"><mulu type="其他" level="2" label="費孺人"/><head>費孺人</head>
+<lb ed="X" n="0345b21"/><p id="pX78p0345b2101">費孺人。名蘭襄。世居吳江縣。即彭二林居士妻也。居
+<lb ed="X" n="0345b22"/>常未嘗詈人。有不如意事。默默而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。先是在家時。庶
+<lb ed="X" n="0345b23"/>祖母王氏。好作佛事。孺人輒心慕。奉持齋禁。既嫁不
+<lb ed="X" n="0345b24"/>輟。自歸居士五六年。連舉二女。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而居士修西方之
+<pb ed="X" id="X78.1550.0345c" n="0345c"/>
+<lb ed="X" n="0345c01"/>業。每道出苦之要。孺人遂屏葷血。獨宿小園。日與二
+<lb ed="X" n="0345c02"/>女。講讀大乘經。回向淨土。乾隆五十五年秋。病肺嘔
+<lb ed="X" n="0345c03"/>血。消損異常時。遂詣文星閣。請祥峰和尚。受優婆夷
+<lb ed="X" n="0345c04"/>戒禮。誦益&CB05418;。平生偶有私蓄。輒作佛事。至是罄所藏。
+<lb ed="X" n="0345c05"/>屬居士詣雲棲建水陸大齋。願與一切有情。同生淨
+<lb ed="X" n="0345c06"/>土。啟經之日。家中人皆聞異香。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而疾亟。臥&CB00646;五日。
+<lb ed="X" n="0345c07"/>日向西。祝云。阿彌陀佛。當來迎我。居士自杭歸。&CB15081;之
+<lb ed="X" n="0345c08"/>曰。資糧<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>具。撒手便行。勿戀此殘生也。孺人曰。吾何
+<lb ed="X" n="0345c09"/>戀哉。但患不能速去耳。其夜過半。忽朗唱佛名。可十
+<lb ed="X" n="0345c10"/>聲。頃之遂逝。時九月八日也。後數年。普門大士降乩。
+<lb ed="X" n="0345c11"/>司乩者黃敬敷。叩孺人生處。大士示云。一念能回向。
+<lb ed="X" n="0345c12"/>送心先到西。功修久<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>積。終不退菩提。現生懈慢國。
+<lb ed="X" n="0345c13"/><note place="inline">西方邊地</note>將來可登九品<note place="inline">一行居集。西方公據。書證</note>
+<lb ed="X" n="0345c14"/>西史氏曰。自二林居士宣揚淨土法門。眷屬中。隨順
+<lb ed="X" n="0345c15"/>修持。先後往生。錄至此。&CB00582;五人焉。善人並萃一門。良
+<lb ed="X" n="0345c16"/>非偶然矣。</p></div2>
+<lb ed="X" n="0345c17"/><div2 type="other"><mulu type="其他" level="2" label="許節婦"/><head>許節婦</head>
+<lb ed="X" n="0345c18"/><p id="pX78p0345c1801">許節婦。太倉錢氏女也。年二十歸太學生許照。六載
+<lb ed="X" n="0345c19"/>而寡。乾隆三十七年。有司上聞。以節婦　旌。節婦自
+<lb ed="X" n="0345c20"/>幼信西方之教。母遘危疾。節婦禱於佛。日誦佛名千
+<lb ed="X" n="0345c21"/>聲。病尋愈既寡。事佛益&CB05418;。時出所藏。濟貧拯厄。惠及
+<lb ed="X" n="0345c22"/>禽畜。日誦金剛經。回向生西。晚而斷葷血者六年。先
+<lb ed="X" n="0345c23"/>歿前半月。夢觀世音現身接引。及期。命侍者焚香。合
+<lb ed="X" n="0345c24"/>掌誦西方佛名。趺坐而逝。時乾隆五十七年。二月四
+<pb ed="X" id="X78.1550.0346a" n="0346a"/>
+<lb ed="X" n="0346a01"/>日也。年七十二<note place="inline">一行居集</note>。</p></div2>
+<lb ed="X" n="0346a02"/><div2 type="other"><mulu type="其他" level="2" label="宋孺人"/><head>宋孺人</head>
+<lb ed="X" n="0346a03"/><p id="pX78p0346a0301">宋孺人。長洲人。歸太學生。顧文耀。事姑謹。姑故奉觀
+<lb ed="X" n="0346a04"/>音大士。既即世。遺宋&CB01937;大士像。孺人供奉日&CB05418;。垂十
+<lb ed="X" n="0346a05"/>餘年。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而其子晉芳。夢兩大士。身衣破衲。如有所乞。
+<lb ed="X" n="0346a06"/>旦遇一舟子。&CB06078;兩軸來售。一舊刻吳道子。畫僧相觀
+<lb ed="X" n="0346a07"/>音。一繡像送子觀音也。急償以直。屬工莊新。送貯里
+<lb ed="X" n="0346a08"/>中月聲庵。逾年。晉芳復夢兩大士。云將有行。急往視
+<lb ed="X" n="0346a09"/>之。則庋置之。壁間久矣。遂齎還家。張挂淨室。孺人日
+<lb ed="X" n="0346a10"/>侍像旁。誦西方佛名。及諸經&CB00057;。瞻拜無&CB00980;日。一日室
+<lb ed="X" n="0346a11"/>中&CB00513;面。忽現僧相大士。如道子畫。其後八日。又現一
+<lb ed="X" n="0346a12"/>尊作送子像。善財龍女。先後迸出。遂發&CB00513;刻像。金容
+<lb ed="X" n="0346a13"/>爛然。自此迸除葷血。一心淨業。晚得痺疾。日扶掖下
+<lb ed="X" n="0346a14"/>&CB00646;。課誦不輟。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而感熱增劇。臥病半月。臨終。訓勉諸
+<lb ed="X" n="0346a15"/>子。各敦本行。命同稱佛名。勿哭。遂合掌至頂誦所習
+<lb ed="X" n="0346a16"/>&CB00057;。忽聞異香滿室中。泊然而逝時在乾隆五十七年
+<lb ed="X" n="0346a17"/>五月。年五十四<note place="inline">一行居集</note>
+<lb ed="X" n="0346a18"/>西史氏曰。潘萬宗居士。衣&CB01926;現三聖。今孺人&CB00513;面現
+<lb ed="X" n="0346a19"/>大士。皆精誠之凝結也。而或疑其荒誕。試問蛤蜊&CB15605;
+<lb ed="X" n="0346a20"/>中。豬牙齒&CB16693;等之變現。獨何與。</p></div2>
+<lb ed="X" n="0346a21"/><div2 type="other"><mulu type="其他" level="2" label="鄭氏"/><head>鄭氏</head>
+<lb ed="X" n="0346a22"/><p id="pX78p0346a2201">鄭氏。松江人。適吳姓。少寡。矢志柏舟。別搆淨室。閉戶
+<lb ed="X" n="0346a23"/>誦經念。佛者數十年。至嘉慶初。年七十九。庭前石上。
+<lb ed="X" n="0346a24"/>忽生大蓮華一莖。適其母舅蔡鴻業司<app><lem wit="【CBETA】" resp="CBETA.maha">&CB04223;</lem><rdg wit="【卍續】">&CB15259;</rdg></app>。致仕歸。見
+<pb ed="X" id="X78.1550.0346b" n="0346b"/>
+<lb ed="X" n="0346b01"/>而奇之。為文勒石。記其事。是年。臘月。謂家人曰。我將
+<lb ed="X" n="0346b02"/>西歸踰旬無疾而逝<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0346b03"/><div2 type="other"><mulu type="其他" level="2" label="百不管老媼"/><head>百不管老媼</head>
+<lb ed="X" n="0346b04"/><p id="pX78p0346b0401">百不管老媼。失其姓。杭州人。嘗問於孝慈庵。道源和
+<lb ed="X" n="0346b05"/>尚曰。修何法門。一生決離苦海。和尚曰。無過念佛。然
+<lb ed="X" n="0346b06"/>念佛不難。而難於持久。持久不難。而難於一心。汝若
+<lb ed="X" n="0346b07"/>能一切不管。專心持名至誠發願往生。臨終佛來接
+<lb ed="X" n="0346b08"/>引。即得離苦海矣。媼歡然拜謝。歸即將家事。委子婦
+<lb ed="X" n="0346b09"/>等。闢淨室供佛。修持其中。年餘。復問和尚曰自蒙開
+<lb ed="X" n="0346b10"/>示弟子。棄捨家務。專事念佛。自問亦可謂久而不懈。
+<lb ed="X" n="0346b11"/>但苦一心之難。師當復有以教我。和尚曰。汝雖拋&CB00230;
+<lb ed="X" n="0346b12"/>家務。而兒孫眷屬不無&CB05236;念。此則愛根未&CB15072;。如何一
+<lb ed="X" n="0346b13"/>心。汝今加功。先&CB15072;去愛根。將一切放下。然後能得一
+<lb ed="X" n="0346b14"/>心也。媼歎曰。師言是也我雖不管於身。不能不管於
+<lb ed="X" n="0346b15"/>心。從此真當百不管矣。遂愈加精進。愛心偶動。即默
+<lb ed="X" n="0346b16"/>持此百不管三字。以自軀除。或咨以家事。亦依此三
+<lb ed="X" n="0346b17"/>字拒之於是百不管之名。播傳親黨間。如是者又年
+<lb ed="X" n="0346b18"/>餘。一日詣庵謝曰。師不我欺也。弟子西行有日矣。數
+<lb ed="X" n="0346b19"/>日後。無疾而逝。嘉慶初年事<note place="inline">染香集</note>
+<lb ed="X" n="0346b20"/>西史氏曰。百不管。渾名也。推言之。則百至千。千至萬。
+<lb ed="X" n="0346b21"/>皆所不管矣。約言之。即一且不管。何有於百。能如是
+<lb ed="X" n="0346b22"/>而後塵緣可斷。能如是。而後淨業可成。嗚呼。安得世
+<lb ed="X" n="0346b23"/>間人士。咸如此百不管耶。</p></div2>
+<lb ed="X" n="0346b24"/><div2 type="other"><mulu type="其他" level="2" label="陸氏"/><head>陸氏</head>
+<pb ed="X" id="X78.1550.0346c" n="0346c"/>
+<lb ed="X" n="0346c01"/><p id="pX78p0346c0101">陸氏。婁縣人。適周姓。中年茹素受五戒。遇西禪寺僧
+<lb ed="X" n="0346c02"/>邁春。示念佛法門。即依教行持。三十年不倦。夫死。依
+<lb ed="X" n="0346c03"/>&CB01753;袁退&CB06059;家棲止。嘉慶十一年。感微疾。一心念佛。期
+<lb ed="X" n="0346c04"/>生淨土。臨終。右脅而臥。如入禪定。室中異香。直透中
+<lb ed="X" n="0346c05"/>堂。及殮。猶有餘香<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0346c06"/><div2 type="other"><mulu type="其他" level="2" label="吳氏"/><head>吳氏</head>
+<lb ed="X" n="0346c07"/><p id="pX78p0346c0701">吳氏。蘇州元和人。適張姓。中年奉佛。歸依畫禪寺。道
+<lb ed="X" n="0346c08"/>林和尚。茹素戒殺。專心淨業。後因夢中。見觀音大士。
+<lb ed="X" n="0346c09"/>教以跪念。於是每念必跪。香燼始起。未嘗稍懈晚年
+<lb ed="X" n="0346c10"/>有微疾。命子眉山。延僧數人。念佛至三日。乃曰。我見
+<lb ed="X" n="0346c11"/>空中有兩和尚招手。僧曰。此二大士也。正宜一心向
+<lb ed="X" n="0346c12"/>往。言未竟。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>吉祥逝矣。眉山亦因母教。遂長齋。奉佛
+<lb ed="X" n="0346c13"/>云<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0346c14"/><div2 type="other"><mulu type="其他" level="2" label="沈媼"/><head>沈媼</head>
+<lb ed="X" n="0346c15"/><p id="pX78p0346c1501">沈媼。法名善月。吳江黎里人。歸陳士坊為室。生子二。
+<lb ed="X" n="0346c16"/>年二十五。修念佛三昧。四十斷葷血。屏家務。勤行放
+<lb ed="X" n="0346c17"/>生諸功德。既喪少子。旋孀居。功益進。日誦華嚴行願
+<lb ed="X" n="0346c18"/>品一卷。大悲&CB00057;五十&CB00642;。佛號三萬聲為正課。暮年。從
+<lb ed="X" n="0346c19"/>子遷居城中。闢一靜室。不越戶限。寢食於斯。棲心淨
+<lb ed="X" n="0346c20"/>土。數十年如一日。年七十五。染恙&CB00381;延。佛名不輟。臨
+<lb ed="X" n="0346c21"/>終。呼眷屬扶起。索湯盥身。易衣趺坐。面西合掌而逝。
+<lb ed="X" n="0346c22"/>俄而几現蓮華影像不滅。時嘉慶二十一年。十月二
+<lb ed="X" n="0346c23"/>十八日<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0346c24"/><div2 type="other"><mulu type="其他" level="2" label="姚氏"/><head>姚氏</head>
+<pb ed="X" id="X78.1550.0347a" n="0347a"/>
+<lb ed="X" n="0347a01"/><p id="pX78p0347a0101">姚氏。松江人。平日從夫張某。奉斗甚&CB05418;。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而姚氏患
+<lb ed="X" n="0347a02"/>病。其姊省之。教以專心念佛。從之。甫半日。忽笑曰。我
+<lb ed="X" n="0347a03"/>見蓮華無數。大如斗。語竟即逝<note place="inline">染香集</note>
+<lb ed="X" n="0347a04"/>西史氏曰。見蓮華。不見化佛。持誦之功未深耳。而一
+<lb ed="X" n="0347a05"/>生安養。終當見佛矣。</p></div2>
+<lb ed="X" n="0347a06"/><div2 type="other"><mulu type="其他" level="2" label="汪氏"/><head>汪氏</head>
+<lb ed="X" n="0347a07"/><p id="pX78p0347a0701">汪氏。華亭人。年十六。歸周文榮。家赤貧。文榮遊幕遠
+<lb ed="X" n="0347a08"/>方。汪氏女紅自活。長齋奉佛。後文榮客死湖北。久無
+<lb ed="X" n="0347a09"/>耗。汪氏撫子方容成立。乃命尋父。方容徒步數千里。
+<lb ed="X" n="0347a10"/>卒負父骨歸。學使採風。以母節子孝表其閭。方容故
+<lb ed="X" n="0347a11"/>善書畫。人重其孝行。爭搆之。以是甘旨無缺。汪氏晚
+<lb ed="X" n="0347a12"/>年。念佛益&CB05418;。願父母翁姑及夫。齊生蓮界。嘉慶某年。
+<lb ed="X" n="0347a13"/>得疾。曰閉戶念佛。不問家事。臨終。謂方容曰。我昨夢
+<lb ed="X" n="0347a14"/>汝祖父母。外祖父母。及汝父。俱住蓮華世界。現前五
+<lb ed="X" n="0347a15"/>色雲。擁一瓣蓮。大如舟。我殆乘此往生乎。言訖。怡然
+<lb ed="X" n="0347a16"/>長逝。室中香氣如蘭。殮時未散<note place="inline">染香集</note>
+<lb ed="X" n="0347a17"/>西史氏曰。前發是願。卒符其夢。然則夫歿而修淨業。
+<lb ed="X" n="0347a18"/>夫必藉以超生。顧不足徵歟。願法界眾生。同歸安養。
+<lb ed="X" n="0347a19"/>回入娑婆。必能度脫。又不足徵歟。乃今之節婦。不明
+<lb ed="X" n="0347a20"/>乎是。小則哀傷得疾。大則隨夫長往。不知一盡今形。
+<lb ed="X" n="0347a21"/>各隨其白業黑業而報之。縱能相見黃泉。亦祇同於
+<lb ed="X" n="0347a22"/>陌路。唯西方淨土。諸上善人。俱會一處。其間利害。實
+<lb ed="X" n="0347a23"/>霄壤焉。唯智者思之。</p></div2>
+<lb ed="X" n="0347a24"/><div2 type="other"><mulu type="其他" level="2" label="王氏"/><head>王氏</head>
+<pb ed="X" id="X78.1550.0347b" n="0347b"/>
+<lb ed="X" n="0347b01"/><p id="pX78p0347b0101">王氏。金山縣人。適張姓。善事父母舅姑。嘗兩次刲股。
+<lb ed="X" n="0347b02"/>夫歿。柏舟節橾。家法肅然。每見喪家接眚甚怖。因問
+<lb ed="X" n="0347b03"/>人曰。何能免此。或告以念佛法門。遂發心茹素。禮誦
+<lb ed="X" n="0347b04"/>不輟。教諸子婦。闔門信奉。力行放生掩骼諸善事。後
+<lb ed="X" n="0347b05"/>患脾疾。求參一和尚。受優婆夷戒。經年病革。行願益
+<lb ed="X" n="0347b06"/>誠。臨終。誦彌陀經。以次稱佛號。移時而逝。遺命不迎
+<lb ed="X" n="0347b07"/>眚神。不以葷酒設祭。子婦皆從之<note place="inline">染香集</note>
+<lb ed="X" n="0347b08"/>西史氏曰。用葷酒而設祭享賓。於亡者失大利益。智
+<lb ed="X" n="0347b09"/>者弗為也。至於迎眚之舉。尤屬不經。而積習成風。深
+<lb ed="X" n="0347b10"/>堪痛恨。修行人。力挽穨靡。此其可法矣。</p></div2>
+<lb ed="X" n="0347b11"/><div2 type="other"><mulu type="其他" level="2" label="吳媼"/><head>吳媼</head>
+<lb ed="X" n="0347b12"/><p id="pX78p0347b1201">吳媼。江&CB03408;人。夫早喪。遺一子。撫之成立。婚娶數年。子
+<lb ed="X" n="0347b13"/>又亡。乃與寡媳。共撫弱孫。孤苦度日。後篤信淨土法
+<lb ed="X" n="0347b14"/>門。長齋奉佛。受優婆夷戒。潔小樓供佛像。每晨起盥
+<lb ed="X" n="0347b15"/>漱後。即炷香禮拜。持佛名三千。定為日課。課畢。始理
+<lb ed="X" n="0347b16"/>家事。如是數十年。同里有朱本願者。素與其子善。故
+<lb ed="X" n="0347b17"/>常往還。嘉慶二十二年春。媼忽謂之曰。&CB00230;後某日。子
+<lb ed="X" n="0347b18"/>幸過我。有一緊要事。須託辦也。本願諾之。至期往。媼
+<lb ed="X" n="0347b19"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>搭縵衣。趺坐&CB00646;上逝矣。問其媳云。近日課誦如常。
+<lb ed="X" n="0347b20"/>精神亦佳。昨夜索浴畢。即安臥。不知何時坐化也。本
+<lb ed="X" n="0347b21"/>願因為料理喪葬事焉<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0347b22"/><div2 type="other"><mulu type="其他" level="2" label="倪嫗"/><head>倪嫗</head>
+<lb ed="X" n="0347b23"/><p id="pX78p0347b2301">倪嫗。法名顯真。嘉善人。住北港村。歸依佛門。茹素念
+<lb ed="X" n="0347b24"/>佛。村中舊有觀音像。嫗早晚禮拜必誠。每供佛飯僧
+<pb ed="X" id="X78.1550.0347c" n="0347c"/>
+<lb ed="X" n="0347c01"/>俱親自任勞。嘉慶二十二年九月。數&CB00418;菩薩現相。隨
+<lb ed="X" n="0347c02"/>示疾。謂其子曰。我數見菩薩喚我去。殆將去矣。子云。
+<lb ed="X" n="0347c03"/>既菩薩降臨。應備齋供。兒親往城中。買蔬供奉。如何。
+<lb ed="X" n="0347c04"/>曰。亦好。但恐不及耳。子遂往。及歸。嫗<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>趺逝。念珠猶
+<lb ed="X" n="0347c05"/>在手也<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0347c06"/><div2 type="other"><mulu type="其他" level="2" label="潘氏"/><head>潘氏</head>
+<lb ed="X" n="0347c07"/><p id="pX78p0347c0701">潘氏。婁縣人。適孫某生四女。智求。智禪。福庵。德庵。俱
+<lb ed="X" n="0347c08"/>奉佛受優婆夷戒。勸母發心。嘉慶二十三年。潘氏年
+<lb ed="X" n="0347c09"/>七十九矣。會西林寺傳戒。四女復勸受戒。臥病。未能
+<lb ed="X" n="0347c10"/>往。因代求之。錫法名曰印蓮。潘氏知之。即斷肉食。一
+<lb ed="X" n="0347c11"/>意西歸。是冬。南禪寺起念佛七期。四女同往念佛。至
+<lb ed="X" n="0347c12"/>第六日。潘氏命促之歸。曰。速焚香。佛來矣。遂吉祥而
+<lb ed="X" n="0347c13"/>脫<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0347c14"/><div2 type="other"><mulu type="其他" level="2" label="汝氏"/><head>汝氏</head>
+<lb ed="X" n="0347c15"/><p id="pX78p0347c1501">汝氏。名季婉。吳江黎里人。適王枚為繼室。夫婦相敬
+<lb ed="X" n="0347c16"/>如賓。五十餘載。未有所出。為人靜厚。居常一以念佛
+<lb ed="X" n="0347c17"/>為事。嘉慶二十四年。二月三日。病篤。語家人曰。大士
+<lb ed="X" n="0347c18"/>來臨。吾其逝矣。即合掌垂目。誦大悲&CB00057;。旋聞旃檀香
+<lb ed="X" n="0347c19"/>滿室中。歿後。慈容含笑。顏色轉少。年八十二<note place="inline">染香集</note>。</p></div2>
+<lb ed="X" n="0347c20"/><div2 type="other"><mulu type="其他" level="2" label="祁氏"/><head>祁氏</head>
+<lb ed="X" n="0347c21"/><p id="pX78p0347c2101">祁氏。法名德濟。江南興化人。歸同里王生。年未四旬。
+<lb ed="X" n="0347c22"/>慨然以濁世為厭。誓願求生安養。日誦佛名三萬聲。
+<lb ed="X" n="0347c23"/>歸依溪谷和尚。旋受優婆夷戒。年八十九。染微疾。其
+<lb ed="X" n="0347c24"/>年三月八日。告所親曰。我十六日當西去。或謂之曰。
+<pb ed="X" id="X78.1550.0348a" n="0348a"/>
+<lb ed="X" n="0348a01"/>十六乃紅沙日。不吉。祁氏曰。我修行人。不依俗忌。有
+<lb ed="X" n="0348a02"/>何不吉耶。雖然。勿令俗人議我。致退善心。即以十四
+<lb ed="X" n="0348a03"/>日去何如。至十四日。晨起。披縵衣。持佛名而逝。時在
+<lb ed="X" n="0348a04"/>嘉慶中<note place="inline">染香續集</note>。</p></div2>
+<lb ed="X" n="0348a05"/><div2 type="other"><mulu type="其他" level="2" label="王氏"/><head>王氏</head>
+<lb ed="X" n="0348a06"/><p id="pX78p0348a0601">王氏。鄞縣東鄉樹橋人。生不茹葷。自幼歸依三寶。法
+<lb ed="X" n="0348a07"/>名淨隆。既嫁。信向念佛法門。其夫性暴。時加詈辱。王
+<lb ed="X" n="0348a08"/>氏唯忍受而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。年六十餘。益精進。一夕其舍被鄰隙
+<lb ed="X" n="0348a09"/>放火。旋經撲滅。後赴寶林佛會。僧問倘爾時被焚。將
+<lb ed="X" n="0348a10"/>若之何。曰此身可厭。被焚。即乘之而去矣。越歲。其鄰
+<lb ed="X" n="0348a11"/>復放火。舍遂被燎。王氏竟不走避。唯緩聲持佛名。魚
+<lb ed="X" n="0348a12"/>聲朗朗。火光中。隔河人家。初見煙&CB08504;幕其居。忽有金
+<lb ed="X" n="0348a13"/>光一道。直沖霄漢。彷彿見王氏現身。火滅。家人尋視。
+<lb ed="X" n="0348a14"/>見其遺骨。若趺坐地上者然。</p><p id="pX78p0348a1412" place="inline">又鄞邑下殷有張氏者。
+<lb ed="X" n="0348a15"/>與王氏同師。法名淨音。其信向念佛。而不得於夫。亦
+<lb ed="X" n="0348a16"/>與王氏略似。雖百般磨折。道心不退。後患癱症。臥&CB00646;
+<lb ed="X" n="0348a17"/>數年。念佛無間。臨終合掌而逝。異香滿室。經數刻乃
+<lb ed="X" n="0348a18"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。</p><p id="pX78p0348a1803" place="inline">又鄞邑定橋有陳氏者。亦與王氏同師。法名淨瑞。
+<lb ed="X" n="0348a19"/>為人撲實。念佛求生。無少疑貳。常自言。我決定能生
+<lb ed="X" n="0348a20"/>淨土。臨終。&CB00696;怡端坐。念佛而逝<note place="inline">染香續集</note>
+<lb ed="X" n="0348a21"/>西史氏曰。王張二氏。宿業甚重。故自生至死。備嘗諸
+<lb ed="X" n="0348a22"/>苦。卒以淨願堅牢。咸感瑞應。乃知前世之餘殃。不能
+<lb ed="X" n="0348a23"/>累今生之勝果也。至若陳氏。雖宿業輕微。易成道業。
+<lb ed="X" n="0348a24"/>不及二氏之忍力堅定。然其一往之意氣。絕不跂路
+<pb ed="X" id="X78.1550.0348b" n="0348b"/>
+<lb ed="X" n="0348b01"/>亡羊。令人&CB15095;而神壯。可謂一門三傑矣。</p></div2>
+<lb ed="X" n="0348b02"/><div2 type="other"><mulu type="其他" level="2" label="潘氏"/><head>潘氏</head>
+<lb ed="X" n="0348b03"/><p id="pX78p0348b0301">潘氏。蘇州吳縣人。松江諸生。劉&CB00696;妻也。性仁慈。見人
+<lb ed="X" n="0348b04"/>急難。恒周之。雖家貧不顧也。晚年戒殺放生。日課西
+<lb ed="X" n="0348b05"/>方佛名數千聲。兼誦心經大悲&CB00057;。如是數載。道光四
+<lb ed="X" n="0348b06"/>年閏七月。有疾。謂家人曰。我死切勿哭泣。當念佛助
+<lb ed="X" n="0348b07"/>送。絕不及家事。日唯合掌誦經念佛。臨終。目將瞑。忽
+<lb ed="X" n="0348b08"/>厲聲曰。阿彌陀佛來矣。遂逝。時為二十二日。年五十
+<lb ed="X" n="0348b09"/>九。逝後閱半月。忽附家人身言。我今依舊修行。作出
+<lb ed="X" n="0348b10"/>家人矣。問曾往西方否。答尚未。問曾至陰司否。答不
+<lb ed="X" n="0348b11"/>往西方。不能不至陰司。但與常人不同耳。我今特來
+<lb ed="X" n="0348b12"/>相報。此後不復來矣。言訖而寂<note place="inline">染香集</note>
+<lb ed="X" n="0348b13"/>西史氏曰。臨終見佛。而不即往生者。何也。良由修行
+<lb ed="X" n="0348b14"/>時。於是心作佛之理。未及透明深切。故陰境得而乘
+<lb ed="X" n="0348b15"/>之。然以女人五障之體。遂能轉作出家人身。即此一
+<lb ed="X" n="0348b16"/>轉。力重萬鈞。來生由出家修行上。徑登極樂。理可必
+<lb ed="X" n="0348b17"/>矣。是錄專載往生。因此傳足為修行者勵。故登之。</p></div2>
+<lb ed="X" n="0348b18"/><div2 type="other"><mulu type="其他" level="2" label="朱氏"/><head>朱氏</head>
+<lb ed="X" n="0348b19"/><p id="pX78p0348b1901">朱氏。法名妙德。嘉興人。素患血疾。適許姓。年二十八。
+<lb ed="X" n="0348b20"/>夫故。一子復夭。以鍼黹自活。家雖貧。見人飢寒。輒罄
+<lb ed="X" n="0348b21"/>囊與之。道光六年春。同姑母妙圓。表妹立修。於精嚴
+<lb ed="X" n="0348b22"/>寺。受五戒。長齋念佛。求生淨土。一夕在妙圓佛堂內
+<lb ed="X" n="0348b23"/>添燈油。見燈華結成荷葉一片。葉上立佛一尊。即邀
+<lb ed="X" n="0348b24"/>妙圓立修至。皆見之。九年正月。因母歾過哀。血疾復
+<pb ed="X" id="X78.1550.0348c" n="0348c"/>
+<lb ed="X" n="0348c01"/>發。不能營作。常至乏食。性介。不輕干求。同里人知之。
+<lb ed="X" n="0348c02"/>請誦大悲&CB00057;。與度日之貲。至七月十八日。病劇。立修
+<lb ed="X" n="0348c03"/>來視之曰。他人皆言。姊念佛精進。吾謂汝心尚未切。
+<lb ed="X" n="0348c04"/>所以病不能愈。佛不來迎耳。朱氏涕泣懺悔。益自努
+<lb ed="X" n="0348c05"/>力。自後他人問言。皆不答。手唯合掌。眼唯流淚。夜將
+<lb ed="X" n="0348c06"/>半。忽笑曰。西方三聖至矣。焚香洗沐。念佛數十聲而
+<lb ed="X" n="0348c07"/>終。年四十四<note place="inline">染香續集</note>。</p></div2>
+<lb ed="X" n="0348c08"/><div2 type="other"><mulu type="其他" level="2" label="朱氏"/><head>朱氏</head>
+<lb ed="X" n="0348c09"/><p id="pX78p0348c0901">朱氏。法名妙圓。即節婦妙德之姑母也。歸許蔗如。道
+<lb ed="X" n="0348c10"/>光元年。夫故諸子<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>成立。即將家產分析。其第三女
+<lb ed="X" n="0348c11"/>法名立修。幼字徐姓。未婚而夫亡。後歸徐門守貞。而
+<lb ed="X" n="0348c12"/>常居母宅。設立佛堂。母女同修。早晚課佛外。日禮大
+<lb ed="X" n="0348c13"/>悲淨土懺各一時。誦金剛經三卷。餘時念佛。不談雜
+<lb ed="X" n="0348c14"/>事。遇放生濟貧等事。竭力皆為之。九年七月。妙德先
+<lb ed="X" n="0348c15"/>逝。現往生瑞相。朱氏曰。吾壽不永。亦欲去矣。至八月
+<lb ed="X" n="0348c16"/>二十九夜。呼女曰。頃聞鐘鳴。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>交寅時。今日吾神氣
+<lb ed="X" n="0348c17"/>稍疲。不能進佛堂禮誦。汝可朗誦佛號。吾聞爾聲。運
+<lb ed="X" n="0348c18"/>想可也。立修早課畢。進藥糜。曰。服之何益。吾別無他
+<lb ed="X" n="0348c19"/>事。只待佛來。吾即去矣。其季子泣告曰。兒等罔極未
+<lb ed="X" n="0348c20"/>報。全賴吾母教訓。今何遽忍舍去耶。笑曰。吾兒女雖
+<lb ed="X" n="0348c21"/>多。吾修淨業。塵事毫不繫心久矣。命延僧數人。輪流
+<lb ed="X" n="0348c22"/>念佛。僧集淨水盥沐。自未至亥。隨眾默念。忽張目曰。
+<lb ed="X" n="0348c23"/>接引佛來矣。爾等速焚香頂禮。即含笑垂目而逝。時
+<lb ed="X" n="0348c24"/>窗外忽有白光一道。徐徐向西去。人皆異之。年五十
+<pb ed="X" id="X78.1550.0349a" n="0349a"/>
+<lb ed="X" n="0349a01"/>九<note place="inline">染香續集</note>。</p></div2>
+<lb ed="X" n="0349a02"/><div2 type="other"><mulu type="其他" level="2" label="羅氏"/><head>羅氏</head>
+<lb ed="X" n="0349a03"/><p id="pX78p0349a0301">羅氏。甯波慈谿人。長齋數十年。禮拜持名無一日間。
+<lb ed="X" n="0349a04"/>嘉慶初。隨夫姚惠成。徙居杭州北新關。貨煙筒為業。
+<lb ed="X" n="0349a05"/>貿易之暇。勉夫念佛。惠成由是亦持長齋。道光九年。
+<lb ed="X" n="0349a06"/>三月四日黎明。謂夫曰。可入城招女&CB01753;來。為我念佛。
+<lb ed="X" n="0349a07"/>其&CB01753;張懷靜。向師吳允升。奉佛維謹。惠成往招。適因
+<lb ed="X" n="0349a08"/>事稽阻。至日午。曰。吾不能待&CB01753;矣。具湯洗沐。趺坐念
+<lb ed="X" n="0349a09"/>佛。日將昃。安然化去。面有笑容。年七十八<note place="inline">染香續集</note>。</p></div2>
+<lb ed="X" n="0349a10"/><div2 type="other"><mulu type="其他" level="2" label="王氏女"/><head>王氏女</head>
+<lb ed="X" n="0349a11"/><p id="pX78p0349a1101">王氏女。常熟人。素持白衣&CB00057;。及觀音名號。年二十餘。
+<lb ed="X" n="0349a12"/>得瘵疾。一日告其母曰。兒命本於八月中謝世。因疾
+<lb ed="X" n="0349a13"/>苦纏身。不能待。禱於菩薩。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>許先一月迎我矣。母弗
+<lb ed="X" n="0349a14"/>信。及期。晨起。而有喜色。曰。菩薩來矣。母疑其見崇以
+<lb ed="X" n="0349a15"/>刀揮之。女奪刀告曰。嘻。菩薩也。速拜。尚不爾罪。母從
+<lb ed="X" n="0349a16"/>之。拜起視女。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>合掌逝矣<note place="inline">&CB01191;生近驗錄</note>。</p></div2>
+<lb ed="X" n="0349a17"/><div2 type="other"><mulu type="其他" level="2" label="邵媼"/><head>邵媼</head>
+<lb ed="X" n="0349a18"/><p id="pX78p0349a1801">邵媼。不詳其人。貧而寄食於姻戚家。念佛精進。曾於
+<lb ed="X" n="0349a19"/>道光十七年。秋夕。暗室面西。忽心開。見西方勝境。明
+<lb ed="X" n="0349a20"/>年秋。復&CB00418;菩薩金像。晃耀心目。又明年五月十四日。
+<lb ed="X" n="0349a21"/>以微疾逝。逝時。人不及見。唯醫生范姓。入為診&CB07497;。見
+<lb ed="X" n="0349a22"/>其目光如生。面容猶笑。而鼻<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>無息。范出而歎曰。此
+<lb ed="X" n="0349a23"/>善逝也。吾見亦罕矣<note place="inline">往生近驗錄</note>。</p></div2>
+<lb ed="X" n="0349a24"/><div2 type="other"><mulu type="其他" level="2" label="張家婦"/><head>張家婦</head>
+<pb ed="X" id="X78.1550.0349b" n="0349b"/>
+<lb ed="X" n="0349b01"/><p id="pX78p0349b0101">張家婦。常熟人。素念佛。一日。示微疾。晨課<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>畢。仍誦
+<lb ed="X" n="0349b02"/>佛名不輟。異於他日。謂家人曰。吾今日逝矣。家人不
+<lb ed="X" n="0349b03"/>信。頃之。珠落而逝。異香郁然。達於鄰里。咸集其門。驚
+<lb ed="X" n="0349b04"/>歎希有。時道光十九年。正月七日也<note place="inline">往生近驗錄</note>。</p></div2>
+<lb ed="X" n="0349b05"/><div2 type="other"><mulu type="其他" level="2" label="俞媼"/><head>俞媼</head>
+<lb ed="X" n="0349b06"/><p id="pX78p0349b0601">俞媼。常熟王效曾之母也。性和淑。效曾素奉三寶。勸
+<lb ed="X" n="0349b07"/>母斷葷血。從之。長齋三年。道光二十年春。得疾。臥&CB00646;
+<lb ed="X" n="0349b08"/>不起。入夏病劇。效曾勸以默觀西方。媼由是發心念
+<lb ed="X" n="0349b09"/>佛。然不能無雜念。因循數月。屢入冥界。初則有兩童
+<lb ed="X" n="0349b10"/>子喚之回。繼則菩薩命回。末後則夢中聞佛語。若其
+<lb ed="X" n="0349b11"/>前世固僧。因昧本而墮女身者。自是漸&CB00230;飯食。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>奄
+<lb ed="X" n="0349b12"/>然垂絕矣。忽於夜半。朗唱佛名三四聲。合掌西顧曰。
+<lb ed="X" n="0349b13"/>佛來矣。右脅而逝。時五月二十五日也。後其所愛長
+<lb ed="X" n="0349b14"/>孫。夢至一境。行樹樓觀。不同人間。但有闌楯限之。曲
+<lb ed="X" n="0349b15"/>折繚繞。而不得踰入其限。忽見嫗方遊行來。問從何
+<lb ed="X" n="0349b16"/>入。媼曰。汝欲入。非念佛不可。其孫聞言。遂寤。述其夢
+<lb ed="X" n="0349b17"/>如此<note place="inline">&CB01191;生近驗錄</note>。</p></div2>
+<lb ed="X" n="0349b18"/><div2 type="other"><mulu type="其他" level="2" label="吳婆"/><head>吳婆</head>
+<lb ed="X" n="0349b19"/><p id="pX78p0349b1901">吳婆。蘇州人。自幼篤信佛法。夫家姓郟。壽七十餘。持
+<lb ed="X" n="0349b20"/>齋誦佛。歷有年所。道光二十一年。正月十二夜。忽通
+<lb ed="X" n="0349b21"/>宿命。知其長子前世為僧。次子則<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>三世為母子。所
+<lb ed="X" n="0349b22"/>言皆絕異。既而曰。吾今歸西方。永絕塵世矣。遂西向
+<lb ed="X" n="0349b23"/>合掌而化<note place="inline">&CB01191;生近驗錄</note>
+<lb ed="X" n="0349b24"/>西史氏曰。業緣盡而智慧開。其理至常。無足異者。</p></div2>
+<pb ed="X" id="X78.1550.0349c" n="0349c"/>
+<lb ed="X" n="0349c01"/><div2 type="other"><mulu type="其他" level="2" label="錢孺人"/><head>錢孺人</head>
+<lb ed="X" n="0349c02"/><p id="pX78p0349c0201">錢孺人。名瑞雲。常熟人。夫謝鳳梧。患病。孺人禱於佛。
+<lb ed="X" n="0349c03"/>願持長齋而痊。自歸鳳梧數載。舉一子一女。未嘗噉
+<lb ed="X" n="0349c04"/>以葷血。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而知淨土<note n="0349001" resp="Xuzangjing" place="foot text" type="orig">淨疑法</note>淨門。遂偕鳳梧受淨戒。斷情愛。
+<lb ed="X" n="0349c05"/>道光二十二年。其兄萬鎰往生。孺人目擊其瑞。信向
+<lb ed="X" n="0349c06"/>益篤。其年冬。子殤。哭之慟。既而曰。天其欲斷愛緣乎。
+<lb ed="X" n="0349c07"/>漸不介意。閨中相對。唯&CB15081;勵而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。母吳氏。有疾誤於
+<lb ed="X" n="0349c08"/>醫。至不起。孺人念佛送其終。至二十五年。六月。自患
+<lb ed="X" n="0349c09"/>咯血疾。漸劇。其女亦病。鳳梧恐其復萌愛念。&CB15081;之曰。
+<lb ed="X" n="0349c10"/>未有心戀娑婆。口稱淨土。而能往生者。子其勉之。孺
+<lb ed="X" n="0349c11"/>人瞿然興。作禮曰。賴君開示。吾知警矣。遂向西懺悔。
+<lb ed="X" n="0349c12"/>涕淚并下。意極懇切。病中時聞異香。至七月二十日。
+<lb ed="X" n="0349c13"/>後其女歿。孺人曰。今愛障絕矣。我歷盡諸苦。轉得自
+<lb ed="X" n="0349c14"/>在。從此往生。不大快哉。遂屏穀食。渴唯噉瓜。延至八
+<lb ed="X" n="0349c15"/>月九日。僅存一息。其夜過半。忽厲聲呼鳳梧曰。障重。
+<lb ed="X" n="0349c16"/>速為我然臂香。鳳梧從之。初若昏倦。繼則目光炯炯。
+<lb ed="X" n="0349c17"/>正念分明。人問一心不亂否。孺人點首者再。忽命扶
+<lb ed="X" n="0349c18"/>掖起坐。兩目上視而逝。年三十一。越日就殮。頂門猶
+<lb ed="X" n="0349c19"/>煖。貌如生<note place="inline">錢孺人事略</note>。</p></div2>
+<lb ed="X" n="0349c20"/><div2 type="other"><mulu type="其他" level="2" label="沈婆"/><head>沈婆</head>
+<lb ed="X" n="0349c21"/><p id="pX78p0349c2101">沈婆。法名悟通。吳江黎里人。年三十九。長齋念佛。矢
+<lb ed="X" n="0349c22"/>願生西。受菩薩戒。六時皆有定課。六旬餘。一夕忽夢
+<lb ed="X" n="0349c23"/>空中現五色雲。湧舟西來。觀音大士坐於舟中。活動
+<lb ed="X" n="0349c24"/>如生。莊嚴奇妙。世無與比。醒而念佛益銳。雖老病。不
+<pb ed="X" id="X78.1550.0350a" n="0350a"/>
+<lb ed="X" n="0350a01"/>減程課。後以念佛七期。用力過猛。病遂劇。居邑之地
+<lb ed="X" n="0350a02"/>藏菴。至四月八日。謂侍者曰。今日為佛誕。扶我起坐。
+<lb ed="X" n="0350a03"/>吾行矣。侍者勸曰。婆病甚。宜善養息。厲聲曰。佛來接
+<lb ed="X" n="0350a04"/>引我。遂聳身欲起。侍者力助之。更衣而逝。遺命以龕
+<lb ed="X" n="0350a05"/>斂。用闍維法。從之。時在道光二十七年。壽六十八<note place="inline">呂
+<lb ed="X" n="0350a06"/>默庵述</note>。</p></div2>
+<lb ed="X" n="0350a07"/><div2 type="other"><mulu type="其他" level="2" label="陸安人"/><head>陸安人</head>
+<lb ed="X" n="0350a08"/><p id="pX78p0350a0801">陸安人。名岫梅。蘇州元和人。歸理問君吳昌濂。舉一
+<lb ed="X" n="0350a09"/>子。殤。年二十而寡。悲痛不<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。得咯血疾。有以龍舒淨
+<lb ed="X" n="0350a10"/>土文&CB06078;示者。遂回向佛乘。晨夕有定課。家中戒殺。食
+<lb ed="X" n="0350a11"/>三淨肉。蟲蟻木草。咸所愛護。道光十四年。鐵君定公。
+<lb ed="X" n="0350a12"/>校大乘經數十種。設局刊印。五年。始畢延其事。既從
+<lb ed="X" n="0350a13"/>定公。受三歸五戒。定公名之曰師壽。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而詣鄮山。禮
+<lb ed="X" n="0350a14"/>阿育王塔。見塔中舍利現光。自是行善舉益力。嘗出
+<lb ed="X" n="0350a15"/>貲三萬兩。造像修寺。作諸功德。而尤勤於放生。歲出
+<lb ed="X" n="0350a16"/>千金。不吝也。或有譏之者。曰。財產匪堅。勝緣難值。仗
+<lb ed="X" n="0350a17"/>此功德。與四恩三有。早證無上菩提。吾願足矣。復奚
+<lb ed="X" n="0350a18"/>戀哉。年三十四。疾大作。醫藥罔效。乃誓放生命一千
+<lb ed="X" n="0350a19"/>萬。於師林寺建水陸大齋。以作往生資糧。病半載自
+<lb ed="X" n="0350a20"/>愈。越五年。煉臂發願。斷葷血。祭先祀神悉用蔬果。四
+<lb ed="X" n="0350a21"/>旬生日。又於師林寺供飯僧。親友祝嘏者。以所刊法
+<lb ed="X" n="0350a22"/>華。華嚴等經施贈。其年秋。夢至一處。水流華放。&CB00529;非
+<lb ed="X" n="0350a23"/>塵境。身立一橋。異香撲鼻。竊自念言。此其為七寶池
+<lb ed="X" n="0350a24"/>乎。何不見我佛也。俄而金容寶相。&CB00642;滿遙空。心大喜。
+<pb ed="X" id="X78.1550.0350b" n="0350b"/>
+<lb ed="X" n="0350b01"/>方頂禮間蘧然而覺。晨起以告家人。未幾疾作。醫者
+<lb ed="X" n="0350b02"/>勸食肉。弗從。沈吟數月。疾垂革。謂所親曰。吾之始願。
+<lb ed="X" n="0350b03"/>志在出家。今不果矣。我死。汝等勿哭。殮必披僧伽黎。
+<lb ed="X" n="0350b04"/>喪中設祭享賓。勿用葷酒。吾姑年逾八旬。生死亦旦
+<lb ed="X" n="0350b05"/>暮事耳。異日壽終。亦如吾法。為我延比丘尼。六人。念
+<lb ed="X" n="0350b06"/>佛助往生。從之。臨逝前二日。令家人代受菩薩戒。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0350b07"/>而神識瞀亂。不克自主。大懼。乃迎佛像一尊。供&CB00646;畔
+<lb ed="X" n="0350b08"/>几上。注目默觀者。一晝夜。至五月四日清晨。念命掖
+<lb ed="X" n="0350b09"/>起曰。大和尚<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>行。吾西方去矣。令同稱佛號。手自拈
+<lb ed="X" n="0350b10"/>香敬佛。人問大和尚何在。曰。坐几上者。遂面西趺坐
+<lb ed="X" n="0350b11"/>結印而逝。年四十一。時在道光二十八年<note place="inline">朱兆杓撰
+<lb ed="X" n="0350b12"/>陸安人傳胡珽目擊</note>
+<lb ed="X" n="0350b13"/>西史氏曰。余之歸心佛乘也。自安人之刊經始。而安
+<lb ed="X" n="0350b14"/>人之聞淨土法門。則自先君子勸誘始。善哉。因緣之
+<lb ed="X" n="0350b15"/>迭相化導也。迨先君子既歿。而安人行善益勤。立誓
+<lb ed="X" n="0350b16"/>益切。雖須眉丈夫。猶愧之。其直往西方。固宜矣。</p>
+<lb ed="X" n="0350b17"/><p id="pX78p0350b1701">總論曰。阿彌陀佛。於十方女人。有大誓願。其詞曰。若
+<lb ed="X" n="0350b18"/>有女人。聞名信樂。厭惡女身。壽終之後。復為女相者。
+<lb ed="X" n="0350b19"/>不取正覺。則閨<note n="0350001" resp="Xuzangjing" place="foot text" type="orig">閣疑閤次同</note>閣賢豪。乘此方便門開。亟須爭先捷
+<lb ed="X" n="0350b20"/>足。橫截生死之流。直取菩薩之岸。否則輪回六道。安
+<lb ed="X" n="0350b21"/>能保其不墮。余次諸賢之傳。深幸韋提希之遺風。今
+<lb ed="X" n="0350b22"/>猶未泯也。安得起而&CB00642;示閨閣哉。</p></div2></div1>
+<lb ed="X" n="0350b23"/><div1 type="other"><mulu type="其他" level="1" label="往生物類第七"/><head>往生物類第七</head>
+<lb ed="X" n="0350b24"/><div2 type="other"><mulu type="其他" level="2" label="雞"/><head>雞</head>
+<pb ed="X" id="X78.1550.0350c" n="0350c"/>
+<lb ed="X" n="0350c01"/><p id="pX78p0350c0101">明崇禎間。有吳雪崖者。為福州司理。生平虔奉佛法。
+<lb ed="X" n="0350c02"/>其地開元寺。僧多食肉。不守戒行。雪崖請示立石。以
+<lb ed="X" n="0350c03"/>禁之。一日坐禪堂。有雞作唱佛聲。索得之。謂僧曰。若
+<lb ed="X" n="0350c04"/>輩謂寺中。久不養生物。如何有雞。今觀畜生。尚有佛
+<lb ed="X" n="0350c05"/>性。汝薙染破戒。不及此君多矣。寺僧始立誓齋戒。遂
+<lb ed="X" n="0350c06"/>&CB06078;養署中。恒念佛不輟。後遷官過丹陽。送至海會庵
+<lb ed="X" n="0350c07"/>中。以其為接眾所。使遠近生信也。雞至庵。即念佛立
+<lb ed="X" n="0350c08"/>化。為建塔供焉。</p><p id="pX78p0350c0807" place="inline">又中州僧覺圓。發願廬山東林寺齋
+<lb ed="X" n="0350c09"/>僧。立關募緣。時護關僧至華氏托&CB00425;回。有雄雞隨至
+<lb ed="X" n="0350c10"/>中塗。僧送還華氏。因閉其門。雞從屋上飛出。追赴關
+<lb ed="X" n="0350c11"/>所。旋繞不去。同立關三年。後&CB06078;往東林。為之受戒。大
+<lb ed="X" n="0350c12"/>眾上堂念佛。雞忽隨之。踰年齋僧緣畢。雞即坐化。<app><lem wit="【CBETA】" resp="CBETA.maha">瘞</lem><rdg wit="【卍續】">&CB02189;</rdg></app>
+<lb ed="X" n="0350c13"/>於寺傍。</p><p id="pX78p0350c1304" place="inline">又傳載江西有聽法蛇。廬州坐化貓。峽中有
+<lb ed="X" n="0350c14"/>有坐化猴。巢縣柘&CB04362;鎮。有立化&CB15179;。黃大參庭翠。有放
+<lb ed="X" n="0350c15"/>生坐化豬。種種靈異。不可殫述<note place="inline">唐宜之巾馭乘。淨土晨鐘</note>
+<lb ed="X" n="0350c16"/>總論曰。五濁惡世。染心易熾。淨德難成。故經言娑婆
+<lb ed="X" n="0350c17"/>勇猛一日。勝於淨土百年。今以物類而較人類。抑又
+<lb ed="X" n="0350c18"/>其難焉者矣。而一念投誠。三塗解脫。物類且然。況於
+<lb ed="X" n="0350c19"/>人乎。</p></div2></div1>
+<lb ed="X" n="0350c20"/>
+<lb ed="X" n="0350c21"/><juan fun="close" n="4"><jhead>淨土聖賢錄續編卷四<note place="inline">終</note></jhead></juan>
+<lb ed="X" n="0350c22"/>
+<lb ed="X" n="0350c23"/>
+<lb ed="X" n="0350c24"/>
+<pb ed="X" id="X78.1550.0351a" n="0351a"/>
+<lb ed="X" n="0351a01"/>
+<lb ed="X" n="0351a02"/>
+<lb ed="X" n="0351a03"/><div1 type="w"><mulu type="附文" level="1" label="No. 1550-1 種蓮集"/><head>No. 1550-1
+<lb ed="X" n="0351a04"/> 種蓮集</head>
+<lb ed="X" n="0351a05"/>
+<lb ed="X" n="0351a06"/><div2 type="xu"><mulu type="序" level="2" label="序"/><p id="pX78p0351a0601" rend="margin-left:1em">蓮歸居士輯淨土聖賢錄續編。採訪往生事實。共
+<lb ed="X" n="0351a07"/>有百數十條。而續得於書成之後者。正復不少。余
+<lb ed="X" n="0351a08"/>為另列一編。不分門類。不序先後。隨聞見而記之。
+<lb ed="X" n="0351a09"/>名曰種蓮集。取思齊大師句。與君同作種蓮人之
+<lb ed="X" n="0351a10"/>意。以俟後之輯三編者採取焉。</p>
+<lb ed="X" n="0351a11"/><p id="pX78p0351a1101" rend="margin-left:2em">道光三十年秋九月。淨業學人陳本仁識。</p></div2>
+<lb ed="X" n="0351a12"/><div2 type="w"><mulu type="附文" level="2" label="善隆"/><head>善隆</head>
+<lb ed="X" n="0351a13"/><p id="pX78p0351a1301">善隆。台州臨海縣人。年十六。出家於蘇州白龍寺。參
+<lb ed="X" n="0351a14"/>念佛是誰話。有省。夜坐不臥。過午不食。茹淡齋三年。
+<lb ed="X" n="0351a15"/><app><lem wit="【CBETA】" resp="CBETA.maha">刺</lem><rdg wit="【卍續】">剌</rdg></app>舌血。書華嚴法華二經。日持佛名六萬。蓮華經一
+<lb ed="X" n="0351a16"/>部。禮佛一千六百拜。準為定課。冬夏一衲。不妄談。力
+<lb ed="X" n="0351a17"/>行致疾。益加精進。一夕於禪觀中。聞空中報曰。汝當
+<lb ed="X" n="0351a18"/>得中品生。慎勿退息。遂屏諸藥石。一心西邁。至四月
+<lb ed="X" n="0351a19"/>六日。端坐而逝。時在道光二年。年二十六。</p></div2>
+<lb ed="X" n="0351a20"/><div2 type="w"><mulu type="附文" level="2" label="達禪"/><head>達禪</head>
+<lb ed="X" n="0351a21"/><p id="pX78p0351a2101">達禪。姓狄。嘉善人。出家於本邑景德寺。嘗兩修般舟
+<lb ed="X" n="0351a22"/>三昧。後住北港荻秋庵。佛聲常徹戶外。見人即警&CB15081;
+<lb ed="X" n="0351a23"/>生死。一日謂其徒淨玉曰。我明年定去矣。汝等勿忘
+<lb ed="X" n="0351a24"/>淨土法門也。次年。詣清淨庵。主念佛期。至第三日。示
+<pb ed="X" id="X78.1550.0351b" n="0351b"/>
+<lb ed="X" n="0351b01"/>疾。仍入堂念佛。逾時。端坐化去。</p></div2>
+<lb ed="X" n="0351b02"/><div2 type="w"><mulu type="附文" level="2" label="王君榮"/><head>王君榮</head>
+<lb ed="X" n="0351b03"/><p id="pX78p0351b0301">王君榮。太倉人。自幼持戒參學。見地超卓。後修淨土。
+<lb ed="X" n="0351b04"/>日課佛號萬聲。康&CB00696;五十六年。八月二日。預知時至。
+<lb ed="X" n="0351b05"/>請淨名庵。乾行長老至。令作證明。日方午。乾師曰。歸
+<lb ed="X" n="0351b06"/>期盍於後日。答曰。吾決定今日矣。遂索筆作偈。合掌
+<lb ed="X" n="0351b07"/>而逝。遺命以龕<app><lem wit="【CBETA】" resp="CBETA.maha">斂</lem><rdg wit="【卍續】">歛</rdg></app>。其女抱以入龕。力不能勝。因默禱
+<lb ed="X" n="0351b08"/>之。忽然輕舉。年八十一。</p></div2>
+<lb ed="X" n="0351b09"/><div2 type="w"><mulu type="附文" level="2" label="唐景垣"/><head>唐景垣</head>
+<lb ed="X" n="0351b10"/><p id="pX78p0351b1001">唐景垣。字筠谷。元和國學生。勤修淨業。每持名時。以
+<lb ed="X" n="0351b11"/>指代珠。年七十四。無疾而卒。氣絕逾時。猶指動作屈
+<lb ed="X" n="0351b12"/>數狀。</p></div2>
+<lb ed="X" n="0351b13"/><div2 type="w"><mulu type="附文" level="2" label="沈載元"/><head>沈載元</head>
+<lb ed="X" n="0351b14"/><p id="pX78p0351b1401">沈載元。字桂&CB01824;。自號可僧。吳江人。中年業賈。六旬餘。
+<lb ed="X" n="0351b15"/>輟業潛心淨土。長齋課佛。日滿萬餘。性慈恕。有所餘。
+<lb ed="X" n="0351b16"/>輒濟貧放生。嘉慶十六年秋。有僧貿然而來。直趣臥
+<lb ed="X" n="0351b17"/>所。略談數語。洞徹元微。并屬他日臨終。戒眷屬勿哭。
+<lb ed="X" n="0351b18"/>言訖而去。載元感之。炷香門外。遙申敬禮。其年冬。示
+<lb ed="X" n="0351b19"/>疾。佛聲不絕口。絕粒飲水者七日。至十二月六日清
+<lb ed="X" n="0351b20"/>晨。令然燭四十八對。堂中設香案。洗體易衣。端坐合
+<lb ed="X" n="0351b21"/>掌。朗誦佛名。呼眷屬同聲助之。頃之鼻氣如煙。聲漸
+<lb ed="X" n="0351b22"/>微而絕。年七十二。及殮。貌如生。</p></div2>
+<lb ed="X" n="0351b23"/><div2 type="w"><mulu type="附文" level="2" label="王際良"/><head>王際良</head>
+<lb ed="X" n="0351b24"/><p id="pX78p0351b2401">王際良。金山縣人。年五旬。歸依三寶。念佛放生。篤志
+<pb ed="X" id="X78.1550.0351c" n="0351c"/>
+<lb ed="X" n="0351c01"/>不倦。其年二月初。有疾。屏諸醫藥。日夜持名。絕口不
+<lb ed="X" n="0351c02"/>言家事。唯曰。日望。我其行矣。至期果然。死二日。索取
+<lb ed="X" n="0351c03"/>數珠。歿後。猶緊捻不脫。</p></div2>
+<lb ed="X" n="0351c04"/><div2 type="w"><mulu type="附文" level="2" label="夏耀文"/><head>夏耀文</head>
+<lb ed="X" n="0351c05"/><p id="pX78p0351c0501">夏耀文。華亭人。持齋念佛。一心淨土。四十餘年。舉家
+<lb ed="X" n="0351c06"/>不茹葷酒。道光四年十月。微疾。至十四日。命掖起。合
+<lb ed="X" n="0351c07"/>掌念佛而逝。遺命龕殮。入龕時。體軟<note n="0351001" resp="Xuzangjing" place="foot text" type="orig">項疑頂</note>項溫。顏色不變。
+<lb ed="X" n="0351c08"/>年七十五。</p></div2>
+<lb ed="X" n="0351c09"/><div2 type="w"><mulu type="附文" level="2" label="曹居士"/><head>曹居士</head>
+<lb ed="X" n="0351c10"/><p id="pX78p0351c1001">曹居士。不詳其人。持齋念佛。精進有年。而&CB00980;懷汲汲。
+<lb ed="X" n="0351c11"/>若恐臨終之不獲效者。道光二十年冬。微疾。一日其
+<lb ed="X" n="0351c12"/>子晨省。見其面色有異。指空中曰。汝見佛及眾菩薩
+<lb ed="X" n="0351c13"/>乎。吾不圖持名功德之至於斯也。汝作證明。吾隨佛
+<lb ed="X" n="0351c14"/>西歸矣。言訖而化。</p></div2>
+<lb ed="X" n="0351c15"/><div2 type="w"><mulu type="附文" level="2" label="邵媼"/><head>邵媼</head>
+<lb ed="X" n="0351c16"/><p id="pX78p0351c1601">邵媼。常熟邵子寅。茂才之母也。素奉佛。道光十八年
+<lb ed="X" n="0351c17"/>十二月。微疾。忽謂子寅曰。爾於明日。迎妹歸。子寅從
+<lb ed="X" n="0351c18"/>之。而莫測其所謂。次日。妹歸。媼曰。吾今日欲逝。以了
+<lb ed="X" n="0351c19"/>母女因緣耳。女聞而哭。媼笑曰。死生一幻相也。遂與
+<lb ed="X" n="0351c20"/>言他事。至午。曰。時至矣。子寅問何往。媼以手指空曰。
+<lb ed="X" n="0351c21"/>佛來。遂逝。</p></div2>
+<lb ed="X" n="0351c22"/><div2 type="w"><mulu type="附文" level="2" label="張氏"/><head>張氏</head>
+<lb ed="X" n="0351c23"/><p id="pX78p0351c2301">張氏。金山縣人。歸王生。其伯姑王氏。修淨業往生。事
+<lb ed="X" n="0351c24"/>見淨土聖賢錄續編。張氏自幼即信淨土。為人淡樸。
+<pb ed="X" id="X78.1550.0352a" n="0352a"/>
+<lb ed="X" n="0352a01"/>素善病。而念佛不輟。受三歸五戒。不願有家緣。幼<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0352a02"/>許字。遂於嘉慶二十年于歸。年餘歸甯母氏。適病劇。
+<lb ed="X" n="0352a03"/>延道俗行人同聲念佛。亡何。喘急。屬扶起。面西坐。誦
+<lb ed="X" n="0352a04"/>彌陀經及佛名。目熒熒上矚。面含笑容。頃之。乃瞑。</p></div2>
+<lb ed="X" n="0352a05"/><div2 type="w"><mulu type="附文" level="2" label="丁氏"/><head>丁氏</head>
+<lb ed="X" n="0352a06"/><p id="pX78p0352a0601">丁氏。金山人。即張氏姒也。其伯姑王氏。勸之念佛。同
+<lb ed="X" n="0352a07"/>日秉受歸戒。王先逝。丁氏見其臨終正念。愈自感奮。
+<lb ed="X" n="0352a08"/>剋時課誦。回向西方。居常作諸功德。並戒殺放生。一
+<lb ed="X" n="0352a09"/>師王氏遺法。有女適太原。病瘵。教之念佛。安然化去。
+<lb ed="X" n="0352a10"/>逾年。丁氏病中滿。轉側維艱。臨終。力疾起。面西坐。呼
+<lb ed="X" n="0352a11"/>家人誦彌陀經及佛號。甫百餘聲。觀其若有注視。問
+<lb ed="X" n="0352a12"/>見佛菩薩否。首微頷之。頃之聲息俱滅。時在道光八
+<lb ed="X" n="0352a13"/>年五月九日。</p></div2>
+<lb ed="X" n="0352a14"/><div2 type="w"><mulu type="附文" level="2" label="高士楨"/><head>高士楨</head>
+<lb ed="X" n="0352a15"/><p id="pX78p0352a1501">高士楨。字延三。錢唐人。其先世居山陰梅里。故自號
+<lb ed="X" n="0352a16"/>梅溪道人。年五十一。病入冥中。遊視地獄。有冥官屬
+<lb ed="X" n="0352a17"/>云。爾今回去。要一心念佛。一心行善。定能出苦。士楨
+<lb ed="X" n="0352a18"/>識之。三日而蘇。病良<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。發心念佛。行諸善法。回向西
+<lb ed="X" n="0352a19"/>方。并轉以教人。如是二十五年。至年七十五。臨終三
+<lb ed="X" n="0352a20"/>日前。自知時至。曰。今離苦惱矣。奉勸世人。及早修持。
+<lb ed="X" n="0352a21"/>無詒後悔。泊然而逝。時在乾隆三十五年十二月。</p></div2>
+<lb ed="X" n="0352a22"/><div2 type="w"><mulu type="附文" level="2" label="丁世濟"/><head>丁世濟</head>
+<lb ed="X" n="0352a23"/><p id="pX78p0352a2301">丁世濟。字子沂。元和庠生。年五十。歸依杯渡海公。法
+<lb ed="X" n="0352a24"/>名廣如。精修淨業。歷十載不倦。道光二十五年冬。有
+<pb ed="X" id="X78.1550.0352b" n="0352b"/>
+<lb ed="X" n="0352b01"/>疾。每夜必念佛千聲。彌陀經三卷。發願文一&CB00642;。一夕
+<lb ed="X" n="0352b02"/>誦至淨光照我之句。忽微笑曰。我今見佛淨光矣。十
+<lb ed="X" n="0352b03"/>一月十三日。夜將半。諸眷屬環坐榻前。忽聞異香浮
+<lb ed="X" n="0352b04"/>空而至。漸滿一室。共異之。次日世濟索筆作偈。禮似
+<lb ed="X" n="0352b05"/>七絕二首。而字&CB00528;糢糊。但識其末後句。有我便回家
+<lb ed="X" n="0352b06"/>見佛六字而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。至夜合掌。念佛而逝。年六十一。</p></div2>
+<lb ed="X" n="0352b07"/><div2 type="w"><mulu type="附文" level="2" label="陸孺人"/><head>陸孺人</head>
+<lb ed="X" n="0352b08"/><p id="pX78p0352b0801">陸孺人。蘇州人。歸太學生包心愚。事姑孝。嘗侍疾。不
+<lb ed="X" n="0352b09"/>解帶者。累月。心愚故勇於為善。凡造橋修路。施衣放
+<lb ed="X" n="0352b10"/>生諸事。恒戚然於心。孺人必盡力贊成。幼嘗浮海參
+<lb ed="X" n="0352b11"/>普陀。中年後。足不踰閾。晨起誦經&CB00057;。及佛號。四十年
+<lb ed="X" n="0352b12"/>中。無一日閒。道光二十七年。四月初。感微疾。告子婦
+<lb ed="X" n="0352b13"/>曰。夜夢古衣冠三人相招。謂我念佛。至誠。即日令我
+<lb ed="X" n="0352b14"/>見佛矣。初八日凌晨。西向念佛而逝。年八十五。</p></div2>
+<lb ed="X" n="0352b15"/><div2 type="w"><mulu type="附文" level="2" label="邱逢泰"/><head>邱逢泰</head>
+<lb ed="X" n="0352b16"/><p id="pX78p0352b1601">邱逢泰。字星階。長洲廩生。少有咯血疾。其年夏。疾大
+<lb ed="X" n="0352b17"/>作。忽信佛乘。延在經茂公。&CB00646;前誦佛號。疾有間。杜門
+<lb ed="X" n="0352b18"/>不出。&CB00642;閱淨土諸書。道光二十九年夏。疾復作。念佛
+<lb ed="X" n="0352b19"/>不輟。趺坐合掌而逝。父維洛副貢生。素行善。修淨業。
+<lb ed="X" n="0352b20"/>未幾亦念佛而逝。</p></div2>
+<lb ed="X" n="0352b21"/><div2 type="w"><mulu type="附文" level="2" label="錢氏"/><head>錢氏</head>
+<lb ed="X" n="0352b22"/><p id="pX78p0352b2201">錢氏。名蘭貞。蘇州人。幼即居止端莊。適顧淦為妻。後
+<lb ed="X" n="0352b23"/>因懷孕。遘疾甚危。半體皆冷。神識瞀亂。有至戚省之。
+<lb ed="X" n="0352b24"/>勸其夫。立誓戒殺。誦觀音聖號。從之。三日。汗下。其疾
+<pb ed="X" id="X78.1550.0352c" n="0352c"/>
+<lb ed="X" n="0352c01"/>若失。自是錢氏歸心淨業。每夜焚香。誦大士號。雖嚴
+<lb ed="X" n="0352c02"/>寒酷暑勿間也。道光二十八年冬。染咯血疾。漸增劇。
+<lb ed="X" n="0352c03"/>延至二十九年。十月八日。忽曰。苦海茫茫。三日可出
+<lb ed="X" n="0352c04"/>矣。初十日。清晨。令設香案於&CB00646;右。曰。今日決定往矣。
+<lb ed="X" n="0352c05"/>口中仍誦大士號。頃之。忽稱阿彌陀佛。至申刻。聲漸
+<lb ed="X" n="0352c06"/>微。向西吉祥而逝。翌日天明。頂相猶溫。年二十九。</p></div2>
+<lb ed="X" n="0352c07"/><div2 type="w"><mulu type="附文" level="2" label="錢文彬"/><head>錢文彬</head>
+<lb ed="X" n="0352c08"/><p id="pX78p0352c0801">錢文彬。字養愚。蘇州長洲縣人。每日晨起。默修十念
+<lb ed="X" n="0352c09"/>法。作善事。皆隱行。嘗出千金。放諸魚鳥。素患咯血疾。
+<lb ed="X" n="0352c10"/>年四十一。病劇。請在經茂公。歸依。病中喜聽誦佛聲。
+<lb ed="X" n="0352c11"/>臨歿前一日。延靈鷲福海和尚至。&CB00646;前。供佛設座。受
+<lb ed="X" n="0352c12"/>菩薩戒。留僧數人。輪流念佛。次日晡時。亟命扶掖起
+<lb ed="X" n="0352c13"/>坐。諦視佛像而逝。時在道光二十八年。二月二十五
+<lb ed="X" n="0352c14"/>日。</p></div2>
+<lb ed="X" n="0352c15"/><div2 type="w"><mulu type="附文" level="2" label="錢文燦"/><head>錢文燦</head>
+<lb ed="X" n="0352c16"/><p id="pX78p0352c1601">錢文燦。法名空相。字安軒。即文彬弟也。弱冠時。遇吳
+<lb ed="X" n="0352c17"/>宗魏指示淨業。歸依見心和尚。從靈鷲義公受菩薩
+<lb ed="X" n="0352c18"/>戒。長齋念佛。二十餘年。嘗刊念佛警&CB15081;。廣為施送。靈
+<lb ed="X" n="0352c19"/>鷲募建丈六三聖像。絀於貲。文燦贊成之。虞山有古
+<lb ed="X" n="0352c20"/>剎。亦募建三聖。則獨任之。天台國清寺鑄銅鐘。亦半
+<lb ed="X" n="0352c21"/>賴其力也。放生濟貧。歲以為常。道光三十年夏。下痢
+<lb ed="X" n="0352c22"/>令人往虞山。延道友張元祺至。曰。吾與君係生死交。
+<lb ed="X" n="0352c23"/>病亟矣。請君一助。元祺曰。諾。日與念佛。每昏沈欲睡
+<lb ed="X" n="0352c24"/>即&CB15081;勵之。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而元祺欲返家。文燦曰。吾四日中。可無
+<pb ed="X" id="X78.1550.0353a" n="0353a"/>
+<lb ed="X" n="0353a01"/>恙。過此不能待矣。元祺如其言。及四日後復至。則昏
+<lb ed="X" n="0353a02"/>沈益甚。元祺以聞啟初傳。與之細論<note place="inline">傳見淨土聖賢錄前編</note>。文
+<lb ed="X" n="0353a03"/>燦涕淚并下。遂猛力念佛。自未至亥。神識頓清。徹夜
+<lb ed="X" n="0353a04"/>無倦。天將旦。手作蓮華狀示張。遂右&CB00169;而逝。時七月
+<lb ed="X" n="0353a05"/>初四日也。遺言喪中不用葷酒。年四十三。</p></div2>
+<lb ed="X" n="0353a06"/><div2 type="w"><mulu type="附文" level="2" label="定意"/><head>定意</head>
+<lb ed="X" n="0353a07"/><p id="pX78p0353a0701">定意。未詳其所出。中歲出家。精持戒律。主錫丹陽嘉
+<lb ed="X" n="0353a08"/>山隆慶寺。同治紀元。避地楚水寶嚴。提倡蓮宗。率眾
+<lb ed="X" n="0353a09"/>念佛。精純靡間。日誦佛名五萬。淨懺二時。雖寒暑不
+<lb ed="X" n="0353a10"/>逾。四眾歸心。咸以嘉山老人尊之。乙丑元日。豫刻逝
+<lb ed="X" n="0353a11"/>期。日飲清水兩盞。至初七日平明。禮淨土懺畢。趺跏
+<lb ed="X" n="0353a12"/>西向。端坐而逝。&CB00444;人聞蓮華香。經時不散。</p></div2>
+<lb ed="X" n="0353a13"/><div2 type="w"><mulu type="附文" level="2" label="明舟"/><head>明舟</head>
+<lb ed="X" n="0353a14"/><p id="pX78p0353a1401">明舟。秦郵毛氏子。幼從觀音淨全薙染。年十八。受具
+<lb ed="X" n="0353a15"/>臨澤安樂寺。以赴應為業。後遇永清主人。授以淨土
+<lb ed="X" n="0353a16"/>法門。遂發心念佛。嗣往來秦塘。日研深義。信心益固。
+<lb ed="X" n="0353a17"/>常率眾持名。雖燭&CB02494;香銷。猶自哀籲佛前。願速生安
+<lb ed="X" n="0353a18"/>樂。利濟有情。故遐邇傾心。雖闡提輩。亦稽首歸依也。
+<lb ed="X" n="0353a19"/>同治乙丑三月。返別知交。五月朔示疾。至十二日平
+<lb ed="X" n="0353a20"/>明。禮佛入龕。同眾念佛名者。定香四炷。至午聲漸微。
+<lb ed="X" n="0353a21"/>視之逝矣。秦郵僻處湖&CB15147;。二十年來。蓮宗之振。至家
+<lb ed="X" n="0353a22"/>絃戶誦。&CB00582;舟有以啟之也。</p></div2>
+<lb ed="X" n="0353a23"/><div2 type="w"><mulu type="附文" level="2" label="汪善慶"/><head>汪善慶</head>
+<lb ed="X" n="0353a24"/><p id="pX78p0353a2401">汪善慶。字閬仙。號法如。淛之仁和人。少孤。隨母氏莊。
+<pb ed="X" id="X78.1550.0353b" n="0353b"/>
+<lb ed="X" n="0353b01"/>就傅外家。性至孝。極聰慧。年方舞勺。即入頖宮。及母
+<lb ed="X" n="0353b02"/>卒。喪葬盡禮。聘朱氏未娶。遭&CB07519;匪之亂。孑然一身。逃
+<lb ed="X" n="0353b03"/>至江北呂泗場。值同里清修之許靈&CB00980;者。延為西賓。
+<lb ed="X" n="0353b04"/>居恒嘗作出世想。會西來徐居士。授以持誦法門。由
+<lb ed="X" n="0353b05"/>是精心內典。一切經義。過目無遺。迨許返淛。移住揚
+<lb ed="X" n="0353b06"/>州藏經院。茹素十餘年。每靜坐。寡交遊。凡來問道者。
+<lb ed="X" n="0353b07"/>無不傾心開導。體素瘠。經禪勞憊。&CB00364;頭眩咳&CB04394;。然猶
+<lb ed="X" n="0353b08"/>念佛不懈。同治九年閏月疾篤。聚諸友告曰。西方境
+<lb ed="X" n="0353b09"/>界好。吾於二十三日長往矣。至期果逝。神色不變。越
+<lb ed="X" n="0353b10"/>日將殮。撫其頂。氣尚溫。時年四十有二。所著藏龍集。
+<lb ed="X" n="0353b11"/>見珠集。台宗四教。斷證圖頌。及病中吟百首。行世。</p></div2>
+<lb ed="X" n="0353b12"/><div2 type="w"><mulu type="附文" level="2" label="靜波"/><head>靜波</head>
+<lb ed="X" n="0353b13"/><p id="pX78p0353b1301">靜波。草堰場人。年二十。薙染於義阡寺。專心淨土。受
+<lb ed="X" n="0353b14"/>戒後。往來常州天&CB02248;。揚州高旻藏經等寺。性情淡定。
+<lb ed="X" n="0353b15"/>終身無異。兼能念佛不懈。常禮佛七。屏心息慮。人罕
+<lb ed="X" n="0353b16"/>能企。嗣往金山。數載樓居。足不踰桄。忽一日沐浴更
+<lb ed="X" n="0353b17"/>衣。親詣丈室拜辭。曰。七日後。吾西歸矣。果於同治十
+<lb ed="X" n="0353b18"/>三年四月初十日毫無疾苦。念佛趺跏而逝。斯誠無
+<lb ed="X" n="0353b19"/>有去住者。年八十有二。</p></div2>
+<lb ed="X" n="0353b20"/><div2 type="w"><mulu type="附文" level="2" label="易特墨太夫人"/><head>易特墨太夫人</head>
+<lb ed="X" n="0353b21"/><p id="pX78p0353b2101">易特墨太夫人。法名蓮如。滿洲正紅旂人。勤儉仁慈。
+<lb ed="X" n="0353b22"/>睦族情殷。惠周&CB09135;黨相夫教子。孜孜不倦。故依太守
+<lb ed="X" n="0353b23"/>勒通阿札分轉拉芬阿。二公出仕。卓著政聲。秉母訓
+<lb ed="X" n="0353b24"/>也。太夫人。中年茹素。潛心淨業。每日定課。誦佛號兩
+<pb ed="X" id="X78.1550.0353c" n="0353c"/>
+<lb ed="X" n="0353c01"/>萬數。無間寒暑者。二十餘年。光緒元年。壽六十二歲。
+<lb ed="X" n="0353c02"/>忽於冬月望後。神氣不爽。告家人曰。我見佛像數尊。
+<lb ed="X" n="0353c03"/>泉童男女。手執幡幢均來接我。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>自定期於二十七
+<lb ed="X" n="0353c04"/>日午時。往生西土。因將存儲衣飾。俵散媳女諸人。&CB00278;
+<lb ed="X" n="0353c05"/>囑持身處世。俱以方便為本。餘無他言。屆期趣令闔
+<lb ed="X" n="0353c06"/>宅眷屬。環跪誦佛。遂即合掌趺坐。朗宣佛號而逝。</p></div2>
+<lb ed="X" n="0353c07"/><div2 type="w"><mulu type="附文" level="2" label="余慎行"/><head>余慎行</head>
+<lb ed="X" n="0353c08"/><p id="pX78p0353c0801">余慎行。法名淨阿。揚州甘泉人。夙精骨董學。遂業以
+<lb ed="X" n="0353c09"/>謀生。眷屬緣盡。孑然獨處。同治乙丑。聞藏經院開念
+<lb ed="X" n="0353c10"/>佛道場善知識雲集焉。聆音仰慕持念茹素。皈依入
+<lb ed="X" n="0353c11"/>院。護持道場。以放生物。禮佛七為事。終歲無惰容。光
+<lb ed="X" n="0353c12"/>緒乙亥冬。忽染微疾。念佛倍切。除夕對眾曰。速具香
+<lb ed="X" n="0353c13"/>花供佛。吾將逝矣。迨力微細。堅令侍者。臮諸善眾。助
+<lb ed="X" n="0353c14"/>念而寂時年六十九歲。</p></div2>
+<lb ed="X" n="0353c15"/><div2 type="w"><mulu type="附文" level="2" label="玉＆CB00123；法師"/><head>玉&CB00123;法師</head>
+<lb ed="X" n="0353c16"/><p id="pX78p0353c1601">古崑字玉&CB00123;一號戀西。志淨土也。江西廣信人。年十
+<lb ed="X" n="0353c17"/>餘齡。投普甯寺出家。靈根宿具。初讀諸大乘經。即了
+<lb ed="X" n="0353c18"/>大意。繼受具戒。於天台國清。志遵梵網。隨眾參禪。力
+<lb ed="X" n="0353c19"/>究宗旨。忽聞鐘聲。恍然有省。後閱幽溪圓中鈔。密符
+<lb ed="X" n="0353c20"/>自心。增益法喜。遂立堅固誓願。嚴持戒律。一心念佛。
+<lb ed="X" n="0353c21"/>求生淨土。自行化他。惟誠惟懇。僧俗從而化者甚眾。
+<lb ed="X" n="0353c22"/>開示後學生死之苦。其言痛切。聞者流淚。教人念佛。
+<lb ed="X" n="0353c23"/>日有定課。持名計數。或一萬二萬。乃至十萬。隨人心
+<lb ed="X" n="0353c24"/>力。中無間斷。畢命為期。如此不退。命終之後定生淨
+<pb ed="X" id="X78.1550.0354a" n="0354a"/>
+<lb ed="X" n="0354a01"/>土。此是前人<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>驗之法。可信無疑。又復著書多種。闡
+<lb ed="X" n="0354a02"/>揚淨土法門。易行易成。功超眾行。若肯遵行。決不相
+<lb ed="X" n="0354a03"/>賺。仍復刊印大乘經律。石刻彌陀寶典。流通正法。用
+<lb ed="X" n="0354a04"/>報佛恩。及餘種種勝行。難以盡述。光緒十五年。明州
+<lb ed="X" n="0354a05"/>西方寺僧淨果。請居西方寺。以寺名合於本願。遂定
+<lb ed="X" n="0354a06"/>居焉。師自發心直至臨終。日持佛名六萬。二時回向。
+<lb ed="X" n="0354a07"/>寒暑無間。永為定課。光緒十八年。七月初六。午飯後
+<lb ed="X" n="0354a08"/>覺腹微脹。次日淨果延醫診視。醫云脈<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>全無。不須
+<lb ed="X" n="0354a09"/>用藥。而師面西趺坐念佛。並無他語。精神爽健。過於
+<lb ed="X" n="0354a10"/>平時。醫生歎為希有。淨果云。請眾師念佛相助可否。
+<lb ed="X" n="0354a11"/>師應諾。於是請僧八人。向西長跪。稱念彌陀聖號。約
+<lb ed="X" n="0354a12"/>一枝香。甫至申刻。見師合掌。猛力念佛數百聲。怡然
+<lb ed="X" n="0354a13"/>而敘。初九日入龕。面色津潤。頂上猶溫。次年二月望
+<lb ed="X" n="0354a14"/>日茶毗。僧俗送者數百人。火既發龕門先脫。見師趺
+<lb ed="X" n="0354a15"/>坐儼然如生。猛&CB08504;既熾。眾見頂上現佛十尊。兩手各
+<lb ed="X" n="0354a16"/>現佛像一尊。&CB00582;師生前。嘗於頂上燃香十炷。供養十
+<lb ed="X" n="0354a17"/>方諸佛。兩手各燃一指。一供釋尊。一供彌陀。故於闍
+<lb ed="X" n="0354a18"/>維之際。頂手現佛。實為真誠所致。希有之瑞。於戲生
+<lb ed="X" n="0354a19"/>為淨土領袖。歿後勝品往生。無可疑者。前有沈朱吳
+<lb ed="X" n="0354a20"/>三太史。就師問道。極讚師之道行。實為末世津梁云
+<lb ed="X" n="0354a21"/>云。</p></div2>
+<lb ed="X" n="0354a22"/><div2 type="w"><mulu type="附文" level="2" label="願登師"/><head>願登師</head>
+<lb ed="X" n="0354a23"/><p id="pX78p0354a2301">思岸字願登。杭州錢塘謝氏子。少業儒為諸生。覺世
+<lb ed="X" n="0354a24"/>無常。皈心三寶。宗教知識參扣略&CB00642;。後聽玉&CB00123;法師
+<pb ed="X" id="X78.1550.0354b" n="0354b"/>
+<lb ed="X" n="0354b01"/>開示。欲求脫苦。惟有念佛一法。最易成就。遂乃發心
+<lb ed="X" n="0354b02"/>日持佛名六萬為定課。平生所作功德。悉皆回向淨
+<lb ed="X" n="0354b03"/>土。同治壬申。受五戒於海潮寺。復深厭塵勞。早求解
+<lb ed="X" n="0354b04"/>脫。於光緒九年。乃將家務付囑二子。徑往郡西護國
+<lb ed="X" n="0354b05"/>寺。禮僧敬&CB00123;出家。是冬受具戒於蕭山祇園寺。仍回
+<lb ed="X" n="0354b06"/>護國。專精淨業。積勞既久。忽染病魔。雖經醫治。旋愈
+<lb ed="X" n="0354b07"/>旋發。二子思慕迎養於家。別除一室。以為修淨之所。
+<lb ed="X" n="0354b08"/>迨至光緒十五年秋。忽患痢疾。醫藥罔效。然飲食雖
+<lb ed="X" n="0354b09"/>減。而念佛愈切。至九月初十日。忽謂其子曰。吾往生
+<lb ed="X" n="0354b10"/>期至。可請僧於家。起佛七助我西歸。自定十二日起
+<lb ed="X" n="0354b11"/>一。謂僧朗&CB00123;曰。還有七日。至十五日。執僧廷山手曰。
+<lb ed="X" n="0354b12"/>止有三日。吾當去也。至十七日四更問何時。其子答
+<lb ed="X" n="0354b13"/>云。丑時也。曰丑時是十八日。子是我往生之期。可請
+<lb ed="X" n="0354b14"/>諸師念佛相助。遂隨眾念佛。約香一枝半。忽瞑目無
+<lb ed="X" n="0354b15"/>聲。良久忽開眼合掌。向眾人稱謝云。我<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>親到西方。
+<lb ed="X" n="0354b16"/>親見阿彌陀佛及二大士。仰荷佛慈。賜我淨衣。觀音
+<lb ed="X" n="0354b17"/>大士水洒我頂。又見蓮池大師。為眾說法。又&CB00418;七寶
+<lb ed="X" n="0354b18"/>池中。眾寶蓮中有我生處。承佛慈悲。命我回來告知
+<lb ed="X" n="0354b19"/>眾人。我<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>得生淨土。奉勸諸位。專精念佛。他日淨土
+<lb ed="X" n="0354b20"/>相見可也。復索淨水三飲。吉祥而臥。念佛數十聲。泊
+<lb ed="X" n="0354b21"/>然長往。次日入棺。頂猶溫手。</p>
+<lb ed="X" n="0354b22"/><p id="pX78p0354b2201">杭城數十年來。專勤念佛。往生淨土者。固不乏人。昭
+<lb ed="X" n="0354b23"/>明顯著。徵信無疑。惟願登師一人而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。於戲若非夙
+<lb ed="X" n="0354b24"/>具靈根。焉能有如是哉。書此以為修淨業者勸。</p></div2>
+<pb ed="X" id="X78.1550.0354c" n="0354c"/>
+<lb ed="X" n="0354c01"/><div2 type="w"><mulu type="附文" level="2" label="謝春華"/><head>謝春華</head>
+<lb ed="X" n="0354c02"/><p id="pX78p0354c0201">謝春華。杭州錢塘人。習賣衣業。稟性和直。與人無爭。
+<lb ed="X" n="0354c03"/>事親至孝。未嘗忤顏。凡遇善舉。竭力相助。所謂茹素
+<lb ed="X" n="0354c04"/>念佛。則未能行。光緒十年忽染蟲脹之疾。醫禱無效。
+<lb ed="X" n="0354c05"/>呻吟待盡而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。有表弟朱居士金伯者。久親佛法。參
+<lb ed="X" n="0354c06"/>叩知識。禪宗旨趣。多所發明。一日來謂春華曰。觀兄
+<lb ed="X" n="0354c07"/>所患病苦。實是宿世業障。若不立大善願。念佛懺悔。
+<lb ed="X" n="0354c08"/>恐難消除。春華首肯。遂立願。終身戒殺放生。志心念
+<lb ed="X" n="0354c09"/>佛。既立願<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。朱居士教之。共念阿彌陀佛四十九日
+<lb ed="X" n="0354c10"/>為期。是晚夢僧與一藥丸令吞之。既寤覺腹中響動。
+<lb ed="X" n="0354c11"/>連下數次。當即身安。不三日病盡痊愈。自此信心懇
+<lb ed="X" n="0354c12"/>切。念佛靡間。凡有佛會。無不身預。迨至光緒十五年。
+<lb ed="X" n="0354c13"/>夏初偶染微疾。飲食少進。而念佛益切。至四月二十
+<lb ed="X" n="0354c14"/>六日。夢中親見西方三聖。知是往生之兆。遍告親友。
+<lb ed="X" n="0354c15"/>將生淨土。謂姚居士明齋云。二十八日。我當西去。可
+<lb ed="X" n="0354c16"/>來念佛相助。曰二十八日不暇不能來。又云二十九
+<lb ed="X" n="0354c17"/>可否。曰二十九亦不暇。復云若如此。定於五月初一
+<lb ed="X" n="0354c18"/>去如何。曰初一當來送行可也。至期澡沐更衣。面西
+<lb ed="X" n="0354c19"/>端坐。謂諸子曰。汝等若有孝心者。念佛助我。慎勿哭
+<lb ed="X" n="0354c20"/>泣。既而善友俱集。同稱佛號約半枝香。舉手合掌。謝
+<lb ed="X" n="0354c21"/>眾助道。仰目視空。若有所見。合掌向空。含笑而逝。歿
+<lb ed="X" n="0354c22"/>後眾聞異香。數日不散。實為希有者也。</p>
+<lb ed="X" n="0354c23"/>
+<lb ed="X" n="0354c24"/><p id="pX78p0354c2401">種蓮集<note place="inline">終</note></p></div2></div1>
+</body></text></TEI.2>

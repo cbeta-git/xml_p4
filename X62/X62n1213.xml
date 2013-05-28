@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X62n1213.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1213 瓊樓吟稿節鈔</title>
+			<author>清 陶善著　弟子節鈔</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.3 $ (Big5)<date>$Date: 2009/04/22 09:01:56 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:01:56 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 62, No. 1213 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/07/04 09:38:34</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X62n1213.xml,v $
+Revision 1.3  2009/04/22 09:01:56  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.2  2005/08/03 07:45:05  eva
+modified: 目錄檢查修訂
+
+Revision 1.1  2005/07/04 01:43:13  ray
+使用 basicx 程式 將 簡單標記版 轉成 XML
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X62.1213.0838a" n="0838a"/>
+<lb ed="X" n="0838a01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0838a02"/>
+<lb ed="X" n="0838a03"/>
+<lb ed="X" n="0838a04"/>
+<lb ed="X" n="0838a05"/><div1 type="xu"><mulu type="序" level="1" label="No. 1213-A 瓊樓吟稿序"/><head>No. 1213-A
+<lb ed="X" n="0838a06"/> 瓊樓吟稿序</head>
+<lb ed="X" n="0838a07"/>
+<lb ed="X" n="0838a08"/><p id="pX62p0838a0801">庚子仲春月幾望。二林主人從役南還。見諸兄子。問
+<lb ed="X" n="0838a09"/>瓊樓陶氏之疾。則<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>先二旬而逝矣。爰以白水一盂。
+<lb ed="X" n="0838a10"/>梅花一瓣。為文而祭之。既而檢其遺帙。得往歲和予
+<lb ed="X" n="0838a11"/>閉關詩十首。予讀而歎曰。異哉。此迦陵音也。西方佛
+<lb ed="X" n="0838a12"/>土。七寶林中。和鳴哀雅。演出念佛念法念僧之聲。其
+<lb ed="X" n="0838a13"/>在斯乎。其在斯乎。乃盡發其生平所為詩。凡數帙。刪
+<lb ed="X" n="0838a14"/>而存之。得九十餘首。仍其舊題曰瓊樓吟稿。瓊樓始
+<lb ed="X" n="0838a15"/>為詩。寓意風花。陶情山水。吐屬清遠。不染塵垢。稍長。
+<lb ed="X" n="0838a16"/>讀聖賢佛祖書。漸知刊落詞華。鞭迫近裏。其有意於
+<lb ed="X" n="0838a17"/>古之為<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>之學者與。至十首之作。通達法源。淨諸疑
+<lb ed="X" n="0838a18"/>惑。多生根力。迸露毫端。非猶夫淺智小根。所能測識
+<lb ed="X" n="0838a19"/>者矣。讀瓊樓詩。一以為才子。一以為高士。一以為道
+<lb ed="X" n="0838a20"/>人。而瓊樓者。如空中花。如水中月。不一不異。非我非
+<lb ed="X" n="0838a21"/>渠。作如是觀。謂瓊樓即今長住可也。</p><p id="pX62p0838a2115" place="inline">彭紹升序</p></div1>
+<lb ed="X" n="0838a22"/>
+<lb ed="X" n="0838a23"/>
+<lb ed="X" n="0838a24"/>
+<pb ed="X" id="X62.1213.0838b" n="0838b"/>
+<lb ed="X" n="0838b01"/>
+<lb ed="X" n="0838b02"/>
+<lb ed="X" n="0838b03"/>
+<lb ed="X" n="0838b04"/>
+<lb ed="X" n="0838b05"/><head type="no">No. 1213</head>
+<lb ed="X" n="0838b06"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>瓊樓吟稿節鈔</jhead></juan>
+<lb ed="X" n="0838b07"/>
+<lb ed="X" n="0838b08"/><byline type="author">長洲陶善慶餘著</byline><byline type="other">海天精舍弟子節鈔</byline>
+<lb ed="X" n="0838b09"/><div1 type="other"><mulu type="其他" level="1" label="松"/><head>松<note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>丑</note></head>
+<lb ed="X" n="0838b10"/><p id="pX62p0838b1001">寒風鳴萬壑。片月挂東&CB00123;。烈烈撐天幹。森森拔地容。
+<lb ed="X" n="0838b11"/>寧高君子節。肯受大夫封。&CB00320;木都消瘦。虯枝綠轉濃。</p></div1>
+<lb ed="X" n="0838b12"/><div1 type="other"><mulu type="其他" level="1" label="蠟梅"/><head>蠟梅</head>
+<lb ed="X" n="0838b13"/><p id="pX62p0838b1301">時值三冬晚。庭前簇淡黃。寒風吹不落。暖日照還香。
+<lb ed="X" n="0838b14"/>玉藥千枝吐。冰心一點藏。翛然空谷裏。休擬漢宮妝。</p></div1>
+<lb ed="X" n="0838b15"/><div1 type="other"><mulu type="其他" level="1" label="山茶"/><head>山茶</head>
+<lb ed="X" n="0838b16"/><p id="pX62p0838b1601">冒雪飛來幾點霞。深深淺淺映窗紗。梅公&CB00061;罷蘇公
+<lb ed="X" n="0838b17"/>&CB00061;。耐得春寒是蜀茶。</p></div1>
+<lb ed="X" n="0838b18"/><div1 type="other"><mulu type="其他" level="1" label="李花"/><head>李花</head>
+<lb ed="X" n="0838b19"/><p id="pX62p0838b1901">傾城傾國更誰倫。曉鏡妝來別有春。&CB00230;笑夭桃千萬
+<lb ed="X" n="0838b20"/>樹。不於清淡見丰神。</p></div1>
+<lb ed="X" n="0838b21"/><div1 type="other"><mulu type="其他" level="1" label="紫薇"/><head>紫薇</head>
+<lb ed="X" n="0838b22"/><p id="pX62p0838b2201">曾聞玉殿香飛早。不獨樊川色可誇。今夜姑蘇明月
+<lb ed="X" n="0838b23"/>裏。何人更&CB00061;紫薇花。</p></div1>
+<lb ed="X" n="0838b24"/><div1 type="other"><mulu type="其他" level="1" label="蓴菜"/><head>蓴菜</head>
+<pb ed="X" id="X62.1213.0838c" n="0838c"/>
+<lb ed="X" n="0838c01"/><p id="pX62p0838c0101">調&CB15135;豈必思千里。<app><lem wit="【CBETA】" resp="CBETA.maha">采</lem><rdg wit="【卍續】">釆</rdg></app>茆何須溯泮宮。一箸絲香三四
+<lb ed="X" n="0838c02"/>月。題詩原不為秋風。</p></div1>
+<lb ed="X" n="0838c03"/><div1 type="other"><mulu type="其他" level="1" label="＆CB04310；支"/><head>&CB04310;支</head>
+<lb ed="X" n="0838c04"/><p id="pX62p0838c0401">白玉為膚蜜作丸。何年飛騎進長安。邢知一笑成長
+<lb ed="X" n="0838c05"/>恨。譜出君謨不忍看。</p></div1>
+<lb ed="X" n="0838c06"/><div1 type="other"><mulu type="其他" level="1" label="薑"/><head>薑</head>
+<lb ed="X" n="0838c07"/><p id="pX62p0838c0701">一種園蔬能去惡。尼山肉味好同餐。須知老辣由天
+<lb ed="X" n="0838c08"/>性。檜賊聞之膽亦寒。</p></div1>
+<lb ed="X" n="0838c09"/><div1 type="other"><mulu type="其他" level="1" label="將雪"/><head>將雪</head>
+<lb ed="X" n="0838c10"/><p id="pX62p0838c1001">風冷天將雪。千山朔氣交。凍雲初出嶺。寒鳥漸歸巢。
+<lb ed="X" n="0838c11"/>火活茶堪&CB00827;。詩成句欲敲。呼童&CB06078;帚待。窗外墮簷茅。</p></div1>
+<lb ed="X" n="0838c12"/><div1 type="other"><mulu type="其他" level="1" label="題畫扇"/><head>題畫扇</head>
+<lb ed="X" n="0838c13"/><p id="pX62p0838c1301">山迥林遙江水平。暮天雲斷數&CB00123;橫。此中恰有煙霞
+<lb ed="X" n="0838c14"/>客。落日扁舟一棹輕。</p></div1>
+<lb ed="X" n="0838c15"/><div1 type="other"><mulu type="其他" level="1" label="鸚鵡"/><head>鸚鵡</head>
+<lb ed="X" n="0838c16"/><p id="pX62p0838c1601">隴山逸格&CB10823;新妝。&CB00386;入天涯小玉堂。一夢喚回唐社
+<lb ed="X" n="0838c17"/>&CB01142;。千秋留得漢文章。斜樓學語春風細。曲檻呼茶曉
+<lb ed="X" n="0838c18"/>篆香。蕭瑟羈愁何處慰。鞦韆影裏落花旁。</p></div1>
+<lb ed="X" n="0838c19"/><div1 type="other"><mulu type="其他" level="1" label="春日幽居"/><head>春日幽居<note place="inline">庚寅</note></head>
+<lb ed="X" n="0838c20"/><p id="pX62p0838c2001">小院饒幽致。憑&CB15046;芳草齊。春風數歸燕。落日一聲雞。
+<lb ed="X" n="0838c21"/>竹色竹窗北。竹香花塢西。有誰閒似我。漁父釣前溪。</p></div1>
+<lb ed="X" n="0838c22"/><div1 type="other"><mulu type="其他" level="1" label="秋日即事"/><head>秋日即事</head>
+<lb ed="X" n="0838c23"/><p id="pX62p0838c2301">偶步池塘草盡黃。一天爽氣午風涼。病餘猶厭綿衣
+<lb ed="X" n="0838c24"/>薄。睡起方知秋日長。流水小橋楊柳老。白雲深院桂
+<pb ed="X" id="X62.1213.0839a" n="0839a"/>
+<lb ed="X" n="0839a01"/>花香。隔鄰機杼誰家女。辛苦寒窗伴夕陽。</p></div1>
+<lb ed="X" n="0839a02"/><div1 type="other"><mulu type="其他" level="1" label="秋暮"/><head>秋暮</head>
+<lb ed="X" n="0839a03"/><p id="pX62p0839a0301">蘇臺霜冷雁南歸。漠漠黃花弄晚馡。暮雨玉樓閒聽
+<lb ed="X" n="0839a04"/>笛。秋風金翦嬾裁衣。庭槐落翠蕭蕭響。蝶翅舒黃款
+<lb ed="X" n="0839a05"/>款飛。最是一年清爽意。水深山瘦白雲稀。</p></div1>
+<lb ed="X" n="0839a06"/><div1 type="other"><mulu type="其他" level="1" label="登穹窿山"/><head>登穹窿山<note place="inline">辛卯</note></head>
+<lb ed="X" n="0839a07"/><p id="pX62p0839a0701">方外乾坤別。山中世界清。松根盤石出。竹筍帶雲生。</p></div1>
+<lb ed="X" n="0839a08"/><div1 type="other"><mulu type="其他" level="1" label="登天平山"/><head>登天平山</head>
+<lb ed="X" n="0839a09"/><p id="pX62p0839a0901">山峻千&CB00123;立。泉深一水通。徘徊尋古路。小徑落花紅。</p></div1>
+<lb ed="X" n="0839a10"/><div1 type="other"><mulu type="其他" level="1" label="聽泉"/><head>聽泉</head>
+<lb ed="X" n="0839a11"/><p id="pX62p0839a1101">老&CB15112;唳偏苦。孤猿吟更愁。何如一條&CB00589;。灑落萬山秋。</p></div1>
+<lb ed="X" n="0839a12"/><div1 type="other"><mulu type="其他" level="1" label="自警"/><head>自警</head>
+<lb ed="X" n="0839a13"/><p id="pX62p0839a1301">高齋獨坐時。每每警此心。惟存一忍耐。可以無禍侵。
+<lb ed="X" n="0839a14"/>既安慎勿貪。富貴空勞身。天地有消息。況爾名利人。</p></div1>
+<lb ed="X" n="0839a15"/><div1 type="other"><mulu type="其他" level="1" label="讀書"/><head>讀書</head>
+<lb ed="X" n="0839a16"/><p id="pX62p0839a1601">空山落葉深。返照入松樹。掃石欲何為。讀書聊自娛。
+<lb ed="X" n="0839a17"/>此中味亦殊。日日換佳趣。回顧一泠然。新月&CB00123;尖吐。</p></div1>
+<lb ed="X" n="0839a18"/><div1 type="other"><mulu type="其他" level="1" label="秋晚"/><head>秋晚</head>
+<lb ed="X" n="0839a19"/><p id="pX62p0839a1901">一天涼氣爽。&CB00980;幌月來初。一二間茅屋。兩三卷古書。
+<lb ed="X" n="0839a20"/>硯池秋露滿。竹徑晚香餘。淡蕩沙頭鳥。鵷鸞定不如。</p></div1>
+<lb ed="X" n="0839a21"/><div1 type="other"><mulu type="其他" level="1" label="冬日即事"/><head>冬日即事</head>
+<lb ed="X" n="0839a22"/><p id="pX62p0839a2201">入冬罷刺繡。閒坐擁爐吟。松子落寒硯。梅花對古琴。
+<lb ed="X" n="0839a23"/>塵埃消世事。冰雪淡予心。借問逃禪者。真禪何處尋。</p></div1>
+<lb ed="X" n="0839a24"/><div1 type="other"><mulu type="其他" level="1" label="野步"/><head>野步<note place="inline">壬辰</note></head>
+<pb ed="X" id="X62.1213.0839b" n="0839b"/>
+<lb ed="X" n="0839b01"/><p id="pX62p0839b0101">風光眨眼豈長留。野外扶筇步步幽。曉嶼梅和殘雪
+<lb ed="X" n="0839b02"/>落。春江雲帶斷冰流。數家林壑樵人斧。一幅丹青賣
+<lb ed="X" n="0839b03"/>酒樓。別有閒情何處著。非今非古任優游。</p></div1>
+<lb ed="X" n="0839b04"/><div1 type="other"><mulu type="其他" level="1" label="幽居"/><head>幽居</head>
+<lb ed="X" n="0839b05"/><p id="pX62p0839b0501">幽居天地新。語默任天真。花鳥自成友。雲山好卜鄰。
+<lb ed="X" n="0839b06"/>晝眠茅舍暖。閒步草橋春。不覺空諸慮。高懷誰與論。</p></div1>
+<lb ed="X" n="0839b07"/><div1 type="other"><mulu type="其他" level="1" label="秋閨即景三首"/><head>秋閨即景三首</head>
+<lb ed="X" n="0839b08"/><p id="pX62p0839b0801">簾幕動微風。新涼入座中。一階秋色好。明月在梧桐。</p>
+<lb ed="X" n="0839b09"/><p id="pX62p0839b0901">暑退深閨淨。涼生團扇秋。心清了無事。不用說閒愁
+<lb ed="X" n="0839b10"/><note place="inline">閨中詩難得如此無病</note>。</p>
+<lb ed="X" n="0839b11"/><p id="pX62p0839b1101">晝永簾垂地。香消日影回。當階桐子落。知是鳥銜來。</p></div1>
+<lb ed="X" n="0839b12"/><div1 type="other"><mulu type="其他" level="1" label="不寐"/><head>不寐</head>
+<lb ed="X" n="0839b13"/><p id="pX62p0839b1301">夜久不成寐。開軒步小亭。長天挂明月。秋水浸&CB00520;星。
+<lb ed="X" n="0839b14"/>有得心常樂。無螢夢自寧。西風知我意。卷網放流營。</p></div1>
+<lb ed="X" n="0839b15"/><div1 type="other"><mulu type="其他" level="1" label="登樓晚眺"/><head>登樓晚眺</head>
+<lb ed="X" n="0839b16"/><p id="pX62p0839b1601">天地竟何窮。人生只如此。長風吹斷霞。西落吳江水。
+<lb ed="X" n="0839b17"/>古賢今不留。誰復省克<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>。回首暮煙橫。遠寺鐘聲起。</p></div1>
+<lb ed="X" n="0839b18"/><div1 type="other"><mulu type="其他" level="1" label="同妹靜山夜話"/><head>同妹靜山夜話<note place="inline">癸巳</note></head>
+<lb ed="X" n="0839b19"/><p id="pX62p0839b1901">幽居共春寒。挑燈為君說。人生天地閒。何分巧與拙。
+<lb ed="X" n="0839b20"/>拙者日&CB00696;&CB00696;。巧者百憂結。大道本無私。白雲自怡悅。
+<lb ed="X" n="0839b21"/>默然兩忘言。人境迥清絕。一犬吠深更。柴門閉風雪。</p></div1>
+<lb ed="X" n="0839b22"/><div1 type="other"><mulu type="其他" level="1" label="出門何所有"/><head>出門何所有</head>
+<lb ed="X" n="0839b23"/><p id="pX62p0839b2301">出門何所有。一派野花香。指點&CB00980;空畫。山山醉夕陽。</p></div1>
+<lb ed="X" n="0839b24"/><div1 type="other"><mulu type="其他" level="1" label="春盡"/><head>春盡<note place="inline">甲午</note></head>
+<pb ed="X" id="X62.1213.0839c" n="0839c"/>
+<lb ed="X" n="0839c01"/><p id="pX62p0839c0101">一夜狂風春<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>盡林花飄泊滿柴關。坐臨流水心無
+<lb ed="X" n="0839c02"/>住。門對青山夢亦閒。學道未須參世務。修真何必遠
+<lb ed="X" n="0839c03"/>人寰。卷簾指點&CB00123;頭路。歷落孤雲手可攀。</p></div1>
+<lb ed="X" n="0839c04"/><div1 type="other"><mulu type="其他" level="1" label="書懷二首"/><head>書懷二首<note place="inline">錄一</note></head>
+<lb ed="X" n="0839c05"/><p id="pX62p0839c0501">擬向尼山更問仁。勿由非禮訓曾聞。壬辰涵養初除
+<lb ed="X" n="0839c06"/>酒。丁酉磨&CB05381;欲斷葷。白雪胸襟消世慮。青天眼界識
+<lb ed="X" n="0839c07"/>斯文。書帷繡幕原無異。&CB15081;厲熏修意倍勤。</p></div1>
+<lb ed="X" n="0839c08"/><div1 type="other"><mulu type="其他" level="1" label="慚愧吟三十首"/><head>慚愧吟三十首<note place="inline">有序　戊戌</note></head>
+<lb ed="X" n="0839c09"/><p id="pX62p0839c0901" rend="margin-left:1em">長夏閒居。俯仰身世。捫心自問。欲作何等人耶。今
+<lb ed="X" n="0839c10"/>為女流。無以振拔身心。仍流浪于生死。其為後身。
+<lb ed="X" n="0839c11"/>將不可問矣。危乎危乎。幸而真心未泯。稍知慚愧。
+<lb ed="X" n="0839c12"/>意有所觸。情見乎詞。得七絕若干首。釋經云。人無
+<lb ed="X" n="0839c13"/>慚者。與諸禽獸無相異也。道經云。為此&CB00518;愧。不離
+<lb ed="X" n="0839c14"/>心中。孔子云。行己有恥。亦&CB00518;愧義耳。夫三教聖賢。
+<lb ed="X" n="0839c15"/>度人度<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>。皆不外乎慚愧以為基。庶民去之。君子
+<lb ed="X" n="0839c16"/>存之。在此間而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。篇章有盡。慚愧無窮。因命曰&CB00518;
+<lb ed="X" n="0839c17"/>愧吟。</p>
+<lb ed="X" n="0839c18"/><p id="pX62p0839c1801">慚愧前生德未修。報身五障有因由。然而幸得人身
+<lb ed="X" n="0839c19"/>在。豈可還嫌是女流。</p>
+<lb ed="X" n="0839c20"/><p id="pX62p0839c2001">三牲五鼎亦非奇。慚愧如何說孝思。幸得人身在天
+<lb ed="X" n="0839c21"/>地。報恩何必盡男兒。</p>
+<lb ed="X" n="0839c22"/><p id="pX62p0839c2201">哀哀父母大劬勞。正法心傳豈易遭。指點提撕終未
+<lb ed="X" n="0839c23"/>契。自憐&CB00518;愧作兒曹。</p>
+<lb ed="X" n="0839c24"/><p id="pX62p0839c2401">親恩天地本相同。&CB00518;愧吾生道未充。只要自心明徹
+<pb ed="X" id="X62.1213.0840a" n="0840a"/>
+<lb ed="X" n="0840a01"/>了。四恩圓滿證真空。</p>
+<lb ed="X" n="0840a02"/><p id="pX62p0840a0201">晨興每過日高時。拂鏡開簾倩侍兒。湯水殷勤代梳
+<lb ed="X" n="0840a03"/>沐。此身&CB00518;愧坐如尸。</p>
+<lb ed="X" n="0840a04"/><p id="pX62p0840a0401">夜眠最喜小棕&CB00646;。潔淨何須雜異香。&CB00518;愧睡魔消不
+<lb ed="X" n="0840a05"/>得。還憑夢裏主人強。</p>
+<lb ed="X" n="0840a06"/><p id="pX62p0840a0601">烏啼日落乞人愁。露坐長林溪水頭。&CB00518;愧吾居安樂
+<lb ed="X" n="0840a07"/>國。好生知足在勤修。</p>
+<lb ed="X" n="0840a08"/><p id="pX62p0840a0801">當暑輕綃又薄羅。冬來翠被暖如何。自然供養難消
+<lb ed="X" n="0840a09"/>受。&CB00518;愧何曾學一梭。</p>
+<lb ed="X" n="0840a10"/><p id="pX62p0840a1001">比鄰亦有歎無衣。圭竇寒衝雨雪霏。&CB00518;愧吾無萬箱
+<lb ed="X" n="0840a11"/>帛。盡教暖氣入柴扉。</p>
+<lb ed="X" n="0840a12"/><p id="pX62p0840a1201">貧家升合猶艱辦。&CB00518;愧呼庚泣路隅。安得摩尼如意
+<lb ed="X" n="0840a13"/>寶。空中遍雨米如珠。</p>
+<lb ed="X" n="0840a14"/><p id="pX62p0840a1401">百&CB00591;諸英及果蔬。種成人用苦工夫。吾今&CB00518;愧&CB00980;充
+<lb ed="X" n="0840a15"/>腹。知得尼山味字無。</p>
+<lb ed="X" n="0840a16"/><p id="pX62p0840a1601">三教經書滿天地。阿誰認得路頭真。童顏皓首都&CB00518;
+<lb ed="X" n="0840a17"/>愧。出世原須世上人。</p>
+<lb ed="X" n="0840a18"/><p id="pX62p0840a1801">仁是人心語意深。時誇辭藝失真心。覓心&CB00518;愧無從
+<lb ed="X" n="0840a19"/>覓。擬向顏回問處尋。</p>
+<lb ed="X" n="0840a20"/><p id="pX62p0840a2001">戒定始能生智慧。等閒&CB00518;愧說多能。伐毛洗髓緣何
+<lb ed="X" n="0840a21"/>事。悟後矜誇也未應。</p>
+<lb ed="X" n="0840a22"/><p id="pX62p0840a2201">堅強念力好修行。&CB00518;愧偏多懦弱情。寧可髑髏俱粉
+<lb ed="X" n="0840a23"/>碎。無生法忍誓終成。</p>
+<lb ed="X" n="0840a24"/><p id="pX62p0840a2401">執&CB00980;如滿心方斂。恭敬亦從智慧來。&CB00518;愧起居常自
+<pb ed="X" id="X62.1213.0840b" n="0840b"/>
+<lb ed="X" n="0840b01"/>懈。既知悔悟勉之哉。</p>
+<lb ed="X" n="0840b02"/><p id="pX62p0840b0201">博施濟眾堯猶病。立達何曾與世違。&CB00518;愧不妨時在
+<lb ed="X" n="0840b03"/>念。聖人原是學人師。</p>
+<lb ed="X" n="0840b04"/><p id="pX62p0840b0401">身根清淨元非易。&CB00518;愧先離殺盜邪。三業因緣最微
+<lb ed="X" n="0840b05"/>細。直教觸處不生芽。</p>
+<lb ed="X" n="0840b06"/><p id="pX62p0840b0601">識透舉心即錯處。意根清淨反真源須知萬法皆非
+<lb ed="X" n="0840b07"/>法。&CB00518;愧無端又贅言。</p>
+<lb ed="X" n="0840b08"/><p id="pX62p0840b0801">六根清淨乃為佳。鹿鹿風人漫與儕。&CB00518;愧在心無所
+<lb ed="X" n="0840b09"/>戀。白雲修竹寫幽懷。</p>
+<lb ed="X" n="0840b10"/><p id="pX62p0840b1001">相將遊屐百花芳。雅集琴棋泛夜光。&CB00518;愧在心何所
+<lb ed="X" n="0840b11"/>事。閒窗淨几不添香。</p>
+<lb ed="X" n="0840b12"/><p id="pX62p0840b1201">急須打破利名關。紫綬黃金亦等閒。&CB00518;愧在心無所
+<lb ed="X" n="0840b13"/>慕。清風朗月坐空山。</p>
+<lb ed="X" n="0840b14"/><p id="pX62p0840b1401">真修人自要安貧。人不安貧便亂真。&CB00518;愧在心無所
+<lb ed="X" n="0840b15"/>苦。由來學道本艱辛。</p>
+<lb ed="X" n="0840b16"/><p id="pX62p0840b1601">世緣少著即消愆。拂逆頻來意自便。&CB00518;愧在心無所
+<lb ed="X" n="0840b17"/>怒。任從熱鐵頂頭旋。</p>
+<lb ed="X" n="0840b18"/><p id="pX62p0840b1801">世態偏憂無事時。損之又損絕人知。近來識得損之
+<lb ed="X" n="0840b19"/>妙。&CB00518;愧亡羊歎路岐。</p>
+<lb ed="X" n="0840b20"/><p id="pX62p0840b2001">閨閣風流脂粉妝。綺羅染得麝蘭香。吾心&CB00518;愧難從
+<lb ed="X" n="0840b21"/>眾。椎髻青衫學孟光。</p>
+<lb ed="X" n="0840b22"/><p id="pX62p0840b2201">哀哀生命苦烹炮。血染刀砧日作肴。&CB00518;愧不能相救
+<lb ed="X" n="0840b23"/>護。冤魂何處肯離拋。</p>
+<lb ed="X" n="0840b24"/><p id="pX62p0840b2401">忍辱仙人大布施。挑睛苦行欲誰知。而今悲願無邊
+<pb ed="X" id="X62.1213.0840c" n="0840c"/>
+<lb ed="X" n="0840c01"/>量。&CB00518;愧&CB00980;勞金手垂。</p>
+<lb ed="X" n="0840c02"/><p id="pX62p0840c0201">&CB00980;垂金手不知疲。慈覆人天遇者稀。最是此生&CB00518;愧
+<lb ed="X" n="0840c03"/>處。未同大眾盡歸依。</p>
+<lb ed="X" n="0840c04"/><p id="pX62p0840c0401">憍曇彌願廣無邊。度盡閻浮婦女緣。&CB00518;愧夙生多障
+<lb ed="X" n="0840c05"/>業。輸他靈照悟機先。</p></div1>
+<lb ed="X" n="0840c06"/><div1 type="other"><mulu type="其他" level="1" label="和二林主人戊戌春日閉關作十首即次原韻"/><head>和二林主人戊戌春日閉關作十首即次原
+<lb ed="X" n="0840c07"/>韻<note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>亥</note></head>
+<lb ed="X" n="0840c08"/><p id="pX62p0840c0801">無相光中自有真。慈風披拂四時春。而今一著通消
+<lb ed="X" n="0840c09"/>息。回向蓮&CB15131;稽首頻。</p>
+<lb ed="X" n="0840c10"/><p id="pX62p0840c1001">原來無實亦無&CB00980;。論道談禪事也餘。一句彌陀空自
+<lb ed="X" n="0840c11"/>性。孰為是我孰為渠。</p>
+<lb ed="X" n="0840c12"/><p id="pX62p0840c1201">冰泮春塘波影定。照空萬象慧光圓。須知行滿功成
+<lb ed="X" n="0840c13"/>後。鳥語花香也自然。</p>
+<lb ed="X" n="0840c14"/><p id="pX62p0840c1401">亭俯清流屋倚山。綠蘿陰裏掩松關。閒來好認歸家
+<lb ed="X" n="0840c15"/>路。免得臨時無處攀。</p>
+<lb ed="X" n="0840c16"/><p id="pX62p0840c1601">淨域神遊明似日。杖頭何用夜然藜。漫論十萬八千
+<lb ed="X" n="0840c17"/>路。樓閣&CB00980;空更在西。</p>
+<lb ed="X" n="0840c18"/><p id="pX62p0840c1801">行樹何殊七寶林。枝頭也得聽靈禽。自然說法東風
+<lb ed="X" n="0840c19"/>裏。演出百千微妙音。</p>
+<lb ed="X" n="0840c20"/><p id="pX62p0840c2001">夙夜惺惺徹底看。幾番生滅總無端。前村雪後梅花
+<lb ed="X" n="0840c21"/>放。露出春光不可瞞。</p>
+<lb ed="X" n="0840c22"/><p id="pX62p0840c2201">九十風光易寂寥。然燈朗照度春宵。烹茶非為清香
+<lb ed="X" n="0840c23"/>味。適興何妨飲一瓢。</p>
+<lb ed="X" n="0840c24"/><p id="pX62p0840c2401">此土結得蓮社盟。八功德水蓮花生。一心不亂超凡
+<pb ed="X" id="X62.1213.0841a" n="0841a"/>
+<lb ed="X" n="0841a01"/>品。定向樂&CB15131;淨處行。</p>
+<lb ed="X" n="0841a02"/><p id="pX62p0841a0201">勘破重關觸處真。從今不入舊迷津。輪迴六字無終
+<lb ed="X" n="0841a03"/>始。流水行雲總是春。</p></div1>
+<lb ed="X" n="0841a04"/><div1 type="other"><mulu type="其他" level="1" label="三房孫希洛婦陶氏為葦齊翁孫女好學工詩兼修淨業年二十五而殀詩以傷之"/><head>三房孫希洛婦陶氏。為葦齊翁孫女。好學工
+<lb ed="X" n="0841a05"/>詩。兼修淨業。年二十五而殀。詩以傷之<note place="inline">香山老人</note></head>
+<lb ed="X" n="0841a06"/><p id="pX62p0841a0601" rend="margin-left:1em">慧業超然自夙成。摩尼一串足平生。臨岐落落空
+<lb ed="X" n="0841a07"/>諸相。應向西池證舊盟。</p>
+<lb ed="X" n="0841a08"/><p id="pX62p0841a0801" rend="margin-left:1em">曾傳&CB00061;絮謝家風。每愛山居萬籟空。&CB00518;愧吟成增
+<lb ed="X" n="0841a09"/>道力。關心不為落花紅<note place="inline">著有山居統慚愧吟</note>。</p></div1>
+<lb ed="X" n="0841a10"/><div1 type="other"><mulu type="其他" level="1" label="祭姪婦陶氏文"/><head>祭姪婦陶氏文<note place="inline">二林主人</note></head>
+<lb ed="X" n="0841a11"/><p id="pX62p0841a1101" rend="margin-left:1em">維乾隆四十五年二月望日。二林主人。以白水一
+<lb ed="X" n="0841a12"/>盂梅花一瓣。致祭於姪婦陶氏之靈曰。嗚呼。是水
+<lb ed="X" n="0841a13"/>非色。是花非香。因緣無主。常住寂光。瞥爾情生。熾
+<lb ed="X" n="0841a14"/>然起滅。如風度空。如春掃雪。嗟爾慧業。現女人身。
+<lb ed="X" n="0841a15"/>旃檀晝爇。木&CB00185;宵輪。大報恩經。淋漓墨瀋。淨願堅
+<lb ed="X" n="0841a16"/>牢。長趨九品。五旬&CB00646;簀。廿載妝臺。達諸法相。何去
+<lb ed="X" n="0841a17"/>何來。無始愛緣。從今應斷。功德池中。花開爛縵。羅
+<lb ed="X" n="0841a18"/>幃寂寂。春漏沈沈。我為爾證。莫退初心。嗚呼尚饗。</p></div1>
+<lb ed="X" n="0841a19"/><div1 type="other"><mulu type="其他" level="1" label="亡妻陶孺人事略"/><head>亡妻陶孺人事略</head>
+<lb ed="X" n="0841a20"/><p id="pX62p0841a2001" rend="margin-left:1em">陶孺人。名善。字慶餘。蘇州府學歲貢生寄軒公長
+<lb ed="X" n="0841a21"/>女也。幼聰&CB00002;好讀書。年十四。成百花詩。即見賞耆
+<lb ed="X" n="0841a22"/>宿。性彊記。博涉經史。諸類書多能背誦。侍庭闈。婉
+<lb ed="X" n="0841a23"/>愉承志曲盡儀節。年十六。大父為希洛締姻。越八
+<lb ed="X" n="0841a24"/>年。始歸予。長予二歲。時年二十三矣。事吾母。甚得
+<pb ed="X" id="X62.1213.0841b" n="0841b"/>
+<lb ed="X" n="0841b01"/>歡心。與妯娌處。無閒言。馭婢僕寬嚴合度。自奉尤
+<lb ed="X" n="0841b02"/>儉樸。吾母語親屬曰。次媳性情。與吾略同。吾自是
+<lb ed="X" n="0841b03"/>可稍紓心力矣。予性素剛躁。不能容人。及孺人歸。
+<lb ed="X" n="0841b04"/>遇事輒以寬慈相勸。予亦深自克制。意氣漸平。去
+<lb ed="X" n="0841b05"/>年秋試前。孺人勸予勤學。代理家務。予得專心習
+<lb ed="X" n="0841b06"/>科舉業。及試。薦而不售。孺人復以義命相慰。是時
+<lb ed="X" n="0841b07"/>孺人方有娠。起居食息。每以古人胎教為法。臘月
+<lb ed="X" n="0841b08"/>初。蘊輝生。臨蓐甚安。孺人謂予曰。姑尚無孫。得此
+<lb ed="X" n="0841b09"/>可慰慈懷矣。詎意半月後。忽感時邪。藥石罔效。延
+<lb ed="X" n="0841b10"/>及新正。竟成永訣。悲哉孺人。年九歲。即喜茹齊。稍
+<lb ed="X" n="0841b11"/>長。從二親聞出世法。讀佛書。信解通利。手書報恩
+<lb ed="X" n="0841b12"/>金剛彌陀諸經。楷法端整。及見予季父所撰無量
+<lb ed="X" n="0841b13"/>壽經論居士傳諸書。遂回向淨土。日有常課。晨起。
+<lb ed="X" n="0841b14"/>妝洗畢。輒誦佛號及諸經&CB00057;。憫吳俗宰割大奢。印
+<lb ed="X" n="0841b15"/>吳江沈氏所撰慈心寶鑑千本以施。嘗著&CB00518;愧吟
+<lb ed="X" n="0841b16"/>六十首。季父評之曰。大好根種。大好信願。努力修
+<lb ed="X" n="0841b17"/>行。不妨現大家身而為說法。其為季父心許如此。
+<lb ed="X" n="0841b18"/>臨終一月前。謂予曰。吾與君不過一載因緣耳。吾
+<lb ed="X" n="0841b19"/>死。君勿悲。吾恨不能終奉姑。君若念吾。望慰吾姑。
+<lb ed="X" n="0841b20"/>并無忘吾父母。吾之願也。病劇時。外舅姑親來診
+<lb ed="X" n="0841b21"/>視。惟曲為安慰而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。臨終朗誦佛號數聲及往生
+<lb ed="X" n="0841b22"/>&CB00057;。曰。大和尚自西而來。吾去矣。遂瞑。嗟乎。遺挂猶
+<lb ed="X" n="0841b23"/>新。妝臺忽掩。回首前塵。真如一夢。在孺人夙具慧
+<lb ed="X" n="0841b24"/>根。去來之際。了無滯礙。第念予童年失怙。顧影自
+<pb ed="X" id="X62.1213.0841c" n="0841c"/>
+<lb ed="X" n="0841c01"/>傷。今復以喪偶之悲。上累北堂。重增&CB15106;悒。又安能
+<lb ed="X" n="0841c02"/>托達人之高論。忘獨旦之餘哀乎。用是略記始末。
+<lb ed="X" n="0841c03"/>附於家乘。俾後之人有所考云。孺人生於乾隆二
+<lb ed="X" n="0841c04"/>十一年二月二十二日。歿於乾隆四十五年正月
+<lb ed="X" n="0841c05"/>二十三日。年二十有五。子一。蘊輝。不杖期彭希洛
+<lb ed="X" n="0841c06"/>述。</p></div1>
+</body></text></TEI.2>

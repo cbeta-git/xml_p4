@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X28n0591.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 591 法華經釋籤緣起序指明</title>
+			<author>清 靈耀述</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.4 $ (Big5)<date>$Date: 2009/04/22 08:54:38 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:54:38 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 28, No. 591 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2006/08/31 14:19:46</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X28n0591.xml,v $
+Revision 1.4  2009/04/22 08:54:38  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.3  2007/06/28 05:39:25  amtbgrace
+modified: 卍續藏校注插入XML
+
+Revision 1.2  2007/06/15 03:34:54  amtbgrace
+modified: [卍續校注] X21-30 經文修訂
+
+Revision 1.1  2006/08/31 06:23:35  ray
+basicx 程式 轉自 簡單標記版
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X28.0591.0552c" n="0552c"/>
+<lb ed="X" n="0552c01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0552c02"/>
+<lb ed="X" n="0552c03"/><div1 type="other"><mulu type="其他" level="1" label="釋籤緣起序指明"/>
+<lb ed="X" n="0552c04"/><head type="no">No. 591</head>
+<lb ed="X" n="0552c05"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>釋籤緣起序指明</jhead></juan>
+<lb ed="X" n="0552c06"/>
+<lb ed="X" n="0552c07"/><byline type="author">天台　靈耀　全彰氏　述</byline>
+<lb ed="X" n="0552c08"/><p id="pX28p0552c0801" rend="margin-left:1em">釋籤緣起序。線貫珠聯。文旨明顯。無庸點瀋。比見
+<lb ed="X" n="0552c09"/>刊行註解。或前後射覆。主客傍正之意既紊。或平
+<lb ed="X" n="0552c10"/>頭數章。母子祖孫之科稍乖。日月麗天。微雲偶翳。
+<lb ed="X" n="0552c11"/>欲淨纖埃。昭明文旨。是又籤序指明之緣起也。</p>
+<lb ed="X" n="0552c12"/><list><item id="itemX28p0552c1201">○科二
+<lb ed="X" n="0552c13"/><list><item id="itemX28p0552c1301">一題目<note place="inline">二</note>
+<lb ed="X" n="0552c14"/><list><item id="itemX28p0552c1401">一序題<note place="inline">釋</note></item>
+<lb ed="X" n="0552c15"/><item id="itemX28p0552c1501">二序主<note place="inline">君</note></item></list></item>
+<lb ed="X" n="0552c16"/><item id="itemX28p0552c1601">二序文<note place="inline">二</note>
+<lb ed="X" n="0552c17"/><list><item id="itemX28p0552c1701">一序言<note place="inline">二</note>
+<lb ed="X" n="0552c18"/><list><item id="itemX28p0552c1801">一詳釋籤緣起<note place="inline">二</note>
+<lb ed="X" n="0552c19"/><list><item id="itemX28p0552c1901">一出所釋人法為緣<note place="inline">二</note>
+<lb ed="X" n="0552c20"/><list><item id="itemX28p0552c2001">一傳道人絕緣<note place="inline">四</note></item>
+<lb ed="X" n="0552c21"/><item id="itemX28p0552c2101">二法深尚壅緣<note place="inline">二</note>
+<lb ed="X" n="0552c22"/><list><item id="itemX28p0552c2201">一玄深需釋<note place="inline">惟</note></item>
+<lb ed="X" n="0552c23"/><item id="itemX28p0552c2301">二機壅需釋<note place="inline">後</note></item></list></item></list></item>
+<lb ed="X" n="0552c24"/><item id="itemX28p0552c2401">二起能傳能釋人法<note place="inline">二</note>
+<lb ed="X" n="0552c25"/><list><item id="itemX28p0552c2501">一能傳道統人<note place="inline">不</note></item>
+<lb ed="X" n="0552c26"/><item id="itemX28p0552c2601">二能釋籤訪法<note place="inline">二</note>
+<lb ed="X" n="0552c27"/><list><item id="itemX28p0552c2701">一正明釋籤緣起<note place="inline">二</note>
+<lb ed="X" n="0552c28"/><list><item id="itemX28p0552c2801">一詳釋籤緣<note place="inline">二</note>
+<lb ed="X" n="0552c29"/><list><item id="itemX28p0552c2901">一具才為能釋緣<note place="inline">公</note></item>
+<lb ed="X" n="0552c30"/><item id="itemX28p0552c3001">二世亂為籤訪緣<note place="inline">間</note></item></list></item>
+<lb ed="X" n="0552c31"/><item id="itemX28p0552c3101">二起釋籤法<note place="inline">且</note></item></list></item>
+<lb ed="X" n="0552c32"/><item id="itemX28p0552c3201">二結集釋籤緣起<note place="inline">二</note>
+<lb ed="X" n="0552c33"/><list><item id="itemX28p0552c3301">一出望涯需結緣<note place="inline">登</note></item>
+<lb ed="X" n="0552c34"/><item id="itemX28p0552c3401">二起結集傳後益<note place="inline">三</note>
+<lb ed="X" n="0552c35"/><list><item id="itemX28p0552c3501">一結集法<note place="inline">先</note></item>
+<lb ed="X" n="0552c36"/><item id="itemX28p0552c3601">二結集名<note place="inline">不</note></item>
+<lb ed="X" n="0552c37"/><item id="itemX28p0552c3701">三結集益<note place="inline">信</note></item></list></item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0552c38"/><item id="itemX28p0552c3801">二結序文緣起<note place="inline">普</note></item></list></item>
+<lb ed="X" n="0552c39"/><item id="itemX28p0552c3901">二記事<note place="inline">天王</note></item></list></item></list></item></list>
+<pb ed="X" id="X28.0591.0553a" n="0553a"/>
+<lb ed="X" n="0553a01"/><div2 type="commentary"><p id="pX28p0553a0101" rend="margin-left:1em">△一題目二。一序題。</p></div2>
+<lb ed="X" n="0553a02"/><div2 type="orig"><p id="pX28p0553a0201">釋籤緣起序</p></div2>
+<lb ed="X" n="0553a03"/><div2 type="commentary"><p id="pX28p0553a0301" rend="margin-left:1em">荊谿<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>有釋籤本序。如下云昔於台嶺隨諸問者
+<lb ed="X" n="0553a04"/>籤下所錄一章是也。今門師之序。非但序釋籤。乃
+<lb ed="X" n="0553a05"/>委序釋籤緣起也。凡諸文辭。各有所重。如此序題。
+<lb ed="X" n="0553a06"/>端重緣起二字。緣起。如止觀云。能生為緣。所生為
+<lb ed="X" n="0553a07"/>起。前章為緣。後章為起。緣者。即是因緣。起者。乃所
+<lb ed="X" n="0553a08"/>生法。盡世出世間染淨依正諸法。未有不從因緣
+<lb ed="X" n="0553a09"/>生者。然因緣雖為能起能生。&CB00230;是客是傍。而所生
+<lb ed="X" n="0553a10"/>法雖出於後。&CB00230;是主是正。如入定放光為緣。生起
+<lb ed="X" n="0553a11"/>開三顯一之法。闍王&CB06128;逆為緣。生起十六妙觀之
+<lb ed="X" n="0553a12"/>法。桀紂殘暴之緣。生起湯武弔伐之法。大寒凍裂
+<lb ed="X" n="0553a13"/>之緣。生起層&CB00457;堅執之法。今以玄記博深為緣。生
+<lb ed="X" n="0553a14"/>起解釋籤訪之法。智者安祖方絕為緣。生起能承
+<lb ed="X" n="0553a15"/>道統荊溪之法。不寧若是。以湛公具才無適不可
+<lb ed="X" n="0553a16"/>為緣。生起能釋之法。以世亂難于弘敷為緣。生起
+<lb ed="X" n="0553a17"/>籤訪之法。又以望涯者不能觀籤即悟為緣。生起
+<lb ed="X" n="0553a18"/>結集成書十卷之法。奚翅正敘首尾皆詳緣起二
+<lb ed="X" n="0553a19"/>字。即結明作序。亦緣起二字也。何者。以後時從道
+<lb ed="X" n="0553a20"/>之緣。生起擊發釋籤之能。以早歲在塵之緣。生起
+<lb ed="X" n="0553a21"/>徒欲愧心之謙。即記事中。以天王越在不能聚眾
+<lb ed="X" n="0553a22"/>弘經之緣。生起次年釋籤得成之法。而其間傍正
+<lb ed="X" n="0553a23"/>主客之分。瞭正不紊。&CB00582;題目特立緣起二字。是所
+<lb ed="X" n="0553a24"/>歸重。所謂文心也。故別文三百餘字首尾只發明
+<pb ed="X" id="X28.0591.0553b" n="0553b"/>
+<lb ed="X" n="0553b01"/>緣起。更無他云。如此指明。作者之意方顯也。</p>
+<lb ed="X" n="0553b02"/><p id="pX28p0553b0201" rend="margin-left:1em">△二序主。</p></div2>
+<lb ed="X" n="0553b03"/><div2 type="orig"><p id="pX28p0553b0301">君山除饉男普門子屬辭</p></div2>
+<lb ed="X" n="0553b04"/><div2 type="commentary"><p id="pX28p0553b0401" rend="margin-left:1em">門師岳陽何玠子。玠任儀興尉遂流寓焉。君山。儀
+<lb ed="X" n="0553b05"/>興鄉名。比丘因中乞食全身。果上應供人天。可除
+<lb ed="X" n="0553b06"/>饑饉之患。普門子。有以普為名。據今序只出一普
+<lb ed="X" n="0553b07"/>字。有以門為名。據統紀只稱門師。然二字皆名也。
+<lb ed="X" n="0553b08"/>文苑英華第七百二十六卷梁肅送沙門鑒&CB00980;歸
+<lb ed="X" n="0553b09"/>越序云。東南高僧有普門元浩者。予甚深友也。相
+<lb ed="X" n="0553b10"/>見時幸道鄙夫擾擾俗狀。且當澡盥心垢。相期于
+<lb ed="X" n="0553b11"/>無何之鄉是也。屬辭。本于夫子作春秋。屬辭比事。
+<lb ed="X" n="0553b12"/>屬。綴緝也。有以師命之作名曰屬辭。非也。</p>
+<lb ed="X" n="0553b13"/><p id="pX28p0553b1301" rend="margin-left:1em">△二序文二。一序言。二記事。初二。一詳釋籤緣起
+<lb ed="X" n="0553b14"/>又二。一出所釋人法為緣又二。一傳道人絕緣。</p></div2>
+<lb ed="X" n="0553b15"/><div2 type="orig"><p id="pX28p0553b1501">四教成列。開合之旨蘊乎其中。十子既往。幽贊之功
+<lb ed="X" n="0553b16"/>在人方絕。</p></div2>
+<lb ed="X" n="0553b17"/><div2 type="commentary"><p id="pX28p0553b1701" rend="margin-left:1em">欲序釋籤。先提籤文所釋根本。乃法華玄義也。玄
+<lb ed="X" n="0553b18"/>義中凡列一法。必先用化法四教釋。然後用化儀
+<lb ed="X" n="0553b19"/>五時明判明開。舉一四教。自攝化儀五時開判大
+<lb ed="X" n="0553b20"/>旨。故云四教成列開合之旨蘊乎其中。開。即施權。
+<lb ed="X" n="0553b21"/>所謂從一清淨道。施出二三四。所化之機既熟。皆
+<lb ed="X" n="0553b22"/>以一大乘而度脫之。總開會廢前四味麤。咸歸一
+<lb ed="X" n="0553b23"/>乘妙。正二法三道四果在昔不合。而今皆合也。&CB00582;
+<lb ed="X" n="0553b24"/>言智者玄義成。而如來一期施開會合大旨羅列
+<pb ed="X" id="X28.0591.0553c" n="0553c"/>
+<lb ed="X" n="0553c01"/>其中也。出易經繫辭云。乾坤成列。易縕乎其中矣。
+<lb ed="X" n="0553c02"/>此指智祖開闢玄義也。幽贊之功在人方絕者。大
+<lb ed="X" n="0553c03"/>師玄義。皆當座敷揚。賴章安以一&CB00642;記才。結集成
+<lb ed="X" n="0553c04"/>書。贊。即夫子作春秋游夏不能贊辭之贊。章安結
+<lb ed="X" n="0553c05"/>集或參私釋。或引經文。不惟徒能結集。而實為幽
+<lb ed="X" n="0553c06"/>深微妙大助師門之記主也。安祖名灌頂。乃十住
+<lb ed="X" n="0553c07"/>王子。故門師書十子。與上四教為對耦。下文云玄
+<lb ed="X" n="0553c08"/>記博而深。玄。即大師。記。即章安。一部玄文。師資合
+<lb ed="X" n="0553c09"/>成。為釋籤所釋之本。在人方絕。言章安既逝。便引
+<lb ed="X" n="0553c10"/>起下不遠而復能傳道統之荊溪也。此為能傳道
+<lb ed="X" n="0553c11"/>統之人方絕為緣也。正釋竟。復淨纖埃。秖緣門師
+<lb ed="X" n="0553c12"/>書安祖為十子。於文稍晦。故致山家宗匠。射覆不
+<lb ed="X" n="0553c13"/>一。今逐指而辨明之。昔吳下師標十子為菩薩子。
+<lb ed="X" n="0553c14"/>據法華若十二十。十為菩薩。二十指二乘。塘棲師
+<lb ed="X" n="0553c15"/>指十子為智者。據妙玄初智者乃具十德之子。戒
+<lb ed="X" n="0553c16"/>壇師指為十大弟子。無作介彬寒月三兄承說。怡
+<lb ed="X" n="0553c17"/>菴元公破其違文失旨。褻稱先聖。數狹理虧三失。
+<lb ed="X" n="0553c18"/>但怡菴明於責人。暗於自立。乃執關中十哲為十
+<lb ed="X" n="0553c19"/>子。獨揚<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>見為千古不磨之定案。今謂大師說玄
+<lb ed="X" n="0553c20"/>義。章安幽贊結集。此二祖既絕。生起下能傳道統
+<lb ed="X" n="0553c21"/>之湛公。玄記既深。生起釋籤能解玄記之法。聯貫
+<lb ed="X" n="0553c22"/>如驪珠不失。倘十子推出章安。幽贊&CB00230;扯關中。則
+<lb ed="X" n="0553c23"/>滅祖亂緒。文理舛錯。豈有序一家玄籤承紹源流。
+<lb ed="X" n="0553c24"/>反扯他人足數。而滅&CB00230;安祖大功。又註在人方絕
+<pb ed="X" id="X28.0591.0554a" n="0554a"/>
+<lb ed="X" n="0554a01"/>云。十子將絕。反顯智者承接其後。夫玄義中大師
+<lb ed="X" n="0554a02"/>破南朝諸師皆通義一途云。今古諸釋。皆以光宅
+<lb ed="X" n="0554a03"/>為長。觀南方釋大乘。多承肇什。肇什多附通意。光
+<lb ed="X" n="0554a04"/>宅釋妙。寧得遠乎。今先難光宅。餘者望風。荊谿云。
+<lb ed="X" n="0554a05"/>關中四子。即生肇融叡。後人承用四子之義。若以
+<lb ed="X" n="0554a06"/>今義望之。多附于通。據此。則關中諸子大師<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>曾
+<lb ed="X" n="0554a07"/>難破。今反令大師接其後塵。豈非抑祖。且前四時
+<lb ed="X" n="0554a08"/>經。若經法華開顯。宜以法華意釋。不聞開顯圓經。
+<lb ed="X" n="0554a09"/>反用通義幽贊也。此釋之過有五。一抑始祖反承
+<lb ed="X" n="0554a10"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>破關中失。二滅章安幽贊之功失。三扯關中濫
+<lb ed="X" n="0554a11"/>居功地失。四亂一家傳持源流失。五顯門師文理
+<lb ed="X" n="0554a12"/>不通失。須知銷釋經論。全重以義定名。使本文文
+<lb ed="X" n="0554a13"/>理貫通。豈可扯入填數。委亂綱緒。</p>
+<lb ed="X" n="0554a14"/><p id="pX28p0554a1401" rend="margin-left:1em">△二法深尚壅緣二。一法深需釋緣。</p></div2>
+<lb ed="X" n="0554a15"/><div2 type="orig"><p id="pX28p0554a1501">惟三轉遂周。一乘載導。經文顯而約。玄記博而深。</p></div2>
+<lb ed="X" n="0554a16"/><div2 type="commentary"><p id="pX28p0554a1601" rend="margin-left:1em">推源玄記所釋。乃是法華。三轉。即鹿苑示勸證三
+<lb ed="X" n="0554a17"/>轉。是施權所化小機。言遂周者。若今遂字與下載
+<lb ed="X" n="0554a18"/>字。作&CB00980;字看。更覺渾融。今作實字解釋。亦須&CB04474;合
+<lb ed="X" n="0554a19"/>經旨。三轉法輪。五比丘千二百等皆于言下證入。
+<lb ed="X" n="0554a20"/>是遂如來施權之意。故言遂。又不獨鹿苑三乘為
+<lb ed="X" n="0554a21"/>權。即前四時所施莫不是權。&CB00582;方等秪彈斥此小
+<lb ed="X" n="0554a22"/>乘。般若秪陶汰此小乘。小乘機熟。則如來施權攝
+<lb ed="X" n="0554a23"/>化昔緣之意<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>足。故曰周。此正法華會上。騰昔施
+<lb ed="X" n="0554a24"/>權。不指所開。何由顯實也。然後即以一大乘而度
+<pb ed="X" id="X28.0591.0554b" n="0554b"/>
+<lb ed="X" n="0554b01"/>脫之。名一乘載導初從一乘開出諸乘。今合諸乘
+<lb ed="X" n="0554b02"/>還歸一乘。正無不從此法界流。無不還歸此法界。
+<lb ed="X" n="0554b03"/>即上開合二字也。載導者。令諸子等各乘大車以
+<lb ed="X" n="0554b04"/>入秘藏為載。復令遊于四方增道損生為導。怡庵
+<lb ed="X" n="0554b05"/>分三轉句為&CB00528;門。一乘句為本門。扭&CB02852;無稽。須知
+<lb ed="X" n="0554b06"/>一乘之旨。通于本&CB00528;。三轉之人。實為所開。何扯小
+<lb ed="X" n="0554b07"/>權為&CB00528;門。一乘歸本門乎。遂因經文而結出需籤
+<lb ed="X" n="0554b08"/>釋之緣云。法華。經文顯了而意旨隱約。玄記。文言
+<lb ed="X" n="0554b09"/>浩博而義理幽深。非荊谿釋籤。何能解明耶。</p>
+<lb ed="X" n="0554b10"/><p id="pX28p0554b1001" rend="margin-left:1em">△二機壅需釋緣。</p></div2>
+<lb ed="X" n="0554b11"/><div2 type="orig"><p id="pX28p0554b1101">後學難窺。蒙求尚壅。</p></div2>
+<lb ed="X" n="0554b12"/><div2 type="commentary"><p id="pX28p0554b1201" rend="margin-left:1em">以玄記博深故蒙求尚壅。必須籤釋方得開通。蒙
+<lb ed="X" n="0554b13"/>卦六二。匪我求童蒙童蒙求我。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上皆所傳人法。
+<lb ed="X" n="0554b14"/>人絕須荊谿出。玄深須籤文釋。為起釋籤之緣由。
+<lb ed="X" n="0554b15"/>皆是客是傍。非此序之正主也。</p>
+<lb ed="X" n="0554b16"/><p id="pX28p0554b1601" rend="margin-left:1em">△二起能傳能釋人法二。一能傳道統人。</p></div2>
+<lb ed="X" n="0554b17"/><div2 type="orig"><p id="pX28p0554b1701">不遠而復。存乎其時。吾哲匠湛然公當之矣。</p></div2>
+<lb ed="X" n="0554b18"/><div2 type="commentary"><p id="pX28p0554b1801" rend="margin-left:1em">大師章安玄記之人既逝。不遠而復間生荊谿。能
+<lb ed="X" n="0554b19"/>傳接二祖道統之人。故曰當之矣。易&CB00320;陰剝盡一
+<lb ed="X" n="0554b20"/>陽來復。存乎其時者。即五百年必有王者興。其間
+<lb ed="X" n="0554b21"/>必有名世者。二祖<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>去。荊谿恰好間生其中也。湛
+<lb ed="X" n="0554b22"/>然。乃荊谿之名。係臨文不諱之例。</p>
+<lb ed="X" n="0554b23"/><p id="pX28p0554b2301" rend="margin-left:1em">△二能釋籤訪法分二。一正明釋籤緣起。二結集
+<lb ed="X" n="0554b24"/>釋籤緣起。如荊谿本序。亦作兩段。昔於台嶺隨諸
+<pb ed="X" id="X28.0591.0554c" n="0554c"/>
+<lb ed="X" n="0554c01"/>問者籤下所錄。不暇尋究文勢。為正序釋籤。晚還
+<lb ed="X" n="0554c02"/>毗壇<app><lem wit="【CBETA】" resp="CBETA.maha"><note n="0554001" resp="Xuzangjing" place="foot text" type="orig">轍疑輒</note></lem><rdg wit="【卍續】"></rdg></app>轍添膚飾等。是結集成書。今門師序中。亦作
+<lb ed="X" n="0554c03"/>兩章。初二。一詳釋籤緣又二。一具才為能釋緣。</p></div2>
+<lb ed="X" n="0554c04"/><div2 type="orig"><p id="pX28p0554c0401">公。孩提秀發。志學名成。淵解得于自心。博贍振于先
+<lb ed="X" n="0554c05"/>達。無適不可。以&CB00980;受人。洎毗壇以至於國清。其從如
+<lb ed="X" n="0554c06"/>雲矣。</p></div2>
+<lb ed="X" n="0554c07"/><div2 type="commentary"><p id="pX28p0554c0701" rend="margin-left:1em">自孩抱至可提&CB01768;時。即英秀煥發。方在志學。遂成
+<lb ed="X" n="0554c08"/>藝苑佳名。天機生知。為淵解得于自心。學力充&CB05769;。
+<lb ed="X" n="0554c09"/>為博贍振于先達。君子不器左右具宜。為無適不
+<lb ed="X" n="0554c10"/>可。&CB00980;中受益鏡鑒無遺。為以&CB00980;受人。良由博贍多
+<lb ed="X" n="0554c11"/>能。俊彥希光而景慕。生知朗徹。英豪翹首以來歸。
+<lb ed="X" n="0554c12"/>故洎毗壇至國清。其從如雲也。國風云。齊子于歸
+<lb ed="X" n="0554c13"/>其從如雲。毗壇。即儀興。國清。在天台。以具天機博
+<lb ed="X" n="0554c14"/>學。故為能釋籤問之緣。</p>
+<lb ed="X" n="0554c15"/><p id="pX28p0554c1501" rend="margin-left:1em">△二世亂為籤訪緣。</p></div2>
+<lb ed="X" n="0554c16"/><div2 type="orig"><p id="pX28p0554c1601">間者島夷作難。海山不寧。徇法之多。仄身巖宇。或謂
+<lb ed="X" n="0554c17"/>身危法喪。莫如奉法全身。僶俛遂行。暴露原野。是樂
+<lb ed="X" n="0554c18"/>法者。請益悅隨。</p></div2>
+<lb ed="X" n="0554c19"/><div2 type="commentary"><p id="pX28p0554c1901" rend="margin-left:1em">代宗廣德年間土蕃作亂。學道英賢。隱居山穴。或
+<lb ed="X" n="0554c20"/>謂荊谿大師曰。與其身危法喪。兩者皆失。何如奉
+<lb ed="X" n="0554c21"/>法全身。二者兼得。故即勉居山野。而四方慕學。亦
+<lb ed="X" n="0554c22"/>皆請益悅隨。以世亂不能弘敷。故悅隨者乃有竹
+<lb ed="X" n="0554c23"/>籤之諮。此即籤訪之緣也。</p>
+<lb ed="X" n="0554c24"/><p id="pX28p0554c2401" rend="margin-left:1em">△二起釋籤法。</p></div2>
+<pb ed="X" id="X28.0591.0555a" n="0555a"/>
+<lb ed="X" n="0555a01"/><div2 type="orig"><p id="pX28p0555a0101">且。法實無邊。身則有待。弘敷未暇。籤訪有憑。因籤以
+<lb ed="X" n="0555a02"/>釋。思逸功倍。美哉洋洋乎。</p></div2>
+<lb ed="X" n="0555a03"/><div2 type="commentary"><p id="pX28p0555a0301" rend="margin-left:1em">荊谿天資博學。所蘊佛法。雖是無邊。其如五陰色
+<lb ed="X" n="0555a04"/>身。待緣方能弘演。世亂人離。既無弘敷之緣。而樂
+<lb ed="X" n="0555a05"/>法悅隨之人。率皆書籤&CB02486;至。謂書玄義隱深疑義
+<lb ed="X" n="0555a06"/>于竹籤以諮問。而荊谿因弟子籤上所問之義。為
+<lb ed="X" n="0555a07"/>解釋之。既不羅列文勢先後。故思逸。所答之義。專
+<lb ed="X" n="0555a08"/>精而詳確。故功倍。如荊谿自序云。隨諸問者。籤下
+<lb ed="X" n="0555a09"/>所錄。不暇尋究文勢生起。亦未委細分節句逗是
+<lb ed="X" n="0555a10"/>也。此正序籤成于亂世。即繼之以歎曰。美哉洋洋
+<lb ed="X" n="0555a11"/>乎。此釋籤者。可謂盡善盡美。而集大成者矣。有指
+<lb ed="X" n="0555a12"/>為正歎玄文者。非也。以其主客前後。舛混故也。</p>
+<lb ed="X" n="0555a13"/><p id="pX28p0555a1301" rend="margin-left:1em">△二結集釋籤緣起。即本序中晚還毗壇。輒添膚
+<lb ed="X" n="0555a14"/>飾。裨以管見。然所記者莫非述聞。兼尋經論。但識
+<lb ed="X" n="0555a15"/>用暗短。而繁略頗馴。呈露後賢。敢悕添削之文是
+<lb ed="X" n="0555a16"/>也。為二一出望涯需結緣。</p></div2>
+<lb ed="X" n="0555a17"/><div2 type="orig"><p id="pX28p0555a1701">登門者肯綮未嘗。望涯者&CB00302;躬不逮。乘是以訓。文其
+<lb ed="X" n="0555a18"/>可廢耶。</p></div2>
+<lb ed="X" n="0555a19"/><div2 type="commentary"><p id="pX28p0555a1901" rend="margin-left:1em">籤訪之機。有因釋了悟者。未嘗有肯綮之難。則此
+<lb ed="X" n="0555a20"/>釋籤似乎可廢。而不必結集矣。但一聞便了之機
+<lb ed="X" n="0555a21"/>絕少。故尚多望涯不逮之悲。則宜留此釋籤。結集
+<lb ed="X" n="0555a22"/>成書。使之再三紬繹。方可悟入。故曰乘是以訓。文
+<lb ed="X" n="0555a23"/>不可廢而宜結集也。乘是以訓。即乘某人在。做某
+<lb ed="X" n="0555a24"/>事。乘湯熱。好解渴。乘飯在。好救饑之乘字。是字。指
+<pb ed="X" id="X28.0591.0555b" n="0555b"/>
+<lb ed="X" n="0555b01"/>釋籤也。言乘竹籤解釋之文在。可留之以訓喻不
+<lb ed="X" n="0555b02"/>了之人。而不可廢也。有作因字訓。非也。肯綮未嘗。
+<lb ed="X" n="0555b03"/>引養生言。明悟入者游刃有餘。未嘗艱難也。望涯
+<lb ed="X" n="0555b04"/>者。引秋水神見東海若汪洋浩瀚渺無端倪。以喻
+<lb ed="X" n="0555b05"/>不逮。不必繁引長篇。因觀籤望涯之人為緣。以生
+<lb ed="X" n="0555b06"/>起下結集之事。故即示結集之法云。</p>
+<lb ed="X" n="0555b07"/><p id="pX28p0555b0701" rend="margin-left:1em">△二起結集傳後益三。一結集法。</p></div2>
+<lb ed="X" n="0555b08"/><div2 type="orig"><p id="pX28p0555b0801">先德既詳。雖大科不舉。諸生未達。在小疑必疏。凡十
+<lb ed="X" n="0555b09"/>卷。</p></div2>
+<lb ed="X" n="0555b10"/><div2 type="commentary"><p id="pX28p0555b1001" rend="margin-left:1em">不舉必疏。正出結集釋籤之法。即本序雖繁略頗
+<lb ed="X" n="0555b11"/>馴也。言安祖結集。或引經私釋。在文詳晰者。荊谿
+<lb ed="X" n="0555b12"/>但遵承而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。為望涯者。更留籤釋之言。以疏通之。
+<lb ed="X" n="0555b13"/>凡十卷。則結集釋籤<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>成之數。</p>
+<lb ed="X" n="0555b14"/><p id="pX28p0555b1401" rend="margin-left:1em">△二結集名。</p></div2>
+<lb ed="X" n="0555b15"/><div2 type="orig"><p id="pX28p0555b1501">不忘於本。以天台命家。善繼其宗。以釋籤順學。</p></div2>
+<lb ed="X" n="0555b16"/><div2 type="commentary"><p id="pX28p0555b1601" rend="margin-left:1em">本釋天台大師玄記。故名天台。乃不忘本。欲繼台
+<lb ed="X" n="0555b17"/>宗。必須善識時宜。世亂不便敷弘。而思所以繼宗
+<lb ed="X" n="0555b18"/>之法。且順學者之籤問而解釋之。此天台玄義釋
+<lb ed="X" n="0555b19"/>籤之名所以立也。</p>
+<lb ed="X" n="0555b20"/><p id="pX28p0555b2001" rend="margin-left:1em">△三結集益。</p></div2>
+<lb ed="X" n="0555b21"/><div2 type="orig"><p id="pX28p0555b2101">信所謂觀象得意。俾昏作明。永代不朽者也。</p></div2>
+<lb ed="X" n="0555b22"/><div2 type="commentary"><p id="pX28p0555b2201" rend="margin-left:1em">釋籤既結。則使望涯與末世之機。觀釋籤之象以
+<lb ed="X" n="0555b23"/>悟佛祖出世大意。破迷歸悟。功實永代不朽也。此
+<lb ed="X" n="0555b24"/>即本序呈露後賢之謂也。當知世亂不暇弘演。且
+<pb ed="X" id="X28.0591.0555c" n="0555c"/>
+<lb ed="X" n="0555c01"/>為釋籤。是一時事也。後還毗壇始結成書。又一時
+<lb ed="X" n="0555c02"/>事也。荊溪本序。兩章條然。故門師敘述緣起。亦兩
+<lb ed="X" n="0555c03"/>章次序。後人何乃昧昧亂指哉。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上正敘釋籤緣
+<lb ed="X" n="0555c04"/>起竟。</p>
+<lb ed="X" n="0555c05"/><p id="pX28p0555c0501" rend="margin-left:1em">△二結序文緣起。</p></div2>
+<lb ed="X" n="0555c06"/><div2 type="orig"><p id="pX28p0555c0601">普。早歲在塵。後時從道。徒欲擊其大節。獨不愧於心
+<lb ed="X" n="0555c07"/>乎。</p></div2>
+<lb ed="X" n="0555c08"/><div2 type="commentary"><p id="pX28p0555c0801" rend="margin-left:1em">此是結辭。亦含能作序文之緣。以生起所作序文。
+<lb ed="X" n="0555c09"/>只緣後時從道。知天台一家教觀之深。故能作序。
+<lb ed="X" n="0555c10"/>擊發釋籤大節。又緣早歲在塵。佛法未深。生起徒
+<lb ed="X" n="0555c11"/>欲擊節。而實且有愧于心也。從道為緣。生起擊節
+<lb ed="X" n="0555c12"/>之序。在塵為緣。生起愧心之謙。數句中兩重緣起。
+<lb ed="X" n="0555c13"/>昭如日月。奈何人之盲註。而翳乎序旨也。序言竟。</p>
+<lb ed="X" n="0555c14"/><p id="pX28p0555c1401" rend="margin-left:1em">△二記事。</p></div2>
+<lb ed="X" n="0555c15"/><div2 type="orig"><p id="pX28p0555c1501">天王越在<app><lem wit="【CBETA】" resp="CBETA.maha">陝</lem><rdg wit="【卍續】">陜</rdg></app>郛之明年甲辰歲紀月貞於相。</p></div2>
+<lb ed="X" n="0555c16"/><div2 type="commentary"><p id="pX28p0555c1601" rend="margin-left:1em">此起歲時之事。以取信于人。如經前五事。但前後
+<lb ed="X" n="0555c17"/>置之不同。大論云。記時方人。令生信故是也。天王。
+<lb ed="X" n="0555c18"/>周時列國。俱僭稱王。故夫子作春秋。天子稱天王。
+<lb ed="X" n="0555c19"/>尊而別之也。如云天王狩于河陽。天王聖明。予為
+<lb ed="X" n="0555c20"/>天王等是也。越在。凡天子無事。巡幸四方。所到之
+<lb ed="X" n="0555c21"/>處。名行在。如某日某人詣行在是也。國家離亂。避
+<lb ed="X" n="0555c22"/>亂而出。所到之處名越在。如左傳越在草莽是也。
+<lb ed="X" n="0555c23"/>唐代宗時。因土蕃之亂。倉卒避于<app><lem wit="【CBETA】" resp="CBETA.maha">陝</lem><rdg wit="【卍續】">陜</rdg></app>城。故曰越在。
+<lb ed="X" n="0555c24"/>明年甲辰歲者。癸卯出避于外。至次年甲辰作此
+<pb ed="X" id="X28.0591.0556a" n="0556a"/>
+<lb ed="X" n="0556a01"/>序成故也。月貞于相者。貞。正也。易乾卦四德。元亨
+<lb ed="X" n="0556a02"/>利貞。貞即正字。七月為相月。須知此雖記事。亦含
+<lb ed="X" n="0556a03"/>緣起二端。以世亂君出。不能開講之緣。致成釋籤。
+<lb ed="X" n="0556a04"/>生起次年天王復辟。結集方完。而得序其成也。不
+<lb ed="X" n="0556a05"/>然。奚不直書廣德二年。而必書曰越在之明年耶。
+<lb ed="X" n="0556a06"/>凡解佛祖經論。須具向上亞目。闡發言外意旨。豈
+<lb ed="X" n="0556a07"/>秪讀科讀註猜是清非而得謂之講經註經乎哉。
+<lb ed="X" n="0556a08"/>&CB00582;序題既別重緣起二字。所以文中一篇。一節。一
+<lb ed="X" n="0556a09"/>句。一事。莫非緣起二字。正序題是總序文是別。總
+<lb ed="X" n="0556a10"/>者總于別。別者別于總。總別雖殊。緣起則一也。</p><p id="pX28p0556a1019" place="inline" rend="margin-left:1em">時
+<lb ed="X" n="0556a11"/>今上在宥之二十二年歲次癸亥長烈既望</p></div2></div1>
+<lb ed="X" n="0556a12"/>
+<lb ed="X" n="0556a13"/>
+<lb ed="X" n="0556a14"/>
+<lb ed="X" n="0556a15"/>
+<lb ed="X" n="0556a16"/><div1 type="xu"><mulu type="序" level="1" label="No. 591-A"/><head>No. 591-A</head>
+<lb ed="X" n="0556a17"/>
+<lb ed="X" n="0556a18"/><p id="pX28p0556a1801">籤序三百二十字。並無一個緣起字眼。而&CB00230;句句臚
+<lb ed="X" n="0556a19"/>列緣起事事。發揮緣起。總別一貫之妙門。師結搆於
+<lb ed="X" n="0556a20"/>千餘年之前。全公指明於千餘年之後。揭日月於中
+<lb ed="X" n="0556a21"/>天。開將來之眼目。寧惟後人之幸。即普門亦幸得千
+<lb ed="X" n="0556a22"/>載知心。點出序旨。而不受碌碌之蒙塵也。然法弟全
+<lb ed="X" n="0556a23"/>彰雖稱義虎。著名海內。吾未稔其具大識見道力也。
+<lb ed="X" n="0556a24"/>政欲與之並驅中原。未知鹿死誰手耳。頃緣或人序
+<pb ed="X" id="X28.0591.0556b" n="0556b"/>
+<lb ed="X" n="0556b01"/>註。溷我宗源。乃拉其戮力。袪氛澄源。尊祖闢妄二書。
+<lb ed="X" n="0556b02"/>詞嚴義正。通暢明白。及觀籤序指明。不覺爽然自失。
+<lb ed="X" n="0556b03"/>深服其識見道力。遠邁古人。予亦不得不遜揖下風
+<lb ed="X" n="0556b04"/>也奈何。雖然予亦有幸焉。天溪法道。丕振有人。吾可
+<lb ed="X" n="0556b05"/>以宴息匡廬。無所事事矣。</p>
+<lb ed="X" n="0556b06"/><p id="pX28p0556b0601" rend="margin-left:5em">同門病頭陀靈乘謹&CB02494;</p></div1>
+</body></text></TEI.2>

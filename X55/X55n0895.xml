@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X55n0895.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 895 八識規矩直解</title>
+			<author>明 智旭解</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $ (Big5)<date>$Date: 2009/04/22 09:00:19 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:00:19 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 55, No. 895 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/05/24 15:22:40</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X55n0895.xml,v $
+Revision 1.2  2009/04/22 09:00:19  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.1  2005/05/24 07:33:21  edith
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X55.0895.0435c" n="0435c"/>
+<lb ed="X" n="0435c01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0435c02"/>
+<lb ed="X" n="0435c03"/>
+<lb ed="X" n="0435c04"/>
+<lb ed="X" n="0435c05"/><head type="no">No. 895</head>
+<lb ed="X" n="0435c06"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>八識規矩直解</jhead></juan>
+<lb ed="X" n="0435c07"/>
+<lb ed="X" n="0435c08"/><byline type="other">三藏法師　玄奘　作</byline>
+<lb ed="X" n="0435c09"/><byline type="author">蕅益沙門　智旭　解</byline>
+<lb ed="X" n="0435c10"/><div1 type="other"><mulu type="其他" level="1" label="前五識頌"/><head>前五識頌</head>
+<lb ed="X" n="0435c11"/><div2 type="orig"><lg id="lgX55p0435c1101"><l>性境現量通三性</l></lg></div2>
+<lb ed="X" n="0435c12"/><div2 type="commentary"><p id="pX55p0435c1201" rend="margin-left:1em">統論所緣。凡有三境。一性境。二帶質境。三獨影境。
+<lb ed="X" n="0435c13"/>一性境者。性是實義。謂相分色從相分種子所生。
+<lb ed="X" n="0435c14"/>故名為實。此復有二。一無本質。二有本質。一無本
+<lb ed="X" n="0435c15"/>質者。即第八心王所緣根身器界及諸種子。但是
+<lb ed="X" n="0435c16"/>自變自緣。不假外質。然約器界及他人之浮塵根。
+<lb ed="X" n="0435c17"/>既是共相識種所變。亦得說有外質也。根本智親
+<lb ed="X" n="0435c18"/>證真如。雖不變為相分。亦名性境。二有本質者。即
+<lb ed="X" n="0435c19"/>今五識所緣現在五塵。及明了意識初念并定中
+<lb ed="X" n="0435c20"/>獨頭意識所緣定果色等。皆托第八識之相分以
+<lb ed="X" n="0435c21"/>為本質。隨即變為自識相分而為所緣。猶如鏡中
+<lb ed="X" n="0435c22"/>所現群像。雖約真諦言之則皆如幻如夢了無真
+<lb ed="X" n="0435c23"/>實。而約俗諦言之則五塵即是五識相分。從種子
+<lb ed="X" n="0435c24"/>生還熏成種。不同空華鏡像兔角龜毛。亦復不同
+<pb ed="X" id="X55.0895.0436a" n="0436a"/>
+<lb ed="X" n="0436a01"/>過去未來之不可得。故名性境也。帶質．獨影二境
+<lb ed="X" n="0436a02"/>下文方解。現量者。現謂顯現。量謂度量。五根對境
+<lb ed="X" n="0436a03"/>分明顯現。依之發識緣慮度量。雖無隨念．計度二
+<lb ed="X" n="0436a04"/>種分別。然有自性分別得彼性境不錯不謬。任運
+<lb ed="X" n="0436a05"/>了別不帶名言也。三性者。善．惡．無記也。五識能助
+<lb ed="X" n="0436a06"/>第六意識作善惡業。若與信等相應則善性攝。若
+<lb ed="X" n="0436a07"/>與無慚等相應則惡性攝。俱不相應則屬無記性
+<lb ed="X" n="0436a08"/>攝。故云通三性也。</p></div2>
+<lb ed="X" n="0436a09"/><div2 type="orig"><lg id="lgX55p0436a0901"><l>眼耳身三二地居</l></lg></div2>
+<lb ed="X" n="0436a10"/><div2 type="commentary"><p id="pX55p0436a1001" rend="margin-left:1em">五根通于二界五地。惟無色四天乃無五根。今明
+<lb ed="X" n="0436a11"/>五識則鼻．舌二識惟欲界得行。初禪以上無段食
+<lb ed="X" n="0436a12"/>雜氣故不現行也。眼．耳．身三識唯欲界五趣雜居
+<lb ed="X" n="0436a13"/>地及初禪離生喜樂地此二地中得行。若二禪內
+<lb ed="X" n="0436a14"/>淨喜樂則無外色外聲外觸可緣。故并眼．耳．身之
+<lb ed="X" n="0436a15"/>三識亦不起現行也。三禪<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上不言可知。</p></div2>
+<lb ed="X" n="0436a16"/><div2 type="orig"><lg id="lgX55p0436a1601"><l>&CB00642;行別境善十一</l><l>中二大八貪瞋癡</l></lg></div2>
+<lb ed="X" n="0436a17"/><div2 type="commentary"><p id="pX55p0436a1701" rend="margin-left:1em">此明五識但與三十四心所得相應也。&CB00642;行五心
+<lb ed="X" n="0436a18"/>所。謂作意．觸．受．相．思。&CB00642;一切心決相應故。別境于
+<lb ed="X" n="0436a19"/>心所謂欲．解．念．定．慧。由同時意識所引。亦得于別
+<lb ed="X" n="0436a20"/>別境生欲等故。善十一謂信．慚．愧．無貪．無瞋．無癡．
+<lb ed="X" n="0436a21"/>勤安．不放逸．行捨．不害．欲界善。五識得與十善相
+<lb ed="X" n="0436a22"/>應。但除輕安。初禪善眼．耳．身識并得有輕安故。中
+<lb ed="X" n="0436a23"/>二隨煩惱。謂無慚．無愧。大八隨煩惱。謂掉舉．惛沉．
+<lb ed="X" n="0436a24"/>不信．懈怠．放逸．失念．散亂．不正知。若惡心中定有
+<pb ed="X" id="X55.0895.0436b" n="0436b"/>
+<lb ed="X" n="0436b01"/>此十。若有覆無記心中定有掉舉等八。故貪．瞋．癡
+<lb ed="X" n="0436b02"/>者根本煩惱之三癡。即無明。&CB00642;與一切染心相應。
+<lb ed="X" n="0436b03"/>五識緣欲界順情五塵有任運貪。若緣違情五塵
+<lb ed="X" n="0436b04"/>有任運瞋。故外道凡夫入初禪時。眼．耳．身識唯有
+<lb ed="X" n="0436b05"/>貪癡亦不名惡。但名有覆無記。若佛弟子入初禪
+<lb ed="X" n="0436b06"/>者。有觀慧故。不味著故。并無根本癡．貪及大隨八。
+<lb ed="X" n="0436b07"/>但名為善也。</p></div2>
+<lb ed="X" n="0436b08"/><div2 type="orig"><lg id="lgX55p0436b0801"><l>五識同依淨色根</l><l>九緣七八好相&CB00444;</l></lg></div2>
+<lb ed="X" n="0436b09"/><div2 type="commentary"><p id="pX55p0436b0901" rend="margin-left:1em">淨色根謂勝義五根。乃第八識所執受之相分。以
+<lb ed="X" n="0436b10"/>能發識。比知是有。雖是色法。非外四大所造。亦非
+<lb ed="X" n="0436b11"/>肉眼可見。故名為淨色根。依此五根乃發五識。此
+<lb ed="X" n="0436b12"/>根即名增上緣。依眼識則更須空緣．明緣．境緣．作
+<lb ed="X" n="0436b13"/>意緣．分別依緣．染淨依緣．根本依緣．種子依緣方
+<lb ed="X" n="0436b14"/>得生起現行。故云眼識九緣生。耳識則除明緣。<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>
+<lb ed="X" n="0436b15"/>須八緣。以闇中亦聞聲故。鼻．舌．身三識則并除空
+<lb ed="X" n="0436b16"/>緣。但須七緣。以合時方知香．味．觸故。</p></div2>
+<lb ed="X" n="0436b17"/><div2 type="orig"><lg id="lgX55p0436b1701"><l>合三離二觀塵世</l><l>愚者難分識與根</l></lg></div2>
+<lb ed="X" n="0436b18"/><div2 type="commentary"><p id="pX55p0436b1801" rend="margin-left:1em">鼻．舌．身三。合中取境。眼．耳二種離中取境。故曰合
+<lb ed="X" n="0436b19"/>三離二。觀塵世也。觀者能緣之見分。塵世者所緣
+<lb ed="X" n="0436b20"/>之相分。五根對境無緣慮用。故大佛頂經云。<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>如
+<lb ed="X" n="0436b21"/>鏡中。無別分析。圓覺經云。其光圓滿。得無憎愛。五
+<lb ed="X" n="0436b22"/>識緣境則有自性分別。任運起貪．瞋．癡。然猶無有
+<lb ed="X" n="0436b23"/>隨念．計度二種分別。所以不帶名言。不執為外。仍
+<lb ed="X" n="0436b24"/>名現量。同時率爾意識亦復如是。直至尋求等流
+<pb ed="X" id="X55.0895.0436c" n="0436c"/>
+<lb ed="X" n="0436c01"/>心起。方墮比．非二量之中。然此根識不同之。致惟
+<lb ed="X" n="0436c02"/>有秉大乘教以智觀察乃能分之。若愚法聲聞則
+<lb ed="X" n="0436c03"/>便難於分別。況凡外乎。</p></div2>
+<lb ed="X" n="0436c04"/><div2 type="orig"><lg id="lgX55p0436c0401"><l>變相觀空惟後得</l><l>果中猶自不詮真</l>
+<lb ed="X" n="0436c05"/><l>圓明初發成無漏</l><l>三類分身息苦輪</l></lg></div2>
+<lb ed="X" n="0436c06"/><div2 type="commentary"><p id="pX55p0436c0601" rend="margin-left:1em">此明五識至果位中轉為成所作智之時。猶自不
+<lb ed="X" n="0436c07"/>能親證真如體性。但於自識變起真如相分以觀
+<lb ed="X" n="0436c08"/>二空之理。故非根本智攝。惟是後得智攝也。未成
+<lb ed="X" n="0436c09"/>佛前一向有漏。直俟金剛道後異熟識空。轉成大
+<lb ed="X" n="0436c10"/>圓鏡智相應之菴摩羅識。名為圓明初發。爾時菴
+<lb ed="X" n="0436c11"/>摩羅識所持五根成無漏故。依根所發五識亦成
+<lb ed="X" n="0436c12"/>無漏。名為成所作智相應心品。能於盡未來時&CB00642;
+<lb ed="X" n="0436c13"/>十方界示現三輪不思議化。度脫一切有情生死
+<lb ed="X" n="0436c14"/>苦輪也。</p></div2></div1>
+<lb ed="X" n="0436c15"/><div1 type="other"><mulu type="其他" level="1" label="第六識頌"/><head>第六識頌</head>
+<lb ed="X" n="0436c16"/><div2 type="orig"><lg id="lgX55p0436c1601"><l>三性三量通三境</l><l>三界輪時易可知</l></lg></div2>
+<lb ed="X" n="0436c17"/><div2 type="commentary"><p id="pX55p0436c1701" rend="margin-left:1em">三性即善．惡．無記。三量謂現量．比量．非量也。此識
+<lb ed="X" n="0436c18"/>若與五識同起。率爾緣現在境。不帶名言。不執為
+<lb ed="X" n="0436c19"/>外。則屬現量。若入禪定緣禪定境。亦屬現量。若入
+<lb ed="X" n="0436c20"/>二空觀智。或根本智親證真如。或後得智變相觀
+<lb ed="X" n="0436c21"/>空。亦皆現量。若籍眾緣而觀于義不倒不謬。如見
+<lb ed="X" n="0436c22"/>&CB00195;知火。見角知牛等。則名比量。若顛倒推求&CB00980;妄
+<lb ed="X" n="0436c23"/>計度不能如理而解。不能如事而和。無我計我。不
+<lb ed="X" n="0436c24"/>淨謂淨等。又如見杌疑人。見繩疑蛇等。又如翳&CB00418;
+<pb ed="X" id="X55.0895.0437a" n="0437a"/>
+<lb ed="X" n="0437a01"/>空華。捏觀二月等。皆名非量也。三境即性境．帶質
+<lb ed="X" n="0437a02"/>境．獨影境。性境<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>如前釋。帶質復有二種。一者以
+<lb ed="X" n="0437a03"/>心緣心。名真帶質。即第六識通緣一切心及心所。
+<lb ed="X" n="0437a04"/>第七識單緣第八識之見分是也。二者以心緣色。
+<lb ed="X" n="0437a05"/>名似帶質。謂帶彼相起。有似彼質。如依經作觀。非
+<lb ed="X" n="0437a06"/>是五識所緣現境故也。獨影境亦有二種。一者無
+<lb ed="X" n="0437a07"/>質獨影。如緣龜毛等。二者有質獨影。如依經作觀。
+<lb ed="X" n="0437a08"/>雖似托彼為質。終是獨頭意識所現影故。今第六
+<lb ed="X" n="0437a09"/>識最為明利。故能通緣三境。而於三界輪轉之時
+<lb ed="X" n="0437a10"/>最易可知也。</p></div2>
+<lb ed="X" n="0437a11"/><div2 type="orig"><lg id="lgX55p0437a1101"><l>相應心所五十一</l><l>善惡臨時別配之</l></lg></div2>
+<lb ed="X" n="0437a12"/><div2 type="commentary"><p id="pX55p0437a1201" rend="margin-left:1em">謂此第六識心與五十一心所皆得相應。所謂&CB00642;
+<lb ed="X" n="0437a13"/>行五．別境五．善十一．根本煩惱六．大隨八．中隨二．
+<lb ed="X" n="0437a14"/>小隨十．不定四。隨其所起或多或少。初無一定。故
+<lb ed="X" n="0437a15"/>須臨時別配。具如唯識論中諸門分別也。根本煩
+<lb ed="X" n="0437a16"/>惱即貪．瞋．癡加慢．疑．邪見為六。小隨十謂忿．恨．覆．
+<lb ed="X" n="0437a17"/>惱．嫉．慳．誑．&CB00348;．害．憍。不定四謂悔．眠．尋．伺。</p></div2>
+<lb ed="X" n="0437a18"/><div2 type="orig"><lg id="lgX55p0437a1801"><l>性界受三恒轉易</l><l>根隨信等總相連</l></lg></div2>
+<lb ed="X" n="0437a19"/><div2 type="commentary"><p id="pX55p0437a1901" rend="margin-left:1em">言此第六識心。或時與信等相連則為善性。或時
+<lb ed="X" n="0437a20"/>與根隨煩惱相連則為惡性。或時不與善惡相連。
+<lb ed="X" n="0437a21"/>但與遍行．別境等相連則便為無記性。故三性恒
+<lb ed="X" n="0437a22"/>轉易也。或緣欲界。或緣色界。或復緣無色界。故三
+<lb ed="X" n="0437a23"/>界恒轉易也。或時喜受。或時樂受。或時憂受。或時
+<lb ed="X" n="0437a24"/>苦受。或時不苦不樂名為捨受。故五受恒轉易也。</p></div2>
+<pb ed="X" id="X55.0895.0437b" n="0437b"/>
+<lb ed="X" n="0437b01"/><div2 type="orig"><lg id="lgX55p0437b0101"><l>動身發語獨為最</l><l>引滿能招業力牽</l></lg></div2>
+<lb ed="X" n="0437b02"/><div2 type="commentary"><p id="pX55p0437b0201" rend="margin-left:1em">謂身．語二業皆由此第六識方能動發。由第六識
+<lb ed="X" n="0437b03"/>與發業惑相應。能造善惡引業。此業雖謝。所熏種
+<lb ed="X" n="0437b04"/>子至成熟時能招六道總報。由第六識與潤生惑
+<lb ed="X" n="0437b05"/>相應。能造善惡滿業。此業雖謝。所熏種子至成熟
+<lb ed="X" n="0437b06"/>位能招六道別報。所招總報名真異熟。所招別報
+<lb ed="X" n="0437b07"/>名異熟生。若總若別苦樂萬狀。皆第六識造業所
+<lb ed="X" n="0437b08"/>牽感也。</p></div2>
+<lb ed="X" n="0437b09"/><div2 type="orig"><lg id="lgX55p0437b0901"><l>發起初心歡喜地</l><l>俱生猶自現纏眠</l></lg></div2>
+<lb ed="X" n="0437b10"/><div2 type="commentary"><p id="pX55p0437b1001" rend="margin-left:1em">發起初心者謂妙觀察智。相應心品初發起時。在
+<lb ed="X" n="0437b11"/>于菩薩初歡喜地也。蓋由資糧．加行位中用有漏
+<lb ed="X" n="0437b12"/>聞思修慧。漸伏我法二執現行。亦復助黑無漏智
+<lb ed="X" n="0437b13"/>種令其漸漸成熟。故至初歡喜地頓斷分別我法
+<lb ed="X" n="0437b14"/>二執種子。得與妙觀察智相應。然其俱生我法二
+<lb ed="X" n="0437b15"/>執之現行纏繞及隨眠種子尚自未斷。猶須數數
+<lb ed="X" n="0437b16"/>修習之力乃能伏斷也。</p></div2>
+<lb ed="X" n="0437b17"/><div2 type="orig"><lg id="lgX55p0437b1701"><l>遠行地後純無漏</l><l>觀察圓明照大千</l></lg></div2>
+<lb ed="X" n="0437b18"/><div2 type="commentary"><p id="pX55p0437b1801" rend="margin-left:1em">此明菩薩第七地後俱生我執永伏。雖有俱生微
+<lb ed="X" n="0437b19"/>細法執。或時現起而非有漏。故能觀察諸法圓滿
+<lb ed="X" n="0437b20"/>明淨。普照大千世界機緣。隨應說法化度也。</p></div2></div1>
+<lb ed="X" n="0437b21"/><div1 type="other"><mulu type="其他" level="1" label="第七識頌"/><head>第七識頌</head>
+<lb ed="X" n="0437b22"/><div2 type="orig"><lg id="lgX55p0437b2201"><l>帶質有覆通情本</l><l>隨緣執我量為非</l></lg></div2>
+<lb ed="X" n="0437b23"/><div2 type="commentary"><p id="pX55p0437b2301" rend="margin-left:1em">此明第七識所緣乃托第八識之見分以為本質。
+<lb ed="X" n="0437b24"/>是真帶質。此識雖非善惡性惟無記。而由俱生我
+<pb ed="X" id="X55.0895.0437c" n="0437c"/>
+<lb ed="X" n="0437c01"/>執隱真理故名有覆。三界有情所以<app><lem wit="【CBETA】" resp="CBETA.maha">枉</lem><rdg wit="【卍續】">狂</rdg></app>受輪迴不
+<lb ed="X" n="0437c02"/>證涅槃。通以此執為本。故名為通情本。隨所生處
+<lb ed="X" n="0437c03"/>必緣第八識之見分。妄執為我。故名為非量也。</p></div2>
+<lb ed="X" n="0437c04"/><div2 type="orig"><lg id="lgX55p0437c0401"><l>八大&CB00642;行別境慧</l><l>貪癡我見慢相隨</l></lg></div2>
+<lb ed="X" n="0437c05"/><div2 type="commentary"><p id="pX55p0437c0501" rend="margin-left:1em">此明第七識相應之心所也。大隨有八。&CB00642;行有五。
+<lb ed="X" n="0437c06"/>別境惟慧。根本則我貪．我癡．我見．我慢。惟此十八
+<lb ed="X" n="0437c07"/>恒得相應。</p></div2>
+<lb ed="X" n="0437c08"/><div2 type="orig"><lg id="lgX55p0437c0801"><l>恒審思量我相隨</l><l>有情日夜鎮昏迷</l>
+<lb ed="X" n="0437c09"/><l>四惑八大相應起</l><l>六轉呼為染淨依</l></lg></div2>
+<lb ed="X" n="0437c10"/><div2 type="commentary"><p id="pX55p0437c1001" rend="margin-left:1em">第八則恒而不審。第六則審而不恒。前五則不審
+<lb ed="X" n="0437c11"/>不恒。惟此第七末那于有漏位恒審思量。非我執
+<lb ed="X" n="0437c12"/>我。此妄執之我相無始隨逐無時暫捨。所以有情
+<lb ed="X" n="0437c13"/>日夜昏迷不能自拔也。四惑即我貪．我癡．我見．我
+<lb ed="X" n="0437c14"/>慢。八大即掉舉．惛沉等。前六轉識修施．戒等諸善
+<lb ed="X" n="0437c15"/>行時。由此第七念念執我。令所修善不能亡相。故
+<lb ed="X" n="0437c16"/>名染依。若此識轉為平等性智。則前六識所修諸
+<lb ed="X" n="0437c17"/>行皆成無漏。名為淨依。所以前六轉識呼此第七
+<lb ed="X" n="0437c18"/>識為染淨依也。</p></div2>
+<lb ed="X" n="0437c19"/><div2 type="orig"><lg id="lgX55p0437c1901"><l>極喜初心平等性</l><l>無功用行我恒摧</l></lg></div2>
+<lb ed="X" n="0437c20"/><div2 type="commentary"><p id="pX55p0437c2001" rend="margin-left:1em">謂此第七末那無始妄執我法直行。菩薩初歡喜
+<lb ed="X" n="0437c21"/>地。第六意識入二空觀。斷盡分別二執種子。亦伏
+<lb ed="X" n="0437c22"/>俱生二執現行。此第七識方初得與平等性智相
+<lb ed="X" n="0437c23"/>應。然由俱生我執未斷。所以出觀之後仍復執我。
+<lb ed="X" n="0437c24"/>直入八地無功用行。方不復起現行我執也。</p></div2>
+<pb ed="X" id="X55.0895.0438a" n="0438a"/>
+<lb ed="X" n="0438a01"/><div2 type="orig"><lg id="lgX55p0438a0101"><l>如來現起他受用</l><l>十地菩薩所被機</l></lg></div2>
+<lb ed="X" n="0438a02"/><div2 type="commentary"><p id="pX55p0438a0201" rend="margin-left:1em">謂四智菩提皆是如來自受用執身所攝。而用各
+<lb ed="X" n="0438a03"/>不同。若為地上菩提所現他受用報身。則是平等
+<lb ed="X" n="0438a04"/>性智之用。其所被機唯是十地菩薩也。</p></div2></div1>
+<lb ed="X" n="0438a05"/><div1 type="other"><mulu type="其他" level="1" label="第八識頌"/><head>第八識<app><lem wit="【CBETA】" resp="CBETA.maha">頌</lem><rdg wit="【卍續】"></rdg></app></head>
+<lb ed="X" n="0438a06"/><div2 type="orig"><lg id="lgX55p0438a0601"><l>性唯無覆五&CB00642;行</l><l>界地隨他業力生</l></lg></div2>
+<lb ed="X" n="0438a07"/><div2 type="commentary"><p id="pX55p0438a0701" rend="margin-left:1em">謂第八識非善非惡亦非有覆。故其性但是無覆
+<lb ed="X" n="0438a08"/>無記。但與&CB00642;行五心所相應也。三界九地但隨夙
+<lb ed="X" n="0438a09"/>世善惡引業所牽受生。分毫不能自作主張。豈可
+<lb ed="X" n="0438a10"/>執為我哉。</p></div2>
+<lb ed="X" n="0438a11"/><div2 type="orig"><lg id="lgX55p0438a1101"><l>二乘不了因迷執</l><l>由此能興論主爭</l></lg></div2>
+<lb ed="X" n="0438a12"/><div2 type="commentary"><p id="pX55p0438a1201" rend="margin-left:1em">第八識之行相甚為微細。難可了知。佛恐愚法聲
+<lb ed="X" n="0438a13"/>聞妄執為我。故于阿含諸經姑未顯說。而二乘迷
+<lb ed="X" n="0438a14"/>於佛旨。執于權教。不了此識是有情總報之主。生
+<lb ed="X" n="0438a15"/>死涅槃之依。妄撥為無。故大乘論主廣引聖教。備
+<lb ed="X" n="0438a16"/>顯正理。以與之爭。蓋欲破彼妄執故也。</p></div2>
+<lb ed="X" n="0438a17"/><div2 type="orig"><lg id="lgX55p0438a1701"><l>浩浩三藏不可窮</l><l>淵深七浪境為風</l>
+<lb ed="X" n="0438a18"/><l>受熏持種根身器</l><l>去後來先作主公</l></lg></div2>
+<lb ed="X" n="0438a19"/><div2 type="commentary"><p id="pX55p0438a1901" rend="margin-left:1em">此第八識其有能藏．所藏．執藏義故。所以浩浩而
+<lb ed="X" n="0438a20"/>不可窮其邊際。淵深而不可得其源底也。此識持
+<lb ed="X" n="0438a21"/>一切轉識種子。故名能藏。受轉識所熏成種。故名
+<lb ed="X" n="0438a22"/>所藏。被第七識執之為我。故名執藏。此識如水。前
+<lb ed="X" n="0438a23"/>七轉識依此得起猶如波浪。此識所現境界之相。
+<lb ed="X" n="0438a24"/>能與轉識作增上緣。猶如猛風。此識一味無記恒
+<pb ed="X" id="X55.0895.0438b" n="0438b"/>
+<lb ed="X" n="0438b01"/>時相續。故受前七轉識之所熏習。持一切法之種
+<lb ed="X" n="0438b02"/>子。持內根身。持外器界。若于死位。此識最後捨去。
+<lb ed="X" n="0438b03"/>若于生位。此識最先來執。雖非實我實法。而一期
+<lb ed="X" n="0438b04"/>生死必以此為總報主也。</p></div2>
+<lb ed="X" n="0438b05"/><div2 type="orig"><lg id="lgX55p0438b0501"><l>不動地前纔捨藏</l><l>金剛道後異熟空</l>
+<lb ed="X" n="0438b06"/><l>大圓無垢同時發</l><l>普照十方塵剎中</l></lg></div2>
+<lb ed="X" n="0438b07"/><div2 type="commentary"><p id="pX55p0438b0701" rend="margin-left:1em">此識有種種名。一名阿賴耶識。以其被第七識執
+<lb ed="X" n="0438b08"/>為我故。此名至不動地前我執永伏即便先捨。二
+<lb ed="X" n="0438b09"/>名為異熟識。以是善惡漏無漏業至成熟時所招
+<lb ed="X" n="0438b10"/>感故。此名直至金剛道後圓滿佛果方得捨之。三
+<lb ed="X" n="0438b11"/>名一切種識。通于因果凡聖等位。但至成佛之後
+<lb ed="X" n="0438b12"/>則惟持圓滿無漏善種。盡未來際利樂有情。更不
+<lb ed="X" n="0438b13"/>受熏。以其一切有漏種子及一分劣無漏種皆永
+<lb ed="X" n="0438b14"/>斷故。名之為無垢淨識。以其與極善無漏之慧心
+<lb ed="X" n="0438b15"/>所恒相應故。名之為大圓鏡智。此識一轉。此智一
+<lb ed="X" n="0438b16"/>發。則法界洞朗。真俗等觀。故云普照十方塵剎中
+<lb ed="X" n="0438b17"/>也。</p></div2></div1>
+<lb ed="X" n="0438b18"/>
+<lb ed="X" n="0438b19"/><juan fun="close" n="1"><jhead>八識規矩直解<note place="inline">終</note></jhead></juan>
+</body></text></TEI.2>

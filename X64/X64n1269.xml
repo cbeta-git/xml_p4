@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X64n1269.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1269 十牛圖頌</title>
+			<author>宋 師遠述</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.16 $ (Big5)<date>$Date: 2009/04/22 09:02:19 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:02:19 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 64, No. 1269 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, Text as provided by Anonymous, Taiwan</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，台灣某大德提供</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2004/08/05 11:41:04</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X64n1269.xml,v $
+Revision 1.16  2009/04/22 09:02:19  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.15  2008/12/05 02:15:08  amtbgrace
+modified: 序文 的 type 屬性標記修訂。
+
+Revision 1.14  2007/09/06 09:46:58  eva
+modified: 校注作業完成
+
+Revision 1.13  2005/11/30 06:34:41  amtbgrace
+modified: 執行全部 mulu.py, 取消自訂目錄的全形括號
+
+Revision 1.12  2004/11/15 11:14:42  amtbgrace
+modified: 跑chk_mcode.pl  將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
+
+Revision 1.11  2004/08/11 12:12:19  moved
+modified
+
+Revision 1.10  2004/08/05 06:17:08  ray
+重新由 basicx 產生
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X64.1269.0773b" n="0773b"/>
+<lb ed="X" n="0773b01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0773b02"/>
+<lb ed="X" n="0773b03"/>
+<lb ed="X" n="0773b04"/>
+<lb ed="X" n="0773b05"/><head type="no">No. 1269</head>
+<lb ed="X" n="0773b06"/><juan fun="open" n="001"><mulu type="卷" n="1"/><jhead>住鼎州梁山廓庵和尚十牛圖頌<note place="inline">并</note>序</jhead></juan>
+<lb ed="X" n="0773b07"/>
+<lb ed="X" n="0773b08"/><div1 type="xu"><mulu type="序" level="1" label="序"/><p id="pX64p0773b0801">夫諸佛真源。眾生本有。因迷也沈淪三界。因悟也頓
+<lb ed="X" n="0773b09"/>出四生。所以有諸佛而可成。有眾生而可作。是故先
+<lb ed="X" n="0773b10"/>賢悲憫。廣設多途。理出偏圓。教興頓漸。從麤及細。自
+<lb ed="X" n="0773b11"/>淺至深。末後目瞬青蓮。引得頭陀微笑。正法眼藏自
+<lb ed="X" n="0773b12"/>此流通天上人間。此方他界。得其理也。超宗越格。如
+<lb ed="X" n="0773b13"/>鳥道而無蹤跡。得其事也。滯句迷言。若靈龜而曳尾。</p>
+<lb ed="X" n="0773b14"/><p id="pX64p0773b1401">間有清居禪師。觀眾生之根器。應病施方。作牧牛以
+<lb ed="X" n="0773b15"/>為圖。隨機設教。初從漸白。顯力量之未充。次至純真。
+<lb ed="X" n="0773b16"/>表根機之漸照。乃至人牛不見故。標心法雙亡。其理
+<lb ed="X" n="0773b17"/>也。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>盡根源。其法也。尚存莎笠。遂使淺根疑&CB00386;。中下
+<lb ed="X" n="0773b18"/>紛紜。或疑之落空亡也。或喚作墮常見。今觀則公禪
+<lb ed="X" n="0773b19"/>師。擬前賢之模範。出自<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>之&CB00291;襟。十頌佳篇。交光相
+<lb ed="X" n="0773b20"/>映。初從失處。終至還源。善應群機。如救飢渴。慈遠是
+<lb ed="X" n="0773b21"/>以探尋妙義。採拾玄微。如水母以尋&CB00290;。依海蝦而為
+<lb ed="X" n="0773b22"/>目。初自尋牛。終至入&CB00422;。強起波瀾。橫生頭角。尚無心
+<lb ed="X" n="0773b23"/>而可覓。何有牛而可尋。<note n="0773001" resp="Xuzangjing" place="foot text" type="orig">泊疑洎</note>泊至入&CB04622;。是何魔魅。況是祖
+<lb ed="X" n="0773b24"/>禰不了。殃及兒孫。不揆荒唐。試為提唱。</p></div1>
+<pb ed="X" id="X64.1269.0773c" n="0773c"/>
+<lb ed="X" n="0773c01"/><div1 type="other"><mulu type="其他" level="1" label="尋牛序一"/><head>尋牛序一</head>
+<lb ed="X" n="0773c02"/><p id="pX64p0773c0201">從來不失。何用追尋。由背覺以成&CB00520;。在向塵而遂失。</p>
+<lb ed="X" n="0773c03"/><p id="pX64p0773c0301">家山漸遠。岐路俄差。得失熾然。是非鋒起。</p><p id="pX64p0773c0317" place="inline">頌曰。</p>
+<lb ed="X" n="0773c04"/><lg id="lgX64p0773c0401"><l>忙忙撥草去追尋</l><l>水闊山遙路更深</l>
+<lb ed="X" n="0773c05"/><l>力盡神疲無處&CB00697;</l><l>但聞楓樹晚蟬吟</l></lg>
+<lb ed="X" n="0773c06"/><p id="pX64p0773c0601" rend="margin-left:4em">和</p><byline type="author">石&CB00655;夷和尚。</byline>
+<lb ed="X" n="0773c07"/><lg id="lgX64p0773c0701"><l>只管區區<note n="0773002" resp="Xuzangjing" place="foot text" type="orig">后字更勘</note>后外尋</l><l>不知&CB00560;底<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>泥深</l>
+<lb ed="X" n="0773c08"/><l>幾迴芳草斜陽裏</l><l>一曲新豐空自吟</l></lg>
+<lb ed="X" n="0773c09"/><p id="pX64p0773c0901" rend="margin-left:4em">又</p><byline type="author">壞衲璉和尚。</byline>
+<lb ed="X" n="0773c10"/><lg id="lgX64p0773c1001"><l>本無蹤跡是誰尋</l><l>誤入&CB00195;蘿深處深</l>
+<lb ed="X" n="0773c11"/><l>手把鼻頭同歸客</l><l>水邊林下自沈吟</l></lg></div1>
+<lb ed="X" n="0773c12"/><div1 type="other"><mulu type="其他" level="1" label="見跡序二"/><head>見跡序二</head>
+<lb ed="X" n="0773c13"/><p id="pX64p0773c1301">依經解義。閱教知蹤。明眾器為一金。體萬物為自<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>。</p>
+<lb ed="X" n="0773c14"/><p id="pX64p0773c1401">正邪不辯。真偽奚分。未入斯門。權為見跡。</p><p id="pX64p0773c1417" place="inline">頌曰。</p>
+<lb ed="X" n="0773c15"/><lg id="lgX64p0773c1501"><l>水邊林下跡偏多</l><l>芳章離披見也麼</l>
+<lb ed="X" n="0773c16"/><l>縱是深山更深處</l><l>遼天鼻孔怎藏他</l></lg>
+<lb ed="X" n="0773c17"/><p id="pX64p0773c1701" rend="margin-left:4em">和。</p>
+<lb ed="X" n="0773c18"/><lg id="lgX64p0773c1801"><l>枯木巖前差路多</l><l>草窠裏輥覺非麼</l>
+<lb ed="X" n="0773c19"/><l>&CB00560;跟若也隨他去</l><l>未免當頭蹉過他</l></lg>
+<lb ed="X" n="0773c20"/><p id="pX64p0773c2001" rend="margin-left:4em">又。</p>
+<lb ed="X" n="0773c21"/><lg id="lgX64p0773c2101"><l>見牛人少&CB00697;牛多</l><l>山北山南見也麼</l>
+<lb ed="X" n="0773c22"/><l>明暗一條來去路</l><l>箇中認取別無他</l></lg></div1>
+<lb ed="X" n="0773c23"/><div1 type="other"><mulu type="其他" level="1" label="見牛序三"/><head>見牛序三</head>
+<lb ed="X" n="0773c24"/><p id="pX64p0773c2401">從聲<note n="0773003" resp="Xuzangjing" place="foot text" type="orig">得入一作入得</note>得入。見處逢原。六根門著著無差。動用中頭頭。</p>
+<pb ed="X" id="X64.1269.0774a" n="0774a"/>
+<lb ed="X" n="0774a01"/><p id="pX64p0774a0101">顯露。水中鹽味。色裏膠青。眨上眉毛。非是他物。</p><p id="pX64p0774a0119" place="inline">頌
+<lb ed="X" n="0774a02"/>曰。</p>
+<lb ed="X" n="0774a03"/><lg id="lgX64p0774a0301"><l>黃鸝枝上一聲聲</l><l>日暖風和岸柳青</l>
+<lb ed="X" n="0774a04"/><l>只此更無回避處</l><l>森森頭角&CB15148;難成</l></lg>
+<lb ed="X" n="0774a05"/><p id="pX64p0774a0501" rend="margin-left:4em">和。</p>
+<lb ed="X" n="0774a06"/><lg id="lgX64p0774a0601"><l>識得形容認得聲</l><l>戴崧從此妙丹青</l>
+<lb ed="X" n="0774a07"/><l>徹頭徹尾渾相似</l><l>子細看來未十成</l></lg>
+<lb ed="X" n="0774a08"/><p id="pX64p0774a0801" rend="margin-left:4em">又。</p>
+<lb ed="X" n="0774a09"/><lg id="lgX64p0774a0901"><l>驀地相逢見面呈</l><l>此牛非白亦非青</l>
+<lb ed="X" n="0774a10"/><l>點頭自許微微笑</l><l>一段風光&CB15148;不成</l></lg></div1>
+<lb ed="X" n="0774a11"/><div1 type="other"><mulu type="其他" level="1" label="得牛序四"/><head>得牛序四</head>
+<lb ed="X" n="0774a12"/><p id="pX64p0774a1201">久埋郊外。今日逢渠。由境勝以難追。戀芳叢而不<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。</p>
+<lb ed="X" n="0774a13"/><p id="pX64p0774a1301">頑心尚勇。野性猶存。欲得純和。必加鞭楚。</p><p id="pX64p0774a1317" place="inline">頌曰。</p>
+<lb ed="X" n="0774a14"/><lg id="lgX64p0774a1401"><l>竭盡神通獲得渠</l><l>心強力壯卒難除</l>
+<lb ed="X" n="0774a15"/><l>有時纔到高原上</l><l>又入&CB00195;雲深處居</l></lg>
+<lb ed="X" n="0774a16"/><p id="pX64p0774a1601" rend="margin-left:4em">和。</p>
+<lb ed="X" n="0774a17"/><lg id="lgX64p0774a1701"><l>牢把繩頭莫放渠</l><l>幾多毛病未曾除</l>
+<lb ed="X" n="0774a18"/><l>徐徐驀鼻牽將去</l><l>且要迴頭識舊居</l></lg>
+<lb ed="X" n="0774a19"/><p id="pX64p0774a1901" rend="margin-left:4em">又。</p>
+<lb ed="X" n="0774a20"/><lg id="lgX64p0774a2001"><l>芳草連天捉得渠</l><l>鼻頭繩索未全除</l>
+<lb ed="X" n="0774a21"/><l>分明照見歸家路</l><l>綠水青山暫寄居</l></lg></div1>
+<lb ed="X" n="0774a22"/><div1 type="other"><mulu type="其他" level="1" label="牧牛序五"/><head>牧牛序五</head>
+<lb ed="X" n="0774a23"/><p id="pX64p0774a2301">前思纔起。後念相隨。由覺故以成真。在迷故而為妄。</p>
+<lb ed="X" n="0774a24"/><p id="pX64p0774a2401">不唯<note n="0774001" resp="Xuzangjing" place="foot text" type="orig">由字似剩</note>由境有。惟自心生。鼻索牢牽。不容擬議。</p><p id="pX64p0774a2418" place="inline">頌曰。</p>
+<pb ed="X" id="X64.1269.0774b" n="0774b"/>
+<lb ed="X" n="0774b01"/><lg id="lgX64p0774b0101"><l>鞭索時時不離身</l><l>恐伊縱步入埃塵</l>
+<lb ed="X" n="0774b02"/><l>相將牧得純和也</l><l>羈&CB02083;無抑自逐人</l></lg>
+<lb ed="X" n="0774b03"/><p id="pX64p0774b0301" rend="margin-left:4em">和。</p>
+<lb ed="X" n="0774b04"/><lg id="lgX64p0774b0401"><l>共分山林寄此身</l><l>有時亦踏馬蹄塵</l>
+<lb ed="X" n="0774b05"/><l>不曾犯<note n="0774002" resp="Xuzangjing" place="foot text" type="orig">者疑&CB00473;</note>者人苗稼</l><l>來往空勞背上人</l></lg>
+<lb ed="X" n="0774b06"/><p id="pX64p0774b0601" rend="margin-left:4em">又。</p>
+<lb ed="X" n="0774b07"/><lg id="lgX64p0774b0701"><l>牧來純熟自通身</l><l>雖在塵中不染塵</l>
+<lb ed="X" n="0774b08"/><l>弄來&CB00230;得蹉跎力</l><l>林下相進笑殺人</l></lg></div1>
+<lb ed="X" n="0774b09"/><div1 type="other"><mulu type="其他" level="1" label="騎牛歸家序六"/><head>騎牛歸家序六</head>
+<lb ed="X" n="0774b10"/><p id="pX64p0774b1001">干戈<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>罷。得失還無。唱樵子之村歌。吹兒童之野曲。</p>
+<lb ed="X" n="0774b11"/><p id="pX64p0774b1101">橫身牛上。目視雲霄。呼喚不回。撈籠不住。</p><p id="pX64p0774b1117" place="inline">頌曰。</p>
+<lb ed="X" n="0774b12"/><lg id="lgX64p0774b1201"><l>騎牛迤邐欲還家</l><l>&CB00918;笛聲聲送晚霞</l>
+<lb ed="X" n="0774b13"/><l>一拍一歌無限意</l><l>知音何必鼓唇牙</l></lg>
+<lb ed="X" n="0774b14"/><p id="pX64p0774b1401" rend="margin-left:4em">和。</p>
+<lb ed="X" n="0774b15"/><lg id="lgX64p0774b1501"><l>指點前坡即是家</l><l>旋吹桐角出&CB00195;霞</l>
+<lb ed="X" n="0774b16"/><l>忽然變作還鄉曲</l><l>未必知音肯伯牙</l></lg>
+<lb ed="X" n="0774b17"/><p id="pX64p0774b1701" rend="margin-left:4em">又。</p>
+<lb ed="X" n="0774b18"/><lg id="lgX64p0774b1801"><l>倒騎得得自歸家</l><l>篛笠簑衣帶晚霞</l>
+<lb ed="X" n="0774b19"/><l>步步清風行處穩</l><l>不將寸草挂唇牙</l></lg></div1>
+<lb ed="X" n="0774b20"/><div1 type="other"><mulu type="其他" level="1" label="忘牛存人序七"/><head>忘牛存人序七</head>
+<lb ed="X" n="0774b21"/><p id="pX64p0774b2101">法無二法。牛<note n="0774003" resp="Xuzangjing" place="foot text" type="orig">目一作且</note>目為宗。喻蹄兔之異名。顯筌魚之差別。</p>
+<lb ed="X" n="0774b22"/><p id="pX64p0774b2201">如金出&CB00432;。似月離雲。一道寒光。威音劫外。</p><p id="pX64p0774b2217" place="inline">頌曰。</p>
+<lb ed="X" n="0774b23"/><lg id="lgX64p0774b2301"><l>騎牛<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>得到家山</l><l>牛也空兮人也閑</l>
+<lb ed="X" n="0774b24"/><l>紅日三竿猶作夢</l><l>鞭繩空頓草堂間</l></lg>
+<pb ed="X" id="X64.1269.0774c" n="0774c"/>
+<lb ed="X" n="0774c01"/><p id="pX64p0774c0101" rend="margin-left:4em">和。</p>
+<lb ed="X" n="0774c02"/><lg id="lgX64p0774c0201"><l>欄內無牛&CB01904;出山</l><l>&CB00195;簑雨笠亦空閑</l>
+<lb ed="X" n="0774c03"/><l>行歌行樂無拘繫</l><l>贏得一身天地間</l></lg>
+<lb ed="X" n="0774c04"/><p id="pX64p0774c0401" rend="margin-left:4em">又。</p>
+<lb ed="X" n="0774c05"/><lg id="lgX64p0774c0501"><l>歸來何處不家山</l><l>物我相忘鎮日閑</l>
+<lb ed="X" n="0774c06"/><l>須信通玄峰頂上</l><l>箇中渾不類人間</l></lg></div1>
+<lb ed="X" n="0774c07"/><div1 type="other"><mulu type="其他" level="1" label="人牛俱忘序八"/><head>人牛俱忘序八</head>
+<lb ed="X" n="0774c08"/><p id="pX64p0774c0801">凡情脫落。聖意皆空。有佛處不用遨遊。無佛處急須。</p>
+<lb ed="X" n="0774c09"/><p id="pX64p0774c0901">走過。兩頭不著。千眼難窺。百鳥含花。一場&CB01333;&CB01334;。</p><p id="pX64p0774c0919" place="inline">頌
+<lb ed="X" n="0774c10"/>曰。</p>
+<lb ed="X" n="0774c11"/><lg id="lgX64p0774c1101"><l>鞭索人牛盡屬空</l><l>碧天寥廓信難通</l>
+<lb ed="X" n="0774c12"/><l>紅爐焰上爭容雪</l><l>到此方能合祖宗</l></lg>
+<lb ed="X" n="0774c13"/><p id="pX64p0774c1301" rend="margin-left:4em">和。</p>
+<lb ed="X" n="0774c14"/><lg id="lgX64p0774c1401"><l>慚愧眾生界<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>空</l><l>箇中消息若為通</l>
+<lb ed="X" n="0774c15"/><l>後無來若前無去</l><l>未審憑誰繼此宗</l></lg>
+<lb ed="X" n="0774c16"/><p id="pX64p0774c1601" rend="margin-left:4em">又。</p>
+<lb ed="X" n="0774c17"/><lg id="lgX64p0774c1701"><l>一鎚擊碎太&CB00980;空</l><l>凡情無蹤路不通</l>
+<lb ed="X" n="0774c18"/><l>明月堂前風颯颯</l><l>百川無水不朝宗</l></lg></div1>
+<lb ed="X" n="0774c19"/><div1 type="other"><mulu type="其他" level="1" label="返本還源序九"/><head>返本還源序九</head>
+<lb ed="X" n="0774c20"/><p id="pX64p0774c2001">本來清淨。不受一塵。觀有相之榮枯。處無為之凝寂。</p>
+<lb ed="X" n="0774c21"/><p id="pX64p0774c2101">不同幻化。豈假修治。水綠山青。坐觀成敗。</p><p id="pX64p0774c2117" place="inline">頌曰。</p>
+<lb ed="X" n="0774c22"/><lg id="lgX64p0774c2201"><l>返本還源<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>費功</l><l>爭如直下若盲聾</l>
+<lb ed="X" n="0774c23"/><l>庵中不見庵前物</l><l>水自茫茫花自紅</l></lg>
+<lb ed="X" n="0774c24"/><p id="pX64p0774c2401" rend="margin-left:4em">和。</p>
+<pb ed="X" id="X64.1269.0775a" n="0775a"/>
+<lb ed="X" n="0775a01"/><lg id="lgX64p0775a0101"><l>靈機不隨有無功</l><l>見色聞聲豈用聾</l>
+<lb ed="X" n="0775a02"/><l>昨夜金烏飛入海</l><l>曉天依舊一輪紅</l></lg>
+<lb ed="X" n="0775a03"/><p id="pX64p0775a0301" rend="margin-left:4em">又。</p>
+<lb ed="X" n="0775a04"/><lg id="lgX64p0775a0401"><l>用盡機關費盡功</l><l>惺惺底事不如聾</l>
+<lb ed="X" n="0775a05"/><l>草鞋根斷來時路</l><l>百鳥不啼花亂紅</l></lg></div1>
+<lb ed="X" n="0775a06"/><div1 type="other"><mulu type="其他" level="1" label="入＆CB00422；垂手序十"/><head>入&CB00422;垂手序十</head>
+<lb ed="X" n="0775a07"/><p id="pX64p0775a0701">柴門獨掩。千聖不知。埋自<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>之風光。負前賢之途轍。</p>
+<lb ed="X" n="0775a08"/><p id="pX64p0775a0801">提瓢入市。&CB15081;杖還家。酒肆魚行。化令成佛。</p><p id="pX64p0775a0817" place="inline">頌曰。</p>
+<lb ed="X" n="0775a09"/><lg id="lgX64p0775a0901"><l>露&CB00291;跣足入&CB04622;來</l><l>抹土塗&CB01926;笑滿腮</l>
+<lb ed="X" n="0775a10"/><l>不用神仙真祕訣</l><l>直教枯木放花開</l></lg>
+<lb ed="X" n="0775a11"/><p id="pX64p0775a1101" rend="margin-left:4em">和。</p>
+<lb ed="X" n="0775a12"/><lg id="lgX64p0775a1201"><l>者漢親從異類來</l><l>分明馬面與驢腮</l>
+<lb ed="X" n="0775a13"/><l>一揮鐵棒如風疾</l><l>萬戶千門盡擊開</l></lg>
+<lb ed="X" n="0775a14"/><p id="pX64p0775a1401" rend="margin-left:4em">又。</p>
+<lb ed="X" n="0775a15"/><lg id="lgX64p0775a1501"><l>袖裏金鎚劈面來</l><l>胡言漢語笑盈腮</l>
+<lb ed="X" n="0775a16"/><l>相逢若解不相識</l><l>樓閣門庭八字開</l></lg></div1>
+<lb ed="X" n="0775a17"/>
+<lb ed="X" n="0775a18"/><juan fun="close" n="1"><jhead>十牛圖頌<note place="inline">終</note></jhead></juan>
+</body></text></TEI.2>

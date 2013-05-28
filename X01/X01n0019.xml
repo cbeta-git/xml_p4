@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X01n0019.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 019 佛說斷溫經</title>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.3 $ (Big5)<date>$Date: 2009/04/22 08:48:29 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:48:29 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 01, No. 019 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/10/03 09:13:10</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X01n0019.xml,v $
+Revision 1.3  2009/04/22 08:48:29  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.2  2005/10/03 02:43:14  ray
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X01.0019.0403c" n="0403c"/>
+<lb ed="X" n="0403c01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0403c02"/>
+<lb ed="X" n="0403c03"/><head type="no">No. 19</head>
+<lb ed="X" n="0403c04"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>佛說斷溫經</jhead></juan>
+<lb ed="X" n="0403c05"/>
+<lb ed="X" n="0403c06"/><div1><p id="pX01p0403c0601">爾時佛在王舍城中。與諸大眾俱會。阿難長脆合掌。
+<lb ed="X" n="0403c07"/>白佛言。世尊。彼南閻浮提世界。忽遇天行溫氣瘴烈。
+<lb ed="X" n="0403c08"/>如猛火橫延。及死亡無數。如何免之。佛告阿難。汝可
+<lb ed="X" n="0403c09"/>諦聽。吾當為汝說。此病有鬼神。常吐惡毒。以害人民。
+<lb ed="X" n="0403c10"/>初得病時。頭痛寒熱。百支節俱苦痛畢切。阿難言。若
+<lb ed="X" n="0403c11"/>有善男子善女人。能知七鬼神名字。作崇敬。當除此
+<lb ed="X" n="0403c12"/>病患乎。為汝即說除病&CB00057;曰。</p>
+<lb ed="X" n="0403c13"/><p id="pX01p0403c1301" type="dharani">南無佛陀耶。南無達磨耶。南無僧伽耶。南無觀世音
+<lb ed="X" n="0403c14"/>菩薩摩訶薩。疫病消除娑婆訶</p>
+<lb ed="X" n="0403c15"/><p id="pX01p0403c1501">爾時十方諸佛。諸大菩薩。一切賢聖僧。聞我說金剛
+<lb ed="X" n="0403c16"/>秘密&CB00057;。亦說七鬼神名字曰。夢多難鬼。阿佉尼鬼。尼
+<lb ed="X" n="0403c17"/>佉尸鬼。阿伽那鬼。波羅尼鬼。阿毗羅鬼。婆提梨鬼也。
+<lb ed="X" n="0403c18"/>汝等當知。此神名思念。速疾遠離。不敢侵害。其人所
+<lb ed="X" n="0403c19"/>被毒氣普皆消散。得金剛密&CB00528;。其身安樂。無諸患難。
+<lb ed="X" n="0403c20"/>佛說是經<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。天龍八部。一切大眾。皆大歡喜。信受奉
+<lb ed="X" n="0403c21"/>行。</p>
+<lb ed="X" n="0403c22"/>
+<lb ed="X" n="0403c23"/><juan fun="close" n="1"><jhead>佛說斷溫經</jhead></juan></div1>
+</body></text></TEI.2>

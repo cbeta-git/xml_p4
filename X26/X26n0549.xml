@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X26n0549.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 549 般若心經正眼</title>
+			<author>明 大文述</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.3 $ (Big5)<date>$Date: 2009/04/22 08:54:11 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:54:11 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 26, No. 549 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2006/08/01 10:23:07</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X26n0549.xml,v $
+Revision 1.3  2009/04/22 08:54:11  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.2  2006/08/04 02:28:26  amtbgrace
+modified: 修訂錯誤目錄及標記
+
+Revision 1.1  2006/08/01 02:26:55  ray
+basicx 程式 轉自 簡單標記版
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X26.0549.0852b" n="0852b"/>
+<lb ed="X" n="0852b01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0852b02"/><head type="no">No. 549</head>
+<lb ed="X" n="0852b03"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>般若波羅蜜多心經正眼</jhead></juan>
+<lb ed="X" n="0852b04"/>
+<lb ed="X" n="0852b05"/><byline type="other">唐三藏法師　玄奘　譯</byline>
+<lb ed="X" n="0852b06"/><byline type="author">明武林後學　大文　述</byline>
+<lb ed="X" n="0852b07"/><div1 type="other"><mulu type="其他" level="1" label="前文"/><p id="pX26p0852b0701" rend="margin-left:1em">將釋此經大段分十一釋名題二能修人三明般
+<lb ed="X" n="0852b08"/>若體四明般若用五正示三觀工夫六承諸法本
+<lb ed="X" n="0852b09"/>不生滅七述空中本無諸法八無得而得九讚深
+<lb ed="X" n="0852b10"/>般若十密說般若。</p></div1><div1 type="other"><mulu type="其他" level="1" label="一釋名題"/><head>△一釋名題</head>
+<lb ed="X" n="0852b11"/><div2 type="orig"><p id="pX26p0852b1101">般若波羅蜜多心經</p></div2>
+<lb ed="X" n="0852b12"/><div2 type="commentary"><p id="pX26p0852b1201" rend="margin-left:1em">天台大師嘗以名體宗用教相五章釋一切經題
+<lb ed="X" n="0852b13"/>此經法喻為名前六字梵語此翻智慧到彼岸是
+<lb ed="X" n="0852b14"/>法心之一字是喻般若有三實相觀照文字實相
+<lb ed="X" n="0852b15"/>之體聖凡平等生佛一如各各圓具不曾少欠絲
+<lb ed="X" n="0852b16"/>毫無始無明覆蔽所謂法身流轉五道也以觀照
+<lb ed="X" n="0852b17"/>之用照破諸法當體全空初無罣礙立登彼岸坐
+<lb ed="X" n="0852b18"/>證菩提矣實相即法身觀照即般若到彼岸即解
+<lb ed="X" n="0852b19"/>脫三德祕藏不離當人也要一回親見始得心乃
+<lb ed="X" n="0852b20"/>撮粹精要統一身四肢百骸之主喻此少文而該
+<lb ed="X" n="0852b21"/>八部七百餘卷之全義故云爾也實相為體諸大
+<lb ed="X" n="0852b22"/>乘經皆以實相為體故照見蘊空為宗以智破諸
+<lb ed="X" n="0852b23"/>法故度苦為用疾超二種生死故熟酥為教相是
+<lb ed="X" n="0852b24"/>法華之前矛故經者常也法也聖賢之常道出塵
+<pb ed="X" id="X26.0549.0852c" n="0852c"/>
+<lb ed="X" n="0852c01"/>之軌則貫線攝持具如別說。</p></div2></div1><div1 type="other"><mulu type="其他" level="1" label="二能修人"/><head>△二能修人</head>
+<lb ed="X" n="0852c02"/><div2 type="orig"><p id="pX26p0852c0201">觀自在菩薩。</p></div2>
+<lb ed="X" n="0852c03"/><div2 type="commentary"><p id="pX26p0852c0301" rend="margin-left:1em">如來拈圓修頓證之人勉諸凡小修行者而作榜
+<lb ed="X" n="0852c04"/>樣萬有交陳乎前不滯一情不住一法中流兩岸
+<lb ed="X" n="0852c05"/>不居即此岸而登彼岸以無緣慈泛應&CB00320;機無剎
+<lb ed="X" n="0852c06"/>不現如月印千江故名自在。</p></div2></div1><div1 type="other"><mulu type="其他" level="1" label="三明般若體"/><head>△三明般若體</head>
+<lb ed="X" n="0852c07"/><div2 type="orig"><p id="pX26p0852c0701">行深般若波羅蜜多時。</p></div2>
+<lb ed="X" n="0852c08"/><div2 type="commentary"><p id="pX26p0852c0801" rend="margin-left:1em">此舉實相體也是法身德行揀有解無行深揀凡
+<lb ed="X" n="0852c09"/>外邪智二乘偏真權教但中三觀一心故云深也
+<lb ed="X" n="0852c10"/>圓解之時即觀隨觀即證無時之時揀非次第也。</p></div2></div1>
+<lb ed="X" n="0852c11"/><div1 type="other"><mulu type="其他" level="1" label="四明般若用"/><head>△四明般若用</head>
+<lb ed="X" n="0852c12"/><div2 type="orig"><p id="pX26p0852c1201">照見五蘊皆空度一切苦厄。</p></div2>
+<lb ed="X" n="0852c13"/><div2 type="commentary"><p id="pX26p0852c1301" rend="margin-left:1em">此明深般若之實效用也是般若解脫二德以圓
+<lb ed="X" n="0852c14"/>照之功照破了了徹見故曰照見眾生執根身器
+<lb ed="X" n="0852c15"/>界對待形顯以為實有名色領納違順俱非起苦
+<lb ed="X" n="0852c16"/>樂中庸名受搖動妄情攀緣計較名想運運密移
+<lb ed="X" n="0852c17"/>新新不住名行明了分別名識此五蓋覆真性封
+<lb ed="X" n="0852c18"/>蔀妙明為蘊二乘雖破我執法執猶存權乘次第
+<lb ed="X" n="0852c19"/>漸斷猶未之竟菩薩以大智慧光逆推其源無來
+<lb ed="X" n="0852c20"/>去之&CB00528;向不曾迷本自空寂何須宰割其體原無
+<lb ed="X" n="0852c21"/>頓超乎六道四生之分段長劫勤劬之變易故曰
+<lb ed="X" n="0852c22"/>一切苦厄般若淵微盡情吐露矣下告當機者重
+<lb ed="X" n="0852c23"/>拈之註&CB00560;耳。</p></div2></div1><div1 type="other"><mulu type="其他" level="1" label="五正示三觀工夫"/><head>△五正示三觀工夫</head>
+<lb ed="X" n="0852c24"/><div2 type="orig"><p id="pX26p0852c2401">舍利子色不異空空不異色色即是空空即是色受
+<pb ed="X" id="X26.0549.0853a" n="0853a"/>
+<lb ed="X" n="0853a01"/>想行識亦復如是。</p></div2>
+<lb ed="X" n="0853a02"/><div2 type="commentary"><p id="pX26p0853a0201" rend="margin-left:1em">鶖子是眾中智慧第一之人彼即當機故如來呼
+<lb ed="X" n="0853a03"/>其名而告之色不異空空觀也破凡外執根塵實
+<lb ed="X" n="0853a04"/>有是色起惑造業誠生死根株也故曉之曰此所
+<lb ed="X" n="0853a05"/>執色不異于真空勿滯著也空不異色假觀也破
+<lb ed="X" n="0853a06"/>二乘之人雖用體析之空破彼假色猶保偏空而
+<lb ed="X" n="0853a07"/>為涅槃故曉之曰此所證空不異于假色勿取證
+<lb ed="X" n="0853a08"/>也色即是空空即是色中觀也恐權乘之人聞說
+<lb ed="X" n="0853a09"/>不異終成二物謂智外有如可證不解融即猶存
+<lb ed="X" n="0853a10"/>空有二見故曉之曰玅有之色即是真空實相之
+<lb ed="X" n="0853a11"/>空即是真色所以為大空第一義空也何生死之
+<lb ed="X" n="0853a12"/>不超哉何苦厄之不度哉言不頓彰文不累書其
+<lb ed="X" n="0853a13"/>實般若菩薩三觀一心三諦一境也色為五蘊首
+<lb ed="X" n="0853a14"/>故詳其色而略其餘焉若具言之則受不異空空
+<lb ed="X" n="0853a15"/>不異受受即是空空即是受想行識三亦復如是。</p></div2></div1>
+<lb ed="X" n="0853a16"/><div1 type="other"><mulu type="其他" level="1" label="六承諸法本不生滅"/><head>△六承諸法本不生滅</head>
+<lb ed="X" n="0853a17"/><div2 type="orig"><p id="pX26p0853a1701">舍利子是諸法空相不生不滅不垢不淨不增不減。</p></div2>
+<lb ed="X" n="0853a18"/><div2 type="commentary"><p id="pX26p0853a1801" rend="margin-left:1em">此承上文色空不異即是之旨重申揭而示之諸
+<lb ed="X" n="0853a19"/>法即是世出世有八十一科所言即是真空實相
+<lb ed="X" n="0853a20"/>者諸法本不曾生亦無有滅生死即涅槃本不曾
+<lb ed="X" n="0853a21"/>垢亦何須淨煩惱即菩提智亦不增惑亦不減諸
+<lb ed="X" n="0853a22"/>法寂滅即是真空何生滅垢淨增減乎此六不字
+<lb ed="X" n="0853a23"/>即是一空字若具而言之不來不去不斷不常不
+<lb ed="X" n="0853a24"/>一不異不有不無等亦然也。</p></div2></div1><div1 type="other"><mulu type="其他" level="1" label="七述空中本無諸法"/><head>△七述空中本無諸
+<pb ed="X" id="X26.0549.0853b" n="0853b"/>
+<lb ed="X" n="0853b01"/>法</head>
+<lb ed="X" n="0853b02"/><div2 type="orig"><p id="pX26p0853b0201">是故空中無色無受想行識無眼耳鼻舌身意無色
+<lb ed="X" n="0853b03"/>聲香味觸法無眼界乃至無意識界無無明亦無無
+<lb ed="X" n="0853b04"/>明盡乃至無老死亦無老死盡無苦集滅道無智亦
+<lb ed="X" n="0853b05"/>無得。</p></div2>
+<lb ed="X" n="0853b06"/><div2 type="commentary"><p id="pX26p0853b0601" rend="margin-left:1em">此述成諸法空相中本無生滅等不但無生滅即
+<lb ed="X" n="0853b07"/>真空實相體中本無世出世八十一科諸法故云
+<lb ed="X" n="0853b08"/>是故諸法空相之中本無五蘊眼等六根色等六
+<lb ed="X" n="0853b09"/>塵眼識等六識即十八界各有種族界畔故此無
+<lb ed="X" n="0853b10"/>世間法也無明至老死是十二因緣流轉門緣覺
+<lb ed="X" n="0853b11"/>人所觀之境無明盡至老死盡是十二因緣還滅
+<lb ed="X" n="0853b12"/>門以智斷無明盡則一切皆盡也苦集是世間因
+<lb ed="X" n="0853b13"/>果滅道是出世間因果是聲聞人知苦斷集慕滅
+<lb ed="X" n="0853b14"/>修道菩薩以智觀之諸法真空實相體中原無二
+<lb ed="X" n="0853b15"/>乘所修證之法也亦無藏通別菩薩斷惑之智亦
+<lb ed="X" n="0853b16"/>無菩提可得有得有證不了義故俱為戲論此無
+<lb ed="X" n="0853b17"/>出世間法也。</p></div2></div1><div1 type="other"><mulu type="其他" level="1" label="八無得而得"/><head>△八無得而得</head>
+<lb ed="X" n="0853b18"/><div2 type="orig"><p id="pX26p0853b1801">以無所得故菩提薩埵依般若波羅蜜多故心無罣
+<lb ed="X" n="0853b19"/>礙無罣礙故無有恐怖遠離一切顛倒夢想究竟涅
+<lb ed="X" n="0853b20"/>槃三世諸佛依般若波羅蜜多故得阿耨多羅三藐
+<lb ed="X" n="0853b21"/>三菩提。</p></div2>
+<lb ed="X" n="0853b22"/><div2 type="commentary"><p id="pX26p0853b2201" rend="margin-left:1em">上乃以空慧之水洗蕩執情廉纖搭滯四句百非
+<lb ed="X" n="0853b23"/>凡情聖解所謂但盡凡情別無聖解掃至不可掃
+<lb ed="X" n="0853b24"/>處離至不可離處本體如如之真佛原來不曾動
+<pb ed="X" id="X26.0549.0853c" n="0853c"/>
+<lb ed="X" n="0853c01"/>著纖毫譬如水清月現歇即菩提始知從前頭頭
+<lb ed="X" n="0853c02"/>蹉過矣可謂無修是為真修無得是為真得無證
+<lb ed="X" n="0853c03"/>是為真證故云以無所得故依此真空實相不妨
+<lb ed="X" n="0853c04"/>而到涅槃彼岸何以能到以不住一法不滯一情
+<lb ed="X" n="0853c05"/>心即無礙無礙即自在也以無礙故何恐怖之有
+<lb ed="X" n="0853c06"/>若有住著就不自在即有無量恐懼怖畏以無常
+<lb ed="X" n="0853c07"/>計常以苦為樂等八種顛倒晝為想心夜為諸夢
+<lb ed="X" n="0853c08"/>攀緣妄境無時休息生死長夜永無解脫之期如
+<lb ed="X" n="0853c09"/>來說為可怜憫者以此真空達此實相何等自在
+<lb ed="X" n="0853c10"/>永離恐怖焉有顛倒夢想而不遠離耶可為涅槃
+<lb ed="X" n="0853c11"/>彼岸頓證究竟歟菩薩因人諸佛果人莫不依此
+<lb ed="X" n="0853c12"/>般若而得無上正等正覺所謂從因以至果位也
+<lb ed="X" n="0853c13"/>菩提智果涅槃斷果互有無者是影略說。</p></div2></div1><div1 type="other"><mulu type="其他" level="1" label="九讚深般若"/><head>△九讚
+<lb ed="X" n="0853c14"/>深般若</head>
+<lb ed="X" n="0853c15"/><div2 type="orig"><p id="pX26p0853c1501">故知般若波羅蜜多是大神&CB00057;是大明&CB00057;是無上&CB00057;
+<lb ed="X" n="0853c16"/>是無等等&CB00057;能除一切苦真實不&CB00980;。</p></div2>
+<lb ed="X" n="0853c17"/><div2 type="commentary"><p id="pX26p0853c1701" rend="margin-left:1em">此讚般若不可思議之意神即靈知不測明即朗
+<lb ed="X" n="0853c18"/>鑑洞徹爍昏衢之智炬越苦海之迅航故皆云大
+<lb ed="X" n="0853c19"/>此法最尊無所過上九界三乘更無與等而等諸
+<lb ed="X" n="0853c20"/>究竟最上一乘&CB00057;即讚此法不可心思言議豈限
+<lb ed="X" n="0853c21"/>量所及哉與下&CB00057;義不同故能除二種生死之苦
+<lb ed="X" n="0853c22"/>如來所說真實之語&CB00278;無&CB00980;謬之談可勿信乎顯
+<lb ed="X" n="0853c23"/>說般若<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>竟下乃密說般若可謂顯密圓通。</p></div2></div1><div1 type="other"><mulu type="其他" level="1" label="十密說般若"/><head>△十
+<lb ed="X" n="0853c24"/>密說般若</head>
+<pb ed="X" id="X26.0549.0854a" n="0854a"/>
+<lb ed="X" n="0854a01"/><div2 type="orig"><p id="pX26p0854a0101">故說般若波羅蜜多&CB00057;即說&CB00057;曰。</p><p id="pX26p0854a0114" type="dharani" place="inline">揭諦揭諦波羅揭
+<lb ed="X" n="0854a02"/>諦波羅僧揭諦菩提娑婆訶</p></div2>
+<lb ed="X" n="0854a03"/><div2 type="commentary"><p id="pX26p0854a0301" rend="margin-left:1em">&CB00057;即祕密真詮如王密旨似軍中號令豈容漏泄
+<lb ed="X" n="0854a04"/>乎顯教則聞解而修修而克果密教則尊重受持
+<lb ed="X" n="0854a05"/>冥益加被不容解釋故不翻譯即五不翻中祕密
+<lb ed="X" n="0854a06"/>不翻也。</p></div2>
+<lb ed="X" n="0854a07"/>
+<lb ed="X" n="0854a08"/><juan fun="close" n="1"><jhead>般若波羅蜜多心經正眼<note place="inline">終</note></jhead></juan></div1>
+<lb ed="X" n="0854a09"/>
+<lb ed="X" n="0854a10"/>
+<lb ed="X" n="0854a11"/><div1 type="xu"><mulu type="序" level="1" label="＆CB02494；"/><head>&CB02494;</head>
+<lb ed="X" n="0854a12"/><p id="pX26p0854a1201">我故篋中有心經正眼一卷點倭訓流通于世若看
+<lb ed="X" n="0854a13"/>閱者因文字發觀炤契實相矣于茲書於所願于餘
+<lb ed="X" n="0854a14"/>紙而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。</p><p id="pX26p0854a1404" place="inline" rend="margin-left:8em">雒下　知空　拜</p></div1>
+</body></text></TEI.2>

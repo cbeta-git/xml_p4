@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X65n1294.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1294 溈山警策註</title>
+			<author>明 大香註</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.7 $ (Big5)<date>$Date: 2009/04/22 09:02:30 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:02:30 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 65, No. 1294 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2004/08/10 13:47:37</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X65n1294.xml,v $
+Revision 1.7  2009/04/22 09:02:30  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.6  2007/09/07 06:04:24  eva
+modified: 校注作業完成
+
+Revision 1.5  2005/11/30 06:34:41  amtbgrace
+modified: 執行全部 mulu.py, 取消自訂目錄的全形括號
+
+Revision 1.4  2005/03/25 05:38:39  eva
+modified
+
+Revision 1.3  2004/11/15 11:15:11  amtbgrace
+modified: 跑chk_mcode.pl  將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
+
+Revision 1.2  2004/08/12 10:23:43  eva
+modified: 處理 note.txt
+
+Revision 1.1  2004/08/10 06:48:17  ray
+由 basicx 產生自簡單標記版
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X65.1294.0468b" n="0468b"/>
+<lb ed="X" n="0468b01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0468b02"/>
+<lb ed="X" n="0468b03"/>
+<lb ed="X" n="0468b04"/>
+<lb ed="X" n="0468b05"/><div1 type="xu"><mulu type="序" level="1" label="No. 1294-A 敘溈山警策"/><head>No. 1294-A
+<lb ed="X" n="0468b06"/> 敘溈山警策</head>
+<lb ed="X" n="0468b07"/>
+<lb ed="X" n="0468b08"/><p id="pX65p0468b0801">夫人之墮地也。固若是芒乎。固亦有不芒者乎。無明
+<lb ed="X" n="0468b09"/>以致生。貪欲以致老。瞋恚以致病。愚癡以致死。受其
+<lb ed="X" n="0468b10"/>委形。無忘待盡。出而為僧。無違所以。由修照性。由性
+<lb ed="X" n="0468b11"/>發修。在性則全修成性。在修則全性成修。然而上根
+<lb ed="X" n="0468b12"/>利智。披沙得寶。中下之流。算沙相似。經云。若比丘雖
+<lb ed="X" n="0468b13"/>持禁戒。為利養故。與破戒者。用為親附。同其世業。是
+<lb ed="X" n="0468b14"/>名雜僧。或在阿蘭若處。瞢&CB00574;闇鈍。不欲乞食。見非眷
+<lb ed="X" n="0468b15"/>屬。不能教詔。名愚癡僧。又云。本性清淨。不為百千億
+<lb ed="X" n="0468b16"/>數諸魔之所沮壞。能調如上二部。悉令安住無為勝
+<lb ed="X" n="0468b17"/>域。是為護法無上導師。歷&CB15095;往古。大溈大圓大師。非
+<lb ed="X" n="0468b18"/>其人歟。無論鏡智為宗。應緣為用。名振兩山。道傳千
+<lb ed="X" n="0468b19"/>古。即警&CB15081;一文。末尼五色。緇白共利。大小咸收。&CB00642;重
+<lb ed="X" n="0468b20"/>律儀。篤修玄道。<note place="inline">不肖</note>屢為敷陳。重因箋釋。欲令大地
+<lb ed="X" n="0468b21"/>有情。知世如夢。了法無生。共揚百丈家風。深得寒&CB01926;
+<lb ed="X" n="0468b22"/>少火。古路斷&CB15156;。文生慧&CB08504;。山前水牯。信步騎歸。雖曰
+<lb ed="X" n="0468b23"/>暫時岐路。是謂不芒者也。</p>
+<lb ed="X" n="0468b24"/><p id="pX65p0468b2401" rend="margin-left:1em">崇禎歲次甲戌秋中日題於棠溪之淨業樓中</p></div1>
+<pb ed="X" id="X65.1294.0468c" n="0468c"/>
+<lb ed="X" n="0468c01"/>
+<lb ed="X" n="0468c02"/>
+<lb ed="X" n="0468c03"/>
+<lb ed="X" n="0468c04"/>
+<lb ed="X" n="0468c05"/><div1 type="other"><mulu type="其他" level="1" label="溈山警策註"/><head type="no">No. 1294</head>
+<lb ed="X" n="0468c06"/><juan fun="open" n="001"><mulu type="卷" n="1"/><jhead>溈山大圓禪師警策</jhead></juan>
+<lb ed="X" n="0468c07"/>
+<lb ed="X" n="0468c08"/><byline type="other">金山比丘　大香　註</byline></div1>
+<lb ed="X" n="0468c09"/><div1 type="commentary"><p id="pX65p0468c0901" rend="margin-left:1em">溈山。在長沙府之寧鄉。一名大溈山。周百四十里。
+<lb ed="X" n="0468c10"/>溈水出焉。故名。禪師諱&CB06702;祐。<app><lem wit="【CBETA】" resp="CBETA.maha">諡</lem><rdg wit="【卍續】">謚</rdg></app>大圓。本福州長溪
+<lb ed="X" n="0468c11"/>趙氏子。得法於百丈和尚。典饌會中。因司馬頭陀
+<lb ed="X" n="0468c12"/>&CB00528;得是山。機下踢翻淨瓶。住山十有餘載。後得仰
+<lb ed="X" n="0468c13"/>山惠寂。相與振發其道。故稱溈仰宗。自心清淨名
+<lb ed="X" n="0468c14"/>之禪。萬有作則為之師。警則警其不勤。&CB15081;則&CB15081;其
+<lb ed="X" n="0468c15"/>不進。</p></div1>
+<lb ed="X" n="0468c16"/><div1 type="orig"><p id="pX65p0468c1601">夫業繫受身。未免形累。</p></div1>
+<lb ed="X" n="0468c17"/><div1 type="commentary"><p id="pX65p0468c1701" rend="margin-left:1em">總論有情性體。本來清淨。皆由無明不覺。起念相
+<lb ed="X" n="0468c18"/>續。遂有惑業煩惱。未免繫縛。因而感受此身。乃為
+<lb ed="X" n="0468c19"/>四大所累。</p></div1>
+<lb ed="X" n="0468c20"/><div1 type="orig"><p id="pX65p0468c2001">稟父母之遺體。假眾緣而共成。</p></div1>
+<lb ed="X" n="0468c21"/><div1 type="commentary"><p id="pX65p0468c2101" rend="margin-left:1em">此明中陰投胎。顛倒想成。三緣和合。漸成遺體。眾
+<lb ed="X" n="0468c22"/>緣。謂父母<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>三。及煖息識。方乃得生。</p></div1>
+<lb ed="X" n="0468c23"/><div1 type="orig"><p id="pX65p0468c2301">雖乃四大扶持。常相違背。</p></div1>
+<lb ed="X" n="0468c24"/><div1 type="commentary"><p id="pX65p0468c2401" rend="margin-left:1em">四大。即地水火風。扶持此身。常相違背者。金光明
+<pb ed="X" id="X65.1294.0469a" n="0469a"/>
+<lb ed="X" n="0469a01"/>經云。地水火風共成身。如四毒&CB00309;居一篋。地水二
+<lb ed="X" n="0469a02"/>蛇多沉下。風火二蛇性輕舉。由此乖違眾病生。斯
+<lb ed="X" n="0469a03"/>等終歸於滅法。隨其業力受身形。云有執有我眾
+<lb ed="X" n="0469a04"/>生。</p></div1>
+<lb ed="X" n="0469a05"/><div1 type="orig"><p id="pX65p0469a0501">無常老病。不與人期。</p></div1>
+<lb ed="X" n="0469a06"/><div1 type="commentary"><p id="pX65p0469a0601" rend="margin-left:1em">無常者。一死二老三病。卒然即至。何有期限。又無
+<lb ed="X" n="0469a07"/>常有二。一者敗壞無常。二者念念無常。</p></div1>
+<lb ed="X" n="0469a08"/><div1 type="orig"><p id="pX65p0469a0801">朝存夕亡。剎那異世。</p></div1>
+<lb ed="X" n="0469a09"/><div1 type="commentary"><p id="pX65p0469a0901" rend="margin-left:1em">佛問沙門。人命在幾間。對曰。數日間。佛言。子未知
+<lb ed="X" n="0469a10"/>道。復問一沙門。人命在幾間。對曰飯食間。佛言。子
+<lb ed="X" n="0469a11"/>未知道。復問一沙門。人命在幾間。對曰。呼吸間。佛
+<lb ed="X" n="0469a12"/>言。善哉子知道矣。九十剎那為一念。念中一剎那。
+<lb ed="X" n="0469a13"/>經九百生滅。異世即來生。</p></div1>
+<lb ed="X" n="0469a14"/><div1 type="orig"><p id="pX65p0469a1401">譬如春霜曉露。倏忽即無。岸樹井藤。豈能長久。</p></div1>
+<lb ed="X" n="0469a15"/><div1 type="commentary"><p id="pX65p0469a1501" rend="margin-left:1em">四義證前剎那異世。一喻春霜易化。二喻曉露易
+<lb ed="X" n="0469a16"/>晞。三喻岸樹易隤。四喻井藤易斷。春霜者。古<note n="0469001" resp="Xuzangjing" place="foot text" type="orig">諸疑詩</note>諸曰。
+<lb ed="X" n="0469a17"/>清露被&CB04439;蘭。凝霜霑野草。朝為美少年。夕暮成醜
+<lb ed="X" n="0469a18"/>老。曉露者。古歌曰。薤上露。何易晞。露晞明朝更復
+<lb ed="X" n="0469a19"/>落。人死一去何時歸。岸樹者。大涅槃云。譬如河邊
+<lb ed="X" n="0469a20"/>臨險之樹。若遇暴風。必當顛墜。人亦如是。臨老險
+<lb ed="X" n="0469a21"/>岸。死風既至。勢不得住。井藤者。經云。如人行於曠
+<lb ed="X" n="0469a22"/>野大火之中。被狂象所逐。見一枯井有樹。樹上有
+<lb ed="X" n="0469a23"/>藤。其人攀藤懸於井中。下有三毒龍。四毒蛇。復有
+<lb ed="X" n="0469a24"/>黑白二鼠。兼相咬藤。四邊毒蜂。有蜜少許。滴於口
+<pb ed="X" id="X65.1294.0469b" n="0469b"/>
+<lb ed="X" n="0469b01"/>中。因貪蜜故。遂忘其苦。夫曠野者。三界也。樹者苦
+<lb ed="X" n="0469b02"/>身。藤者命根。象者無常殺鬼。黑白二鼠是日月。井
+<lb ed="X" n="0469b03"/>者黃泉。三龍三毒。四蛇四大。蜂蜜五欲。因貪財色
+<lb ed="X" n="0469b04"/>等欲。遂忘生死大苦。</p></div1>
+<lb ed="X" n="0469b05"/><div1 type="orig"><p id="pX65p0469b0501">念念迅速。一剎那間。轉息即是來生。何乃晏然空過。</p></div1>
+<lb ed="X" n="0469b06"/><div1 type="commentary"><p id="pX65p0469b0601" rend="margin-left:1em">四句總結上文。一步緊於一步。一云四大常相違
+<lb ed="X" n="0469b07"/>背。二云無常不與人期。三云朝夕剎那異世。四者
+<lb ed="X" n="0469b08"/>春霜曉露等喻。五則念念迅速。只在剎那之間。一
+<lb ed="X" n="0469b09"/>息不轉。即是再生。何得晏安不理。空過一期。前章
+<lb ed="X" n="0469b10"/>至此。名通敘僧俗。向下別敘出家。</p></div1>
+<lb ed="X" n="0469b11"/><div1 type="orig"><p id="pX65p0469b1101">父母不供甘旨。六親固以棄離。</p></div1>
+<lb ed="X" n="0469b12"/><div1 type="commentary"><p id="pX65p0469b1201" rend="margin-left:1em">佛言。父母之心。恩及未形。始自受胎。經於十月。行
+<lb ed="X" n="0469b13"/>住坐臥。受諸苦惱。非口所宣。雖得欲樂。而不生愛。
+<lb ed="X" n="0469b14"/>憂念之心。恒無休息。若產難時。如百千刃。競來屠
+<lb ed="X" n="0469b15"/>割。遂致無常。長養之恩。彌於普天。憐愍之念。廣大
+<lb ed="X" n="0469b16"/>無比。今既出家。一則不能供養二尊肥甘之旨。二
+<lb ed="X" n="0469b17"/>者棄捨伯叔姑姨兄弟之親。</p></div1>
+<lb ed="X" n="0469b18"/><div1 type="orig"><p id="pX65p0469b1801">不能安&CB15131;治國。家業頓捐繼嗣。</p></div1>
+<lb ed="X" n="0469b19"/><div1 type="commentary"><p id="pX65p0469b1901" rend="margin-left:1em">安&CB15131;。謂平天下。治國。謂輔聖君。拋父母家業。絕子
+<lb ed="X" n="0469b20"/>嗣相承。四者不為。意欲何為。</p></div1>
+<lb ed="X" n="0469b21"/><div1 type="orig"><p id="pX65p0469b2101">緬離鄉黨。&CB00663;髮稟師。內勤克念之功。外弘不諍之德。
+<lb ed="X" n="0469b22"/>迥脫塵世。冀期出離。</p></div1>
+<lb ed="X" n="0469b23"/><div1 type="commentary"><p id="pX65p0469b2301" rend="margin-left:1em">緬者遠也。千二百五十家為鄉。五百家為黨。即父
+<lb ed="X" n="0469b24"/>母妻三黨。今言稟師&CB00663;髮。所為何事。內當精勤克
+<pb ed="X" id="X65.1294.0469c" n="0469c"/>
+<lb ed="X" n="0469c01"/>去種子習氣。外宜弘揚水乳無諍之忍德。超曠劫
+<lb ed="X" n="0469c02"/>波之塵勞。斷三界內外之煩惱。</p></div1>
+<lb ed="X" n="0469c03"/><div1 type="orig"><p id="pX65p0469c0301">何乃纔登戒品。便言我是比丘。檀越所須。喫用常住。</p></div1>
+<lb ed="X" n="0469c04"/><div1 type="commentary"><p id="pX65p0469c0401" rend="margin-left:1em">纔登戒品。謂十戒進於二百五十。比丘者如苾芻
+<lb ed="X" n="0469c05"/>五德。一體性柔軟。喻能折伏身語麤獷。二引蔓旁
+<lb ed="X" n="0469c06"/>布。喻傳法度人。連綿不絕。三馨香遠聞。喻戒德芬
+<lb ed="X" n="0469c07"/>馥。為眾所知。四能療眾病。喻能斷煩惱毒害。五不
+<lb ed="X" n="0469c08"/>背日光。喻常向佛日。正為顧名思義。豈可無實稱
+<lb ed="X" n="0469c09"/>賓。檀云施者。越謂超越。由此大施主。越彼貧之海。
+<lb ed="X" n="0469c10"/>所須。即飲食衣服臥具醫藥。常住。名四方僧物。</p></div1>
+<lb ed="X" n="0469c11"/><div1 type="orig"><p id="pX65p0469c1101">不解忖思來處。謂言法爾合供。喫了聚頭喧喧。但說
+<lb ed="X" n="0469c12"/>人間雜話。</p></div1>
+<lb ed="X" n="0469c13"/><div1 type="commentary"><p id="pX65p0469c1301" rend="margin-left:1em">忖思來處。比丘受食。當作五觀。想彼來處。如前四
+<lb ed="X" n="0469c14"/>事供養。乃是在家菩薩。專專身口分中。減省自奉。
+<lb ed="X" n="0469c15"/>惠施伽藍。以求福果。所謂鋤禾日當午。汗滴禾下
+<lb ed="X" n="0469c16"/>土。誰知盤中餐。粒粒皆辛苦。奈何無慚愧僧。漫言
+<lb ed="X" n="0469c17"/>合受彼供。&CB00290;&CB00290;飽啖。兩兩聚頭。但說王論女論賊
+<lb ed="X" n="0469c18"/>論。豈知見道修道證道。</p></div1>
+<lb ed="X" n="0469c19"/><div1 type="orig"><p id="pX65p0469c1901">然則一期&CB01904;樂。不知樂是苦因。</p></div1>
+<lb ed="X" n="0469c20"/><div1 type="commentary"><p id="pX65p0469c2001" rend="margin-left:1em">一期者。或三月半載。長短無定。樂是苦因者。祖云。
+<lb ed="X" n="0469c21"/>受施如受箭。進食如進毒。佛言。譬如世間所須資
+<lb ed="X" n="0469c22"/>生。能為樂因。不知令人生大憂惱。生死之中。一切
+<lb ed="X" n="0469c23"/>皆苦。無有樂相。如妙花莖。毒蛇纏之。有人性愛好
+<lb ed="X" n="0469c24"/>花。不知花莖毒蛇過患。即便前捉。捉<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>蛇螫。螫<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<pb ed="X" id="X65.1294.0470a" n="0470a"/>
+<lb ed="X" n="0470a01"/>命終。凡夫貪五欲花。即為愛毒蛇所螫。命終墮三
+<lb ed="X" n="0470a02"/>惡道。</p></div1>
+<lb ed="X" n="0470a03"/><div1 type="orig"><p id="pX65p0470a0301">曩劫&CB00999;塵。未&CB00573;返省。</p></div1>
+<lb ed="X" n="0470a04"/><div1 type="commentary"><p id="pX65p0470a0401" rend="margin-left:1em">曩向也。劫者時之極短名剎那。時之極長名劫波。
+<lb ed="X" n="0470a05"/>眾生從無量劫來。根&CB00999;六塵。心無返省。</p></div1>
+<lb ed="X" n="0470a06"/><div1 type="orig"><p id="pX65p0470a0601">時光淹沒。歲月蹉跎。受用殷繁。施利濃厚。</p></div1>
+<lb ed="X" n="0470a07"/><div1 type="commentary"><p id="pX65p0470a0701" rend="margin-left:1em">時光。即光陰。歲月。即年歲。淹沒謂唐喪。蹉跎謂懈
+<lb ed="X" n="0470a08"/>怠。殷繁濃厚。謂享用過度。</p></div1>
+<lb ed="X" n="0470a09"/><div1 type="orig"><p id="pX65p0470a0901">動經年載。不擬棄離。積聚滋多。保持幻質。</p></div1>
+<lb ed="X" n="0470a10"/><div1 type="commentary"><p id="pX65p0470a1001" rend="margin-left:1em">動著經年累載。不思棄捨厭離。轉積轉聚。愈滋愈
+<lb ed="X" n="0470a11"/>多。保持&CB00980;幻之形質。欲得長年以受用。愚無慧性
+<lb ed="X" n="0470a12"/>妄墮慳貪。</p></div1>
+<lb ed="X" n="0470a13"/><div1 type="orig"><p id="pX65p0470a1301">導師有&CB00330;。戒勗比丘。進道嚴身。三常不足。人多於此。
+<lb ed="X" n="0470a14"/>&CB00361;味不休。日往月來。颯然白首。</p></div1>
+<lb ed="X" n="0470a15"/><div1 type="commentary"><p id="pX65p0470a1501" rend="margin-left:1em">六道眾生。淪於生死長夜。盲無慧目。我佛性天晃
+<lb ed="X" n="0470a16"/>朗。引出昏衢。故稱導師。敕誡&CB00330;。勗勉勗。三常不足。
+<lb ed="X" n="0470a17"/>一衣。以捨好飾。著壞色衣。二食。趣得支身。以除饑
+<lb ed="X" n="0470a18"/>渴。三睡眠。修習善法。無令失時。今反&CB00361;味三事不
+<lb ed="X" n="0470a19"/>止。忽焉老至。一生蹉過。</p></div1>
+<lb ed="X" n="0470a20"/><div1 type="orig"><p id="pX65p0470a2001">後學未聞旨趣。應須&CB00397;問先知。將謂出家。貴求衣食。</p></div1>
+<lb ed="X" n="0470a21"/><div1 type="commentary"><p id="pX65p0470a2101" rend="margin-left:1em">旨趣。謂宗通玄學。亦戒定慧也。後進未聞。應求先
+<lb ed="X" n="0470a22"/>達。廣&CB00397;詳問。豈可謂言捨俗出家。霑霑乎身衣口
+<lb ed="X" n="0470a23"/>食而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。佛言三種出家。下出家。以十戒為本。雖捨
+<lb ed="X" n="0470a24"/>眷屬。因緣執作於俗人等。中出家。捨執作緣。具受
+<pb ed="X" id="X65.1294.0470b" n="0470b"/>
+<lb ed="X" n="0470b01"/>八萬四千向道因緣。身口意業。未能具足清淨。心
+<lb ed="X" n="0470b02"/>結猶存。未及出要。上出家。根心猛利。應捨結使纏
+<lb ed="X" n="0470b03"/>縛。禪定慧力。心得解脫。出於緣務煩惱之家。</p></div1>
+<lb ed="X" n="0470b04"/><div1 type="orig"><p id="pX65p0470b0401">佛先制律。啟創發蒙。軌則威儀。淨如&CB00457;雪。止持作犯。
+<lb ed="X" n="0470b05"/>束斂初心。微細條章。革諸猥弊。</p></div1>
+<lb ed="X" n="0470b06"/><div1 type="commentary"><p id="pX65p0470b0601" rend="margin-left:1em">律者。且指出家五眾之戒。謂比丘。比丘尼。沙彌。沙
+<lb ed="X" n="0470b07"/>彌尼。式叉摩那也。創者。謂隨事漸至良模也。制色
+<lb ed="X" n="0470b08"/>未制其心。守<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>未能旁兼。故曰發蒙。三千威儀。八
+<lb ed="X" n="0470b09"/>萬細行。可軌可則。如&CB00457;如雪。止持。謂七支清淨。作
+<lb ed="X" n="0470b10"/>犯。謂五篇缺破。條章猥弊。具如僧祇等部。</p></div1>
+<lb ed="X" n="0470b11"/><div1 type="orig"><p id="pX65p0470b1101">毗尼法席。曾未叨陪。了義上乘。豈能甄別。可惜一生
+<lb ed="X" n="0470b12"/>空過。後悔難追。</p></div1>
+<lb ed="X" n="0470b13"/><div1 type="commentary"><p id="pX65p0470b1301" rend="margin-left:1em">毗尼。即律部。叨陪謂依止。了義即上乘頓法。不同
+<lb ed="X" n="0470b14"/>不了義說。甄別者。甄明辨別大小教理。不修則空
+<lb ed="X" n="0470b15"/>過。臨終名後悔。</p></div1>
+<lb ed="X" n="0470b16"/><div1 type="orig"><p id="pX65p0470b1601">教理未&CB00573;措懷。玄道無因契悟。</p></div1>
+<lb ed="X" n="0470b17"/><div1 type="commentary"><p id="pX65p0470b1701" rend="margin-left:1em">教理。總說三乘十二分教。未&CB00573;安措心懷。玄道。謂
+<lb ed="X" n="0470b18"/>別傳心印。直指單提。亦即菩薩正性離生。不見少
+<lb ed="X" n="0470b19"/>法。永斷習氣。入於如來一切智智。契悟。謂契理悟
+<lb ed="X" n="0470b20"/>心。</p></div1>
+<lb ed="X" n="0470b21"/><div1 type="orig"><p id="pX65p0470b2101">及至年高臘長。空腹高心。不肯親附良朋。惟知倨傲。</p></div1>
+<lb ed="X" n="0470b22"/><div1 type="commentary"><p id="pX65p0470b2201" rend="margin-left:1em">年謂生年。臘謂戒臘。失學惟存空腹。惡習徒自高
+<lb ed="X" n="0470b23"/>心。淑行曰良。同心曰朋。倨傲即高心。</p></div1>
+<lb ed="X" n="0470b24"/><div1 type="orig"><p id="pX65p0470b2401">未諳法律。戢斂全無。或大語高聲。出言無度。不敬上
+<pb ed="X" id="X65.1294.0470c" n="0470c"/>
+<lb ed="X" n="0470c01"/>中下座。婆羅門聚會無殊。&CB00179;&CB00425;作聲。食畢先起。去就
+<lb ed="X" n="0470c02"/>乖角。僧體全無。起坐忪諸。動他心念。不存些些軌則。
+<lb ed="X" n="0470c03"/>小小威儀。將何束斂。後昆新學無因倣傚。</p></div1>
+<lb ed="X" n="0470c04"/><div1 type="commentary"><p id="pX65p0470c0401" rend="margin-left:1em">法律。謂經律論。戢斂。指身口意。二句總說。向下別
+<lb ed="X" n="0470c05"/>開。一者大語高聲。二者出言無有時度。三者不敬
+<lb ed="X" n="0470c06"/>先德。受具五臘名下座。十臘名中座。二十臘名上
+<lb ed="X" n="0470c07"/>座。戒經云。我佛法中。先受戒者在前坐。後受戒者
+<lb ed="X" n="0470c08"/>在後坐。莫如外道癡人。坐無次第。即婆羅門法也。
+<lb ed="X" n="0470c09"/>四者&CB00179;&CB00425;作聲。五者食畢先起。六者去來乖張。如
+<lb ed="X" n="0470c10"/>二角相反。七者僧體全無。僧云和合眾。僧體謂三
+<lb ed="X" n="0470c11"/>義五分六和十善。上酬四重之恩。下濟群生之苦。
+<lb ed="X" n="0470c12"/>向下總結。忪諸麤遽。令他作念。皆因威儀軌則。毫
+<lb ed="X" n="0470c13"/>無半點使然。後昆新學。謂將來法眷。既無&CB00283;尤。何
+<lb ed="X" n="0470c14"/>可束縳。</p></div1>
+<lb ed="X" n="0470c15"/><div1 type="orig"><p id="pX65p0470c1501">纔相覺察。便言我是山僧。未聞佛教行持。一向情存
+<lb ed="X" n="0470c16"/>粗糙。</p></div1>
+<lb ed="X" n="0470c17"/><div1 type="commentary"><p id="pX65p0470c1701" rend="margin-left:1em">凡為僧者。向人自稱某甲。除大知識。方稱貧道。或
+<lb ed="X" n="0470c18"/>稱山僧。今則略通一毫覺察。便爾不肯稱名。皆由
+<lb ed="X" n="0470c19"/>平昔未聞佛理。依行修持。粗而不精。糙而不熟。</p></div1>
+<lb ed="X" n="0470c20"/><div1 type="orig"><p id="pX65p0470c2001">如斯之見。蓋為初心慵惰。饕餮因循。荏苒人間。遂成
+<lb ed="X" n="0470c21"/>&CB00520;野。不覺&CB16380;踵老朽。觸事面牆。</p></div1>
+<lb ed="X" n="0470c22"/><div1 type="commentary"><p id="pX65p0470c2201" rend="margin-left:1em">如斯一句。總結上文。蓋為最初出家。習於懶墮。饕
+<lb ed="X" n="0470c23"/>餮飲食。因循度日。時光荏苒。釀成荒&CB00520;田野之氣
+<lb ed="X" n="0470c24"/>形體老朽。似乎衰竹下垂&CB16380;踵之狀。面牆謂不明
+<pb ed="X" id="X65.1294.0471a" n="0471a"/>
+<lb ed="X" n="0471a01"/>義理無有言說。其猶面牆而立者也。</p></div1>
+<lb ed="X" n="0471a02"/><div1 type="orig"><p id="pX65p0471a0201">後學咨詢。無言接引。縱有言說。不涉典章。或被輕言。
+<lb ed="X" n="0471a03"/>便責後生無禮。瞋心忿起。言語該人。</p></div1>
+<lb ed="X" n="0471a04"/><div1 type="commentary"><p id="pX65p0471a0401" rend="margin-left:1em">所有咨詢義理。無言接引來機。典章謂經典章句。
+<lb ed="X" n="0471a05"/>或者後學有知。受彼輕薄言語。因起瞋恨之心。忿
+<lb ed="X" n="0471a06"/>忿之氣。該人。謂年高臘長。</p></div1>
+<lb ed="X" n="0471a07"/><div1 type="orig"><p id="pX65p0471a0701">一朝臥病在&CB00646;。眾苦縈纏逼迫。曉夕思忖。心裏恛惶。
+<lb ed="X" n="0471a08"/>前路茫茫。未知何往。</p></div1>
+<lb ed="X" n="0471a09"/><div1 type="commentary"><p id="pX65p0471a0901" rend="margin-left:1em">眾苦。謂病衰老衰。財衰親衰。恛惶者。恐怖無宰。前
+<lb ed="X" n="0471a10"/>路謂冥途。五趣茫茫。所往無定。</p></div1>
+<lb ed="X" n="0471a11"/><div1 type="orig"><p id="pX65p0471a1101">從茲始知悔過。臨渴掘井奚為。自恨早不預修。年晚
+<lb ed="X" n="0471a12"/>多諸過咎。</p></div1>
+<lb ed="X" n="0471a13"/><div1 type="commentary"><p id="pX65p0471a1301" rend="margin-left:1em">凡居無水之鄉。預為掘井得濟。若待渴時。雖掘奚
+<lb ed="X" n="0471a14"/>益。修行若不預備。老至惟多過失。</p></div1>
+<lb ed="X" n="0471a15"/><div1 type="orig"><p id="pX65p0471a1501">臨行揮霍。怕怖慞惶。縠穿&CB15179;飛。識心隨業。</p></div1>
+<lb ed="X" n="0471a16"/><div1 type="commentary"><p id="pX65p0471a1601" rend="margin-left:1em">臨行揮霍。即死相現前。種種恐怖。縠穿喻幻身。&CB15179;
+<lb ed="X" n="0471a17"/>飛喻神識。七賢女經云。&CB15179;來入瓶中。以縠覆其口。
+<lb ed="X" n="0471a18"/>縠穿&CB15179;飛去。識心隨業走。識心隨業者。楞嚴經云。
+<lb ed="X" n="0471a19"/>知見每欲留於世間。業運每常遷於國土。</p></div1>
+<lb ed="X" n="0471a20"/><div1 type="orig"><p id="pX65p0471a2001">如人負債。強者先牽。心緒多端。重處偏墜。</p></div1>
+<lb ed="X" n="0471a21"/><div1 type="commentary"><p id="pX65p0471a2101" rend="margin-left:1em">譬如負債之人。寡者必讓多者牽去。今則心中善
+<lb ed="X" n="0471a22"/>惡緒端多種。必從重處先墜。如謂情多想少。流入
+<lb ed="X" n="0471a23"/>橫生。七情三想。身為餓鬼。九情一想。下洞火輪。純
+<lb ed="X" n="0471a24"/>情即沈阿鼻地獄。</p></div1>
+<pb ed="X" id="X65.1294.0471b" n="0471b"/>
+<lb ed="X" n="0471b01"/><div1 type="orig"><p id="pX65p0471b0101">無常殺鬼。念念不停。命不可延。時不可待。</p></div1>
+<lb ed="X" n="0471b02"/><div1 type="commentary"><p id="pX65p0471b0201" rend="margin-left:1em">無常殺鬼。謂閻羅使者<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>至。一念不得停留。命不。</p></div1>
+<lb ed="X" n="0471b03"/><div1 type="orig"><p id="pX65p0471b0301">可稍延。時不可少待。亦非錢財勢力。可以轉致
+<lb ed="X" n="0471b04"/>人天三有。應未免之。如是受身。非論劫數。感傷嘆訝。
+<lb ed="X" n="0471b05"/>哀哉切心。豈可緘言。&CB15325;相警&CB15081;。</p></div1>
+<lb ed="X" n="0471b06"/><div1 type="commentary"><p id="pX65p0471b0601" rend="margin-left:1em">人天。謂人乘天乘。三有。謂欲界色界無色界。未出
+<lb ed="X" n="0471b07"/>輪迴。寧免諸趣。受身復捨身。從劫復至劫。一可感
+<lb ed="X" n="0471b08"/>慨。二可悲傷。三可嘆息。四可驚訝。五實哀哉。六實
+<lb ed="X" n="0471b09"/>切心。豈得緘口無言。正當彼此&CB15081;勵。</p></div1>
+<lb ed="X" n="0471b10"/><div1 type="orig"><p id="pX65p0471b1001">所恨同生像季。去聖時遙。佛法生&CB00520;。人多懈怠。</p></div1>
+<lb ed="X" n="0471b11"/><div1 type="commentary"><p id="pX65p0471b1101" rend="margin-left:1em">像季。謂像法末年。去聖時遙。佛滅度後。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>經三千
+<lb ed="X" n="0471b12"/>餘載。一佛二法三僧。三寶應世生&CB00520;。我人多無精進。</p></div1>
+<lb ed="X" n="0471b13"/><div1 type="orig"><p id="pX65p0471b1301">略伸管見。以曉後來。若不蠲矜。誠難輪逭。</p></div1>
+<lb ed="X" n="0471b14"/><div1 type="commentary"><p id="pX65p0471b1401" rend="margin-left:1em">管見。謂管中窺豹。略見一斑。蠲則蠲除故習。矜則
+<lb ed="X" n="0471b15"/>自矜懈怠。輪逭如車輪旋。有逭方息。向上總說。向
+<lb ed="X" n="0471b16"/>下別敘。</p></div1>
+<lb ed="X" n="0471b17"/><div1 type="orig"><p id="pX65p0471b1701">夫出家者。發足超方。心形異俗。</p></div1>
+<lb ed="X" n="0471b18"/><div1 type="commentary"><p id="pX65p0471b1801" rend="margin-left:1em">今言凡為僧者。從初發足。超越諸方。一形異俗。去
+<lb ed="X" n="0471b19"/>除鬚髮。披服袈裟。二心異俗。煩惱斷除。菩提增長。</p></div1>
+<lb ed="X" n="0471b20"/><div1 type="orig"><p id="pX65p0471b2001">紹隆聖種。震懾魔軍。用報四恩。拔濟三有。若不如此
+<lb ed="X" n="0471b21"/>濫廁僧倫。</p></div1>
+<lb ed="X" n="0471b22"/><div1 type="commentary"><p id="pX65p0471b2201" rend="margin-left:1em">紹隆聖種。即續佛慧命。凡為比丘。三度震懾魔軍。
+<lb ed="X" n="0471b23"/>一剃下周羅。二發菩提心。三了悟無生。四恩。一父
+<lb ed="X" n="0471b24"/>母恩。二眾生恩。三國王恩。四三寶恩。濫廁僧倫。謂
+<pb ed="X" id="X65.1294.0471c" n="0471c"/>
+<lb ed="X" n="0471c01"/>名字出家。無諸實行。</p></div1>
+<lb ed="X" n="0471c02"/><div1 type="orig"><p id="pX65p0471c0201">言行荒&CB00520;。&CB00980;霑信施。昔年行處。寸步不移。恍惚一生。
+<lb ed="X" n="0471c03"/>將何憑恃。</p></div1>
+<lb ed="X" n="0471c04"/><div1 type="commentary"><p id="pX65p0471c0401" rend="margin-left:1em">言荒&CB00520;不涉典章。行荒&CB00520;不離塵垢。&CB00980;消供具。必
+<lb ed="X" n="0471c05"/>致酬償。下云。形雖異俗。行復同前。恍惚迅速貌。若
+<lb ed="X" n="0471c06"/>非禪淨。何可憑恃。</p></div1>
+<lb ed="X" n="0471c07"/><div1 type="orig"><p id="pX65p0471c0701">況乃堂堂僧相容貌可觀。皆是宿植善根。感斯異報。</p></div1>
+<lb ed="X" n="0471c08"/><div1 type="commentary"><p id="pX65p0471c0801" rend="margin-left:1em">善根異報。皆從持戒忍辱中來。佛言。今世人見歡
+<lb ed="X" n="0471c09"/>喜。前世見人歡喜故。</p></div1>
+<lb ed="X" n="0471c10"/><div1 type="orig"><p id="pX65p0471c1001">便擬端然拱手。不貴寸陰。事業不勤。功果無因克就。
+<lb ed="X" n="0471c11"/>豈可一生空過。抑且來業無裨。</p></div1>
+<lb ed="X" n="0471c12"/><div1 type="commentary"><p id="pX65p0471c1201" rend="margin-left:1em">拱手者。坐享所給。古云。大禹聖人。每惜寸陰。至於
+<lb ed="X" n="0471c13"/>眾人。當惜分陰。裨補也。大寶積云。福德力故今多
+<lb ed="X" n="0471c14"/>順。今多順故放逸生。放逸中無持戒心。以此因緣
+<lb ed="X" n="0471c15"/>入地獄。</p></div1>
+<lb ed="X" n="0471c16"/><div1 type="orig"><p id="pX65p0471c1601">辭親決意披緇。意欲等超何所。曉夕思忖。豈可遷延
+<lb ed="X" n="0471c17"/>過時。心期佛法棟梁。用作後來龜鏡。常以如此。未能
+<lb ed="X" n="0471c18"/>少分相應。</p></div1>
+<lb ed="X" n="0471c19"/><div1 type="commentary"><p id="pX65p0471c1901" rend="margin-left:1em">辭親染服。立志為先。日夜留心。豈容少縱。大器必
+<lb ed="X" n="0471c20"/>然為棟為梁。小器但乎為椽為桷。龜能為斷吉凶。
+<lb ed="X" n="0471c21"/>鏡能為鑑妍醜。如是相應。方名法子。</p></div1>
+<lb ed="X" n="0471c22"/><div1 type="orig"><p id="pX65p0471c2201">出言須涉典章。談說乃傍稽古。形儀挺特。意氣高閒。</p></div1>
+<lb ed="X" n="0471c23"/><div1 type="commentary"><p id="pX65p0471c2301" rend="margin-left:1em">二句謂非法不言。非禮勿動。行作必須考古。毋為
+<lb ed="X" n="0471c24"/>杜撰禪流。三句身持禁戒。顧盻雄毅。四句心存禪
+<pb ed="X" id="X65.1294.0472a" n="0472a"/>
+<lb ed="X" n="0472a01"/>觀。捨離憒&CB00436;。</p></div1>
+<lb ed="X" n="0472a02"/><div1 type="orig"><p id="pX65p0472a0201">遠行要假良朋。數數清於耳目。住止必須擇伴。時時
+<lb ed="X" n="0472a03"/>聞於未聞。故云生我者父母。成我者朋友。</p></div1>
+<lb ed="X" n="0472a04"/><div1 type="commentary"><p id="pX65p0472a0401" rend="margin-left:1em">耳之所聞。目之所&CB00418;。必假良朋雅伴。得清五濁諸
+<lb ed="X" n="0472a05"/>惡。管仲曰。生我者父母。知我者鮑子。</p></div1>
+<lb ed="X" n="0472a06"/><div1 type="orig"><p id="pX65p0472a0601">親附善者。如霧露中行。雖不濕衣。時時有潤。</p></div1>
+<lb ed="X" n="0472a07"/><div1 type="commentary"><p id="pX65p0472a0701" rend="margin-left:1em">霧露行。喻由正法。不濕衣。喻非頓益。時時有潤。喻
+<lb ed="X" n="0472a08"/>獲漸利。頌曰。賢夫染人。如附香熏。進智習善。行成
+<lb ed="X" n="0472a09"/>芳潔。</p></div1>
+<lb ed="X" n="0472a10"/><div1 type="orig"><p id="pX65p0472a1001">狎習惡者。長短知見。曉夕造惡。即目交報。歿後沉淪。
+<lb ed="X" n="0472a11"/>一失人身。萬劫不復。忠言逆耳。豈不銘心者哉。</p></div1>
+<lb ed="X" n="0472a12"/><div1 type="commentary"><p id="pX65p0472a1201" rend="margin-left:1em">惡者。十惡。惡知見。九十六種。造惡。十習因。交報。六
+<lb ed="X" n="0472a13"/>交報。沉淪三途苦。人者仁也。天地之心。五行之端。
+<lb ed="X" n="0472a14"/>五戒全缺。終不復生。故梵摩喻經曰。為清信士。守
+<lb ed="X" n="0472a15"/>仁不殺。知足不盜。貞潔不婬。執信不欺。盡孝不醉。
+<lb ed="X" n="0472a16"/>忠言不易入耳。智者目肯銘心。頌曰。鄙夫染人。如
+<lb ed="X" n="0472a17"/>近臭物。漸迷習非。不覺成惡。向上總勸。向下必須
+<lb ed="X" n="0472a18"/>如此行持。</p></div1>
+<lb ed="X" n="0472a19"/><div1 type="orig"><p id="pX65p0472a1901">便能藻心育德。晦&CB00528;韜名。蘊素精神。喧囂止絕。</p></div1>
+<lb ed="X" n="0472a20"/><div1 type="commentary"><p id="pX65p0472a2001" rend="margin-left:1em">一句洗濯凡心。涵育聖德。二句晦藏&CB05114;跡。韜養時
+<lb ed="X" n="0472a21"/>名。三句蘊藉精神。毋徒發泄。四句斷絕塵囂。永歸
+<lb ed="X" n="0472a22"/>寂滅。</p></div1>
+<lb ed="X" n="0472a23"/><div1 type="orig"><p id="pX65p0472a2301">若欲參禪學道。頓超方便之門。</p></div1>
+<lb ed="X" n="0472a24"/><div1 type="commentary"><p id="pX65p0472a2401" rend="margin-left:1em">禪者。此翻靜慮。即首楞嚴三昧。道乃無上菩提之
+<pb ed="X" id="X65.1294.0472b" n="0472b"/>
+<lb ed="X" n="0472b01"/>道。是法不假方便。一超直入之門。</p></div1>
+<lb ed="X" n="0472b02"/><div1 type="orig"><p id="pX65p0472b0201">心契玄津。研幾精要。決擇深奧。啟悟真源。慱問先知。
+<lb ed="X" n="0472b03"/>親近善友。</p></div1>
+<lb ed="X" n="0472b04"/><div1 type="commentary"><p id="pX65p0472b0401" rend="margin-left:1em">一句先悟後修。二句精研幾要。三句決擇深邃奧
+<lb ed="X" n="0472b05"/>旨。四句啟悟真性本源。五句廣詢明師。六句常依
+<lb ed="X" n="0472b06"/>勝友。</p></div1>
+<lb ed="X" n="0472b07"/><div1 type="orig"><p id="pX65p0472b0701">此宗難得其妙。切須仔細用心。可中頓悟正因。便是
+<lb ed="X" n="0472b08"/>出塵階漸。</p></div1>
+<lb ed="X" n="0472b09"/><div1 type="commentary"><p id="pX65p0472b0901" rend="margin-left:1em">宗即禪宗。妙者&CB00669;刃上事。&CB00457;稜上行。大用天旋。全
+<lb ed="X" n="0472b10"/>機電卷。仔細用心。切忌不得鹵莽。頓悟因中三德
+<lb ed="X" n="0472b11"/>涅槃。出塵果上三德涅槃。</p></div1>
+<lb ed="X" n="0472b12"/><div1 type="orig"><p id="pX65p0472b1201">此則破三界二十五有。內外諸法。盡知不實。從心變
+<lb ed="X" n="0472b13"/>起。悉是假名。</p></div1>
+<lb ed="X" n="0472b14"/><div1 type="commentary"><p id="pX65p0472b1401" rend="margin-left:1em">三界即二十五有。謂四洲。四惡趣。六欲天。梵王天。
+<lb ed="X" n="0472b15"/>四禪。四空。無想天。那含五。因果不忘謂之有。內外
+<lb ed="X" n="0472b16"/>諸法。即界內界外。煩惱爾&CB08504;。本非實法。從心變起
+<lb ed="X" n="0472b17"/>者。本末相資。能所和合。非一非異。方立世間染淨
+<lb ed="X" n="0472b18"/>之相。故曰生死由識心。無眾生可得。昇降屬因緣。
+<lb ed="X" n="0472b19"/>無實我可得。</p></div1>
+<lb ed="X" n="0472b20"/><div1 type="orig"><p id="pX65p0472b2001">不用將心湊泊。但情不附物。物豈礙人。任他法性周
+<lb ed="X" n="0472b21"/>流。莫斷莫續。聞聲見色。蓋為尋常。這邊那邊。應用不
+<lb ed="X" n="0472b22"/>闕。</p></div1>
+<lb ed="X" n="0472b23"/><div1 type="commentary"><p id="pX65p0472b2301" rend="margin-left:1em">此一節文。救世醍醐。依而行之。道在是矣。不用將。</p></div1>
+<lb ed="X" n="0472b24"/><div1 type="orig"><p id="pX65p0472b2401">心湊泊。名為六字明王。向下無非演文而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。若人。</p></div1>
+<pb ed="X" id="X65.1294.0472c" n="0472c"/>
+<lb ed="X" n="0472c01"/><div1 type="commentary"><p id="pX65p0472c0101" rend="margin-left:1em">心不緣物。萬物豈得礙人。古德云。至人除心不除
+<lb ed="X" n="0472c02"/>物。愚人除物不除心。法性周流。謂真常流注。斷亦
+<lb ed="X" n="0472c03"/>不能。續亦不得。聞聲二句。如太阿在握。無容擬議
+<lb ed="X" n="0472c04"/>這邊二句。明鏡當臺。隨所顯現。</p></div1>
+<lb ed="X" n="0472c05"/><div1 type="orig"><p id="pX65p0472c0501">如斯行止。實不枉披法服。亦乃酬報四恩。拔濟三有。
+<lb ed="X" n="0472c06"/>生生若能不退。佛階決定可期。</p></div1>
+<lb ed="X" n="0472c07"/><div1 type="commentary"><p id="pX65p0472c0701" rend="margin-left:1em">此節承上而言。如斯二句自利。亦乃二句利他。修
+<lb ed="X" n="0472c08"/>心但貴不退。名為阿毗&CB02494;致。佛階者。住行向地等
+<lb ed="X" n="0472c09"/>覺妙覺。古佛修行階級。歷然不紊。</p></div1>
+<lb ed="X" n="0472c10"/><div1 type="orig"><p id="pX65p0472c1001">往來三界之賓。出沒為他作則。此之一學。最妙最玄。
+<lb ed="X" n="0472c11"/>但辨肯心。必不相賺。</p></div1>
+<lb ed="X" n="0472c12"/><div1 type="commentary"><p id="pX65p0472c1201" rend="margin-left:1em">此明修道之人。雖有三界往來。正如作客一般。一
+<lb ed="X" n="0472c13"/>者優游自在。二者作他規則。所謂玄而又玄。眾妙
+<lb ed="X" n="0472c14"/>之門。只在當人自肯。佛法豈得賺人。向上專為利
+<lb ed="X" n="0472c15"/>根而說。向下別開中根之法。</p></div1>
+<lb ed="X" n="0472c16"/><div1 type="orig"><p id="pX65p0472c1601">若有中流之士。未能頓超。且於教法留心。溫尋貝葉。</p></div1>
+<lb ed="X" n="0472c17"/><div1 type="commentary"><p id="pX65p0472c1701" rend="margin-left:1em">法運衰微。中根居夥。頓超。即參禪學道。頓悟玄機。
+<lb ed="X" n="0472c18"/>教法。謂經律論三藏。西土用貝葉。此方則竹素。</p></div1>
+<lb ed="X" n="0472c19"/><div1 type="orig"><p id="pX65p0472c1901">精搜義理。傳唱敷揚。接引後來。報佛恩德。時光亦不
+<lb ed="X" n="0472c20"/>&CB00980;棄。必須以此扶持。住止威儀。便是僧中法器。</p></div1>
+<lb ed="X" n="0472c21"/><div1 type="commentary"><p id="pX65p0472c2101" rend="margin-left:1em">一句利<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>。二句利人。三四將此深心奉塵剎。是則
+<lb ed="X" n="0472c22"/>名為報佛恩。五六為主法師。七八為主律師。法器
+<lb ed="X" n="0472c23"/>者。佛法中之瑚璉美器。</p></div1>
+<lb ed="X" n="0472c24"/><div1 type="orig"><p id="pX65p0472c2401">豈不見倚松之葛。上聳千尋。附此勝因。方能廣益。</p></div1>
+<pb ed="X" id="X65.1294.0473a" n="0473a"/>
+<lb ed="X" n="0473a01"/><div1 type="commentary"><p id="pX65p0473a0101" rend="margin-left:1em">松喻佛理。葛喻學人。八尺曰尋。附此最勝之因。能
+<lb ed="X" n="0473a02"/>益最勝之果。</p></div1>
+<lb ed="X" n="0473a03"/><div1 type="orig"><p id="pX65p0473a0301">懇修齋戒。莫謾虧踰。世世生生。殊妙因果。</p></div1>
+<lb ed="X" n="0473a04"/><div1 type="commentary"><p id="pX65p0473a0401" rend="margin-left:1em">一勸持齋。不得虧欠。二勸持戒。無得過踰。如是因。
+<lb ed="X" n="0473a05"/>如是果。非止一世一生。永享殊勝微妙無窮之報。</p></div1>
+<lb ed="X" n="0473a06"/><div1 type="orig"><p id="pX65p0473a0601">不可等閒過日。兀兀度時。可惜光陰。不求昇進。徒消
+<lb ed="X" n="0473a07"/>十方信施。亦乃辜負四恩。積累轉深。心塵易壅。觸途
+<lb ed="X" n="0473a08"/>成滯。人所輕欺。</p></div1>
+<lb ed="X" n="0473a09"/><div1 type="commentary"><p id="pX65p0473a0901" rend="margin-left:1em">前節勸修。此節誠&CB15081;。若然因循自棄。委靡不振。有
+<lb ed="X" n="0473a10"/>負檀越資膏。行人血汗。久積所累轉多。於心塵垢
+<lb ed="X" n="0473a11"/>轉塞。法法不通。人人共鄙。</p></div1>
+<lb ed="X" n="0473a12"/><div1 type="orig"><p id="pX65p0473a1201">古云。彼既丈夫我亦爾。不應自輕而退屈。若不如此。
+<lb ed="X" n="0473a13"/>徒在緇門。荏苒一生。殊無所益。</p></div1>
+<lb ed="X" n="0473a14"/><div1 type="commentary"><p id="pX65p0473a1401" rend="margin-left:1em">此引古語。彼丈夫兮。我丈夫兮。所謂釋迦彌勒。無
+<lb ed="X" n="0473a15"/>非能立志的凡夫。既在法門。當求利益。向上<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>為
+<lb ed="X" n="0473a16"/>勸勉。向下重加勉勵。</p></div1>
+<lb ed="X" n="0473a17"/><div1 type="orig"><p id="pX65p0473a1701">伏望興決烈之志。開特達之懷。舉措看他上流。莫擅
+<lb ed="X" n="0473a18"/>隨於庸鄙。</p></div1>
+<lb ed="X" n="0473a19"/><div1 type="commentary"><p id="pX65p0473a1901" rend="margin-left:1em">決烈。謂決意猛烈。特達。謂豁達大度。上流。即上根
+<lb ed="X" n="0473a20"/>利志。庸鄙。乃庸俗鄙漏。</p></div1>
+<lb ed="X" n="0473a21"/><div1 type="orig"><p id="pX65p0473a2101">今生便須決斷。想料不由別人。息意忘緣。不與諸塵
+<lb ed="X" n="0473a22"/>作對。心空境寂。只為久滯不通。</p></div1>
+<lb ed="X" n="0473a23"/><div1 type="commentary"><p id="pX65p0473a2301" rend="margin-left:1em">今生則不待來生。別人則決在自<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>。一者息意忘。</p></div1>
+<lb ed="X" n="0473a24"/><div1 type="orig"><p id="pX65p0473a2401">塵。為對凡夫而說。二者空寂久滯。為指小乘而言
+<pb ed="X" id="X65.1294.0473b" n="0473b"/>
+<lb ed="X" n="0473b01"/>熱&CB15095;斯文。時時警&CB15081;。強作主宰。莫&CB00999;人情。業果所牽
+<lb ed="X" n="0473b02"/>誠難&CB01799;避。聲和響順。形直影端。因果歷然。豈無憂懼。</p></div1>
+<lb ed="X" n="0473b03"/><div1 type="commentary"><p id="pX65p0473b0301" rend="margin-left:1em">此勸讀熟全章。時時自警自&CB15081;。倘遇惡境。勉強作
+<lb ed="X" n="0473b04"/>主。或有事緣。毋順世情。將來業果成熟。試看誰作
+<lb ed="X" n="0473b05"/>誰受。如響緣聲。如形表影。如斯因果。能不寒心。</p></div1>
+<lb ed="X" n="0473b06"/><div1 type="orig"><p id="pX65p0473b0601">故經云。假使百千劫。所作業不亡。因緣會遇時。果報
+<lb ed="X" n="0473b07"/>還自受。</p></div1>
+<lb ed="X" n="0473b08"/><div1 type="commentary"><p id="pX65p0473b0801" rend="margin-left:1em">因緣果報。如佛在世。波斯匿王。新紹王位。求親於
+<lb ed="X" n="0473b09"/>迦毗羅國釋種之家。時摩訶男婢。所生一女。顏貌
+<lb ed="X" n="0473b10"/>端正。送與匿王。後生一子。名曰琉璃。及年八歲。與
+<lb ed="X" n="0473b11"/>梵志子好苦。詣釋種國。釋氏新搆講堂。擬欲請佛
+<lb ed="X" n="0473b12"/>供養。琉璃至堂。即升師子法座。釋種罵云。此婢生
+<lb ed="X" n="0473b13"/>物。敢入中坐。琉離懷恨。語好苦曰。此諸釋氏。毀我
+<lb ed="X" n="0473b14"/>至此。待後為王。汝當告我。琉離即位。好苦白以前
+<lb ed="X" n="0473b15"/>事。集兵往伐。盡滅釋族。阿難愁苦白佛。正值如來
+<lb ed="X" n="0473b16"/>頭痛。佛告比丘。昔時此城。有捕魚村。城中人皆捕
+<lb ed="X" n="0473b17"/>魚食。池中有二種魚。一日麩。二曰多舌。各懷報怨。
+<lb ed="X" n="0473b18"/>時有一小兒在岸。見魚跳躍而喜。以棒打彼魚頭。
+<lb ed="X" n="0473b19"/>爾時羅閥城人。今釋種是。麩魚琉離是。多舌魚。好
+<lb ed="X" n="0473b20"/>苦是。小兒者。我身是。</p></div1>
+<lb ed="X" n="0473b21"/><div1 type="orig"><p id="pX65p0473b2101">故知三界刑罰。縈絆殺人。努力勤修。莫空過日。深知
+<lb ed="X" n="0473b22"/>過患。方乃相勸行持。願百劫千生。處處同為法侶。</p></div1>
+<lb ed="X" n="0473b23"/><div1 type="commentary"><p id="pX65p0473b2301" rend="margin-left:1em">刑罰即業報。縈絆即所受。惟在勤修。得離諸苦。大
+<lb ed="X" n="0473b24"/>師自言深知惑習過患。方乃文言相勉。自今以往。
+<pb ed="X" id="X65.1294.0473c" n="0473c"/>
+<lb ed="X" n="0473c01"/>若肯行持。剎剎塵塵。為真道侶。</p></div1>
+<lb ed="X" n="0473c02"/><div1 type="orig"><p id="pX65p0473c0201">乃為銘曰。</p></div1>
+<lb ed="X" n="0473c03"/><div1 type="commentary"><p id="pX65p0473c0301" rend="margin-left:1em">銘。誌也。古者盤盂几案。皆有誌銘。時為警勵。以自
+<lb ed="X" n="0473c04"/>撿束。</p></div1>
+<lb ed="X" n="0473c05"/><div1 type="orig"><p id="pX65p0473c0501">幻身夢宅。空中物色。前際無窮。後際寧&CB00018;。</p></div1>
+<lb ed="X" n="0473c06"/><div1 type="commentary"><p id="pX65p0473c0601" rend="margin-left:1em">四大&CB00980;幻為身。三界夢寐為宅。如空中物。妄現成
+<lb ed="X" n="0473c07"/>色。過去為前際。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>受無窮之苦。未來為後際。寧能
+<lb ed="X" n="0473c08"/>&CB00018;就之功。慧眼未開。誠非細事。</p></div1>
+<lb ed="X" n="0473c09"/><div1 type="orig"><p id="pX65p0473c0901">出此沒彼。升沈疲極。未免三輪。何時休息。</p></div1>
+<lb ed="X" n="0473c10"/><div1 type="commentary"><p id="pX65p0473c1001" rend="margin-left:1em">一句此方彼界。出沒無窮。二句天上人間。往還無
+<lb ed="X" n="0473c11"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。三句未免三有輪迴。四句畢竟何時休息。極口
+<lb ed="X" n="0473c12"/>叮嚀。人自著力。</p></div1>
+<lb ed="X" n="0473c13"/><div1 type="orig"><p id="pX65p0473c1301">貪戀世間。陰緣成質。從生至老。一無所得。</p></div1>
+<lb ed="X" n="0473c14"/><div1 type="commentary"><p id="pX65p0473c1401" rend="margin-left:1em">眾生貪戀三世。皆因五陰為緣。成此幻質。有生必
+<lb ed="X" n="0473c15"/>有老。有老必有死。如是一生。究盡以何為得。賊入
+<lb ed="X" n="0473c16"/>空屋。也須親到。</p></div1>
+<lb ed="X" n="0473c17"/><div1 type="orig"><p id="pX65p0473c1701">根本無明。因茲被惑。</p></div1>
+<lb ed="X" n="0473c18"/><div1 type="commentary"><p id="pX65p0473c1801" rend="margin-left:1em">起信云。以依阿賴耶識故。說有無明不覺。而起能
+<lb ed="X" n="0473c19"/>見能現能取境界。起念相續。故說被惑。</p></div1>
+<lb ed="X" n="0473c20"/><div1 type="orig"><p id="pX65p0473c2001">光陰可惜。剎那不測。今生空過。來世窒塞。</p></div1>
+<lb ed="X" n="0473c21"/><div1 type="commentary"><p id="pX65p0473c2101" rend="margin-left:1em">現在當惜光陰。人命在於剎那。今世若不修道。來
+<lb ed="X" n="0473c22"/>生依然窒礙。驗果知因。因明果自善矣。</p></div1>
+<lb ed="X" n="0473c23"/><div1 type="orig"><p id="pX65p0473c2301">從迷至迷。皆因六賊。六道往還。三界匍匐。</p></div1>
+<lb ed="X" n="0473c24"/><div1 type="commentary"><p id="pX65p0473c2401" rend="margin-left:1em">經云。一迷為心。決定惑為色身之內。是為迷中倍
+<pb ed="X" id="X65.1294.0474a" n="0474a"/>
+<lb ed="X" n="0474a01"/>人。旋轉不<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。六賊。謂六根。自劫家寶。匍匐。躑躅貌。</p></div1>
+<lb ed="X" n="0474a02"/><div1 type="orig"><p id="pX65p0474a0201">早訪明師。親近高德。決擇身心。去其荊棘。</p></div1>
+<lb ed="X" n="0474a03"/><div1 type="commentary"><p id="pX65p0474a0301" rend="margin-left:1em">一句教授善知識。二句同行善知識。決擇身三意
+<lb ed="X" n="0474a04"/>三。去其荊棘。長養&CB06702;苗。</p></div1>
+<lb ed="X" n="0474a05"/><div1 type="orig"><p id="pX65p0474a0501">世自浮&CB00980;。眾緣豈逼。研窮法理。以悟為則。</p></div1>
+<lb ed="X" n="0474a06"/><div1 type="commentary"><p id="pX65p0474a0601" rend="margin-left:1em">世間一切&CB00980;浮萬法。但情不附物。物豈逼人。惟在
+<lb ed="X" n="0474a07"/>精研窮究諸法妙理。直至大徹大悟。是為規則。</p></div1>
+<lb ed="X" n="0474a08"/><div1 type="orig"><p id="pX65p0474a0801">心境俱捐。莫記莫憶。六根怡然。行住寂然。</p></div1>
+<lb ed="X" n="0474a09"/><div1 type="commentary"><p id="pX65p0474a0901" rend="margin-left:1em">心六識。境六塵。記現在。憶過未。怡然自得之貌。行
+<lb ed="X" n="0474a10"/>住謂四威儀。心則寂然。口則默然。三業清淨。無功
+<lb ed="X" n="0474a11"/>之功。玄道可<note n="0474001" resp="Xuzangjing" place="foot text" type="orig">人疑入</note>人。</p></div1>
+<lb ed="X" n="0474a12"/><div1 type="orig"><p id="pX65p0474a1201">一心不生。萬法俱息。</p></div1>
+<lb ed="X" n="0474a13"/><div1 type="commentary"><p id="pX65p0474a1301" rend="margin-left:1em">心月孤圓。光吞萬像。光境俱忘。復是何物。寶積云。
+<lb ed="X" n="0474a14"/>菩提心者。本無名字言說。心及眾生。亦復如是。菩
+<lb ed="X" n="0474a15"/>薩然於其中。亦不可得。是名菩提心。萬法俱息者。
+<lb ed="X" n="0474a16"/>菩薩住空平等地。則不見父母姊妹兒息親族知
+<lb ed="X" n="0474a17"/>識怨憎中人。乃至不見陰界諸入。眾生壽命。譬如
+<lb ed="X" n="0474a18"/>&CB00980;空。無有父母兄弟妻子。一切諸法。所云心外無
+<lb ed="X" n="0474a19"/>法。法外無心。心生種種法生。心滅種種法滅。一心
+<lb ed="X" n="0474a20"/>不生。即圓覺云。若人心不妄。現世即菩薩。依而行
+<lb ed="X" n="0474a21"/>之。出三界。破牢籠。成佛作祖。如指諸掌。</p></div1>
+<lb ed="X" n="0474a22"/>
+<lb ed="X" n="0474a23"/><juan fun="close" n="1"><jhead>溈山大圓禪師警&CB15081;<note place="inline">終</note></jhead></juan>
+</body></text></TEI.2>

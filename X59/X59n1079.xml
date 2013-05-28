@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X59n1079.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1079 持誦準提真言法要</title>
+			<author>清 弘贊輯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.8 $ (Big5)<date>$Date: 2009/04/22 09:01:11 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:01:11 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 59, No. 1079 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language id="san-rj">Sanskrit-Ranjana</language>
+			<language id="eng">English</language>
+			<language id="chi">Chinese</language>
+		</langUsage>
+</profileDesc>
+<revisionDesc>
+	<change>
+		<date>2005/06/13 08:44:29</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X59n1079.xml,v $
+Revision 1.8  2009/04/22 09:01:11  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.7  2007/07/11 08:08:47  saywhat
+p0250c10 added RJ-E05C,RJ-E05D,RJ-E05E
+
+Revision 1.6  2007/06/27 03:45:53  saywhat
+p0249a04-p0250c15 added Ranjana
+
+Revision 1.5  2005/11/30 06:34:34  amtbgrace
+modified: 執行全部 mulu.py, 取消自訂目錄的全形括號
+
+Revision 1.4  2005/07/13 09:11:39  eva
+modified: 依 note.txt 修訂 及 目錄檢查修訂
+
+Revision 1.3  2005/06/13 00:49:03  edith
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X59.1079.0248b" n="0248b"/>
+<lb ed="X" n="0248b01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0248b02"/>
+<lb ed="X" n="0248b03"/>
+<lb ed="X" n="0248b04"/>
+<lb ed="X" n="0248b05"/><head type="no">No. 1079</head>
+<lb ed="X" n="0248b06"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>持誦準提真言法要</jhead></juan>
+<lb ed="X" n="0248b07"/>
+<lb ed="X" n="0248b08"/><byline type="collector">廣州寶象林沙門　弘贊在&CB16361;　輯</byline>
+<lb ed="X" n="0248b09"/><div1 type="other"><mulu type="其他" level="1" label="持誦準提真言法要"/><p id="pX59p0248b0901">準提真言。本出七俱胝佛母所說準提陀羅尼經。欲
+<lb ed="X" n="0248b10"/>求世間。出世間。一切事業成就者。依經作法。速獲靈
+<lb ed="X" n="0248b11"/>驗。<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>今法末。人多懈怠。根性鈍劣。及初機行人。依經
+<lb ed="X" n="0248b12"/>修習。三業未淳。不能作諸觀行。心生退怯。遂失菩提
+<lb ed="X" n="0248b13"/>種子。無量功德。故今錄此法要。以便受持。成就勝善。
+<lb ed="X" n="0248b14"/>如經所說。若人纔誦此真言一遍。即生菩提法芽。何
+<lb ed="X" n="0248b15"/>況常能念誦受持。由此善根。速成佛種。無量功德。皆
+<lb ed="X" n="0248b16"/>悉成就。故持明藏經云。若有眾生。作大惡業。無有善
+<lb ed="X" n="0248b17"/>種。於菩提心無由生起。菩提分法。永不獲得。如是之
+<lb ed="X" n="0248b18"/>人。忽遇知識。誦此真言。一歷耳根。重罪減劣。善種即
+<lb ed="X" n="0248b19"/>生。何況恒常持誦。專注精勤。曼茶羅疏云。念如來之
+<lb ed="X" n="0248b20"/>神&CB00057;。心心暗契如來心。誦菩薩之密言。願願冥符菩
+<lb ed="X" n="0248b21"/>薩願。何生死而不出。何涅槃而不得。有斯勝利。故集
+<lb ed="X" n="0248b22"/>此法要。然持誦之法。先須屏息諸緣。發慇重心。生難
+<lb ed="X" n="0248b23"/>遭想。作如是念。從無量劫來。不遇斯法。故輪轉六道。
+<lb ed="X" n="0248b24"/>墮落三途。今此真言。是如來秘密心印。無上法寶。若
+<pb ed="X" id="X59.1079.0248c" n="0248c"/>
+<lb ed="X" n="0248c01"/>不至心誦持。求世間事業。尚不果遂。何況出離苦海。
+<lb ed="X" n="0248c02"/>免生死難。成就無上菩提妙果。作是念<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。至聖像前。
+<lb ed="X" n="0248c03"/>或對鏡壇。正立。作合掌頂禮相。此是準提菩薩最上
+<lb ed="X" n="0248c04"/>項禮印。注心觀想尊容。及緣念十方佛法僧三寶。體
+<lb ed="X" n="0248c05"/>若&CB00980;空。無處不遍。性本常住。無去來動靜之相。然有
+<lb ed="X" n="0248c06"/>感必應。作是念<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。然後稱名頂禮。稱言。</p>
+<lb ed="X" n="0248c07"/><p id="pX59p0248c0701">一心頂禮十方常住三寶。</p><p id="pX59p0248c0711" place="inline" rend="margin-left:1em"><note place="inline">一拜。或三叩。凡作一切法事。皆先敬禮三寶。由三寶
+<lb ed="X" n="0248c08"/>是最吉祥。能離魔障。成就所修故也。稱云</note>。</p>
+<lb ed="X" n="0248c09"/><p id="pX59p0248c0901">一心頂禮毗盧遮那牟尼世尊。</p><p id="pX59p0248c0913" place="inline" rend="margin-left:1em"><note place="inline">一切諸佛。皆有三身。此是本師釋迦牟尼
+<lb ed="X" n="0248c10"/>佛法身之號。佛今現居色界。色究竟天頂</note>。</p><p id="pX59p0248c1017" place="inline" rend="margin-left:1em"><note place="inline">毗盧遮那宮殿。準提佛母。是彼殿內菩薩</note>。</p>
+<lb ed="X" n="0248c11"/><p id="pX59p0248c1101">一心頂禮七俱胝佛母大聖準提菩薩摩訶薩。</p><p id="pX59p0248c1119" place="inline" rend="margin-left:1em"><note place="inline">三拜。此是
+<lb ed="X" n="0248c12"/>本尊故也。梵語俱胝。華言萬億。七十萬億佛。同說此真言。由此&CB00057;能出生諸佛。故云佛母。非女相也</note>。</p>
+<lb ed="X" n="0248c13"/><p id="pX59p0248c1301">一心頂禮毗盧宮殿中八大菩薩摩訶薩。</p><p id="pX59p0248c1317" place="inline" rend="margin-left:1em"><note place="inline">此八菩薩。是準提佛
+<lb ed="X" n="0248c14"/>母眷屬。故常圍繞佛母也</note>。</p>
+<lb ed="X" n="0248c15"/><p id="pX59p0248c1501">禮<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。長跪合掌。至心懺悔。作如是言。</p>
+<lb ed="X" n="0248c16"/><p id="pX59p0248c1601">我弟子某。自從無始以來。身口意三業。所作之罪。今
+<lb ed="X" n="0248c17"/>對十方三寶諸佛菩薩。準提佛母前。發露懺悔。不敢
+<lb ed="X" n="0248c18"/>覆藏。願悉消滅。乃至過去現在未來三世諸佛菩薩。
+<lb ed="X" n="0248c19"/>所修福智圓滿。種種功德。我今皆悉隨喜。或一說。或
+<lb ed="X" n="0248c20"/>三說。由此懺悔。隨喜。能滅罪障。生諸福善也。</p>
+<lb ed="X" n="0248c21"/><p id="pX59p0248c2101">然後結金剛正坐。坐於卑座。即以右足壓左&CB00170;上。以
+<lb ed="X" n="0248c22"/>左右壓右&CB00170;上。或半跏趺。或隨意坐。次結大三昧耶
+<lb ed="X" n="0248c23"/>印。以二手仰掌展舒。將右手在左手上。二大拇指。甲
+<lb ed="X" n="0248c24"/>相拄。安&CB01001;輪下。此印能滅一切狂亂妄念。雜染思惟。
+<pb ed="X" id="X59.1079.0249a" n="0249a"/>
+<lb ed="X" n="0249a01"/>既澄定身心。即觀六道眾生。無始<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>來。於生死海中。
+<lb ed="X" n="0249a02"/>輪迴六趣。願彼眾生。皆發菩提心。行菩薩行。速得出
+<lb ed="X" n="0249a03"/>離。作是念<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。即入淨法界三昧。謂想自身頂上。有一
+<lb ed="X" n="0249a04"/>梵書<tt place="inline"><t lang="san-rj">&RJ-CCEB;</t><t lang="chi">&CB00771;</t></tt>字。此字遍有光明。猶如明珠。或如滿月。想。</p>
+<lb ed="X" n="0249a05"/><p id="pX59p0249a0501">此字<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。復結金剛拳印。以左手大拇指。捻無名指根
+<lb ed="X" n="0249a06"/>第一節。餘四指握拇指作拳。此印能除內外障染。一
+<lb ed="X" n="0249a07"/>切魔事。成就一切功德。右手持數珠。口誦淨法界真
+<lb ed="X" n="0249a08"/>言二十一遍。真言曰。</p>
+<lb ed="X" n="0249a09"/><p id="pX59p0249a0901" type="dharani">唵。&CB00771;<note place="inline">唵字。喉中&CB01769;聲呼。&CB00771;字彈舌道之。亦作&CB17267;字</note></p>
+<lb ed="X" n="0249a10"/><p id="pX59p0249a1001">此淨法界&CB00771;字。若想若誦。能令三業。悉皆清淨。一切
+<lb ed="X" n="0249a11"/>罪障。盡得消除。又能成辦一切勝事。隨所住處。悉得
+<lb ed="X" n="0249a12"/>清淨。衣服未浣。便成淨衣。身未澡浴。便當澡浴。若用
+<lb ed="X" n="0249a13"/>水作淨。不誦此&CB00057;。不名真淨。若用此法界心&CB00771;字淨
+<lb ed="X" n="0249a14"/>之。即名畢竟清淨瓶。如靈丹一粒。點銕成金。故知真
+<lb ed="X" n="0249a15"/>言一字。變染令淨<note place="inline">若實無水洗浴。缺新淨衣。用此&CB00771;字淨之。若有水有淨衣。而不洗換。
+<lb ed="X" n="0249a16"/>託此為淨。是無敬信懈怠之人。何能滅罪生福。成就所求之願。若先以水如法洗盥。用淨土或&CB01926;。再三洗手<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。
+<lb ed="X" n="0249a17"/>著淨衣服。更用此真言淨之。則內外俱成清淨。所祈速獲靈驗</note>。</p>
+<lb ed="X" n="0249a18"/><p id="pX59p0249a1801">次結本經無能勝菩薩印。辟除一切諸魔惡鬼神等。
+<lb ed="X" n="0249a19"/>遠走而去。二手右壓左。內相&CB01415;。作拳。&CB00594;二中指。頭相
+<lb ed="X" n="0249a20"/>合。以印繞身右旋一&CB00038;。誦&CB00057;一遍。如是至三。真言曰。</p>
+<lb ed="X" n="0249a21"/><p id="pX59p0249a2101" type="dharani">曩莫三滿多。沒&CB00499;<note place="inline">引</note>喃。唵。戶嚕戶嚕。戰拏哩。麼<note place="inline">引</note>蹬
+<lb ed="X" n="0249a22"/>耆。娑&CB00085;<note place="inline">二合</note><note place="inline">引</note>賀<note place="inline">引○凡口傍字。皆彈舌道之</note></p>
+<lb ed="X" n="0249a23"/><p id="pX59p0249a2301">此真言辟除諸障。能成就一切事業。有以文殊菩薩
+<lb ed="X" n="0249a24"/>一字&CB00057;王護身。然其梵音是一字。此方或作二合齒
+<pb ed="X" id="X59.1079.0249b" n="0249b"/>
+<lb ed="X" n="0249b01"/>&CB01236;。或作三合叱哩陵。或作四合叱洛呬&CB08504;。若不善梵
+<lb ed="X" n="0249b02"/>音者。實難得其真妙。故依本經無能勝&CB00057;印。易為持
+<lb ed="X" n="0249b03"/>誦也。</p>
+<lb ed="X" n="0249b04"/><p id="pX59p0249b0401">次誦加持數珠真言七遍。以二手捧珠當心。&CB00057;曰。</p>
+<lb ed="X" n="0249b05"/><p id="pX59p0249b0501" type="dharani">唵。吠盧<note place="inline">引</note>遮那<note place="inline">引</note>。摩羅娑&CB00085;<note place="inline">二合</note><note place="inline">引</note>賀<note place="inline">引</note></p>
+<lb ed="X" n="0249b06"/><p id="pX59p0249b0601">加持珠<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。心口作如是願言。我今欲念誦。惟願本尊。
+<lb ed="X" n="0249b07"/>諸佛菩薩。加持護念。令速如意。所求圓滿。然後以左
+<lb ed="X" n="0249b08"/>手無名指承珠。大拇指壓珠上。右手以無名指承珠。
+<lb ed="X" n="0249b09"/>大指移珠。餘三指微屈。當於心前。澄心觀想準提佛
+<lb ed="X" n="0249b10"/>母。眷屬圍繞。了了分明對坐。誦準提真言時。其聲不
+<lb ed="X" n="0249b11"/>緩不急。心緣梵音。字字分明。惟令自聞。不可高聲。如
+<lb ed="X" n="0249b12"/>降魔辟鬼。方乃高聲。每稱娑&CB00085;賀字。同時移過一珠。
+<lb ed="X" n="0249b13"/>或誦一百八遍。或誦一千八十遍。常須定限。不得缺
+<lb ed="X" n="0249b14"/>減。若務忙者。誦一百八遍<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。後隨意散持之亦得。或
+<lb ed="X" n="0249b15"/>結根本大印。於菩薩臂上記數念誦誦畢。頂上散印。
+<lb ed="X" n="0249b16"/>其印二手內相叉。&CB00594;二中指。頭相著。以二頭指。捻二
+<lb ed="X" n="0249b17"/>中指背上第一節。二大指。側附二頭指根下。即成根
+<lb ed="X" n="0249b18"/>本印。若一百八遍滿<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。不能多記者。可以左手作金
+<lb ed="X" n="0249b19"/>剛拳印。右手持珠念誦。真言曰。</p>
+<lb ed="X" n="0249b20"/><p id="pX59p0249b2001" type="dharani">曩謨颯多<note place="inline">引</note>喃<note place="inline">引</note><note place="inline">一</note>三藐三沒&CB00499;<note place="inline">引</note>俱<note place="inline">引</note>胝喃<note place="inline">引</note><note place="inline">二</note>怛你
+<lb ed="X" n="0249b21"/>也<note place="inline">二合</note>他<note place="inline">引</note><note place="inline">三</note>唵<note place="inline">四</note>者禮<note place="inline">五</note>主禮<note place="inline">六</note>準泥<note place="inline">七</note>娑&CB00085;<note place="inline">二合</note><note place="inline">引</note>賀
+<lb ed="X" n="0249b22"/><note place="inline">引</note><note place="inline">八</note></p><p id="pX59p0249b2203" place="inline">○<note place="inline">此真言八句。上二句。是歸敬諸佛之辭第三句。是當說&CB00057;之語。後五句。正是&CB00057;體。其中多喃三
+<lb ed="X" n="0249b23"/>禮娑&CB00085;賀字。皆去聲呼之。唵字如前呼。者字入聲呼。亦作左字入聲呼。主字亦作&CB03310;。準字亦作噂。泥字亦作&CB06171;。
+<lb ed="X" n="0249b24"/>提第。禰然此本&CB00057;之字。當作北音呼之。若非口授。難得其妙。言引者。謂長引其聲。二合者。謂二字合為一音。有
+<pb ed="X" id="X59.1079.0249c" n="0249c"/>
+<lb ed="X" n="0249c01"/>以娑&CB00085;賀下。兼誦佛頂大輪一字明王&CB00057;。所謂部林字。此二字合為一音。或作部隴。亦作&CB01835;&CB04304;。不空三藏云。勃
+<lb ed="X" n="0249c02"/>嚕唵。三字合為一字。嚕字。彈舌道之。共為一音。又引聲從胸喉中出。其聲如擊大鼓。古譯云部林。訛不正也。如
+<lb ed="X" n="0249c03"/>此。則梵音難得其真。或有準提真言前。誦六字大明真言。然其六字。亦于梵音難正。故今皆不錄。彼經云。若持
+<lb ed="X" n="0249c04"/>誦餘一切&CB00057;不成就者。用此一字真言。共餘&CB00057;一處同誦之。決定成就。今行者。專心一意。持誦本準提真言。自
+<lb ed="X" n="0249c05"/>得成就。何假他法。若雜別&CB00057;。梵音不真。反成誤緣也</note>。</p>
+<lb ed="X" n="0249c06"/><p id="pX59p0249c0601">此真言。有大勢力。若求菩提三乘聖果。往生十方世
+<lb ed="X" n="0249c07"/>界。承事諸佛。及求智慧。男女。福祿。官位等。無不稱意。
+<lb ed="X" n="0249c08"/>若欲速得靈驗。當依本經作法。斷除酒肉葷辛。如或
+<lb ed="X" n="0249c09"/>隨時獲益。滅罪生福。在家不能全斷酒肉妻妾。五辛
+<lb ed="X" n="0249c10"/>必須斷絕。可於十齋日受持八戒。而持誦之。非十齋
+<lb ed="X" n="0249c11"/>日。早起盥洗清淨。一心誦持。亦能增長福壽。除諸災
+<lb ed="X" n="0249c12"/>患。良由末代凡夫。酒肉妻妾。以為常業。雖聞佛戒。習
+<lb ed="X" n="0249c13"/>性難改。若不用此大不思議神&CB00057;救拔。何由得出生
+<lb ed="X" n="0249c14"/>死苦海。縱不齋戒。亦獲成就。況有齋戒清淨。依法持
+<lb ed="X" n="0249c15"/>誦者。而不速得如願乎。或有年老衰邁。氣力短少。不
+<lb ed="X" n="0249c16"/>能誦上淨法界真言。無能勝真言等。便可專持此準
+<lb ed="X" n="0249c17"/>提真言亦得。又不能全誦八句者。初當先誦三遍。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0249c18"/>後但從唵字起。誦下九字亦得。又或不能結準提大
+<lb ed="X" n="0249c19"/>印。即初誦三遍結之。後以兩手移數珠誦之。或左手
+<lb ed="X" n="0249c20"/>作金剛拳誦之。又凡誦&CB00057;畢。&CB00230;用金剛拳印。誦吽字
+<lb ed="X" n="0249c21"/>真言。而印五處。先印額上。次印右肩。次印左肩。次印
+<lb ed="X" n="0249c22"/>心上。後印&CB15287;上。一誦一印。印竟。於頂上散印。然凡持
+<lb ed="X" n="0249c23"/>誦。不可在不同志無信心人前。令其輕笑。獲罪無量。
+<lb ed="X" n="0249c24"/>又每日持誦。時須定限。若一時持。即當早晨。若二時
+<pb ed="X" id="X59.1079.0250a" n="0250a"/>
+<lb ed="X" n="0250a01"/>持。則兼夜靜。若三時持。則加正午。如務忙者。不能依
+<lb ed="X" n="0250a02"/>時。但有暇時。即便持之。若欲成就鏡壇者。可取一新
+<lb ed="X" n="0250a03"/>鏡。未曾用者。淨洗<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。於佛像前。隨月十五日夜。面向
+<lb ed="X" n="0250a04"/>東方。置鏡座前。隨力莊嚴供養。具諸香花。燈燭果蓏
+<lb ed="X" n="0250a05"/>淨水。然後結根本大印。當於心前。誦準提真言。&CB00057;鏡
+<lb ed="X" n="0250a06"/>一百八遍。以錦囊盛鏡。常將隨行。每欲念誦。但以鏡
+<lb ed="X" n="0250a07"/>壇置於面前。結印誦&CB00057;。若無鏡者。但觀想一鏡。在前
+<lb ed="X" n="0250a08"/>持誦亦得。或不能觀想者。但一心專注念誦亦得。龍
+<lb ed="X" n="0250a09"/>樹菩薩以偈讚曰。</p>
+<lb ed="X" n="0250a10"/><lg id="lgX59p0250a1001"><l>準提功德聚</l><l>寂靜心常誦</l><l>一切諸大難</l>
+<lb ed="X" n="0250a11"/><l>無能侵是人</l><l>天上及人間</l><l>受福如佛等</l>
+<lb ed="X" n="0250a12"/><l>遇斯如意珠</l><l>定獲無等等<note place="inline">若欲其詳。當閱準提會釋</note></l></lg></div1>
+<lb ed="X" n="0250a13"/>
+<lb ed="X" n="0250a14"/>
+<lb ed="X" n="0250a15"/>
+<lb ed="X" n="0250a16"/><div1 type="other"><mulu type="其他" level="1" label="附供齋儀"/><head>○附供齋儀</head>
+<lb ed="X" n="0250a17"/><p id="pX59p0250a1701">凡修真言。行者。須當隨力供養三寶。如或慳&CB00385;。福慧
+<lb ed="X" n="0250a18"/>難增。真言不獲感應。故云。修慧不修福。入道多辛苦。
+<lb ed="X" n="0250a19"/>福慧兩兼修。方能成佛祖。當具香花燈燭果蓏蔬儀。
+<lb ed="X" n="0250a20"/>務令淨潔。盛於淨器。加以真言神&CB00057;力故。自然遍供
+<lb ed="X" n="0250a21"/>十方法界。無盡佛法僧三寶。如上禮諸佛菩薩本尊
+<lb ed="X" n="0250a22"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。長跪。手擎香爐。口誦偈云。</p>
+<lb ed="X" n="0250a23"/><p id="pX59p0250a2301">願此妙香雲。&CB00642;滿十方界。供養一切佛。尊法諸賢聖。
+<lb ed="X" n="0250a24"/>無邊佛土中。受用作佛事。</p>
+<pb ed="X" id="X59.1079.0250b" n="0250b"/>
+<lb ed="X" n="0250b01"/><p id="pX59p0250b0101">誦<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。置爐案上。叩首起立。然後結普通吉祥印。以右
+<lb ed="X" n="0250b02"/>手拇指。與無名指相捻。餘三指散舒。誦淨法界真言
+<lb ed="X" n="0250b03"/>加持二十一遍。一誦。一印飲食上。真言曰。</p>
+<lb ed="X" n="0250b04"/><p id="pX59p0250b0401" type="dharani"><tt place="inline"><t lang="chi">&CB00771;</t><t lang="san-rj">&RJ-CCEB;</t></tt><note place="inline">想此字。放白色光明。印一切供物上。即無穢觸</note></p>
+<lb ed="X" n="0250b05"/><p id="pX59p0250b0501">由此真言加持。及手印力。其香花飲食器物等。自然
+<lb ed="X" n="0250b06"/>清淨。遍於法界。若更能以無量威德自在光明勝妙
+<lb ed="X" n="0250b07"/>力變食真言。合掌加持二十一遍大善。令諸飲食等。
+<lb ed="X" n="0250b08"/>即變成諸天種種餚&CB00498;上味。奉獻十方無盡三寶。亦
+<lb ed="X" n="0250b09"/>為讚歎。勸請。隨喜。功德。其變食真言。如常可知。但要
+<lb ed="X" n="0250b10"/>梵語音真。如&CB00085;字。即是縛字彈舌道之。如婆字去聲。
+<lb ed="X" n="0250b11"/>囉字。即羅字彈舌道之。不可讀作賴字。吽字。上有虎
+<lb ed="X" n="0250b12"/>字。二字合為一音合口呼。如牛吼聲。次結出生供養
+<lb ed="X" n="0250b13"/>印。二手外相叉合掌。十指各兩節相交。安在頂上。誦
+<lb ed="X" n="0250b14"/>出生供養真言二十一遍。真言曰。</p>
+<lb ed="X" n="0250b15"/><p id="pX59p0250b1501" type="dharani"><tt place="inline"><t lang="chi">唵</t><t lang="san-rj">&RJ-CCBA;</t></tt></p>
+<lb ed="X" n="0250b16"/><p id="pX59p0250b1601">由此真言及印不思議力故。自然遍法界。出生無盡
+<lb ed="X" n="0250b17"/>香花燈燭。幢旛寶&CB00582;。衣服臥具。樓閣音樂等。種種供
+<lb ed="X" n="0250b18"/>具。供養遍法界無量三寶等。倘無飲食等。但於佛前
+<lb ed="X" n="0250b19"/>運想飲食供具等。結印誦&CB00057;。亦自然出生如上種種
+<lb ed="X" n="0250b20"/>供具。供養法界三寶。若不能日日具諸飲食等。可於
+<lb ed="X" n="0250b21"/>十齋日。或朔望日。或每月十五日。復無力辦。可於正
+<lb ed="X" n="0250b22"/>五九朔望日。或佛&CB16080;。及成道日。然準提。是法身菩薩。
+<lb ed="X" n="0250b23"/>無有&CB16080;日。今世人云五月初十日是&CB16080;。隨世俗設供。
+<lb ed="X" n="0250b24"/>亦獲功德。然須知其本末。也近有夢授準提懺法。此
+<pb ed="X" id="X59.1079.0250c" n="0250c"/>
+<lb ed="X" n="0250c01"/>訛謬也。觀其所述。乃竊密部中菩薩之名。復加偽號。
+<lb ed="X" n="0250c02"/>妄圖其像。大違經旨。然準提經數譯。皆無懺名。尋彼
+<lb ed="X" n="0250c03"/>經中。懺悔。隨喜。勸請。迴向。發願。五悔法。即是懺也。智
+<lb ed="X" n="0250c04"/>者詳之。</p></div1>
+<lb ed="X" n="0250c05"/>
+<lb ed="X" n="0250c06"/><juan fun="close" n="1"><jhead>受持準提真言法要<note place="inline">終</note></jhead></juan>
+<lb ed="X" n="0250c07"/>
+<lb ed="X" n="0250c08"/><div1 type="w"><head>音釋</head>
+<lb ed="X" n="0250c09"/><p id="pX59p0250c0901">真言梵書</p>
+<lb ed="X" n="0250c10"/><div2 type="note"><entry><form><tt place="inline"><t lang="san-rj"><app><lem resp="CBETA.say" wit="【CBETA】">&RJ-CBED;</lem><rdg wit="【卍續】">&RJ-E05C;</rdg></app></t><t lang="chi">曩</t></tt><tt place="inline"><t lang="san-rj">&RJ-CBE2;</t><t lang="chi">謨</t></tt><tt place="inline"><t lang="san-rj">&RJ-CD64;</t><t lang="chi">颯</t></tt><tt place="inline"><t lang="san-rj">&RJ-CCDF;</t><t lang="chi"><yin><zi>多</zi><sg>引</sg></yin></t></tt><tt place="inline"><t lang="san-rj">&RJ-CBFE;</t><t lang="chi"><yin><zi>南</zi><sg>引</sg></yin></t></tt><note place="inline">一</note><tt place="inline"><t lang="san-rj"><app><lem resp="CBETA.say" wit="【CBETA】">&RJ-CD70;</lem><rdg wit="【卍續】">&RJ-E05D;</rdg></app></t><t lang="chi">三</t></tt><tt place="inline"><t lang="san-rj">&RJ-CBEB;</t><t lang="chi">藐</t></tt><tt place="inline"><t lang="san-rj"><app><lem resp="CBETA.say" wit="【CBETA】">&RJ-CBA2;</lem><rdg wit="【卍續】">&RJ-CEDA;</rdg></app></t><t lang="chi">三</t></tt><tt place="inline"><t lang="san-rj"><app><lem resp="CBETA.say" wit="【CBETA】">&RJ-C973;</lem><rdg wit="【卍續】">&RJ-E05E;</rdg></app></t><t lang="chi">沒</t></tt>
+<lb ed="X" n="0250c11"/><tt place="inline"><t lang="san-rj">&RJ-C9D2;</t><t lang="chi"><yin><zi>&CB00499;</zi><sg>引</sg></yin></t></tt><tt place="inline"><t lang="san-rj">&RJ-CB77;</t><t lang="chi"><yin><zi>俱</zi><sg>引</sg></yin></t></tt><tt place="inline"><t lang="san-rj">&RJ-CE52;</t><t lang="chi">胝</t></tt><tt place="inline"><t lang="san-rj">&RJ-CBFE;</t><t lang="chi">南</t></tt><note place="inline">二</note><tt place="inline"><t lang="san-rj">&RJ-CDD4;</t><t lang="chi">怛</t></tt><tt place="inline"><t lang="san-rj">&RJ-CA5F;</t><t lang="chi"><yin><zi>你也</zi><sg>二合</sg></yin></t></tt><tt place="inline"><t lang="san-rj">&RJ-CDE2;</t><t lang="chi"><yin><zi>他</zi><sg>引</sg></yin></t></tt><note place="inline">三</note>
+<lb ed="X" n="0250c12"/><tt place="inline"><t lang="san-rj">&RJ-CCBA;</t><t lang="chi">唵</t></tt><note place="inline">四</note><tt place="inline"><t lang="san-rj">&RJ-C977;</t><t lang="chi">者</t></tt><tt place="inline"><t lang="san-rj">&RJ-CBC2;</t><t lang="chi">禮</t></tt><note place="inline">五</note><tt place="inline"><t lang="san-rj">&RJ-C9BD;</t><t lang="chi">主</t></tt><tt place="inline"><t lang="san-rj">&RJ-CBC2;</t><t lang="chi">禮</t></tt><note place="inline">六</note><tt place="inline"><t lang="san-rj">&RJ-C9BF;</t><t lang="chi">準</t></tt><tt place="inline"><t lang="san-rj">&RJ-C9D5;</t><t lang="chi">泥</t></tt><note place="inline">七</note><tt place="inline"><t lang="san-rj">&RJ-CDCC;</t><t lang="chi"><yin><zi>娑
+<lb ed="X" n="0250c13"/>&CB00085;</zi><sg>二合</sg><sg>引</sg></yin></t></tt><tt place="inline"><t lang="san-rj">&RJ-CAB0;</t><t lang="chi"><yin><zi>訶</zi><sg>引</sg></yin></t></tt><note place="inline">八</note></form><def><p id="pX59p0250c1308" place="inline">○<note place="inline">此是梵書準提真言。若依經作觀。觀想後九字。布於自身上。即同佛
+<lb ed="X" n="0250c14"/>菩薩能滅一切罪。生一切福</note>。</p></def></entry>
+<lb ed="X" n="0250c15"/><entry><form><term lang="san-rj">&RJ-CCEB;</term></form><def><p id="pX59p0250c1502" place="inline"><note place="inline">此是梵書&CB00771;字。若欲作觀。當觀自頂上<term lang="san-rj">&RJ-CCEB;</term>字。猶如明珠。放白色光。或放赤色光。照自身心。乃至自室。遍及
+<lb ed="X" n="0250c16"/>法界。悉獲清淨</note>。</p></def></entry>
+<lb ed="X" n="0250c17"/><entry><form>八大菩薩</form><def><p id="pX59p0250c1705" place="inline"><note place="inline">一觀自在。二彌勒。三虛空藏。四普賢。五金剛手。六文殊師利。七除&CB00582;障。八地藏菩薩。</note>。</p></def></entry>
+<lb ed="X" n="0250c18"/><entry><form>五辛</form><def><p id="pX59p0250c1803" place="inline"><note place="inline">&CB00024;。蒜。薤。興渠。興渠。葉似蔓青。根似蘿蔔。此方無有。蒜有大小。&CB00024;亦多種。今俗以&CB17232;為齋。訛廖
+<lb ed="X" n="0250c19"/>久矣。不知&CB17232;是&CB00024;之一也。楞嚴經。謂食五辛。有五過失一者。熟食發婬。生啖增瞋。二者。縱能定說十二部經。十
+<lb ed="X" n="0250c20"/>方天仙。縑其奧穢。咸皆遠離。三者。諸餓鬼等。夜來&CB02549;其脣吻。常與鬼住。四者。福德日消。長無利益。五者。十方菩
+<lb ed="X" n="0250c21"/>薩諸天善神。不來守護。大力魔王。得其方便。現作佛身。來為說法。非毀禁戒。讚婬嗔癡。命終自為魔王眷屬。受
+<lb ed="X" n="0250c22"/>魔福盡。墮無間獄</note>。</p></def></entry><entry place="inline"><form>&CB00024;</form><def><p id="pX59p0250c2209" place="inline"><note place="inline">&CB00024;有多種大&CB00024;。小&CB00024;。慈&CB00024;。茖&CB00024;。蘭&CB00024;。冬&CB00024;。春&CB00024;。山&CB00024;。凍&CB00024;。漠&CB00024;。龍用&CB00024;等</note>。</p></def></entry><entry place="inline"><form>&CB01413;</form>
+<lb ed="X" n="0250c23"/><def><p id="pX59p0250c2301"><note place="inline">音九。葷&CB15602;也</note>。</p></def></entry><entry place="inline"><form>薤</form><def><p id="pX59p0250c2307" place="inline"><note place="inline">音械。葷&CB15602;。葉似韭而長太。生山澤中</note>。</p></def></entry><entry place="inline"><form>&CB17232;</form><def><p id="pX59p0250c2322" place="inline"><note place="inline">古弔切。驕去聲。即春&CB00024;。有云。慈&CB00024;是以。以其
+<lb ed="X" n="0250c24"/>葉慈柔故也。亦由古今名異。方上號別。但是葷辛者。悉不應噉也</note>。</p></def></entry><entry place="inline"><form>陀羅尼</form><def><p id="pX59p0250c2429" place="inline"><note place="inline">華言總持。謂總持一
+<pb ed="X" id="X59.1079.0251a" n="0251a"/>
+<lb ed="X" n="0251a01"/>切法門。含攝無盡教。理。行果。又云持善不失。持惡不生。亦云遮持。謂遮斷常二邊之惡。持中道之善。別名真言。
+<lb ed="X" n="0251a02"/>權名為&CB00057;。既含多義。故非名言所能宣釋。實乃毗盧遮那如來大不思議秘密心印也</note>。</p></def></entry><entry place="inline"><form>三途</form><def><p id="pX59p0251a0236" place="inline"><note place="inline">地獄。
+<lb ed="X" n="0251a03"/>餓鬼畜生。</note>。</p></def></entry><entry place="inline"><form>六趣</form><def><p id="pX59p0251a0307" place="inline"><note place="inline">即六道。天。人。阿修羅。并三途</note>。</p></def></entry><entry place="inline"><form>十齋日</form><def><p id="pX59p0251a0321" place="inline"><note place="inline">初一。初八。十四。十五。十八。二十三。二
+<lb ed="X" n="0251a04"/>十四。二十八。二十九。三十。月小二十七日起</note>。</p></def></entry><entry place="inline"><form>囉</form><def><p id="pX59p0251a0419" place="inline"><note place="inline">即羅字彈舌道之。帶邏剌二音。不可讀作賴字</note>。</p></def></entry><entry place="inline"><form>&CB00085;</form>
+<lb ed="X" n="0251a05"/><def><p id="pX59p0251a0501"><note place="inline">或作伐。又作&CB02494;。即縛字轉舌道之。切不可讀作阜音</note>。</p></def></entry></div2></div1>
+</body></text></TEI.2>

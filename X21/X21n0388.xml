@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X21n0388.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 388 彌勒上生經述贊</title>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.5 $ (Big5)<date>$Date: 2009/04/22 08:53:15 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:53:15 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 21, No. 388 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2006/06/30 11:17:09</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X21n0388.xml,v $
+Revision 1.5  2009/04/22 08:53:15  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.4  2007/07/06 03:34:53  eva
+modified: 校注作業完成
+
+Revision 1.3  2007/01/19 09:04:26  eva
+modified: xml 與 cbr 大比對修訂
+
+Revision 1.1  2006/06/30 03:24:10  ray
+basicx 程式 轉自 簡單標記版
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X21.0388.0813c" n="0813c"/>
+<lb ed="X" n="0813c01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0813c02"/><head type="no">No. 388</head>
+<lb ed="X" n="0813c03"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead><note n="0813001" resp="Xuzangjing" place="foot text" type="orig">插入首題○釋宋居士沮渠京聲譯本</note>佛說觀彌勒菩薩上生兜率天經述贊</jhead></juan>
+<lb ed="X" n="0813c04"/>
+<lb ed="X" n="0813c05"/><div1 type="commentary"><p id="pX21p0813c0501" rend="margin-left:1em">拔苦與樂。大慈悲法。大慈以無瞋善根為體。大悲
+<lb ed="X" n="0813c06"/>以無瞋癡為性。此各有三。一有情緣。緣假有情故。
+<lb ed="X" n="0813c07"/>二法緣。不見有情。唯有法故。三無緣。法相亦無。唯
+<lb ed="X" n="0813c08"/>有真理故。或有情緣。緣有情起。法緣。緣十二分教
+<lb ed="X" n="0813c09"/>起。無緣。緣真如起。無所緣故。彌勒慈導萬物。故演
+<lb ed="X" n="0813c10"/>慈悲之法。曇讖云。此寶樹中。亦有金鸞寶鳳白&CB15179;
+<lb ed="X" n="0813c11"/>赤&CB15179;。略而不說。更勘。</p></div1>
+<lb ed="X" n="0813c12"/><div1 type="orig"><p id="pX21p0813c1201">一一垣墻<note place="inline">至</note>厚十四由旬者。</p></div1>
+<lb ed="X" n="0813c13"/><div1 type="commentary"><p id="pX21p0813c1301" rend="margin-left:1em">述云。第四廣垣墻也。垣謂園墻。高六十二由旬者。
+<lb ed="X" n="0813c14"/>顯生彼者逾破六十二見故。厚十四由旬者。表御
+<lb ed="X" n="0813c15"/>摧十四不可記事。應法師云。梵音喻繕那。此云合
+<lb ed="X" n="0813c16"/>也。應計應合爾許廣量。同此方驛也。又解應量。自
+<lb ed="X" n="0813c17"/>古聖王一日行也。傳解雖異。今依藏論。五百弓為
+<lb ed="X" n="0813c18"/>一俱盧舍。八俱盧舍為一踰繕那。今言由旬者。訛
+<lb ed="X" n="0813c19"/>略也。此表生天者。皆超八妄想。是六十二見等之
+<lb ed="X" n="0813c20"/>本故。此四嚴中。初二進行。皆歸一乘。發心證果。有
+<lb ed="X" n="0813c21"/>差別故。次一破瞋癡。濟有情類。後一永離外道耶
+<lb ed="X" n="0813c22"/>見。由此勝用。故重顯之。垣<note place="inline">于煩反</note>四周墻也。釋名云。
+<lb ed="X" n="0813c23"/>垣援之人所依阻。以為援衛也。墻障也。所以自障
+<lb ed="X" n="0813c24"/>蔽也。</p></div1>
+<pb ed="X" id="X21.0388.0814a" n="0814a"/>
+<lb ed="X" n="0814a01"/><div1 type="orig"><p id="pX21p0814a0101">五百億<note place="inline">至</note>圍繞此垣者。</p></div1>
+<lb ed="X" n="0814a02"/><div1 type="commentary"><p id="pX21p0814a0201" rend="margin-left:1em">述云。第三龍王守護有三。初龍守護。次雨寶樹。後
+<lb ed="X" n="0814a03"/>樹說法。此初也。法王都化。天神衛警。恐致外侵。龍
+<lb ed="X" n="0814a04"/>王守護。五百億者。顯內具五力四魔。不能屈伏。外
+<lb ed="X" n="0814a05"/>有龍王。非人不能逼害。內持五戒。諸惡不侵。外感
+<lb ed="X" n="0814a06"/>龍圍。橫&CB00321;自滅。問此龍王為化為實。答曰化龍。問
+<lb ed="X" n="0814a07"/>天宮亦有實龍王不。答曰亦有。但化龍王。無毒害
+<lb ed="X" n="0814a08"/>故。現化莊嚴。此乃是彌勒大悲願力之所示現也。</p></div1>
+<lb ed="X" n="0814a09"/><div1 type="orig"><p id="pX21p0814a0901">一一龍王<note place="inline">至</note>莊嚴垣上者。</p></div1>
+<lb ed="X" n="0814a10"/><div1 type="commentary"><p id="pX21p0814a1001" rend="margin-left:1em">述云。此次雨寶樹也。因五根起七財。故感龍王雨
+<lb ed="X" n="0814a11"/>樹。嚴&CB00496;七聖財者。信。戒。聞。捨。慧。慚。愧。廣如顯揚論。</p></div1>
+<lb ed="X" n="0814a12"/><div1 type="orig"><p id="pX21p0814a1201">自然有風<note place="inline">至</note>諸波羅蜜者。</p></div1>
+<lb ed="X" n="0814a13"/><div1 type="commentary"><p id="pX21p0814a1301" rend="margin-left:1em">述云。此後樹說法也。風喻大慈悲。任運吹擊真俗。
+<lb ed="X" n="0814a14"/>智樹棠觸。談演如是等法。所謂一切有漏。逼迫自
+<lb ed="X" n="0814a15"/>性。皆苦所執。法體都無名空。有為起盡。遷流生滅。
+<lb ed="X" n="0814a16"/>無總自體。常一實我。由此能令諸脩行者。越到彼
+<lb ed="X" n="0814a17"/>岸。名波羅蜜。上雖散解。今應總釋。斯乃宮隨願起。
+<lb ed="X" n="0814a18"/>莊以七寶之園。華逐光生。嚴以百億之&CB00031;。加復頗
+<lb ed="X" n="0814a19"/>梨發<app><lem wit="【CBETA】" resp="CBETA.maha">采</lem><rdg wit="【卍續】">釆</rdg></app>。婉轉出慈悲之聲。<note n="0814001" resp="Xuzangjing" place="foot text" type="orig">寶下佚失</note>寶　　　　　　　　
+<lb ed="X" n="0814a20"/>為主。名造法堂。以實言之。具作內院。文亦有三。初
+<lb ed="X" n="0814a21"/>大神發願。次所願果遂。後諸天&CB00418;勝發願往生。初
+<lb ed="X" n="0814a22"/>中復二。初儀範。後發願。此初也。牢度&CB02494;提。此云惡
+<lb ed="X" n="0814a23"/>主。治惡之主故。此乃鬼神。與華嚴經夜叉天相似。
+<lb ed="X" n="0814a24"/>實潛難測。名曰為神。神中最勝。曰大。普憑威力。遍
+<pb ed="X" id="X21.0388.0814b" n="0814b"/>
+<lb ed="X" n="0814b01"/>禮十方。欲解廣大。發弘誓願。雖知凡聖。同感內院。
+<lb ed="X" n="0814b02"/>方成菩薩力。增多由聖現。一大神者。表無漏智能
+<lb ed="X" n="0814b03"/>起妙土故。佛地經云。勝出世間善根所起。如如意
+<lb ed="X" n="0814b04"/>珠。有神用故。亦是凡夫發菩提心。加行智感。</p></div1>
+<lb ed="X" n="0814b05"/><div1 type="orig"><p id="pX21p0814b0501">若我福德<note place="inline">至</note>自然出珠者。</p></div1>
+<lb ed="X" n="0814b06"/><div1 type="commentary"><p id="pX21p0814b0601" rend="margin-left:1em">述云。此後發願也。宣妙義合。名善法堂。表親尊重。
+<lb ed="X" n="0814b07"/>珠從額出。內院宮宇。如下自陳。法堂尊勝。故標願
+<lb ed="X" n="0814b08"/>首。</p></div1>
+<lb ed="X" n="0814b09"/><div1 type="orig"><p id="pX21p0814b0901">既發願<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app><note place="inline">至</note>表裏映徹者。</p></div1>
+<lb ed="X" n="0814b10"/><div1 type="commentary"><p id="pX21p0814b1001" rend="margin-left:1em">述云。第二所願果遂有五。一作宮。二作園。三作坐。
+<lb ed="X" n="0814b11"/>四作柱。五天宮天女寶色皆同。初又有八。一作宮。
+<lb ed="X" n="0814b12"/>二蘭楯。三天子女。四手生華。五光明。六樂器。七起
+<lb ed="X" n="0814b13"/>&CB01425;。八說法。初中有二。初出珠。後作宮。此初也。&CB00222;璃
+<lb ed="X" n="0814b14"/>碧色。頗梨紅色。額上之珠。舉碧紅為道。餘眾色類
+<lb ed="X" n="0814b15"/>一切皆足。或此二寶。一切色類皆悉具足。紫謂紫
+<lb ed="X" n="0814b16"/>色。紺者。說文云。<note n="0814002" resp="Xuzangjing" place="foot text" type="orig">帛歟皂歟原本字体不明</note>帛深青而揚赤色。紺含也。青而含
+<lb ed="X" n="0814b17"/>赤色。今此中紺。與彼稍異。如紫青色。珠乃&CB00222;璃頗
+<lb ed="X" n="0814b18"/>梨之色。紫紺摩尼之光。內外&CB04930;朧。故表裏映徹。此
+<lb ed="X" n="0814b19"/>即表彌勒聞百億總持之門。無相不顯。無障不淨
+<lb ed="X" n="0814b20"/>也。</p></div1>
+<lb ed="X" n="0814b21"/><div1 type="orig"><p id="pX21p0814b2101">此摩尼光<note place="inline">至</note>微妙寶宮者。</p></div1>
+<lb ed="X" n="0814b22"/><div1 type="commentary"><p id="pX21p0814b2201" rend="margin-left:1em">述云。此後作宮也。四十九重者。持戒堅牢。宮遂重
+<lb ed="X" n="0814b23"/>密。此表彌勒既過十信等四十心及極喜等九地。
+<lb ed="X" n="0814b24"/>而居法雲。故宮有四十九重。以所脩行。有四十九。</p></div1>
+<pb ed="X" id="X21.0388.0814c" n="0814c"/>
+<lb ed="X" n="0814c01"/><div1 type="orig"><p id="pX21p0814c0101">一一欄楯<note place="inline">至</note>所共合成者。</p></div1>
+<lb ed="X" n="0814c02"/><div1 type="commentary"><p id="pX21p0814c0201" rend="margin-left:1em">述云。第二作欄楯也。總持如欄楯。即由彌勒所領
+<lb ed="X" n="0814c03"/>百億總持故。外感萬億。摩尼億數。有多少故。前後
+<lb ed="X" n="0814c04"/>無違。</p></div1>
+<lb ed="X" n="0814c05"/><div1 type="orig"><p id="pX21p0814c0501">諸欄楯間<note place="inline">至</note>五百億天女者。</p></div1>
+<lb ed="X" n="0814c06"/><div1 type="commentary"><p id="pX21p0814c0601" rend="margin-left:1em">述云。第三化天子。天女即方便。住持諸行故。子即
+<lb ed="X" n="0814c07"/>般若。殖種德本故。此二不同。廣如彌勒問論。德種
+<lb ed="X" n="0814c08"/>雖多。必由九品之慧。故云九億。方便雖眾。而由信
+<lb ed="X" n="0814c09"/>等五根之力。以涉百億之界。故云五百億。</p></div1>
+<lb ed="X" n="0814c10"/><div1 type="orig"><p id="pX21p0814c1001">一一天子<note place="inline">至</note>七寶華者。</p></div1>
+<lb ed="X" n="0814c11"/><div1 type="commentary"><p id="pX21p0814c1101" rend="margin-left:1em">述云。第四手生蓮華。般若作用。雖復無量。皆由七
+<lb ed="X" n="0814c12"/>聖財。以含圓果故。外感億萬七寶華。理實方便。亦
+<lb ed="X" n="0814c13"/>含道果。但望般若。功用有故。所以不<note n="0814003" resp="Xuzangjing" place="foot text" type="orig">說下佚失</note>說。</p></div1>
+<lb ed="X" n="0814c14"/><div1 type="orig"><p id="pX21p0814c1401">□□□□<note place="inline">至</note>不鼓自鳴者。</p></div1>
+<lb ed="X" n="0814c15"/><div1 type="commentary"><p id="pX21p0814c1501" rend="margin-left:1em">述云。第六化樂器也。由智慧力。辨才無滯。能生有
+<lb ed="X" n="0814c16"/>情歡悅之心。故名樂器。彌勒既居第十地。於諸病
+<lb ed="X" n="0814c17"/>藥。皆無功用。故云不&CB00655;鳴。</p></div1>
+<lb ed="X" n="0814c18"/><div1 type="orig"><p id="pX21p0814c1801">此聲出時<note place="inline">至</note>競起歌&CB01425;者。</p></div1>
+<lb ed="X" n="0814c19"/><div1 type="commentary"><p id="pX21p0814c1901" rend="margin-left:1em">述云。第七起&CB01425;也。樂聲既動。女起以&CB01425;。即表辨才。
+<lb ed="X" n="0814c20"/>唱響應方便。亦起身化。以利眾生。</p></div1>
+<lb ed="X" n="0814c21"/><div1 type="orig"><p id="pX21p0814c2101">時詠歌音<note place="inline">至</note>無上道心者。</p></div1>
+<lb ed="X" n="0814c22"/><div1 type="commentary"><p id="pX21p0814c2201" rend="margin-left:1em">述云。第八說法也。雖復詠歌。不依生死之戲。皆演
+<lb ed="X" n="0814c23"/>十善四弘誓願。即表彌勒非唯身業利益。亦以語
+<lb ed="X" n="0814c24"/>業開化。十善即生天之因。四弘即成道之因。何者
+<pb ed="X" id="X21.0388.0815a" n="0815a"/>
+<lb ed="X" n="0815a01"/>四也。七佛經云。一覆育一切眾生。猶如椅船。度人
+<lb ed="X" n="0815a02"/>無倦。二節含萬物。猶如大&CB00980;。三願使我身。猶如藥
+<lb ed="X" n="0815a03"/>樹。其有聞者。患苦悉除。四願我當來得成佛時。所
+<lb ed="X" n="0815a04"/>度眾生。如恒河沙。是為菩薩度濟之心。菩提資糧
+<lb ed="X" n="0815a05"/>論云。若未度眾生。我當度之。未解脫者。我當解脫。
+<lb ed="X" n="0815a06"/>未蘇息者。應當蘇息。未寂滅者。我當寂滅。經論實
+<lb ed="X" n="0815a07"/>弘。誓既多。隨談一義。亦無違。是故諸天聞<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。發大
+<lb ed="X" n="0815a08"/>乘心。發大乘心。有七因緣。如法印經云。發菩提心。
+<lb ed="X" n="0815a09"/>有七種因。一者諸佛教化。二者見法欲滅。三者於
+<lb ed="X" n="0815a10"/>諸眾生。起大慈悲。四者菩薩教化。五者因布施故。
+<lb ed="X" n="0815a11"/>六者學他。七者聞說如來三十二相八十種好。初
+<lb ed="X" n="0815a12"/>三發心。能護正法。疾成無上覺。餘四發心。非真菩
+<lb ed="X" n="0815a13"/>薩。不能護持。諸佛持正法。疾成無上覺。今此發心。
+<lb ed="X" n="0815a14"/>既因彌勒菩薩教化。故非真實也。此上八嚴。由聖
+<lb ed="X" n="0815a15"/>行八道。受八解脫樂。凡持八戒。如次所感。聖凡眾
+<lb ed="X" n="0815a16"/>行。助正智等之所集成。如慧為先。安布間&CB00496;。故能
+<lb ed="X" n="0815a17"/>致此。不爾。何緣有斯勝處。上雖散解。今應總釋。&CB02649;
+<lb ed="X" n="0815a18"/>摩尼欄楯&CB00153;&CB00496;微妙之宮。天化紅蓮。光含清淨之
+<lb ed="X" n="0815a19"/>樂。於是寶慧自鳴。乘輪雲而屢&CB01425;。清歌發&CB11174;。聞法
+<lb ed="X" n="0815a20"/>音而&CB00866;心。斯願力難思。故得此莊嚴。</p></div1>
+<lb ed="X" n="0815a21"/><div1 type="orig"><p id="pX21p0815a2101">時諸&CB00035;中<note place="inline">至</note>琉璃渠者。</p></div1>
+<lb ed="X" n="0815a22"/><div1 type="commentary"><p id="pX21p0815a2201" rend="margin-left:1em">述云。第二作園有二。初辨七事嚴。後結生彼得。初
+<lb ed="X" n="0815a23"/>即有七。此初八色渠也。八色者。青黃赤白。紅紫碧
+<lb ed="X" n="0815a24"/>綠。此表彌勒能起等八種律儀。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>得成就。定依戒
+<pb ed="X" id="X21.0388.0815b" n="0815b"/>
+<lb ed="X" n="0815b01"/>渠故。有義。八色&CB00222;璃為渠。名為八色。義亦可也。</p></div1>
+<lb ed="X" n="0815b02"/><div1 type="orig"><p id="pX21p0815b0201">一一渠<note place="inline">至</note>而用合成者。</p></div1>
+<lb ed="X" n="0815b03"/><div1 type="commentary"><p id="pX21p0815b0301" rend="margin-left:1em">述云。第二寶珠合成。諸寶即況百行。百行合成律
+<lb ed="X" n="0815b04"/>儀故。百行必由信等五根。故云五億。</p></div1>
+<lb ed="X" n="0815b05"/><div1 type="orig"><p id="pX21p0815b0501">一一渠中有八味水者。</p></div1>
+<lb ed="X" n="0815b06"/><div1 type="commentary"><p id="pX21p0815b0601" rend="margin-left:1em">述云。第三八味事也。即前八色皆具八味故。有說。
+<lb ed="X" n="0815b07"/>八功德水。可愛味故。名<note n="0815001" resp="Xuzangjing" place="foot text" type="orig">八下佚失</note>八　　　　　　　　　
+<lb ed="X" n="0815b08"/>正行故。</p></div1>
+<lb ed="X" n="0815b09"/><div1 type="orig"><p id="pX21p0815b0901">其水上踊<note place="inline">至</note>如寶華流者。</p></div1>
+<lb ed="X" n="0815b10"/><div1 type="commentary"><p id="pX21p0815b1001" rend="margin-left:1em">述云。第四生四華事。四華者。青黃赤白也。即渠流
+<lb ed="X" n="0815b11"/>八水。遶虹梁而吐浪。色發四華。&CB00153;赤門而散釆。又
+<lb ed="X" n="0815b12"/>八色之水。從華而出。四色之華。從水而生。水色交
+<lb ed="X" n="0815b13"/>&CB00153;。如寶華流。此表八正行。當顯常等四德之果。</p></div1>
+<lb ed="X" n="0815b14"/><div1 type="orig"><p id="pX21p0815b1401">一一華上<note place="inline">至</note>莊嚴身相者。</p></div1>
+<lb ed="X" n="0815b15"/><div1 type="commentary"><p id="pX21p0815b1501" rend="margin-left:1em">述云。第五華生天女。常等果上。必有方便。方便之
+<lb ed="X" n="0815b16"/>本。即持戒也。此表持七支戒防三世惡。三善受故。
+<lb ed="X" n="0815b17"/>所感果有二十四。</p></div1>
+<lb ed="X" n="0815b18"/><div1 type="orig"><p id="pX21p0815b1801">手中自然<note place="inline">至</note>自然盈滿者。</p></div1>
+<lb ed="X" n="0815b19"/><div1 type="commentary"><p id="pX21p0815b1901" rend="margin-left:1em">述云。第六手出寶器。手況教也。藏論云。正法教手
+<lb ed="X" n="0815b20"/>故。此表大千眾生。聽受正法。生信精進等。五根俱
+<lb ed="X" n="0815b21"/>行。善法欲等。故云五百億。即初發心。隨其自乘來。
+<lb ed="X" n="0815b22"/>頓希道果。故云滿甘露。</p></div1>
+<lb ed="X" n="0815b23"/><div1 type="orig"><p id="pX21p0815b2301">左肩荷佩<note place="inline">至</note>六波羅蜜者。</p></div1>
+<lb ed="X" n="0815b24"/><div1 type="commentary"><p id="pX21p0815b2401" rend="margin-left:1em">述云。第七天女。從水出也。諸天女左佩瓔珞。右負
+<pb ed="X" id="X21.0388.0815c" n="0815c"/>
+<lb ed="X" n="0815c01"/>樂器。從色水而出。如瑞雲住空。口讚菩薩所行六
+<lb ed="X" n="0815c02"/>度。此之表慈氏左相好右辨才。從空而出。如雲含
+<lb ed="X" n="0815c03"/>雨。雨正法雨。利益眾生。總而言云。凡持七支戒。及
+<lb ed="X" n="0815c04"/>脩七聖財。聖行七覺。除七隨眠之所招感。如是天
+<lb ed="X" n="0815c05"/>女。或非實女。或佛菩薩。所共化成莊嚴道場。或是
+<lb ed="X" n="0815c06"/>女人宿持。淨戒精進。無犯之所感現。不可凡心之
+<lb ed="X" n="0815c07"/>所測度。</p></div1>
+<lb ed="X" n="0815c08"/><div1 type="orig"><p id="pX21p0815c0801">若有往生<note place="inline">至</note>天女侍御者。</p></div1>
+<lb ed="X" n="0815c09"/><div1 type="commentary"><p id="pX21p0815c0901" rend="margin-left:1em">述云。第二結生彼得。此表眾生生彼天者。得彌勒
+<lb ed="X" n="0815c10"/>方便化導也。</p></div1>
+<lb ed="X" n="0815c11"/><div1 type="orig"><p id="pX21p0815c1101">亦有七寶<note place="inline">至</note>高四由旬者。</p></div1>
+<lb ed="X" n="0815c12"/><div1 type="commentary"><p id="pX21p0815c1201" rend="margin-left:1em">述云。第三座莊嚴有二。初座量高廣。後座寶莊嚴。
+<lb ed="X" n="0815c13"/>此初也。何者七寶。如稱讚淨土經云。一金。二銀。三
+<lb ed="X" n="0815c14"/>吠&CB00222;璃。四頗胝迦。五赤真珠。六阿濕摩揭抵波。七
+<lb ed="X" n="0815c15"/>牟娑洛揭抵婆。解云。金銀二寶。此土有故。諸教皆
+<lb ed="X" n="0815c16"/>存。存此方名。真諦云。梵音弗師羅伽。此云黃色寶。
+<lb ed="X" n="0815c17"/>即金也。梵音旃陀羅乾。此云白色寶。即銀也。吠&CB00222;
+<lb ed="X" n="0815c18"/>璃者。正梵音也。毗&CB00222;璃者。訛也。真諦梁論抄云。&CB00222;
+<lb ed="X" n="0815c19"/>璃者。是青色寶。燒不可壞。唯有鬼神有神力者。能
+<lb ed="X" n="0815c20"/>破為器。或是其金翅鳥卵也。頗胝迦者。即黃綠色
+<lb ed="X" n="0815c21"/>寶。佛地論云。羯雞恒諾迦寶。智論云。過一千歲。冰
+<lb ed="X" n="0815c22"/>化為頗梨珠。赤真珠者。佛地論云。赤虫所出。名赤
+<lb ed="X" n="0815c23"/>真珠。或珠體赤。名赤真珠。真諦云。即無價寶珠也。
+<lb ed="X" n="0815c24"/>阿濕摩揭抵婆者。云馬瑙。真諦云。赤色寶。即違無
+<pb ed="X" id="X21.0388.0816a" n="0816a"/>
+<lb ed="X" n="0816a01"/>性論。論云。是帝青等故。牟婆洛揭抵婆者。昔云車
+<lb ed="X" n="0816a02"/>渠。真諦云。即紺色寶。智論云。金出山石沙赤銅中。
+<lb ed="X" n="0816a03"/>真珠出魚腹中竹中。&CB00309;腦龍珠。出龍腦中。珊瑚出。
+<lb ed="X" n="0816a04"/>海中<note n="0816001" resp="Xuzangjing" place="foot text" type="orig">石下佚失</note>石　　　　　　　　　　　　　　　　
+<lb ed="X" n="0816a05"/>化為頗梨珠。大業論云。七寶皆是石所攝。然七寶
+<lb ed="X" n="0816a06"/>隨方愛重。經論不同。不可致疑。問此七寶坐。何名
+<lb ed="X" n="0816a07"/>師子。答智論云。佛為人中師子。佛所坐處。若床若
+<lb ed="X" n="0816a08"/>地。皆名師子座。廣說如彼譬喻經云。五百師子。聞
+<lb ed="X" n="0816a09"/>佛出世。化諸眾生。皆生天人。禽獸若盡。我當何食。
+<lb ed="X" n="0816a10"/>心中懷毒。欲往害佛。佛即化作絕妙之座。在師子
+<lb ed="X" n="0816a11"/>頭上而坐。眾人見之。名曰師子座。今此坐得。彼智
+<lb ed="X" n="0816a12"/>論清淨法界。內含四德。化身之座。高四由旬。</p></div1>
+<lb ed="X" n="0816a13"/><div1 type="orig"><p id="pX21p0816a1301">閻浮檀金<note place="inline">至</note>以為莊嚴者。</p></div1>
+<lb ed="X" n="0816a14"/><div1 type="commentary"><p id="pX21p0816a1401" rend="margin-left:1em">述云。此次座。莊嚴有九。此金寶嚴也。彌勒三業。隨
+<lb ed="X" n="0816a15"/>智而行。超出凡小之所嚴故。即華嚴云。金色師子
+<lb ed="X" n="0816a16"/>座也。</p></div1>
+<lb ed="X" n="0816a17"/><div1 type="orig"><p id="pX21p0816a1701">座四角頭生四蓮華者。</p></div1>
+<lb ed="X" n="0816a18"/><div1 type="commentary"><p id="pX21p0816a1801" rend="margin-left:1em">述云。第二華莊嚴也。慈悲喜捨。內四無量。外感四
+<lb ed="X" n="0816a19"/>華故。</p></div1>
+<lb ed="X" n="0816a20"/><div1 type="orig"><p id="pX21p0816a2001">二蓮華百寶所成者。</p></div1>
+<lb ed="X" n="0816a21"/><div1 type="commentary"><p id="pX21p0816a2101" rend="margin-left:1em">述云。第三百寶嚴也。十善業道。自作教他。讚歎慶
+<lb ed="X" n="0816a22"/>喜。少分多分全分。少時多時。盡壽行故。一一有十。
+<lb ed="X" n="0816a23"/>名為百行。內脩內行。外百寶成。所以經前後多說
+<lb ed="X" n="0816a24"/>百數。</p></div1>
+<pb ed="X" id="X21.0388.0816b" n="0816b"/>
+<lb ed="X" n="0816b01"/><div1 type="orig"><p id="pX21p0816b0101">一一寶出百億光明者。</p></div1>
+<lb ed="X" n="0816b02"/><div1 type="commentary"><p id="pX21p0816b0201" rend="margin-left:1em">述云。第四光明嚴也。由百行之所成智放光明。慧
+<lb ed="X" n="0816b03"/>破愚暗故。</p></div1>
+<lb ed="X" n="0816b04"/><div1 type="orig"><p id="pX21p0816b0401">其光微妙<note place="inline">至</note>莊嚴寶帳者。</p></div1>
+<lb ed="X" n="0816b05"/><div1 type="commentary"><p id="pX21p0816b0501" rend="margin-left:1em">述云。第五寶帳嚴也。兼脩信等助百行。故云五百
+<lb ed="X" n="0816b06"/>億。眾行互助。故云雜華。</p></div1>
+<lb ed="X" n="0816b07"/><div1 type="orig"><p id="pX21p0816b0701">時十方面<note place="inline">至</note>以為寶鈴者。</p></div1>
+<lb ed="X" n="0816b08"/><div1 type="commentary"><p id="pX21p0816b0801" rend="margin-left:1em">述云。第六梵寶嚴也。內脩四辯。外有大梵懸鈴。大
+<lb ed="X" n="0816b09"/>人敬重。此表彌勒既過等覺百千劫。而居終位。脩
+<lb ed="X" n="0816b10"/>十地行。而成辨才。</p></div1>
+<lb ed="X" n="0816b11"/><div1 type="orig"><p id="pX21p0816b1101">時小梵王<note place="inline">至</note>彌覆帳上者。</p></div1>
+<lb ed="X" n="0816b12"/><div1 type="commentary"><p id="pX21p0816b1201" rend="margin-left:1em">述云。第七梵網嚴也。內脩總持。外得小梵為網故。
+<lb ed="X" n="0816b13"/>總而言之。將欲敷決定說。先起師子之座。示其莊
+<lb ed="X" n="0816b14"/>嚴綺麗。瑩&CB00496;精華故。金道輝百寶之光。珠帳垂千
+<lb ed="X" n="0816b15"/>梵之網。故云彌覆其上。</p></div1>
+<lb ed="X" n="0816b16"/><div1 type="orig"><p id="pX21p0816b1601">爾時百千<note place="inline">至</note>以布座上者。</p></div1>
+<lb ed="X" n="0816b17"/><div1 type="commentary"><p id="pX21p0816b1701" rend="margin-left:1em">述云。第八華布座嚴。即表彌勒般若方便既得滿
+<lb ed="X" n="0816b18"/>故。必生無上道果也。</p></div1>
+<lb ed="X" n="0816b19"/><div1 type="orig"><p id="pX21p0816b1901">是諸蓮華<note place="inline">至</note>侍立帳內者。</p></div1>
+<lb ed="X" n="0816b20"/><div1 type="commentary"><p id="pX21p0816b2001" rend="margin-left:1em">述云。第九天女侍帳。即表慈氏善巧方便。演正法
+<lb ed="X" n="0816b21"/>手。化導百億。中立趣也。以此九嚴。足前座量。有十
+<lb ed="X" n="0816b22"/>莊嚴。皆由凡除十惡脩十善。或菩薩亦脩十無盡。
+<lb ed="X" n="0816b23"/>戒之所招致。</p></div1>
+<lb ed="X" n="0816b24"/><div1 type="orig"><p id="pX21p0816b2401"><note n="0816002" resp="Xuzangjing" place="foot text" type="orig">時疑持</note>時宮四角各有寶柱者。</p></div1>
+<pb ed="X" id="X21.0388.0816c" n="0816c"/>
+<lb ed="X" n="0816c01"/><div1 type="commentary"><p id="pX21p0816c0101" rend="margin-left:1em">述云。第四作柱有四。一持宮寶柱。二摩尼交珞。三
+<lb ed="X" n="0816c02"/>閣間樂音。四樂音宣法。此初也。曇識解此。即持四
+<lb ed="X" n="0816c03"/>十九重法堂之四柱。又可堂外四角有四寶柱莊
+<lb ed="X" n="0816c04"/>嚴之具。初善順經文。</p></div1>
+<lb ed="X" n="0816c05"/><div1 type="orig"><p id="pX21p0816c0501">一一寶柱<note place="inline">至</note>諸波羅蜜者。</p></div1>
+<lb ed="X" n="0816c06"/><div1 type="commentary"><p id="pX21p0816c0601" rend="margin-left:1em">述云。□□□□。梵摩尼者。淨魔尼或大梵王如意
+<lb ed="X" n="0816c07"/>之<note n="0816003" resp="Xuzangjing" place="foot text" type="orig">珠下佚矣</note>珠　　　　　　　　　　　　　　　　　
+<lb ed="X" n="0816c08"/>拄種種莊嚴。</p></div1>
+<lb ed="X" n="0816c09"/><div1 type="orig"><p id="pX21p0816c0901">如是天宮<note place="inline">至</note>亦同寶色者。</p></div1>
+<lb ed="X" n="0816c10"/><div1 type="commentary"><p id="pX21p0816c1001" rend="margin-left:1em">述云。第五□□天女。寶色皆同。欲顯內院種種莊
+<lb ed="X" n="0816c11"/>嚴。為令有情同入佛慧。</p></div1>
+<lb ed="X" n="0816c12"/><div1 type="orig"><p id="pX21p0816c1201">爾時十方<note place="inline">至</note>兜率天宮者。</p></div1>
+<lb ed="X" n="0816c13"/><div1 type="commentary"><p id="pX21p0816c1301" rend="margin-left:1em">述云。第三諸天&CB00418;勝發願。往生彌勒。生<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>方皆發
+<lb ed="X" n="0816c14"/>願。亦有未生而發願者。總而言之。&CB02649;寶華□坐。天
+<lb ed="X" n="0816c15"/>童侍帳。珠柱持宮。摩尼交絡。以清樂鏗鏘。六度韻
+<lb ed="X" n="0816c16"/>而成□。寶光皎潔。諸天映而同色。&CB00418;慈華麗。殊勝
+<lb ed="X" n="0816c17"/>莊嚴。莫不住想歸依。願生兜率。此上述第二大神
+<lb ed="X" n="0816c18"/>作內院<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>訖。</p></div1>
+<lb ed="X" n="0816c19"/><div1 type="orig"><p id="pX21p0816c1901">時兜率天宮有五大神者。</p></div1>
+<lb ed="X" n="0816c20"/><div1 type="commentary"><p id="pX21p0816c2001" rend="margin-left:1em">述云。第三辨五大神於外內宮種種嚴&CB00496;有二。初
+<lb ed="X" n="0816c21"/>總標。後別顯。此初也。由菩薩等內脩五蘊妙用無
+<lb ed="X" n="0816c22"/>方。外感五神威力無比。問若言天上有神者。便應
+<lb ed="X" n="0816c23"/>天中有餘道耶。答天牛天馬。即是畜生鬼等。帝釋
+<lb ed="X" n="0816c24"/>座處。今神作天宮之有鬼神道。既有鬼有畜生。亦
+<pb ed="X" id="X21.0388.0817a" n="0817a"/>
+<lb ed="X" n="0817a01"/>應有人有獄。天上既爾。餘亦當各脩故。華嚴經曰。
+<lb ed="X" n="0817a02"/>人生法有二天守護。一名同名。二名同生。天得見
+<lb ed="X" n="0817a03"/>人。人不得見天。即人中有天。又云。夜天水天。地天
+<lb ed="X" n="0817a04"/>河天。天既通類。諸道悉通於義。便當五道。道各有
+<lb ed="X" n="0817a05"/>五。五五二十五道。權類應爾。</p></div1>
+<lb ed="X" n="0817a06"/><div1 type="orig"><p id="pX21p0817a0601">第一大神<note place="inline">至</note>適眾生意者。</p></div1>
+<lb ed="X" n="0817a07"/><div1 type="commentary"><p id="pX21p0817a0701" rend="margin-left:1em">述云。第二別顯有五。此初神也。內持戒蘊得尊高。
+<lb ed="X" n="0817a08"/>如寶幢高顯。故戒七支雨七寶。由持戒故。各稱人
+<lb ed="X" n="0817a09"/>心。感得樂音。適眾生意。</p></div1>
+<lb ed="X" n="0817a10"/><div1 type="orig"><p id="pX21p0817a1001">第二大神<note place="inline">至</note>以為導引者。</p></div1>
+<lb ed="X" n="0817a11"/><div1 type="commentary"><p id="pX21p0817a1101" rend="margin-left:1em">述云。此次定蘊果也。內脩空蘊。外感華德。定水徹
+<lb ed="X" n="0817a12"/>清。出妙華故。起四無量。垂覆四生。故雨眾華。化成
+<lb ed="X" n="0817a13"/>華&CB02649;。無量眾行。助嚴禪定。感百千幡。以為導引。</p></div1>
+<lb ed="X" n="0817a14"/><div1 type="orig"><p id="pX21p0817a1401">第三大神<note place="inline">至</note>繞宮七&CB01615;者。</p></div1>
+<lb ed="X" n="0817a15"/><div1 type="commentary"><p id="pX21p0817a1501" rend="margin-left:1em">述云。此次慧蘊果也。內具慧蘊。說法利物。破無明
+<lb ed="X" n="0817a16"/>&CB00305;。外感大神。名曰香音。音此岸□香六銖。賈直娑
+<lb ed="X" n="0817a17"/>婆世界。智慧可量如海。此岸香能除七漏。故遶七
+<lb ed="X" n="0817a18"/>&CB01615;。七漏者。謂見。念。愛。脩。根。惡。親近漏。廣如涅槃經。</p></div1>
+<lb ed="X" n="0817a19"/><div1 type="orig"><p id="pX21p0817a1901">第四大神<note place="inline">至</note>助菩提音者。</p></div1>
+<lb ed="X" n="0817a20"/><div1 type="commentary"><p id="pX21p0817a2001" rend="margin-left:1em">述云。此次解脫蘊果也。內滿解脫蘊。外感大神。名
+<lb ed="X" n="0817a21"/>曰喜樂。遠離憂苦。得勝解喜樂。心既決定。脩行能
+<lb ed="X" n="0817a22"/>成。故雨如意珠也。心常決定。住於真如。外感神住
+<lb ed="X" n="0817a23"/>在幢幡。既說三歸。又說五戒及諸善法。饒益者利
+<lb ed="X" n="0817a24"/>樂義。勸者讚勉義。助者資益<note n="0817001" resp="Xuzangjing" place="foot text" type="orig">齊借疑濟苦</note>齊借義。音謂音聲。者
+<pb ed="X" id="X21.0388.0817b" n="0817b"/>
+<lb ed="X" n="0817b01"/>謂行者。此即總顯神珠。演說三歸五戒等利樂。勸
+<lb ed="X" n="0817b02"/>勉發求大菩提聲之行<note n="0817002" resp="Xuzangjing" place="foot text" type="orig">者下佚失</note>者。</p>
+<lb ed="X" n="0817b03"/><p id="pX21p0817b0301" rend="margin-left:1em">指異生處。不敢輒定。但大聖示身。隨機異見。見既
+<lb ed="X" n="0817b04"/>不同。生何同處。由是道理。不足致&CB00383;。有義。華嚴經
+<lb ed="X" n="0817b05"/>指其養處。故不相違。父母非唯生。亦有養者故。不
+<lb ed="X" n="0817b06"/>爾。如何賢愚經云。國王聞之。心惱生懼。恐奪其國。
+<lb ed="X" n="0817b07"/>伺其未長。方欲除之。內人既知。潛報父母。私送舅
+<lb ed="X" n="0817b08"/>氏。避難習業。基云。賢愚經表生處。上生經指養處。
+<lb ed="X" n="0817b09"/>舅名波羅利。故雖有三解。第二為勝。初違慈氏一
+<lb ed="X" n="0817b10"/>往之化故。諸相違之。文止□應無會釋義故。後雖
+<lb ed="X" n="0817b11"/>通二經。華嚴有違故。</p></div1>
+<lb ed="X" n="0817b12"/><div1 type="orig"><p id="pX21p0817b1201">結跏趺坐如入滅定者。</p></div1>
+<lb ed="X" n="0817b13"/><div1 type="commentary"><p id="pX21p0817b1301" rend="margin-left:1em">述云。第三入滅相也。結者交也。跏者重也。釋迦表
+<lb ed="X" n="0817b14"/>化緣盡故。右脅枕手而入涅槃。顯彌勒佛利樂未
+<lb ed="X" n="0817b15"/>終。當得果智。事方盡故。二相不同。表極未極有差
+<lb ed="X" n="0817b16"/>別也。似入涅槃。實未圓滅。方上生故。如入滅定。</p></div1>
+<lb ed="X" n="0817b17"/><div1 type="orig"><p id="pX21p0817b1701">身紫金色<note place="inline">至</note>兜率陀天者。</p></div1>
+<lb ed="X" n="0817b18"/><div1 type="commentary"><p id="pX21p0817b1801" rend="margin-left:1em">述云。第四後生相也。身紫金色者。表利當生最第
+<lb ed="X" n="0817b19"/>一故。如百千日者。能破眾生癡常想故。</p></div1>
+<lb ed="X" n="0817b20"/><div1 type="orig"><p id="pX21p0817b2001">其身舍利<note place="inline">至</note>不動不搖者。</p></div1>
+<lb ed="X" n="0817b21"/><div1 type="commentary"><p id="pX21p0817b2101" rend="margin-left:1em">述云。第五舍利形也。舍利者。稻穀也。&CB00501;都者體也。
+<lb ed="X" n="0817b22"/>佛體大小。如稻&CB00591;量。故以為名。釋迦如來碎分舍
+<lb ed="X" n="0817b23"/>利。表分身十方導利多也。彌勒全身。表居兜率行
+<lb ed="X" n="0817b24"/>一佛化故。如鑄金不動搖者。表佛法身本無生滅
+<pb ed="X" id="X21.0388.0817c" n="0817c"/>
+<lb ed="X" n="0817c01"/>動作事故。又解肥瘦如常。長短不變。鎚打不舒。色
+<lb ed="X" n="0817c02"/>似金尊。故例鑄金。</p></div1>
+<lb ed="X" n="0817c03"/><div1 type="orig"><p id="pX21p0817c0301">身圓光中<note place="inline">至</note>字義炳然者。</p></div1>
+<lb ed="X" n="0817c04"/><div1 type="commentary"><p id="pX21p0817c0401" rend="margin-left:1em">述云。第六圓光神異。梵音三摩地。此云等持。三昧
+<lb ed="X" n="0817c05"/>者訛也。大乘之中妙定。及慧字之與義。二俱炳然。
+<lb ed="X" n="0817c06"/>炳然者。煥爛之異名也。此意即顯圓光之中有定
+<lb ed="X" n="0817c07"/>與慧。字義煥爛。塔目顯然。矚其文而義顯。故義稱
+<lb ed="X" n="0817c08"/>現。不爾。如何光能現義。顯雖入滅。禪定智慧。由成
+<lb ed="X" n="0817c09"/>明煥。首楞嚴者。此云健行。唯佛及第十地菩薩之
+<lb ed="X" n="0817c10"/>所得故。依涅槃經。有五種名。一者首楞嚴。二者般
+<lb ed="X" n="0817c11"/>若波羅蜜。三者金剛。四者師子吼。五者佛性。隨其
+<lb ed="X" n="0817c12"/>所作。立此五名。等持雖通諸位。而表彌勒居等覺
+<lb ed="X" n="0817c13"/>位。當成正覺。故云首楞嚴。</p></div1>
+<lb ed="X" n="0817c14"/><div1 type="orig"><p id="pX21p0817c1401">時諸人天<note place="inline">至</note>供養舍利者。</p></div1>
+<lb ed="X" n="0817c15"/><div1 type="commentary"><p id="pX21p0817c1501" rend="margin-left:1em">述云。第七天人供養。梵音&CB02443;堵婆。此云積聚。昔云
+<lb ed="X" n="0817c16"/>兜婆。此云塔。訛略也。</p></div1>
+<lb ed="X" n="0817c17"/><div1 type="orig"><p id="pX21p0817c1701">時兜率陀天<note place="inline">至</note>忽然化生者。</p></div1>
+<lb ed="X" n="0817c18"/><div1 type="commentary"><p id="pX21p0817c1801" rend="margin-left:1em">述云。第二答生彼天有六。一生處。二生相。三身量
+<lb ed="X" n="0817c19"/>莊嚴。四異聖神變。五相好光明。六說法利益。此即
+<lb ed="X" n="0817c20"/>初也。七寶臺者。七財&CB00496;故。即法堂也。師子座者。於
+<lb ed="X" n="0817c21"/>彼臺中。法王位極。得無畏故。<note n="0817003" resp="Xuzangjing" place="foot text" type="orig">忽下佚失</note>忽。</p></div1>
+<lb ed="X" n="0817c22"/><div1 type="orig"><p id="pX21p0817c2201">□□□□<note place="inline">至</note>閻浮檀金色者。</p></div1>
+<lb ed="X" n="0817c23"/><div1 type="commentary"><p id="pX21p0817c2301" rend="margin-left:1em">述云。第二生相也。於師子座上。更有蓮華。一切佛
+<lb ed="X" n="0817c24"/>座。淨土等中。皆坐蓮華。表出生死之淤泥。秀二乘
+<pb ed="X" id="X21.0388.0818a" n="0818a"/>
+<lb ed="X" n="0818a01"/>之濁水故。結跏趺者。如盤龍足。以左狎右。降伏而
+<lb ed="X" n="0818a02"/>坐。以右押左。吉祥而坐。既將說法。顯作吉祥。身色
+<lb ed="X" n="0818a03"/>如金。表可寶重也。無量光三昧經云。彌勒白銀色。
+<lb ed="X" n="0818a04"/>會通而言。其體閻浮提金色。而外照之光者。是銀
+<lb ed="X" n="0818a05"/>也。是以在表見者。為銀色也。一切智光仙人慈心
+<lb ed="X" n="0818a06"/>經云。彌勒金色。而於白銀光明。以黃金校&CB00496;。如白
+<lb ed="X" n="0818a07"/>銀山。此亦有白銀之光。會還同前。</p></div1>
+<lb ed="X" n="0818a08"/><div1 type="orig"><p id="pX21p0818a0801">形長十六由旬<note place="inline">至</note>以嚴天冠者。</p></div1>
+<lb ed="X" n="0818a09"/><div1 type="commentary"><p id="pX21p0818a0901" rend="margin-left:1em">述云。第三身量莊嚴。十六由旬者。德高無比。能越
+<lb ed="X" n="0818a10"/>六道。超十地故。相好之義。至下當說。壽量隨示同
+<lb ed="X" n="0818a11"/>俗故。長越天眾。真德高故。釋迦毗楞伽摩尼者。謂
+<lb ed="X" n="0818a12"/>能種種現。如意珠甄叔迦寶者。狀如延珪。似赤&CB00222;
+<lb ed="X" n="0818a13"/>璃。或云淨白色。或是樹名。其華赤色。此寶似之。因
+<lb ed="X" n="0818a14"/>以名焉。</p></div1>
+<lb ed="X" n="0818a15"/><div1 type="orig"><p id="pX21p0818a1501">其天冠寶<note place="inline">至</note>住天冠中者。</p></div1>
+<lb ed="X" n="0818a16"/><div1 type="commentary"><p id="pX21p0818a1601" rend="margin-left:1em">述云。第四異聖神變。即顯心首。常共諸佛十方菩
+<lb ed="X" n="0818a17"/>薩。為伴侶也。十八變者。一振動。依定自在。普能振
+<lb ed="X" n="0818a18"/>動無數世界故。二熾然。於其身上。發猛焰火。於其
+<lb ed="X" n="0818a19"/>身下。注清冷水。或此相違。舉身洞然。出種種焰故。
+<lb ed="X" n="0818a20"/>三流布。流布光明。遍滿無數世界故。四示現。如其
+<lb ed="X" n="0818a21"/>所樂。示諸相故。五轉變。所有自相。可變色物。皆隨
+<lb ed="X" n="0818a22"/>勝解。而轉變故。六往來。隨其所樂。縱身往來。無障
+<lb ed="X" n="0818a23"/>礙故。七卷。能卷一切雪山王等。如一極微故。八舒。
+<lb ed="X" n="0818a24"/>能舒一極微。令如雪山王等故。九眾像入身。一切
+<pb ed="X" id="X21.0388.0818b" n="0818b"/>
+<lb ed="X" n="0818b01"/>色像內<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>身。令諸大眾。知入身故。十同類往趣。隨
+<lb ed="X" n="0818b02"/>所至類。無不同彼故。十一隱。於大眾前。百千度等
+<lb ed="X" n="0818b03"/>隱自身。十二顯。於大眾前。復令顯故。十三所作自
+<lb ed="X" n="0818b04"/>在。普於一切諸有情界。往來住等。所作事中。皆自
+<lb ed="X" n="0818b05"/>在轉故。十四制他神通。如來神通。普能制伏餘一
+<lb ed="X" n="0818b06"/>切。具神通者。所現神通。一生菩薩。或最後有所有
+<lb ed="X" n="0818b07"/>神通。除諸如來悉能制伏。其餘一切。具神通者所
+<lb ed="X" n="0818b08"/>現故。十五能施辨才。窮盡能與辨才故。十六能施
+<lb ed="X" n="0818b09"/>憶念。若諸有情。於法失念。能與憶念故。十七能施
+<lb ed="X" n="0818b10"/>安樂。說正法時。與聽法者。饒益身心。輕安之樂故。
+<lb ed="X" n="0818b11"/>十八放大光明。身放光明。無數世界。令一切有情。
+<lb ed="X" n="0818b12"/>息眾苦故。由此神通。能轉所餘。有自性物。令成餘
+<lb ed="X" n="0818b13"/>物。故名能變。神境智通。廣如瑜伽論威力品中說。
+<lb ed="X" n="0818b14"/>或有經云。住天&CB00275;中。即額中央之名也。雖有二本。
+<lb ed="X" n="0818b15"/>前<note n="0818001" resp="Xuzangjing" place="foot text" type="orig">順下佚失</note>順　　　　　　　　　　　　　　　　　
+<lb ed="X" n="0818b16"/>澤。引長一尋。放即右旋蠡真殊。解云。諸佛<note n="0818002" resp="Xuzangjing" place="foot text" type="orig">豪與毫同下準之</note>豪相眉
+<lb ed="X" n="0818b17"/>間者。極端嚴故。面為尊。上間表兩中顯佛恒時貴
+<lb ed="X" n="0818b18"/>處中道。<anchor id="fxX21p0818b01"/>豪相若舒。便長無量。卷如秋月。圓皎解光。
+<lb ed="X" n="0818b19"/>白類雪珂。暉煥眾景。白為色本。表作情。依時有卷
+<lb ed="X" n="0818b20"/>舒。顯隨緣現。流出眾光者。<note n="0818003" resp="Xuzangjing" place="foot text" type="orig">影疑顯</note>影演<note n="0818004" resp="Xuzangjing" place="foot text" type="orig">五疑三</note>五乘相中最勝。所
+<lb ed="X" n="0818b21"/>以偏說。三十二相者。始從世尊足。有平滿相。妙善
+<lb ed="X" n="0818b22"/>住。猶如奩底。地雖高下。隨足所蹈。皆悉坦然。無不
+<lb ed="X" n="0818b23"/>等觸。終至世尊頂上。烏瑟膩沙。高顯周圓。猶如天
+<lb ed="X" n="0818b24"/>&CB02649;。廣如般若第三百八十一。說二之相。皆百福成。
+<pb ed="X" id="X21.0388.0818c" n="0818c"/>
+<lb ed="X" n="0818c01"/>故云百寶色。三十二相。由行五脩。一發心。二長時。
+<lb ed="X" n="0818c02"/>三無間。四慇重。五無餘之所感<note n="0818005" resp="Xuzangjing" place="foot text" type="orig">德疑得</note>德。故有五百億色。
+<lb ed="X" n="0818c03"/>好即隨好。隨好有八十種。始從世尊指爪狹長薄
+<lb ed="X" n="0818c04"/>閏光潔鮮淨如華赤銅。終至世尊手足及&CB00291;臆前
+<lb ed="X" n="0818c05"/>俱有吉祥喜旋德相文同綺&CB00474;色類朱丹。<note n="0818006" resp="Xuzangjing" place="foot text" type="orig">赤字更勘</note>赤如大
+<lb ed="X" n="0818c06"/>般若經中說。好之五百億。例相可解。&CB00672;者美義。而
+<lb ed="X" n="0818c07"/>非焰義。雲者出生蔭覆之義。由行八萬四千教行。
+<lb ed="X" n="0818c08"/>逼八萬四千根病。因而得相好。故出八萬四千光
+<lb ed="X" n="0818c09"/>色。基云。八十隨好。由行八萬四千教行之所感故。
+<lb ed="X" n="0818c10"/>二好美。出八萬四千光明雲。良恐非也。三十二相
+<lb ed="X" n="0818c11"/>亦由八萬四千行故。亦違經云二相好故。</p></div1>
+<lb ed="X" n="0818c12"/><div1 type="orig"><p id="pX21p0818c1201">與諸天子<note place="inline">至</note>法輪之行者。</p></div1>
+<lb ed="X" n="0818c13"/><div1 type="commentary"><p id="pX21p0818c1301" rend="margin-left:1em">述云。第六說法利益有三。初陳所說。次顯利益。後
+<lb ed="X" n="0818c14"/>示常業。此初也。表菩薩眾並出生死之淤泥。故云
+<lb ed="X" n="0818c15"/>各坐華座。曰晝三夜三。名為六時。即住六時。恒起
+<lb ed="X" n="0818c16"/>六神變。說六度行。拔六趣生。破六隨眠。起六塵故。
+<lb ed="X" n="0818c17"/>有說。八地<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上不退之行。有說十信<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上菩薩所
+<lb ed="X" n="0818c18"/>行六波羅蜜。俱不可然。三乘凡聖。皆聞此<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。獲<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0818c19"/>利故。</p></div1>
+<lb ed="X" n="0818c20"/><div1 type="orig"><p id="pX21p0818c2001">&CB00925;一時<note n="0818007" resp="Xuzangjing" place="foot text" type="orig">間現流本作中</note>間<note place="inline">至</note>三菩提者。</p></div1>
+<lb ed="X" n="0818c21"/><div1 type="commentary"><p id="pX21p0818c2101" rend="margin-left:1em">述云。此次利益也。今生五根。具足五力。當圓五眼。
+<lb ed="X" n="0818c22"/>超五道故。成五百億天。</p></div1>
+<lb ed="X" n="0818c23"/><div1 type="orig"><p id="pX21p0818c2301">如是於兜率陀天<note place="inline">至</note>廣諸天子者。</p></div1>
+<lb ed="X" n="0818c24"/><div1 type="commentary"><p id="pX21p0818c2401" rend="margin-left:1em">述云。此後常業也。彼恒常明。都無暗夕。以起睡相。
+<pb ed="X" id="X21.0388.0819a" n="0819a"/>
+<lb ed="X" n="0819a01"/>得其夜名。佛即不然。常度天子。而藏論云。依華開
+<lb ed="X" n="0819a02"/>合。諸鳥鳴靜。建立日夜者。且談一相。義亦無違。</p></div1>
+<lb ed="X" n="0819a03"/><div1 type="orig"><p id="pX21p0819a0301">閻浮提歲<note place="inline">至</note>下生經說者。</p></div1>
+<lb ed="X" n="0819a04"/><div1 type="commentary"><p id="pX21p0819a0401" rend="margin-left:1em">述云。第三住天壽量。梵云瞻部。此樹名也。今閻浮
+<lb ed="X" n="0819a05"/>提訛也。此間四百歲。當彼天一日夜。類彼三十日
+<lb ed="X" n="0819a06"/>為一月。十二月為一年。彼天壽四千歲。慈氏窮天
+<lb ed="X" n="0819a07"/>壽而下生。不中夭故。此經云。當閻浮提五十六億
+<lb ed="X" n="0819a08"/>萬歲者。依瑜伽論第四。立世第七。毗婆沙等。計此
+<lb ed="X" n="0819a09"/>間四百年。為彼一日。此四<note n="0819001" resp="Xuzangjing" place="foot text" type="orig">千下佚失</note>千　　　　　　　　
+<lb ed="X" n="0819a10"/>當此一千四百四十億歲。彼天四千歲。當此五千
+<lb ed="X" n="0819a11"/>七百六十億歲。即與經文相違。今以理推。初以人
+<lb ed="X" n="0819a12"/>間四百歲。為彼一日夜。<note n="0819002" resp="Xuzangjing" place="foot text" type="orig">後疑復</note>後若以百為一。數計即相
+<lb ed="X" n="0819a13"/>當。一當百故。人間中四千歲。為彼十日。人間四百
+<lb ed="X" n="0819a14"/>歲。為彼一日。人間一千四百四十歲。為彼一年。人
+<lb ed="X" n="0819a15"/>間一萬四千四百歲。為彼十年。人間一億四萬四
+<lb ed="X" n="0819a16"/>千歲。為彼百歲。人間十四億四萬歲。為彼千年。彼
+<lb ed="X" n="0819a17"/>四千年。當人間五十七億六萬歲。西方有三億數。
+<lb ed="X" n="0819a18"/>一十萬為億。二百萬為億。三千萬為億。以理推排。
+<lb ed="X" n="0819a19"/>以千萬為一億。計之即相當矣。是故於經字之上。
+<lb ed="X" n="0819a20"/>應加七字。其前六字。應萬上安。只恐梵本誦有參
+<lb ed="X" n="0819a21"/>差。亦慮譯家自成謬&CB08832;。不爾。便少一億五萬歲。理
+<lb ed="X" n="0819a22"/>定應爾。智者應知。然此歲數。四文不同。賢劫定意
+<lb ed="X" n="0819a23"/>經云。彌勒五億七十六萬歲。當下作佛。其五億者。
+<lb ed="X" n="0819a24"/>即五十億。前以千萬為一億。成五十億。此以萬萬。
+<pb ed="X" id="X21.0388.0819b" n="0819b"/>
+<lb ed="X" n="0819b01"/>為一億故。七十萬者。即七億也。十萬為一億故。六
+<lb ed="X" n="0819b02"/>萬數同。更不勞釋。唯此一經。增減雖殊。與論&CB08832;同。
+<lb ed="X" n="0819b03"/>自餘皆別。雙卷泥洹經云。一億四千歲。令不相當
+<lb ed="X" n="0819b04"/>此經。及一切智光仙人慈心經云。五十六億萬歲。
+<lb ed="X" n="0819b05"/>當於龍華樹下得成佛道義。如前<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>解。菩薩處胎
+<lb ed="X" n="0819b06"/>及賢愚經云。五十六億七千萬歲。其六字應云七。
+<lb ed="X" n="0819b07"/>其七字應云六。其千萬者。以百為一億。&CB08832;之六千
+<lb ed="X" n="0819b08"/>萬者。六千億也。義不相違。如是推尋。雖乖古疏。尋
+<lb ed="X" n="0819b09"/>文究理。亦應無謬。菩薩在天壽量。曾無中夭。生在
+<lb ed="X" n="0819b10"/>人間。大成佛經說。壽六萬億歲。天盡其年。人間長
+<lb ed="X" n="0819b11"/>者。時宜現故。不同釋迦。天盡其年。人間早滅。眾生
+<lb ed="X" n="0819b12"/>厭故。化緣畢故。處胎經云。彌勒人間。壽八萬四千
+<lb ed="X" n="0819b13"/>歲。若依文。無可和會。彌勒下生成佛利益。如下生
+<lb ed="X" n="0819b14"/>經。天利既畢。人機後熟。故乃下生。基作此解。雖有
+<lb ed="X" n="0819b15"/>此解。與經論違。大小教云。人間五十歲。四天王天
+<lb ed="X" n="0819b16"/>為一日夜。彼天壽量。為五百年。忉利天為一日夜。
+<lb ed="X" n="0819b17"/>彼天壽量。為一千歲。人間二百年。炎摩天為一日
+<lb ed="X" n="0819b18"/>夜。壽二千歲。人間四百年。兜率天為一日夜。壽四
+<lb ed="X" n="0819b19"/>千歲。上壽例此可知。其量既下上天壽。以人壽量。
+<lb ed="X" n="0819b20"/>作一日夜。豈兜率天。初以人間四百三十年。為一
+<lb ed="X" n="0819b21"/>日夜。後以百為一。數不可定。餘亦可然故。若爾。如
+<lb ed="X" n="0819b22"/>何立世經云。人間五十歲。是四天王天一日一夜。
+<lb ed="X" n="0819b23"/>由此日夜三十日為一日。十二月為年。由此年數。
+<lb ed="X" n="0819b24"/>五百天壽。是其壽命。當人中歲數九百萬歲。人中
+<pb ed="X" id="X21.0388.0819c" n="0819c"/>
+<lb ed="X" n="0819c01"/>一百年。是忉利天一日一夜。<note place="inline">云云</note>壽數千年。當人
+<lb ed="X" n="0819c02"/>中三千六百萬歲。人中二百年。是夜摩天一日一
+<lb ed="X" n="0819c03"/>夜。<note place="inline">云云</note>壽命二千歲。當人中十四千萬。人中四百
+<lb ed="X" n="0819c04"/>年。<note n="0819003" resp="Xuzangjing" place="foot text" type="orig">是下佚失</note>是　　　　　　　　　　　　　　　　　
+<lb ed="X" n="0819c05"/>減方一小劫故。若諸眾生。機根成就。有見佛緣。一
+<lb ed="X" n="0819c06"/>一小劫。有千佛出。亦無有過。豈況更有十九小劫
+<lb ed="X" n="0819c07"/>故。真諦解。後十劫中。無有佛出。及前五劫。亦無佛
+<lb ed="X" n="0819c08"/>者。必非正理。又彼引藏論云。莊嚴劫中。後之三佛。
+<lb ed="X" n="0819c09"/>在彼釋迦相好業九十一劫中。前後而出。將知不
+<lb ed="X" n="0819c10"/>同一劫有千佛者。不然。大乘不說三僧祇後於百
+<lb ed="X" n="0819c11"/>劫脩相好業。而言釋迦三祇<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>滿。更於九十一劫。
+<lb ed="X" n="0819c12"/>值彼三佛。脩相好業者。此亦順小乘不了義說。不
+<lb ed="X" n="0819c13"/>可引證。是故將知。觀藥王藥尚經說。初千人者。同
+<lb ed="X" n="0819c14"/>在一莊嚴劫出世。亦是一水火劫中千人者。同一
+<lb ed="X" n="0819c15"/>在賢劫出。後千人者。同在一星宿劫出現於世。即
+<lb ed="X" n="0819c16"/>快順智論。此劫中有千佛出。今撿此二解。若談大
+<lb ed="X" n="0819c17"/>乘義。更有相違。知其如次說小大宗義。甚可翫矣。
+<lb ed="X" n="0819c18"/>小乘雖言多成壞劫。而大乘宗在一成壞。義無違
+<lb ed="X" n="0819c19"/>故。以何得知。多成壞劫。為賢劫者。賢劫經第九。辨
+<lb ed="X" n="0819c20"/>賢劫千佛出世。時人壽云。能仁如來。今世壽百歲。
+<lb ed="X" n="0819c21"/>&CB00594;戒如來。法氏如來。妙御如來。此三如來出世時。
+<lb ed="X" n="0819c22"/>皆人壽億歲。脩觀如來出時。人壽九十億歲等。若
+<lb ed="X" n="0819c23"/>如後解。二十住劫中。千佛出者。瑜伽婆沙等云。增
+<lb ed="X" n="0819c24"/>長至八萬。減短但十。云何得言億歲九十億歲<note n="0819004" resp="Xuzangjing" place="foot text" type="orig">乎字更勘</note>乎
+<pb ed="X" id="X21.0388.0820a" n="0820a"/>
+<lb ed="X" n="0820a01"/>無量歲。漸減之時。應有此億年等故。又五獨經云。
+<lb ed="X" n="0820a02"/>今當賢劫第九住劫。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>有四佛。人壽四萬歲。時迦
+<lb ed="X" n="0820a03"/>諾迦忖陀佛出世。人壽三萬歲。迦諾迦牟尼佛出
+<lb ed="X" n="0820a04"/>世。人壽二萬歲。迦葉波佛出世。智論第九云。前九
+<lb ed="X" n="0820a05"/>十劫有三佛。後一劫有千佛。九十劫初。有毗婆尸
+<lb ed="X" n="0820a06"/>佛。<note place="inline">此云勝觀</note>第三十一劫中有二佛。一名尸棄。<note place="inline">此
+<lb ed="X" n="0820a07"/>云火</note>二名&CB16014;恕婆附。<note place="inline">此云一切勝</note>第九十一劫初
+<lb ed="X" n="0820a08"/>有四佛。一名迦羅鳩滄陀。<note place="inline">此云冠頂</note>二名迦那含
+<lb ed="X" n="0820a09"/>牟尼。<note place="inline">此云金仙人</note>三名迦葉。四名釋迦。諸如是等
+<lb ed="X" n="0820a10"/>經論。皆據隨轉理。而作此說。復如何知。一成壞劫
+<lb ed="X" n="0820a11"/>為賢劫者。菩薩處胎第三。如六天王等。滿四天下。
+<lb ed="X" n="0820a12"/>不如一大梵天功德廣大。典領三千大千剎土。諸
+<lb ed="X" n="0820a13"/>梵天眾。無量無限。不可稱數壽命。過一賢劫。其命
+<lb ed="X" n="0820a14"/>乃終。梵王壽命。既六十劫。而言過賢劫。如何得言
+<lb ed="X" n="0820a15"/>多成壞劫。又智論云。後一劫有千佛。一劫即以成
+<lb ed="X" n="0820a16"/>壞為一故。將知賢劫在一成壞。又依五百王子經。
+<lb ed="X" n="0820a17"/>寶藏如來。告海地尊言。過一恒河沙等祇劫有劫。
+<lb ed="X" n="0820a18"/>名曰遍敷憂&CB00425;羅華。世界名願愛。是時人民。壽八
+<lb ed="X" n="0820a19"/>萬歲。汝於是中。成無上菩提。號曰寶山。乃至告三
+<lb ed="X" n="0820a20"/>姿婆。言願愛世界。人壽轉多。八十億歲。汝<note n="0820001" resp="Xuzangjing" place="foot text" type="orig">當下佚失</note>當　　
+<lb ed="X" n="0820a21"/>心。第二云。人間四百年。為兜率陀天上一日一夜。
+<lb ed="X" n="0820a22"/>如是日月歲數。兜率陀天四千歲。人間五十七億
+<lb ed="X" n="0820a23"/>六百萬歲。是呼地獄一日一夜。藏論云。等活等上
+<lb ed="X" n="0820a24"/>下六。如次欲天壽為一日夜壽量。如次亦用彼天
+<pb ed="X" id="X21.0388.0820b" n="0820b"/>
+<lb ed="X" n="0820b01"/>而言。第四天獨後以百為一。數之相當。一何猛浪。
+<lb ed="X" n="0820b02"/>有義。賢劫經云。人壽二萬歲時。第六迦葉佛出世。
+<lb ed="X" n="0820b03"/>人壽轉減。至千二百歲時。釋迦始上兜率天。於天
+<lb ed="X" n="0820b04"/>四千歲。人間得五十六億七千萬歲。人壽百年時。
+<lb ed="X" n="0820b05"/>下閻浮提。雜論云。從彌勒菩薩滅後。生第四天。壽
+<lb ed="X" n="0820b06"/>四千歲。一日一夜。當人間四百年。即准人間。合五
+<lb ed="X" n="0820b07"/>十七億六百萬歲。然後下閻浮提。成等正覺。賢愚
+<lb ed="X" n="0820b08"/>處胎仙人經。如前<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>引。今上生經亦同。智光經定
+<lb ed="X" n="0820b09"/>意經云。彌勒五億七十六萬歲作佛。以此言之。彼
+<lb ed="X" n="0820b10"/>天四千歲。准人間歲。得五萬七千六百之萬。此以
+<lb ed="X" n="0820b11"/>萬為首。而數至於五萬七千六百萬。此中若依千
+<lb ed="X" n="0820b12"/>萬為億。即為五十七億六百之萬歲。當於雜心之
+<lb ed="X" n="0820b13"/>文。若依萬萬為億之數。即為五億七千六百之萬
+<lb ed="X" n="0820b14"/>歲。近於定意經。而言七千六百為六十故。其餘三
+<lb ed="X" n="0820b15"/>經。皆言五十餘億等者。並依十萬為億之數。但隨
+<lb ed="X" n="0820b16"/>&CB00549;譯之家。煩有增減而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。天人歲數。配之略然。今
+<lb ed="X" n="0820b17"/>撿此解。雖似無過。而有四難。一長短不當難。如藏
+<lb ed="X" n="0820b18"/>論云。如是壽長遠究竟。極此八十千歲。是時諸人。
+<lb ed="X" n="0820b19"/>安坐受樂。無所馳求。壽八千歲。住阿僧祇年。乃至
+<lb ed="X" n="0820b20"/>眾生。未造十惡。從起十惡業道。時壽命因此十歲。
+<lb ed="X" n="0820b21"/>減度一百年。即減十歲。乃至廣說。今於彼天四千
+<lb ed="X" n="0820b22"/>歲數。不滿人間阿僧祇年。況百歲。稍減至十。從十
+<lb ed="X" n="0820b23"/>稍增。至於八萬。准此而言。不得相當故。二二聖不
+<lb ed="X" n="0820b24"/>齊難。若據彌勒。百歲時<note n="0820002" resp="Xuzangjing" place="foot text" type="orig">上下入生字見</note>上。至於八萬歲時下生。即
+<pb ed="X" id="X21.0388.0820c" n="0820c"/>
+<lb ed="X" n="0820c01"/>於中劫。纔過其半論也。釋迦人壽千二百歲時上。
+<lb ed="X" n="0820c02"/>稍減至十。增至八萬。還減至百。方乃下生。即過一
+<lb ed="X" n="0820c03"/>劫。億長於前。而皆言於天四千歲。人間得五十餘
+<lb ed="X" n="0820c04"/>億等。如何相當。三聖教相違難。若釋迦經多死生。
+<lb ed="X" n="0820c05"/>彌勒於彼經少死生。非但受彼四千一生故。不違
+<lb ed="X" n="0820c06"/>半劫一劫者。即違經說。一生補處亦違五十餘億
+<lb ed="X" n="0820c07"/>等故。四乖越壽量難。瑜伽第四云。四大王眾天滿
+<lb ed="X" n="0820c08"/>足壽量。是等活大那落迦一日一夜。即以此三十
+<lb ed="X" n="0820c09"/>日為一年。十二月為一歲。彼壽五百歲。如是以三
+<lb ed="X" n="0820c10"/>十三天壽。是黑繩壽量。以時分夭壽<note n="0820003" resp="Xuzangjing" place="foot text" type="orig">重疑量</note>重。成眾合壽
+<lb ed="X" n="0820c11"/>量。以知足天壽量。成號叫壽量。以化樂天壽量。成
+<lb ed="X" n="0820c12"/>大號叫壽量。以他化自在天壽量。成燒熱天壽量。
+<lb ed="X" n="0820c13"/>應知亦爾。極燒熱大那落迦有情壽量半中劫。無
+<lb ed="X" n="0820c14"/>間大那落迦壽一中劫。准此<note n="0820004" resp="Xuzangjing" place="foot text" type="orig">而下佚失</note>而　　　　　　　
+<lb ed="X" n="0820c15"/>劫。無間一劫亦轉倍之。然今彌勒菩薩。在知足天。
+<lb ed="X" n="0820c16"/>經半劫餘。釋迦菩薩。在於彼天。經一劫餘。故經號
+<lb ed="X" n="0820c17"/>叫壽量時。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>逕彼天。無數死生。況亦半劫等。如此
+<lb ed="X" n="0820c18"/>妨難。如何可會。真諦三藏云。補處菩薩。生於彼天。
+<lb ed="X" n="0820c19"/>雖無中夭。受多死生。何者。一由旬城所有芥子。百
+<lb ed="X" n="0820c20"/>年去一芥子盡。一刀兵劫量。此之人間四百年。為
+<lb ed="X" n="0820c21"/>彼一日一夜。一日夜中。除四芥子。一月除百二十
+<lb ed="X" n="0820c22"/>芥子。一年除一千四百四十芥子。十年除一萬四
+<lb ed="X" n="0820c23"/>千四百。百年除一億四萬四千。千年除十四億四
+<lb ed="X" n="0820c24"/>萬芥子。四千年除五十七億六萬粒芥子。不過二
+<pb ed="X" id="X21.0388.0821a" n="0821a"/>
+<lb ed="X" n="0821a01"/>三升餘。然釋迦菩薩。第八劫二萬歲。迦葉佛時。相
+<lb ed="X" n="0821a02"/>好業滿。上生兜率多天。至第九劫百年時方出世。
+<lb ed="X" n="0821a03"/>從迦葉佛時。二萬歲漸至十歲。第八劫盡。後第九
+<lb ed="X" n="0821a04"/>劫。從十歲漸上至八萬歲。從八萬漸減至二萬歲
+<lb ed="X" n="0821a05"/>時。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>一劫滿。計既經一由旬芥子盡。復更從二萬
+<lb ed="X" n="0821a06"/>歲。漸減至百年。方下生故。在彼天經一劫餘。是知
+<lb ed="X" n="0821a07"/>補處生兜率天。無數死生。但必盡四千歲。然後命
+<lb ed="X" n="0821a08"/>終。故言不中夭。五百菩薩等。雖兜率天有多死生。
+<lb ed="X" n="0821a09"/>於剡浮提。並有一生。故名一生作天生也。若依此
+<lb ed="X" n="0821a10"/>義。通餘經論者。諸說五十餘億等之文。直顯當於
+<lb ed="X" n="0821a11"/>彼天一生之數。不說上下之間。唯有爾許之年。以
+<lb ed="X" n="0821a12"/>是義故。前所設難。都無可會。有說。立世經以十萬
+<lb ed="X" n="0821a13"/>為億。故云五千七百六十億年。上生經千萬為億。
+<lb ed="X" n="0821a14"/>故云五十七等。其實無異。毗婆沙論百三十五云。
+<lb ed="X" n="0821a15"/>經於五十俱胝六十百千歲。慈氏如來應等正覺。
+<lb ed="X" n="0821a16"/>出現世時。施作佛事。彼論百七十八云。問何故菩
+<lb ed="X" n="0821a17"/>薩唯於都史多天受天趣。&CB08764;後異熟不於餘天耶。
+<lb ed="X" n="0821a18"/>雖有多說。而引一說。唯&CB00418;史多天壽量。與菩薩成
+<lb ed="X" n="0821a19"/>佛及瞻部州人。見佛業熟時。相稱謂人間。經五十
+<lb ed="X" n="0821a20"/>七俱胝六十千歲。能化所化善根應熟。彼即是&CB00418;
+<lb ed="X" n="0821a21"/>史多天壽量。是故菩薩唯生彼天。彼俱胝者。即云
+<lb ed="X" n="0821a22"/>億也。故智論第七云。百億日月。乃至百億大梵。是
+<lb ed="X" n="0821a23"/>名三千大千世界。瑜伽第三云。百俱胝四大州。乃
+<lb ed="X" n="0821a24"/>至百俱胝梵世間。名三千大千世界。以此應言。拘
+<pb ed="X" id="X21.0388.0821b" n="0821b"/>
+<lb ed="X" n="0821b01"/>胝即億也。婆沙百七十七云。積一至百千名洛叉。
+<lb ed="X" n="0821b02"/>至百百千名俱胝。百千俱胝名那庾多。藏論第十
+<lb ed="X" n="0821b03"/>二云。十一為十。十十為百。十百為千。十千為萬。十
+<lb ed="X" n="0821b04"/>萬為洛叉。十洛叉為度洛叉。十度洛叉為俱胝。十
+<lb ed="X" n="0821b05"/>俱胝為末施。十末施為阿庾多。智論第四云。一一
+<lb ed="X" n="0821b06"/>名一。二二名四。三三名九。十十名百。十百名千。十
+<lb ed="X" n="0821b07"/>千名萬。千萬名億。千萬億名那由他。總而言之。<note n="0821001" resp="Xuzangjing" place="foot text" type="orig">拘下佚失</note>拘
+<lb ed="X" n="0821b08"/>未盡理。聖說眾多。不可以三億堪會通故。佛本行
+<lb ed="X" n="0821b09"/>經第三十八。辨伊羅&CB00425;龍王事云。世尊。我何時得
+<lb ed="X" n="0821b10"/>脫此龍身。更何時得復於人身。爾時世尊。告伊羅
+<lb ed="X" n="0821b11"/>&CB00425;大龍王言。汝大龍王。從今<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>去。過若干年。若干
+<lb ed="X" n="0821b12"/>億。於後當有佛。出於世。名曰彌勒多施等。五分律
+<lb ed="X" n="0821b13"/>第十五云。時伊羅&CB00425;龍王。作是念。昔迦葉等佛。記
+<lb ed="X" n="0821b14"/>我於當來。過百千萬億歲。釋迦牟尼佛。出現於世。
+<lb ed="X" n="0821b15"/>當記汝脫龍身時。時今應至。當往見佛等。復白佛
+<lb ed="X" n="0821b16"/>言。願記我。何時當得脫此龍身。佛言。當來過百千
+<lb ed="X" n="0821b17"/>億萬歲。有彌勒佛。出現於世。汝於爾時。得脫龍身。
+<lb ed="X" n="0821b18"/>具彼應說。除三億外。更有何億會此教乎。又彼通
+<lb ed="X" n="0821b19"/>賢愚經等六字。應云七。七字應言六者。良恐非也。
+<lb ed="X" n="0821b20"/>暫誹聖言。久置重苦。&CB08764;不可故。又極樂國。去此婆
+<lb ed="X" n="0821b21"/>國土多小。經文亦異。然不可以&CB08832;數。不同而和會
+<lb ed="X" n="0821b22"/>故。今作一解。彌勒所化。機宜不定。或聞彌勒。遲下
+<lb ed="X" n="0821b23"/>人間。以生信心。或聞慈氏。疾下剡浮。以種善根。是
+<lb ed="X" n="0821b24"/>故如來隨機。宜聞而說。彌勒下生時年。久近差別。
+<pb ed="X" id="X21.0388.0821c" n="0821c"/>
+<lb ed="X" n="0821c01"/>不可凡情。&CB00364;趣定其實。不爾。便違聖說。契經化物
+<lb ed="X" n="0821c02"/>之始。阿毗達磨辨法實性。尚有稱機擬宜之說。況
+<lb ed="X" n="0821c03"/>脩多羅。為化眾生。而種善根。無隨宜之說。理必如
+<lb ed="X" n="0821c04"/>是。不可致&CB00383;。問彌勒出時。至人壽八萬。即應經小
+<lb ed="X" n="0821c05"/>劫。今說五十六萬億歲。下於剡浮。奈何侶焉。察云。
+<lb ed="X" n="0821c06"/>當今向於劫末。若過五十六億萬歲。即至八萬。此
+<lb ed="X" n="0821c07"/>有何妨。又劫名不可數時者。有多種不可數。或以
+<lb ed="X" n="0821c08"/>剎那。須申日月等。並據世間人心。力所不知。名不
+<lb ed="X" n="0821c09"/>可數。未必唯數時行年雙等。為不可數。極微含大
+<lb ed="X" n="0821c10"/>千之界。剎那總三際之時。說五十六億萬歲。而疑
+<lb ed="X" n="0821c11"/>脩促者哉。基云。賢劫經云。人壽一千二百歲。釋迦
+<lb ed="X" n="0821c12"/>始生。&CB00418;史人壽一百歲下生作佛。&CB00418;史天壽四千
+<lb ed="X" n="0821c13"/>歲。人間當五十六億七千萬歲。人壽百歲。慈氏生
+<lb ed="X" n="0821c14"/>天。人壽八萬四千歲。始下成佛。當人間五十六億
+<lb ed="X" n="0821c15"/>七千萬歲。以此而推。劫減時長。劫增時短。不應難
+<lb ed="X" n="0821c16"/>言。釋迦經增減劫。何生彼天中。歲數同唯增時。九
+<lb ed="X" n="0821c17"/>十一劫中。有二十住劫。初住劫。減二萬歲時。上生
+<lb ed="X" n="0821c18"/>彼天。漸至百年。方下人間。彌勒初住。還增至八萬
+<lb ed="X" n="0821c19"/>歲。始下剡浮故。二菩薩在天時等。有雖二解。皆不
+<lb ed="X" n="0821c20"/>盡理。極微含大千之界。剎那總三際之時者。乃是
+<lb ed="X" n="0821c21"/>示理含事&CB00980;蕩之門。不可以此證。法相遠近故。不
+<lb ed="X" n="0821c22"/>爾。如何可說。彌勒生兜率天。天即人之所含。更無
+<lb ed="X" n="0821c23"/>所生故。又增劫時長。減時唯五十六萬億歲。定無
+<lb ed="X" n="0821c24"/>是處。故今解<note n="0821002" resp="Xuzangjing" place="foot text" type="orig">此下佚失</note>此　　　　　　　　　　　　　
+<pb ed="X" id="X21.0388.0822a" n="0822a"/>
+<lb ed="X" n="0822a01"/>相稱。謂人間經五十七俱胝六十千歲。能化所化。
+<lb ed="X" n="0822a02"/>善根應熟。彼即是&CB00418;史多天壽量。是故菩薩唯生
+<lb ed="X" n="0822a03"/>彼天故。彼天雖復多度死生。且說最後死生壽量
+<lb ed="X" n="0822a04"/>令生機緣渴仰心故。傍論且止。應歸本文。</p></div1>
+<lb ed="X" n="0822a05"/><div1 type="orig"><p id="pX21p0822a0501">佛告優波離<note place="inline">至</note>兜率&CB00442;天因緣者。</p></div1>
+<lb ed="X" n="0822a06"/><div1 type="commentary"><p id="pX21p0822a0601" rend="margin-left:1em">述云。第四總結之也。因緣即相狀所由。為利益故。
+<lb ed="X" n="0822a07"/>終說上生。皆有所由。名因緣故。此述第二廣答<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0822a08"/>訖。</p></div1>
+<lb ed="X" n="0822a09"/><div1 type="orig"><p id="pX21p0822a0901">佛滅度後<note place="inline">至</note>讀誦經典者。</p></div1>
+<lb ed="X" n="0822a10"/><div1 type="commentary"><p id="pX21p0822a1001" rend="margin-left:1em">述云。第二勸生彼天。將釋脩行。生兜率天。略作五
+<lb ed="X" n="0822a11"/>門。一辨脩因人。二辨所脩因。三見聖不同。四生得
+<lb ed="X" n="0822a12"/>益。五還解本文。第一脩因人。雖復無量。略有三例。
+<lb ed="X" n="0822a13"/>一菩薩。二二乘。三凡夫。初菩薩者。有說。從初發心。
+<lb ed="X" n="0822a14"/>乃至法雲不然。八地<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上。永離分段。定不應生兜
+<lb ed="X" n="0822a15"/>率天故。今解。從勝解行地。至遠行地。為欲供養一
+<lb ed="X" n="0822a16"/>生菩薩故。為欲聞法種善根故。生兜率天。次二乘
+<lb ed="X" n="0822a17"/>者。有諸眾生。發心願求聲聞緣覺菩提之道。善根
+<lb ed="X" n="0822a18"/>未熟。資糧未&CB09113;。於現身中。不能悟入。因佛為說兜
+<lb ed="X" n="0822a19"/>率陀天一生菩薩。十善報應。極妙樂事。聞彌勒名。
+<lb ed="X" n="0822a20"/>歡喜恭敬。迴心發願。故得往生。後凡夫者。有諸眾
+<lb ed="X" n="0822a21"/>生。雖受禁戒。不能護持。造眾惡業。聞名悔過。離障
+<lb ed="X" n="0822a22"/>清淨。造彌勒像。種種供養。故得往生。脩人略爾。</p><p id="pX21p0822a2219" place="inline" rend="margin-left:1em">第
+<lb ed="X" n="0822a23"/>二所脩因。欲生淨土。所脩之因。願兜率天者。亦須
+<lb ed="X" n="0822a24"/>脩之。故諸經論。因雖眾多。今且依此經。辨彼天因。
+<pb ed="X" id="X21.0388.0822b" n="0822b"/>
+<lb ed="X" n="0822b01"/>略有五種。一捨施。因聞是菩薩大悲名稱。造立形
+<lb ed="X" n="0822b02"/>像。懃脩功德。掃塔塗地。香華衣服。繒&CB02649;幢幡。種種
+<lb ed="X" n="0822b03"/>供養。於彼天處。欲生即生。二防非因。若一念頃。受
+<lb ed="X" n="0822b04"/>八戒齋。脩諸善業。思惟兜率持佛禁戒。一日乃至
+<lb ed="X" n="0822b05"/>七日。思念十善行十善道。以此功德。迴向願生於
+<lb ed="X" n="0822b06"/>天處。即得往生。三離散因。行眾等持。深入正受。應
+<lb ed="X" n="0822b07"/>當繫念。念佛形像。於彼天處。欲生即生。四簡擇因。
+<lb ed="X" n="0822b08"/>讀誦經典。稱彌勒名。發弘誓願。於彼天上。即得往
+<lb ed="X" n="0822b09"/>生。五淨重因。佛滅度後。四部弟子。及天龍等。得聞
+<lb ed="X" n="0822b10"/>彌勒菩薩名者。聞<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>歡喜。恭敬禮拜。此人命終。如
+<lb ed="X" n="0822b11"/>彈指頃。即得往生。經文因雖有此五。准論必有五
+<lb ed="X" n="0822b12"/>門。一禮拜門。依名禮拜。一生菩薩。求生天故。二讚
+<lb ed="X" n="0822b13"/>歎門。至心稱歎。一生菩薩。智慧光明。一切功德故。
+<lb ed="X" n="0822b14"/>三作願門。生兜率天。脩彼菩薩所行所成四觀察
+<lb ed="X" n="0822b15"/>也。所觀有三。一觀彼天上功德&CB00982;嚴。二觀彼一生
+<lb ed="X" n="0822b16"/>菩薩功德&CB00982;嚴。三觀彼天眾功德&CB00982;嚴。莊嚴既多。
+<lb ed="X" n="0822b17"/>不可具論。五迴向門。不捨眾生。迴向為首。所作功
+<lb ed="X" n="0822b18"/>德。迴以施之。共生天上。故以此五門。資前五因。必
+<lb ed="X" n="0822b19"/>生彼天也。第三見<note n="0822001" resp="Xuzangjing" place="foot text" type="orig">聖下佚失</note>聖　　　　　　　　　　　
+<lb ed="X" n="0822b20"/>故。不成二因。以十行中分為二故。基云。六事法者。
+<lb ed="X" n="0822b21"/>一精進脩福。敬恩悲田中。所作業等。二威儀不缺。
+<lb ed="X" n="0822b22"/>堅守諸前行。自住軌則等。三掃塔塗地。脩飾道場。
+<lb ed="X" n="0822b23"/>正理制多等。四香華供養。四事什物。隨洽濟等。五
+<lb ed="X" n="0822b24"/>凡夫行三昧聞思等定。聖人入正受。隨所得禪。或
+<pb ed="X" id="X21.0388.0822c" n="0822c"/>
+<lb ed="X" n="0822c01"/>凡三昧。非六行足。六行定者。必上生故。深住聞思。
+<lb ed="X" n="0822c02"/>亦名三昧。六讀誦經典。演說脩習十<note n="0822002" resp="Xuzangjing" place="foot text" type="orig">行法一作法行</note>行法等。且舉
+<lb ed="X" n="0822c03"/>偏勝。易行上首。有此六事。其中一一。具攝眾業。此
+<lb ed="X" n="0822c04"/>解不盡。離威儀不缺等。更無諸功德故。由此初解。
+<lb ed="X" n="0822c05"/>於理為善。事雖有六。行唯有三。謂戒定慧。威儀不
+<lb ed="X" n="0822c06"/>缺。即止戒行。掃塔塗地。香華供養。即作戒行。行眾
+<lb ed="X" n="0822c07"/>三昧等。即定行也。讀誦經典。即慧行也故。地持論云。
+<lb ed="X" n="0822c08"/>六度之中。前四戒學。次一定學。後一慧學。即其義
+<lb ed="X" n="0822c09"/>也。傍論且止。應釋經文。精進之心。遍&CB04571;諸行。故云
+<lb ed="X" n="0822c10"/>懃脩。威者畏也。儀者軌也。戒與威儀。雖復不同。且
+<lb ed="X" n="0822c11"/>表總義。塔即佛塔。地即僧地。供即供具。亦云備也。
+<lb ed="X" n="0822c12"/>定行非一。曰眾。淵奧難窮。曰深。三昧即三摩地。此
+<lb ed="X" n="0822c13"/>名等持。今云。三昧。此云正受者。謬也。前行後入者。
+<lb ed="X" n="0822c14"/>影略也。總而言之。若具脩六。或能脩五。上上品生。
+<lb ed="X" n="0822c15"/>若脩三四。上中品生。若脩一二。上下品生。生於淨
+<lb ed="X" n="0822c16"/>土。既有九品。生兜率天。亦有九品故。問既不斷結。
+<lb ed="X" n="0822c17"/>應生下界。如何可說入正定耶。答有義。由此欲界
+<lb ed="X" n="0822c18"/>亦有定心故。唯識論亦云。欲界有輕安。不然。彼說。
+<lb ed="X" n="0822c19"/>定加行亦有輕安故。智論云。電光定者。謂欲界定
+<lb ed="X" n="0822c20"/>者。約隨轉門。而作此說。此即雖居下界。專脩六行。
+<lb ed="X" n="0822c21"/>以澄三業。離諸亂想。故同正受。</p></div1>
+<lb ed="X" n="0822c22"/><div1 type="orig"><p id="pX21p0822c2201">如是等人<note place="inline">至</note>如得六通者。</p></div1>
+<lb ed="X" n="0822c23"/><div1 type="commentary"><p id="pX21p0822c2301" rend="margin-left:1em">述云。第二教迴願有三。初歎業勝。次辨攝念。後辨
+<lb ed="X" n="0822c24"/>迴願。此初也。雖諸凡夫不斷結使。異於聖者。若脩
+<pb ed="X" id="X21.0388.0823a" n="0823a"/>
+<lb ed="X" n="0823a01"/>六事。神用廣大。必定往生。如得六通聖者無異。即
+<lb ed="X" n="0823a02"/>歎慧行也。</p></div1>
+<lb ed="X" n="0823a03"/><div1 type="orig"><p id="pX21p0823a0301">應當繫念<note place="inline">至</note>稱彌勒名者。</p></div1>
+<lb ed="X" n="0823a04"/><div1 type="commentary"><p id="pX21p0823a0401" rend="margin-left:1em">述云。此次攝念也。以念形像。類惻真應二種法身。
+<lb ed="X" n="0823a05"/>故念形像。此顯雖復脩行。仍須正念心想形容口
+<lb ed="X" n="0823a06"/>恒稱念。即行眾三昧等也。稱彌勒名。即前慧行也。
+<lb ed="X" n="0823a07"/>有說。念佛即意業。稱名即口業。義亦可也。</p></div1>
+<lb ed="X" n="0823a08"/><div1 type="orig"><p id="pX21p0823a0801">如是等輩<note place="inline">至</note>發弘誓願者。</p></div1>
+<lb ed="X" n="0823a09"/><div1 type="commentary"><p id="pX21p0823a0901" rend="margin-left:1em">述云。此後迴願也。如上所說。行六事輩。極少。但能
+<lb ed="X" n="0823a10"/>於一念頃。至心不犯。持八戒齋。隨脩淨業。發願資
+<lb ed="X" n="0823a11"/>助。迴向定生。言一念者。非餘時犯。唯一念持戒。初
+<lb ed="X" n="0823a12"/>唯發願一念持。何況多時。受八戒齋。即前戒行。脩
+<lb ed="X" n="0823a13"/>諸淨業。即前掃塔塗地。香華供養。雖復脩因。必資
+<lb ed="X" n="0823a14"/>大願。令定天果故。須發四弘誓願。</p></div1>
+<lb ed="X" n="0823a15"/><div1 type="orig"><p id="pX21p0823a1501">命終之後<note place="inline">至</note>結跏趺坐<note n="0823001" resp="Xuzangjing" place="foot text" type="orig">者下佚失</note>者。</p></div1>
+<lb ed="X" n="0823a16"/><div1 type="commentary"><p id="pX21p0823a1601" rend="margin-left:1em">定出生死。除煩惱故。既生彼天。住於梵行。故於華
+<lb ed="X" n="0823a17"/>上。結跏坐也。</p></div1>
+<lb ed="X" n="0823a18"/><div1 type="orig"><p id="pX21p0823a1801">百千天子<note place="inline">至</note>以散其上者。</p></div1>
+<lb ed="X" n="0823a19"/><div1 type="commentary"><p id="pX21p0823a1901" rend="margin-left:1em">述云。第四諸天讚勸有三。初散華。次讚歎。後勸歸。
+<lb ed="X" n="0823a20"/>此初也。摩訶曼陀羅華者。即大適意華。此表內心。
+<lb ed="X" n="0823a21"/>以心念故。以華散之。</p></div1>
+<lb ed="X" n="0823a22"/><div1 type="orig"><p id="pX21p0823a2201">讚言善哉<note place="inline">至</note>來生此處者。</p></div1>
+<lb ed="X" n="0823a23"/><div1 type="commentary"><p id="pX21p0823a2301" rend="margin-left:1em">述云。此次歎也。所行所得。既皆深極。故再言善哉。
+<lb ed="X" n="0823a24"/>由習大因。令成勝果故。善男子者。歎脩行之人。閻
+<pb ed="X" id="X21.0388.0823b" n="0823b"/>
+<lb ed="X" n="0823b01"/>浮提者。歎所脩之因。生此處者。歎所受之果。</p></div1>
+<lb ed="X" n="0823b02"/><div1 type="orig"><p id="pX21p0823b0201">此處名<note place="inline">至</note>汝當歸依者。</p></div1>
+<lb ed="X" n="0823b03"/><div1 type="commentary"><p id="pX21p0823b0301" rend="margin-left:1em">述云。此後勸歸也。處名知足。由此不&CB00361;生死。主名
+<lb ed="X" n="0823b04"/>慈尊。故能垂矜苦厄。歸依即覆護義。謂覆生脩善。
+<lb ed="X" n="0823b05"/>護離眾之心。離眾惡故。不墮三塗。生諸善法。得見
+<lb ed="X" n="0823b06"/>彌勒。</p></div1>
+<lb ed="X" n="0823b07"/><div1 type="orig"><p id="pX21p0823b0701">應聲即禮<note place="inline">至</note>生死之罪者。</p></div1>
+<lb ed="X" n="0823b08"/><div1 type="commentary"><p id="pX21p0823b0801" rend="margin-left:1em">述云。第五生彼利益有二。初滅罪之益。後不退益。
+<lb ed="X" n="0823b09"/>此初也。白豪相光。即所觀之處。利益大故。無間罪
+<lb ed="X" n="0823b10"/>劫一增減。餘處罪劫歲數。為之末劫。凡夫行多。庸
+<lb ed="X" n="0823b11"/>鄙能超惡境。祈彼淨方。夙運不彈。生為上品。況乎
+<lb ed="X" n="0823b12"/>靈景獨在<note n="0823002" resp="Xuzangjing" place="foot text" type="orig">出字疑剩</note>出豪光。心專諦觀。不超生死者也。問隨
+<lb ed="X" n="0823b13"/>觀一相。應得滅罪。何故偏說白豪之相。答白豪相
+<lb ed="X" n="0823b14"/>光。以諸功德之所成。故如大集經第三十七云。云
+<lb ed="X" n="0823b15"/>何菩薩助道無盡。菩薩所脩助道功德無量。無邊
+<lb ed="X" n="0823b16"/>菩薩於中。不應限量。何以故。一切眾生。若去來現
+<lb ed="X" n="0823b17"/>在。及聲聞緣覺所有功德。於佛世尊。始是成就一
+<lb ed="X" n="0823b18"/>毛孔功德。如是一一毛孔所有功德。聚集成就。如
+<lb ed="X" n="0823b19"/>是成就如來一相。如是一一相至三十相。聚集百
+<lb ed="X" n="0823b20"/>倍功德。始成如來眉間豪相。乃至脩集。倍是豪相。
+<lb ed="X" n="0823b21"/>百千功德。始成如來無見頂相。問豪光既有如是
+<lb ed="X" n="0823b22"/>功德。何故<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>滅九十億劫之罪。答理實滅罪。隨自
+<lb ed="X" n="0823b23"/>心力。多少不定。今且隨機。宜聞而說。</p></div1>
+<lb ed="X" n="0823b24"/><div1 type="orig"><p id="pX21p0823b2401">是時菩薩<note place="inline">至</note>無上道心者。</p></div1>
+<pb ed="X" id="X21.0388.0823c" n="0823c"/>
+<lb ed="X" n="0823c01"/><div1 type="commentary"><p id="pX21p0823c0101" rend="margin-left:1em">述云。此後不退益也。隨說往緣。今悟前業法。因知
+<lb ed="X" n="0823c02"/>自成不退。昔不退者。更為堅因。隨其位次。成上發
+<lb ed="X" n="0823c03"/>心。</p></div1>
+<lb ed="X" n="0823c04"/><div1 type="orig"><p id="pX21p0823c0401">如是等眾生<note place="inline">至</note>值遇彌勒。</p></div1>
+<lb ed="X" n="0823c05"/><div1 type="commentary"><p id="pX21p0823c0501" rend="margin-left:1em">述云。第六總結成上有四。一得生上。二隨下生。三
+<lb ed="X" n="0823c06"/>值賢劫佛。四值星宿佛。此初也。三業俱淨。六事齊
+<lb ed="X" n="0823c07"/>脩。後生彼天。此復何&CB00383;。隨脩六事法。少淨三業。心
+<lb ed="X" n="0823c08"/>期不二。後定上生。</p></div1>
+<lb ed="X" n="0823c09"/><div1 type="orig"><p id="pX21p0823c0901">亦隨彌勒<note place="inline">至</note>第一聞法者。</p></div1>
+<lb ed="X" n="0823c10"/><div1 type="commentary"><p id="pX21p0823c1001" rend="margin-left:1em">述云。此次隨下生也。父母之道。當感天然。虎嘯風
+<lb ed="X" n="0823c11"/>生。此事何惑。六事滿三業圓。上品生彼者。隨初會
+<lb ed="X" n="0823c12"/>而聞法也。</p></div1>
+<lb ed="X" n="0823c13"/><div1 type="orig"><p id="pX21p0823c1301">於未來世<note place="inline">至</note>一切諸佛者。</p></div1>
+<lb ed="X" n="0823c14"/><div1 type="commentary"><p id="pX21p0823c1401" rend="margin-left:1em">述云。第三值賢劫佛。<note n="0823003" resp="Xuzangjing" place="foot text" type="orig">善下佚失</note>善　　　　　　　　　　
+<lb ed="X" n="0823c15"/>如悲華經第二。</p></div1>
+<lb ed="X" n="0823c16"/><div1 type="orig"><p id="pX21p0823c1601">於星宿劫<note place="inline">至</note>受菩提記者。</p></div1>
+<lb ed="X" n="0823c17"/><div1 type="commentary"><p id="pX21p0823c1701" rend="margin-left:1em">述云。第四值星宿佛。積善之家。必有餘慶。供佛之
+<lb ed="X" n="0823c18"/>心。當有餘善故。亦逢當劫之佛。&CB00982;嚴星宿之名。未
+<lb ed="X" n="0823c19"/>見聖說。義准賢劫。解亦無違。彼二劫中千佛曾&CB00982;
+<lb ed="X" n="0823c20"/>嚴。及當例星宿而生。故仍名焉。此中將讚三劫。略
+<lb ed="X" n="0823c21"/>作四門。一建立之意。二佛出之時。三三劫次第。四
+<lb ed="X" n="0823c22"/>還解本文。第一建立之意。問有何義故。立此三劫。
+<lb ed="X" n="0823c23"/>答觀藥王藥上菩薩經云。爾時釋迦佛。告大眾言。
+<lb ed="X" n="0823c24"/>我曾往昔。於妙光如來末法之中。出家學道。聞是
+<pb ed="X" id="X21.0388.0824a" n="0824a"/>
+<lb ed="X" n="0824a01"/>五十三佛名。心生歡喜。復教他人。他人聞<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。轉轉
+<lb ed="X" n="0824a02"/>相教。乃至三千人。異口同音。稱往佛名。深心敬禮。
+<lb ed="X" n="0824a03"/>即得超越無數億劫生死之罪。其千人者。華光佛
+<lb ed="X" n="0824a04"/>為首。下至毗舍佛。於過去&CB00982;嚴劫中。得成於佛。此
+<lb ed="X" n="0824a05"/>中千佛。拘留孫佛為首。下至樓至如來。於賢劫中。
+<lb ed="X" n="0824a06"/>得成於佛。後千佛者。日光如來為首。下至須彌相
+<lb ed="X" n="0824a07"/>佛。未來星宿劫中。當得作佛。無垢稱經第六云。過
+<lb ed="X" n="0824a08"/>去轉輪王。名為寶&CB02649;。今寶焰如來。輪王千王子。今
+<lb ed="X" n="0824a09"/>賢劫千佛月盍王子。今釋迦是。智論有千萬劫。過
+<lb ed="X" n="0824a10"/>去空無有佛。是一劫中有千佛。興諸淨居天歡喜
+<lb ed="X" n="0824a11"/>故。名為善淨居天。何以知。此劫當有千佛。前劫盡
+<lb ed="X" n="0824a12"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。廓然都盡。後有大水。水底涌出千枝七寶光明
+<lb ed="X" n="0824a13"/>蓮華。是千佛之相。淨居諸天。因此知有佛。以此言
+<lb ed="X" n="0824a14"/>之。即由三千人發心因緣。故立三劫。而非過未必
+<lb ed="X" n="0824a15"/>有此三也。</p><p id="pX21p0824a1505" place="inline" rend="margin-left:1em">第二佛出之時。問此三劫中。既有千佛
+<lb ed="X" n="0824a16"/>者。為一成壞有千佛。為經多成壞劫。答真諦三藏
+<lb ed="X" n="0824a17"/>云。成壞空劫。皆無佛出。唯於住劫。有佛出世。於二
+<lb ed="X" n="0824a18"/>十劫中。前十劫中。有佛出世。後十劫無。前劫中。前
+<lb ed="X" n="0824a19"/>之五劫。亦無出世。第六劫中。拘留孫佛出世。第七
+<lb ed="X" n="0824a20"/>劫中。拘&CB06363;含牟尼佛出。第八劫中。迦葉佛出。第九
+<lb ed="X" n="0824a21"/>劫中。釋迦佛出。第十劫中。彌勒佛出。從彌勒後。無
+<lb ed="X" n="0824a22"/>量劫中。空無佛出。故知千佛不得出一成壞劫。又
+<lb ed="X" n="0824a23"/>若賢劫有千佛。即言同在成壞一劫中。亦過去&CB00982;
+<lb ed="X" n="0824a24"/>嚴劫中有千佛。應同在成壞一劫中。若言同者如
+<pb ed="X" id="X21.0388.0824b" n="0824b"/>
+<lb ed="X" n="0824b01"/>何。藏論云。如彼過去莊嚴劫中。末後三佛。毗婆尸
+<lb ed="X" n="0824b02"/>佛。即於九十一劫中。初劫出世。如尸&CB00020;佛。毗舍浮
+<lb ed="X" n="0824b03"/>佛。即在三十一劫中出世。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>後無佛。乃至第九十
+<lb ed="X" n="0824b04"/>一劫。即賢劫之初。有拘留孫佛。&CB08764;初出世。既說莊
+<lb ed="X" n="0824b05"/>嚴劫中千佛。末後三佛。經九十劫中前後出世。將
+<lb ed="X" n="0824b06"/>知賢劫千佛。亦不同在一成壞劫。奘法師<note n="0824001" resp="Xuzangjing" place="foot text" type="orig">云下佚失</note>云。　　
+<lb ed="X" n="0824b07"/>增至八十億。賢劫經亦同一劫增減<note n="0824002" resp="Xuzangjing" place="foot text" type="orig">之下疑有脫字</note>之也。然立世
+<lb ed="X" n="0824b08"/>經云。成<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>住者。幾多<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>過。幾多未過。八小劫<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>過。
+<lb ed="X" n="0824b09"/>十一小劫未來。第九一劫。現在未盡。此第九一劫。
+<lb ed="X" n="0824b10"/>幾多<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>過。幾多未來。未來定餘六百九十年在者。
+<lb ed="X" n="0824b11"/>於大無妨。正是小乘宗故。問復如何知大乘宗中
+<lb ed="X" n="0824b12"/>三劫<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>後。更無百劫脩相好業。答優婆塞戒經第
+<lb ed="X" n="0824b13"/>一云。我於往昔寶頂佛所。滿足第一阿僧祇劫。燃
+<lb ed="X" n="0824b14"/>燈佛所。滿足第二阿僧祇劫。迦葉佛所。滿足第三
+<lb ed="X" n="0824b15"/>阿僧祇劫。若三劫後。更有百劫者。釋迦不應補迦
+<lb ed="X" n="0824b16"/>葉佛處。故知大乘菩薩脩因。但經三劫。無別百劫。
+<lb ed="X" n="0824b17"/>有義。二宗互通。各所引文。非也。真實隨轉二門故。</p>
+<lb ed="X" n="0824b18"/><p id="pX21p0824b1801" rend="margin-left:1em">第三三劫次第。問此三劫次第。無間起不。答有說。
+<lb ed="X" n="0824b19"/>初&CB00982;嚴劫。望於賢劫。定應無間。故藥尚經說。莊嚴
+<lb ed="X" n="0824b20"/>劫千佛&CB08764;先成佛。名和光。&CB08764;後成佛。名毗舍。毗舍
+<lb ed="X" n="0824b21"/>即前九十劫中。第三十一劫佛。是也。以此劫後不
+<lb ed="X" n="0824b22"/>說別劫。至第九十一劫。方說賢劫。即知前九十劫。
+<lb ed="X" n="0824b23"/>以云名莊嚴劫。其星宿劫。聖說不定。大般若第九
+<lb ed="X" n="0824b24"/>云。佛告阿難陀言。此從坐起。無量苾&CB00034;。從是<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>後。
+<pb ed="X" id="X21.0388.0824c" n="0824c"/>
+<lb ed="X" n="0824c01"/>六十一劫。星宿劫。當得作佛。皆同一號。謂大幢相
+<lb ed="X" n="0824c02"/>如來。以此將知。六十一劫為星宿劫。星宿劫前。皆
+<lb ed="X" n="0824c03"/>名賢劫。賢劫經第十云。爾時普廣意轉輪聖王。即
+<lb ed="X" n="0824c04"/>定光如來是也。其佛侍者。名曰無損智。比丘者唯
+<lb ed="X" n="0824c05"/>衛佛是也。其王千子。是賢劫中千佛。過千佛<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。六
+<lb ed="X" n="0824c06"/>十五劫。當斷無佛。然後有劫。號大名稱。皆同斯劫。
+<lb ed="X" n="0824c07"/>成&CB08764;正覺。其彼世時。八萬大臣。在大名稱劫。而復
+<lb ed="X" n="0824c08"/>道覺過劫<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。中間斷絕竟。八十劫都無佛興。然後
+<lb ed="X" n="0824c09"/>有劫。名喻星宿。其八萬大臣。於斯劫中。成&CB08764;正覺。
+<lb ed="X" n="0824c10"/>過星宿劫。中間斷絕境。三百中劫亦無佛興。然後
+<lb ed="X" n="0824c11"/>有劫。名重清淨。此轉輪聖王后綵女八萬四千。當
+<lb ed="X" n="0824c12"/>於其劫。成&CB08764;正覺。以此言之。賢劫<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>後。有大稱劫。
+<lb ed="X" n="0824c13"/>然後乃有星宿劫。中萬佛出世。問藥尚經說三劫
+<lb ed="X" n="0824c14"/>千佛次第而起。如何此經說。賢劫後更有多劫。方
+<lb ed="X" n="0824c15"/>說星宿劫。答應作二解。初解。藥尚經星宿劫。即賢
+<lb ed="X" n="0824c16"/>劫經大名稱劫。但恐名濫後星宿劫。以異名說。其
+<lb ed="X" n="0824c17"/>實名無別故。大般若經云。從是<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>後。六十一劫。星
+<lb ed="X" n="0824c18"/>喻劫中。當得作佛。故知大名稱劫。即星宿劫。後解。
+<lb ed="X" n="0824c19"/>劫量長短不定。星宿劫者。總含多劫故。大般若經
+<lb ed="X" n="0824c20"/>說星宿劫初。名星宿劫故。但說六十一劫。為星宿
+<lb ed="X" n="0824c21"/>劫。賢劫經說星宿劫<note n="0824003" resp="Xuzangjing" place="foot text" type="orig">終下佚失</note>終　　　　　　　　　　
+<lb ed="X" n="0824c22"/>縛象三種。對法據多分。且說三種涅槃。意通捉矩
+<lb ed="X" n="0824c23"/>之屬。對法樂損涅槃中。無初八開差別故。即對法
+<lb ed="X" n="0824c24"/>四。俱彼生故。對法讒揲。即是兩舌。名別義同故。雜
+<pb ed="X" id="X21.0388.0825a" n="0825a"/>
+<lb ed="X" n="0825a01"/>心小宗。但說重者。名非律儀。餘者輕故。由此義故。
+<lb ed="X" n="0825a02"/>頭數雖別。而不相違。有說。此惡律儀亦攝一切犯
+<lb ed="X" n="0825a03"/>戒惡行。非也。處中之惡。應成惡律儀故。傍論且止。
+<lb ed="X" n="0825a04"/>還釋文。其墮耶見及惡律儀。有佛無中邊。諸方皆
+<lb ed="X" n="0825a05"/>備有之。若聞彌勒名。皆定不墮。三業歸依。深心歡
+<lb ed="X" n="0825a06"/>喜。四等宿願。威力加故。</p></div1>
+<lb ed="X" n="0825a07"/><div1 type="orig"><p id="pX21p0825a0701">恒生正見<note place="inline">至</note>不謗三寶者。</p></div1>
+<lb ed="X" n="0825a08"/><div1 type="commentary"><p id="pX21p0825a0801" rend="margin-left:1em">述云。此後有善有三。一恒生正見。即反前耶見也。
+<lb ed="X" n="0825a09"/>二眷屬成就。即反前惡律儀也。三不謗三寶。即反
+<lb ed="X" n="0825a10"/>前不墮暗處。不生邊地。恒逢三寶。生信向故。不但
+<lb ed="X" n="0825a11"/>中品無惡。有三善上下品生。隨應立有。欲明聞名
+<lb ed="X" n="0825a12"/>者。改八部之異形。受四生之勝體。偏於中品。而獨
+<lb ed="X" n="0825a13"/>說之。</p></div1>
+<lb ed="X" n="0825a14"/><div1 type="orig"><p id="pX21p0825a1401">優波離<note place="inline">至</note>速得清淨者。</p></div1>
+<lb ed="X" n="0825a15"/><div1 type="commentary"><p id="pX21p0825a1501" rend="margin-left:1em">述云。第三辨下品生。即眾犯戒。悔淨往生也。於中
+<lb ed="X" n="0825a16"/>有三。初悔歸罪滅。脩行往生。次見聖不退。後值未
+<lb ed="X" n="0825a17"/>來佛。初又有三。初罪滅。次脩行。後往生。此初罪滅
+<lb ed="X" n="0825a18"/>有二。一者先受戒禁。而後犯之。二者先不受戒。造
+<lb ed="X" n="0825a19"/>眾惡業。聞名歸禮。兩手二足。及以頭首。五體投地。
+<lb ed="X" n="0825a20"/>至誠懺悔。罪速清淨。</p></div1>
+<lb ed="X" n="0825a21"/><div1 type="orig"><p id="pX21p0825a2101">未來世中<note place="inline">至</note>禮拜繫念者。</p></div1>
+<lb ed="X" n="0825a22"/><div1 type="commentary"><p id="pX21p0825a2201" rend="margin-left:1em">述云。此次脩行也。設不作罪。懺悔願生。但脩十行。
+<lb ed="X" n="0825a23"/>定得生彼。一聞<note n="0825001" resp="Xuzangjing" place="foot text" type="orig">補入名字</note>名稱。二造形像。三香供。四華供。五
+<lb ed="X" n="0825a24"/>衣服供。六繒&CB02649;供。七幢供。八幡供。九身恒禮拜。十
+<pb ed="X" id="X21.0388.0825b" n="0825b"/>
+<lb ed="X" n="0825b01"/>心思繫念。</p></div1>
+<lb ed="X" n="0825b02"/><div1 type="orig"><p id="pX21p0825b0201">此人命終時<note place="inline">至</note>得往生者。</p></div1>
+<lb ed="X" n="0825b03"/><div1 type="commentary"><p id="pX21p0825b0301" rend="margin-left:1em">述云。此後往生也。犯戒造惡。歸依清淨。聞名脩行。
+<lb ed="X" n="0825b04"/>命欲終時。菩薩放白豪之妙光。滅其罪暗。雨綺華
+<lb ed="X" n="0825b05"/>之麗色。長其道種。佛天來迎。表慈深故。須臾往生。
+<lb ed="X" n="0825b06"/>顯業勝故。總相雖然。委悉說者。懺悔造像。供養禮
+<lb ed="X" n="0825b07"/>拜。及繫念者。下品上生。懺悔造像。供養禮拜。不恒
+<lb ed="X" n="0825b08"/>繫者。下品中生。懺悔造像。供養而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。不恒禮拜。不
+<lb ed="X" n="0825b09"/>常念者。下品下生。雖歸悔罪得銷除。不造形像。供
+<lb ed="X" n="0825b10"/>養禮拜等。或但形像。或但供養。或但禮拜。或但繫
+<lb ed="X" n="0825b11"/>念。或一稱名。亦下下品。設不生彼。三會之中。亦得
+<lb ed="X" n="0825b12"/>度脫。</p></div1>
+<lb ed="X" n="0825b13"/><div1 type="orig"><p id="pX21p0825b1301">值遇彌勒<note place="inline">至</note>得不退轉者。</p></div1>
+<lb ed="X" n="0825b14"/><div1 type="commentary"><p id="pX21p0825b1401" rend="margin-left:1em">述云。第二見聖不退。善根久熟。見便禮敬。慈悲自
+<lb ed="X" n="0825b15"/>起。疾得聞法。除不信心。速得不退。有說。十信位中。
+<lb ed="X" n="0825b16"/>不退之心。名得不<note n="0825002" resp="Xuzangjing" place="foot text" type="orig">退下佚失</note>退。</p></div1>
+<lb ed="X" n="0825b17"/><div1 type="orig"><p id="pX21p0825b1701">於未來世<note place="inline">至</note>諸佛如來者。</p></div1>
+<lb ed="X" n="0825b18"/><div1 type="commentary"><p id="pX21p0825b1801" rend="margin-left:1em">述云。第三當值佛也。即於當來。得值星宿劫。後恒
+<lb ed="X" n="0825b19"/>沙諸佛。而非星宿劫中諸佛。不爾。便違上品三生。
+<lb ed="X" n="0825b20"/>唯值星宿劫諸佛故。此上往生。雖復三類九品而
+<lb ed="X" n="0825b21"/>生。並內眾中。親得見佛速聞法也。若生外眾。雖第
+<lb ed="X" n="0825b22"/>九品。任運後時。還成不退。佛號慈尊。善自長故。此
+<lb ed="X" n="0825b23"/>述初脩行往生<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>訖。</p></div1>
+<lb ed="X" n="0825b24"/><div1 type="orig"><p id="pX21p0825b2401">佛告優波離<note place="inline">至</note>作大歸依者。</p></div1>
+<pb ed="X" id="X21.0388.0825c" n="0825c"/>
+<lb ed="X" n="0825c01"/><div1 type="commentary"><p id="pX21p0825c0101" rend="margin-left:1em">述云。第二總勸歸聖證得善利有三。初聖作歸依。
+<lb ed="X" n="0825c02"/>次歸者不退。後見光受記。此初之也。釋迦滅度。五
+<lb ed="X" n="0825c03"/>道眾生。沈淪苦海。無所依恃。既未逢真報之佛。皆
+<lb ed="X" n="0825c04"/>屬慈尊。作歸令度。若不見者。便失大利。故云大歸
+<lb ed="X" n="0825c05"/>依處。</p></div1>
+<lb ed="X" n="0825c06"/><div1 type="orig"><p id="pX21p0825c0601">若有歸依<note place="inline">至</note>得不退轉者。</p></div1>
+<lb ed="X" n="0825c07"/><div1 type="commentary"><p id="pX21p0825c0701" rend="margin-left:1em">述云。此次歸得不退也。有說。歸依彌勒。即得入位
+<lb ed="X" n="0825c08"/>益。不然。入位即入十信故。多劫脩行。得入十信處
+<lb ed="X" n="0825c09"/>信處說故今。解值。彌勒必得菩提故。得不退轉。</p></div1>
+<lb ed="X" n="0825c10"/><div1 type="orig"><p id="pX21p0825c1001">彌勒菩薩<note place="inline">至</note>即得授記者。</p></div1>
+<lb ed="X" n="0825c11"/><div1 type="commentary"><p id="pX21p0825c1101" rend="margin-left:1em">述云。此後得授記也。多陀阿伽度。如來也。阿羅呵。
+<lb ed="X" n="0825c12"/>應也。三&CB01211;三佛陀。正遍知也。其得聖者慧矚智光。
+<lb ed="X" n="0825c13"/>若凡夫人。眼見金色。因既不退果□無上。</p></div1>
+<lb ed="X" n="0825c14"/><div1 type="orig"><p id="pX21p0825c1401">佛告優波離<note place="inline">至</note>繫念思惟者。</p></div1>
+<lb ed="X" n="0825c15"/><div1 type="commentary"><p id="pX21p0825c1501" rend="margin-left:1em">述云。第三示歸聖者。滅罪多少。三類九品。願往生
+<lb ed="X" n="0825c16"/>者。脩十善行。念名恭敬。滅罪異故。於中有二。初辨
+<lb ed="X" n="0825c17"/>樂生業滿得生。後辨不樂行亦未滿。初又有四。一
+<lb ed="X" n="0825c18"/>令念。二勸行。三教願。四滅罪。此初也。即以繫念思
+<lb ed="X" n="0825c19"/>惟。善心為生。兜率天因也。</p></div1>
+<lb ed="X" n="0825c20"/><div1 type="orig"><p id="pX21p0825c2001">欲念兜率陀天<note place="inline">至</note>行十善道者。</p></div1>
+<lb ed="X" n="0825c21"/><div1 type="commentary"><p id="pX21p0825c2101" rend="margin-left:1em">述云。第二勸行也。且論持戒。不說餘業。舉其極少。
+<lb ed="X" n="0825c22"/>一日至七日。亦得往生。何況多年多生脩行。以一
+<lb ed="X" n="0825c23"/>切善。十善攝盡。故思念之。行據重者。名十善道。有
+<lb ed="X" n="0825c24"/>說。別以前行。為往生因。總以十善。為往生因。不然
+<pb ed="X" id="X21.0388.0826a" n="0826a"/>
+<lb ed="X" n="0826a01"/>戒及業道。行脩別故。</p></div1>
+<lb ed="X" n="0826a02"/><div1 type="orig"><p id="pX21p0826a0201">以此功德<note place="inline">至</note>當作觀者。</p></div1>
+<lb ed="X" n="0826a03"/><div1 type="commentary"><p id="pX21p0826a0301" rend="margin-left:1em">述云。第三教願也。有行無願。而行必孤。未必得生
+<lb ed="X" n="0826a04"/>慈氏所故。有願無行。而願必&CB00980;。前既無因。果不生
+<lb ed="X" n="0826a05"/><note n="0826001" resp="Xuzangjing" place="foot text" type="orig">補入故字</note>故。所以教願與行相扶。</p></div1>
+<lb ed="X" n="0826a06"/><div1 type="orig"><p id="pX21p0826a0601">作是觀者<note place="inline">至</note>生死之罪者。</p></div1>
+<lb ed="X" n="0826a07"/><div1 type="commentary"><p id="pX21p0826a0701" rend="margin-left:1em">述云。第四滅罪有三。初逢緣駐想。次聞名起敬。後
+<lb ed="X" n="0826a08"/>禮拜投誠。此初緣有三。初有情。即見一天人也。隨
+<lb ed="X" n="0826a09"/>遇一有情緣。即念彌勒。有苦念&CB15072;。無樂念與。惡者
+<lb ed="X" n="0826a10"/>念除。善者念攝。勝者欣求。劣者念厭。善友念崇。惡
+<lb ed="X" n="0826a11"/>友念拒。復諸法。即見一蓮華也。隨遇一法。即念彌
+<lb ed="X" n="0826a12"/>勒。好法思供養。惡法不遇。染法欣斷。淨法欣修。然
+<lb ed="X" n="0826a13"/>今且<note n="0826002" resp="Xuzangjing" place="foot text" type="orig">舉下佚失</note>舉　　　　　　　　　　　　　　　　
+<lb ed="X" n="0826a14"/>念。一切時念不暫休廢。若一念頃。念滅千二百劫
+<lb ed="X" n="0826a15"/>生死之罪。慈氏宿願念者心專。故致於此。</p></div1>
+<lb ed="X" n="0826a16"/><div1 type="orig"><p id="pX21p0826a1601">但聞彌勒名<note place="inline">至</note>生死之罪者。</p></div1>
+<lb ed="X" n="0826a17"/><div1 type="commentary"><p id="pX21p0826a1701" rend="margin-left:1em">述云。此次聞名起敬也。前言若逢緣一念頃念滅
+<lb ed="X" n="0826a18"/>千二百劫。此但聞名。合掌恭敬。除五十劫者。<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>發
+<lb ed="X" n="0826a19"/>身業。首不至地。歸心輕故。</p></div1>
+<lb ed="X" n="0826a20"/><div1 type="orig"><p id="pX21p0826a2001">若有至心生死之罪者。</p></div1>
+<lb ed="X" n="0826a21"/><div1 type="commentary"><p id="pX21p0826a2101" rend="margin-left:1em">述云。此後禮拜投誠。以首至地。日夜相續。除罪百
+<lb ed="X" n="0826a22"/>億劫。身心等歸。並皆重故。此為&CB08764;重見豪。第二一
+<lb ed="X" n="0826a23"/>念頃。第三聞名合掌。第四輕重異故。問何故見身
+<lb ed="X" n="0826a24"/>豪相。不如遙念。答見佛身相。滅罪寔多。良以遙念
+<pb ed="X" id="X21.0388.0826b" n="0826b"/>
+<lb ed="X" n="0826b01"/>行而難生。見歸崇而易起。行化之法。先勸作難脩。
+<lb ed="X" n="0826b02"/>後勸作易行。又人間苦重。欣意殊深。天上樂多。厭
+<lb ed="X" n="0826b03"/>心誠淺。又遙念者。一念頃時長故。意念故。見光者。
+<lb ed="X" n="0826b04"/>蹔時間時短故。眼見故。故遙念者滅罪多。見光豪
+<lb ed="X" n="0826b05"/>者滅罪少。問聞名歸念。滅罪多少。經有誠文。造形
+<lb ed="X" n="0826b06"/>供養功德。亦有多少。答功德更多。作事相續念。亦
+<lb ed="X" n="0826b07"/>大故。此中且舉少念少禮一蹔歸聞。若數數聽聞。
+<lb ed="X" n="0826b08"/>頻頻敬禮。朝朝供養。功德更多。前三品脩。但辨得
+<lb ed="X" n="0826b09"/>生之福。未論滅罪之相故。至於此方。示歸聖者。滅
+<lb ed="X" n="0826b10"/>罪多少。有義。一念稱名。唯有語業。而無餘二。聞名
+<lb ed="X" n="0826b11"/>合掌。亦有身業。至心敬禮。具有三業。故滅罪多少
+<lb ed="X" n="0826b12"/>不同。然不身語二業必有意業故。然賢劫經約下
+<lb ed="X" n="0826b13"/><note n="0826003" resp="Xuzangjing" place="foot text" type="orig">位字字体不明</note>位菩提。稱供禮拜。故云除百千萬阿僧祇劫生死
+<lb ed="X" n="0826b14"/>之罪。亦不違此也。</p></div1>
+<lb ed="X" n="0826b15"/><div1 type="orig"><p id="pX21p0826b1501">設不生天<note place="inline">至</note>發無上道心者。</p></div1>
+<lb ed="X" n="0826b16"/><div1 type="commentary"><p id="pX21p0826b1601" rend="margin-left:1em">述云。第二不樂生天業力未滿。未滿善故。龍華三
+<lb ed="X" n="0826b17"/>會亦發道心。前樂生天。三品業滿。龍華三會。皆悉
+<lb ed="X" n="0826b18"/>得道。此唯發心。故有差別。菩薩處胎經第三云。汝
+<lb ed="X" n="0826b19"/>生快樂國。不如我國苦。汝說法甚易。我說法甚難。
+<lb ed="X" n="0826b20"/>初說九十六受我五戒者。次說九十四受持三歸
+<lb ed="X" n="0826b21"/>者。後說九十二一稱南無佛。據實。上品生脩六事
+<lb ed="X" n="0826b22"/>法。而言受五戒。初會得度者。且舉脩六中威儀不
+<lb ed="X" n="0826b23"/>缺而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。上品下生。唯一事故。受持三歸。第二會度
+<lb ed="X" n="0826b24"/>者。中品上生。具三業故。一稱南無佛。第三會度者。
+<pb ed="X" id="X21.0388.0826c" n="0826c"/>
+<lb ed="X" n="0826c01"/>下品下生。唯口念故。彼經略舉三中各一所脩。故
+<lb ed="X" n="0826c02"/>不相違。問預造彌勒當成佛形者。從後境中生福
+<lb ed="X" n="0826c03"/>耶。答有義。從未來境生福。以心信未來故。而為讚
+<lb ed="X" n="0826c04"/>美。即時大士當得作佛。故造佛形而菩薩善資。若
+<lb ed="X" n="0826c05"/>追造佛昔菩薩形。亦有兩義。例之可解。有義。不然。
+<lb ed="X" n="0826c06"/>正從去來之境發福心。亦去來隔於現在。現在無
+<lb ed="X" n="0826c07"/>資故。預造彌勒當成佛形。即於本地生。追造亦然。
+<lb ed="X" n="0826c08"/>不爾。便違毀謗得罪義故。問若<note n="0826004" resp="Xuzangjing" place="foot text" type="orig">爾下佚夫</note>爾　　　　　　
+<lb ed="X" n="0826c09"/>來力所任持故。又涅槃云。二施果報等無差別者。
+<lb ed="X" n="0826c10"/>以本佛同故。傍論且止。應釋經文。此述初勸生彼
+<lb ed="X" n="0826c11"/>行<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>訖。</p></div1>
+<lb ed="X" n="0826c12"/><div1 type="orig"><p id="pX21p0826c1201">說是語時<note place="inline">至</note>百千&CB01615;者。</p></div1>
+<lb ed="X" n="0826c13"/><div1 type="commentary"><p id="pX21p0826c1301" rend="margin-left:1em">述云。第二眾發希願有二。初眾發願。後佛記生。初
+<lb ed="X" n="0826c14"/>又有二。初威儀。後發願。此初也。從坐起者。表生於
+<lb ed="X" n="0826c15"/>彼從生死起。禮二足者。捨煩惱故。繞佛菩薩百千
+<lb ed="X" n="0826c16"/>&CB01615;者。<note n="0826005" resp="Xuzangjing" place="foot text" type="orig">形疑顯</note>形百千生常不離故。</p></div1>
+<lb ed="X" n="0826c17"/><div1 type="orig"><p id="pX21p0826c1701">未得道者<note place="inline">至</note>兜率陀天者。</p></div1>
+<lb ed="X" n="0826c18"/><div1 type="commentary"><p id="pX21p0826c1801" rend="margin-left:1em">述云。此後發願也。未得道者。<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>舉凡夫。聖隨願故。
+<lb ed="X" n="0826c19"/>不還無學。神通可往。勵勸末代。故不談聖。未來值
+<lb ed="X" n="0826c20"/>遇三會。得度捨此身<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。方願生上故。</p></div1>
+<lb ed="X" n="0826c21"/><div1 type="orig"><p id="pX21p0826c2101">世尊記曰<note place="inline">至</note>之所攝受者。</p></div1>
+<lb ed="X" n="0826c22"/><div1 type="commentary"><p id="pX21p0826c2201" rend="margin-left:1em">述云。第二佛記生也。汝等及未來下品行者。乃至
+<lb ed="X" n="0826c23"/>一念稱彌勒名。皆得生彼。況能脩福持戒。上品不
+<lb ed="X" n="0826c24"/>生。三乘五乘。皆度脫故。</p></div1>
+<pb ed="X" id="X21.0388.0827a" n="0827a"/>
+<lb ed="X" n="0827a01"/><div1 type="orig"><p id="pX21p0827a0101">佛告優波離<note place="inline">至</note>為耶觀者。</p></div1>
+<lb ed="X" n="0827a02"/><div1 type="commentary"><p id="pX21p0827a0201" rend="margin-left:1em">述云。第三結成正觀。為度末代。慇勸往也。今此一
+<lb ed="X" n="0827a03"/>經。雖有三分。而初二分<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>訖。</p></div1>
+<lb ed="X" n="0827a04"/><div1 type="orig"><p id="pX21p0827a0401">爾時尊者<note place="inline">至</note>我今隨喜者。</p></div1>
+<lb ed="X" n="0827a05"/><div1 type="commentary"><p id="pX21p0827a0501" rend="margin-left:1em">述云。第三問名喜行分有四。一問。二答。三時眾獲
+<lb ed="X" n="0827a06"/>益。四喜退流通。初中後二。初讚說隨喜。後正問持
+<lb ed="X" n="0827a07"/>名。此初也。歎凡及聖功德業果故。成前說皆通二
+<lb ed="X" n="0827a08"/>感。聞說慶悅。故言隨喜。</p></div1>
+<lb ed="X" n="0827a09"/><div1 type="orig"><p id="pX21p0827a0901">唯然世尊<note place="inline">至</note>何名此經者。</p></div1>
+<lb ed="X" n="0827a10"/><div1 type="commentary"><p id="pX21p0827a1001" rend="margin-left:1em">述云。此後問持名也。唯然者。敬諾之詞。此經要妙。
+<lb ed="X" n="0827a11"/>如何受持。行之儀軌。復何名之。</p></div1>
+<lb ed="X" n="0827a12"/><div1 type="orig"><p id="pX21p0827a1201">佛告阿難<note place="inline">至</note>莫斷佛種。</p></div1>
+<lb ed="X" n="0827a13"/><div1 type="commentary"><p id="pX21p0827a1301" rend="margin-left:1em">述云。第二答有二。此初答受持也。我今滅度。末代
+<lb ed="X" n="0827a14"/>無依。故歡受持。&CB00330;令不忘。為令未來近受天中之
+<lb ed="X" n="0827a15"/>法樂。捨四趣之淪喪。遠示菩提之妙相。出三界而
+<lb ed="X" n="0827a16"/>超驤。經在有植善根。法滅便須斷佛種佛。謂圓覺
+<lb ed="X" n="0827a17"/>種名為因慧。學故慧生。不學種斷。</p></div1>
+<lb ed="X" n="0827a18"/><div1 type="orig"><p id="pX21p0827a1801">此經名至<note place="inline">至</note>如是受持者。</p></div1>
+<lb ed="X" n="0827a19"/><div1 type="commentary"><p id="pX21p0827a1901" rend="margin-left:1em">述云。此後正答名也。說彌勒菩薩涅槃之事。故以
+<lb ed="X" n="0827a20"/>為名。示生彼相。令有矚觀。勸進發心。流通萬代。依
+<lb ed="X" n="0827a21"/>名釋義。如是受持受。謂領納在心。持者任持之不
+<lb ed="X" n="0827a22"/>忘。</p></div1>
+<lb ed="X" n="0827a23"/><div1 type="orig"><p id="pX21p0827a2301">佛說是語<note place="inline">至</note>首楞嚴三昧者。</p></div1>
+<lb ed="X" n="0827a24"/><div1 type="commentary"><p id="pX21p0827a2401" rend="margin-left:1em">述云。第三時眾獲益有二。初聖益。後凡益。此初也。
+<pb ed="X" id="X21.0388.0827b" n="0827b"/>
+<lb ed="X" n="0827b01"/>或有經云。十方菩薩。此即善慧地滿心菩薩。聞此
+<lb ed="X" n="0827b02"/>經故。得入第十地健行之定。以此證知。變化身亦
+<lb ed="X" n="0827b03"/>化地上菩薩。不爾。當知雖復一會。所見異故。聞他
+<lb ed="X" n="0827b04"/>受用身之所說法。而得法雲。首楞嚴定同時處凡
+<lb ed="X" n="0827b05"/>聖&CB00308;妙之身。佛地論說故。有說。十法菩薩。聞此經
+<lb ed="X" n="0827b06"/>故。即得進成金剛三昧。不然。無別說故。</p></div1>
+<lb ed="X" n="0827b07"/><div1 type="orig"><p id="pX21p0827b0701">八萬億諸天<note place="inline">至</note>彌勒下生者。</p></div1>
+<lb ed="X" n="0827b08"/><div1 type="commentary"><p id="pX21p0827b0801" rend="margin-left:1em">述<note n="0827001" resp="Xuzangjing" place="foot text" type="orig">云字疑剩</note>云。此後凡益。即此方兜率天眾得益之也。非但
+<lb ed="X" n="0827b09"/>當時發心。亦願未來隨生<note n="0827002" resp="Xuzangjing" place="foot text" type="orig">故下佚失</note>故。</p>
+<lb ed="X" n="0827b10"/><p id="pX21p0827b1001" rend="margin-left:1em"><note n="0827003" resp="Xuzangjing" place="foot text" type="orig">是等四十五行恐釋別譯經文</note>是何種姓故。今作一解。一者菩薩行法不厭生死
+<lb ed="X" n="0827b11"/>者。受生死苦。行利樂故。樂生天者。託勝所依。脩妙
+<lb ed="X" n="0827b12"/>行故。於一切生。受尊貴故。處劣自體行不圓故。生
+<lb ed="X" n="0827b13"/>天得見彌勒佛故。不同二乘厭生死苦。恐天放逸。
+<lb ed="X" n="0827b14"/>不樂生也。二者愛敬無上菩提心者。即示脩勝行
+<lb ed="X" n="0827b15"/>求大菩提。於彌勒所。聞大法故。不樂大乘。希小果
+<lb ed="X" n="0827b16"/>者。隨受生處。欣涅槃故。三者欲為彌勒作弟子者。
+<lb ed="X" n="0827b17"/>願於惡界為作善。利苦有情。所希行救濟。不願淨
+<lb ed="X" n="0827b18"/>土。作餘佛弟子。欣無苦有情可行濟度。無苦可厭。
+<lb ed="X" n="0827b19"/>欣心不深故。又釋迦末法。持戒犯戒。有戒無戒。釋
+<lb ed="X" n="0827b20"/>迦皆囑。彌勒度之。自揣解行。難生淨土。可為彌勒
+<lb ed="X" n="0827b21"/>作弟子者。於上所說。天宮處所。應作是觀。其觀者
+<lb ed="X" n="0827b22"/>後。</p></div1>
+<lb ed="X" n="0827b23"/><div1 type="orig"><p id="pX21p0827b2301">作是觀者<note place="inline">至</note>上妙快樂者。</p></div1>
+<lb ed="X" n="0827b24"/><div1 type="commentary"><p id="pX21p0827b2401" rend="margin-left:1em">述云。第二教生彼行也。欲生彼天。即脩五因。一持
+<pb ed="X" id="X21.0388.0827c" n="0827c"/>
+<lb ed="X" n="0827c01"/>五戒。二持八戒。二持具足戒。即是出家五眾所受。
+<lb ed="X" n="0827c02"/>皆名具戒。懃&CB14075;等戒。雖非具戒。具延方便。故立此
+<lb ed="X" n="0827c03"/>三戒之所以。廣如瑜伽論四。身心精進。不求斷結。
+<lb ed="X" n="0827c04"/>精純無惡雜故。進謂昇進。不懈退故。不求斷結者。
+<lb ed="X" n="0827c05"/>非作精進。六行斷結。斷結便生上二界故。五脩十
+<lb ed="X" n="0827c06"/>善法。足離煞等。廣如對法等。今此且論。凡夫散心。
+<lb ed="X" n="0827c07"/>五麤因行。感內外院增上果業。未是巨細分別解
+<lb ed="X" n="0827c08"/>釋。生彼業因。廣勸生中。方具教示。雖脩此因。要須
+<lb ed="X" n="0827c09"/>一一思惟彼天上妙快樂。迴願生故。前行非觀。觀
+<lb ed="X" n="0827c10"/>為首故。思惟彼樂。</p></div1>
+<lb ed="X" n="0827c11"/><div1 type="orig"><p id="pX21p0827c1101">作是觀者。</p></div1>
+<lb ed="X" n="0827c12"/><div1 type="commentary"><p id="pX21p0827c1201" rend="margin-left:1em">述云。此後結正觀也。知佛時遙。病重行&CB00830;。受佛付
+<lb ed="X" n="0827c13"/>囑。欣當佛度。末代津梁。真為世觀。業識淺微。智量
+<lb ed="X" n="0827c14"/>&CB00565;拙。欣生報土。越分所望。不稱病行。名為耶觀。此
+<lb ed="X" n="0827c15"/>上述初外果<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>訖。</p></div1>
+<lb ed="X" n="0827c16"/><div1 type="orig"><p id="pX21p0827c1601">爾時優波離<note place="inline">至</note>極妙樂事者。</p></div1>
+<lb ed="X" n="0827c17"/><div1 type="commentary"><p id="pX21p0827c1701" rend="margin-left:1em">述云。第二辨內果有三。初發請。次廣答。後結勸生
+<lb ed="X" n="0827c18"/>彼。初又有三。初請儀。次歎勝。後正請。此初二也。</p></div1>
+<lb ed="X" n="0827c19"/><div1 type="orig"><p id="pX21p0827c1901">令此大士<note place="inline">至</note>何時生彼者。</p></div1>
+<lb ed="X" n="0827c20"/><div1 type="commentary"><p id="pX21p0827c2001" rend="margin-left:1em">述云。此後正請有二。初問此沒。後問生彼。不以對
+<lb ed="X" n="0827c21"/>沒。難以顯生。故兼足也。有義准答。即有五問。一問。
+<lb ed="X" n="0827c22"/>彌勒既生兜率。從今<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>後。示知此人更經幾年何
+<lb ed="X" n="0827c23"/>月何日。人間命終。上生彼天。二問。彌勒捨命之時。
+<lb ed="X" n="0827c24"/>身在何國何村何家。三問。彌勒臨命死相。四問。彌
+<pb ed="X" id="X21.0388.0828a" n="0828a"/>
+<lb ed="X" n="0828a01"/>勒死後殯相。五問。彌勒天上受身之相。雖有五問。
+<lb ed="X" n="0828a02"/>問中略有&CB08764;初之問。此解不然。中間三答。傍乘義
+<lb ed="X" n="0828a03"/>故。非別問也。</p></div1>
+<lb ed="X" n="0828a04"/><div1 type="orig"><p id="pX21p0828a0401">佛告優波離<note place="inline">至</note>二月十五日者。</p></div1>
+<lb ed="X" n="0828a05"/><div1 type="commentary"><p id="pX21p0828a0501" rend="margin-left:1em">述云。第二佛答有四。一答此沒後。二答生彼。三住
+<lb ed="X" n="0828a06"/>天<note n="0828001" resp="Xuzangjing" place="foot text" type="orig">壽下佚失</note>壽　　　　　　　　　　　　　　　　　
+<lb ed="X" n="0828a07"/>　　　　　　　　　　　　　　　　　　　　
+<lb ed="X" n="0828a08"/>表聞受記。脩十二住。得度生死十二緣起。二月者。
+<lb ed="X" n="0828a09"/>即春陽之月。種植根裁。華&CB00031;穀榮。百獸孚乳。此中
+<lb ed="X" n="0828a10"/>二月。況二種法身。陽春和液。人所愛樂。即喻智者。
+<lb ed="X" n="0828a11"/>樂於如來常樂我淨。種植者。喻聞法歡喜。發菩提
+<lb ed="X" n="0828a12"/>心。根裁者。喻於十方諸大菩薩。來詣佛所。諮受大
+<lb ed="X" n="0828a13"/>乘之法。孚乳者。喻佛弟子。生諸善根。華喻七覺。&CB00031;
+<lb ed="X" n="0828a14"/>喻四果。以是義故。二月沒也。其十五日。亦有十一
+<lb ed="X" n="0828a15"/>事。一者破暗喻破無明。二令見道非道。喻說正道
+<lb ed="X" n="0828a16"/>耶道。三令見耶正。喻示生死涅槃。四除&CB15106;蒸得清
+<lb ed="X" n="0828a17"/>&CB00289;。喻令人遠離貪嗔等熱。五破螢火高心。喻破外
+<lb ed="X" n="0828a18"/>道光明。六息賊盜之想。喻破煩惱結賊。七除眾生
+<lb ed="X" n="0828a19"/>畏惡獸心。況滅畏五&CB02649;心。八敷優&CB00425;羅華。喻開眾
+<lb ed="X" n="0828a20"/>生種善根心。九合蓮華。喻覆&CB02649;眾生五欲之心。十
+<lb ed="X" n="0828a21"/>發行人進路之心。喻起眾生進脩趣向涅槃之行。
+<lb ed="X" n="0828a22"/>十一令諸眾生。示受五欲。多獲快樂。喻令諸眾生
+<lb ed="X" n="0828a23"/>示脩解脫。以是義故。二月之內。上十五日。以命終
+<lb ed="X" n="0828a24"/>之。准涅槃經。理必應然。佛與菩薩。雖覆不同。利樂
+<pb ed="X" id="X21.0388.0828b" n="0828b"/>
+<lb ed="X" n="0828b01"/>之意。等無異故。</p></div1>
+<lb ed="X" n="0828b02"/><div1 type="orig"><p id="pX21p0828b0201">於此波羅捺國<note place="inline">至</note>還至生處者。</p></div1>
+<lb ed="X" n="0828b03"/><div1 type="commentary"><p id="pX21p0828b0301" rend="margin-left:1em">述云。第二假處也。波羅捺者。云江遶城。劫波利者。
+<lb ed="X" n="0828b04"/>此云捉髑髏鬼。波婆利者。此云大護。即於本國本
+<lb ed="X" n="0828b05"/>村本父父生之處。釋迦欲表此方緣畢。餘方教化。
+<lb ed="X" n="0828b06"/>故於迦維生。俱尸那滅。慈氏菩薩此緣未盡。表於
+<lb ed="X" n="0828b07"/>此滅。復於此生。行利他故。還本生處。而命終也。母
+<lb ed="X" n="0828b08"/>家即南天竺波婆利國。故名還至。問彌勒性慈。何
+<lb ed="X" n="0828b09"/>故父母皆波婆利。答慈氏即表德之姓。波婆利者。
+<lb ed="X" n="0828b10"/>本俗之姓。<note place="inline">更勘</note>然彌勒生處。聖教不同。華嚴經入
+<lb ed="X" n="0828b11"/>法界品。彌勒菩薩告善哉童子言。我於此閻浮提
+<lb ed="X" n="0828b12"/>南界摩離國內。拘提聚落。波羅門家種姓中生。為
+<lb ed="X" n="0828b13"/>欲滅彼高慢心故。化度父母。及親族故。於此命終。
+<lb ed="X" n="0828b14"/>生兜率天。為欲化度被諸天故。賢愚經同。第十六
+<lb ed="X" n="0828b15"/>云。波羅奈王。名波羅摩達。有補相生一男兒。三十
+<lb ed="X" n="0828b16"/>二相。眾相好備滿。輔相增悅。即召相師。相師占言。
+<lb ed="X" n="0828b17"/>有大德之相。故國人民悉聞彌勒所有高勝德相
+<lb ed="X" n="0828b18"/>之聲。國王聞之。懷懼憂。此子有德之相。必奪我德。
+<lb ed="X" n="0828b19"/>欲煞其子故。即&CB00330;輔相。汝子可將來。吾欲見此因
+<lb ed="X" n="0828b20"/>緣故。輔相密遣波婆梨所。此波婆梨。在婆梨富國
+<lb ed="X" n="0828b21"/>令彼養。乃至廣說。今此上生經。亦異彼二經。如何
+<lb ed="X" n="0828b22"/>可會。<note n="0828002" resp="Xuzangjing" place="foot text" type="orig">答下佚失</note>答　　　　　　　　　　　　　　　　
+<lb ed="X" n="0828b23"/>別答初反故不。答爾許時下生故。</p></div1>
+<lb ed="X" n="0828b24"/><div1 type="orig"><p id="pX21p0828b2401">佛告阿難<note place="inline">至</note>執在心懷者。</p></div1>
+<pb ed="X" id="X21.0388.0828c" n="0828c"/>
+<lb ed="X" n="0828c01"/><div1 type="commentary"><p id="pX21p0828c0101" rend="margin-left:1em">述云。第二如來許說彌勒出世者。正許佛問。兼佛
+<lb ed="X" n="0828c02"/>經幾時。國土豐樂者。許境豐樂。弟子多少者。許弟
+<lb ed="X" n="0828c03"/>子翼從。恐聞而忘失。說即無益。故思在心懷。</p></div1>
+<lb ed="X" n="0828c04"/><div1 type="orig"><p id="pX21p0828c0401">是阿難時<note place="inline">至</note>即還就坐者。</p></div1>
+<lb ed="X" n="0828c05"/><div1 type="commentary"><p id="pX21p0828c0501" rend="margin-left:1em">述云。第三阿難領旨。歛許說之旨。故曰受教順定
+<lb ed="X" n="0828c06"/>坐。故還就坐。</p></div1>
+<lb ed="X" n="0828c07"/><div1 type="orig"><p id="pX21p0828c0701">爾時世尊<note place="inline">至</note>於此國界者。</p></div1>
+<lb ed="X" n="0828c08"/><div1 type="commentary"><p id="pX21p0828c0801" rend="margin-left:1em">述云。第四佛答問有二。初正答問。後勸脩因。初又
+<lb ed="X" n="0828c09"/>有四。一答境豐樂。二答佛。三答弟子。四答幾時。答
+<lb ed="X" n="0828c10"/>眾問中。兼辨神變。故不別答。初又有四。一國邑莊
+<lb ed="X" n="0828c11"/>嚴。二地土廣美。三人民相和。四王臣勝善。初又有
+<lb ed="X" n="0828c12"/>三。初城邑莊嚴。次龍王加好。後鬼神除惡。初又三。
+<lb ed="X" n="0828c13"/>初時。次處。後城。此初二也。說此經時。望彌勒出。經
+<lb ed="X" n="0828c14"/>五十六億萬歲。故云將來久遠。上生經曰。如彌勒
+<lb ed="X" n="0828c15"/>下生經說者。即指此也。有說。經半劫故。將來久遠。
+<lb ed="X" n="0828c16"/>但上生經為宜物聞故。約彼天壽。而說五十六億
+<lb ed="X" n="0828c17"/>萬歲。此說可也。義之如前。裝法師云。西方說故。王
+<lb ed="X" n="0828c18"/>舍城是香第城。未來有王。名餉佉。所都大城。名雞
+<lb ed="X" n="0828c19"/>頭未。此名<note n="0828003" resp="Xuzangjing" place="foot text" type="orig">慧下佚失</note>慧　　　　　　　　　　　　　　
+<lb ed="X" n="0828c20"/>檀那越披提羅達。所在國名。波羅那夷。今我釋迦
+<lb ed="X" n="0828c21"/>文佛。父字悅頭檀。剎利種。母字摩耶。所治國名迦
+<lb ed="X" n="0828c22"/>維。准義而言唯衛等。佛父雖是國王。而迦葉佛父
+<lb ed="X" n="0828c23"/>應非國王。以云所在。不言所治故。長阿含第一言。
+<lb ed="X" n="0828c24"/>迦葉佛父名梵德。波羅門種。母名曰財主。是時王
+<pb ed="X" id="X21.0388.0829a" n="0829a"/>
+<lb ed="X" n="0829a01"/>名汲毗王。所治國名波羅捺。餘雖異名。華夷不同。
+<lb ed="X" n="0829a02"/>應無違也。毗婆尸佛時大臣。名提舍。餘者可勘。</p></div1>
+<lb ed="X" n="0829a03"/><div1 type="orig"><p id="pX21p0829a0301">斯能分別<note place="inline">至</note>國界若干者。</p></div1>
+<lb ed="X" n="0829a04"/><div1 type="commentary"><p id="pX21p0829a0401" rend="margin-left:1em">述云。此次歎現在智。現在國界既無數量。不可具
+<lb ed="X" n="0829a05"/>論。略如十住婆沙論。</p></div1>
+<lb ed="X" n="0829a06"/><div1 type="orig"><p id="pX21p0829a0601">亦復明了<note place="inline">至</note>真等正覺者。</p></div1>
+<lb ed="X" n="0829a07"/><div1 type="commentary"><p id="pX21p0829a0701" rend="margin-left:1em">述云。此後歎未來智。智雖復照當來諸佛。慶喜欲
+<lb ed="X" n="0829a08"/>問。彌勒化導故。且舉蠰佉時之事也。</p></div1>
+<lb ed="X" n="0829a09"/><div1 type="orig"><p id="pX21p0829a0901">欲聞其變<note place="inline">至</note>為經幾時者。</p></div1>
+<lb ed="X" n="0829a10"/><div1 type="commentary"><p id="pX21p0829a1001" rend="margin-left:1em">述云。第二陳請。請其五事。一佛神力。即變也。二徒
+<lb ed="X" n="0829a11"/>眾多少。即弟子翼從也。三彌勒成佛。即佛也。四依
+<lb ed="X" n="0829a12"/>報莊嚴。即境豐樂也。五住世之時。即經幾時也。有
+<lb ed="X" n="0829a13"/>說。變者。國土人民。前後不定。故言變。非神力變。無
+<lb ed="X" n="0829a14"/>別答故。幾時者。問五十六億萬歲之時。而非住時。
+<lb ed="X" n="0829a15"/>不然。如<note n="0829001" resp="Xuzangjing" place="foot text" type="orig">來下佚失</note>來　　　　　　　　　　　　　　　
+<lb ed="X" n="0829a16"/>前五因皆見菩薩應化二身。而來迎接。約增而言。
+<lb ed="X" n="0829a17"/>唯脩施因。以得見聖。由其施行。能捨財物。造立形
+<lb ed="X" n="0829a18"/>像。種種供養。表聖聖故。見應化而來迎。接問禪定
+<lb ed="X" n="0829a19"/>智慧二種因緣。何故不見。乃約施行。以彰見聖。若
+<lb ed="X" n="0829a20"/>據實而論。脩定慧因。皆有始脩終成之義。若約終
+<lb ed="X" n="0829a21"/>成合理之定。內證真智。實見菩薩應化來迎。今據
+<lb ed="X" n="0829a22"/>始脩。不契理證。所以不見<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>成施行。所表處勝。故
+<lb ed="X" n="0829a23"/>約之辨。見上生不同。</p><p id="pX21p0829a2309" place="inline" rend="margin-left:1em">第四彰生獲益。因既眾多。獲
+<lb ed="X" n="0829a24"/>益遂異。雖復無數。旦依此經。得益有二。一滅罪益。
+<pb ed="X" id="X21.0388.0829b" n="0829b"/>
+<lb ed="X" n="0829b01"/>二聞法益。初益有六。一歸依得益。如經云。禮<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>諦
+<lb ed="X" n="0829b02"/>觀眉間白毫。即得超越九十億劫生死之罪。二禮
+<lb ed="X" n="0829b03"/>敬得益。如經云。若有禮敬。彌勒菩薩。除百億劫生
+<lb ed="X" n="0829b04"/>死之罪。三聞名得益。如經云。但得聞是彌勒名者。
+<lb ed="X" n="0829b05"/>不墮黑闇邊地耶見諸惡律儀。四滅罪得益。如經
+<lb ed="X" n="0829b06"/>云。但聞彌勒名。合掌恭敬。除五十劫生死之罪。五
+<lb ed="X" n="0829b07"/>聞稱得益。如經云。若一念頃。稱彌勒名。此人除&CB00230;
+<lb ed="X" n="0829b08"/>千二百劫生死之罪。六悔過得益。如經云。男子女
+<lb ed="X" n="0829b09"/>人。犯諸禁戒。造眾惡業。聞是菩薩大悲名字。五體
+<lb ed="X" n="0829b10"/>投地。誠心悔懺。是諸惡業。速得清淨。後法益有三。
+<lb ed="X" n="0829b11"/>一聞法獲益。如經云。是時菩薩。隨其宿緣。為說妙
+<lb ed="X" n="0829b12"/>法。令其堅因。不退轉於無上道心。二遇聖獲益有
+<lb ed="X" n="0829b13"/>三。一現值聖益。如經云。值遇彌勒。亦隨彌勒。下剡
+<lb ed="X" n="0829b14"/>浮提。第一聞法。二生值聖益。如經云。值遇賢劫一
+<lb ed="X" n="0829b15"/>切諸佛。三後值聖益。如經云。於未來得值恒沙等
+<lb ed="X" n="0829b16"/>諸佛。三授記獲益有二。初為彌勒。受菩提記。如經
+<lb ed="X" n="0829b17"/>云。若有歸依彌勒菩薩。當知是人。於無上道。得不
+<lb ed="X" n="0829b18"/>退轉。菩薩成佛。見佛光明。即得授記。後為諸佛授
+<lb ed="X" n="0829b19"/>記。如經云。於星宿劫。亦得值遇諸佛世尊。於諸佛
+<lb ed="X" n="0829b20"/>前。授菩提記。傍論且止。應歸釋文。第五之門也。於
+<lb ed="X" n="0829b21"/>中有三。初勸生彼行。次眾發希願。後結成正觀。初
+<lb ed="X" n="0829b22"/>又有三。初脩因往生。品類不同。次總勸歸聖。證得
+<lb ed="X" n="0829b23"/>善利。後示歸聖者。滅罪多少。初中後三。初上品因
+<lb ed="X" n="0829b24"/>生。次中品因生。後下品因生。初中復六。一示脩因。
+<pb ed="X" id="X21.0388.0829c" n="0829c"/>
+<lb ed="X" n="0829c01"/>二教迴願。三正往生。四諸天讚勸。五生彼利益。六
+<lb ed="X" n="0829c02"/>總結成上。初又有二。初總表。即懃脩功德也。後別
+<lb ed="X" n="0829c03"/>解。即六事因也。何者為六。一護戒行。即威儀不缺
+<lb ed="X" n="0829c04"/>故。二敬塔行。即掃塔塗地也。三供養行。即以眾名
+<lb ed="X" n="0829c05"/>香妙華供養也。四等持行。即行眾三昧。入正受也
+<lb ed="X" n="0829c06"/>五讀誦經行。六誦經行。即讀誦經典也。有說。一威
+<lb ed="X" n="0829c07"/>儀不缺。<note n="0829002" resp="Xuzangjing" place="foot text" type="orig">二下佚失</note>二　　　　　　　　　　　　　　　
+<lb ed="X" n="0829c08"/>小乘宗既有不同。如何諸教令可准一。今作此說。
+<lb ed="X" n="0829c09"/>依小乘宗。三劫未必無間而起減。佛善少故。今依
+<lb ed="X" n="0829c10"/>大乘。三劫定應無有間絕。善根多故。成住壞劫。如
+<lb ed="X" n="0829c11"/>次名為莊嚴賢劫星宿劫。理無違故。傍論且止。應
+<lb ed="X" n="0829c12"/>歸釋文。第四之門也。菩提名覺。覺諸法故。授亦云
+<lb ed="X" n="0829c13"/>受。受是弟子。授是如來。如來授與。記其必得。故名
+<lb ed="X" n="0829c14"/>授記。弟子領意。信得不&CB00980;。故名受記。將講授記。略
+<lb ed="X" n="0829c15"/>作五門。一授記意。二授記者。三授記人。四時差別。
+<lb ed="X" n="0829c16"/>五釋文。第一授記意。如來授記。自有五意。一大師
+<lb ed="X" n="0829c17"/>逆照。二因必得果。三令他人起敬。四不捨眾生。有
+<lb ed="X" n="0829c18"/>作佛義。五行位<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>高。由此五義。故須授菩提之記
+<lb ed="X" n="0829c19"/>也。第二授記者。佛有三身。有說。若授二乘及地前
+<lb ed="X" n="0829c20"/>菩薩記。唯是化身。若授大地菩薩記。通有報身。故
+<lb ed="X" n="0829c21"/>攝論云。化身為二乘及地前菩薩說法。應身為地
+<lb ed="X" n="0829c22"/>上菩薩說法。楞伽經說。應化佛為應化聲聞授記。
+<lb ed="X" n="0829c23"/>報法佛而授記別。智論說。法性生身佛說法。十位
+<lb ed="X" n="0829c24"/>菩薩能受。此解不然。化身既化大地菩薩。應身亦
+<pb ed="X" id="X21.0388.0830a" n="0830a"/>
+<lb ed="X" n="0830a01"/>應化二乘凡夫故。若不許然。便違佛地論。神力加
+<lb ed="X" n="0830a02"/>而令暫見故。法身雖復說法與授記。義有異故。應
+<lb ed="X" n="0830a03"/>說諸能授者。必是化身及他受用身。思之可解。第
+<lb ed="X" n="0830a04"/>三受記人有五故。資&CB00295;論云。一未發心。二共發心。
+<lb ed="X" n="0830a05"/>三隱覆。四現前。五密意。前四授大乘人。後一授小
+<lb ed="X" n="0830a06"/>乘人。初未發心者。有說。當十信位。由得增上信故。
+<lb ed="X" n="0830a07"/>不然。十信<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>前。尚<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>發心。況亦十信而未發心。今
+<lb ed="X" n="0830a08"/>解。無始之來。至未發菩提之心故。莊嚴論。判為性
+<lb ed="X" n="0830a09"/>地。即性種姓故。如首楞嚴經云。是人往來五道。諸
+<lb ed="X" n="0830a10"/>根猛利。好樂大法。佛知是人過此若干百千萬億
+<lb ed="X" n="0830a11"/>阿僧祗劫。當得阿耨菩提心。次共發心者。有說。十
+<lb ed="X" n="0830a12"/>解十行位。由得增上行故。不然。十信亦<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>發心故。
+<lb ed="X" n="0830a13"/>今解善法欲去。名為發心故。彼論云。成熟善根。種
+<lb ed="X" n="0830a14"/>菩提種。得增上行。但欲解脫諸眾生故。即發心時。
+<lb ed="X" n="0830a15"/>入不退轉。無墮落法。離八不閑。<note place="inline">即八難也</note>次隱覆者。始
+<lb ed="X" n="0830a16"/>從十向。至七地位。若聞自授記。於六度行。不發精
+<lb ed="X" n="0830a17"/>進。不聞更發。欲使斷他念。此菩薩懃心精進。幾時
+<lb ed="X" n="0830a18"/>得菩提疑。故與授記。有說。乃至七地未得。法爾不
+<lb ed="X" n="0830a19"/>退。於行有時退故。不然。初地<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>行。必不退故。次現
+<lb ed="X" n="0830a20"/>前者。若菩薩成就。出世五根。得無生忍。住不動地。
+<lb ed="X" n="0830a21"/>時非前後。諸佛現前。授記作佛故。後密意者。如法
+<lb ed="X" n="0830a22"/>華經說。我等皆隨喜。大仙密意。語如。</p></div1>
+</body></text></TEI.2>

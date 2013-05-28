@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X59n1087.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1087 略授三歸五八戒並菩薩戒</title>
+			<author>唐 澄照讚</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.12 $ (Big5)<date>$Date: 2009/04/22 09:01:11 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:01:11 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 59, No. 1087 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/06/13 08:44:31</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X59n1087.xml,v $
+Revision 1.12  2009/04/22 09:01:11  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.11  2008/12/04 08:37:37  amtbgrace
+modified: 序文 的 type xml 標記修訂。
+
+Revision 1.10  2007/08/29 06:38:32  amtbgrace
+modified: 校注插入 XML 作業完成
+
+Revision 1.9  2005/11/30 06:34:34  amtbgrace
+modified: 執行全部 mulu.py, 取消自訂目錄的全形括號
+
+Revision 1.8  2005/08/15 09:20:52  eva
+modified: 產生 pdf 標記有誤修訂
+
+Revision 1.7  2005/08/15 09:19:31  eva
+modified: 產生 pdf 標記有誤修訂
+
+Revision 1.6  2005/07/19 06:01:22  eva
+modified: normal 比對修訂
+
+Revision 1.5  2005/07/15 11:15:27  eva
+modified: HH目錄檢查
+
+Revision 1.4  2005/07/13 09:11:39  eva
+modified: 依 note.txt 修訂 及 目錄檢查修訂
+
+Revision 1.3  2005/06/13 00:49:03  edith
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X59.1087.0357b" n="0357b"/>
+<lb ed="X" n="0357b01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0357b02"/>
+<lb ed="X" n="0357b03"/>
+<lb ed="X" n="0357b04"/>
+<lb ed="X" n="0357b05"/><head type="no">No. 1087</head>
+<lb ed="X" n="0357b06"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>略授三歸五八戒并菩薩戒</jhead></juan>
+<lb ed="X" n="0357b07"/>
+<lb ed="X" n="0357b08"/><byline type="author">安國寺沙門　澄照　讚</byline>
+<lb ed="X" n="0357b09"/><div1 type="other"><mulu type="其他" level="1" label="八門次第"/><p id="pX59p0357b0901">夫戒法者乃是成佛之源證聖之本七支若不清淨
+<lb ed="X" n="0357b10"/>三昧無由現前故和四果因此而生十地假茲方&CB00018;
+<lb ed="X" n="0357b11"/>斯則萬行之根本也千佛之&CB17240;轍也既善從戒起果
+<lb ed="X" n="0357b12"/>籍同成授者必須令合法式或稱說相為羯磨或目
+<lb ed="X" n="0357b13"/>翻邪為得戒或文增罔據或句減無&CB02712;此乃徒設劬
+<lb ed="X" n="0357b14"/>勞不發戒品故梵網經云則為自欺誑亦誑他人能
+<lb ed="X" n="0357b15"/>授者既獲輕垢之&CB00985;所受者何緣得清淨之戒今依
+<lb ed="X" n="0357b16"/>聖教略集軌儀總作八門以成次第。</p>
+<lb ed="X" n="0357b17"/><list><item id="itemX59p0357b1701">第一說受由序</item><item id="itemX59p0357b1707">第二請聖證明</item>
+<lb ed="X" n="0357b18"/><item id="itemX59p0357b1801">第三翻邪歸依</item><item id="itemX59p0357b1807">第四懺除往業</item>
+<lb ed="X" n="0357b19"/><item id="itemX59p0357b1901">第五說法開悟</item><item id="itemX59p0357b1907">第六正發律儀</item>
+<lb ed="X" n="0357b20"/><item id="itemX59p0357b2001">第七示相護持</item><item id="itemX59p0357b2007">第八發願回向</item></list></div1>
+<lb ed="X" n="0357b21"/><div1 type="xu"><mulu type="序" level="1" label="第一由序"/><head>第一由序者</head><p id="pX59p0357b2106" place="inline">惟我釋迦慈父垂本願而現娑婆以大
+<lb ed="X" n="0357b22"/>悲心演尸羅而濟惡趣戒者是成佛之本受者須有
+<lb ed="X" n="0357b23"/>信心若也不起信心戒品無由得發然信不同有其
+<lb ed="X" n="0357b24"/>兩種一者正信二者邪信邪信者何如信無想天處
+<pb ed="X" id="X59.1087.0357c" n="0357c"/>
+<lb ed="X" n="0357c01"/>非非想處是真涅槃方尼揵陀若提子等可歸依境
+<lb ed="X" n="0357c02"/>如此見者名為邪信正信者可知三乘菩提是真解
+<lb ed="X" n="0357c03"/>脫三寶勝境是可歸依無上福田真能拔濟如此見
+<lb ed="X" n="0357c04"/>者名為正信然此信心如水精珠能清濁水信心若
+<lb ed="X" n="0357c05"/>發疑惑塵垢應念消除內心澄徹堪受如來清淨戒
+<lb ed="X" n="0357c06"/>品故賢愚經云我觀諸眾生喻若&CB07663;中狗我欲將手
+<lb ed="X" n="0357c07"/>拔還來咬我手<note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上經文如來以教為手眾生以信為手</note>狗墜深&CB04985;之內
+<lb ed="X" n="0357c08"/>欲反起毒心斯則自喪<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>身無由得出如來悲願力
+<lb ed="X" n="0357c09"/>垂教拔濟有情不能發起信心反乃生其毀謗此則
+<lb ed="X" n="0357c10"/>長淪生死無有解脫之期是故勸汝諸人令於三寶
+<lb ed="X" n="0357c11"/>生信汝等盡能發心不<note place="inline">如為一人應云是故我今勸汝令於三寶生信汝今能發
+<lb ed="X" n="0357c12"/>淨信心否能者答言能次語云</note>汝等既能發淨信心是則堪受如來
+<lb ed="X" n="0357c13"/>淨戒所以要須受佛戒者薩遮尼揵子經云若不受
+<lb ed="X" n="0357c14"/>佛戒野干之身尚不可得何況人身以是義故諸修
+<lb ed="X" n="0357c15"/>行人要先受戒籍此為本眾行方生近感人天遠獲
+<lb ed="X" n="0357c16"/><note n="0357001" resp="Xuzangjing" place="foot text" type="orig">是疑佛</note>是果故遺教經云若無淨戒諸善功德不可得生以
+<lb ed="X" n="0357c17"/>是當知戒為第一戒有多種淺深不同今將授者是
+<lb ed="X" n="0357c18"/>近事五戒<note place="inline">梵云鄔婆素迦唐言近事男梵云鄔婆斯迦唐云近事女親近承事佛法僧故舊云
+<lb ed="X" n="0357c19"/>優婆塞此云清信男等謂能起清淨信心故也</note>然此五戒是人身戒若能持
+<lb ed="X" n="0357c20"/>者不失人身乃至修行得成佛果故華嚴經云戒是
+<lb ed="X" n="0357c21"/>無上菩提本應當具足持淨戒若人能持是淨戒是
+<lb ed="X" n="0357c22"/>則如來所讚歎又薩婆多論第七云我於無量劫中
+<lb ed="X" n="0357c23"/>修菩薩行今得成佛心能解波羅提木叉以授眾生
+<lb ed="X" n="0357c24"/>波羅提木叉者非世間法是背離世俗向涅槃門斯
+<pb ed="X" id="X59.1087.0358a" n="0358a"/>
+<lb ed="X" n="0358a01"/>即戒如&CB00560;是能涉長衢又若浮囊能超苦海亦如關
+<lb ed="X" n="0358a02"/>鍵不失內財譬若垣墻防其外賊戒之功德其大矣
+<lb ed="X" n="0358a03"/>哉隨分讚揚相乃如是。</p></div1>
+<lb ed="X" n="0358a04"/><div1 type="other"><mulu type="其他" level="1" label="第二請證明"/><head>第二請證明者</head><p id="pX59p0358a0407" place="inline">夫欲受戒者先須稽首請三寶以作
+<lb ed="X" n="0358a05"/>證明各各&CI0004;合掌自稱<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>名隨貧道請云弟子某
+<lb ed="X" n="0358a06"/>甲稽首奉請十方諸佛諸大菩薩羅漢聖僧天龍八
+<lb ed="X" n="0358a07"/>部護法善神業道冥宦罪福童子有天眼耳他心通
+<lb ed="X" n="0358a08"/>者見聞知請起大慈悲降臨道場證明弟子&CB00327;邪入
+<lb ed="X" n="0358a09"/>正歸佛法僧懺洗罪&CB00985;受佛禁戒惟願三寶慈悲證
+<lb ed="X" n="0358a10"/>明敬禮常住三寶<note place="inline">如是三說復語云</note>汝善男子善女人等<note place="inline">或唯
+<lb ed="X" n="0358a11"/>男唯女隨稱若一人須除等字</note>如是至誠三請諸佛菩薩不捨本願
+<lb ed="X" n="0358a12"/>必降道場我輩肉眼凡夫不能得見各各起慇重心
+<lb ed="X" n="0358a13"/>普禮諸佛聖眾三拜。</p></div1>
+<lb ed="X" n="0358a14"/><div1 type="other"><mulu type="其他" level="1" label="第三翻邪"/><head>第三翻邪</head><p id="pX59p0358a1405" place="inline"><note place="inline">應語彼云</note>賢聖<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>集為汝證明汝等應當對三
+<lb ed="X" n="0358a15"/>寶前立誓要期永捨邪魔及諸外道歸依三寶發正
+<lb ed="X" n="0358a16"/>信心為佛弟子更不退轉能持不<note place="inline">能者答能復語云</note>汝等當
+<lb ed="X" n="0358a17"/>知夫欲絕妄求真標心累外必須仗託三寶以作津
+<lb ed="X" n="0358a18"/>梁則能越生死之愛河登涅槃之彼岸故多論第七
+<lb ed="X" n="0358a19"/>云譬如有人有罪畏故投向異國以求救護彼王語
+<lb ed="X" n="0358a20"/>云汝求無畏莫出我境莫違我教必相救護眾生亦
+<lb ed="X" n="0358a21"/>爾繫屬於魔有生死過患歸向三寶以求護若能誠
+<lb ed="X" n="0358a22"/>心反無異向則魔邪惡無如之何<note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上論文魔則他化天主統攝欲界
+<lb ed="X" n="0358a23"/>五趣入欲捨邪須歸三寶仗三寶力出魔境界若起一念邪心即出三寶境界若<note n="0358001" resp="Xuzangjing" place="foot text" type="orig">起疑犯</note>〔起〕一支戒即違三寶言教三
+<lb ed="X" n="0358a24"/>寶雖悲則不救護</note>以是義故勸汝歸依各各&CI0004;合掌自稱
+<pb ed="X" id="X59.1087.0358b" n="0358b"/>
+<lb ed="X" n="0358b01"/><app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>名隨貧道說云我某甲歸依於佛兩足中尊歸依
+<lb ed="X" n="0358b02"/>於法離欲中尊歸依於僧諸眾中尊如來至真等正
+<lb ed="X" n="0358b03"/>覺是我大師我今歸依更不歸餘邪魔外道惟願三
+<lb ed="X" n="0358b04"/>寶慈悲攝受<note place="inline">如是三說敬禮三寶禮<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>語云此是三歸更有三竟汝一心受</note>我某甲
+<lb ed="X" n="0358b05"/>歸依於佛兩足尊竟歸依於法離欲尊竟歸依於僧
+<lb ed="X" n="0358b06"/>眾中尊竟從今<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>後稱佛為師更不歸餘邪魔外道
+<lb ed="X" n="0358b07"/>惟願三寶慈悲攝受<note place="inline">如是三說<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>敬禮常住三寶此三歸詞句依最勝無比經如來
+<lb ed="X" n="0358b08"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>下古來准十戒三歸義加此語既是翻邪理應語云更不歸餘邪魔外道等次應語云也</note>汝等
+<lb ed="X" n="0358b09"/>向所受者是翻邪三歸未發戒品所以名翻邪者為
+<lb ed="X" n="0358b10"/>諸有情怖畏所逼意欲求脫不知正路妄歸山林樹
+<lb ed="X" n="0358b11"/>神於制多園菀星辰日月外道天魔此等非勝福田
+<lb ed="X" n="0358b12"/>不能拔濟故俱舍論云此歸依非勝此歸依非尊不
+<lb ed="X" n="0358b13"/>由此歸依能解脫眾苦今以殷重淨心歸依三寶顯
+<lb ed="X" n="0358b14"/>歸究竟是勝福田能拔有情令離生死故俱舍論云
+<lb ed="X" n="0358b15"/>此歸依最勝此歸依最尊必由此歸依能解脫眾苦
+<lb ed="X" n="0358b16"/>以是捨邪歸正故翻邪三歸劫劫生生永離邪魔為
+<lb ed="X" n="0358b17"/>佛弟子是不<note n="0358002" resp="Xuzangjing" place="foot text" type="orig">示字更勘或爾字歟</note>示<note place="inline">彼答云是復應語云</note>汝等若是佛弟子者我今
+<lb ed="X" n="0358b18"/>問汝隨<note n="0358003" resp="Xuzangjing" place="foot text" type="orig">我下疑脫問字</note>我答<note place="inline">自下問答依優婆塞經應云</note>若歸依佛<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>寧捨身命
+<lb ed="X" n="0358b19"/>終不歸於自在天等能持不<note place="inline">彼答言能以外道執自在天為佛立像供養</note>
+<lb ed="X" n="0358b20"/>若歸依法<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>寧捨身命終不依於外道典籍能持不
+<lb ed="X" n="0358b21"/><note place="inline">彼答云能</note>若歸僧<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>寧捨身命終不依於外道邪眾能持
+<lb ed="X" n="0358b22"/>不<note place="inline">答云能復應讚云</note>善哉善哉真是佛子從佛口生從法化
+<lb ed="X" n="0358b23"/>生得佛法分大須慶幸各各生歡喜心普禮三寶三
+<lb ed="X" n="0358b24"/>拜<note place="inline">准最勝無比經若人供養三千世界滿中諸佛如稻麻等滿三萬歲所獲福德比前歸依百千萬分不及
+<pb ed="X" id="X59.1087.0358c" n="0358c"/>
+<lb ed="X" n="0358c01"/>一又准經說三歸各有三善神守護也</note>。</p></div1>
+<lb ed="X" n="0358c02"/><div1 type="other"><mulu type="其他" level="1" label="第四懺除"/><head>第四懺除</head><p id="pX59p0358c0205" place="inline"><note place="inline">應語彼云</note>汝等當知凡欲受佛戒者必須懺惡
+<lb ed="X" n="0358c03"/>業悔謝往&CB00985;洗滌身心皎然無累方堪納受清淨尸
+<lb ed="X" n="0358c04"/>羅所以然者譬如世間上饌不可置於弊器之中出
+<lb ed="X" n="0358c05"/>世尸羅豈得授於有過身內故經云凡夫之人舉足
+<lb ed="X" n="0358c06"/>動步無非是罪然所造罪雖謝於往為因成就必招
+<lb ed="X" n="0358c07"/>苦果今須於惡生厭深責前&CB00985;於善生欣求永斷後
+<lb ed="X" n="0358c08"/>犯志誠慇禱是罪皆除率爾輕浮業終難滅然罪無
+<lb ed="X" n="0358c09"/>定性從緣而生從緣而滅從緣生者即是昔日遇惡
+<lb ed="X" n="0358c10"/>知識染心造罪從緣滅者即是今日遇善知識洗心
+<lb ed="X" n="0358c11"/>懺悔然罪累眾多率陳難盡舉要而言不出十惡謂
+<lb ed="X" n="0358c12"/>身有三非語有四過意有三惡合成十業此是根本
+<lb ed="X" n="0358c13"/>餘是枝條但伐根本枝條自謝各各&CI0004;虔誠合掌
+<lb ed="X" n="0358c14"/>自稱<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>名隨貧道說弟子某甲自從無始曠大劫來
+<lb ed="X" n="0358c15"/>至于今生始從今生至于今日於其中間隨逐惡緣
+<lb ed="X" n="0358c16"/>縱身語意廣造諸罪身業不善行殺盜婬語業不善
+<lb ed="X" n="0358c17"/>綺言妄語惡口兩舌意業不善貪瞋邪見或飲酒食
+<lb ed="X" n="0358c18"/>肉&CB00290;噉葷辛毀戒破齋無慚無愧不孝父母不敬師
+<lb ed="X" n="0358c19"/>長或作五逆犯四重禁謗方等經破塔壞寺侵損常
+<lb ed="X" n="0358c20"/>住汙穢伽藍自作教他見作隨喜如是等罪無量無
+<lb ed="X" n="0358c21"/>邊種類眾多率陳難盡若不懺悔由此惡業於當來
+<lb ed="X" n="0358c22"/>世必墮三塗弟子今日生慚愧心生恐怖心對三寶
+<lb ed="X" n="0358c23"/>前發露懺悔永斷相續不更敢犯所有諸罪願皆消
+<lb ed="X" n="0358c24"/>滅<note place="inline">如是三說敬禮常住三寶復語云</note>願罪消滅菩提牙生<note place="inline">復更語云</note>如是
+<pb ed="X" id="X59.1087.0359a" n="0359a"/>
+<lb ed="X" n="0359a01"/>志誠三遍懺悔所有諸罪悉皆滅盡身心清淨堪受
+<lb ed="X" n="0359a02"/>如來清淨戒品知不知<note place="inline">彼答云知</note>歡喜不歡喜<note place="inline">彼答云歡喜師應語
+<lb ed="X" n="0359a03"/>云</note>汝等若歡喜者禮謝三寶。</p></div1>
+<lb ed="X" n="0359a04"/><div1 type="other"><mulu type="其他" level="1" label="第五說法"/><head>第五說法</head><p id="pX59p0359a0405" place="inline"><note place="inline">師應語云</note>汝既身心清淨堪受近事五種學處
+<lb ed="X" n="0359a05"/>然此五戒是在家戒若出家<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>則須受沙彌十戒年
+<lb ed="X" n="0359a06"/>滿廿則須受比丘具戒<note place="inline">若是女語云若出家<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>則須受沙彌尼十戒年至十八則
+<lb ed="X" n="0359a07"/>須受式叉六法滿廿則須受尼大戒</note>所以然者如人入海從淺至深入
+<lb ed="X" n="0359a08"/>佛法海亦復如是若不爾者則失入法次第不合軌
+<lb ed="X" n="0359a09"/>儀又以眾生得道時異故設三品漸次而受故優婆
+<lb ed="X" n="0359a10"/>塞戒經云是戒能為沙彌十戒大比丘戒及菩薩戒
+<lb ed="X" n="0359a11"/>乃至阿耨菩提而作根本志心受持優婆塞戒則能
+<lb ed="X" n="0359a12"/>獲得如是等戒無量利益若有毀破如是戒者則於
+<lb ed="X" n="0359a13"/>無量世中處三惡道受大苦惱<note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上經文</note>既知損益理殊
+<lb ed="X" n="0359a14"/>浮沉事別若欲棄損就益必須專意受持汝等盡能
+<lb ed="X" n="0359a15"/>志心受不<note place="inline">彼答云能復語云</note>汝等當知戒是有為不能自起
+<lb ed="X" n="0359a16"/>假因緣力方乃發生其緣者何則三歸教法能授戒
+<lb ed="X" n="0359a17"/>師要師秉法方得戒故其因者何即是汝等求受戒
+<lb ed="X" n="0359a18"/>心要有方便乃得戒然求戒心有其九品必須發起
+<lb ed="X" n="0359a19"/>上上品心若上上品心者總有七種我今問汝隨我
+<lb ed="X" n="0359a20"/>問答<note place="inline">問云</note>第一於戒起慇重心能持不<note place="inline">被答云能</note>第二誓斷
+<lb ed="X" n="0359a21"/>一切惡能持不<note place="inline">答能</note>第三誓修一切善能不<note place="inline">答能</note>第四誓
+<lb ed="X" n="0359a22"/>求無上菩提能不<note place="inline">答能</note>第五誓度一切眾生能不<note place="inline">答能</note>第
+<lb ed="X" n="0359a23"/>六專心護持<note n="0359001" resp="Xuzangjing" place="foot text" type="orig">求疑永</note>求不毀犯能持不<note place="inline">答能</note>第七一心承受更
+<lb ed="X" n="0359a24"/>不異緣能不<note place="inline">答能<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上五問廣略隨時也</note>。</p></div1>
+<pb ed="X" id="X59.1087.0359b" n="0359b"/>
+<lb ed="X" n="0359b01"/><div1 type="other"><mulu type="其他" level="1" label="第六正發律儀"/><head>第六正發律儀</head><p id="pX59p0359b0107" place="inline"><note place="inline">師應語云</note>汝等既能發此上上品心必當
+<lb ed="X" n="0359b02"/>受得上上品戒發在三歸言下三歸三竟六遍滿足
+<lb ed="X" n="0359b03"/>便得律儀向前三歸但是翻邪不發戒品遍通五道
+<lb ed="X" n="0359b04"/>與授皆成今三歸親能發戒唯局人中不霑餘趣就
+<lb ed="X" n="0359b05"/><note n="0359002" resp="Xuzangjing" place="foot text" type="orig">就字疑剩</note>就人趣內除北俱盧洲唯三天下人得受此戒就三
+<lb ed="X" n="0359b06"/>洲人身須具足若男若女皆得律儀或盲聾喑啞黃
+<lb ed="X" n="0359b07"/>門二形諸根不具亦不得戒既知此戒得緣難遇必
+<lb ed="X" n="0359b08"/>假從師無容自受吾雖崇德濫為師範責法重人事
+<lb ed="X" n="0359b09"/>須禮請<note place="inline">敬禮三拜&CI0004;請云</note>大德一心念我某甲今請大德為
+<lb ed="X" n="0359b10"/>五戒阿闍梨願大德為我作五戒阿闍梨我依大德
+<lb ed="X" n="0359b11"/>故得受近事戒慈愍故<note place="inline">如是三說准佛阿毗曇十戒又例彼請也師應答云可爾
+<lb ed="X" n="0359b12"/>復應語彼云<note n="0359003" resp="Xuzangjing" place="foot text" type="orig">也字疑衍</note>〔也〕</note>汝等既知五戒發在三歸言下我今為汝秉
+<lb ed="X" n="0359b13"/>此教汝等各稱<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>名&CI0004;合掌隨我語說分明領受
+<lb ed="X" n="0359b14"/>勿前勿俱儻若錯亂戒品不發<note place="inline">如是語<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>方與受云</note>我某甲歸
+<lb ed="X" n="0359b15"/>依於佛兩足中尊歸依於法離欲中尊歸依於僧諸
+<lb ed="X" n="0359b16"/>眾中尊我受五戒盡形律儀願尊憶持慈悲護念<note place="inline">如是
+<lb ed="X" n="0359b17"/>三說遍遍皆須分折告示又應語云此三歸三遍了更三竟三遍在汝可一心須受語<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>教云</note>我某
+<lb ed="X" n="0359b18"/>甲歸依於佛兩足尊竟歸依於法離欲尊竟歸依於
+<lb ed="X" n="0359b19"/>僧眾中尊竟我受五戒盡形律儀願尊憶持慈悲護
+<lb ed="X" n="0359b20"/>念<note place="inline">如是三說亦須遍遍警&CB15081;分折告示說兩遍了語云更一遍在正是得戒時汝等一心承受說第三遍了
+<lb ed="X" n="0359b21"/>語云汝<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>得戒此三歸詞句亦依最勝無比經我受<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>下依俱舍論云自稱我是鄔婆素迦願尊憶持慈悲護
+<lb ed="X" n="0359b22"/>念爾時便發五戒律儀<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上論文要加此語方乃得戒陳翻邪故師復語云</note>如是三歸三
+<lb ed="X" n="0359b23"/>竟六法滿足近事五戒<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>注汝身知不知<note place="inline">彼答云知師復問云</note>
+<lb ed="X" n="0359b24"/>歡喜不歡喜<note place="inline">彼答云歡喜師應語云</note>汝於過去曾種善根今生
+<pb ed="X" id="X59.1087.0359c" n="0359c"/>
+<lb ed="X" n="0359c01"/>方得佛戒霑身若無宿善不可值遇汝等各須深自
+<lb ed="X" n="0359c02"/>慶幸禮謝三寶<note place="inline">准最無比經受五戒功德比前受三歸次十善次八戒所獲功德百分千
+<lb ed="X" n="0359c03"/>分萬分億分乃至鄔波尼殺曇分不及其一又准經五戒各有五神護</note>。</p></div1>
+<lb ed="X" n="0359c04"/><div1 type="other"><mulu type="其他" level="1" label="第七示相護持"/><head>第七示相護持</head><p id="pX59p0359c0407" place="inline"><note place="inline">師應語云</note>汝雖得戒未識戒相若不識相
+<lb ed="X" n="0359c05"/>恐汝遇緣毀犯佛戒我當為汝說五戒問汝能持不
+<lb ed="X" n="0359c06"/>則須答言能<note place="inline">語<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>說云</note>善男子諦聽如來至真等正覺說
+<lb ed="X" n="0359c07"/>近事五戒法<note place="inline">此總標&CB02637;聽准律中具戒文若善女人或眾同受離合隨時自下別列及結准
+<lb ed="X" n="0359c08"/>律中受十戒文</note>盡形壽不殺生是近事戒能持不<note place="inline">答能</note>盡形壽
+<lb ed="X" n="0359c09"/>不偷盜是近事戒能持不<note place="inline">答能</note>盡形壽不邪婬是近事
+<lb ed="X" n="0359c10"/>戒能持不<note place="inline">答言能言邪者總有五義一非境是他妻妾二非道設是<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>妻口及餘道三非時乳
+<lb ed="X" n="0359c11"/>兒時受齋時懷胎時四非處佛像殿塔伽藍及露處五非量一夜不過五度復須避三明六暗三明者日月&CB04520;
+<lb ed="X" n="0359c12"/>火暗者即六齋夜也</note>盡形壽不妄語是近事戒能持不<note place="inline">答能</note>盡形
+<lb ed="X" n="0359c13"/>壽不飲酒是近事戒能持不<note place="inline">答言能總結云</note>此是近事五戒
+<lb ed="X" n="0359c14"/>盡形壽不得犯能持不<note place="inline">答能</note>。</p></div1>
+<lb ed="X" n="0359c15"/><div1 type="other"><mulu type="其他" level="1" label="第八發願回向"/><head>發願回向第八</head><p id="pX59p0359c1507" place="inline"><note place="inline">師應語云</note>汝等戒體<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>得戒相<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>識必須
+<lb ed="X" n="0359c16"/>精持勿令毀缺然此戒前四是性後一是遮若於前
+<lb ed="X" n="0359c17"/>四性重戒中隨犯一事必邊罪人內教不收&CB00020;之法
+<lb ed="X" n="0359c18"/>外設縱發心再受五戒唐勞設法戒必不發或若出
+<lb ed="X" n="0359c19"/>家求受十戒及具足戒普皆不發必彰戒難既知如
+<lb ed="X" n="0359c20"/>此努力堅持汝當供養三寶勤修福業孝順父母善
+<lb ed="X" n="0359c21"/>事師長承受教法不得違<note place="inline">此結勸詞句梵網經及四分律隨義安立也</note>&CI0004;
+<lb ed="X" n="0359c22"/>合掌回向發願弟子某甲等所有聽聞正法生淨
+<lb ed="X" n="0359c23"/>信心稽請聖賢歸依三寶懺除罪垢受佛尸羅功德
+<lb ed="X" n="0359c24"/>無邊塵沙難筭總將回施法界眾生願皆離苦得安
+<pb ed="X" id="X59.1087.0360a" n="0360a"/>
+<lb ed="X" n="0360a01"/>穩樂捨邪歸正發菩提心行菩薩道求不退轉於當
+<lb ed="X" n="0360a02"/>來世一時成佛<note place="inline">故維摩經云富有七財寶教授以資自加行所說修行回向為大利</note>。</p></div1>
+<lb ed="X" n="0360a03"/><div1 type="other"><mulu type="其他" level="1" label="次明授八戒法"/><head>次明授八戒法<note place="inline">法事次第八門准前</note></head>
+<lb ed="X" n="0360a04"/><div2 type="xu"><mulu type="序" level="2" label="第一說受由序"/><head>說受由序第一</head><p id="pX59p0360a0407" place="inline">若夫繩墨是匠人之宏規斤斧由茲
+<lb ed="X" n="0360a05"/>運作淨戒是行者之根本定慧從茲發生則知三乘
+<lb ed="X" n="0360a06"/>聖道籍此為因八輩真僧由斯證果故遺教經云依
+<lb ed="X" n="0360a07"/>因此故得生諸禪定及滅苦智慧<note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上經文</note>既知戒是眾
+<lb ed="X" n="0360a08"/>行之本受者須有信心若也不起信心戒品無由得
+<lb ed="X" n="0360a09"/>發故智度論云如經說信為手如人有手入寶山中
+<lb ed="X" n="0360a10"/>自在取寶有信亦如是入佛法無漏根力覺道禪定
+<lb ed="X" n="0360a11"/>寶山中自在所取如無手人入寶山中不能有所取
+<lb ed="X" n="0360a12"/>無信亦如是入佛法寶山中都無所得又云信是道
+<lb ed="X" n="0360a13"/>源功德母出生一切諸善法長養無上菩提樹<note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上論文</note>
+<lb ed="X" n="0360a14"/>由此五根五力以信為初七聖財中用信為首汝等
+<lb ed="X" n="0360a15"/>今於三世因果三寶福田深生淨信能持不<note place="inline">能者答言能<note n="0360001" resp="Xuzangjing" place="foot text" type="orig">師下應有云字</note>〔師〕</note>
+<lb ed="X" n="0360a16"/>汝等既能發淨信心是則堪受如來淨戒戒是何義
+<lb ed="X" n="0360a17"/>今汝受持梵曰尸羅唐言淨戒戒則能防身語不造
+<lb ed="X" n="0360a18"/>七非淨則洗滌塵勞不起三毒故阿難言世尊為欲
+<lb ed="X" n="0360a19"/>調伏貪嗔恚愚令盡故與諸弟子制戒是知心猿蕩
+<lb ed="X" n="0360a20"/>逸意馬&CB13607;&CB00565;要假銜&CB00430;方能控御故五分戒云心馬
+<lb ed="X" n="0360a21"/>馳惡道放逸難禁制佛說<note n="0360002" resp="Xuzangjing" place="foot text" type="orig">忉字更勘</note>忉戒行亦如利轡勒繫心
+<lb ed="X" n="0360a22"/>莫放逸由如猿猴著&CB00430;又智度論云惡病之中戒為
+<lb ed="X" n="0360a23"/>良藥大恐怖中戒為守護死暗冥中戒為明燈三惡
+<lb ed="X" n="0360a24"/>道中戒為橋樑五怖海中戒為船筏如大乘律作如
+<pb ed="X" id="X59.1087.0360b" n="0360b"/>
+<lb ed="X" n="0360b01"/>是言持戒淨身口攝心正憶念多聞生實智斯由戒
+<lb ed="X" n="0360b02"/>為本戒為清涼池澡浴諸熱惱戒為究竟伴能過險
+<lb ed="X" n="0360b03"/>惡道戒為妙樓閣聖者之所遊戒為法城&CB00580;能遮煩
+<lb ed="X" n="0360b04"/>惱賊戒為勇猛將能破魔軍眾戒為如意珠能與商
+<lb ed="X" n="0360b05"/>人寶持戒為平地坐禪為窟宅說法得成佛斯由戒
+<lb ed="X" n="0360b06"/>為本<note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上論文</note>是知德廣難思功深叵測我今以此殊勝
+<lb ed="X" n="0360b07"/>戒法授與汝等好不好<note place="inline">彼答云好又應問云</note>願受不願受<note place="inline">答云欲受
+<lb ed="X" n="0360b08"/>師應間云</note>若願受者敬禮常住三寶。</p></div2>
+<lb ed="X" n="0360b09"/><div2 type="other"><mulu type="其他" level="2" label="第二請聖證明"/><head>第二請聖證明</head><p id="pX59p0360b0907" place="inline"><note place="inline">軌則如前五戒中說但末後結云弟子今日捨邪歸正懺洗罪&CB00985;求受</note>
+<lb ed="X" n="0360b10"/>如來八關齋戒惟願三寶等。</p></div2><div2 type="other"><mulu type="其他" level="2" label="第三歸依三寶"/><head>第三</head><p id="pX59p0360b1014" place="inline"><note place="inline">師應語云</note>汝等當知凡
+<lb ed="X" n="0360b11"/>欲受戒者必須歸依三寶淨治三業所以然者緣身
+<lb ed="X" n="0360b12"/>是凡夫流浪日久煩惱病重<note n="0360003" resp="Xuzangjing" place="foot text" type="orig">生上疑脫沉字</note>生死海仗三寶威神除
+<lb ed="X" n="0360b13"/>三毒重病託三寶之勢力出三有苦海斯則佛號良
+<lb ed="X" n="0360b14"/>醫法稱妙藥僧為看病者能除眾生煩惱病故又佛
+<lb ed="X" n="0360b15"/>喻船師法如舟&CB00188;僧為棹者能運眾生出苦海故以
+<lb ed="X" n="0360b16"/>有是益令汝歸依&CI0004;合掌隨貧道說<note place="inline">詞句問答等如前五戒文
+<lb ed="X" n="0360b17"/>說</note>。</p></div2>
+<lb ed="X" n="0360b18"/><div2 type="other"><mulu type="其他" level="2" label="第四懺除往業"/><head>第四懺除往業</head><p id="pX59p0360b1807" place="inline"><note place="inline">詞句亦如前說</note>。</p></div2>
+<lb ed="X" n="0360b19"/><div2 type="other"><mulu type="其他" level="2" label="第五說法開導"/><head>第五說法開導</head><p id="pX59p0360b1907" place="inline"><note place="inline">師應語云</note>汝等垢累<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>除身器清淨堪受
+<lb ed="X" n="0360b20"/>如來清淨戒品或有多種不可具<note n="0360004" resp="Xuzangjing" place="foot text" type="orig">除疑受</note>除今將受者是八
+<lb ed="X" n="0360b21"/>關齋戒如世間人開&CB02464;門戶不令賊入今以齋戒開
+<lb ed="X" n="0360b22"/>&CB02464;諸根不令入亦復如是然此八戒名近住戒<note place="inline">梵曰鄔<note n="0360005" resp="Xuzangjing" place="foot text" type="orig">波婆娑疑婆娑伽</note>〔波
+<lb ed="X" n="0360b23"/>婆娑〕唐云近住</note>以一日一夜全修梵行親近出家人住故名
+<lb ed="X" n="0360b24"/>近住又以時促亦名近住復名長養長養薄少善根
+<pb ed="X" id="X59.1087.0360c" n="0360c"/>
+<lb ed="X" n="0360c01"/>人故佛知彼人善根淺薄不能長時淨修梵行且令
+<lb ed="X" n="0360c02"/>一日一夜隨佛出家使其善根漸漸增長故俱舍論
+<lb ed="X" n="0360c03"/>引經頌云由此能長養自他善淨心是故薄伽梵說
+<lb ed="X" n="0360c04"/>此名長養<note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上論文</note>所以八戒唯一晝夜以受戒時分唯
+<lb ed="X" n="0360c05"/>有二種一約晝夜以明暗更迭易了知故二約盡形
+<lb ed="X" n="0360c06"/>以壽命限齊易了知故由此俱舍業品頌云近住於
+<lb ed="X" n="0360c07"/>晨旦下座從師受隨教說具支離嚴飾晝夜又無量
+<lb ed="X" n="0360c08"/>壽觀經云日日如是授王八戒以此證知唯一晝夜
+<lb ed="X" n="0360c09"/>此八關齋或是人中出家功德戒若能持者不失人
+<lb ed="X" n="0360c10"/>身童子出家紹三寶種乃至修學得三菩提故俱舍
+<lb ed="X" n="0360c11"/>論云然此八戒雖一晝夜所獲功德無量無邊受之
+<lb ed="X" n="0360c12"/>不易假使閻浮提王所有珍寶欲以其價十六分中
+<lb ed="X" n="0360c13"/>不及其一百分千分乃至鄔波煞曇分亦不及一又
+<lb ed="X" n="0360c14"/>婆娑論云帝釋聞說近住功德殊勝便以伽陀而讚
+<lb ed="X" n="0360c15"/>曰六齋神足日奉持八戒齋彼功德殊勝則為與我
+<lb ed="X" n="0360c16"/>等佛便訶云告苾&CB00034;眾此天帝釋所說伽陀違於道
+<lb ed="X" n="0360c17"/>理若阿羅漢可作此說所以者何天帝具縛未得解
+<lb ed="X" n="0360c18"/>脫如何說言受持此戒所獲功德而與我等天帝功
+<lb ed="X" n="0360c19"/>德唯感天帝受八戒證三菩提故不應言<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>與我等
+<lb ed="X" n="0360c20"/><note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上於文若一一廣說持破果報恐此文繁復當別說</note>則知功深若海德重如
+<lb ed="X" n="0360c21"/>山我今以此勝妙功德授與汝等歡喜不歡喜<note place="inline">彼答歡喜
+<lb ed="X" n="0360c22"/>師語復云</note>至心受能持不<note place="inline">彼應答能師應語云</note>能者敬禮常住三寶
+<lb ed="X" n="0360c23"/><note place="inline">第五明了</note>。</p></div2>
+<lb ed="X" n="0360c24"/><div2 type="other"><mulu type="其他" level="2" label="第六正發律儀"/><head>正發律儀第六</head><p id="pX59p0360c2407" place="inline"><note place="inline">師應語云</note>汝等當知此八關齋戒發在三
+<pb ed="X" id="X59.1087.0361a" n="0361a"/>
+<lb ed="X" n="0361a01"/>歸言下三歸三竟六遍滿足便即得戒各各&CI0004;合
+<lb ed="X" n="0361a02"/>掌自稱<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>名隨貧道語一心承受慎勿散亂<note place="inline">誡<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>授云</note>我
+<lb ed="X" n="0361a03"/>某甲歸依於佛兩足中尊歸依於法離中尊歸依於
+<lb ed="X" n="0361a04"/>僧諸眾中尊我受八戒日夜律儀願尊憶持慈悲護
+<lb ed="X" n="0361a05"/>念<note place="inline">如是三說遍遍皆須警&CB15081;師應語云此是三歸更有三竟即便得戒汝一心受也</note>我某甲
+<lb ed="X" n="0361a06"/>歸依於佛兩足尊竟歸依於法離欲<note n="0361001" resp="Xuzangjing" place="foot text" type="orig">中字似剩</note>中尊竟歸依於
+<lb ed="X" n="0361a07"/>僧眾中尊竟我受八戒日夜律儀願尊憶持慈悲護
+<lb ed="X" n="0361a08"/>念<note place="inline">如是三說亦遍遍警&CB15081;說兩遍<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>語云此第三遍正發戒時汝一心領受說<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>語云汝<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>得戒了復應語
+<lb ed="X" n="0361a09"/>云</note>如是三歸三竟六遍滿足八關齋戒<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>注汝身知
+<lb ed="X" n="0361a10"/>不知<note place="inline">答云知又問云</note>歡喜不歡喜<note place="inline">答云歡喜復師語云</note>由汝宿善深厚
+<lb ed="X" n="0361a11"/>得遇佛法感此八關齋戒注汝身中汝等各各合掌
+<lb ed="X" n="0361a12"/>敬禮常住三寶。</p></div2>
+<lb ed="X" n="0361a13"/><div2 type="other"><mulu type="其他" level="2" label="第七示相護持"/><head>第七示相護持</head><p id="pX59p0361a1307" place="inline"><note place="inline">師應語云</note>汝戒體<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>得戒相未知若不識
+<lb ed="X" n="0361a14"/>相恐遇緣毀犯我今為汝說八戒相汝一心聽受問
+<lb ed="X" n="0361a15"/>汝能不答我言能<note place="inline">告<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>語云</note>一日一夜不殺生是近住戒
+<lb ed="X" n="0361a16"/>能持不答云能一日一夜不偷盜是近住戒能持不
+<lb ed="X" n="0361a17"/><note place="inline">答云能</note>一日一夜不婬欲是近住戒能持不<note place="inline">答能象牙玳琩帖鏤
+<lb ed="X" n="0361a18"/>等&CB00646;九尺一丈高廣之者此皆長慢增憍判之不許上師僧父母所居之床座縱使狹小亦不得上以是尊人
+<lb ed="X" n="0361a19"/>所不合<note n="0361002" resp="Xuzangjing" place="foot text" type="orig">陛疑陞</note>〔陛〕座故也</note>一日一夜不得過中食是近住戒能持不
+<lb ed="X" n="0361a20"/><note place="inline">答云能若依有宗前塗佩哥觀合為第六高床第七過中第八此一是齋亦是齋支餘七是支而非齋依法密
+<lb ed="X" n="0361a21"/>部六七不合都有九事則前八是戒後一是齋今依法密以同十戒故次結云</note>此之八事前
+<lb ed="X" n="0361a22"/>六是戒後一是齋此是近住八關齋戒始從今晨至
+<lb ed="X" n="0361a23"/>明清旦一日一夜不得犯能持不<note place="inline">答云能</note>。</p></div2>
+<lb ed="X" n="0361a24"/><div2 type="other"><mulu type="其他" level="2" label="第八發願回向"/><head>第八發願回向</head><p id="pX59p0361a2407" place="inline"><note place="inline">法式同前上來八戒了</note>。</p>
+<pb ed="X" id="X59.1087.0361b" n="0361b"/>
+<lb ed="X" n="0361b01"/><p id="pX59p0361b0101">別出廣陳損益<note place="inline">善惡因果義數而立也</note>言八關者斯則關八惡
+<lb ed="X" n="0361b02"/>門開八善戶得八自在遊八正路八惡者何煞生有
+<lb ed="X" n="0361b03"/>斬身之病偷盜有貧苦之殃婬欲有銅柱鐵&CB00646;之憂
+<lb ed="X" n="0361b04"/>妄語有&CB15072;<note n="0361003" resp="Xuzangjing" place="foot text" type="orig">苦疑舌</note>苦耕犁之患飲酒感愚癡之果食肉為病
+<lb ed="X" n="0361b05"/>患之因花鬘莊飾塗瑩香油增長欲心障生淨土歌
+<lb ed="X" n="0361b06"/>&CB01425;倡妓故往聽觀縱蕩身心喪失善利高&CB00646;廣座益
+<lb ed="X" n="0361b07"/>我慢心過中噉食生餓鬼道大師慈愍施設戒關關
+<lb ed="X" n="0361b08"/>彼八門不令惡入由斯義故標以關名<note place="inline">若與受五戒者借此語用
+<lb ed="X" n="0361b09"/>亦得應云關五惡門關五善戶得五神通永超五趣五惡者何當次第為說</note>八善者何不
+<lb ed="X" n="0361b10"/>殺有長命之果當證金剛不壞之身不盜為富樂之
+<lb ed="X" n="0361b11"/>因必得財盈寶滿不婬有清淨之報永離胞胎實語
+<lb ed="X" n="0361b12"/>不誑有情果位成<note n="0361004" resp="Xuzangjing" place="foot text" type="orig">諦疑辦</note>諦遠酒感有智之果斷肉得無病
+<lb ed="X" n="0361b13"/>之因若能不塗飾脂粉不戴佩花瓔當得相好嚴容
+<lb ed="X" n="0361b14"/>塵水不著見者恭敬聞者發心若捨離歌舞不住觀
+<lb ed="X" n="0361b15"/>聽當得殊勝威儀梵音深妙若不處高&CB00646;廣座謙下
+<lb ed="X" n="0361b16"/>卑恭當感師子之&CB00646;金剛寶座過中不食知足行成
+<lb ed="X" n="0361b17"/>後世餘&CB00295;常&CB00290;法喜既知惡招苦果善是樂因汝等
+<lb ed="X" n="0361b18"/>必須斷惡修善發殷重心求受如來八關齋戒能不
+<lb ed="X" n="0361b19"/>能。</p></div2></div1>
+<lb ed="X" n="0361b20"/><div1 type="other"><mulu type="其他" level="1" label="別出廣示戒相"/><head>別出廣示戒相<note place="inline">依長爪梵志經</note></head>
+<lb ed="X" n="0361b21"/><p id="pX59p0361b2101">善男子等諦聽<note place="inline">女人隨稱</note>諸佛世尊從初發心乃至成佛
+<lb ed="X" n="0361b22"/>於其中間常行慈悲種種方便救護眾生終不起心
+<lb ed="X" n="0361b23"/>而行殺害由不殺故今得成佛遂感金剛不壞堅固
+<lb ed="X" n="0361b24"/>法身常住慧命無有窮盡汝等凡夫<note place="inline">若一人云汝是凡夫</note>具足
+<pb ed="X" id="X59.1087.0361c" n="0361c"/>
+<lb ed="X" n="0361c01"/>煩惱未能如佛長劫修行且一日一夜隨佛出家為
+<lb ed="X" n="0361c02"/>我如來八戒弟子從今清旦受持如來第一淨戒不
+<lb ed="X" n="0361c03"/>殺生能持不<note place="inline">答云能</note>善男子等諦聽諸佛世尊初發心
+<lb ed="X" n="0361c04"/>乃至成佛於其中間常行饒益種種財寶惠施眾生
+<lb ed="X" n="0361c05"/>終不起心而盜竊由不盜故今得成佛遂感手指纖
+<lb ed="X" n="0361c06"/>長網縵之相七聖財寶受用無窮汝等凡夫具足煩
+<lb ed="X" n="0361c07"/>惱未能如佛長劫修行且一日一夜隨佛出家為我
+<lb ed="X" n="0361c08"/>如來八戒弟子從今清朝至明清朝受持如來第二
+<lb ed="X" n="0361c09"/>淨戒不偷盜能持不<note place="inline">答云能</note>善男子等諦聽諸佛世尊
+<lb ed="X" n="0361c10"/>從初發心乃至成佛於其中間常修梵行男女色相
+<lb ed="X" n="0361c11"/>尚不眼觀何況起心而行婬欲我佛世尊由不婬欲
+<lb ed="X" n="0361c12"/>故今得成佛遂感諸根圓滿色力具足馬王藏相莊
+<lb ed="X" n="0361c13"/>嚴法身汝等凡夫具足煩惱未能如佛長劫修行且
+<lb ed="X" n="0361c14"/>一日一夜隨佛出家為我如來八戒弟子從今清朝
+<lb ed="X" n="0361c15"/>至明清朝受持如來第三淨戒不婬欲能持不<note place="inline">答云能</note>
+<lb ed="X" n="0361c16"/>善男子等諦聽諸佛世尊從初發心乃至成佛於其
+<lb ed="X" n="0361c17"/>中間常修實語終不&CB00980;妄誑惑眾生由不妄語今得
+<lb ed="X" n="0361c18"/>成佛遂感廣長舌相自覆面輪乃至展轉上至梵世
+<lb ed="X" n="0361c19"/>傍&CB00040;大千為真語者為實語者為如語者不誑語者
+<lb ed="X" n="0361c20"/>不異語者所言誠諦聞皆信受汝等凡夫具足煩惱
+<lb ed="X" n="0361c21"/>未能如佛長劫修行且一日一夜隨佛出家為我如
+<lb ed="X" n="0361c22"/>來八戒弟子從今清朝至明清朝受持如來第四淨
+<lb ed="X" n="0361c23"/>戒不妄語能持不<note place="inline">答云能</note>善男子等諦聽諸佛世尊從
+<lb ed="X" n="0361c24"/>初發心乃至成佛於其中間常修正慧終不飲酒故
+<pb ed="X" id="X59.1087.0362a" n="0362a"/>
+<lb ed="X" n="0362a01"/>行放逸我佛世尊由不飲酒今得成佛遂感遊行無
+<lb ed="X" n="0362a02"/>畏如師子王智慧光明如日之照汝等凡夫具足煩
+<lb ed="X" n="0362a03"/>惱未能如佛長劫修行且一日一夜隨佛出家為我
+<lb ed="X" n="0362a04"/>如來八戒弟子從今清朝至明清朝受持我如來第
+<lb ed="X" n="0362a05"/>五淨戒不飲酒能持不<note place="inline">答云能</note>善男子等諦聽諸佛世
+<lb ed="X" n="0362a06"/>尊從初發心乃至成佛於其中間常修質素終不塗
+<lb ed="X" n="0362a07"/>營香油花瓔莊飾歌&CB01425;倡伎故往視聽我佛世尊由
+<lb ed="X" n="0362a08"/>持是戒今得成佛遂感卅二相八十種好身如紫金
+<lb ed="X" n="0362a09"/>色圓光一尋足蹈千輪胸題萬字舉體香潔塵水不
+<lb ed="X" n="0362a10"/>著威儀殊勝梵音深妙汝等凡夫具足煩惱未能如
+<lb ed="X" n="0362a11"/>佛長劫修行且一日一夜隨佛出家為我如來八戒
+<lb ed="X" n="0362a12"/>弟子從今清朝至明清朝受持如來第六淨戒不塗
+<lb ed="X" n="0362a13"/>飾香油戴佩花瓔歌&CB01425;觀聽能持不<note place="inline">答云能</note>善男子等
+<lb ed="X" n="0362a14"/>諦聽諸佛世尊從初發心乃至成佛於其中間常修
+<lb ed="X" n="0362a15"/>謙下卑恭終不貢高憍慢&CB00646;廣座曾未&CB00364;昇尊長所
+<lb ed="X" n="0362a16"/>居不敢&CB00364;坐由持是戒今得成佛遂感金剛寶座周
+<lb ed="X" n="0362a17"/>百餘步上窮地際下據金輪身登此座降魔成道汝
+<lb ed="X" n="0362a18"/>等凡夫具足煩惱未能如佛長劫修行且一日一夜
+<lb ed="X" n="0362a19"/>隨佛出家為我如來八戒弟子從今清朝至明清朝
+<lb ed="X" n="0362a20"/>受持如來第七淨戒不<note n="0362001" resp="Xuzangjing" place="foot text" type="orig">發疑登</note>發高&CB00646;廣坐能持不<note place="inline">答云能</note>善
+<lb ed="X" n="0362a21"/>男子等諦聽諸佛世尊從初發心乃至成佛於其中
+<lb ed="X" n="0362a22"/>間修一食一座一團少欲知足終不貪嗜眾味破齋
+<lb ed="X" n="0362a23"/>夜食我佛世尊由持此戒今得成佛遂感齒白四十
+<lb ed="X" n="0362a24"/>齊密白如珂雪取&CB00290;眾味皆成甘露法喜為食禪悅
+<pb ed="X" id="X59.1087.0362b" n="0362b"/>
+<lb ed="X" n="0362b01"/>為漿以自充之無飢渴想汝等凡夫具足煩惱未能
+<lb ed="X" n="0362b02"/>如佛長劫修行且一日一夜隨佛出家為我如來八
+<lb ed="X" n="0362b03"/>戒弟子從今清朝至明清朝受持如來第八淨戒不
+<lb ed="X" n="0362b04"/>過中食能持不<note place="inline">答云能</note>。</p></div1>
+<lb ed="X" n="0362b05"/><div1 type="other"><mulu type="其他" level="1" label="略授菩薩戒"/><head>略授菩薩戒</head>
+<lb ed="X" n="0362b06"/><p id="pX59p0362b0601">夫法體常凝<note n="0362002" resp="Xuzangjing" place="foot text" type="orig">假上疑脫要字</note>假修而方有報身圓滿必藉因而&CB00018;成
+<lb ed="X" n="0362b07"/>是以三僧企耶行菩薩道一百大劫修妙相因超十
+<lb ed="X" n="0362b08"/>地而二障雙除坐千花而四智齊證故得十方諸佛
+<lb ed="X" n="0362b09"/>放光灌頂一念之頃成盧舍那應十地<note n="0362003" resp="Xuzangjing" place="foot text" type="orig">報上疑脫而示二字</note>報身隨二乘
+<lb ed="X" n="0362b10"/>而現化質斯則七歲出家三十成道處金剛花王座
+<lb ed="X" n="0362b11"/>號曰釋迦牟尼於是初結木又心地標品創宣戒法
+<lb ed="X" n="0362b12"/>梵網題經開菩提之正因<note n="0362004" resp="Xuzangjing" place="foot text" type="orig">涅上疑脫示字</note>涅槃之真路過去恒沙諸
+<lb ed="X" n="0362b13"/>佛皆因此戒得成汝等若能受者當來悉得成佛故
+<lb ed="X" n="0362b14"/>經云汝是當成佛我是<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>成佛常作如是信戒品<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0362b15"/>具足一切有心者皆應攝佛戒眾生受佛戒即入諸
+<lb ed="X" n="0362b16"/>佛位位同大覺<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>真是諸佛子又經欲受國王位時
+<lb ed="X" n="0362b17"/>受轉輪王位時百官受位時應先受菩薩戒一切鬼
+<lb ed="X" n="0362b18"/>神救護王身百官之身諸佛歡喜又下文云若不受
+<lb ed="X" n="0362b19"/>佛戒者生生不見三寶如木石無異名為外道邪見
+<lb ed="X" n="0362b20"/>人輩畜生無異木頭無異<note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上經文</note>以是義故我今勸汝
+<lb ed="X" n="0362b21"/>受菩薩戒汝等當知此菩薩戒於諸律儀&CB08764;為殊勝
+<lb ed="X" n="0362b22"/>無上第一不同二乘別解脫律儀且如八戒唯一晝
+<lb ed="X" n="0362b23"/>夜明日清旦任運即捨豈得多時五戒十戒及具足
+<lb ed="X" n="0362b24"/>戒但一<note n="0362005" resp="Xuzangjing" place="foot text" type="orig">形下疑脫受字</note>形命終即捨後身寧有此菩薩戒一得在身
+<pb ed="X" id="X59.1087.0362c" n="0362c"/>
+<lb ed="X" n="0362c01"/>直至菩提中間無捨既知此戒是成佛之因汝等必
+<lb ed="X" n="0362c02"/>須發起慇重信心生難遇之想凡入佛法先須起信
+<lb ed="X" n="0362c03"/>信是道源功德母汝等今須深信自身及一切有情
+<lb ed="X" n="0362c04"/>皆有佛性深信自身及一切有情悉得菩提如是深
+<lb ed="X" n="0362c05"/>信汝能發不<note place="inline">答云能復語云</note>汝等既能發此真淨信心我當
+<lb ed="X" n="0362c06"/>與汝受菩薩真淨戒品夫欲受佛戒者先須啟請三
+<lb ed="X" n="0362c07"/>寶證明次受四不壞信法然後洗身心<note n="0362006" resp="Xuzangjing" place="foot text" type="orig">三上疑脫受字</note>三聚淨戒&CI0004;
+<lb ed="X" n="0362c08"/>合掌隨吾說<note place="inline">詞句可知啟請<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>准佛藏經次<note n="0362007" resp="Xuzangjing" place="foot text" type="orig">信字疑衍</note>〔信〕應受四不壞信應云</note>賢聖既
+<lb ed="X" n="0362c09"/>集為汝證明汝當至心皈佛法僧及清淨戒虔誠合
+<lb ed="X" n="0362c10"/>掌隨吾語說<note place="inline">授云</note>弟子某甲皈依佛不可壞皈依法不
+<lb ed="X" n="0362c11"/>可壞皈依僧不可壞皈依正法戒不可壞<note place="inline">三說<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>復云</note>汝
+<lb ed="X" n="0362c12"/>今既能皈依三寶及清淨戒是真佛子<note n="0362008" resp="Xuzangjing" place="foot text" type="orig">佛上疑脫住字</note>佛境中乃至
+<lb ed="X" n="0362c13"/>失命因緣誓不壞此信能持不<note place="inline">彼答云能次復語云</note>我<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>與汝
+<lb ed="X" n="0362c14"/>授四不壞信竟次當與汝授三聚淨戒凡受戒者先
+<lb ed="X" n="0362c15"/>須悔除<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>業懺往&CB00985;身器&CB00151;然方堪進受譬如世間
+<lb ed="X" n="0362c16"/>上饌不可置於弊器之中出世尸羅豈得授於有過
+<lb ed="X" n="0362c17"/>身內<note place="inline">悔詞可知次復語云</note>汝今既能懺洗罪&CB00985;身心清淨堪受
+<lb ed="X" n="0362c18"/>如來清淨禁戒此名三聚淨戒一攝律儀戒二攝善
+<lb ed="X" n="0362c19"/>法戒三攝眾生戒此三聚淨戒所緣亦三第一緣一
+<lb ed="X" n="0362c20"/>切惡以未受戒前不斷諸惡遍一切境皆是罪緣今
+<lb ed="X" n="0362c21"/>將受戒亦<note n="0362009" resp="Xuzangjing" place="foot text" type="orig">云字更勘</note>云心猒惡翻前罪處律儀&CB09113;生然境雖多
+<lb ed="X" n="0362c22"/>總束為二一者有情二者非情周遍十方無不得戒
+<lb ed="X" n="0362c23"/>故俱舍論十五云無有不遍於諸有得律儀者以一
+<lb ed="X" n="0362c24"/>切諸有情所住善意樂方得律儀異則不然以惡意
+<pb ed="X" id="X59.1087.0363a" n="0363a"/>
+<lb ed="X" n="0363a01"/>樂不全息故又云若人不作五種定限方可受得別
+<lb ed="X" n="0363a02"/>解脫律儀言五定者謂有情戒處時緣定<note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上經文</note>言有
+<lb ed="X" n="0363a03"/>情定者若念言於此有情我斷諸惡於彼有情我不
+<lb ed="X" n="0363a04"/>能斷作此心者戒則不發言戒定者若作念言煞盜
+<lb ed="X" n="0363a05"/>等戒我即能斷妄語等戒我不能斷作此心者戒亦
+<lb ed="X" n="0363a06"/>不發言處定者若作念言於此國土多人識知我即
+<lb ed="X" n="0363a07"/>能斷於彼國土&CB07099;人識知我不能斷作此心者亦不
+<lb ed="X" n="0363a08"/>得戒言時定者若作念言我三五年中即能斷惡過
+<lb ed="X" n="0363a09"/>是<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>後我不能斷作此心者亦不得戒言緣定者若
+<lb ed="X" n="0363a10"/>作念言我不遇緣即斷惡若也遇緣逢惡入陣我即
+<lb ed="X" n="0363a11"/>不能斷作此心者亦不得戒是名五定汝等既知心
+<lb ed="X" n="0363a12"/>有定限戒法不生今須將心普緣盡十方界情非情
+<lb ed="X" n="0363a13"/>境誓斷一切惡能持不<note place="inline">彼應答云能又應語云</note>汝等當知此斷
+<lb ed="X" n="0363a14"/>惡心即是攝律儀戒故瑜伽論第四十云律儀戒者
+<lb ed="X" n="0363a15"/>謂菩薩所受七眾別解脫律儀乃至廣說准此先次
+<lb ed="X" n="0363a16"/>第受七眾律儀後方得受菩薩淨戒又菩薩善戒經
+<lb ed="X" n="0363a17"/>云菩薩摩訶薩成就<note n="0363001" resp="Xuzangjing" place="foot text" type="orig">善字更勘</note>善戒<note place="inline">攝律儀戒</note>成就善戒<note place="inline">攝善法戒</note>成就
+<lb ed="X" n="0363a18"/>利益眾生戒<note place="inline">攝眾生戒</note>先當具足學優婆塞沙彌戒比丘
+<lb ed="X" n="0363a19"/>戒若言不具優婆塞戒得沙彌戒無有是處不具沙
+<lb ed="X" n="0363a20"/>彌戒得比丘戒亦無是處<note place="inline">女人亦說</note>不具如是三種戒者
+<lb ed="X" n="0363a21"/>得菩薩戒亦無是處譬如重樓四級次第不由初級
+<lb ed="X" n="0363a22"/>至第二級者無有是處不由二級至於三級不由三
+<lb ed="X" n="0363a23"/>級至四級者亦無有是處若准梵網經文解語皆得
+<lb ed="X" n="0363a24"/>故經云比丘比丘尼優婆塞優婆夷國王王子大臣
+<pb ed="X" id="X59.1087.0363b" n="0363b"/>
+<lb ed="X" n="0363b01"/>百官庶民黃門婬男婬女奴婢八部鬼神畜生乃至
+<lb ed="X" n="0363b02"/>變化人但解法師語盡受得戒皆名第一清淨者又
+<lb ed="X" n="0363b03"/>菩薩瓔珞經云攝律儀戒者所謂十波羅蜜<note place="inline">謂布施等六方
+<lb ed="X" n="0363b04"/>便力回&CB02823;</note>第二緣一切境修一切善謂三業勤修一切菩
+<lb ed="X" n="0363b05"/>提資糧令使圓滿假使三千大千世界劫火洞然於
+<lb ed="X" n="0363b06"/>中若有微少善根菩薩發心當於此劫火之中修少
+<lb ed="X" n="0363b07"/>善根汝等今時於佛所說三藏教法戒定慧等一切
+<lb ed="X" n="0363b08"/>行門不惜身命盡當修學能持不<note place="inline">被答云能又應語云</note>汝若少
+<lb ed="X" n="0363b09"/>分善作限定心不擬修者戒亦不發汝等當知此修
+<lb ed="X" n="0363b10"/>善心<note n="0363002" resp="Xuzangjing" place="foot text" type="orig">不疑正或即</note>不是攝善法戒<note n="0363003" resp="Xuzangjing" place="foot text" type="orig">因字或歟剩</note>因故瑜伽論云攝善法戒者謂
+<lb ed="X" n="0363b11"/>諸菩薩受戒後所有一切為大菩提由身語意積集
+<lb ed="X" n="0363b12"/>諸善總說名為攝善法戒乃至廣說又菩薩瓔珞經
+<lb ed="X" n="0363b13"/>云攝善法戒者所謂八萬四千法門第三緣一切有
+<lb ed="X" n="0363b14"/>情起度脫心以慈悲喜捨誓救群品於怨親境平等
+<lb ed="X" n="0363b15"/>普濟以佛世尊昔因地時發弘誓願今得成佛廣度
+<lb ed="X" n="0363b16"/>有情汝等盡能發是心不<note place="inline">彼答云能次復語云</note>汝若下至於一
+<lb ed="X" n="0363b17"/>有情作限定心不擬度者戒亦不發汝等當知此度
+<lb ed="X" n="0363b18"/>眾生心即是饒益有情戒故瑜伽論云饒益有情戒
+<lb ed="X" n="0363b19"/>者當知此戒略有十一相何等十一謂諸菩薩於諸
+<lb ed="X" n="0363b20"/>有情能引義利彼彼事業與作助伴於諸有情隨所
+<lb ed="X" n="0363b21"/>生起病等苦時瞻侍病者等亦作助伴乃至廣說又
+<lb ed="X" n="0363b22"/>菩薩瓔珞經云攝眾生戒者所謂慈悲喜捨<note place="inline">次總結云</note>此
+<lb ed="X" n="0363b23"/>是三聚淨戒所緣境想汝等當知欲受戒者先須請
+<lb ed="X" n="0363b24"/>師故梵網經云請二師和尚阿闍梨<note place="inline">准此即是出家菩薩有德行者
+<pb ed="X" id="X59.1087.0363c" n="0363c"/>
+<lb ed="X" n="0363c01"/>不簡凡聖先請和上次請闍梨闍梨牒和上名入羯磨中受與彼戒若准普賢觀經令請本師釋迦牟尼佛為
+<lb ed="X" n="0363c02"/>和上文殊菩薩為羯磨阿闍梨彌勒菩薩為教授阿闍梨十方諸佛為證戒師十方菩薩為同學伴侶時人共
+<lb ed="X" n="0363c03"/>行詞句可知今不依之所以者何以彼普賢觀經是自誓受戒此是從師授與彼有異故梵網經云若千里內
+<lb ed="X" n="0363c04"/>無能受戒師得佛菩薩形像前自誓受戒次復應語云</note>又彌勒菩薩所說受戒
+<lb ed="X" n="0363c05"/>羯磨云若諸菩薩欲學菩薩三聚淨戒或是在家或
+<lb ed="X" n="0363c06"/>是出家先於無上正等菩提發願<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>當訪求同法菩
+<lb ed="X" n="0363c07"/>薩<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>發大願有智有力於語表義能授能開於如是
+<lb ed="X" n="0363c08"/>等功德具足勝菩薩所先禮雙足偏袒右肩膝輪據
+<lb ed="X" n="0363c09"/>地合掌恭敬如是請言大德憶念我某甲於大德所
+<lb ed="X" n="0363c10"/>乞受一切菩薩淨戒唯願須臾不辭勞倦慈愍聽受
+<lb ed="X" n="0363c11"/>如是三說<note place="inline">應持者等教請請法如上唯此教又准請一師此即親發戒師亦不言請佛請師語
+<lb ed="X" n="0363c12"/>云</note>可爾<note place="inline">次云</note>汝等當知若欲受菩薩戒者必須身無遮
+<lb ed="X" n="0363c13"/>難若也身有遮難設受戒亦不生梵網經二師應問
+<lb ed="X" n="0363c14"/>言汝有七遮罪不若現身有七遮師不應與受我今
+<lb ed="X" n="0363c15"/>問汝汝隨我問答若有言有若無言無<note place="inline">問云</note>汝不曾出
+<lb ed="X" n="0363c16"/>佛血不汝不殺父不汝不殺母不汝不殺和上不汝
+<lb ed="X" n="0363c17"/>不殺阿闍梨不汝不破羯磨轉法輪僧不汝不殺聖
+<lb ed="X" n="0363c18"/>人不<note place="inline">若言無有次應語云</note>汝等既能無遮難堪受菩薩戒凡欲
+<lb ed="X" n="0363c19"/>受菩薩戒者先發菩提心次行菩薩行後方得受菩
+<lb ed="X" n="0363c20"/>薩淨戒若不爾戒品不生汝等盡能發菩提心不<note place="inline">若一
+<lb ed="X" n="0363c21"/>人除等盡二字彼應答云能次復語云<note n="0363004" resp="Xuzangjing" place="foot text" type="orig">也字似剩</note>〔也〕</note>菩提心者四弘誓願准前聖教
+<lb ed="X" n="0363c22"/>先自發願後方請師汝未知我今教汝&CI0004;合掌隨
+<lb ed="X" n="0363c23"/>吾語說<note place="inline">教云</note>我某甲<note place="inline">俗人稱弟子若出家稱比丘等</note>眾生無邊誓願度
+<lb ed="X" n="0363c24"/>煩惱無盡誓願斷法門無量誓願學無上菩提誓願
+<pb ed="X" id="X59.1087.0364a" n="0364a"/>
+<lb ed="X" n="0364a01"/>成<note place="inline">三說<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>次語云</note>汝<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>發菩提心次須行菩薩行者即六波
+<lb ed="X" n="0364a02"/>羅蜜第一布施波羅蜜多然菩薩行施異於二乘見
+<lb ed="X" n="0364a03"/>來乞者衣服飯食頭目髓腦身肉手足國城妻子象
+<lb ed="X" n="0364a04"/>馬七珍奴俾&CB03878;從隨所須不生慳&CB00736;盡將施與若復
+<lb ed="X" n="0364a05"/>有人從<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>求法以無染心隨解為說雖行布施不求
+<lb ed="X" n="0364a06"/>人天富樂果報普為法界有情回向無上菩提故金
+<lb ed="X" n="0364a07"/>剛般若經云菩薩所作福德不應貪著如此布施汝
+<lb ed="X" n="0364a08"/>能行不第二持戒亦異二乘聲聞緣覺但禁身語不
+<lb ed="X" n="0364a09"/>制心&CB07703;菩薩持戒起心故即犯涅槃經云若見男<note n="0364001" resp="Xuzangjing" place="foot text" type="orig">子字似剩</note>子
+<lb ed="X" n="0364a10"/>女相隨之時便起欲想雖不親近是名破戒汙辱梵
+<lb ed="X" n="0364a11"/>行汝等盡不起心不第三忍辱假使有人以刀杖等
+<lb ed="X" n="0364a12"/>解其支節不起一念瞋恚之心故般若經云如我昔
+<lb ed="X" n="0364a13"/>為哥利王割截身體我於爾時無<note n="0364002" resp="Xuzangjing" place="foot text" type="orig">我下應有相字</note>我無人相無眾生
+<lb ed="X" n="0364a14"/>相無受者<note n="0364003" resp="Xuzangjing" place="foot text" type="orig">相下應有若有等文</note>相應生瞋恨<note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上經文</note>汝等當知若起瞋心不
+<lb ed="X" n="0364a15"/>名忍辱汝等盡能如是忍不第四精進謂晝夜六時
+<lb ed="X" n="0364a16"/>&CB15081;勵三業勤修速進直至菩提於其中間不生疲倦
+<lb ed="X" n="0364a17"/>如佛世尊於因地時日行遇見底沙如來坐寶龕中
+<lb ed="X" n="0364a18"/>入火界定光明赫奕特異於常遂以無怠淨心至誠
+<lb ed="X" n="0364a19"/>瞻仰忘下一足經七晝夜以妙伽陀而讚彼佛由斯
+<lb ed="X" n="0364a20"/>精進便超彌勒九劫於先證大菩提如是精進汝等
+<lb ed="X" n="0364a21"/>能行不第五禪定攝心不亂湛然安靜妄想不生汝
+<lb ed="X" n="0364a22"/>能行不第六智慧了智一乘不起二相永除疑惑深
+<lb ed="X" n="0364a23"/>達本源汝能行不<note place="inline">彼皆應答云能次復語云</note>汝等既能發菩提心
+<lb ed="X" n="0364a24"/>行菩薩道即是菩薩我今問汝隨我問答<note place="inline">問云</note>汝是菩
+<pb ed="X" id="X59.1087.0364b" n="0364b"/>
+<lb ed="X" n="0364b01"/>薩不<note place="inline">彼答云是</note>發菩薩心未<note place="inline">答<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>發次語云</note>汝等今欲求無上等
+<lb ed="X" n="0364b02"/>覺欲度一切無邊苦者當於此戒作難遭心生希有
+<lb ed="X" n="0364b03"/>想如病得醫如飢思食等所以爾者為此戒是趣菩
+<lb ed="X" n="0364b04"/>提之根本故華嚴經云戒是無上菩提本應當具足
+<lb ed="X" n="0364b05"/>持淨戒等既知如此我今為汝授諸菩薩一切淨戒
+<lb ed="X" n="0364b06"/>有三翻羯磨第三滿足戒品即生汝須領受若不領
+<lb ed="X" n="0364b07"/>受戒終不發汝須專思不得餘思餘想如是心心相
+<lb ed="X" n="0364b08"/>次念念相續一心承受能不<note place="inline">彼答云能次依彌勒羯磨正與授戒應云</note>善
+<lb ed="X" n="0364b09"/>男子諦聽汝今欲於我所求受諸菩薩一切學處<note n="0364004" resp="Xuzangjing" place="foot text" type="orig">求下疑脫受字</note>求
+<lb ed="X" n="0364b10"/>諸菩薩一切淨戒謂律儀戒攝善法戒饒益有情戒
+<lb ed="X" n="0364b11"/>如是學處如是淨戒過去一切菩薩<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>具未來一切
+<lb ed="X" n="0364b12"/>菩薩當具現在一切菩薩今具於是學處於是淨戒
+<lb ed="X" n="0364b13"/>過去一切菩薩<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>學未來一切菩薩當學現在一切
+<lb ed="X" n="0364b14"/>菩薩今學汝能受不<note place="inline">如是至三每遍皆須令彼諦聽次依彌勒羯磨啟告佛菩薩與
+<lb ed="X" n="0364b15"/>作證明云</note>仰啟十方無邊無際諸世界中諸佛菩薩今於
+<lb ed="X" n="0364b16"/>此間現有某甲菩薩於我某甲菩薩所乃至三說受
+<lb ed="X" n="0364b17"/>菩薩戒我為作證唯願十方無邊無際諸世界中諸
+<lb ed="X" n="0364b18"/>佛菩薩第一真聖於現不現一切時處一切有情皆
+<lb ed="X" n="0364b19"/>現<note n="0364005" resp="Xuzangjing" place="foot text" type="orig">學疑覺</note>學者於此某甲受菩薩戒亦為作證<note place="inline">如是至三次應示相云</note>
+<lb ed="X" n="0364b20"/>善男子諦聽如來至真等正覺說菩薩十重波羅夷
+<lb ed="X" n="0364b21"/>法若佛子犯一一波羅夷法非菩薩非佛弟子即失
+<lb ed="X" n="0364b22"/>四十二賢聖法<note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上&CB02637;聽總舉准義加也下即依瓔珞經下卷云佛告汝經無汝字義加</note>
+<lb ed="X" n="0364b23"/>從今身至佛身盡未來際於其中間不得殺生<note place="inline">准梵網經
+<lb ed="X" n="0364b24"/>應云一切有命者不得故殺也</note>若有犯者非菩薩行失四十二賢聖
+<pb ed="X" id="X59.1087.0364c" n="0364c"/>
+<lb ed="X" n="0364c01"/>法不得犯能持不<note place="inline">彼答云能餘亦爾</note>第二不得偷盜第三不
+<lb ed="X" n="0364c02"/>得婬欲第四不得妄語第五不得沽酒第六不得說
+<lb ed="X" n="0364c03"/>在家菩薩出家菩薩比丘比丘尼罪過第七不得自
+<lb ed="X" n="0364c04"/>讚毀他第八不得慳貪&CB00736;財第九不得嗔情非情第
+<lb ed="X" n="0364c05"/>十不得毀謗三寶<note place="inline">一一如初次結云</note>此是菩薩十重波羅夷
+<lb ed="X" n="0364c06"/>法乃至成佛不得犯能持不<note place="inline">彼答云能次復語云</note>四十八輕廣
+<lb ed="X" n="0364c07"/>如經說乃至成佛盡持不得犯能不<note place="inline">彼答云能次勸修云</note>汝<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0364c08"/>得戒竟法事成就眾行滿足汝當善受教法勸化作
+<lb ed="X" n="0364c09"/>福治塔供養眾僧孝順父母恭敬師長和上阿闍梨
+<lb ed="X" n="0364c10"/>如法教&CB02637;不應違逆汝應誦十重四十八輕戒依之
+<lb ed="X" n="0364c11"/>修行得無上果此三聚淨戒能修行者感佛三身成
+<lb ed="X" n="0364c12"/>佛三德謂律儀戒感佛法身成就斷德攝善法戒感
+<lb ed="X" n="0364c13"/>佛報身成就智德饒益有情戒感佛化身成就恩德
+<lb ed="X" n="0364c14"/>既知利益廣大必須精勤護持乃不得犯如微塵許
+<lb ed="X" n="0364c15"/>何況具犯十戒若有犯者不得現身發菩提心亦失
+<lb ed="X" n="0364c16"/>國王位亦失轉輪王位亦失百官位亦失比丘比丘
+<lb ed="X" n="0364c17"/>尼位亦失十發趣十長養十金剛十地佛性常住妙
+<lb ed="X" n="0364c18"/>果一切皆失墮三惡道中二劫三劫不聞父母三寶
+<lb ed="X" n="0364c19"/>名字以是不應一一犯餘未知者當問和上闍梨及
+<lb ed="X" n="0364c20"/>同學戒者各各虔誠迴向發願<note place="inline">如常可知</note>問受菩薩戒<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0364c21"/>若人來從乞頭目手等若不與者即是犯戒若當與
+<lb ed="X" n="0364c22"/>者未辨此心如何可得答若遇此緣應說偈向<note place="inline">出像法決
+<lb ed="X" n="0364c23"/>疑經</note>我今初發心善根未成熟願我即成熟後必當相
+<lb ed="X" n="0364c24"/>與。</p></div1>
+<pb ed="X" id="X59.1087.0365a" n="0365a"/>
+<lb ed="X" n="0365a01"/>
+<lb ed="X" n="0365a02"/><juan fun="close" n="1"><jhead>菩薩戒一卷</jhead></juan>
+<lb ed="X" n="0365a03"/>
+<lb ed="X" n="0365a04"/><div1 type="w"><p id="pX59p0365a0401">此受戒儀者是青龍寺法全大師分付珍傳日本
+<lb ed="X" n="0365a05"/>仍令抄出充流通本比丘深智寫書比丘忍勢勘
+<lb ed="X" n="0365a06"/>比丘三惠裝。</p>
+<lb ed="X" n="0365a07"/><p id="pX59p0365a0701">元慶五年九月廿八日　比丘□&CB17237;記</p>
+<lb ed="X" n="0365a08"/>
+<lb ed="X" n="0365a09"/><p id="pX59p0365a0901">延久五年正月十七日書持校勘了</p>
+<lb ed="X" n="0365a10"/><p id="pX59p0365a1001">康治元年六月一日以實相房御本寫之良修記</p></div1>
+</body></text></TEI.2>

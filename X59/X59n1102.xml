@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X59n1102.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1102 佛制六物圖辯訛</title>
+			<author>宋 妙生述</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.8 $ (Big5)<date>$Date: 2009/04/22 09:01:12 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:01:12 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 59, No. 1102 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/06/13 08:44:35</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X59n1102.xml,v $
+Revision 1.8  2009/04/22 09:01:12  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.7  2005/11/30 06:34:34  amtbgrace
+modified: 執行全部 mulu.py, 取消自訂目錄的全形括號
+
+Revision 1.6  2005/08/15 07:26:16  eva
+modified: 產生 pdf 標記有誤修訂
+
+Revision 1.5  2005/07/15 11:15:27  eva
+modified: HH目錄檢查
+
+Revision 1.4  2005/07/13 09:11:39  eva
+modified: 依 note.txt 修訂 及 目錄檢查修訂
+
+Revision 1.3  2005/06/13 00:49:04  edith
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X59.1102.0611a" n="0611a"/>
+<lb ed="X" n="0611a01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0611a02"/><head type="no">No. 1102</head>
+<lb ed="X" n="0611a03"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>辨訛<note place="inline">辨六物圖之訛也</note></jhead></juan>
+<lb ed="X" n="0611a04"/>
+<lb ed="X" n="0611a05"/><byline type="author">會稽沙門　妙生　述</byline>
+<lb ed="X" n="0611a06"/><div1 type="other"><mulu type="其他" level="1" label="前文　目次"/><p id="pX59p0611a0601">三衣六物之制簡自佛心其功固不可量也由是釋
+<lb ed="X" n="0611a07"/>子特不可以斯須而忽忘其制但齊世有弗遵乎教
+<lb ed="X" n="0611a08"/>者愚常欲正之未能也一旦東藏律師別出六物圖
+<lb ed="X" n="0611a09"/>將以革其弊<note place="inline">余</note>始聞之甚喜因求本而觀之不幸其
+<lb ed="X" n="0611a10"/>間文義&CB00520;漏頗多於余心反有所未安遂於圖文中
+<lb ed="X" n="0611a11"/>有未然之義頗為&CB00520;出兼以自所見聞而辨其訛&CB00582;
+<lb ed="X" n="0611a12"/>務存於此矣非好改人云異但慮其說別行于世有
+<lb ed="X" n="0611a13"/>專信者遂不看疏鈔正文因而日月浸遠相承訛謬
+<lb ed="X" n="0611a14"/>將久不可革豈於始萌之際杜口而無言耶願以愚
+<lb ed="X" n="0611a15"/>之短見而照之於圖文果如何耶厥或確然弗從豈
+<lb ed="X" n="0611a16"/>其世無人乎今略為十一段文無次比&CB00582;循圖文隨
+<lb ed="X" n="0611a17"/>見隨辨耳餘有數端避繁未出。</p>
+<lb ed="X" n="0611a18"/><list><item id="itemX59p0611a1801">立題語濫</item><item id="itemX59p0611a1805">畫圖無功</item><item id="itemX59p0611a1809">俗談罔道</item><item id="itemX59p0611a1813">解衣名局</item>
+<lb ed="X" n="0611a19"/><item id="itemX59p0611a1901">受不云三</item><item id="itemX59p0611a1905">捨不云一</item><item id="itemX59p0611a1909">明相戲論</item><item id="itemX59p0611a1913">改文從<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app></item>
+<lb ed="X" n="0611a20"/><item id="itemX59p0611a2001">坐具廢增</item><item id="itemX59p0611a2005">寄囊辨紐</item><item id="itemX59p0611a2009">勸廢圖文</item></list></div1>
+<lb ed="X" n="0611a21"/><div1 type="other"><mulu type="其他" level="1" label="立題語濫"/><head>立題語濫<note place="inline">首題曰佛制比丘六物圖</note></head>
+<lb ed="X" n="0611a22"/><p id="pX59p0611a2201">辨曰佛制比丘六物余聞之久矣<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>未聞其圖是佛
+<lb ed="X" n="0611a23"/>制也圖之一字乃是人語何得云佛制比丘六物圖
+<lb ed="X" n="0611a24"/>耶此則立題語濫金石不分或曰圖之一字是今所
+<pb ed="X" id="X59.1102.0611b" n="0611b"/>
+<lb ed="X" n="0611b01"/>立之名固不可以佛制二字貫下讀之余曰不然彼
+<lb ed="X" n="0611b02"/>乃自欲強分柰語不可分也&CB05577;臆之說胡可憑諸豈
+<lb ed="X" n="0611b03"/>不見南山戒壇圖經住法圖讚軌度圖經等例無佛
+<lb ed="X" n="0611b04"/>制二字或曰六物唯佛所制故立佛制二字耳曰且
+<lb ed="X" n="0611b05"/>戒壇亦佛制也南山何不云佛制戒壇經耶是知舉
+<lb ed="X" n="0611b06"/>一事立一題誠難也子今秉筆未逾數十字而有斯
+<lb ed="X" n="0611b07"/>患況乎先德撰述章疏盛行於世有幾過生耶。</p></div1>
+<lb ed="X" n="0611b08"/><div1 type="other"><mulu type="其他" level="1" label="畫圖無益"/><head>畫圖無益<note place="inline">六物圖中上標僧伽&CB04968;等下畫圖相</note></head>
+<lb ed="X" n="0611b09"/><p id="pX59p0611b0901">辨曰此圖中二十五條等數之可見但於製造法式
+<lb ed="X" n="0611b10"/>未聞其功且衣財有單複&CB00424;紐有前後縫有鳥足馬
+<lb ed="X" n="0611b11"/>齒之別而圖中殊不顯其相備使下引感通傳但平
+<lb ed="X" n="0611b12"/>寫本文而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>且律學輩尚致多迷況他人豈卒能曉
+<lb ed="X" n="0611b13"/>耶又著衣之要在乎&CB00424;紐今前後去緣圖文向下雖
+<lb ed="X" n="0611b14"/>粗明之未審左右兩邊分齊去取幾何文既不明圖
+<lb ed="X" n="0611b15"/>中唯劃條數耳此則但畫其圖孰不能畫但平引其
+<lb ed="X" n="0611b16"/>文孰不能引豈不看南山軌度圖經畫鐘樣累槌數
+<lb ed="X" n="0611b17"/>仍於槌下書出偈文等豈非一等畫圖圖有益也今
+<lb ed="X" n="0611b18"/>則文之良由怯於文昏於義故圖中不能措平者是
+<lb ed="X" n="0611b19"/>誠不能也今既畫圖無益兼鏤版以印行所謂勞而
+<lb ed="X" n="0611b20"/>無功。</p></div1>
+<lb ed="X" n="0611b21"/><div1 type="other"><mulu type="其他" level="1" label="俗談罔道"/><head>俗談罔道<note place="inline">六物圖箋曰世傳七條褊衫裙子為三衣者謬矣</note></head>
+<lb ed="X" n="0611b22"/><p id="pX59p0611b2201">辨曰但可正邊夷聾俗之談而無用於此方中國文
+<lb ed="X" n="0611b23"/>物之地也凡曰出家者又豈不識三衣之名耶何以
+<lb ed="X" n="0611b24"/>故知之且出家者當受具戒必示衣名教授師與戒
+<pb ed="X" id="X59.1102.0611c" n="0611c"/>
+<lb ed="X" n="0611c01"/>師豈以七條褊衫裙子謂之三衣而&CB00386;戒子耶但恐
+<lb ed="X" n="0611c02"/>偷形不受戒者而有是說且子秉筆立言垂於末世
+<lb ed="X" n="0611c03"/>開人義路用補於道眾非示於盲路俗之傳今淺薄
+<lb ed="X" n="0611c04"/>之語奚足呈露紙墨取笑於人俗傳三衣之名子正
+<lb ed="X" n="0611c05"/>之謬矣不易取道也無東藏律師正之則天下三衣
+<lb ed="X" n="0611c06"/>之名無得而知矣。</p></div1>
+<lb ed="X" n="0611c07"/><div1 type="other"><mulu type="其他" level="1" label="解衣名局"/><head>解衣名局<note place="inline">釋名衣名中入王宮聚落衣圖文箋云乞食說法時著</note></head>
+<lb ed="X" n="0611c08"/><p id="pX59p0611c0801">辨曰翻名本通解義何局且著衣入聚但有如法等
+<lb ed="X" n="0611c09"/>緣皆可入也何特簡乞食耶如曰入聚落此乃非時
+<lb ed="X" n="0611c10"/>豈謂乞食而曰入也若但據乞食時著者反顯非時
+<lb ed="X" n="0611c11"/>入聚不必大衣也又&CB15106;多羅僧名入眾衣箋云禮誦
+<lb ed="X" n="0611c12"/>齊講時著辨曰此亦解義局也且眾集事何止禮誦
+<lb ed="X" n="0611c13"/>齊講時耶至如說恣等緣僧私同遵又若生善滅惡
+<lb ed="X" n="0611c14"/>事生皆作相集僧但入眾也若但據齋講時著此說
+<lb ed="X" n="0611c15"/>恣等時入眾著何衣耶何不以等字收之故鈔引五
+<lb ed="X" n="0611c16"/>百問下云小衣不近身淨潔得入眾食禮拜等故知
+<lb ed="X" n="0611c17"/>等字無所不攝此雖小瑕恐後學執信此文便云著
+<lb ed="X" n="0611c18"/>大衣者通非時入聚著中衣者通諸餘入眾此則迷
+<lb ed="X" n="0611c19"/>惑後生過亦大矣。</p></div1>
+<lb ed="X" n="0611c20"/><div1 type="other"><mulu type="其他" level="1" label="受不云三"/><head>受不云三<note place="inline">受衣法下不示三說</note></head>
+<lb ed="X" n="0611c21"/><p id="pX59p0611c2101">辨曰受法三說差此不成蓋四分判文有限故不可
+<lb ed="X" n="0611c22"/>增減也今既不云三說將恐一說亦得成否彼為昏
+<lb ed="X" n="0611c23"/>忘耶為特除耶若謂特除固不在言議若謂昏忘何
+<lb ed="X" n="0611c24"/>必大張口云指斥非濫所謂不看他面誠可&CB00718;也彼
+<pb ed="X" id="X59.1102.0612a" n="0612a"/>
+<lb ed="X" n="0612a01"/>今撰述纔一二紙文而有昏&CB13422;之過況乎古德十疏
+<lb ed="X" n="0612a02"/>通經誠可仰也彼雖欲與疏鈔等抗行於世而不知
+<lb ed="X" n="0612a03"/>有&CB00386;人加法不成之過大可怪也縱使割截應制無
+<lb ed="X" n="0612a04"/>法亦奚以為。</p></div1>
+<lb ed="X" n="0612a05"/><div1 type="other"><mulu type="其他" level="1" label="捨不云一"/><head>捨不云一<note place="inline">捨衣法下不示一說</note></head>
+<lb ed="X" n="0612a06"/><p id="pX59p0612a0601">辨曰受法三說捨則一說者&CB00582;受難而捨易也今不
+<lb ed="X" n="0612a07"/>云一說將恐三說亦得成耶且六物圖散於四方有
+<lb ed="X" n="0612a08"/>不明者見捨法下無語往往說謂一說三說受捨無
+<lb ed="X" n="0612a09"/>拘&CB00582;信東藏律師之言不云一說餘固不復請問也
+<lb ed="X" n="0612a10"/>彼只知急一時云名而不知三衣捨受之法一旦錯
+<lb ed="X" n="0612a11"/>亂於不明之人又可怪也。</p></div1>
+<lb ed="X" n="0612a12"/><div1 type="other"><mulu type="其他" level="1" label="明相戲論"/><head>明相戲論<note place="inline">圖云世中相傳號曰明孔又言明相仍自註云律中天曉謂之明相
+<lb ed="X" n="0612a13"/>又云漏塵等俱是訛謬</note></head>
+<lb ed="X" n="0612a14"/><p id="pX59p0612a1401">辨曰明孔等說此雖人語然亦不爽裁縫見葉之義
+<lb ed="X" n="0612a15"/>良恐古人欲人易明故作是說且裁縫見葉與明孔
+<lb ed="X" n="0612a16"/>明相等語雖凡聖所說不同然於不得縵縫之義是
+<lb ed="X" n="0612a17"/>一既不礙大理又非形於紙墨亦何必確執其語而
+<lb ed="X" n="0612a18"/>斥云訛謬耶或曰必也正名乎何得以義一而用凡
+<lb ed="X" n="0612a19"/>語輒混聖言耶曰此非正辨衣名乃是聖人明其裁
+<lb ed="X" n="0612a20"/>縫相貌耳故云裁縫見葉等世人雖是相傳之語亦
+<lb ed="X" n="0612a21"/>欲明其裁縫相貌故云明相等厥或相傳僧伽&CB04968;等
+<lb ed="X" n="0612a22"/>名而云明孔明相等彼能證之云訛謬者是誠謬也
+<lb ed="X" n="0612a23"/>固當證之今則何正名之有又斥云天曉謂之明相
+<lb ed="X" n="0612a24"/>者此又見彼&CB05577;襟確執之甚矣若謂世傳裁縫見葉
+<pb ed="X" id="X59.1102.0612b" n="0612b"/>
+<lb ed="X" n="0612b01"/>而謂之明相便以律中天曉明相語同而斥云訛謬
+<lb ed="X" n="0612b02"/>者南山軌度圖經云唱相發於引又云商量唱相趣
+<lb ed="X" n="0612b03"/>事便止等亦可以律中結界唱相語同而斥之若然
+<lb ed="X" n="0612b04"/>則不但以律斥其世傳抑亦以律文攻乎聖俱訛謬
+<lb ed="X" n="0612b05"/>也彼將謂見識之險呈露於人而不知呈露&CB05577;臆之
+<lb ed="X" n="0612b06"/>局促於言之確執於見識之不廣翻成不險也。</p></div1>
+<lb ed="X" n="0612b07"/><div1 type="other"><mulu type="其他" level="1" label="改文從己"/><head>改文從<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app><note place="inline">引感通傳云達於左臂</note></head>
+<lb ed="X" n="0612b08"/><p id="pX59p0612b0801">辨曰正文遶于左臂今云達者此乃妄改聖言輒從
+<lb ed="X" n="0612b09"/><app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>見<note place="inline">余</note>&CB00573;求傳文古今數本皆云遶于左臂希東藏
+<lb ed="X" n="0612b10"/>之本云達不云遶也良由遶之一字乃與達字微差
+<lb ed="X" n="0612b11"/>遂為妄改之濫觴也<note place="inline">余</note>&CB00573;見本從糸作遶以為繞字
+<lb ed="X" n="0612b12"/>子今又作何見解而妄改耶借使作達字消文且外
+<lb ed="X" n="0612b13"/>道所譏由此一角以為緣起今頓除之遂改傳文云
+<lb ed="X" n="0612b14"/>達于左臂外道所譏之角今復何在加以妄施紐&CB04901;
+<lb ed="X" n="0612b15"/>知見何文抑文又不周於身本由寒制義亦弗存但
+<lb ed="X" n="0612b16"/>由妄改遶字為達致惑新學相從不反也然達亦到
+<lb ed="X" n="0612b17"/>義奈何今但弔于胸前何達之有祇知攻異著短三
+<lb ed="X" n="0612b18"/>衣止掩半身正坐於律中婬婦之譏今既訛風扇於
+<lb ed="X" n="0612b19"/>村落不忍坐觀更為伸之冀同我者一覽可也據感
+<lb ed="X" n="0612b20"/>通傳衣角上下肩臂不足凡有四緣具如本傳今略
+<lb ed="X" n="0612b21"/>明四緣生起次第後略解傳文且始制袈裟左臂由
+<lb ed="X" n="0612b22"/>女所愛為緣次制衣在肩以坐具鎮之復由坐具為
+<lb ed="X" n="0612b23"/>外道所譏又以衣角居于左臂因如象鼻等為譏復
+<lb ed="X" n="0612b24"/>以衣角於左臂遶之此皆由衣角以為譏過是不可
+<pb ed="X" id="X59.1102.0612c" n="0612c"/>
+<lb ed="X" n="0612c01"/>除也故傳文後云今以衣角繞于左臂置於腋下<note place="inline">謂以
+<lb ed="X" n="0612c02"/>衣右角遶於左臂上轉復投置於左腋下也不得今垂如上過也不得垂於左臂上如象鼻過也</note>由
+<lb ed="X" n="0612c03"/>是始制上安&CB00424;紐<note place="inline">以未安&CB00424;紐則衣無束勒似婬女像今制&CB00424;紐無此過也故云由是
+<lb ed="X" n="0612c04"/>等此據著祗支為言若以今時衫袖長廣故衣角繞云未便但可內右角在左臂衣下亦免過也</note>或
+<lb ed="X" n="0612c05"/>曰三衣重著是佛所許厥若俱以故衣作之則大衣
+<lb ed="X" n="0612c06"/>四重中下二衣各有兩重今既重著必須重繞則左
+<lb ed="X" n="0612c07"/>臂衣角厚重不生世善也答曰繞于左臂&CB00582;逃象鼻
+<lb ed="X" n="0612c08"/>之譏但繞最外一重<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>順傳文<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>免繞過何必特以
+<lb ed="X" n="0612c09"/>故衣而曲生難耶<note place="inline">餘如別說</note>。</p></div1>
+<lb ed="X" n="0612c10"/><div1 type="other"><mulu type="其他" level="1" label="坐具廢增"/><head>坐具廢增<note place="inline">圖云然捨制從開理雖通得但加留極大止加半&CB00250;今時&CB16078;陋豈是
+<lb ed="X" n="0612c11"/>初量不容耶</note></head>
+<lb ed="X" n="0612c12"/><p id="pX59p0612c1201">辨曰此&CB00582;不知佛之微旨故以迦留身大欲廢增量
+<lb ed="X" n="0612c13"/>之文良恐未可夫世尊垂一言制一戒未有為一人
+<lb ed="X" n="0612c14"/>而不通餘人未有被一時而不通後世&CB00582;大慈仁者
+<lb ed="X" n="0612c15"/>之心普而非局也且迦留身大乃為增量之緣但加
+<lb ed="X" n="0612c16"/>半&CB00250;意在處中施及後世也非特為加留一人而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0612c17"/>若但據迦留偉大之身而增其量則此增量一戒非
+<lb ed="X" n="0612c18"/>但不通末世抑亦佛在時迦留身外皆卑陋也又何
+<lb ed="X" n="0612c19"/>但分時卑陋不通增量耶此則反致世尊制戒何忽
+<lb ed="X" n="0612c20"/>局於此矣仍遺傳中天神告祖師增量文厥若依本
+<lb ed="X" n="0612c21"/>初量固應制也然而有不臥者方可畜之鈔引多論
+<lb ed="X" n="0612c22"/>增量制意明有斯示故文云佛在時比丘不臥者多
+<lb ed="X" n="0612c23"/>故小後開益縷際等然雖坐具長短與本宗不同何
+<lb ed="X" n="0612c24"/>妨增量制意若坐若臥二部互舉耳或曰鈔引多論
+<pb ed="X" id="X59.1102.0613a" n="0613a"/>
+<lb ed="X" n="0613a01"/>意明四分戒本與十誦戒不同彼云一&CB00250;此云半&CB00250;
+<lb ed="X" n="0613a02"/>之義恐人錯用故引之耳何得引彼制意而為證耶
+<lb ed="X" n="0613a03"/>答曰祖師若謂只明戒本不同恐人錯用者但直引
+<lb ed="X" n="0613a04"/>增量長短不同之文亦何必更具引多論制意接伽
+<lb ed="X" n="0613a05"/>論後文耶將知伽論增量制意<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>據坐以言之未明
+<lb ed="X" n="0613a06"/>臥用故引多論增量制意共明坐臥二義皆展坐具
+<lb ed="X" n="0613a07"/>之義也又所以辨戒本不同恐人錯用者註中因仍
+<lb ed="X" n="0613a08"/>辨之一&CB00250;手與各半&CB00250;者乃是部別見聞不同遂長
+<lb ed="X" n="0613a09"/>短闊狹有異故註故以簡之不得錯用何妨二部增
+<lb ed="X" n="0613a10"/>量與制意同一佛也若據執伽論之文仍自註云膝
+<lb ed="X" n="0613a11"/>不出地亦不在增者此則無臥時展坐具之義也或
+<lb ed="X" n="0613a12"/>曰臥是惰慢之相律中未必言之借使許臥亦未必
+<lb ed="X" n="0613a13"/>須展坐具曰若不言臥者何故律中當念明相又鈔
+<lb ed="X" n="0613a14"/>引五分亦得四揲大衣枕之等文耶又若臥時不許
+<lb ed="X" n="0613a15"/>展坐具者律文何得云護坐具故感通傳亦云坐具
+<lb ed="X" n="0613a16"/>之制本為於身護衣及僧臥具也羯磨疏云為臥具
+<lb ed="X" n="0613a17"/>者恐損僧物擬用籍之自非無學何免穢溢又鈔下
+<lb ed="X" n="0613a18"/>聽衣門中單敷衣下註云敷僧臥具可&CB00646;四邊而下
+<lb ed="X" n="0613a19"/>垂四角各一尺上安坐具等彼有單敷衣尚安坐具
+<lb ed="X" n="0613a20"/>況無單敷者敢判不展坐具而臥耶今既末代根劣
+<lb ed="X" n="0613a21"/>臥多坐少則增量是宜也將知若臥皆須展之初量
+<lb ed="X" n="0613a22"/>增量皆為如法何局乎今時卑陋特廢增量耶。</p></div1>
+<lb ed="X" n="0613a23"/><div1 type="other"><mulu type="其他" level="1" label="寄囊辨紐"/><head>寄囊辨紐<note place="inline">囊有繫帶衣無&CB00424;紐</note></head>
+<lb ed="X" n="0613a24"/><p id="pX59p0613a2401">辨曰漉囊柄有繫帶者是欲其囊安處之便故教人
+<pb ed="X" id="X59.1102.0613b" n="0613b"/>
+<lb ed="X" n="0613b01"/>繫之耳&CB00582;惺惺若此及夫三衣相而不患乎著用&CB00424;
+<lb ed="X" n="0613b02"/>紐何昏昏心而至於斯耶且囊之用唯在乎漉水用
+<lb ed="X" n="0613b03"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>則置之三衣唯在乎披著著之必用&CB00424;紐既能於
+<lb ed="X" n="0613b04"/>囊安置處留心若此而於披著處特不留心耶既能
+<lb ed="X" n="0613b05"/>患其用<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而不患其用其患是緩而不患耶急也余
+<lb ed="X" n="0613b06"/>也非敢戲言&CB00582;觀囊帶以辨&CB00424;紐假無患而辨其患
+<lb ed="X" n="0613b07"/>故不可不辨也。</p></div1>
+<lb ed="X" n="0613b08"/><div1 type="other"><mulu type="其他" level="1" label="勸廢圖文"/><head>勸廢圖文</head>
+<lb ed="X" n="0613b09"/><p id="pX59p0613b0901">南山所述疏鈔等文&CB00582;患古之疏鈔等未然不獲<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0613b10"/>而述之今三衣六物<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>見於二衣篇章服儀等文文
+<lb ed="X" n="0613b11"/>既備矣此亦出六物圖其意何哉若謂衣篇等文為
+<lb ed="X" n="0613b12"/>然又不復出文也將非南山之教未足行事故與著
+<lb ed="X" n="0613b13"/>述耶或曰患今人不明制度故特畫圖以書之余曰
+<lb ed="X" n="0613b14"/>夫有濟人之心而無濟人術且人有觀圖作衣求其
+<lb ed="X" n="0613b15"/>法度尚一言不敢措至於鳥足馬齒之縫前後&CB00424;紐
+<lb ed="X" n="0613b16"/>之類將何伏以示人且東藏自稱律師流通祖道但
+<lb ed="X" n="0613b17"/>舉揚疏鈔等流行於世又何患三衣六物人不明耶
+<lb ed="X" n="0613b18"/>南山所謂即事即行不疑罪福者諒文義備矣故作
+<lb ed="X" n="0613b19"/>是云今復出六物圖別行於世尚法式不備行事使
+<lb ed="X" n="0613b20"/>守株者觀其新文往往不能更觀疏鈔等文是反不
+<lb ed="X" n="0613b21"/>欲流通祖教耶曰疏鈔即廣人罕知之今撮其大要
+<lb ed="X" n="0613b22"/>摠集一處文約易覽使天下普聞三衣六物之制則
+<lb ed="X" n="0613b23"/>孰謂之不然圖文所謂然其制度&CB00642;在諸文故撮其
+<lb ed="X" n="0613b24"/>大要而出之余曰子不見祖師章服義淨&CB00634;誥等文
+<pb ed="X" id="X59.1102.0613c" n="0613c"/>
+<lb ed="X" n="0613c01"/>又約於此圖之文非律學輩其餘則孰能一覽之今
+<lb ed="X" n="0613c02"/>此圖文將有出於祖師之道耶抑又不知祖師撰述
+<lb ed="X" n="0613c03"/>用意文旨互陳不集一處者&CB00582;欲人於疏鈔等明通
+<lb ed="X" n="0613c04"/>不局一端耳今圖既亡其制度無益於人又引文迷
+<lb ed="X" n="0613c05"/>於教旨兼失祖師用意是始終一無取焉古所謂以
+<lb ed="X" n="0613c06"/>其昏昏使人昭昭子之謂苟能喪亡我執藏卷斯文
+<lb ed="X" n="0613c07"/>使未明者無惑後世不亦宜哉余所以有言者乃欲
+<lb ed="X" n="0613c08"/>人知疏鈔之詳故不惜其繁云。</p></div1>
+<lb ed="X" n="0613c09"/><div1 type="w"><p id="pX59p0613c0901">比見六物圖中潛改增削似近從諫<note place="inline">如受不云三捨不云一今
+<lb ed="X" n="0613c10"/>例增之</note>其餘文旨尚固執未除雖曰從諫之而未能
+<lb ed="X" n="0613c11"/>如流也今因鏤版次復患後人對觀潛改之本謂
+<lb ed="X" n="0613c12"/>辨訛妄破故書之以決疑耳。</p><p id="pX59p0613c1212" place="inline">紹聖三年前安居日
+<lb ed="X" n="0613c13"/>門人覺成題</p></div1>
+</body></text></TEI.2>

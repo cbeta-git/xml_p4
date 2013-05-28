@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X59n1074.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1074 胎金兩界血脈</title>
+			<author>唐 造玄增補</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.4 $ (Big5)<date>$Date: 2009/04/22 09:01:10 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:01:10 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 59, No. 1074 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/06/13 08:44:29</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X59n1074.xml,v $
+Revision 1.4  2009/04/22 09:01:10  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.3  2005/06/13 00:49:03  edith
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<lb ed="X" n="0214a29"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0214a30"/>
+<lb ed="X" n="0214a31"/>
+<lb ed="X" n="0214a32"/><head type="no">No. 1074</head>
+<lb ed="X" n="0214a33"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>胎金兩界血&CB00160;</jhead></juan>
+<lb ed="X" n="0214a34"/>
+<lb ed="X" n="0214a35"/><div1><p id="pX59p0214a3501">大唐咸通六年八月十七日長安城左街慈恩寺造玄阿闍梨付屬師資血&CB00160;。</p></div1>
+<lb ed="X" n="0214a36"/>
+<lb ed="X" n="0214a37"/><div1 type="other"><mulu type="其他" level="1" label="胎藏界"/><head>胎藏界</head>
+<lb ed="X" n="0214a38"/><list><item id="itemX59p0214a3801">大日
+<lb ed="X" n="0214a39"/><list><item id="itemX59p0214a3901">金剛手
+<lb ed="X" n="0214a40"/><list><item id="itemX59p0214a4001">達磨掬多
+<lb ed="X" n="0214a41"/><list><item id="itemX59p0214a4101">善無畏<note place="inline">付三人</note>
+<lb ed="X" n="0214a42"/><list><item id="itemX59p0214a4201">玄超<note place="inline">付一人</note>
+<lb ed="X" n="0214a43"/><list><item id="itemX59p0214a4301">惠果<note place="inline">付六人</note>
+<lb ed="X" n="0214a44"/><list><item id="itemX59p0214a4401">惟尚</item>
+<lb ed="X" n="0214a45"/><item id="itemX59p0214a4501">&CB02365;弘</item>
+<lb ed="X" n="0214a46"/><item id="itemX59p0214a4601">惠日</item>
+<pb ed="X" id="X59.1074.0215a" n="0215a"/>
+<lb ed="X" n="0215a01"/><item id="itemX59p0215a0101">空海</item>
+<lb ed="X" n="0215a02"/><item id="itemX59p0215a0201">義滿</item>
+<lb ed="X" n="0215a03"/><item id="itemX59p0215a0301">義操<note place="inline">付六人</note>
+<lb ed="X" n="0215a04"/><list><item id="itemX59p0215a0401">法潤
+<lb ed="X" n="0215a05"/><list><item id="itemX59p0215a0501">法全<note place="inline">付八人</note>
+<lb ed="X" n="0215a06"/><list><item id="itemX59p0215a0601">造玄</item>
+<lb ed="X" n="0215a07"/><item id="itemX59p0215a0701">自怤</item>
+<lb ed="X" n="0215a08"/><item id="itemX59p0215a0801">智滿</item>
+<lb ed="X" n="0215a09"/><item id="itemX59p0215a0901">圓仁<note place="inline">已下日本</note></item>
+<lb ed="X" n="0215a10"/><item id="itemX59p0215a1001">圓珍</item>
+<lb ed="X" n="0215a11"/><item id="itemX59p0215a1101">圓載<note place="inline">圓載與慈覺大師同船入唐與智證同從法全受法而秩滿歸朝之間忽遇惡風海中漂沒終生云云</note></item>
+<lb ed="X" n="0215a12"/><item id="itemX59p0215a1201">遍明</item>
+<lb ed="X" n="0215a13"/><item id="itemX59p0215a1301">宗叡</item></list></item></list></item>
+<lb ed="X" n="0215a14"/><item id="itemX59p0215a1401">義真</item>
+<lb ed="X" n="0215a15"/><item id="itemX59p0215a1501">深達</item>
+<lb ed="X" n="0215a16"/><item id="itemX59p0215a1601">海雲</item>
+<lb ed="X" n="0215a17"/><item id="itemX59p0215a1701">大遇</item>
+<lb ed="X" n="0215a18"/><item id="itemX59p0215a1801">文&CB17263;</item></list></item></list></item></list></item>
+<lb ed="X" n="0215a19"/><item id="itemX59p0215a1901">一行</item>
+<lb ed="X" n="0215a20"/><item id="itemX59p0215a2001">金剛智</item></list></item></list></item></list></item></list></item></list></div1>
+<lb ed="X" n="0215a21"/>
+<lb ed="X" n="0215a22"/><div1 type="other"><mulu type="其他" level="1" label="金剛界"/><head>金剛界</head>
+<lb ed="X" n="0215a23"/><list><item id="itemX59p0215a2301">大日
+<lb ed="X" n="0215a24"/><list><item id="itemX59p0215a2401">普賢
+<lb ed="X" n="0215a25"/><list><item id="itemX59p0215a2501">曼祖室利
+<lb ed="X" n="0215a26"/><list><item id="itemX59p0215a2601">龍猛
+<lb ed="X" n="0215a27"/><list><item id="itemX59p0215a2701">龍智
+<lb ed="X" n="0215a28"/><list><item id="itemX59p0215a2801">金剛智<note place="inline">三人</note>
+<lb ed="X" n="0215a29"/><list><item id="itemX59p0215a2901">善無畏</item>
+<lb ed="X" n="0215a30"/><item id="itemX59p0215a3001">一行<note place="inline">金剛頂義訣曰於開元七年中至於西京一行禪師求戒灌頂</note></item>
+<lb ed="X" n="0215a31"/><item id="itemX59p0215a3101">不空<note place="inline">五人</note>
+<lb ed="X" n="0215a32"/><list><item id="itemX59p0215a3201">含光
+<lb ed="X" n="0215a33"/><list><item id="itemX59p0215a3301">元皎</item></list></item>
+<lb ed="X" n="0215a34"/><item id="itemX59p0215a3401">惠朗<note place="inline">人</note>
+<lb ed="X" n="0215a35"/><list><item id="itemX59p0215a3501">天竺<note place="inline">付三人</note>
+<lb ed="X" n="0215a36"/><list><item id="itemX59p0215a3601">居士趙政<note place="inline">四人</note>
+<lb ed="X" n="0215a37"/><list><item id="itemX59p0215a3701">義灌</item>
+<lb ed="X" n="0215a38"/><item id="itemX59p0215a3801">志清</item>
+<lb ed="X" n="0215a39"/><item id="itemX59p0215a3901">善貞</item>
+<lb ed="X" n="0215a40"/><item id="itemX59p0215a4001">制本</item></list></item>
+<lb ed="X" n="0215a41"/><item id="itemX59p0215a4101">惠謹</item>
+<lb ed="X" n="0215a42"/><item id="itemX59p0215a4201">德美<note place="inline">付一人</note>
+<lb ed="X" n="0215a43"/><list><item id="itemX59p0215a4301">雅霄</item></list></item></list></item></list></item>
+<lb ed="X" n="0215a44"/><item id="itemX59p0215a4401">曇貞</item>
+<lb ed="X" n="0215a45"/><item id="itemX59p0215a4501">覺超
+<lb ed="X" n="0215a46"/><list><item id="itemX59p0215a4601">惠德</item>
+<lb ed="X" n="0215a47"/><item id="itemX59p0215a4701">契如</item></list></item>
+<lb ed="X" n="0215a48"/><item id="itemX59p0215a4801">惠果<note place="inline">十人</note>
+<lb ed="X" n="0215a49"/><list><item id="itemX59p0215a4901">惠則
+<lb ed="X" n="0215a50"/><list><item id="itemX59p0215a5001">緣會</item>
+<pb ed="X" id="X59.1074.0216a" n="0216a"/>
+<lb ed="X" n="0216a01"/><item id="itemX59p0216a0101">元政
+<lb ed="X" n="0216a02"/><list><item id="itemX59p0216a0201">造玄</item>
+<lb ed="X" n="0216a03"/><item id="itemX59p0216a0301">圓仁</item></list></item>
+<lb ed="X" n="0216a04"/><item id="itemX59p0216a0401">文悟</item></list></item>
+<lb ed="X" n="0216a05"/><item id="itemX59p0216a0501">惠應</item>
+<lb ed="X" n="0216a06"/><item id="itemX59p0216a0601">惟尚</item>
+<lb ed="X" n="0216a07"/><item id="itemX59p0216a0701">惠日</item>
+<lb ed="X" n="0216a08"/><item id="itemX59p0216a0801">&CB02365;弘</item>
+<lb ed="X" n="0216a09"/><item id="itemX59p0216a0901">空海</item>
+<lb ed="X" n="0216a10"/><item id="itemX59p0216a1001">義滿</item>
+<lb ed="X" n="0216a11"/><item id="itemX59p0216a1101">義明</item>
+<lb ed="X" n="0216a12"/><item id="itemX59p0216a1201">義一</item>
+<lb ed="X" n="0216a13"/><item id="itemX59p0216a1301">義操<note place="inline">十三人</note>
+<lb ed="X" n="0216a14"/><list><item id="itemX59p0216a1401">法潤</item>
+<lb ed="X" n="0216a15"/><item id="itemX59p0216a1501">義真</item>
+<lb ed="X" n="0216a16"/><item id="itemX59p0216a1601">義舟<note place="inline">或人云惠果傍童子智證大師說云義舟也云云</note></item>
+<lb ed="X" n="0216a17"/><item id="itemX59p0216a1701">義圓<note place="inline">大師入唐之時親謁彼和尚云云</note></item>
+<lb ed="X" n="0216a18"/><item id="itemX59p0216a1801">深達<note place="inline">東寺人云法全和尚云云</note></item>
+<lb ed="X" n="0216a19"/><item id="itemX59p0216a1901">海雲</item>
+<lb ed="X" n="0216a20"/><item id="itemX59p0216a2001">大遇</item>
+<lb ed="X" n="0216a21"/><item id="itemX59p0216a2101">從賀</item>
+<lb ed="X" n="0216a22"/><item id="itemX59p0216a2201">文&CB17263;</item>
+<lb ed="X" n="0216a23"/><item id="itemX59p0216a2301">均諒<note place="inline">均居&CB17264;切平也等也&CB00642;也諒力尚反信也相也助也均居春切</note></item>
+<lb ed="X" n="0216a24"/><item id="itemX59p0216a2401">常堅</item>
+<lb ed="X" n="0216a25"/><item id="itemX59p0216a2501">法全<note place="inline">付六人</note>
+<lb ed="X" n="0216a26"/><list><item id="itemX59p0216a2601">弘約</item>
+<lb ed="X" n="0216a27"/><item id="itemX59p0216a2701">自怤</item>
+<lb ed="X" n="0216a28"/><item id="itemX59p0216a2801">圓珍</item>
+<lb ed="X" n="0216a29"/><item id="itemX59p0216a2901">圓載</item>
+<lb ed="X" n="0216a30"/><item id="itemX59p0216a3001">遍明</item>
+<lb ed="X" n="0216a31"/><item id="itemX59p0216a3101">宗叡</item></list></item>
+<lb ed="X" n="0216a32"/><item id="itemX59p0216a3201">文祕</item></list></item></list></item></list></item></list></item></list></item></list></item></list></item></list></item></list></item></list></div1>
+</body></text></TEI.2>

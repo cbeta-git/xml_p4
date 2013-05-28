@@ -1,0 +1,2410 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X84n1582.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1582 續燈正統目錄</title>
+			<author>清 性統編集</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.13 $ (Big5)<date>$Date: 2009/04/22 09:07:09 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:07:09 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 84, No. 1582 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2003/10/20 17:16:46</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT (2003-08-11)</item>
+	</change>
+<!--
+$Log: X84n1582.xml,v $
+Revision 1.13  2009/04/22 09:07:09  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.12  2007/09/28 09:14:57  eva
+modified: 校注作業
+
+Revision 1.11  2005/11/30 06:34:56  amtbgrace
+modified: 執行全部 mulu.py, 取消自訂目錄的全形括號
+
+Revision 1.10  2004/11/15 11:20:53  amtbgrace
+modified: 跑chk_mcode.pl  將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
+
+Revision 1.9  2004/11/12 05:13:22  eva
+modified: [經文修訂] 移刺 修訂成 移剌
+
+Revision 1.8  2004/07/16 09:13:31  moved
+modified：執行 margin.pl，加入 em 單位。
+
+Revision 1.7  2004/05/27 10:52:35  eva
+modified: 將 LQ1 修訂成 Q1
+
+Revision 1.6  2004/04/26 03:50:41  ray
+xml:stylesheet => xml-stylesheet
+
+Revision 1.5  2004/04/20 08:45:32  maha
+「版本日期」標記修訂
+
+Revision 1.4  2004/03/16 02:22:05  ray
+resp 屬性 統一格式為 CBETA.xxx
+
+Revision 1.3  2003/10/22 07:49:50  eva
+modified: 修訂mulu
+
+Revision 1.2  2003/10/20 09:15:52  ray
+new from basicx
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X84.1582.0376b" n="0376b"/>
+<lb ed="X" n="0376b01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0376b02"/>
+<lb ed="X" n="0376b03"/>
+<lb ed="X" n="0376b04"/>
+<lb ed="X" n="0376b05"/><div1 type="xu"><mulu type="序" level="1" label="No. 1582-A 續燈正統序"/><head>No. 1582-A
+<lb ed="X" n="0376b06"/> 續燈正統序</head>
+<lb ed="X" n="0376b07"/>
+<lb ed="X" n="0376b08"/><p id="pX84p0376b0801">&CB00582;聞。普陀之勝無窮也。去四明雖云纔數百里。然大
+<lb ed="X" n="0376b09"/>洋當其前。西望外國。三韓諸山若在杳冥。北接蓬萊。
+<lb ed="X" n="0376b10"/>其東則高麗日本。蒼茫雲靄間。當海濤盛壯排空觸
+<lb ed="X" n="0376b11"/>岸之時。風與水相搏。咫尺不能辨。而魚龍變怪。俄頃
+<lb ed="X" n="0376b12"/>百出。及天地開陰夜。起踞高頂。視日初出。滉漾巨浸。
+<lb ed="X" n="0376b13"/>中海盡赤。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而跳踊出天。末光射水。猶吞吐久之。余
+<lb ed="X" n="0376b14"/>素疑所聞。亟欲往一觀其奇。意名山大海。靈異所出
+<lb ed="X" n="0376b15"/>沒。必有恢奇之人深潛。好學之士出乎其間。而往來
+<lb ed="X" n="0376b16"/>禱祈者。率商賈&CB00594;子。無文士可與語。即求諸方外禪
+<lb ed="X" n="0376b17"/>棲釋衲之倫。亦絕不可得。余益疑之。別菴禪師。本蜀
+<lb ed="X" n="0376b18"/>人。故高峰法嗣。自蜀來浙。禮徑山。訪天童。遂住錫普
+<lb ed="X" n="0376b19"/>陀。今年謁余武林。出其所著續燈正統。問序於余。余
+<lb ed="X" n="0376b20"/>觀其條析世系。南能北秀。派別宗分。殆合五燈為一。
+<lb ed="X" n="0376b21"/>豈維摩<note n="0376001" resp="Xuzangjing" place="foot text" type="orig">法疑詰</note>法所謂無盡燈者耶。雖然薪盡則火傳。然必
+<lb ed="X" n="0376b22"/>有最初之一薪。今自別公溯大慧。得十有七世。大慧
+<lb ed="X" n="0376b23"/>至達磨。當得幾世耶。由達磨以上至於釋迦。為二十
+<lb ed="X" n="0376b24"/>八祖。乃釋迦未生前一劫。必有一佛。凡更七劫。而得
+<pb ed="X" id="X84.1582.0376c" n="0376c"/>
+<lb ed="X" n="0376c01"/>七佛。即又當幾何世耶。別公深潛好學。必能為余述
+<lb ed="X" n="0376c02"/>之。余又聞。達磨自西浮海。至金陵。倡其教於中國。今
+<lb ed="X" n="0376c03"/>別公乃復從中國。振宗風於海外。豈恢奇之至。將偕
+<lb ed="X" n="0376c04"/>普陀大士。隱現山海。俾人世終莫可得見耶。他日登
+<lb ed="X" n="0376c05"/>四明山。望洛伽。數百里外。有光氣燭天。與日光爭輝
+<lb ed="X" n="0376c06"/>耀者。必是書所在也。于是乎序。</p>
+<lb ed="X" n="0376c07"/><p id="pX84p0376c0701">康&CB00696;丁丑秋七月。</p>
+<lb ed="X" n="0376c08"/><p id="pX84p0376c0801">賜進士第。</p>
+<lb ed="X" n="0376c09"/><p id="pX84p0376c0901" rend="margin-left:1em;text-indent:-1em">誥授光祿大夫兵部左侍郎前巡撫貴州兼理湖北
+<lb ed="X" n="0376c10"/>川東等處地方提督軍務都察院右副都御史加
+<lb ed="X" n="0376c11"/>四級法末海寧楊雍建拜撰。</p></div1>
+<lb ed="X" n="0376c12"/>
+<lb ed="X" n="0376c13"/><div1 type="xu"><mulu type="序" level="1" label="No. 1582-B 序"/><head>No. 1582-B
+<lb ed="X" n="0376c14"/> 序</head>
+<lb ed="X" n="0376c15"/>
+<lb ed="X" n="0376c16"/><p id="pX84p0376c1601">先聖有云。西方有大聖人焉。不治而不亂。不言而自
+<lb ed="X" n="0376c17"/>化。自達磨傳其道入東土。其為道也。不立文字。教外
+<lb ed="X" n="0376c18"/>別傳。明心見性。了生脫死。予初探其門庭。竟無所得。
+<lb ed="X" n="0376c19"/>且于履踐。毫不相應。然遇出世弘道之士。擎拳豎指。
+<lb ed="X" n="0376c20"/>棒喝交馳。一語一默間。儼若過屠門。不能禁其大嚼
+<lb ed="X" n="0376c21"/>也。壬申春。泛南海。登普陀。得晤別庵和尚。與語連日。
+<lb ed="X" n="0376c22"/>知為大慧十七世孫也。贈額而還。次年和尚以所集
+<lb ed="X" n="0376c23"/>續燈正統。徵序于予。予既不能窺其門庭。又安敢于
+<lb ed="X" n="0376c24"/>和尚前作誑語哉。然細詳是編。以南宋為始。要歸于
+<pb ed="X" id="X84.1582.0377a" n="0377a"/>
+<lb ed="X" n="0377a01"/>今日。補集五燈之未備。是之謂續燈也。以濟洞分列。
+<lb ed="X" n="0377a02"/>各清其授受。表彰二桂之昌榮。是之謂正統也。燈續
+<lb ed="X" n="0377a03"/>而統正。將見燈燈不滅。千載流光。直使人人明心見
+<lb ed="X" n="0377a04"/>性。了生脫死。所謂不治而不亂。不言而自化。其在斯
+<lb ed="X" n="0377a05"/>歟。其在斯歟。</p>
+<lb ed="X" n="0377a06"/><p id="pX84p0377a0601" rend="margin-left:1em">&CB01213;。</p>
+<lb ed="X" n="0377a07"/><p id="pX84p0377a0701">康&CB00696;癸酉春二月慈溪法弟姜宸英拜撰。</p></div1>
+<lb ed="X" n="0377a08"/>
+<lb ed="X" n="0377a09"/><div1 type="xu"><mulu type="序" level="1" label="No. 1582-C 序"/><head>No. 1582-C
+<lb ed="X" n="0377a10"/> 序</head>
+<lb ed="X" n="0377a11"/>
+<lb ed="X" n="0377a12"/><p id="pX84p0377a1201">瞿曇老子。受然燈記&CB00028;。為禪燈之始祖。厥後祖祖相
+<lb ed="X" n="0377a13"/>傳。燈燈相續。其統不亂。雖其間有垂手入廛者。有孤
+<lb ed="X" n="0377a14"/>&CB00123;獨宿者。有兼擅化權者。有單提正令者。其報緣不
+<lb ed="X" n="0377a15"/>同。其正統則一也。或有化行於東南。而不行於西北。
+<lb ed="X" n="0377a16"/>或有化行於西北。而不行於東南。皆本於報緣耳。咸
+<lb ed="X" n="0377a17"/>出自正統也。徑山之下。有聚雲慶忠高&CB00123;諸和尚。相
+<lb ed="X" n="0377a18"/>繼重振臨濟之道於西蜀。別菴和尚嗣高&CB00123;老人。西
+<lb ed="X" n="0377a19"/>來江浙。掃祖塔於徑山。據師位於普陀。而於鉗鎚獅
+<lb ed="X" n="0377a20"/>象之餘。志存表彰世系。將濟宗。先自曹溪十六世徑
+<lb ed="X" n="0377a21"/>山編起。至曹溪三十一世止。次自曹溪十六世虎丘
+<lb ed="X" n="0377a22"/>編起。至曹溪三十五世止。復將洞宗。自曹溪十六世
+<lb ed="X" n="0377a23"/>雪竇編起。至曹溪三十七世止。又收未詳法嗣及補
+<lb ed="X" n="0377a24"/>遺。共四十二卷。名之曰續燈正統。其心公。其識遠。其
+<pb ed="X" id="X84.1582.0377b" n="0377b"/>
+<lb ed="X" n="0377b01"/>才全。真可與傳燈會元諸錄。並行於天下後世矣。後
+<lb ed="X" n="0377b02"/>之讀斯編者。忽然築著磕著。洞見古人心肝五臟。未
+<lb ed="X" n="0377b03"/>必無其人也。余與和尚。忝屬同門。頹齡之際。獲見是
+<lb ed="X" n="0377b04"/>書。喜不自勝。而為之序。</p>
+<lb ed="X" n="0377b05"/><p id="pX84p0377b0501" rend="margin-left:1em">&CB01213;。</p>
+<lb ed="X" n="0377b06"/><p id="pX84p0377b0601" rend="margin-left:1em;text-indent:-1em">康&CB00696;壬申夏五上澣
+<lb ed="X" n="0377b07"/>奉直大夫商州牧前知新寧欒城兩縣事同門法
+<lb ed="X" n="0377b08"/>弟嘉禾沈廷勱克齋氏拜撰。</p></div1>
+<lb ed="X" n="0377b09"/>
+<lb ed="X" n="0377b10"/><div1 type="xu"><mulu type="序" level="1" label="No. 1582-D 續燈正統序"/><head>No. 1582-D
+<lb ed="X" n="0377b11"/> 續燈正統序</head>
+<lb ed="X" n="0377b12"/>
+<lb ed="X" n="0377b13"/><p id="pX84p0377b1301">釋氏之有燈錄。亦猶儒家之有通鑑也。自堯舜禹湯
+<lb ed="X" n="0377b14"/>文武。以至歷代人君經國治民之政事。皆載於通鑑
+<lb ed="X" n="0377b15"/>之中。自釋迦東西諸祖。以至歷代禪師明心悟道之
+<lb ed="X" n="0377b16"/>機緣。皆載於燈錄之內。然精一執中。建中建極。帝王
+<lb ed="X" n="0377b17"/>之所相傳也。是經國治民。何&CB00573;不本於心哉。未出母
+<lb ed="X" n="0377b18"/>胎。度人<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>畢。經論之所稱贊也。是明心悟道。何嘗不
+<lb ed="X" n="0377b19"/>利於生哉。別菴和尚承嗣高峰。乃大慧十七世孫也。
+<lb ed="X" n="0377b20"/>丙寅歲。自西蜀來江浙。掃祖塔於徑山。寄杖錫於天
+<lb ed="X" n="0377b21"/>童。余與提臺陳公。暨合郡諸先生。同請主持普陀鎮
+<lb ed="X" n="0377b22"/>海禪寺。宗風丕振。道譽遍聞。名山藉以益著矣。壬申
+<lb ed="X" n="0377b23"/>秋。以所編續燈正統。索序於余。其曰正統。可知其所
+<lb ed="X" n="0377b24"/>編不苟也。余展閱數四。方識徑山虎丘之下諸禪師。
+<pb ed="X" id="X84.1582.0377c" n="0377c"/>
+<lb ed="X" n="0377c01"/>如是明心。如是悟道。如是接物利生。與吾儒致知誠
+<lb ed="X" n="0377c02"/>意正心修身齊家治國平天下。何以異哉。&CB00582;和尚玅
+<lb ed="X" n="0377c03"/>齡開法。乃有餘力。編集續燈。表揚正統。豈非再來人
+<lb ed="X" n="0377c04"/>乎。雖然如是。中峰禪師有云。未生佛祖。早傳此燈。又
+<lb ed="X" n="0377c05"/>作麼生。請和尚下一轉語　　&CB01213;。</p>
+<lb ed="X" n="0377c06"/><p id="pX84p0377c0601">康&CB00696;壬申桂月。</p>
+<lb ed="X" n="0377c07"/><p id="pX84p0377c0701">賜進士出身文林郎。</p>
+<lb ed="X" n="0377c08"/><p id="pX84p0377c0801">予告養親兵科給事中加七級法弟屠粹忠頓首撰。</p></div1>
+<lb ed="X" n="0377c09"/>
+<lb ed="X" n="0377c10"/><div1 type="xu"><mulu type="序" level="1" label="No. 1582-E 自序"/><head>No. 1582-E
+<lb ed="X" n="0377c11"/> 自序</head>
+<lb ed="X" n="0377c12"/>
+<lb ed="X" n="0377c13"/><p id="pX84p0377c1301">世尊說法四十九年。末為迦葉看破。達磨西來
+<lb ed="X" n="0377c14"/>十萬餘里。終被神光得髓。三傳而信心銘出。六
+<lb ed="X" n="0377c15"/>傳而壇經行。皆以闡發三藏十二部之幽微。人
+<lb ed="X" n="0377c16"/>以法顯。法以人傳。雖曰不立文字。究亦何&CB00573;離
+<lb ed="X" n="0377c17"/>文字哉。繼後二桂騰芳。五燈續&CB08504;。殺活齊施。縱
+<lb ed="X" n="0377c18"/>擒並用。有權有實。雙放雙收。立賓立主。行棒行
+<lb ed="X" n="0377c19"/>喝。所謂痛快謹嚴高古細密簡明。發於開示。則
+<lb ed="X" n="0377c20"/>有上堂小參。形於&CB05178;煉。則有示眾普說。見諸著
+<lb ed="X" n="0377c21"/>述。則有偈頌著拈別代徵評。曲盡旨趣。顯者微
+<lb ed="X" n="0377c22"/>之。幽者闡之。即半言隻字。具大關鍵。積卷浩繁。
+<lb ed="X" n="0377c23"/>汗牛充棟。欹歟盛矣。運會相繼。隆替不常。歷宋
+<lb ed="X" n="0377c24"/>季元明四五百年間。或時際迍邅。或地阻南北。
+<pb ed="X" id="X84.1582.0378a" n="0378a"/>
+<lb ed="X" n="0378a01"/>行道之士。囿於偏都小邑。經世之言。沒於荒煙
+<lb ed="X" n="0378a02"/>蔓草。人幾淪喪。法亦式微。猶幸道不終泯。理有
+<lb ed="X" n="0378a03"/>來復。山邊水邊。尚有一箇半箇。絲繫九鼎。任荷
+<lb ed="X" n="0378a04"/>千鈞。宗風賴以不墜也。延至明季隆慶萬曆間。
+<lb ed="X" n="0378a05"/>如虎丘十八世。有龍池。得法於善果。維時正統
+<lb ed="X" n="0378a06"/>尚絲懸也。後得天童磬山。其道大振。又十八世。
+<lb ed="X" n="0378a07"/>有南明。得法於車溪。維時正統亦絲懸也。後得
+<lb ed="X" n="0378a08"/>鴛湖。其道大振。如雪竇十九世。有廩山。得法於
+<lb ed="X" n="0378a09"/>宗鏡。維時正統亦絲懸也。後得壽昌。其道大振。
+<lb ed="X" n="0378a10"/>又二十世。有大覺。得法於少室。維時正統亦絲
+<lb ed="X" n="0378a11"/>懸也。後得雲門。其道大振。如大慧十三世。有朝
+<lb ed="X" n="0378a12"/>陽。得法於秦嶺。維時正統亦絲懸也。後得聚雲。
+<lb ed="X" n="0378a13"/>其道大振。一時法社。星列雲布。互相激揚。不但
+<lb ed="X" n="0378a14"/>荷包衲子。專趨向上。即朝臣碩士。亦知問道徵
+<lb ed="X" n="0378a15"/>心。&CB00288;值
+<lb ed="C X" n="0378a16"/>昭代鼎興。
+<lb ed="C X" n="0378a17"/>世祖章皇帝。徵書四出。崇重法門。
+<lb ed="C X" n="0378a18"/>當今聖主。巡幸通都。大旌名剎。賜雲林額於靈隱。問
+<lb ed="X" n="0378a19"/>&CB00177;樹話於夾山。信宿玄墓。再遊虎丘。登報恩之
+<lb ed="X" n="0378a20"/>塔。步昭慶之壇。
+<lb ed="C X" n="0378a21"/>賜帑
+<lb ed="C X" n="0378a22"/>&CB00330;建金山普陀之梵宇。華宮沙門
+<lb ed="C X" n="0378a23"/>詔見。徵問玄旨。單傳之道。於茲益著。荷擔斯道者。
+<lb ed="X" n="0378a24"/>無時不以提持後學。開鑿人天為<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>任。廣行著
+<pb ed="X" id="X84.1582.0378b" n="0378b"/>
+<lb ed="X" n="0378b01"/>述。積卷浩繁。又不啻汗牛充棟矣。但前輩錄多
+<lb ed="X" n="0378b02"/>單本。或塔銘傳記。殘&CB15156;斷簡中。存十一干千百。
+<lb ed="X" n="0378b03"/>諸方各闡<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>宗為急務。或揀收失於刻。或&CB00397;採
+<lb ed="X" n="0378b04"/>流於濫。予因不辭固陋。會輯是編。惟冀後之來
+<lb ed="X" n="0378b05"/>者。&CB15095;是編而有補焉。試觀南宋大慧虎丘定菴
+<lb ed="X" n="0378b06"/>諸祖。大振臨濟曹洞。凡子若孫。以一傳百。類皆
+<lb ed="X" n="0378b07"/>奉詔說法。承旨開堂。生有封。死有<app><lem wit="【CBETA】" resp="CBETA.maha">諡</lem><rdg wit="【卍續】">謚</rdg></app>。帝王重法。
+<lb ed="X" n="0378b08"/>何其隆也。然盛極而衰。其弊至於市源流。賣&CB00980;
+<lb ed="X" n="0378b09"/>聲。倚權附勢。稱楊稱鄭。勢固然也。實人致之。迨
+<lb ed="X" n="0378b10"/>明季乘願扶危者。若龍池南明大覺廩山朝陽
+<lb ed="X" n="0378b11"/>諸師出。參尋諸方。退守林泉。不務衒鬻。不&CB00397;名
+<lb ed="X" n="0378b12"/>高。&CB00364;計數十年。不輕見人。所接類皆銅頭鐵額。
+<lb ed="X" n="0378b13"/>克振家聲。若天童磬山鴛湖雲門壽昌聚雲諸
+<lb ed="X" n="0378b14"/>師。地隔千里。實同一心。名山大剎。&CB00594;幟相望。衰
+<lb ed="X" n="0378b15"/>極而盛。時固然也。亦人為之。然今盛矣。予於此
+<lb ed="X" n="0378b16"/>又不無履霜之懼。妄操著述之權。非得<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>也。其
+<lb ed="X" n="0378b17"/>庶幾藉法以顯人。因人以傳法耳。</p>
+<lb ed="X" n="0378b18"/><p id="pX84p0378b1801">康&CB00696;辛未歲夏五月下浣西蜀高梁嗣祖沙門性
+<lb ed="X" n="0378b19"/>統題於普陀之正續堂。</p></div1>
+<lb ed="X" n="0378b20"/>
+<lb ed="X" n="0378b21"/><div1 type="other"><mulu type="其他" level="1" label="凡例"/><head>凡例</head>
+<lb ed="X" n="0378b22"/><list><item id="itemX84p0378b2201"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一</rdg></app>傳燈錄。始於宋景德道原禪師。繼則李遵勗居士
+<lb ed="X" n="0378b23"/>集廣燈。佛國白禪師成續燈。晦翁明禪師作聯燈。
+<lb ed="X" n="0378b24"/>雷菴受禪師著普燈。五燈盛行。其考詳。其詞&CB00397;矣。
+<pb ed="X" id="X84.1582.0378c" n="0378c"/>
+<lb ed="X" n="0378c01"/>大川濟禪師。乃輯之為五燈會元。上自迦文。下及
+<lb ed="X" n="0378c02"/>大鑑十八世。考精論確。無遺議者。慨自明中葉。法
+<lb ed="X" n="0378c03"/>運中衰。語多遺失。雖大報恩刻有續傳燈。南石秀
+<lb ed="X" n="0378c04"/>禪師有增集。奈考世不廣。近代燈錄疊出。曰補燈。
+<lb ed="X" n="0378c05"/>曰續略。曰纘續。曰存稿。曰大統。曰寶積。纘述去取。
+<lb ed="X" n="0378c06"/>各有所尚。是編特搜群集。會為大成。與廣潤僧寶
+<lb ed="X" n="0378c07"/>傳。互相發明。曰續燈。仍舊名也。曰正統。昭法系也。</item>
+<lb ed="X" n="0378c08"/><item id="itemX84p0378c0801"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一</rdg></app>派別支殊。淵源則一。紀世總標大鑑。千百世分門
+<lb ed="X" n="0378c09"/>之漸。自可永杜。</item>
+<lb ed="X" n="0378c10"/><item id="itemX84p0378c1001"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一</rdg></app>大鑑十六世。至十八世。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>載會元。茲復從十六世
+<lb ed="X" n="0378c11"/>起者。以濟下兒孫。俱出大慧虎丘。亦猶上之南嶽
+<lb ed="X" n="0378c12"/>青原也。表其所自。且以補會元之未備。</item>
+<lb ed="X" n="0378c13"/><item id="itemX84p0378c1301"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一</rdg></app>大慧虎丘。同出臨濟。從而分列。&CB00582;依平陽弘覺禪
+<lb ed="X" n="0378c14"/>師禪燈世譜。且二師傳嗣。延促不同。不能齊於一
+<lb ed="X" n="0378c15"/>世而止也。至於昭穆。&CB00278;如會元世譜。不敢涉私。</item>
+<lb ed="X" n="0378c16"/><item id="itemX84p0378c1601"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一</rdg></app>源流各有嫡出。惟嫡子孫。奉嫡宗祖。非他人可以
+<lb ed="X" n="0378c17"/>妄&CB04393;者。如虎丘源流中。海舟普慈永慈之&CB00386;。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>考
+<lb ed="X" n="0378c18"/>定於存稿寶積僧寶諸集中。茲仍其舊。</item>
+<lb ed="X" n="0378c19"/><item id="itemX84p0378c1901"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一</rdg></app>曹洞丹霞下五代。大統刪出。以鹿門覺。即淨因覺。
+<lb ed="X" n="0378c20"/>直接芙蓉楷。常考南石秀禪師增集續傳燈。與大
+<lb ed="X" n="0378c21"/>統無異。編稿<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>定。適得鼓山為霖沛禪師源流辨
+<lb ed="X" n="0378c22"/>謬。甚言大統並增集之&CB00386;。因列如遠門。續略亦曰。
+<lb ed="X" n="0378c23"/>他家自有兒孫在。</item>
+<lb ed="X" n="0378c24"/><item id="itemX84p0378c2401"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一</rdg></app>宗師語句。法眼所存。即一言半句。可續正宗。其上
+<pb ed="X" id="X84.1582.0379a" n="0379a"/>
+<lb ed="X" n="0379a01"/>堂小參。偈頌機語。悉採諸家成集。述而不作。</item>
+<lb ed="X" n="0379a02"/><item id="itemX84p0379a0201"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一</rdg></app>著述固為流通宗眼。然存人為最。其有未得語句
+<lb ed="X" n="0379a03"/>者。亦載於目錄中。俟後有志蒐羅之士。庶得因名
+<lb ed="X" n="0379a04"/>增補也。</item>
+<lb ed="X" n="0379a05"/><item id="itemX84p0379a0501"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一</rdg></app>有嗣無錄者。註曰不列章次。嗣不可考者。註曰無
+<lb ed="X" n="0379a06"/>傳。凡郡縣山寺稱呼。俱遵近代。免翻閱者猶豫。</item>
+<lb ed="X" n="0379a07"/><item id="itemX84p0379a0701"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一</rdg></app>濟宗自大鑑十六世大慧起。至大鑑三十一世止。
+<lb ed="X" n="0379a08"/>大鑑十六世虎丘起。至大鑑三十五世止。洞宗自
+<lb ed="X" n="0379a09"/>大鑑十六世起。至大鑑三十七世止。計卷四十二。
+<lb ed="X" n="0379a10"/>計冊十。未詳法嗣。附於卷末。</item></list></div1>
+<lb ed="X" n="0379a11"/>
+<lb ed="X" n="0379a12"/>
+<lb ed="X" n="0379a13"/><head type="no">No. 1582</head>
+<lb ed="X" n="0379a14"/><div1 type="other"><mulu type="其他" level="1" label="續燈正統目錄"/><juan fun="open" n="001"><mulu type="卷" n="1"/><jhead>續燈正統目錄</jhead></juan>
+<lb ed="X" n="0379a15"/>
+<lb ed="X" n="0379a16"/><p id="pX84p0379a1601" type="pre">首卷
+<lb ed="X" n="0379a17"/>　序文　凡例
+<lb ed="X" n="0379a18"/>卷一
+<lb ed="X" n="0379a19"/>臨濟宗
+<lb ed="X" n="0379a20"/>　　大鑑下第十六世
+<lb ed="X" n="0379a21"/>昭覺勤禪師法嗣<note place="inline">勤嗣五祖演演嗣白雲端端嗣楊岐會</note>
+<lb ed="X" n="0379a22"/>　徑山宗杲禪師<note place="inline">法裔別見</note>　虎丘紹隆禪師<note place="inline">法裔別見</note>
+<lb ed="X" n="0379a23"/>卷二
+<lb ed="X" n="0379a24"/>臨濟宗
+<pb ed="X" id="X84.1582.0379b" n="0379b"/>
+<lb ed="X" n="0379b01"/>　　大鑑下第十六世
+<lb ed="X" n="0379b02"/>昭覺勤禪師法嗣
+<lb ed="X" n="0379b03"/>　育王端&CB05769;禪師　大溈法泰禪師
+<lb ed="X" n="0379b04"/>　護國景元禪師　玄沙僧昭禪師
+<lb ed="X" n="0379b05"/>　南峰雲辨禪師　正法建禪師
+<lb ed="X" n="0379b06"/>　華藏安民禪師　昭覺道元禪師
+<lb ed="X" n="0379b07"/>　中竺中仁禪師　象耳袁覺禪師
+<lb ed="X" n="0379b08"/>　華嚴祖覺禪師　福嚴文演禪師
+<lb ed="X" n="0379b09"/>　明因曇玩禪師　虎丘元淨禪師
+<lb ed="X" n="0379b10"/>　天寧梵思禪師　靈隱慧遠禪師
+<lb ed="X" n="0379b11"/>卷三
+<lb ed="X" n="0379b12"/>臨濟宗
+<lb ed="X" n="0379b13"/>　　大鑑下第十六世
+<lb ed="X" n="0379b14"/>昭覺勤禪師法嗣
+<lb ed="X" n="0379b15"/>　君山覺禪師　寶華顯禪師
+<lb ed="X" n="0379b16"/>　東山覺禪師　鴻福祖文禪師
+<lb ed="X" n="0379b17"/>　天封覺禪師　道祖首座
+<lb ed="X" n="0379b18"/>　宗振首座　樞密徐俯居士
+<lb ed="X" n="0379b19"/>　郡王趙令衿居士　侍郎李彌遜居士
+<lb ed="X" n="0379b20"/>　祖氏覺菴道人　令人明室道人
+<lb ed="X" n="0379b21"/>　城都范縣君　普照奉勝禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0379b22"/>　虎丘宗達禪師　正法化&CB00287;禪師
+<lb ed="X" n="0379b23"/>　普慧因淨禪師　淨溪常禪師
+<lb ed="X" n="0379b24"/>　天寧道成禪師　實相道智禪師
+<pb ed="X" id="X84.1582.0379c" n="0379c"/>
+<lb ed="X" n="0379c01"/>　信相圓禪師　長扣曉禪師
+<lb ed="X" n="0379c02"/>　九頂希問禪師　中巖照禪師
+<lb ed="X" n="0379c03"/>　廣利樞禪師　廣利璲禪師
+<lb ed="X" n="0379c04"/>　無為勝禪師　定山昂禪師
+<lb ed="X" n="0379c05"/>　白水正禪師　開福宜禪師
+<lb ed="X" n="0379c06"/>　顯報踢禪師　翠峰弼禪師
+<lb ed="X" n="0379c07"/>　德山靜禪師　雲際全禪師
+<lb ed="X" n="0379c08"/>　報恩瑩禪師　四明亨禪師
+<lb ed="X" n="0379c09"/>　金文照禪師　西禪通禪師
+<lb ed="X" n="0379c10"/>　長溪朴禪師　江寧悟明禪師
+<lb ed="X" n="0379c11"/>　九頂宗悟禪師　寶林勤禪師
+<lb ed="X" n="0379c12"/>　智頵禪師　道殊禪師
+<lb ed="X" n="0379c13"/>　智度演禪師　自珍禪師
+<lb ed="X" n="0379c14"/>　璟禪師　師範禪師
+<lb ed="X" n="0379c15"/>　永懷有證禪師　中竺海禪師
+<lb ed="X" n="0379c16"/>　幽巖珊禪師　乾明印禪師
+<lb ed="X" n="0379c17"/>　景德旻禪師　保寧祖禪師
+<lb ed="X" n="0379c18"/>　門司鄭證居士　靈泉希壽
+<lb ed="X" n="0379c19"/>　雲頂宗正
+<lb ed="X" n="0379c20"/>太平懃禪師法嗣<note place="inline">懃嗣五祖演</note>
+<lb ed="X" n="0379c21"/>　文殊正道禪師　南華知昺禪師
+<lb ed="X" n="0379c22"/>　龍牙智才禪師　蓬萊卿禪師
+<lb ed="X" n="0379c23"/>　何山守珣禪師　泐潭擇明禪師
+<lb ed="X" n="0379c24"/>　寶藏本禪師　祥符清海禪師
+<pb ed="X" id="X84.1582.0380a" n="0380a"/>
+<lb ed="X" n="0380a01"/>　淨眾了燦禪師　谷山海禪師
+<lb ed="X" n="0380a02"/>　靈巖盡禪師<note place="inline">此後無傳</note>　啟霞楚謙禪師
+<lb ed="X" n="0380a03"/>　福勝深禪師　千山智嵩禪師
+<lb ed="X" n="0380a04"/>　融藏主　發書記
+<lb ed="X" n="0380a05"/>龍門遠禪師法嗣<note place="inline">遠嗣五祖演</note>
+<lb ed="X" n="0380a06"/>　龍翔士珪禪師　雲居善悟禪師
+<lb ed="X" n="0380a07"/>　西禪文璉禪師　黃龍法忠禪師
+<lb ed="X" n="0380a08"/>卷四
+<lb ed="X" n="0380a09"/>臨濟宗
+<lb ed="X" n="0380a10"/>　　大鑑下第十六世
+<lb ed="X" n="0380a11"/>龍門遠禪師法嗣
+<lb ed="X" n="0380a12"/>　烏巨道行禪師　白楊法順禪師
+<lb ed="X" n="0380a13"/>　雲居法如禪師　歸宗正賢禪師
+<lb ed="X" n="0380a14"/>　道場明辨禪師　方廣深禪師
+<lb ed="X" n="0380a15"/>　世奇首座　淨居尼慧溫禪師
+<lb ed="X" n="0380a16"/>　給事馮楫居士　雲居圓禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0380a17"/>　雲居祖禪師　三聖道方禪師
+<lb ed="X" n="0380a18"/>　寂菴主　越州石佛世奇首座
+<lb ed="X" n="0380a19"/>　三聖真常禪師　辨侍者
+<lb ed="X" n="0380a20"/>　三角劼禪師
+<lb ed="X" n="0380a21"/>開福寧禪師法嗣<note place="inline">寧嗣五祖演</note>
+<lb ed="X" n="0380a22"/>　大溈善果禪師
+<lb ed="X" n="0380a23"/>大隨元靜禪師法嗣<note place="inline">靜嗣五祖演</note>
+<lb ed="X" n="0380a24"/>　石頭白回禪師　護聖居靜禪師
+<pb ed="X" id="X84.1582.0380b" n="0380b"/>
+<lb ed="X" n="0380b01"/>　南巖勝禪師　梁山遠禪師
+<lb ed="X" n="0380b02"/>　能仁紹悟禪師　土溪子言菴主
+<lb ed="X" n="0380b03"/>　南修造禪師　尚書莫將居士
+<lb ed="X" n="0380b04"/>　龍圖王簫居士　能仁淨禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0380b05"/>　黃梅明禪師　妙高則禪師
+<lb ed="X" n="0380b06"/>　釣臺詮　提刑吳听居士
+<lb ed="X" n="0380b07"/>五祖自禪師法嗣<note place="inline">自嗣五祖演</note>
+<lb ed="X" n="0380b08"/>　龍華高禪師
+<lb ed="X" n="0380b09"/>天目齊禪師法嗣<note place="inline">齊嗣五祖演</note>
+<lb ed="X" n="0380b10"/>　嬾牛和禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0380b11"/>卷五
+<lb ed="X" n="0380b12"/>臨濟宗
+<lb ed="X" n="0380b13"/>　　大鑑下第十六世
+<lb ed="X" n="0380b14"/>長靈卓禪師法嗣<note place="inline">卓嗣靈源清清嗣晦堂心心嗣黃龍南</note>
+<lb ed="X" n="0380b15"/>　育王介諶禪師　道場慧琳禪師
+<lb ed="X" n="0380b16"/>　道場居慧禪師　顯寧圓智禪師
+<lb ed="X" n="0380b17"/>　烏回良範禪師　本寂文觀禪師
+<lb ed="X" n="0380b18"/>　溫州符菴主<note place="inline">不列章次</note>　徑山惟表禪師<note place="inline">無傳</note>
+<lb ed="X" n="0380b19"/>上封才禪師法嗣<note place="inline">才嗣靈源清</note>
+<lb ed="X" n="0380b20"/>　普賢元素禪師　鼓山僧洵禪師
+<lb ed="X" n="0380b21"/>　鼓山祖珍禪師
+<lb ed="X" n="0380b22"/>　仁王大心漢禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0380b23"/>黃龍逢禪師法嗣<note place="inline">逢嗣靈源清</note>
+<lb ed="X" n="0380b24"/>　薦福擇崇禪師
+<pb ed="X" id="X84.1582.0380c" n="0380c"/>
+<lb ed="X" n="0380c01"/>靈峰古禪師法嗣<note place="inline">古嗣靈源清</note>
+<lb ed="X" n="0380c02"/>　舒州四面欣禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0380c03"/>上封秀禪師法嗣<note place="inline">秀嗣死心新新嗣晦堂心</note>
+<lb ed="X" n="0380c04"/>　文定胡安國居士
+<lb ed="X" n="0380c05"/>禾山方禪師法嗣<note place="inline">方嗣死心新</note>
+<lb ed="X" n="0380c06"/>　袁州仰山韜禪師<note place="inline">此後無傳</note>　黃龍義禪師
+<lb ed="X" n="0380c07"/>萬年一禪師法嗣<note place="inline">一嗣泐潭清清嗣晦堂心</note>
+<lb ed="X" n="0380c08"/>　報恩法常禪師　石佛浮禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0380c09"/>黃龍震禪師法嗣<note place="inline">震嗣泐潭清</note>
+<lb ed="X" n="0380c10"/>　德山慧初禪師　天龍&CB06284;禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0380c11"/>　真州北山作禪師
+<lb ed="X" n="0380c12"/>嶽山祖菴主法嗣<note place="inline">祖嗣青原信信嗣晦堂心</note>
+<lb ed="X" n="0380c13"/>　延慶叔禪師
+<lb ed="X" n="0380c14"/>雲巖遊禪師法嗣<note place="inline">遊嗣泐潭準準嗣寶&CB00123;文文嗣黃龍南</note>
+<lb ed="X" n="0380c15"/>　徑山智&CB15081;禪師　報恩智一禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0380c16"/>信相顯禪師法嗣<note place="inline">顯嗣昭覺白白嗣黃蘗勝勝嗣黃龍南</note>
+<lb ed="X" n="0380c17"/>　金繩文禪師　雲頂師旦禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0380c18"/>　中峰祖源禪師
+<lb ed="X" n="0380c19"/>中巖能禪師法嗣<note place="inline">能嗣大溈&CB05757;&CB05757;嗣大溈秀秀嗣黃龍南</note>
+<lb ed="X" n="0380c20"/>　氈頭崇真禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0380c21"/>圓通旻禪師法嗣<note place="inline">旻嗣泐潭乾乾嗣東林總總嗣黃龍南</note>
+<lb ed="X" n="0380c22"/>　圓通守慧禪師　黃龍道觀禪師
+<lb ed="X" n="0380c23"/>　左丞范&CB00287;居士　樞密吳居厚居士
+<lb ed="X" n="0380c24"/>　諫議彭汝霖居士　中丞盧航居士
+<pb ed="X" id="X84.1582.0381a" n="0381a"/>
+<lb ed="X" n="0381a01"/>　左司鄭都貺居士
+<lb ed="X" n="0381a02"/>天童交禪師法嗣<note place="inline">交嗣泐潭乾</note>
+<lb ed="X" n="0381a03"/>　蓬萊圓禪師
+<lb ed="X" n="0381a04"/>勝因靜禪師法嗣<note place="inline">靜嗣泐潭乾</note>
+<lb ed="X" n="0381a05"/>　萬壽普信禪師　慧日興道禪師
+<lb ed="X" n="0381a06"/>　光孝果&CB00517;禪師　崇寧超禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0381a07"/>　廣教嚚禪師　法慧&CB00287;禪師
+<lb ed="X" n="0381a08"/>雪峰有需禪師法嗣<note place="inline">需嗣泐潭乾</note>
+<lb ed="X" n="0381a09"/>　雪峰慧忠禪師　淨眾全禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0381a10"/>　天寧靖禪師　鼓山宗譯禪師
+<lb ed="X" n="0381a11"/>　陳易體常居士
+<lb ed="X" n="0381a12"/>明招慧禪師法嗣<note place="inline">慧嗣圓通仙仙嗣東林總</note>
+<lb ed="X" n="0381a13"/>　石塔禮禪師　淨光和尚<note place="inline">無傳</note>
+<lb ed="X" n="0381a14"/>祥符立禪師法嗣<note place="inline">立嗣圓通仙</note>
+<lb ed="X" n="0381a15"/>　報慈淳禪師
+<lb ed="X" n="0381a16"/>浮山真禪師法嗣<note place="inline">真嗣圓通仙</note>
+<lb ed="X" n="0381a17"/>　靈巖徽禪師
+<lb ed="X" n="0381a18"/>大溈智禪師法嗣<note place="inline">智嗣道林一一嗣祐聖&CB06342;&CB06342;嗣黃龍南</note>
+<lb ed="X" n="0381a19"/>　雲&CB00582;澄禪師<note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">此後</lem><rdg wit="【卍續】"></rdg></app>無傳</note>　石霜能禪師
+<lb ed="X" n="0381a20"/>　泰岳久禪師　陳與義居士
+<lb ed="X" n="0381a21"/>淨因成禪師法嗣<note place="inline">成嗣智海平平嗣大溈&CB15223;&CB15223;嗣翠巖真</note>
+<lb ed="X" n="0381a22"/>　瑞巖如勝禪師　冶父道川禪師
+<lb ed="X" n="0381a23"/>　　大鑑下第十七世
+<lb ed="X" n="0381a24"/>育王&CB05769;禪師法嗣
+<pb ed="X" id="X84.1582.0381b" n="0381b"/>
+<lb ed="X" n="0381b01"/>　清&CB00289;坦禪師　淨慈師一禪師
+<lb ed="X" n="0381b02"/>　道場法全禪師　鼓山道昇禪師
+<lb ed="X" n="0381b03"/>　雲巖法秀禪師<note place="inline">此後無傳</note>　連雲行敦禪師
+<lb ed="X" n="0381b04"/>　天目肇禪師　安巖古禪師
+<lb ed="X" n="0381b05"/>　上巖詠禪師
+<lb ed="X" n="0381b06"/>大溈泰禪師法嗣
+<lb ed="X" n="0381b07"/>　慧通清旦禪師　靈巖仲安禪師
+<lb ed="X" n="0381b08"/>　正法灝禪師　昭覺辨禪師
+<lb ed="X" n="0381b09"/>護國元禪師法嗣
+<lb ed="X" n="0381b10"/>　國清行機禪師　焦山師體禪師
+<lb ed="X" n="0381b11"/>　華藏智深禪師　上竺圓智禪師
+<lb ed="X" n="0381b12"/>　參政錢端禮居士
+<lb ed="X" n="0381b13"/>卷六
+<lb ed="X" n="0381b14"/>臨濟宗
+<lb ed="X" n="0381b15"/>　　大鑑下第十七世
+<lb ed="X" n="0381b16"/>華藏民禪師法嗣
+<lb ed="X" n="0381b17"/>　徑山寶印禪師
+<lb ed="X" n="0381b18"/>昭覺元禪師法嗣
+<lb ed="X" n="0381b19"/>　鳳棲慧觀禪師
+<lb ed="X" n="0381b20"/>虎丘元淨禪師法嗣
+<lb ed="X" n="0381b21"/>　翠巖僧价禪師<note place="inline">無傳</note>
+<lb ed="X" n="0381b22"/>天寧梵思禪師法嗣
+<lb ed="X" n="0381b23"/>　澄照行齊禪師<note place="inline">此後無傳</note>　青原立禪師
+<lb ed="X" n="0381b24"/>　智首座
+<pb ed="X" id="X84.1582.0381c" n="0381c"/>
+<lb ed="X" n="0381c01"/>靈隱瞎堂慧遠禪師法嗣
+<lb ed="X" n="0381c02"/>　東山齊<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>禪師　&CB00520;山如本禪師
+<lb ed="X" n="0381c03"/>　覺阿上人　濟顛書記
+<lb ed="X" n="0381c04"/>　內翰曾開居士　知府葛剡居士
+<lb ed="X" n="0381c05"/>　上藍了乘禪師<note place="inline">此後無傳</note>　公安慧&CB00287;禪師
+<lb ed="X" n="0381c06"/>　堯首座
+<lb ed="X" n="0381c07"/>文殊道禪師法嗣
+<lb ed="X" n="0381c08"/>　楚安慧方禪師　文殊思業禪師
+<lb ed="X" n="0381c09"/>　文殊瓊禪師<note place="inline">無傳</note>
+<lb ed="X" n="0381c10"/>蓬萊卿禪師法嗣
+<lb ed="X" n="0381c11"/>　延福廣禪師<note place="inline">無傳</note>
+<lb ed="X" n="0381c12"/>南華智昺禪師法嗣
+<lb ed="X" n="0381c13"/>　四祖宗肇禪師<note place="inline">此後無傳</note>　天寧法清禪師
+<lb ed="X" n="0381c14"/>　正法月禪師　南華明禪師
+<lb ed="X" n="0381c15"/>何山守珣禪師法嗣
+<lb ed="X" n="0381c16"/>　稠巖了贇禪師　侍制潘良貴居士
+<lb ed="X" n="0381c17"/>　天井道如禪師<note place="inline">無傳</note>　雙槐鄭績
+<lb ed="X" n="0381c18"/>泐潭擇明禪師法嗣
+<lb ed="X" n="0381c19"/>　無為守緣禪師
+<lb ed="X" n="0381c20"/>祥符清海禪師法嗣
+<lb ed="X" n="0381c21"/>　報恩法舟禪師<note place="inline">無傳</note>
+<lb ed="X" n="0381c22"/>龍翔士珪禪師法嗣
+<lb ed="X" n="0381c23"/>　雲居德昇禪師　狼山慧溫禪師
+<lb ed="X" n="0381c24"/>　宗範上人<note place="inline">此後無傳</note>　北峰宗印禪師
+<pb ed="X" id="X84.1582.0382a" n="0382a"/>
+<lb ed="X" n="0382a01"/>雲居善悟禪師法嗣
+<lb ed="X" n="0382a02"/>　雙林德用禪師　萬年道閒禪師
+<lb ed="X" n="0382a03"/>　中際善能禪師　雲居自圓禪師
+<lb ed="X" n="0382a04"/>　龍翱靈瑞肱禪師<note place="inline">不列章次</note>　信州懷玉堅禪師<note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">此後</lem><rdg wit="【卍續】"></rdg></app>無傳</note>
+<lb ed="X" n="0382a05"/>　洪州同安隆禪師　靈巖宜芳禪師
+<lb ed="X" n="0382a06"/>　黃蘗幻住印禪師
+<lb ed="X" n="0382a07"/>西禪文璉禪師法嗣
+<lb ed="X" n="0382a08"/>　西禪希秀禪師
+<lb ed="X" n="0382a09"/>黃龍法忠禪師法嗣
+<lb ed="X" n="0382a10"/>　信相戒修禪師　慈化印肅禪師
+<lb ed="X" n="0382a11"/>　無為道徽禪師<note place="inline">此後無傳</note>　崇化道贇禪師
+<lb ed="X" n="0382a12"/>烏巨道行禪師法嗣
+<lb ed="X" n="0382a13"/>　薦福休禪師　龜峰慧光禪師
+<lb ed="X" n="0382a14"/>　長蘆守仁禪師　薦福忠禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0382a15"/>　天寧記禪師　智者修禪師
+<lb ed="X" n="0382a16"/>白楊順禪師法嗣
+<lb ed="X" n="0382a17"/>　青原如禪師　南安巖如禪師<note place="inline">無傳</note>
+<lb ed="X" n="0382a18"/>雲居法如禪師法嗣
+<lb ed="X" n="0382a19"/>　隱靜彥岑禪師　報恩成禪師
+<lb ed="X" n="0382a20"/>歸宗正賢禪師法嗣
+<lb ed="X" n="0382a21"/>　永壽嗣衡禪師<note place="inline">此後無傳</note>　無為了悟禪師
+<lb ed="X" n="0382a22"/>道場辨禪師法嗣
+<lb ed="X" n="0382a23"/>　覺報清禪師　何山然禪師
+<lb ed="X" n="0382a24"/>　正法濟禪師<note place="inline">此後無傳</note>　能仁朋禪師
+<pb ed="X" id="X84.1582.0382b" n="0382b"/>
+<lb ed="X" n="0382b01"/>　金繩勤禪師　湖州道場言禪師
+<lb ed="X" n="0382b02"/>淨居尼溫禪師法嗣
+<lb ed="X" n="0382b03"/>　淨居尼法燈禪師
+<lb ed="X" n="0382b04"/>大溈善果禪師法嗣
+<lb ed="X" n="0382b05"/>　玉泉宗璉禪師　大溈行禪師
+<lb ed="X" n="0382b06"/>　道林淵禪師　大洪祖證禪師
+<lb ed="X" n="0382b07"/>　泐潭德淳禪師　保安可封禪師
+<lb ed="X" n="0382b08"/>　石亭祖&CB04636;禪師　石霜宗鑑禪師
+<lb ed="X" n="0382b09"/>　報恩文爾禪師　吉祥燦禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0382b10"/>　石門立禪師　雙林遠禪師
+<lb ed="X" n="0382b11"/>　穹窿覺文禪師　禾山暹禪師
+<lb ed="X" n="0382b12"/>　法輪孜禪師　雪峰一禪師
+<lb ed="X" n="0382b13"/>石頭回禪師法嗣
+<lb ed="X" n="0382b14"/>　雲居德會禪師
+<lb ed="X" n="0382b15"/>梁山師遠禪師法嗣
+<lb ed="X" n="0382b16"/>　成都信相宜禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0382b17"/>懶牛和禪師法嗣
+<lb ed="X" n="0382b18"/>　竹林寶禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0382b19"/>卷七
+<lb ed="X" n="0382b20"/>臨濟宗
+<lb ed="X" n="0382b21"/>　　大鑑下第十七世
+<lb ed="X" n="0382b22"/>育王諶禪師法嗣
+<lb ed="X" n="0382b23"/>　萬年曇賁禪師　天童了樸禪師
+<lb ed="X" n="0382b24"/>　西巖宗回禪師　高麗坦然禪師
+<pb ed="X" id="X84.1582.0382c" n="0382c"/>
+<lb ed="X" n="0382c01"/>　龍華本禪師　華藏先禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0382c02"/>　雪竇妙湛禪師
+<lb ed="X" n="0382c03"/>道場琳禪師法嗣
+<lb ed="X" n="0382c04"/>　東山吉禪師　狼山珸禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0382c05"/>　徑山了粹禪師
+<lb ed="X" n="0382c06"/>道場慧禪師法嗣
+<lb ed="X" n="0382c07"/>　靈隱道樞禪師
+<lb ed="X" n="0382c08"/>烏回範禪師法嗣
+<lb ed="X" n="0382c09"/>　烏回禧禪師<note place="inline">無傳</note>
+<lb ed="X" n="0382c10"/>圓通慧禪師法嗣
+<lb ed="X" n="0382c11"/>　天寧布衲禪師<note place="inline">此後無傳</note>　大溈&CB00283;常禪師
+<lb ed="X" n="0382c12"/>萬壽信禪師法嗣
+<lb ed="X" n="0382c13"/>　能仁琢禪師<note place="inline">此後無傳</note>　孝感竦禪師
+<lb ed="X" n="0382c14"/>　&CB15112;林妙禪師　永寧道全禪師
+<lb ed="X" n="0382c15"/>光孝&CB00517;禪師法嗣
+<lb ed="X" n="0382c16"/>　光孝悟初首座　崇勝善行禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0382c17"/>雪峰忠禪師法嗣
+<lb ed="X" n="0382c18"/>　上藍獨秀宏禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0382c19"/>　　大鑑下第十八世
+<lb ed="X" n="0382c20"/>淨慈一禪師法嗣
+<lb ed="X" n="0382c21"/>　天童達觀禪師　仰山嗣清禪師
+<lb ed="X" n="0382c22"/>　承天湛禪師<note place="inline">此後無傳</note>　瑞巖順禪師
+<lb ed="X" n="0382c23"/>　蘇州延聖寂堂
+<lb ed="X" n="0382c24"/>道場法全禪師法嗣
+<pb ed="X" id="X84.1582.0383a" n="0383a"/>
+<lb ed="X" n="0383a01"/>　華藏有權禪師
+<lb ed="X" n="0383a02"/>焦山體禪師法嗣
+<lb ed="X" n="0383a03"/>　天童智穎禪師
+<lb ed="X" n="0383a04"/>　天童茨菴堯禪師<note place="inline">此後無傳</note>　萬壽無證了修禪師
+<lb ed="X" n="0383a05"/>徑山寶印禪師法嗣
+<lb ed="X" n="0383a06"/>　金山道奇禪師　金山永聰禪師
+<lb ed="X" n="0383a07"/>&CB00520;山本禪師法嗣
+<lb ed="X" n="0383a08"/>　華嚴權禪師<note place="inline">無傳</note>
+<lb ed="X" n="0383a09"/>楚安慧方禪師法嗣
+<lb ed="X" n="0383a10"/>　和菴若禪師<note place="inline">此後無傳</note>　訥菴俊禪師
+<lb ed="X" n="0383a11"/>雙林德用禪師法嗣
+<lb ed="X" n="0383a12"/>　三峰印禪師
+<lb ed="X" n="0383a13"/>靈瑞肱禪師法嗣
+<lb ed="X" n="0383a14"/>　福嚴傑禪師<note place="inline">無傳</note>
+<lb ed="X" n="0383a15"/>慈化印肅禪師法嗣
+<lb ed="X" n="0383a16"/>　佛慧清禪師<note place="inline">此後無傳</note>　鐵牛禮禪師
+<lb ed="X" n="0383a17"/>　盤龍和光世禪師　衲僧俊禪師
+<lb ed="X" n="0383a18"/>龜峰慧光禪師法嗣
+<lb ed="X" n="0383a19"/>　徑山元聰禪師　雪峰元肇禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0383a20"/>　報恩智因禪師
+<lb ed="X" n="0383a21"/>隱靜彥岑禪師法嗣
+<lb ed="X" n="0383a22"/>　福嚴禮禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0383a23"/>玉泉宗璉禪師法嗣
+<lb ed="X" n="0383a24"/>　玉泉希&CB06357;禪師
+<pb ed="X" id="X84.1582.0383b" n="0383b"/>
+<lb ed="X" n="0383b01"/>大溈行禪師法嗣
+<lb ed="X" n="0383b02"/>　德山子涓禪師　德山師本禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0383b03"/>　無為悟禪師　永福衝禪師
+<lb ed="X" n="0383b04"/>大洪祖證禪師法嗣
+<lb ed="X" n="0383b05"/>　萬壽師觀禪師　玉泉恩禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0383b06"/>　丞相益國周公　監丞周成乘居士
+<lb ed="X" n="0383b07"/>雲居德會禪師法嗣
+<lb ed="X" n="0383b08"/>　萬松大璉禪師
+<lb ed="X" n="0383b09"/>竹林寶禪師法嗣
+<lb ed="X" n="0383b10"/>　竹松安禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0383b11"/>萬年賁禪師法嗣
+<lb ed="X" n="0383b12"/>　龍鳴賢禪師　大溈鑑禪師
+<lb ed="X" n="0383b13"/>　天童從瑾禪師　智門景蒙禪師
+<lb ed="X" n="0383b14"/>　投子還菴淳禪師<note place="inline">此後無傳</note>　全菴存禪師
+<lb ed="X" n="0383b15"/>　筠谷達禪師
+<lb ed="X" n="0383b16"/>天童樸禪師法嗣
+<lb ed="X" n="0383b17"/>　雪竇僧彥禪師<note place="inline">此後無傳</note>　太平詔禪師
+<lb ed="X" n="0383b18"/>　　大鑑下第十九世
+<lb ed="X" n="0383b19"/>天童達觀禪師法嗣
+<lb ed="X" n="0383b20"/>　虎丘善濟禪師　華藏善淨禪師
+<lb ed="X" n="0383b21"/>　天衣文蔚禪師　&CB00177;巖凝禪師
+<lb ed="X" n="0383b22"/>　斷巖躬禪師<note place="inline">此後無傳</note>　萬壽獨山體禪師
+<lb ed="X" n="0383b23"/>　復川源禪師　無方夢覺禪師
+<lb ed="X" n="0383b24"/>天童穎禪師法嗣
+<pb ed="X" id="X84.1582.0383c" n="0383c"/>
+<lb ed="X" n="0383c01"/>　徑山荊叟如玨禪師　雪峰德因禪師
+<lb ed="X" n="0383c02"/>　虎丘不傳本禪師<note place="inline">此後無傳</note>　光孝伊菴玉禪師
+<lb ed="X" n="0383c03"/>　南翁朋禪師
+<lb ed="X" n="0383c04"/>金山奇禪師法嗣
+<lb ed="X" n="0383c05"/>　靈隱祖泉禪師
+<lb ed="X" n="0383c06"/>福嚴禮禪師法嗣
+<lb ed="X" n="0383c07"/>　半山嵩山晁禪師<note place="inline">無傳</note>
+<lb ed="X" n="0383c08"/>萬壽師觀禪師法嗣
+<lb ed="X" n="0383c09"/>　黃龍慧開禪師　石霜妙印禪師
+<lb ed="X" n="0383c10"/>　囊山孤峰德秀禪師　鴻福嵩巖洸禪師<note place="inline">無傳</note>
+<lb ed="X" n="0383c11"/>竹林安禪師法嗣
+<lb ed="X" n="0383c12"/>　海西容菴海禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0383c13"/>天童瑾禪師法嗣
+<lb ed="X" n="0383c14"/>　&CB00980;菴敝禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0383c15"/>　　大鑑下第二十世
+<lb ed="X" n="0383c16"/>華藏淨禪師法嗣
+<lb ed="X" n="0383c17"/>　雪峰玉禪師　天童謀禪師
+<lb ed="X" n="0383c18"/>　月溪清禪師<note place="inline">此後無傳</note>　天寧勤禪師
+<lb ed="X" n="0383c19"/>　薦福祥禪師
+<lb ed="X" n="0383c20"/>徑山荊叟如玨禪師法嗣
+<lb ed="X" n="0383c21"/>　中竺空巖有禪師　淨慈善慶禪師
+<lb ed="X" n="0383c22"/>雪峰因禪師法嗣
+<lb ed="X" n="0383c23"/>　風幡中禪師<note place="inline">不列章次</note>　愚叟智禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0383c24"/>　古泉錫禪師
+<pb ed="X" id="X84.1582.0384a" n="0384a"/>
+<lb ed="X" n="0384a01"/>靈隱祖泉禪師法嗣
+<lb ed="X" n="0384a02"/>　寶林無機禪師
+<lb ed="X" n="0384a03"/>黃龍開禪師法嗣
+<lb ed="X" n="0384a04"/>　護國宗禪師　慧雲祖禪師
+<lb ed="X" n="0384a05"/>　華藏無見禪師　佘放牛
+<lb ed="X" n="0384a06"/>　無疑定禪師<note place="inline">此後無傳</note>　趙信菴
+<lb ed="X" n="0384a07"/>石霜印禪師法嗣
+<lb ed="X" n="0384a08"/>　金牛真禪師<note place="inline">此後不列章次</note>　真翁圓禪師
+<lb ed="X" n="0384a09"/>囊山秀禪師法嗣
+<lb ed="X" n="0384a10"/>　鼓山正凝禪師　雙林介禪師
+<lb ed="X" n="0384a11"/>　石室彌堅禪師<note place="inline">無傳</note>
+<lb ed="X" n="0384a12"/>海西容菴海禪師法嗣
+<lb ed="X" n="0384a13"/>　慶壽中和璋禪師　葛廬覃禪師
+<lb ed="X" n="0384a14"/>&CB00980;菴敞禪師法嗣
+<lb ed="X" n="0384a15"/>　千光西禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0384a16"/>卷八
+<lb ed="X" n="0384a17"/>臨濟宗
+<lb ed="X" n="0384a18"/>　　大鑑下第二十一世
+<lb ed="X" n="0384a19"/>中竺有禪師法嗣
+<lb ed="X" n="0384a20"/>　真覺信禪師　信翁朝禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0384a21"/>　痴牛愚禪師　明叟宗禪師
+<lb ed="X" n="0384a22"/>風幡中禪師法嗣
+<lb ed="X" n="0384a23"/>　呂鐵船居士　南華古衲尊<note place="inline">無傳</note>
+<lb ed="X" n="0384a24"/>華藏見禪師法嗣
+<pb ed="X" id="X84.1582.0384b" n="0384b"/>
+<lb ed="X" n="0384b01"/>　金芝念禪師
+<lb ed="X" n="0384b02"/>真翁圓禪師法嗣
+<lb ed="X" n="0384b03"/>　天寧教禪師
+<lb ed="X" n="0384b04"/>金牛真禪師法嗣
+<lb ed="X" n="0384b05"/>　普明寬禪師　毒蛇善禪師
+<lb ed="X" n="0384b06"/>鼓山凝禪師法嗣
+<lb ed="X" n="0384b07"/>　澱山德異禪師　海珠鎮禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0384b08"/>慶壽璋禪師法嗣
+<lb ed="X" n="0384b09"/>　慶壽印簡禪師
+<lb ed="X" n="0384b10"/>　　大鑑下第二十二世
+<lb ed="X" n="0384b11"/>真覺信禪師法嗣
+<lb ed="X" n="0384b12"/>　天寶法樞禪師
+<lb ed="X" n="0384b13"/>　大慈巖成禪師<note place="inline">此後不列章次</note>　空海源禪師
+<lb ed="X" n="0384b14"/>普明寬禪師法嗣
+<lb ed="X" n="0384b15"/>　龍池永寧禪師
+<lb ed="X" n="0384b16"/>　縉雲如海真禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0384b17"/>天寧教禪師法嗣
+<lb ed="X" n="0384b18"/>　妙果水盛禪師
+<lb ed="X" n="0384b19"/>澱山異禪師法嗣
+<lb ed="X" n="0384b20"/>　慈化瓊禪師　孤舟濟禪師
+<lb ed="X" n="0384b21"/>　柘浦大同和禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0384b22"/>慶壽簡禪師法嗣
+<lb ed="X" n="0384b23"/>　華嚴慧明禪師<note place="inline">此後不列章次</note>
+<lb ed="X" n="0384b24"/>　&CB02823;菴儇禪師
+<pb ed="X" id="X84.1582.0384c" n="0384c"/>
+<lb ed="X" n="0384c01"/>　　大鑑下第二十三世
+<lb ed="X" n="0384c02"/>大慈成禪師法嗣
+<lb ed="X" n="0384c03"/>　烏石世愚禪師
+<lb ed="X" n="0384c04"/>天寶樞禪師法嗣
+<lb ed="X" n="0384c05"/>　淨慈智順禪師
+<lb ed="X" n="0384c06"/>縉雲真禪師法嗣
+<lb ed="X" n="0384c07"/>　靈鷲寶金禪師
+<lb ed="X" n="0384c08"/>龍池寧禪師法嗣
+<lb ed="X" n="0384c09"/>　季山仁奉禪師<note place="inline">此後無傳</note>　報本詔洪禪師
+<lb ed="X" n="0384c10"/>　芙蓉志恭禪師　顯德詔善禪師
+<lb ed="X" n="0384c11"/>慈化瓊禪師法嗣
+<lb ed="X" n="0384c12"/>　香嚴思聰禪師　寂照導禪師
+<lb ed="X" n="0384c13"/>　廣德東山旻禪師<note place="inline">無傳</note>
+<lb ed="X" n="0384c14"/>&CB02823;菴儇禪師法嗣
+<lb ed="X" n="0384c15"/>　西雲菴禪師<note place="inline">無傳</note>
+<lb ed="X" n="0384c16"/>　　大鑑下第二十四世
+<lb ed="X" n="0384c17"/>烏石愚禪師法嗣
+<lb ed="X" n="0384c18"/>　靈谷道永禪師　護龍啟原禪師
+<lb ed="X" n="0384c19"/>淨慈順禪師法嗣
+<lb ed="X" n="0384c20"/>　無言文顯禪師<note place="inline">此後無傳</note>　雪屋心禪師
+<lb ed="X" n="0384c21"/>　即空解禪師
+<lb ed="X" n="0384c22"/>靈鷲金禪師法嗣
+<lb ed="X" n="0384c23"/>　天界智通禪師<note place="inline">無傳</note>
+<lb ed="X" n="0384c24"/>　　大鑑下第二十五世
+<pb ed="X" id="X84.1582.0385a" n="0385a"/>
+<lb ed="X" n="0385a01"/>靈谷永禪師法嗣
+<lb ed="X" n="0385a02"/>　天然復禪師<note place="inline">此後無傳</note>　牧菴謙禪師
+<lb ed="X" n="0385a03"/>卷九
+<lb ed="X" n="0385a04"/>臨濟宗
+<lb ed="X" n="0385a05"/>　　大鑑下第十七世
+<lb ed="X" n="0385a06"/>徑山宗杲禪師法嗣
+<lb ed="X" n="0385a07"/>　教忠彌光禪師　東林道顏禪師
+<lb ed="X" n="0385a08"/>　西禪鼎需禪師　東禪思岳禪師
+<lb ed="X" n="0385a09"/>　西禪守淨禪師　開善道謙禪師
+<lb ed="X" n="0385a10"/>　育王德光禪師　華藏宗演禪師
+<lb ed="X" n="0385a11"/>　天童淨全禪師　大溈法寶禪師
+<lb ed="X" n="0385a12"/>　玉泉曇懿禪師　薦福悟本禪師
+<lb ed="X" n="0385a13"/>　育玉遵璞禪師　能仁祖元禪師
+<lb ed="X" n="0385a14"/>　靈巖了性禪師　蔣山善直禪師
+<lb ed="X" n="0385a15"/>　萬壽自護禪師　大溈景暈禪師
+<lb ed="X" n="0385a16"/>　靈隱了演禪師　光孝致遠禪師
+<lb ed="X" n="0385a17"/>卷十
+<lb ed="X" n="0385a18"/>　　大鑑下第十七世
+<lb ed="X" n="0385a19"/>大慧杲禪師法嗣
+<lb ed="X" n="0385a20"/>　雪峰蘊聞禪師　連雲道能禪師
+<lb ed="X" n="0385a21"/>　靈隱道印禪師　竹原宗元菴主
+<lb ed="X" n="0385a22"/>　徑山了明禪師　近禮侍者
+<lb ed="X" n="0385a23"/>　淨居尼妙道禪師　資壽尼妙總禪師
+<lb ed="X" n="0385a24"/>　侍郎張九成居士　參政李邴居士
+<pb ed="X" id="X84.1582.0385b" n="0385b"/>
+<lb ed="X" n="0385b01"/>　寶學劉彥修居士　提刑吳偉明居士
+<lb ed="X" n="0385b02"/>　門司黃彥節居士　秦國夫人計氏
+<lb ed="X" n="0385b03"/>　雪峰慧然禪師<note place="inline">此後不列章次</note>　水陸野菴禪師
+<lb ed="X" n="0385b04"/>　祖麟禪師<note place="inline">此後無傳</note>　清&CB00289;殊禪師
+<lb ed="X" n="0385b05"/>　雲臥曉塋禪師　大雲穎禪師
+<lb ed="X" n="0385b06"/>　舟峰慶老禪師　龍王自隱禪師
+<lb ed="X" n="0385b07"/>　福州空禪師　南華因禪師
+<lb ed="X" n="0385b08"/>　花藥繼明禪師　昭覺子文禪師
+<lb ed="X" n="0385b09"/>　嶽麓梵禪師　超宗禪師
+<lb ed="X" n="0385b10"/>　大溈惠仰禪師　洛浦相禪師
+<lb ed="X" n="0385b11"/>　徑山祖慶禪師　伊山&CB00287;密禪師
+<lb ed="X" n="0385b12"/>　祥符如本禪師　象田德禪師
+<lb ed="X" n="0385b13"/>　象田信禪師　龍牙信禪師
+<lb ed="X" n="0385b14"/>　岳侍者　光孝林禪師
+<lb ed="X" n="0385b15"/>　編修黃文昌居士　九鼎法生禪師
+<lb ed="X" n="0385b16"/>　鄭昂居士　徑山有才禪師
+<lb ed="X" n="0385b17"/>　大悲閒禪師　華嚴覺印禪師
+<lb ed="X" n="0385b18"/>　福嚴了賢禪師　慶成&CB00287;禪師
+<lb ed="X" n="0385b19"/>　報恩崇海禪師　光孝祖彥禪師
+<lb ed="X" n="0385b20"/>　薦福妙熙禪師　博山能禪師
+<lb ed="X" n="0385b21"/>　石門仁禪師　龍翔宗常禪師
+<lb ed="X" n="0385b22"/>　蔣山恩禪師　蔣山等詮禪師
+<lb ed="X" n="0385b23"/>　光孝圓禪師　墨水曇振禪師
+<lb ed="X" n="0385b24"/>　秀峰南禪師　法濟僧鶚禪師
+<pb ed="X" id="X84.1582.0385c" n="0385c"/>
+<lb ed="X" n="0385c01"/>　報恩行禪師　薦福普仁禪師
+<lb ed="X" n="0385c02"/>　玉泉道成禪師　大溈如晦禪師
+<lb ed="X" n="0385c03"/>　興王如沼禪師　明招觀禪師
+<lb ed="X" n="0385c04"/>　法宏禪師　從慶慶禪師
+<lb ed="X" n="0385c05"/>　光孝立禪師　石泉詠禪師
+<lb ed="X" n="0385c06"/>　大明廣容禪師　明招微禪師
+<lb ed="X" n="0385c07"/>　正法秀禪師　昭覺祖明禪師
+<lb ed="X" n="0385c08"/>　正煥上座　仰山圓禪師
+<lb ed="X" n="0385c09"/>　潭柘圓性禪師　關西尼真如禪師
+<lb ed="X" n="0385c10"/>　　大鑑下第十八世
+<lb ed="X" n="0385c11"/>教忠彌光禪師法嗣
+<lb ed="X" n="0385c12"/>　法石慧空禪師　淨慈曇密禪師
+<lb ed="X" n="0385c13"/>　青原性菴唯&CB15571;禪師　道一維那<note place="inline">此後無傳</note>
+<lb ed="X" n="0385c14"/>　雪峰元肇禪師　報恩智因禪師
+<lb ed="X" n="0385c15"/>　徑山元聰禪師　樵隱陳安節
+<lb ed="X" n="0385c16"/>東林顏禪師法嗣
+<lb ed="X" n="0385c17"/>　公安遯菴祖珠禪師　汀州報恩法演禪師
+<lb ed="X" n="0385c18"/>　淨慈肯堂彥充禪師　智者元&CB06059;真慈禪師
+<lb ed="X" n="0385c19"/>　昭覺紹淵禪師　徽州簡上座
+<lb ed="X" n="0385c20"/>　資福遂良禪師　萬年荷屋常禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0385c21"/>　積善道昌禪師　保福清皎禪師
+<lb ed="X" n="0385c22"/>　護聖麟菴開禪師　棲賢辨禪師
+<lb ed="X" n="0385c23"/>西禪鼎需禪師法嗣
+<lb ed="X" n="0385c24"/>　鼓山木菴安永禪師　龍翔&CB00177;堂南雅禪師
+<pb ed="X" id="X84.1582.0386a" n="0386a"/>
+<lb ed="X" n="0386a01"/>　天王志清禪師　劍門安分菴主
+<lb ed="X" n="0386a02"/>東禪思嶽禪師法嗣
+<lb ed="X" n="0386a03"/>　鼓山宗逮禪師　徑山德潛禪師
+<lb ed="X" n="0386a04"/>　鼓山知玿禪師　白雲師沼禪師<note place="inline">無傳</note>
+<lb ed="X" n="0386a05"/>西禪守淨禪師法嗣
+<lb ed="X" n="0386a06"/>　乾元宗穎禪師　華嚴別峰雲禪師
+<lb ed="X" n="0386a07"/>　中濟無禪立才禪師
+<lb ed="X" n="0386a08"/>開善謙禪師法嗣
+<lb ed="X" n="0386a09"/>　吳十三道人
+<lb ed="X" n="0386a10"/>卷十一
+<lb ed="X" n="0386a11"/>　　大鑑下第十八世
+<lb ed="X" n="0386a12"/>育王佛照光禪師法嗣
+<lb ed="X" n="0386a13"/>　靈隱妙峰之善禪師　淨慈北&CB01139;居簡禪師
+<lb ed="X" n="0386a14"/>　徑山浙翁如琰禪師　天童無際了派禪師
+<lb ed="X" n="0386a15"/>　東禪性空智觀禪師　上方朴翁義銛禪師
+<lb ed="X" n="0386a16"/>　育王空叟宗印禪師　育王退谷義雲禪師
+<lb ed="X" n="0386a17"/>　徑山妙嵩禪師　育王秀巖師瑞禪師
+<lb ed="X" n="0386a18"/>　育王孤雲權禪師　天童師齊禪師
+<lb ed="X" n="0386a19"/>　石菴正玸禪師　雲居率菴梵琮禪師
+<lb ed="X" n="0386a20"/>　靈隱鐵牛印禪師
+<lb ed="X" n="0386a21"/>　虎丘鏡中大仁禪師<note place="inline">此後無傳</note>　徑山石橋宣禪師
+<lb ed="X" n="0386a22"/>　宋孝宗皇帝
+<lb ed="X" n="0386a23"/>華藏遯菴演禪師法嗣
+<lb ed="X" n="0386a24"/>　何山慧清禪師　育王法明禪師<note place="inline">此後無傳</note>
+<pb ed="X" id="X84.1582.0386b" n="0386b"/>
+<lb ed="X" n="0386b01"/>　南禪大用禪師　移忠得一禪師
+<lb ed="X" n="0386b02"/>天童無用全禪師法嗣
+<lb ed="X" n="0386b03"/>　育王笑翁妙堪禪師　靈隱石鼓希夷禪師
+<lb ed="X" n="0386b04"/>　雪峰滅堂了宗禪師　雪竇野雲處南禪師
+<lb ed="X" n="0386b05"/>　盤山思卓和尚<note place="inline">此後無傳</note>　止菴居士錢象祖
+<lb ed="X" n="0386b06"/>　承天允韶禪師<note place="inline">無傳</note>
+<lb ed="X" n="0386b07"/>育王璞禪師法嗣
+<lb ed="X" n="0386b08"/>　育王從廓禪師　然菴主<note place="inline">無傳</note>
+<lb ed="X" n="0386b09"/>雪峰然禪師法嗣
+<lb ed="X" n="0386b10"/>　如如居士顏丙
+<lb ed="X" n="0386b11"/>水陸菴禪師法嗣
+<lb ed="X" n="0386b12"/>　四恩禪師<note place="inline">無傳</note>
+<lb ed="X" n="0386b13"/>　　大鑑下第十九世
+<lb ed="X" n="0386b14"/>青原&CB15571;禪師法嗣
+<lb ed="X" n="0386b15"/>　青原宗廣禪師
+<lb ed="X" n="0386b16"/>鼓山永禪師法嗣
+<lb ed="X" n="0386b17"/>　淨慈悟明禪師
+<lb ed="X" n="0386b18"/>　承天一菴法堅禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0386b19"/>靈隱善禪師法嗣
+<lb ed="X" n="0386b20"/>　徑山善珍禪師　淨慈仲穎禪師
+<lb ed="X" n="0386b21"/>　龍濟宗鍪禪師　無方安禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0386b22"/>　雪峰霜林果禪師<note place="inline">此後無傳</note>　雪翁立禪師
+<lb ed="X" n="0386b23"/>　無等融禪師
+<lb ed="X" n="0386b24"/>乾元穎禪師法嗣
+<pb ed="X" id="X84.1582.0386c" n="0386c"/>
+<lb ed="X" n="0386c01"/>　鼓山宗鑒禪師<note place="inline">此後無傳</note>　白雲訥菴仁禪師
+<lb ed="X" n="0386c02"/>淨慈簡禪師法嗣
+<lb ed="X" n="0386c03"/>　育王大觀禪師　萬壽石樓禪師<note place="inline">無傳</note>
+<lb ed="X" n="0386c04"/>徑山如琰禪師法嗣
+<lb ed="X" n="0386c05"/>　徑山廣聞禪師　虎丘曇禪師
+<lb ed="X" n="0386c06"/>　徑山原肇禪師　天童阡禪師
+<lb ed="X" n="0386c07"/>　雙林朋禪師　靈隱普濟禪師
+<lb ed="X" n="0386c08"/>　虎丘道源禪師　大慈慧洪禪師
+<lb ed="X" n="0386c09"/>　壽國嗣清禪師　龍溪文禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0386c10"/>　孤巖啟禪師　&CB00639;叟源禪師
+<lb ed="X" n="0386c11"/>　法藏聞禪師　草堂隆禪師
+<lb ed="X" n="0386c12"/>　承天璉禪師
+<lb ed="X" n="0386c13"/>卷十<app><lem wit="【CBETA】" resp="CBETA.maha">二</lem><rdg wit="【卍續】">一</rdg></app>
+<lb ed="X" n="0386c14"/>臨濟宗
+<lb ed="X" n="0386c15"/>　　大鑑下第十九世
+<lb ed="X" n="0386c16"/>天童無際派禪師法嗣
+<lb ed="X" n="0386c17"/>　天寧無境徹禪師　鼇峰定禪師
+<lb ed="X" n="0386c18"/>　雪&CB00275;日禪師<note place="inline">此後無傳</note>　足翁麟禪師
+<lb ed="X" n="0386c19"/>育王空叟印禪師法嗣
+<lb ed="X" n="0386c20"/>　道場法舟禪師　無極觀禪師
+<lb ed="X" n="0386c21"/>徑山妙嵩禪師法嗣
+<lb ed="X" n="0386c22"/>　無塵淨禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0386c23"/>育王秀巖瑞禪師法嗣
+<lb ed="X" n="0386c24"/>　瑞巖崇壽禪師
+<pb ed="X" id="X84.1582.0387a" n="0387a"/>
+<lb ed="X" n="0387a01"/>徑山石橋宣禪師法嗣
+<lb ed="X" n="0387a02"/>　古樵侃禪師<note place="inline">無傳</note>
+<lb ed="X" n="0387a03"/>何山慧清禪師法嗣
+<lb ed="X" n="0387a04"/>　雪峰北山信禪師
+<lb ed="X" n="0387a05"/>育王笑翁妙堪禪師法嗣
+<lb ed="X" n="0387a06"/>　薦福無文燦禪師
+<lb ed="X" n="0387a07"/>　杭州殊勝圓明因禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0387a08"/>　黃龍東湖祥禪師
+<lb ed="X" n="0387a09"/>育王從廓禪師法嗣
+<lb ed="X" n="0387a10"/>　開元宜意禪師<note place="inline">無傳</note>
+<lb ed="X" n="0387a11"/>　　大鑑下第二十世
+<lb ed="X" n="0387a12"/>淨慈明禪師法嗣
+<lb ed="X" n="0387a13"/>　太原苦口良益禪師
+<lb ed="X" n="0387a14"/>徑山珍禪師法嗣
+<lb ed="X" n="0387a15"/>　徑山行端禪師　曹溪覺禪師<note place="inline">無傳</note>
+<lb ed="X" n="0387a16"/>淨慈東叟穎禪師法嗣
+<lb ed="X" n="0387a17"/>　江心一山了萬禪師　嶽林栯堂益禪師
+<lb ed="X" n="0387a18"/>　智者自閒禪師
+<lb ed="X" n="0387a19"/>龍濟友雲鍪禪師法嗣
+<lb ed="X" n="0387a20"/>　徹菴見禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0387a21"/>無方安禪師法嗣
+<lb ed="X" n="0387a22"/>　枯木榮禪師
+<lb ed="X" n="0387a23"/>育王物初觀禪師法嗣
+<lb ed="X" n="0387a24"/>　徑山晦機元熙<app><lem wit="【CBETA】" resp="CBETA.maha">禪</lem><rdg wit="【卍續】">彈</rdg></app>師　用潛明禪師<note place="inline">無傳</note>
+<pb ed="X" id="X84.1582.0387b" n="0387b"/>
+<lb ed="X" n="0387b01"/>徑山偃溪聞禪師法嗣
+<lb ed="X" n="0387b02"/>　徑山妙高禪師　何山鐵鏡至明禪師
+<lb ed="X" n="0387b03"/>　天童止泓鑑禪師
+<lb ed="X" n="0387b04"/>　雪峰平楚聳禪師<note place="inline">此後無傳</note>　北禪毒果因禪師
+<lb ed="X" n="0387b05"/>　草堂隆禪師　南山壽禪師
+<lb ed="X" n="0387b06"/>徑山淮海肇禪師法嗣
+<lb ed="X" n="0387b07"/>　虎丘孤巖啟禪師<note place="inline">無傳</note>
+<lb ed="X" n="0387b08"/>天童弁山阡禪師法嗣
+<lb ed="X" n="0387b09"/>　圓通雪溪逸禪師
+<lb ed="X" n="0387b10"/>雙林介石朋禪師法嗣
+<lb ed="X" n="0387b11"/>　靈隱祖誾禪師
+<lb ed="X" n="0387b12"/>靈隱普濟禪師法嗣
+<lb ed="X" n="0387b13"/>　天童石門來禪師　雪竇野翁炳同禪師
+<lb ed="X" n="0387b14"/>　蔣山東叟愷禪師<note place="inline">無傳</note>
+<lb ed="X" n="0387b15"/>天寧無鏡徹禪師法嗣
+<lb ed="X" n="0387b16"/>　灌溪昌禪師　南浦遵禪師<note place="inline">無傳</note>
+<lb ed="X" n="0387b17"/>無鹿淨禪師法嗣
+<lb ed="X" n="0387b18"/>　光孝玉&CB00589;瑩禪師
+<lb ed="X" n="0387b19"/>雪峰北山信禪師法嗣
+<lb ed="X" n="0387b20"/>　大慶尼智悟禪師
+<lb ed="X" n="0387b21"/>薦福無文燦禪師法嗣
+<lb ed="X" n="0387b22"/>　支提澄鑑禪師　薦福定山一禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0387b23"/>　別翁總禪師　圓通王崖振禪師
+<lb ed="X" n="0387b24"/>卷十三
+<pb ed="X" id="X84.1582.0387c" n="0387c"/>
+<lb ed="X" n="0387c01"/>臨濟宗
+<lb ed="X" n="0387c02"/>　　大鑑下第二十一世
+<lb ed="X" n="0387c03"/>太原苦口良益禪師法嗣
+<lb ed="X" n="0387c04"/>　汾州筏渡普慈禪師
+<lb ed="X" n="0387c05"/>徑山元叟端禪師法嗣
+<lb ed="X" n="0387c06"/>　靈隱竹泉法林禪師　徑山古鼎祖銘禪師
+<lb ed="X" n="0387c07"/>　國清夢堂曇噩禪師　天寧楚石梵琦禪師
+<lb ed="X" n="0387c08"/>　徑山愚菴智及禪師　萬壽行中至仁禪師
+<lb ed="X" n="0387c09"/>卷十四
+<lb ed="X" n="0387c10"/>臨濟宗
+<lb ed="X" n="0387c11"/>　　大鑑下第二十一世
+<lb ed="X" n="0387c12"/>徑山元叟端禪師法嗣
+<lb ed="X" n="0387c13"/>　徑山復原福報禪師　靈隱性原慧朗禪師
+<lb ed="X" n="0387c14"/>　上竺我菴本無禪師　開原愚仲善如禪師
+<lb ed="X" n="0387c15"/>　靈隱天鏡原&CB01336;禪師　護聖&CB06087;原啟禪師
+<lb ed="X" n="0387c16"/>　萬壽佛初智淳禪師　天寧仲猷祖闡禪師
+<lb ed="X" n="0387c17"/>　金山慧明禪師<note place="inline">此後無傳</note>　天寧太古曇徽禪師
+<lb ed="X" n="0387c18"/>　開元方崖成大禪師　五峰元恕普慈禪師
+<lb ed="X" n="0387c19"/>　&CB06087;元啟禪師　慈雲&CB05973;禪師
+<lb ed="X" n="0387c20"/>　清&CB00289;用堂子梗禪師　五祖意禪師
+<lb ed="X" n="0387c21"/>　開化一菴道如禪師
+<lb ed="X" n="0387c22"/>江心一山了萬禪師
+<lb ed="X" n="0387c23"/>　報恩無方智普禪師　雲居小隱師大禪師
+<lb ed="X" n="0387c24"/>　大覺泰定叟禪師<note place="inline">無傳</note>
+<pb ed="X" id="X84.1582.0388a" n="0388a"/>
+<lb ed="X" n="0388a01"/>贛州徹菴見禪師法嗣
+<lb ed="X" n="0388a02"/>　黃龍空菴了一禪師<note place="inline">無傳</note>
+<lb ed="X" n="0388a03"/>徑山晦機元熙禪師法嗣
+<lb ed="X" n="0388a04"/>　龍翔大訢禪師　保寧天倫禪師
+<lb ed="X" n="0388a05"/>　育王祖瑛禪師　中竺正逵禪師
+<lb ed="X" n="0388a06"/>　天衣子清禪師　祥符念常禪師
+<lb ed="X" n="0388a07"/>　淨慈會禪師　南禪覺岸禪師
+<lb ed="X" n="0388a08"/>　東林東暘德輝禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0388a09"/>　虎丘雪&CB00275;普明禪師　平川濟禪師
+<lb ed="X" n="0388a10"/>　別峰一雲大同禪師
+<lb ed="X" n="0388a11"/>徑山雲峰高禪師法嗣
+<lb ed="X" n="0388a12"/>　東林古智哲禪師　中竺一溪自如禪師
+<lb ed="X" n="0388a13"/>　徑山本源善達禪師　天童&CB00383;石奇禪師
+<lb ed="X" n="0388a14"/>　龍嵒真首座　國清無我親禪師<note place="inline">無傳</note>
+<lb ed="X" n="0388a15"/>何山鐵鏡明禪師法嗣
+<lb ed="X" n="0388a16"/>　恭都寺
+<lb ed="X" n="0388a17"/>天童止泓鑑禪師法嗣
+<lb ed="X" n="0388a18"/>　道場思&CB00216;禪師　萬壽竺田汝霖禪師
+<lb ed="X" n="0388a19"/>靈隱誾禪師法嗣
+<lb ed="X" n="0388a20"/>　東林宗廓禪師　楚石璚禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0388a21"/>　雪岑立禪師
+<lb ed="X" n="0388a22"/>雪竇野翁同禪師法嗣
+<lb ed="X" n="0388a23"/>　嶽林水南湘禪師<note place="inline">無傳</note>
+<lb ed="X" n="0388a24"/>灌溪昌禪師法嗣
+<pb ed="X" id="X84.1582.0388b" n="0388b"/>
+<lb ed="X" n="0388b01"/>　無積眾禪師<note place="inline">無傳</note>
+<lb ed="X" n="0388b02"/>卷十五
+<lb ed="X" n="0388b03"/>臨濟宗
+<lb ed="X" n="0388b04"/>　　大鑑下第二十二世
+<lb ed="X" n="0388b05"/>汾州筏渡普慈禪師法嗣
+<lb ed="X" n="0388b06"/>　相國道顯禪師
+<lb ed="X" n="0388b07"/>靈隱林禪師法嗣
+<lb ed="X" n="0388b08"/>　石田耕禪師<note place="inline">無傳</note>
+<lb ed="X" n="0388b09"/>徑山古鼎銘禪師法嗣
+<lb ed="X" n="0388b10"/>　天寧力金禪師　竺曇敷禪師<note place="inline">此後不列章次</note>
+<lb ed="X" n="0388b11"/>　本空相禪師
+<lb ed="X" n="0388b12"/>　徑山象源仁淑禪師<note place="inline">此後無傳</note>　萬壽天淵濬禪師
+<lb ed="X" n="0388b13"/>　印宗密禪師
+<lb ed="X" n="0388b14"/>國清夢堂曇噩禪師法嗣
+<lb ed="X" n="0388b15"/>　天台智巖禪師<note place="inline">此後無傳</note>　岱宗泰禪師
+<lb ed="X" n="0388b16"/>天寧楚石梵琦禪師法嗣
+<lb ed="X" n="0388b17"/>　瑩中景瓛禪師<note place="inline">此後無傳</note>　祖光上座
+<lb ed="X" n="0388b18"/>徑山智及禪師法嗣
+<lb ed="X" n="0388b19"/>　靈隱忻悟禪師　天龍道衍禪師
+<lb ed="X" n="0388b20"/>　用愚顏禪師<note place="inline">無傳</note>
+<lb ed="X" n="0388b21"/>萬壽仁禪師法嗣
+<lb ed="X" n="0388b22"/>　徑山文琇禪師
+<lb ed="X" n="0388b23"/>靈隱明禪師法嗣
+<lb ed="X" n="0388b24"/>　雙林正菴誾禪師<note place="inline">此後不列章次</note>　碧峰無作禪師
+<pb ed="X" id="X84.1582.0388c" n="0388c"/>
+<lb ed="X" n="0388c01"/>　敏中智禪師<note place="inline">此後無傳</note>　仲謙益禪師
+<lb ed="X" n="0388c02"/>　西緒纘禪師
+<lb ed="X" n="0388c03"/>徑山復元報禪師法嗣
+<lb ed="X" n="0388c04"/>　損菴義禪師<note place="inline">無傳</note>
+<lb ed="X" n="0388c05"/>靈隱&CB01336;禪師法嗣
+<lb ed="X" n="0388c06"/>　禪慧智湛禪師<note place="inline">此後無傳</note>　龍山普明禪師
+<lb ed="X" n="0388c07"/>　昭福楚馨禪師
+<lb ed="X" n="0388c08"/>龍翔訢禪師法嗣
+<lb ed="X" n="0388c09"/>　天界慧曇禪師　天界宗泐禪師
+<lb ed="X" n="0388c10"/>　中竺庭俊禪師　圓通崇&CB05769;禪師
+<lb ed="X" n="0388c11"/>　資聖仲銘禪師　靈隱輔良禪師
+<lb ed="X" n="0388c12"/>　淨慈懷渭禪師　靈石一舟蓮禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0388c13"/>　仲邠岐禪師　芳林鬯禪師
+<lb ed="X" n="0388c14"/>　仲達景禪師　景南亨禪師
+<lb ed="X" n="0388c15"/>　性原道禪師
+<lb ed="X" n="0388c16"/>保寧倫禪師法嗣
+<lb ed="X" n="0388c17"/>　薦嚴物先羲禪師<note place="inline">不列章次</note>　笑菴愈禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0388c18"/>　玉剛環禪師
+<lb ed="X" n="0388c19"/>道場&CB00216;禪師法嗣
+<lb ed="X" n="0388c20"/>　愚溪智禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0388c21"/>萬壽霖禪師法嗣
+<lb ed="X" n="0388c22"/>　道場明德禪師
+<lb ed="X" n="0388c23"/>　　大鑑下第二十三世
+<lb ed="X" n="0388c24"/>相國顯禪師法嗣
+<pb ed="X" id="X84.1582.0389a" n="0389a"/>
+<lb ed="X" n="0389a01"/>　小菴行密禪師
+<lb ed="X" n="0389a02"/>天寧西白金禪師法嗣
+<lb ed="X" n="0389a03"/>　保寧覺慧禪師　白石瑄禪師<note place="inline">無傳</note>
+<lb ed="X" n="0389a04"/>竺曇敷禪師法嗣
+<lb ed="X" n="0389a05"/>　淨慈師頤禪師
+<lb ed="X" n="0389a06"/>本空相禪師法嗣
+<lb ed="X" n="0389a07"/>　華嚴妙禪師<note place="inline">無傳</note>
+<lb ed="X" n="0389a08"/>雙林正菴誾禪師法嗣
+<lb ed="X" n="0389a09"/>　徑山宗淨禪師
+<lb ed="X" n="0389a10"/>無作行禪師法嗣
+<lb ed="X" n="0389a11"/>　勝菴緣禪師<note place="inline">此後無傳</note>　慧燈智禪師
+<lb ed="X" n="0389a12"/>　茂林新禪師　用評衡禪師
+<lb ed="X" n="0389a13"/>　覺菴省禪師　楚峰遷禪師
+<lb ed="X" n="0389a14"/>天界曇禪師法嗣
+<lb ed="X" n="0389a15"/>　靈谷淨戒禪師　國清導升禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0389a16"/>　別峰在禪師　天寧純一禪師
+<lb ed="X" n="0389a17"/>　天界行椿禪師　育王常在禪師
+<lb ed="X" n="0389a18"/>天界泐禪師法嗣
+<lb ed="X" n="0389a19"/>　天童湛然自性禪師　大隨德始禪師
+<lb ed="X" n="0389a20"/>　一宗欽禪師<note place="inline">此後無傳</note>　鼎菴恕禪師
+<lb ed="X" n="0389a21"/>　古章憲禪師　素菴行禪師
+<lb ed="X" n="0389a22"/>中竺俊禪師法嗣
+<lb ed="X" n="0389a23"/>　無言本禪師<note place="inline">不列章次</note>　晦元&CB05951;禪師<note place="inline">無傳</note>
+<lb ed="X" n="0389a24"/>圓通崇&CB05769;禪師法嗣
+<pb ed="X" id="X84.1582.0389b" n="0389b"/>
+<lb ed="X" n="0389b01"/>　天雨盛禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0389b02"/>靈隱良禪師法嗣
+<lb ed="X" n="0389b03"/>　隱適中禪師<note place="inline">無傳</note>
+<lb ed="X" n="0389b04"/>淨慈渭禪師法嗣
+<lb ed="X" n="0389b05"/>　靈谷巽中謙禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0389b06"/>薦嚴物先羲禪師法嗣
+<lb ed="X" n="0389b07"/>　淨慈道聯禪師　節菴禮禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0389b08"/>　越州天衣祿禪師　福源貺禪師
+<lb ed="X" n="0389b09"/>　宗傳後禪師　松雲秀禪師
+<lb ed="X" n="0389b10"/>　無我<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>禪師　竹曇靜禪師
+<lb ed="X" n="0389b11"/>　梅&CB00275;勝禪師　景初曦禪師
+<lb ed="X" n="0389b12"/>道場明德禪師法嗣
+<lb ed="X" n="0389b13"/>　靈隱本聚禪師
+<lb ed="X" n="0389b14"/>愚溪智禪師法嗣
+<lb ed="X" n="0389b15"/>　壽巖昌禪師<note place="inline">無傳</note>
+<lb ed="X" n="0389b16"/>卷十六
+<lb ed="X" n="0389b17"/>臨濟宗
+<lb ed="X" n="0389b18"/>　　大鑑下第二十四世
+<lb ed="X" n="0389b19"/>小菴行密禪師法嗣
+<lb ed="X" n="0389b20"/>　二仰圓欽禪師
+<lb ed="X" n="0389b21"/>靈谷淨戒禪師法嗣
+<lb ed="X" n="0389b22"/>　古章&CB02351;禪師<note place="inline">此後無傳</note>　雲壑觀禪師
+<lb ed="X" n="0389b23"/>　宗器璉禪師　及菴信禪師
+<lb ed="X" n="0389b24"/>　玉田瓚禪師　止菴容禪師
+<pb ed="X" id="X84.1582.0389c" n="0389c"/>
+<lb ed="X" n="0389c01"/>　武岡坪禪師　指南宗禪師
+<lb ed="X" n="0389c02"/>　韥泉琛禪師　天泉淵禪師
+<lb ed="X" n="0389c03"/>天雨盛禪師法嗣
+<lb ed="X" n="0389c04"/>　性初善禪師<note place="inline">無傳</note>
+<lb ed="X" n="0389c05"/>無言本禪師法嗣
+<lb ed="X" n="0389c06"/>　東昇暟禪師<note place="inline">此後無傳</note>　宗源紹禪師
+<lb ed="X" n="0389c07"/>　即菴隱禪師
+<lb ed="X" n="0389c08"/>靈谷謙禪師法嗣
+<lb ed="X" n="0389c09"/>　靈谷潔菴正映禪師
+<lb ed="X" n="0389c10"/>靈隱聚禪師法嗣
+<lb ed="X" n="0389c11"/>　宗衍上座<note place="inline">無傳</note>
+<lb ed="X" n="0389c12"/>淨慈祖芳聯禪師法嗣
+<lb ed="X" n="0389c13"/>　普明成禪師　淨慈宗靜禪師
+<lb ed="X" n="0389c14"/>　　大鑑下第二十五世
+<lb ed="X" n="0389c15"/>二仰圓欽禪師法嗣
+<lb ed="X" n="0389c16"/>　壽州無念智有禪師
+<lb ed="X" n="0389c17"/>靈谷潔菴映禪師法嗣
+<lb ed="X" n="0389c18"/>　道源信禪師<note place="inline">此後無傳</note>　雪峰秋崖遠止禪師
+<lb ed="X" n="0389c19"/>　孤峰香禪師
+<lb ed="X" n="0389c20"/>　　大鑑下第二十六世
+<lb ed="X" n="0389c21"/>壽州無念智有禪師法嗣
+<lb ed="X" n="0389c22"/>　荊山懷寶禪師　正悟宗徹禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0389c23"/>　晦菴隱禪師　興龍慧可愚禪師
+<lb ed="X" n="0389c24"/>　方橋朗月正映禪師　樵峰默然澄禪師
+<pb ed="X" id="X84.1582.0390a" n="0390a"/>
+<lb ed="X" n="0390a01"/>　守拙上座
+<lb ed="X" n="0390a02"/>　　大鑑下第二十七世
+<lb ed="X" n="0390a03"/>荊山懷寶禪師法嗣
+<lb ed="X" n="0390a04"/>　秦嶺鐵牛德遠禪師
+<lb ed="X" n="0390a05"/>　　大鑑下第二十八世
+<lb ed="X" n="0390a06"/>秦嶺鐵牛德遠禪師法嗣
+<lb ed="X" n="0390a07"/>　朝陽月明聯池禪師
+<lb ed="X" n="0390a08"/>　　大鑑下第二十九世
+<lb ed="X" n="0390a09"/>朝陽月明聯池禪師法嗣
+<lb ed="X" n="0390a10"/>　聚雲吹萬廣真禪師　無心廣應禪師<note place="inline">無傳</note>
+<lb ed="X" n="0390a11"/>　　大鑑下第三十世
+<lb ed="X" n="0390a12"/>聚雲吹萬真禪師法嗣
+<lb ed="X" n="0390a13"/>　治平鐵壁慧機禪師
+<lb ed="X" n="0390a14"/>卷十七
+<lb ed="X" n="0390a15"/>臨濟宗
+<lb ed="X" n="0390a16"/>　　大鑑下第三十世
+<lb ed="X" n="0390a17"/>聚雲吹萬真禪師法嗣
+<lb ed="X" n="0390a18"/>　萬松三目慧芝禪師
+<lb ed="X" n="0390a19"/>　寶峰三巴掌鐵眉慧麗禪師
+<lb ed="X" n="0390a20"/>　　大鑑下第三十一世
+<lb ed="X" n="0390a21"/>治平鐵壁機禪師法嗣
+<lb ed="X" n="0390a22"/>　成都石樓燈昱禪師　東明眉山燈甫禪師
+<lb ed="X" n="0390a23"/>　慶雲衡山燈炳禪師　高峰三山燈來禪師
+<lb ed="X" n="0390a24"/>　太平三空燈杲禪師　高峰橋松燈億禪師
+<pb ed="X" id="X84.1582.0390b" n="0390b"/>
+<lb ed="X" n="0390b01"/>卷十八
+<lb ed="X" n="0390b02"/>臨濟宗
+<lb ed="X" n="0390b03"/>　　大鑑下第三十一世
+<lb ed="X" n="0390b04"/>治平鐵壁機禪師法嗣
+<lb ed="X" n="0390b05"/>　汾陽覺天燈啟禪師　竹菴般若燈譜禪師
+<lb ed="X" n="0390b06"/>　牛首雲巖燈映禪師　潭州萬峰至善禪師
+<lb ed="X" n="0390b07"/>　治平竺峰幻敏禪師　桐山普門燈顯禪師
+<lb ed="X" n="0390b08"/>　天元體如燈慧禪師　巫陽慈祥燈遠禪師
+<lb ed="X" n="0390b09"/>　天峰燈南禪師　惺徹燈法禪師
+<lb ed="X" n="0390b10"/>　天寧燈九禪師　慶忠燈向禪師
+<lb ed="X" n="0390b11"/>　大川燈濟禪師　暉白燈桂禪師
+<lb ed="X" n="0390b12"/>　四維禪師　天長禪師
+<lb ed="X" n="0390b13"/>　妙德尼燈鑑禪師　工部熊月崖居士
+<lb ed="X" n="0390b14"/>　總憲吳天谷居士　按察文葦菴居士
+<lb ed="X" n="0390b15"/>　長陽侯胡屏山居士　副戎王一喝居士
+<lb ed="X" n="0390b16"/>萬松慧芝禪師法嗣
+<lb ed="X" n="0390b17"/>　雲巖燈古禪師　聚雲燈世禪師
+<lb ed="X" n="0390b18"/>　岫崖燈燎禪師
+<lb ed="X" n="0390b19"/>寶峰鐵眉麗禪師法嗣
+<lb ed="X" n="0390b20"/>　天寧燈嵩禪師　提督陳世凱居士
+<lb ed="X" n="0390b21"/>卷十九
+<lb ed="X" n="0390b22"/>臨濟宗
+<lb ed="X" n="0390b23"/>　　大鑑下第十七世
+<lb ed="X" n="0390b24"/>虎丘紹隆禪師法嗣
+<pb ed="X" id="X84.1582.0390c" n="0390c"/>
+<lb ed="X" n="0390c01"/>　天童曇華禪師
+<lb ed="X" n="0390c02"/>　　大鑑下第十八世
+<lb ed="X" n="0390c03"/>天童曇華禪師法嗣
+<lb ed="X" n="0390c04"/>　天童密菴咸傑禪師　光孝善登禪師
+<lb ed="X" n="0390c05"/>　南書記　侍郎李浩居士
+<lb ed="X" n="0390c06"/>　教授嚴康朝居士　鳳山守詮禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0390c07"/>　禾山心鑒禪師　智者滿禪師
+<lb ed="X" n="0390c08"/>　何山煥禪師
+<lb ed="X" n="0390c09"/>　　大鑑下第十九世
+<lb ed="X" n="0390c10"/>天童傑禪師法嗣
+<lb ed="X" n="0390c11"/>　靈隱崇嶽禪師　臥龍祖先禪師
+<lb ed="X" n="0390c12"/>　薦福道生禪師　天童自鏡禪師
+<lb ed="X" n="0390c13"/>　淨慈慧光禪師　隱靜致柔禪師
+<lb ed="X" n="0390c14"/>　靈隱了悟禪師　蔣山慶如禪師
+<lb ed="X" n="0390c15"/>　承天&CB04676;韶禪師　侍郎張鎡居士
+<lb ed="X" n="0390c16"/>　&CB00177;庭文<note place="inline">不列章次</note>　業海茂<note place="inline">無傳</note>
+<lb ed="X" n="0390c17"/>卷二十
+<lb ed="X" n="0390c18"/>臨濟宗
+<lb ed="X" n="0390c19"/>　　大鑑下第二十世
+<lb ed="X" n="0390c20"/>靈隱嶽禪師法嗣
+<lb ed="X" n="0390c21"/>　天童文禮禪師　道場普巖禪師
+<lb ed="X" n="0390c22"/>　金山善開禪師　華藏覺通禪師
+<lb ed="X" n="0390c23"/>　龍翔希璉禪師　瑞巖光睦禪師
+<lb ed="X" n="0390c24"/>　道場悟心禪師　雪竇範禪師
+<pb ed="X" id="X84.1582.0391a" n="0391a"/>
+<lb ed="X" n="0391a01"/>　瑞巖嵒禪師　雪竇仲謙禪師
+<lb ed="X" n="0391a02"/>　淨慈道禪師　虎丘曇禪師
+<lb ed="X" n="0391a03"/>　諾菴肇禪師　秘監陸游居士
+<lb ed="X" n="0391a04"/>臥龍先禪師法嗣
+<lb ed="X" n="0391a05"/>　徑山師範禪師　靈隱法薰禪師
+<lb ed="X" n="0391a06"/>　雲居慈覺禪師　大慈道儔禪師
+<lb ed="X" n="0391a07"/>薦福生禪師法嗣
+<lb ed="X" n="0391a08"/>　徑山道&CB00287;禪師
+<lb ed="X" n="0391a09"/>天童自鏡禪師法嗣
+<lb ed="X" n="0391a10"/>　育王有照禪師　淨慈沅禪師
+<lb ed="X" n="0391a11"/>　法石智禪師　西禪圓禪師
+<lb ed="X" n="0391a12"/>　報恩先禪師　公安錫禪師
+<lb ed="X" n="0391a13"/>　岊翁淳禪師　鼓山元智禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0391a14"/>　無巳謙禪師
+<lb ed="X" n="0391a15"/>隱靜致柔禪師法嗣
+<lb ed="X" n="0391a16"/>　虎丘元禪師
+<lb ed="X" n="0391a17"/>卷二十一
+<lb ed="X" n="0391a18"/>臨濟宗
+<lb ed="X" n="0391a19"/>　　大鑑下第二十一世
+<lb ed="X" n="0391a20"/>天童禮禪師法嗣
+<lb ed="X" n="0391a21"/>　育王如珙禪師　淨慈行鞏禪師
+<lb ed="X" n="0391a22"/>　天寧衍禪師　虎丘靖禪師
+<lb ed="X" n="0391a23"/>　翠巖守真禪<note place="inline">此後無傳</note>　月庭華禪師
+<lb ed="X" n="0391a24"/>道場普巖禪師法嗣
+<pb ed="X" id="X84.1582.0391b" n="0391b"/>
+<lb ed="X" n="0391b01"/>　徑山智愚禪師　天童衍禪師
+<lb ed="X" n="0391b02"/>金山開禪師法嗣
+<lb ed="X" n="0391b03"/>　徑山心月禪師
+<lb ed="X" n="0391b04"/>華藏通禪師法嗣
+<lb ed="X" n="0391b05"/>　徑山&CB00980;舟度禪師
+<lb ed="X" n="0391b06"/>瑞巖嵒禪師法嗣
+<lb ed="X" n="0391b07"/>　萬壽辯禪師　虎丘義禪師
+<lb ed="X" n="0391b08"/>雪竇謙禪師法嗣
+<lb ed="X" n="0391b09"/>　承天夢真禪師　慧巖泳禪師
+<lb ed="X" n="0391b10"/>　一關溥禪師　國清澤禪師
+<lb ed="X" n="0391b11"/>　雪竇昭禪師
+<lb ed="X" n="0391b12"/>淨慈道禪師法嗣
+<lb ed="X" n="0391b13"/>　萬壽嶽禪師　仰山無禪信禪師<note place="inline">無傳</note>
+<lb ed="X" n="0391b14"/>徑山範禪師法嗣
+<lb ed="X" n="0391b15"/>　仰山祖欽禪師
+<lb ed="X" n="0391b16"/>卷二十二
+<lb ed="X" n="0391b17"/>臨濟宗
+<lb ed="X" n="0391b18"/>　　大鑑下第二十一世
+<lb ed="X" n="0391b19"/>徑山範禪師法嗣
+<lb ed="X" n="0391b20"/>　淨慈妙倫禪師　天童了慧禪師
+<lb ed="X" n="0391b21"/>　靈隱寧禪師　天童祖智禪師
+<lb ed="X" n="0391b22"/>　雪峰一禪師　天童明禪師
+<lb ed="X" n="0391b23"/>　雪竇紹曇禪師　雪峰可湘禪師
+<lb ed="X" n="0391b24"/>　光孝輝禪師　國清源禪師
+<pb ed="X" id="X84.1582.0391c" n="0391c"/>
+<lb ed="X" n="0391c01"/>　東林直禪師　無學元禪師<note place="inline">此後不列章次</note>
+<lb ed="X" n="0391c02"/>　江心元菴寧禪師　雪竇方巖垠禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0391c03"/>　東山日禪師　石梁忠禪師
+<lb ed="X" n="0391c04"/>　頑石玉禪師　劍關益禪師
+<lb ed="X" n="0391c05"/>　牧溪常禪師　松麓然禪師
+<lb ed="X" n="0391c06"/>靈隱薰禪師法嗣
+<lb ed="X" n="0391c07"/>　淨慈慧禪師　中竺珂禪師
+<lb ed="X" n="0391c08"/>　國清&CB00980;舟心禪師<note place="inline">此後無傳</note>　靈隱一如因禪師
+<lb ed="X" n="0391c09"/>徑山&CB00287;禪師法嗣
+<lb ed="X" n="0391c10"/>　神光隆禪師　高臺應禪師
+<lb ed="X" n="0391c11"/>　天童敬禪師
+<lb ed="X" n="0391c12"/>　育王頑極彌禪師<note place="inline">此後不列章次</note>　蔣山正叟心禪師
+<lb ed="X" n="0391c13"/>　淨慈無文傳禪師　石霜西溪心禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0391c14"/>　開先別翁甄禪師　艮山沂禪師
+<lb ed="X" n="0391c15"/>　東山東岡省禪師
+<lb ed="X" n="0391c16"/>育王照禪師法嗣
+<lb ed="X" n="0391c17"/>　道場介清禪師
+<lb ed="X" n="0391c18"/>　　大鑑下第二十二世
+<lb ed="X" n="0391c19"/>育王珙禪師法嗣
+<lb ed="X" n="0391c20"/>　薦福妙道禪師　保寧清茂禪師
+<lb ed="X" n="0391c21"/>　天衣覺恩禪師
+<lb ed="X" n="0391c22"/>淨慈鞏禪師法嗣
+<lb ed="X" n="0391c23"/>　靈隱德海禪師　天寧景曇禪師
+<lb ed="X" n="0391c24"/>　虎丘壽永禪師
+<pb ed="X" id="X84.1582.0392a" n="0392a"/>
+<lb ed="X" n="0392a01"/>徑山愚禪師法嗣
+<lb ed="X" n="0392a02"/>　虎丘雲禪師　定水妙源禪師
+<lb ed="X" n="0392a03"/>　靈石芝禪師<note place="inline">無傳</note>
+<lb ed="X" n="0392a04"/>徑山月禪師法嗣
+<lb ed="X" n="0392a05"/>　南叟茂禪師　雲谷慶禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0392a06"/>　明巖徹禪師　北堂森禪師
+<lb ed="X" n="0392a07"/>　南洲珍禪師
+<lb ed="X" n="0392a08"/>徑山度禪師法嗣
+<lb ed="X" n="0392a09"/>　徑山淨伏禪師　天童坦禪師
+<lb ed="X" n="0392a10"/>　玉山德珍禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0392a11"/>承天真禪師法嗣
+<lb ed="X" n="0392a12"/>　澤山咸禪師<note place="inline">無傳</note>
+<lb ed="X" n="0392a13"/>卷二十三
+<lb ed="X" n="0392a14"/>臨濟宗
+<lb ed="X" n="0392a15"/>　　大鑑下第二十二世
+<lb ed="X" n="0392a16"/>仰山欽禪師法嗣
+<lb ed="X" n="0392a17"/>　天目原妙禪師　靈雲持定禪師
+<lb ed="X" n="0392a18"/>　徑山希陵禪師　能仁圓至禪師
+<lb ed="X" n="0392a19"/>　鐵山瓊禪師　匡山原禪師<note place="inline">此後不列章次</note>
+<lb ed="X" n="0392a20"/>　默翁一禪師　海印如禪師
+<lb ed="X" n="0392a21"/>　陡涯戒禪師　道場信禪師
+<lb ed="X" n="0392a22"/>淨慈倫禪師法嗣
+<lb ed="X" n="0392a23"/>　瑞巖寶禪師　絕象鑑禪師
+<lb ed="X" n="0392a24"/>　永宗本禪師　竹屋簡禪師
+<pb ed="X" id="X84.1582.0392b" n="0392b"/>
+<lb ed="X" n="0392b01"/>　古田垕禪師<note place="inline">不列章次</note>　雪山曇禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0392b02"/>　竹山圭禪師　藏室珍禪師
+<lb ed="X" n="0392b03"/>天童慧禪師法嗣
+<lb ed="X" n="0392b04"/>　天童淨日禪師　月&CB00589;明禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0392b05"/>　本翁訥禪師<note place="inline">無傳</note>
+<lb ed="X" n="0392b06"/>雪峰湘禪師法嗣
+<lb ed="X" n="0392b07"/>　開元斷巖妙恩禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0392b08"/>　大圭&CB15471;禪師　開元正悟契祖禪師
+<lb ed="X" n="0392b09"/>無學原禪師法嗣
+<lb ed="X" n="0392b10"/>　蔣山忠禪師　高峰日禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0392b11"/>　方外圓禪師<note place="inline">無傳</note>
+<lb ed="X" n="0392b12"/>江心寧禪師法嗣
+<lb ed="X" n="0392b13"/>　大夢意禪師<note place="inline">無傳</note>
+<lb ed="X" n="0392b14"/>育王彌禪師法嗣
+<lb ed="X" n="0392b15"/>　育王德明禪師
+<lb ed="X" n="0392b16"/>蔣山心禪師法嗣
+<lb ed="X" n="0392b17"/>　玉&CB00589;璁禪師<note place="inline">此後無傳</note>　重叟慶禪師
+<lb ed="X" n="0392b18"/>淨慈傳禪師法嗣
+<lb ed="X" n="0392b19"/>　三塔至美禪師
+<lb ed="X" n="0392b20"/>　　大鑑下第二十三世
+<lb ed="X" n="0392b21"/>薦嚴道禪師法嗣
+<lb ed="X" n="0392b22"/>　瑞嚴無慍禪師　徑山興禪師
+<lb ed="X" n="0392b23"/>　天童一禪師　保福一菴如禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0392b24"/>　木菴聰禪師　壽昌別源源禪師
+<pb ed="X" id="X84.1582.0392c" n="0392c"/>
+<lb ed="X" n="0392c01"/>　靈石古帆新禪師
+<lb ed="X" n="0392c02"/>卷二十四
+<lb ed="X" n="0392c03"/>臨濟宗
+<lb ed="X" n="0392c04"/>　　大鑑下第二十三世
+<lb ed="X" n="0392c05"/>保寧茂禪師法嗣
+<lb ed="X" n="0392c06"/>　靈巖清欲禪師　清&CB00289;懋禪師
+<lb ed="X" n="0392c07"/>　僊巖猷禪師　定慧因禪師
+<lb ed="X" n="0392c08"/>　龍華海禪師　靈江浩禪師<note place="inline">無傳</note>
+<lb ed="X" n="0392c09"/>靈隱海禪師法嗣
+<lb ed="X" n="0392c10"/>　徑山顏禪師　斗峰正璋禪師
+<lb ed="X" n="0392c11"/>　明因湛禪師　育王慧照禪師
+<lb ed="X" n="0392c12"/>　徑山鏡禪師　育王悟光禪師
+<lb ed="X" n="0392c13"/>　明巖太古熙禪師<note place="inline">此後無傳</note>　中行復禪師
+<lb ed="X" n="0392c14"/>　海會枯木子榮禪師
+<lb ed="X" n="0392c15"/>天寧曇禪師法嗣
+<lb ed="X" n="0392c16"/>　三空道人
+<lb ed="X" n="0392c17"/>徑山伏禪師法嗣
+<lb ed="X" n="0392c18"/>　徑山悅禪師　育王正印禪師
+<lb ed="X" n="0392c19"/>　靈隱孤朗明禪師<note place="inline">此後不列章次</note>　定明習禪師
+<lb ed="X" n="0392c20"/>　即休了禪師<note place="inline">此後無傳</note>　明極峻禪師
+<lb ed="X" n="0392c21"/>　別岸舟禪師　無際本禪師
+<lb ed="X" n="0392c22"/>天童坦禪師法嗣
+<lb ed="X" n="0392c23"/>　天界懷信禪師　天寧明牧禪師
+<lb ed="X" n="0392c24"/>　正宗庄禪師<note place="inline">此後不列章次</note>　華國文禪師
+<pb ed="X" id="X84.1582.0393a" n="0393a"/>
+<lb ed="X" n="0393a01"/>　天宇定禪師
+<lb ed="X" n="0393a02"/>玉山珍禪師法嗣
+<lb ed="X" n="0393a03"/>　蔣山忠禪師
+<lb ed="X" n="0393a04"/>卷二十五
+<lb ed="X" n="0393a05"/>臨濟宗
+<lb ed="X" n="0393a06"/>　　大鑑下第二十三世
+<lb ed="X" n="0393a07"/>天目妙禪師法嗣
+<lb ed="X" n="0393a08"/>　天目明本禪師　正宗了義禪師
+<lb ed="X" n="0393a09"/>　大覺祖雍禪師　禪智以假禪師
+<lb ed="X" n="0393a10"/>　若初禪師<note place="inline">無傳</note>
+<lb ed="X" n="0393a11"/>靈雲定禪師法嗣
+<lb ed="X" n="0393a12"/>　般若世誠禪師　圓極規禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0393a13"/>　古庭越禪師
+<lb ed="X" n="0393a14"/>徑山陵禪師法嗣
+<lb ed="X" n="0393a15"/>　寶林紹大禪師　徑山正源禪師
+<lb ed="X" n="0393a16"/>　智者了然義禪師<note place="inline">此後不列章次</note>　空海念禪師
+<lb ed="X" n="0393a17"/>　覺隱本誠禪師<note place="inline">此後無傳</note>　慧雲木巖植禪師
+<lb ed="X" n="0393a18"/>道場信禪師法嗣
+<lb ed="X" n="0393a19"/>　福源清珙禪師　羅山至剛禪師
+<lb ed="X" n="0393a20"/>　淨慈處林禪師
+<lb ed="X" n="0393a21"/>匡山源禪師法嗣
+<lb ed="X" n="0393a22"/>　海門惟則禪師
+<lb ed="X" n="0393a23"/>瑞巖寶禪師法嗣
+<lb ed="X" n="0393a24"/>　華頂先&CB00418;禪師　松巖元湛禪師
+<pb ed="X" id="X84.1582.0393b" n="0393b"/>
+<lb ed="X" n="0393b01"/>　鳳山靈禪師　天台丁生居士
+<lb ed="X" n="0393b02"/>　鏡堂古禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0393b03"/>竹屋簡禪師法嗣
+<lb ed="X" n="0393b04"/>　如翁申禪師<note place="inline">此後無傳</note>　無禪海禪師
+<lb ed="X" n="0393b05"/>古田垕禪師法嗣
+<lb ed="X" n="0393b06"/>　東&CB00589;珣禪師<note place="inline">無傳</note>
+<lb ed="X" n="0393b07"/>天童日禪師法嗣
+<lb ed="X" n="0393b08"/>　天童砥禪師　此堂澄禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0393b09"/>　大愚安禪師　止堂定禪師
+<lb ed="X" n="0393b10"/>　無日宣禪師
+<lb ed="X" n="0393b11"/>月&CB00589;明禪師法嗣
+<lb ed="X" n="0393b12"/>　東山崇禪師<note place="inline">無傳</note>
+<lb ed="X" n="0393b13"/>開元恩禪師法嗣
+<lb ed="X" n="0393b14"/>　大圭禪師<note place="inline">此後無傳</note>　契祖禪師
+<lb ed="X" n="0393b15"/>　&CB15471;道者
+<lb ed="X" n="0393b16"/>開元祖禪師法嗣
+<lb ed="X" n="0393b17"/>　開元佛杲如照禪師<note place="inline">無傳</note>
+<lb ed="X" n="0393b18"/>高峰日禪師法嗣
+<lb ed="X" n="0393b19"/>　南禪智曤禪師
+<lb ed="X" n="0393b20"/>卷二十六
+<lb ed="X" n="0393b21"/>臨濟宗
+<lb ed="X" n="0393b22"/>　　大鑑下第二十四世
+<lb ed="X" n="0393b23"/>瑞巖慍禪師法嗣
+<lb ed="X" n="0393b24"/>　雙林玄頂禪師<note place="inline">此後不列章次</note>　南明韞中瑄禪師
+<pb ed="X" id="X84.1582.0393c" n="0393c"/>
+<lb ed="X" n="0393c01"/>天童一禪師法嗣
+<lb ed="X" n="0393c02"/>　雲居普莊禪師
+<lb ed="X" n="0393c03"/>壽昌源禪師法嗣
+<lb ed="X" n="0393c04"/>　天童原良禪師
+<lb ed="X" n="0393c05"/>靈巖欲禪師法嗣
+<lb ed="X" n="0393c06"/>　蘭江楚禪師<note place="inline">此後無傳</note>　穆菴康禪師
+<lb ed="X" n="0393c07"/>育王照禪師法嗣
+<lb ed="X" n="0393c08"/>　契菴德禪師<note place="inline">無傳</note>
+<lb ed="X" n="0393c09"/>育王光禪師法嗣
+<lb ed="X" n="0393c10"/>　忍菴慈禪師<note place="inline">無傳</note>
+<lb ed="X" n="0393c11"/>徑山悅禪師法嗣
+<lb ed="X" n="0393c12"/>　靈隱來復禪師
+<lb ed="X" n="0393c13"/>育王印禪師法嗣
+<lb ed="X" n="0393c14"/>　南洲藻禪師<note place="inline">無傳</note>
+<lb ed="X" n="0393c15"/>靈隱明禪師法嗣
+<lb ed="X" n="0393c16"/>　淨慈可授禪師
+<lb ed="X" n="0393c17"/>定明習禪師法嗣
+<lb ed="X" n="0393c18"/>　秋江靜禪師<note place="inline">無傳</note>
+<lb ed="X" n="0393c19"/>天界信禪師法嗣
+<lb ed="X" n="0393c20"/>　江心慧恩禪師　南翁致凱禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0393c21"/>　天敘宗秩禪師　大慈寶定禪師
+<lb ed="X" n="0393c22"/>　寶璋禪師　瑞巖文淵禪師
+<lb ed="X" n="0393c23"/>　翠山志理禪師　淨土永顯禪師
+<lb ed="X" n="0393c24"/>　定光文摭禪師　妙智淨琚禪師
+<pb ed="X" id="X84.1582.0394a" n="0394a"/>
+<lb ed="X" n="0394a01"/>　明晟禪師　天華士謙禪師
+<lb ed="X" n="0394a02"/>　聖泉普&CB02351;禪師　豐安至慶禪師
+<lb ed="X" n="0394a03"/>　福泉道選禪師　五峰普錫禪師
+<lb ed="X" n="0394a04"/>　石門永泰禪師　霞嶼元良禪師
+<lb ed="X" n="0394a05"/>　廣祐永環禪師
+<lb ed="X" n="0394a06"/>正宗庄禪師法嗣
+<lb ed="X" n="0394a07"/>　竺芳聯禪師<note place="inline">無傳</note>
+<lb ed="X" n="0394a08"/>天寧牧禪師法嗣
+<lb ed="X" n="0394a09"/>　如愚慧禪師<note place="inline">無傳</note>
+<lb ed="X" n="0394a10"/>蔣山忠禪師法嗣
+<lb ed="X" n="0394a11"/>　壽巖椿禪師<note place="inline">不列章次</note>　西源達禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0394a12"/>　圓宗性禪師　西隱祖禪師
+<lb ed="X" n="0394a13"/>天目本禪師法嗣
+<lb ed="X" n="0394a14"/>　伏龍元長禪師　獅林惟則禪師
+<lb ed="X" n="0394a15"/>　建長印原禪師　妙峰玄禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0394a16"/>　頑石瑱禪師　南詔玄鑑禪師
+<lb ed="X" n="0394a17"/>　魏公趙子昂居士　丞相馮海粟居士
+<lb ed="X" n="0394a18"/>　龍塘得喜
+<lb ed="X" n="0394a19"/>禪智假禪師法嗣
+<lb ed="X" n="0394a20"/>　寂照光禪師<note place="inline">此後無傳</note>　嬾菴勤禪師
+<lb ed="X" n="0394a21"/>般若誠禪師法嗣
+<lb ed="X" n="0394a22"/>　高仰正友禪師
+<lb ed="X" n="0394a23"/>徑山源禪師法嗣
+<lb ed="X" n="0394a24"/>　天澤德禪師<note place="inline">此後無傳</note>　廣化圓伊禪師
+<pb ed="X" id="X84.1582.0394b" n="0394b"/>
+<lb ed="X" n="0394b01"/>　本覺文煜禪師　興聖宗德禪師
+<lb ed="X" n="0394b02"/>　承天道瓊禪師　淨光智聚禪師
+<lb ed="X" n="0394b03"/>　大慈上座
+<lb ed="X" n="0394b04"/>智者義禪師法嗣
+<lb ed="X" n="0394b05"/>　淨慈普仁禪師
+<lb ed="X" n="0394b06"/>空海念禪師法嗣
+<lb ed="X" n="0394b07"/>　竺先原禪師<note place="inline">此後無傳</note>　景徽猷禪師
+<lb ed="X" n="0394b08"/>石屋珙禪師法嗣
+<lb ed="X" n="0394b09"/>　高麗太古愚禪師<note place="inline">無傳</note>
+<lb ed="X" n="0394b10"/>淨慈林禪師法嗣
+<lb ed="X" n="0394b11"/>　止菴德祥禪師　天界夷簡禪師
+<lb ed="X" n="0394b12"/>海門則禪師法嗣
+<lb ed="X" n="0394b13"/>　白蓮智安禪師　智旻上座<note place="inline">無傳</note>
+<lb ed="X" n="0394b14"/>華頂&CB00418;禪師法嗣
+<lb ed="X" n="0394b15"/>　福林智度禪師
+<lb ed="X" n="0394b16"/>鏡堂古禪師法嗣
+<lb ed="X" n="0394b17"/>　則中度禪師<note place="inline">無傳</note>
+<lb ed="X" n="0394b18"/>天童砥禪師法嗣
+<lb ed="X" n="0394b19"/>　大梅文述禪師
+<lb ed="X" n="0394b20"/>開元照禪師法嗣
+<lb ed="X" n="0394b21"/>　開元夢觀大圭禪師<note place="inline">無傳</note>
+<lb ed="X" n="0394b22"/>南禪知曤禪師法嗣
+<lb ed="X" n="0394b23"/>　志玄禪師<note place="inline">此後無傳</note>　妙葩建長禪師
+<lb ed="X" n="0394b24"/>　南禪慈永禪師　通徹上座
+<pb ed="X" id="X84.1582.0394c" n="0394c"/>
+<lb ed="X" n="0394c01"/>　周澤
+<lb ed="X" n="0394c02"/>卷二十七
+<lb ed="X" n="0394c03"/>臨濟宗
+<lb ed="X" n="0394c04"/>　　大鑑下第二十五世
+<lb ed="X" n="0394c05"/>雙林頂禪師法嗣
+<lb ed="X" n="0394c06"/>　無學念禪師<note place="inline">無傳</note>
+<lb ed="X" n="0394c07"/>壽巖椿禪師法嗣
+<lb ed="X" n="0394c08"/>　昭然義禪師<note place="inline">此後無傳</note>　象山旋禪師
+<lb ed="X" n="0394c09"/>　兜率陰禪師　寂菴寧禪師
+<lb ed="X" n="0394c10"/>伏龍長禪師法嗣
+<lb ed="X" n="0394c11"/>　鄧尉時蔚禪師　松隱德然禪師
+<lb ed="X" n="0394c12"/>　清隱德馨禪師　天龍守貴禪師
+<lb ed="X" n="0394c13"/>　華山昌禪師　般若法秀禪師
+<lb ed="X" n="0394c14"/>高仰友禪師法嗣
+<lb ed="X" n="0394c15"/>　金山濟禪師　一峰寧禪師
+<lb ed="X" n="0394c16"/>淨慈仁禪師法嗣
+<lb ed="X" n="0394c17"/>　智者志文禪師<note place="inline">此後無傳</note>　景德原昭禪師
+<lb ed="X" n="0394c18"/>白蓮安禪師法嗣
+<lb ed="X" n="0394c19"/>　正傳景隆禪師
+<lb ed="X" n="0394c20"/>福林度禪師法嗣
+<lb ed="X" n="0394c21"/>　天界俊禪師　太守何密菴居士<note place="inline">不列章次</note>
+<lb ed="X" n="0394c22"/>　　大鑑下第二十六世
+<lb ed="X" n="0394c23"/>萬峰尉禪師法嗣
+<lb ed="X" n="0394c24"/>　鄧尉普持禪師　九峰勝學禪師
+<pb ed="X" id="X84.1582.0395a" n="0395a"/>
+<lb ed="X" n="0395a01"/>　海舟慈禪師　果林首座
+<lb ed="X" n="0395a02"/>　天界翠峰華禪師<note place="inline">此後無傳</note>　蘇州虎丘圓禪師
+<lb ed="X" n="0395a03"/>　雪山熙禪師　寶峰真禪師
+<lb ed="X" n="0395a04"/>　日照慧禪師　因禪人
+<lb ed="X" n="0395a05"/>　清首座　源首座
+<lb ed="X" n="0395a06"/>　悟首座　性海真禪師
+<lb ed="X" n="0395a07"/>　虎丘現禪師　靈隱妙藏主
+<lb ed="X" n="0395a08"/>　徑山照主藏主　就上人
+<lb ed="X" n="0395a09"/>松隱然禪師法嗣
+<lb ed="X" n="0395a10"/>　道安禪師　大川順禪師<note place="inline">無傳</note>
+<lb ed="X" n="0395a11"/>金山濟禪師法嗣
+<lb ed="X" n="0395a12"/>　壽昌本來禪師　無能教禪師<note place="inline">無傳</note>
+<lb ed="X" n="0395a13"/>一峰寧禪師法嗣
+<lb ed="X" n="0395a14"/>　獨空通禪師<note place="inline">無傳</note>　雲外超禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0395a15"/>正傳隆禪師法嗣
+<lb ed="X" n="0395a16"/>　廣化文盛禪師<note place="inline">無傳</note>
+<lb ed="X" n="0395a17"/>天界俊禪師法嗣
+<lb ed="X" n="0395a18"/>　無際悟禪師　伏牛圓信禪師
+<lb ed="X" n="0395a19"/>　幽棲如皎禪師　無隱道禪師<note place="inline">無傳</note>
+<lb ed="X" n="0395a20"/>何密菴居士法嗣
+<lb ed="X" n="0395a21"/>　田素菴居士
+<lb ed="X" n="0395a22"/>卷二十八
+<lb ed="X" n="0395a23"/>臨濟宗
+<lb ed="X" n="0395a24"/>　　大鑑下第二十七世
+<pb ed="X" id="X84.1582.0395b" n="0395b"/>
+<lb ed="X" n="0395b01"/>鄧尉持禪師法嗣
+<lb ed="X" n="0395b02"/>　東明旵禪師　物初宗綱禪師<note place="inline">無傳</note>
+<lb ed="X" n="0395b03"/>九峰學禪師法嗣
+<lb ed="X" n="0395b04"/>　本首座<note place="inline">不列章次</note>
+<lb ed="X" n="0395b05"/>壽昌來禪師法嗣
+<lb ed="X" n="0395b06"/>　天界會中禪師
+<lb ed="X" n="0395b07"/>無際悟禪師法嗣
+<lb ed="X" n="0395b08"/>　投子紹琦禪師　古庭善堅禪師
+<lb ed="X" n="0395b09"/>　太岡月溪澄禪師<note place="inline">此後不列章次</note>　廣善寶月潭禪師
+<lb ed="X" n="0395b10"/>　西禪雪峰瑞禪師　天寧日溪泳禪師
+<lb ed="X" n="0395b11"/>　壞空成禪師　妙峰玄禪師
+<lb ed="X" n="0395b12"/>　無為禪師　德翁淳禪師
+<lb ed="X" n="0395b13"/>　無礙鑑禪師　潔空通禪師
+<lb ed="X" n="0395b14"/>　不二圓禪師<note place="inline">此後無傳</note>　大&CB00980;&CB00287;禪師
+<lb ed="X" n="0395b15"/>素菴田居士法嗣
+<lb ed="X" n="0395b16"/>　佛蹟真禪師　和菴忠禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0395b17"/>　四明堪禪師<note place="inline">無傳</note>
+<lb ed="X" n="0395b18"/>　　大鑑下第二十八世
+<lb ed="X" n="0395b19"/>東明旵禪師法嗣
+<lb ed="X" n="0395b20"/>　金陵永慈禪師　月江覺淨禪師
+<lb ed="X" n="0395b21"/>天界中禪師法嗣
+<lb ed="X" n="0395b22"/>　君峰慧通禪師
+<lb ed="X" n="0395b23"/>本首座法嗣
+<lb ed="X" n="0395b24"/>　義首座<note place="inline">無傳</note>
+<pb ed="X" id="X84.1582.0395c" n="0395c"/>
+<lb ed="X" n="0395c01"/>投子琦禪師法嗣
+<lb ed="X" n="0395c02"/>　金山寶禪師　唐安奫禪師
+<lb ed="X" n="0395c03"/>　大雲興禪師　石經祖意禪師
+<lb ed="X" n="0395c04"/>　長松真源禪師　大悲智中禪師
+<lb ed="X" n="0395c05"/>　中溪昌雲禪師　石經祖&CB05769;禪師
+<lb ed="X" n="0395c06"/>　三池常慧禪師　翠微悟空能禪師
+<lb ed="X" n="0395c07"/>　高座覺澄禪師　珪菴祖玠禪師
+<lb ed="X" n="0395c08"/>　無極性空聞禪師<note place="inline">語見後卷</note>　性空悅禪師<note place="inline">此後不列章次</note>
+<lb ed="X" n="0395c09"/>　汝寧真空悟禪師　山西海雲深禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0395c10"/>　廣恩天溪凝禪師　祖堂東昇昱禪師
+<lb ed="X" n="0395c11"/>　金臺祖燈然禪師　碧峰古林茂禪師
+<lb ed="X" n="0395c12"/>　四面瑞宗祥禪師　浮山秀峰雲禪師
+<lb ed="X" n="0395c13"/>　玉巖瓏禪師　南華毒菴善禪師
+<lb ed="X" n="0395c14"/>　山西淨空潔禪師　古渝濟川洪禪師
+<lb ed="X" n="0395c15"/>　金臺月明&CB00275;禪師　山西古燈慧禪師
+<lb ed="X" n="0395c16"/>　終南古愚&CB15223;禪師　東普慧燈然禪師
+<lb ed="X" n="0395c17"/>　金川理菴證禪師　金陵正宗恢禪師
+<lb ed="X" n="0395c18"/>　龍池定禪師　榮昌素菴理禪師
+<lb ed="X" n="0395c19"/>　洪山鏡禪師　清江普濟慈禪師
+<lb ed="X" n="0395c20"/>　金臺性海徵禪師　青原&CB00980;中恕禪師
+<lb ed="X" n="0395c21"/>　無方廣禪師　牛頭無照鑑禪師
+<lb ed="X" n="0395c22"/>　投子默菴如禪師　金臺寶山聚禪師
+<lb ed="X" n="0395c23"/>　方山雪梅芳禪師　金地大章文禪師
+<lb ed="X" n="0395c24"/>　大同天澤覺&CB00449;禪師　如山志禪師
+<pb ed="X" id="X84.1582.0396a" n="0396a"/>
+<lb ed="X" n="0396a01"/>　滄溟廣禪師　金臺寶巖貴師
+<lb ed="X" n="0396a02"/>　句容太初一禪師　龍巖寶淵淨潭禪師
+<lb ed="X" n="0396a03"/>　雲中本源道泉禪師　山東古宗印禪師
+<lb ed="X" n="0396a04"/>　桐菴志禪師　金臺歸源順禪師
+<lb ed="X" n="0396a05"/>　福州默傳心禪師　西岷鐵峰堅禪師
+<lb ed="X" n="0396a06"/>　金臺察菴祖省禪師　西山大光悟慧禪師
+<lb ed="X" n="0396a07"/>　鴛水徹堂德清禪師　<app><lem wit="【CBETA】" resp="CBETA.maha">陝</lem><rdg wit="【卍續】">陜</rdg></app>府月潭澂禪師
+<lb ed="X" n="0396a08"/>　西安雲谷興禪師　無極中禪師
+<lb ed="X" n="0396a09"/>　天成古音韶禪師　南溪本空祖法禪師
+<lb ed="X" n="0396a10"/>　平&CB00289;默宗宣禪師　蒲州碧峰玉禪師
+<lb ed="X" n="0396a11"/>　金臺濬禪師　河南靈&CB05445;禪師
+<lb ed="X" n="0396a12"/>　濟陽正宗鐸禪師　錦城光真寶禪師
+<lb ed="X" n="0396a13"/>　錦城正堂中禪師　眉陽古檀深熏禪師
+<lb ed="X" n="0396a14"/>　西山普門行禪師　大通重山理禪師
+<lb ed="X" n="0396a15"/>　五臺本宗正禪師　登州無學學禪師
+<lb ed="X" n="0396a16"/>　印宗南禪師　山西秀峰林禪師
+<lb ed="X" n="0396a17"/>　石經白雲祖閒禪師　<app><lem wit="【CBETA】" resp="CBETA.maha">陝</lem><rdg wit="【卍續】">陜</rdg></app>府玉峰如琳禪師
+<lb ed="X" n="0396a18"/>　三池一菴誠禪師　<app><lem wit="【CBETA】" resp="CBETA.maha">陝</lem><rdg wit="【卍續】">陜</rdg></app>府古源清澄禪師
+<lb ed="X" n="0396a19"/>　廬陵&CB00980;堂照禪師　吉水淨菴真蓮禪師
+<lb ed="X" n="0396a20"/>　石經儉堂節禪師　汴梁大愚哲禪師
+<lb ed="X" n="0396a21"/>　金臺空海湛禪師　梁卿翠屏景禪師
+<lb ed="X" n="0396a22"/>　懷慶隱山賢禪師　金川無學選禪師
+<lb ed="X" n="0396a23"/>　鎧江海東明禪師　西寧道安學禪師
+<lb ed="X" n="0396a24"/>　鳳山月庭繼曉禪師　平易絕流源禪師
+<pb ed="X" id="X84.1582.0396b" n="0396b"/>
+<lb ed="X" n="0396b01"/>　錦江古宗傳禪師　保定月山鞏禪師
+<lb ed="X" n="0396b02"/>　山西無塵鑑禪師　滇池大空能禪師
+<lb ed="X" n="0396b03"/>　雲南靜山仁禪師　京兆古峰恒玄禪師
+<lb ed="X" n="0396b04"/>　山西天然富禪師　敘南太&CB00980;杲禪師
+<lb ed="X" n="0396b05"/>　金陵古道懷禪師　渭南義堂恩禪師
+<lb ed="X" n="0396b06"/>　蒲田夢堂覺禪師　臨潼空源達禪師
+<lb ed="X" n="0396b07"/>　汴梁翠峰巒禪師　方山天然貴禪師
+<lb ed="X" n="0396b08"/>　京兆南山壽禪師　中川古巖定禪師
+<lb ed="X" n="0396b09"/>　彭城岳宗淨泰禪師　河間大&CB15300;慧禪師
+<lb ed="X" n="0396b10"/>　鳳鳴曉東如亮禪師　大&CB00777;古愚賢禪師
+<lb ed="X" n="0396b11"/>　天彭東溟昌福禪師　圓覺景雲山禪師
+<lb ed="X" n="0396b12"/>　&CB15549;苑祖庭鎮禪師　金堂大菴頂禪師
+<lb ed="X" n="0396b13"/>　金臺雪天傲禪師　保定夢亭覺禪師
+<lb ed="X" n="0396b14"/>　&CB00409;海智光道杲禪師　潼關&CB15300;堂清能禪師
+<lb ed="X" n="0396b15"/>　河南慈航海禪師　金臺大休能禪師
+<lb ed="X" n="0396b16"/>　玉山潤禪師　古宗興禪師
+<lb ed="X" n="0396b17"/>　義堂忠禪師　平陽崑山玉禪師
+<lb ed="X" n="0396b18"/>　雪堂安禪師　蓉城澤堂惠禪師
+<lb ed="X" n="0396b19"/>　金臺荊山玉禪師　錦城洽堂溥禪師
+<lb ed="X" n="0396b20"/>　巴山瑩然玉禪師　滇水淨光潔禪師
+<lb ed="X" n="0396b21"/>　贛州南宗旺禪師　東普輔宗德禪師
+<lb ed="X" n="0396b22"/>　山東鷲峰來禪師　襄城古道弘禪師
+<lb ed="X" n="0396b23"/>　淄州壽峰增禪師　錦川體空智禪師
+<lb ed="X" n="0396b24"/>　<app><lem wit="【CBETA】" resp="CBETA.maha">陝</lem><rdg wit="【卍續】">陜</rdg></app>府無相鏡禪師　宛平無聽定聰禪師
+<pb ed="X" id="X84.1582.0396c" n="0396c"/>
+<lb ed="X" n="0396c01"/>　保定大緣因禪師　東菜古田疇禪師
+<lb ed="X" n="0396c02"/>　京兆古梅巖禪師　溫州察堂聰禪師
+<lb ed="X" n="0396c03"/>　凱江大用興禪師　懷慶瑞宗&CB08525;禪師
+<lb ed="X" n="0396c04"/>　金臺翠巖林禪師　金臺東來昶禪師
+<lb ed="X" n="0396c05"/>　京兆佛心遇禪師　金臺雲峰秀禪師
+<lb ed="X" n="0396c06"/>　東魯鎮宗永禪師　&CB00409;海天然貴禪師
+<lb ed="X" n="0396c07"/>　洛陽本然善禪師　金陵古芳林禪師
+<lb ed="X" n="0396c08"/>　&CB06208;同素天純禪師　<app><lem wit="【CBETA】" resp="CBETA.maha">陝</lem><rdg wit="【卍續】">陜</rdg></app>右月堂明禪師
+<lb ed="X" n="0396c09"/>　普州大機廣禪師　開封大方廣禪師
+<lb ed="X" n="0396c10"/>　山東慧堂聰禪師　南陽&CB08512;光慧禪師
+<lb ed="X" n="0396c11"/>　金臺平川海禪師　京兆無邊廣禪師
+<lb ed="X" n="0396c12"/>　金陡古燈然禪師　金臺金峰玉禪師
+<lb ed="X" n="0396c13"/>　醴泉敬堂嚴禪師　金臺古潭淨禪師
+<lb ed="X" n="0396c14"/>　同州寶明覺禪師　天成無相實禪師
+<lb ed="X" n="0396c15"/>　山西天全賦禪師　三溪祖峰定禪師
+<lb ed="X" n="0396c16"/>　巴山空天昶禪師　通州楚峰玉禪師
+<lb ed="X" n="0396c17"/>　嘉陽鐵心堅禪師　山西敬堂愛禪師
+<lb ed="X" n="0396c18"/>　慶陽本空明禪師　金臺逆舟順禪師
+<lb ed="X" n="0396c19"/>　漢繁瑩堂玉禪師　興化慧堂定禪師
+<lb ed="X" n="0396c20"/>　京兆大海澄禪師　高平大韶鏞禪師
+<lb ed="X" n="0396c21"/>　高籃無相圓禪師　蓉城止堂敬禪師
+<lb ed="X" n="0396c22"/>　瀘陽鼎菴鐘禪師　永川無心雲禪師
+<lb ed="X" n="0396c23"/>　普州玉峰金禪師　棠城古燈傳禪師
+<lb ed="X" n="0396c24"/>　保定天璧璽禪師　保定月&CB00589;深禪師
+<pb ed="X" id="X84.1582.0397a" n="0397a"/>
+<lb ed="X" n="0397a01"/>　金陵大機用禪師　<app><lem wit="【CBETA】" resp="CBETA.maha">陝</lem><rdg wit="【卍續】">陜</rdg></app>右指南端禪師
+<lb ed="X" n="0397a02"/>　渭南天峰秀禪師　瀘陽雪堂行禪師
+<lb ed="X" n="0397a03"/>　天彭月天澄禪師　碉門無傳印禪師
+<lb ed="X" n="0397a04"/>　內江百川會禪師　貴陽果堂成禪師
+<lb ed="X" n="0397a05"/>　新城月堂明禪師　凱江慧堂聰禪師
+<lb ed="X" n="0397a06"/>廣善潭禪師法嗣
+<lb ed="X" n="0397a07"/>　護國文全禪師　崇福覺華禪師
+<lb ed="X" n="0397a08"/>　伏牛德山禪師
+<lb ed="X" n="0397a09"/>　天寧默堂宣禪師<note place="inline">此後不列章次</note>　東方古&CB05769;禪師
+<lb ed="X" n="0397a10"/>　伏牛月天禪師　荊山理禪師
+<lb ed="X" n="0397a11"/>　了禪能禪師　潭懷圓禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0397a12"/>　敬堂宗禪師　徹堂&CB00287;禪師
+<lb ed="X" n="0397a13"/>大岡澄禪師法嗣
+<lb ed="X" n="0397a14"/>　天真季善禪師　普濟淨澄禪師
+<lb ed="X" n="0397a15"/>　大岡寧禪師　智林福湛禪師
+<lb ed="X" n="0397a16"/>　性天杲禪師<note place="inline">此後不列章次</note>　古心寶禪師
+<lb ed="X" n="0397a17"/>　峻中榮禪師　古心安禪師
+<lb ed="X" n="0397a18"/>　古潭碧禪師<note place="inline">此後無傳</note>　頂菴耐禪師
+<lb ed="X" n="0397a19"/>　洪山賢禪師　節堂全禪師
+<lb ed="X" n="0397a20"/>　千峰秀禪師
+<lb ed="X" n="0397a21"/>卷二十九
+<lb ed="X" n="0397a22"/>臨濟宗
+<lb ed="X" n="0397a23"/>　　大鑑下第二十八世
+<lb ed="X" n="0397a24"/>西禪瑞禪師法嗣
+<pb ed="X" id="X84.1582.0397b" n="0397b"/>
+<lb ed="X" n="0397b01"/>　棠城洪印禪師　東明昇禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0397b02"/>　無相真禪師　性空覺禪師
+<lb ed="X" n="0397b03"/>　南竺璚禪師　太初忍禪師
+<lb ed="X" n="0397b04"/>　天目秀禪師　淨慈南峰休禪師
+<lb ed="X" n="0397b05"/>古庭堅禪師法嗣
+<lb ed="X" n="0397b06"/>　顯通淨倫禪師
+<lb ed="X" n="0397b07"/>壞空成禪師法嗣
+<lb ed="X" n="0397b08"/>　光澤慧禪師<note place="inline">此後不列章次</note>　大用機禪師
+<lb ed="X" n="0397b09"/>　雲洲海禪師<note place="inline">此後無傳</note>　德章滿禪師
+<lb ed="X" n="0397b10"/>　素&CB00980;理禪師
+<lb ed="X" n="0397b11"/>妙峰玄禪師法嗣
+<lb ed="X" n="0397b12"/>　福緣廣禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0397b13"/>無為一禪師法嗣
+<lb ed="X" n="0397b14"/>　寶藏玉禪師<note place="inline">不列章次</note>　斷峰義禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0397b15"/>　祖圓通禪師
+<lb ed="X" n="0397b16"/>無礙鑑禪師法嗣
+<lb ed="X" n="0397b17"/>　無隱道禪師<note place="inline">此後不列章次</note>　獨潭昌禪師
+<lb ed="X" n="0397b18"/>　古巖定禪師　天竺秀禪師
+<lb ed="X" n="0397b19"/>　鐵牛勤禪師　無邊通禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0397b20"/>　海珠澄禪師　永空如禪師
+<lb ed="X" n="0397b21"/>潔空通禪師法嗣
+<lb ed="X" n="0397b22"/>　印空海禪師<note place="inline">此後不列章次</note>　德巖本禪師
+<lb ed="X" n="0397b23"/>　照堂默禪師　大慧華禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0397b24"/>　雪屏錦禪師　定菴能禪師
+<pb ed="X" id="X84.1582.0397c" n="0397c"/>
+<lb ed="X" n="0397c01"/>　無智真禪師　雪光通禪師
+<lb ed="X" n="0397c02"/>佛蹟真禪師法嗣
+<lb ed="X" n="0397c03"/>　白雲滄禪師　行菴柔禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0397c04"/>　佛蹟達禪師<note place="inline">此後無傳</note>　別峰藏禪師
+<lb ed="X" n="0397c05"/>　東山浩禪師　雪村盛禪師
+<lb ed="X" n="0397c06"/>　&CB00425;池清禪師
+<lb ed="X" n="0397c07"/>和菴忠禪師法嗣
+<lb ed="X" n="0397c08"/>　用剛宗軟禪師　寂菴潛禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0397c09"/>　玄關鑑禪師<note place="inline">無傳</note>
+<lb ed="X" n="0397c10"/>　　大鑑下第二十九世
+<lb ed="X" n="0397c11"/>金陵慈禪師法嗣
+<lb ed="X" n="0397c12"/>　寶峰明瑄禪師　太&CB00980;滿禪師
+<lb ed="X" n="0397c13"/>　雲溪智瑛禪師　天印能持禪師<note place="inline">此後不列章次</note>
+<lb ed="X" n="0397c14"/>　太&CB00980;智量禪師　曉山智昇禪師
+<lb ed="X" n="0397c15"/>　大乘碧峰清雲禪師　無相智空禪師
+<lb ed="X" n="0397c16"/>　無相智成禪師
+<lb ed="X" n="0397c17"/>大乘本禪師法嗣
+<lb ed="X" n="0397c18"/>　大乘清潤禪師<note place="inline">無傳</note>
+<lb ed="X" n="0397c19"/>印宗能禪師法嗣
+<lb ed="X" n="0397c20"/>　無牙順禪師<note place="inline">無傳</note>
+<lb ed="X" n="0397c21"/>君峰通禪師法嗣
+<lb ed="X" n="0397c22"/>　君峰清祥禪師　正法雪光禪師
+<lb ed="X" n="0397c23"/>大雲興禪師法嗣
+<lb ed="X" n="0397c24"/>　鐵牛堅禪師<note place="inline">無傳</note>
+<pb ed="X" id="X84.1582.0398a" n="0398a"/>
+<lb ed="X" n="0398a01"/>性空悅禪師法嗣
+<lb ed="X" n="0398a02"/>　大&CB15300;能禪師<note place="inline">此後無傳</note>　東巖亮禪師
+<lb ed="X" n="0398a03"/>高座澄禪師法嗣
+<lb ed="X" n="0398a04"/>　西宗祐禪師<note place="inline">此後無傳</note>　寂菴湛禪師
+<lb ed="X" n="0398a05"/>　照堂顏禪師
+<lb ed="X" n="0398a06"/>金山寶禪師法嗣
+<lb ed="X" n="0398a07"/>　破菴全禪師<note place="inline">無傳</note>
+<lb ed="X" n="0398a08"/>真空悟禪師法嗣
+<lb ed="X" n="0398a09"/>　無塵鏡禪師<note place="inline">此後無傳</note>　碧天朗禪師
+<lb ed="X" n="0398a10"/>伏牛山禪師法嗣
+<lb ed="X" n="0398a11"/>　古峰秀禪師<note place="inline">此後無傳</note>　伏牛斌禪師
+<lb ed="X" n="0398a12"/>天寧宣禪師法嗣
+<lb ed="X" n="0398a13"/>　徑山英禪師　吉菴祚禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0398a14"/>東方&CB05769;禪師法嗣
+<lb ed="X" n="0398a15"/>　天通碧峰顯禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0398a16"/>伏牛天禪師法嗣
+<lb ed="X" n="0398a17"/>　金臺大覺禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0398a18"/>荊山理禪師法嗣
+<lb ed="X" n="0398a19"/>　天倫義禪師<note place="inline">此後無傳</note>　古溪清禪師
+<lb ed="X" n="0398a20"/>了禪能禪師法嗣
+<lb ed="X" n="0398a21"/>　法幢金禪師<note place="inline">此後無傳</note>　寶藏通禪師
+<lb ed="X" n="0398a22"/>天真善禪師法嗣
+<lb ed="X" n="0398a23"/>　鏡堂明禪師<note place="inline">無傳</note>
+<lb ed="X" n="0398a24"/>大岡寧禪師法嗣
+<pb ed="X" id="X84.1582.0398b" n="0398b"/>
+<lb ed="X" n="0398b01"/>　天目進禪師
+<lb ed="X" n="0398b02"/>智林湛禪師法嗣
+<lb ed="X" n="0398b03"/>　實空昇禪師<note place="inline">此後不列章次</note>　祖堂興禪師
+<lb ed="X" n="0398b04"/>古心寶禪師法嗣
+<lb ed="X" n="0398b05"/>　無瑕鼐禪師<note place="inline">無傳</note>
+<lb ed="X" n="0398b06"/>性天杲禪師法嗣
+<lb ed="X" n="0398b07"/>　一菴如禪師<note place="inline">無傳</note>
+<lb ed="X" n="0398b08"/>峻牛嶸禪師法嗣
+<lb ed="X" n="0398b09"/>　天然正禪師<note place="inline">無傳</note>
+<lb ed="X" n="0398b10"/>古心安禪師法嗣
+<lb ed="X" n="0398b11"/>　春山景禪師<note place="inline">此後無傳</note>　無為順禪師
+<lb ed="X" n="0398b12"/>　中天表禪師
+<lb ed="X" n="0398b13"/>性空聞禪師法嗣<note place="inline">聞嗣投子琦&CB00386;列此</note>
+<lb ed="X" n="0398b14"/>　圓通湛覺禪師　余山月潭澄禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0398b15"/>　天然銳禪師<note place="inline">此後無傳</note>　曉天亮禪師
+<lb ed="X" n="0398b16"/>　濟舟&CB15147;禪師　悅舟和禪師
+<lb ed="X" n="0398b17"/>　無礙通禪師
+<lb ed="X" n="0398b18"/>東明昇禪師法嗣
+<lb ed="X" n="0398b19"/>　印天海禪師<note place="inline">此後無傳</note>　盛菴昌禪師
+<lb ed="X" n="0398b20"/>性空覺禪師法嗣
+<lb ed="X" n="0398b21"/>　徹空通禪師<note place="inline">此後無傳</note>　能上座
+<lb ed="X" n="0398b22"/>無相真禪師法嗣
+<lb ed="X" n="0398b23"/>　南宗勝禪師<note place="inline">此後無傳</note>　巖淨禪師
+<lb ed="X" n="0398b24"/>　能諒禪師　越空瑞禪師
+<pb ed="X" id="X84.1582.0398c" n="0398c"/>
+<lb ed="X" n="0398c01"/>南竺璚禪師法嗣
+<lb ed="X" n="0398c02"/>　古鏡明禪師<note place="inline">此後無傳</note>　寶鑑聰禪師
+<lb ed="X" n="0398c03"/>太初忍禪師法嗣
+<lb ed="X" n="0398c04"/>　無涯順禪師<note place="inline">此後無傳</note>　古靈山禪師
+<lb ed="X" n="0398c05"/>天目秀禪師法嗣
+<lb ed="X" n="0398c06"/>　雪巖清禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0398c07"/>淨慈休禪師法嗣
+<lb ed="X" n="0398c08"/>　昭慶雪庭禪師
+<lb ed="X" n="0398c09"/>光澤慧禪師法嗣
+<lb ed="X" n="0398c10"/>　壽堂松禪師<note place="inline">不列章次</note>　別傳宗禪師<note place="inline">無傳</note>
+<lb ed="X" n="0398c11"/>大用機禪師法嗣
+<lb ed="X" n="0398c12"/>　月光朗禪師<note place="inline">無傳</note>
+<lb ed="X" n="0398c13"/>福緣廣禪師法嗣
+<lb ed="X" n="0398c14"/>　祥雲谷禪師<note place="inline">無傳</note>
+<lb ed="X" n="0398c15"/>寶藏玉禪師法嗣
+<lb ed="X" n="0398c16"/>　月空大禪師<note place="inline">無傳</note>
+<lb ed="X" n="0398c17"/>無隱道禪師法嗣
+<lb ed="X" n="0398c18"/>　孤舟海禪師<note place="inline">此後無傳</note>　秋月澄禪師
+<lb ed="X" n="0398c19"/>獨潭昌禪師法嗣
+<lb ed="X" n="0398c20"/>　大方凝禪師<note place="inline">無傳</note>
+<lb ed="X" n="0398c21"/>古巖定禪師法嗣
+<lb ed="X" n="0398c22"/>　金寶藏禪師<note place="inline">無傳</note>
+<lb ed="X" n="0398c23"/>天竺秀禪師法嗣
+<lb ed="X" n="0398c24"/>　嵩山福禪師<note place="inline">此後無傳</note>　慶道人
+<pb ed="X" id="X84.1582.0399a" n="0399a"/>
+<lb ed="X" n="0399a01"/>鐵牛勤禪師法嗣
+<lb ed="X" n="0399a02"/>　玉峰璉禪師<note place="inline">此後無傳</note>　無學才禪師
+<lb ed="X" n="0399a03"/>印空海禪師法嗣
+<lb ed="X" n="0399a04"/>　萬峰方禪師<note place="inline">不列章次</note>　曇華蒂禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0399a05"/>　東滄福禪師
+<lb ed="X" n="0399a06"/>德巖本禪師法嗣
+<lb ed="X" n="0399a07"/>　隱峰高禪師<note place="inline">此後不列章次</note>　松菴主
+<lb ed="X" n="0399a08"/>照堂默禪師法嗣
+<lb ed="X" n="0399a09"/>　太&CB00980;圓禪師<note place="inline">無傳</note>
+<lb ed="X" n="0399a10"/>行菴柔禪師法嗣
+<lb ed="X" n="0399a11"/>　傑峰&CB15553;禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0399a12"/>用剛軟禪師法嗣
+<lb ed="X" n="0399a13"/>　古用連禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0399a14"/>寂菴潛禪師法嗣
+<lb ed="X" n="0399a15"/>　孤峰傑禪師<note place="inline">不列章次</note>　異巖登禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0399a16"/>　普照亮禪師　白菴空禪師
+<lb ed="X" n="0399a17"/>　古菴淳禪師
+<lb ed="X" n="0399a18"/>　　大鑑下第三十世
+<lb ed="X" n="0399a19"/>寶峰瑄禪師法嗣
+<lb ed="X" n="0399a20"/>　天奇本瑞禪師
+<lb ed="X" n="0399a21"/>太&CB00980;滿禪師法嗣
+<lb ed="X" n="0399a22"/>　天澤雨禪師
+<lb ed="X" n="0399a23"/>雲溪瑛禪師法嗣
+<lb ed="X" n="0399a24"/>　天池智素禪師
+<pb ed="X" id="X84.1582.0399b" n="0399b"/>
+<lb ed="X" n="0399b01"/>大乘雲禪師法嗣
+<lb ed="X" n="0399b02"/>　大乘淨蓮禪師<note place="inline">無傳</note>
+<lb ed="X" n="0399b03"/>天印持禪師法嗣
+<lb ed="X" n="0399b04"/>　太極團禪師<note place="inline">此後無傳</note>　極空永禪師
+<lb ed="X" n="0399b05"/>　性空悟禪師　高子輝禪師
+<lb ed="X" n="0399b06"/>　大寶真禪師　大泉溥禪師
+<lb ed="X" n="0399b07"/>　了心恭禪師
+<lb ed="X" n="0399b08"/>曉山昇禪師法嗣
+<lb ed="X" n="0399b09"/>　孤峰秀禪師<note place="inline">無傳</note>
+<lb ed="X" n="0399b10"/>太&CB00980;量禪師法嗣
+<lb ed="X" n="0399b11"/>　正宗演禪師<note place="inline">無傳</note>
+<lb ed="X" n="0399b12"/>無相成禪師法嗣
+<lb ed="X" n="0399b13"/>　東暉&CB05951;禪師<note place="inline">不列章次</note>　雪菴喜禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0399b14"/>　鐵壁通禪師　慧空謙禪師
+<lb ed="X" n="0399b15"/>無相空禪師法嗣
+<lb ed="X" n="0399b16"/>　寶心鏡禪師<note place="inline">無傳</note>
+<lb ed="X" n="0399b17"/>吉菴祚禪師法嗣
+<lb ed="X" n="0399b18"/>　天寧道濟禪師
+<lb ed="X" n="0399b19"/>天通顯禪師法嗣
+<lb ed="X" n="0399b20"/>　天池法聚禪師
+<lb ed="X" n="0399b21"/>金臺覺禪師法嗣
+<lb ed="X" n="0399b22"/>　徑山慧林禪師　振宗璉禪師<note place="inline">無傳</note>
+<lb ed="X" n="0399b23"/>天目進禪師法嗣
+<lb ed="X" n="0399b24"/>　東塔曉禪師
+<pb ed="X" id="X84.1582.0399c" n="0399c"/>
+<lb ed="X" n="0399c01"/>突空昇禪師法嗣
+<lb ed="X" n="0399c02"/>　石門無盡海禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0399c03"/>祖堂興禪師法嗣
+<lb ed="X" n="0399c04"/>　頓悟方禪師<note place="inline">無傳</note>
+<lb ed="X" n="0399c05"/>余山澄禪師法嗣
+<lb ed="X" n="0399c06"/>　華山默菴定禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0399c07"/>靈巖清禪師法嗣
+<lb ed="X" n="0399c08"/>　慧堂智禪師<note place="inline">無傳</note>
+<lb ed="X" n="0399c09"/>昭慶庭禪師法嗣
+<lb ed="X" n="0399c10"/>　隆興祖庭隆禪師<note place="inline">此後無傳</note>　燕京興隆無盡容禪師
+<lb ed="X" n="0399c11"/>　金山默菴宣禪師
+<lb ed="X" n="0399c12"/>壽堂松禪師法嗣
+<lb ed="X" n="0399c13"/>　斗峰淨琴禪師　海宗&CB05769;禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0399c14"/>　寶月鑑禪師
+<lb ed="X" n="0399c15"/>萬峰方禪師法嗣
+<lb ed="X" n="0399c16"/>　中峰素禪師<note place="inline">此後無傳</note>　&CB15300;牛鑑禪師
+<lb ed="X" n="0399c17"/>隱峰高禪師法嗣
+<lb ed="X" n="0399c18"/>　東巖喜禪師<note place="inline">此後不列章次</note>　無相頂禪師
+<lb ed="X" n="0399c19"/>傑峰&CB15553;禪師法嗣
+<lb ed="X" n="0399c20"/>　信菴湛禪師<note place="inline">此後不列章次</note>　扣竹大方寬禪師
+<lb ed="X" n="0399c21"/>　藪菴秉禪師<note place="inline">無傳</note>
+<lb ed="X" n="0399c22"/>古用連禪師法嗣
+<lb ed="X" n="0399c23"/>　無礙辨禪師<note place="inline">無傳</note>
+<lb ed="X" n="0399c24"/>孤峰傑禪師法嗣
+<pb ed="X" id="X84.1582.0400a" n="0400a"/>
+<lb ed="X" n="0400a01"/>　桐川廣禪師<note place="inline">此後無傳</note>　天然慧禪師
+<lb ed="X" n="0400a02"/>卷三十
+<lb ed="X" n="0400a03"/>臨濟宗
+<lb ed="X" n="0400a04"/>　　大鑑下第三十一世
+<lb ed="X" n="0400a05"/>天奇瑞禪師法嗣
+<lb ed="X" n="0400a06"/>　關嶺正聰禪師　漢陽古巖禪師
+<lb ed="X" n="0400a07"/>　伏牛濟菴實禪師　石州大川洪禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0400a08"/>天澤雨禪師法嗣
+<lb ed="X" n="0400a09"/>　無盡燈禪師
+<lb ed="X" n="0400a10"/>天池素禪師法嗣
+<lb ed="X" n="0400a11"/>　大覺圓禪師　古&CB15300;悟禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0400a12"/>東暉&CB05951;禪師法嗣
+<lb ed="X" n="0400a13"/>　東明弘曉禪師<note place="inline">此後無傳</note>　大&CB15300;能禪師
+<lb ed="X" n="0400a14"/>　雲峰弘秀禪師　繡巖錦禪師
+<lb ed="X" n="0400a15"/>天寧濟禪師法嗣
+<lb ed="X" n="0400a16"/>　胥山法會禪師　精嚴方澤禪師
+<lb ed="X" n="0400a17"/>天池聚禪師法嗣
+<lb ed="X" n="0400a18"/>　浮峰普恩禪師
+<lb ed="X" n="0400a19"/>東塔曉禪師法嗣
+<lb ed="X" n="0400a20"/>　敬畏如空禪師
+<lb ed="X" n="0400a21"/>石門海禪師法嗣
+<lb ed="X" n="0400a22"/>　尖峰宗隆禪師　碧天玄禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0400a23"/>　月珠海禪師
+<lb ed="X" n="0400a24"/>華山定禪師法嗣
+<pb ed="X" id="X84.1582.0400b" n="0400b"/>
+<lb ed="X" n="0400b01"/>　&CB00328;湖廣心禪師
+<lb ed="X" n="0400b02"/>斗峰琴禪師法嗣
+<lb ed="X" n="0400b03"/>　斗峰道覺禪師
+<lb ed="X" n="0400b04"/>東巖善禪師法嗣
+<lb ed="X" n="0400b05"/>　南宗印禪師<note place="inline">無傳</note>
+<lb ed="X" n="0400b06"/>無相頂禪師法嗣
+<lb ed="X" n="0400b07"/>　濟舟洪禪師<note place="inline">此後無傳</note>　東明曉禪師
+<lb ed="X" n="0400b08"/>　大機全禪師
+<lb ed="X" n="0400b09"/>信菴諶禪師法嗣
+<lb ed="X" n="0400b10"/>　金臺順禪師<note place="inline">此後無傳</note>　大雲興禪師
+<lb ed="X" n="0400b11"/>大方寬禪師法嗣
+<lb ed="X" n="0400b12"/>　伏牛明理禪師
+<lb ed="X" n="0400b13"/>　　大鑑下第三十二世
+<lb ed="X" n="0400b14"/>關嶺聰禪師法嗣
+<lb ed="X" n="0400b15"/>　笑巖德寶禪師
+<lb ed="X" n="0400b16"/>漢陽巖禪師法嗣
+<lb ed="X" n="0400b17"/>　廬山大安禪師
+<lb ed="X" n="0400b18"/>石州洪禪師法嗣
+<lb ed="X" n="0400b19"/>　龍樹寶應禪師　臺山楚峰禪師
+<lb ed="X" n="0400b20"/>　玉堂和尚
+<lb ed="X" n="0400b21"/>無盡燈禪師法嗣
+<lb ed="X" n="0400b22"/>　月輝盡禪師<note place="inline">無傳</note>
+<lb ed="X" n="0400b23"/>古&CB15300;悟禪師法嗣
+<lb ed="X" n="0400b24"/>　大用全禪師<note place="inline">無傳</note>
+<pb ed="X" id="X84.1582.0400c" n="0400c"/>
+<lb ed="X" n="0400c01"/>敬畏空禪師法嗣
+<lb ed="X" n="0400c02"/>　徑山性&CB00287;禪師
+<lb ed="X" n="0400c03"/>　祗園古卓信曙禪師<note place="inline">此後無傳</note>　嬾翁駱驤禪師
+<lb ed="X" n="0400c04"/>&CB00328;湖心禪師法嗣
+<lb ed="X" n="0400c05"/>　暠山智季禪師
+<lb ed="X" n="0400c06"/>伏牛理禪師法嗣
+<lb ed="X" n="0400c07"/>　佛巖不二真際禪師
+<lb ed="X" n="0400c08"/>卷三十一
+<lb ed="X" n="0400c09"/>臨濟宗
+<lb ed="X" n="0400c10"/>　　大鑑下第三十三世
+<lb ed="X" n="0400c11"/>笑巖寶禪師法嗣
+<lb ed="X" n="0400c12"/>　禹門正傳禪師　靈谷曇芝禪師
+<lb ed="X" n="0400c13"/>　瑞峰廣通禪師　天寧佛慧禪師
+<lb ed="X" n="0400c14"/>　京兆高菴傑禪師<note place="inline">此後無傳</note>　鳳陽正宗悟禪師
+<lb ed="X" n="0400c15"/>　天台天常經禪師　武林素菴智禪師
+<lb ed="X" n="0400c16"/>廬山安禪師法嗣
+<lb ed="X" n="0400c17"/>　星子滿賢禪師<note place="inline">無傳</note>
+<lb ed="X" n="0400c18"/>徑山&CB00287;禪師法嗣
+<lb ed="X" n="0400c19"/>　興善慧廣禪師
+<lb ed="X" n="0400c20"/>　　大鑑下第三十四世
+<lb ed="X" n="0400c21"/>禹門正傳禪師法嗣
+<lb ed="X" n="0400c22"/>　天童圓悟禪師　報恩圓修禪師
+<lb ed="X" n="0400c23"/>　雲門圓信禪師　抱朴大蓮禪師
+<lb ed="X" n="0400c24"/>興善廣禪師法嗣
+<pb ed="X" id="X84.1582.0401a" n="0401a"/>
+<lb ed="X" n="0401a01"/>　普明妙用禪師
+<lb ed="X" n="0401a02"/>卷三十二
+<lb ed="X" n="0401a03"/>臨濟宗
+<lb ed="X" n="0401a04"/>　　大鑑下第三十五世
+<lb ed="X" n="0401a05"/>天童密雲悟禪師法嗣
+<lb ed="X" n="0401a06"/>　溈山五峰學禪師　鄧尉漢月藏禪師
+<lb ed="X" n="0401a07"/>　破山明禪師　徑山費隱容禪師
+<lb ed="X" n="0401a08"/>　金粟石車乘禪師　寶華朝宗忍禪師
+<lb ed="X" n="0401a09"/>　龍池萬如微禪師
+<lb ed="X" n="0401a10"/>卷三十三
+<lb ed="X" n="0401a11"/>臨濟宗
+<lb ed="X" n="0401a12"/>　　大鑑下第三十五世
+<lb ed="X" n="0401a13"/>天童密雲悟禪師法嗣
+<lb ed="X" n="0401a14"/>　天童山翁忞禪師　雪竇石奇雲禪師
+<lb ed="X" n="0401a15"/>　古南牧雲門禪師　遯村浮石賢禪師
+<lb ed="X" n="0401a16"/>　通玄林野奇禪師　澄江黃毓<app><lem wit="【CBETA】" resp="CBETA.maha">祺</lem><rdg wit="【卍續】">&CB15575;</rdg></app>居士
+<lb ed="X" n="0401a17"/>卷三十四
+<lb ed="X" n="0401a18"/>臨濟宗
+<lb ed="X" n="0401a19"/>　　大鑑下第三十五世
+<lb ed="X" n="0401a20"/>磬山天隱修禪師法嗣
+<lb ed="X" n="0401a21"/>　竹林林&CB04362;豫禪師　天目玉林琇禪師
+<lb ed="X" n="0401a22"/>　南&CB00589;箬菴問禪師　南嶽山茨際禪師
+<lb ed="X" n="0401a23"/>　陽山松際授禪師
+<lb ed="X" n="0401a24"/>普明鴛湖用禪師法嗣
+<pb ed="X" id="X84.1582.0401b" n="0401b"/>
+<lb ed="X" n="0401b01"/>　雲&CB00123;衡石鈞禪師　金明介菴進禪師
+<lb ed="X" n="0401b02"/>　永正一初元禪師
+<lb ed="X" n="0401b03"/>卷三十五
+<lb ed="X" n="0401b04"/>曹洞宗
+<lb ed="X" n="0401b05"/>　　大鑑下第十六世
+<lb ed="X" n="0401b06"/>天童&CB05973;禪師法嗣<note place="inline">玨嗣長蘆了了嗣丹霞淳淳嗣芙蓉楷</note>
+<lb ed="X" n="0401b07"/>　雪竇智鑑禪師
+<lb ed="X" n="0401b08"/>雪竇宗禪師法嗣<note place="inline">宗嗣天童覺覺嗣丹霞淳</note>
+<lb ed="X" n="0401b09"/>　廣福道勤禪師　翠巖宗靜禪師<note place="inline">無傳</note>
+<lb ed="X" n="0401b10"/>善權智禪師法嗣<note place="inline">智嗣天童覺</note>
+<lb ed="X" n="0401b11"/>　超化藻禪師　保安超禪師<note place="inline">無傳</note>
+<lb ed="X" n="0401b12"/>淨慈暉禪師法嗣<note place="inline">暉嗣天童覺</note>
+<lb ed="X" n="0401b13"/>　華藏慧祚禪師　雪竇德雲禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0401b14"/>　仗錫崇堅禪師　雪竇煥禪師
+<lb ed="X" n="0401b15"/>瑞巖恭禪師法嗣<note place="inline">恭嗣天童覺</note>
+<lb ed="X" n="0401b16"/>　淨慈重皎禪師<note place="inline">此後無傳</note>　淨慈璧禪師
+<lb ed="X" n="0401b17"/>廣慧聰禪師法嗣<note place="inline">聰嗣天童覺</note>
+<lb ed="X" n="0401b18"/>　明州普照戒禪師<note place="inline">無傳</note>
+<lb ed="X" n="0401b19"/>　　大鑑下第十七世
+<lb ed="X" n="0401b20"/>雪竇鑑禪師法嗣
+<lb ed="X" n="0401b21"/>　天童如淨禪師
+<lb ed="X" n="0401b22"/>華藏祚禪師法嗣
+<lb ed="X" n="0401b23"/>　東谷光禪師
+<lb ed="X" n="0401b24"/>　　大鑑下第十八世
+<pb ed="X" id="X84.1582.0401c" n="0401c"/>
+<lb ed="X" n="0401c01"/>東谷光禪師法嗣
+<lb ed="X" n="0401c02"/>　天童一舉禪師<note place="inline">語載增集續傳燈一卷二十七紙失版不錄</note>
+<lb ed="X" n="0401c03"/>天童淨禪師法嗣
+<lb ed="X" n="0401c04"/>　鹿門覺禪師
+<lb ed="X" n="0401c05"/>　　大鑑下第十九世
+<lb ed="X" n="0401c06"/>天童舉禪師法嗣
+<lb ed="X" n="0401c07"/>　天童岫禪師
+<lb ed="X" n="0401c08"/>鹿門覺禪師法嗣
+<lb ed="X" n="0401c09"/>　普照辨禪師
+<lb ed="X" n="0401c10"/>　　大鑑下第二十世
+<lb ed="X" n="0401c11"/>天童岫禪師法嗣
+<lb ed="X" n="0401c12"/>　雪竇大證禪師　獨木昇禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0401c13"/>　愚菴省禪師　大方聘禪師
+<lb ed="X" n="0401c14"/>普照辨禪師法嗣
+<lb ed="X" n="0401c15"/>　大明寶禪師　慈雲覺禪師
+<lb ed="X" n="0401c16"/>　　大鑑下第二十一世
+<lb ed="X" n="0401c17"/>大明寶禪師法嗣
+<lb ed="X" n="0401c18"/>　王山體禪師　仁山恒禪師
+<lb ed="X" n="0401c19"/>　香山俊禪師<note place="inline">不列章次</note>　慶壽覬禪師<note place="inline">無傳</note>
+<lb ed="X" n="0401c20"/>普照寶禪師法嗣<note place="inline">寶嗣普照辨</note>
+<lb ed="X" n="0401c21"/>　慶壽教亨禪師
+<lb ed="X" n="0401c22"/>　　大鑑下第二十二世
+<lb ed="X" n="0401c23"/><note n="0401001" resp="Xuzangjing" place="foot text" type="orig">玉前作王</note>玉山體禪師法嗣
+<lb ed="X" n="0401c24"/>　雪巖滿禪師　勝默光禪師
+<pb ed="X" id="X84.1582.0402a" n="0402a"/>
+<lb ed="X" n="0402a01"/>　冀州暉禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0402a02"/>仁山恒禪師法嗣
+<lb ed="X" n="0402a03"/>　大明詮禪師
+<lb ed="X" n="0402a04"/>香山俊禪師法嗣
+<lb ed="X" n="0402a05"/>　覺山福禪師<note place="inline">無傳</note>
+<lb ed="X" n="0402a06"/>慶壽亨禪師法嗣
+<lb ed="X" n="0402a07"/>　大覺弘相禪師
+<lb ed="X" n="0402a08"/>　　大鑑下第二十三世
+<lb ed="X" n="0402a09"/>雪竇滿禪師法嗣
+<lb ed="X" n="0402a10"/>　報恩行秀禪師　竹林巨川海禪師
+<lb ed="X" n="0402a11"/>　仙巖德禪師<note place="inline">不列章次</note>　玉山枝足禪師<note place="inline">無傳</note>
+<lb ed="X" n="0402a12"/>冀州暉禪師法嗣
+<lb ed="X" n="0402a13"/>　開元廣恩禪師<note place="inline">無傳</note>
+<lb ed="X" n="0402a14"/>卷三十六
+<lb ed="X" n="0402a15"/>曹洞宗
+<lb ed="X" n="0402a16"/>　　大鑑下第二十四世
+<lb ed="X" n="0402a17"/>報恩秀禪師法嗣
+<lb ed="X" n="0402a18"/>　萬壽福&CB05769;禪師　報恩從倫禪師
+<lb ed="X" n="0402a19"/>　吾捨從寬禪師　華嚴至溫禪師
+<lb ed="X" n="0402a20"/>　法王圓照禪師　移<app><lem wit="【CBETA】" resp="CBETA.maha">剌</lem><rdg wit="【卍續】">刺</rdg></app>楚<note n="0402001" resp="Xuzangjing" place="foot text" type="orig">村恐材歟</note>村居士
+<lb ed="X" n="0402a21"/>　少林乳峰德禪師<note place="inline">此後無傳</note>　從祥禪師
+<lb ed="X" n="0402a22"/>　從隆禪師　百泉從瑀禪師
+<lb ed="X" n="0402a23"/>　從仝禪師
+<lb ed="X" n="0402a24"/>仙巖德祥禪師法嗣
+<pb ed="X" id="X84.1582.0402b" n="0402b"/>
+<lb ed="X" n="0402b01"/>　天寧弘明禪師
+<lb ed="X" n="0402b02"/>　　大鑑下第二十五世
+<lb ed="X" n="0402b03"/>萬壽&CB05769;禪師法嗣
+<lb ed="X" n="0402b04"/>　嵩山文泰禪師　報恩智泰禪師
+<lb ed="X" n="0402b05"/>　靈巖淨肅禪師　和林覺印禪師
+<lb ed="X" n="0402b06"/>　昭覺仲慶禪師　安平守讓禪師
+<lb ed="X" n="0402b07"/>　太子文善禪師　長慶德&CB15324;禪師
+<lb ed="X" n="0402b08"/>　平水慧圓禪師　東川圓讓禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0402b09"/>　洪濟思印禪師<note place="inline">此後無傳</note>　廣嚴法興禪師
+<lb ed="X" n="0402b10"/>　樂亭千金明遠禪師　南宮趙好圓鏡禪師
+<lb ed="X" n="0402b11"/>　正覺福勝禪師　崇慶戒行禪師
+<lb ed="X" n="0402b12"/>　盤山雲威禪師　汴梁恒祚慧林禪師
+<lb ed="X" n="0402b13"/>　西寺慧全禪師　華嚴覺印禪師
+<lb ed="X" n="0402b14"/>　大都延慶慧玄禪師　汴梁慧正禪師
+<lb ed="X" n="0402b15"/>　順德妙俊禪師　順德妙乘禪師
+<lb ed="X" n="0402b16"/>　平州慧道禪師　彰德黃花慧端禪師
+<lb ed="X" n="0402b17"/>　磁州雄辨慧平禪師　少林普照慧山禪師
+<lb ed="X" n="0402b18"/>　大名弘法慧慶禪師　太原通辨慧滿禪師
+<lb ed="X" n="0402b19"/>　萬安慧才禪師　延慶普濟慧悟禪師
+<lb ed="X" n="0402b20"/>　總帥王妙明居士　總管李月溪居士
+<lb ed="X" n="0402b21"/>　提領楊靜應居士　宣授溫具信居士
+<lb ed="X" n="0402b22"/>　節使宋海印居士　便宜劉德古居士
+<lb ed="X" n="0402b23"/>　轉運陳和光居士　宣尉陳大隱居士
+<lb ed="X" n="0402b24"/>報恩倫禪師法嗣
+<pb ed="X" id="X84.1582.0402c" n="0402c"/>
+<lb ed="X" n="0402c01"/>　鞍山同新禪師
+<lb ed="X" n="0402c02"/>　香山桂菴覺達禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0402c03"/>法王照禪師法嗣
+<lb ed="X" n="0402c04"/>　關中彬禪師
+<lb ed="X" n="0402c05"/>　香山月菴福海禪師<note place="inline">不列章次</note>　臨緇潮禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0402c06"/>　東山昭禪師　香山嵩巖玉禪師
+<lb ed="X" n="0402c07"/>　法王沼禪師　古巖詡禪師
+<lb ed="X" n="0402c08"/>　崇孝賢禪師　普照杲禪師
+<lb ed="X" n="0402c09"/>　寶應海禪師　龍潭藏禪師
+<lb ed="X" n="0402c10"/>　淨土堅理禪師　太原和禪師
+<lb ed="X" n="0402c11"/>　崇孝普禪師　法王無菴覺亮禪師
+<lb ed="X" n="0402c12"/>　護國圓禪師　燕山壽禪師
+<lb ed="X" n="0402c13"/>　松雲德禪師　法王暉禪師
+<lb ed="X" n="0402c14"/>　十方進禪師　天寧選禪師
+<lb ed="X" n="0402c15"/>　汝州覺善禪師　泰安靈巖復禪師
+<lb ed="X" n="0402c16"/>　覺安尼禪師　石龍淵禪師
+<lb ed="X" n="0402c17"/>　左南宮禪師　吳歷山禪師
+<lb ed="X" n="0402c18"/>　吳古燕禪師
+<lb ed="X" n="0402c19"/>天寧明禪師法嗣
+<lb ed="X" n="0402c20"/>　天寧仲復子顏禪師<note place="inline">此後無傳</note>　子淇禪師
+<lb ed="X" n="0402c21"/>　劉秉忠居士
+<lb ed="X" n="0402c22"/>　　大鑑下第二十六世
+<lb ed="X" n="0402c23"/>嵩山泰禪師法嗣
+<lb ed="X" n="0402c24"/>　寶應福遇禪師　靈巖潔禪師
+<pb ed="X" id="X84.1582.0403a" n="0403a"/>
+<lb ed="X" n="0403a01"/>中林泰禪師法嗣
+<lb ed="X" n="0403a02"/>　智符禪師　智奇禪師
+<lb ed="X" n="0403a03"/>東川讓禪師法嗣
+<lb ed="X" n="0403a04"/>　香山汾溪福滿禪師
+<lb ed="X" n="0403a05"/>靈巖肅禪師法嗣
+<lb ed="X" n="0403a06"/>　寶應永達禪師　封龍普就禪師
+<lb ed="X" n="0403a07"/>弘法慶禪師法嗣
+<lb ed="X" n="0403a08"/>　智如禪師<note place="inline">此後無傳</note>　智昇禪師
+<lb ed="X" n="0403a09"/>　陳顥學士
+<lb ed="X" n="0403a10"/>香山達禪師法嗣
+<lb ed="X" n="0403a11"/>　尉州寶宮德興禪師<note place="inline">無傳</note>
+<lb ed="X" n="0403a12"/>　南陽丹霞智安禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0403a13"/>　萬壟聖佛思整禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0403a14"/>　法王德慧禪師　香思壽禪師
+<lb ed="X" n="0403a15"/>香山鑑禪師法嗣
+<lb ed="X" n="0403a16"/>　普智禪師<note place="inline">無傳</note>
+<lb ed="X" n="0403a17"/>香山海禪師法嗣
+<lb ed="X" n="0403a18"/>　法王雲崧思微禪師<note place="inline">此後不列章次</note>
+<lb ed="X" n="0403a19"/>　香山訥菴思言禪師　天慶龍巖思才禪師
+<lb ed="X" n="0403a20"/>　南陽丹霞紹懋禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0403a21"/>　裕州大乘福德禪師　法王普醒禪師
+<lb ed="X" n="0403a22"/>　藏雲慧山禪師　上都華嚴惟壽禪師
+<lb ed="X" n="0403a23"/>　山東龍泉思然禪師　中山乾明寶潤禪師
+<lb ed="X" n="0403a24"/>　古燕鞍山智藏禪師　南陽德用禪師
+<pb ed="X" id="X84.1582.0403b" n="0403b"/>
+<lb ed="X" n="0403b01"/>　晉寧顯密禪師　膠西清淋禪師
+<lb ed="X" n="0403b02"/>　汝州思讓禪師　輝縣白雲定聰禪師
+<lb ed="X" n="0403b03"/>　衛輝定讓禪師　晉寧行裕禪師
+<lb ed="X" n="0403b04"/>　輔城明金禪師　德州惟興禪師
+<lb ed="X" n="0403b05"/>　晉寧思聰禪師　香山思初禪師
+<lb ed="X" n="0403b06"/>　古燕圓淨禪師
+<lb ed="X" n="0403b07"/>　　大鑑下第二十七世
+<lb ed="X" n="0403b08"/>寶應遇禪師法嗣
+<lb ed="X" n="0403b09"/>　香巖文才禪師　空相珪禪師
+<lb ed="X" n="0403b10"/>　嵩山深禪師　嵩山龍潭深禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0403b11"/>　洛陽白馬澄禪師　洛陽天慶江禪師
+<lb ed="X" n="0403b12"/>　嵩山龍潭端禪師　嵩山永泰祥禪師
+<lb ed="X" n="0403b13"/>　長安順禪師　長安祐禪師
+<lb ed="X" n="0403b14"/>　晉寧喜禪師　洛陽白馬德瑢禪師
+<lb ed="X" n="0403b15"/>　李了本居士　林天然居士
+<lb ed="X" n="0403b16"/>香山滿禪師法嗣
+<lb ed="X" n="0403b17"/>　洛陽天慶惟喜禪師<note place="inline">此後無傳</note>　南陽丹霞惟和禪師
+<lb ed="X" n="0403b18"/>靈巖潔禪師法嗣
+<lb ed="X" n="0403b19"/>　天界道成禪師
+<lb ed="X" n="0403b20"/>寶應達禪師法嗣
+<lb ed="X" n="0403b21"/>　盤山遇禪師　太原斌禪師
+<lb ed="X" n="0403b22"/>　真定琳禪師<note place="inline">此後無傳</note>　洛陽添禪師
+<lb ed="X" n="0403b23"/>　佛光潤禪師　滹陽顯禪師
+<lb ed="X" n="0403b24"/>　少林利禪師　信陽子敬禪師
+<pb ed="X" id="X84.1582.0403c" n="0403c"/>
+<lb ed="X" n="0403c01"/>　寶應隆禪師　混元義禪師
+<lb ed="X" n="0403c02"/>　古汴緣禪師　洛陽遠禪師
+<lb ed="X" n="0403c03"/>　汾州符禪師　泰安恩禪師
+<lb ed="X" n="0403c04"/>封龍就禪師法嗣
+<lb ed="X" n="0403c05"/>　天慶義讓禪師　靈巖容禪師
+<lb ed="X" n="0403c06"/>　晉寧心禪師<note place="inline">此後無傳</note>　白茅春禪師
+<lb ed="X" n="0403c07"/>丹霞安禪師法嗣
+<lb ed="X" n="0403c08"/>　濟南無門智行禪師<note place="inline">此後無傳</note>　大乘&CB00177;巖法儀禪師
+<lb ed="X" n="0403c09"/>　襄城無礙智照禪師　順德普隆禪師
+<lb ed="X" n="0403c10"/>　月潭洪滿禪師　汝寧洪喜禪師
+<lb ed="X" n="0403c11"/>　西安文福禪師　葉縣惟著禪師
+<lb ed="X" n="0403c12"/>香山言禪師法嗣
+<lb ed="X" n="0403c13"/>　大乘松溪雲定禪師<note place="inline">此後無傳</note>　勝才禪師
+<lb ed="X" n="0403c14"/>　惟遇禪師　惟用禪師
+<lb ed="X" n="0403c15"/>　惟安禪師
+<lb ed="X" n="0403c16"/>天慶才禪師法嗣
+<lb ed="X" n="0403c17"/>　香山惟晟禪師<note place="inline">此後無傳</note>　惟幻禪師
+<lb ed="X" n="0403c18"/>法王微禪師法嗣
+<lb ed="X" n="0403c19"/>　惟教禪師<note place="inline">此後無傳</note>　惟澤禪師
+<lb ed="X" n="0403c20"/>卷三十七
+<lb ed="X" n="0403c21"/>曹洞宗
+<lb ed="X" n="0403c22"/>　　大鑑下第二十八世
+<lb ed="X" n="0403c23"/>香嚴材禪師法嗣
+<lb ed="X" n="0403c24"/>　萬安子嚴禪師　竹菴子忍禪師
+<pb ed="X" id="X84.1582.0404a" n="0404a"/>
+<lb ed="X" n="0404a01"/>　佛巖稔禪師　華嚴遇禪師
+<lb ed="X" n="0404a02"/>　古蔡元禪師　<app><lem wit="【CBETA】" resp="CBETA.maha">陝</lem><rdg wit="【卍續】">陜</rdg></app>府熊耳登禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0404a03"/>　益都亮禪師　晉寧敬禪師
+<lb ed="X" n="0404a04"/>　河府一禪師　奉先壽禪師
+<lb ed="X" n="0404a05"/>空相珪禪師法嗣
+<lb ed="X" n="0404a06"/>　天寧壽禪師　順德天寧才禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0404a07"/>　南陽維摩懷禪師　洛陽天慶能禪師
+<lb ed="X" n="0404a08"/>　<app><lem wit="【CBETA】" resp="CBETA.maha">陝</lem><rdg wit="【卍續】">陜</rdg></app>府安國仁禪師　韶陽雲門&CB00517;禪師
+<lb ed="X" n="0404a09"/>　遼州定禪師　解州沿禪師
+<lb ed="X" n="0404a10"/>　曜州顯禪師　洛陽天慶福澄禪師
+<lb ed="X" n="0404a11"/>　洛陽全禪師　遼州宣禪師
+<lb ed="X" n="0404a12"/>　晉寧湛禪師
+<lb ed="X" n="0404a13"/>天界成禪師法嗣
+<lb ed="X" n="0404a14"/>　吉州青原璽禪師<note place="inline">此後無傳</note>　磧砂覺禪師
+<lb ed="X" n="0404a15"/>　因聖炫禪師　行才禪師
+<lb ed="X" n="0404a16"/>　鄱陽<app><lem wit="【CBETA】" resp="CBETA.maha">諡</lem><rdg wit="【卍續】">謚</rdg></app>菴寧禪師　廣福禮禪師
+<lb ed="X" n="0404a17"/>　方崖龍景義禪師　吳松大覺量禪師
+<lb ed="X" n="0404a18"/>　松江寶月泉圓禪師　隆慶靜禪師
+<lb ed="X" n="0404a19"/>　沙縣正禪師　荊溪實禪師
+<lb ed="X" n="0404a20"/>　&CB00777;眉星禪師　&CB05951;上座
+<lb ed="X" n="0404a21"/>天慶讓禪師法嗣
+<lb ed="X" n="0404a22"/>　熊耳子定禪師　舜都宗禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0404a23"/>　空杏偉禪師　廣平實禪師
+<lb ed="X" n="0404a24"/>　晉寧才禪師　晉寧澤禪師
+<pb ed="X" id="X84.1582.0404b" n="0404b"/>
+<lb ed="X" n="0404b01"/>　淨明心禪師　萬安勝安禪師
+<lb ed="X" n="0404b02"/>　晉寧霑禪師　晉寧銑禪師
+<lb ed="X" n="0404b03"/>　洛陽昇禪師　少林春禪師
+<lb ed="X" n="0404b04"/>　覺道禪師　劉了然
+<lb ed="X" n="0404b05"/>　鄭惟心　廣平實
+<lb ed="X" n="0404b06"/>香山晟禪師法嗣
+<lb ed="X" n="0404b07"/>　香山妙陽禪師<note place="inline">無傳</note>
+<lb ed="X" n="0404b08"/>　　大鑑下第二十九世
+<lb ed="X" n="0404b09"/>萬安嚴禪師法嗣
+<lb ed="X" n="0404b10"/>　嵩山了改禪師
+<lb ed="X" n="0404b11"/>　少林宗礪覺金禪師<note place="inline">不列章次</note>　永慶就聞禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0404b12"/>　長安滿清禪師　冀州微徹禪師
+<lb ed="X" n="0404b13"/>　靈巖了聞禪師　鼓山海清禪師
+<lb ed="X" n="0404b14"/>　了明上座　了宗上座
+<lb ed="X" n="0404b15"/>竹菴忍禪師法嗣
+<lb ed="X" n="0404b16"/>　香山月印潭禪師<note place="inline">不列章次</note>
+<lb ed="X" n="0404b17"/>熊耳定禪師法嗣
+<lb ed="X" n="0404b18"/>　香山藏山寶禪師<note place="inline">此後無傳</note>　晉寧俊禪師
+<lb ed="X" n="0404b19"/>　永寧清禪師　長安祥禪師
+<lb ed="X" n="0404b20"/>　熊耳愈禪師　了因上座
+<lb ed="X" n="0404b21"/>　了妙上座
+<lb ed="X" n="0404b22"/>　　大鑑下第三十世
+<lb ed="X" n="0404b23"/>嵩山改禪師法嗣
+<lb ed="X" n="0404b24"/>　嵩山俱空契斌禪師　鄭州福禪師
+<pb ed="X" id="X84.1582.0404c" n="0404c"/>
+<lb ed="X" n="0404c01"/>　風穴本深禪師　大同正朗禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0404c02"/>　南陽寶禪師　裕州林禪師
+<lb ed="X" n="0404c03"/>　潞州才禪師　開府安禪師
+<lb ed="X" n="0404c04"/>　少林文禪師　汝州照禪師
+<lb ed="X" n="0404c05"/>　風穴中菴祥禪師　襄縣肇禪師
+<lb ed="X" n="0404c06"/>　汝寧瑩禪師　洛陽成禪師
+<lb ed="X" n="0404c07"/>　彰德整禪師　臨晉班禪師
+<lb ed="X" n="0404c08"/>　密縣善禪師　洛陽金禪師
+<lb ed="X" n="0404c09"/>　安邑泉禪師　少林連禪師
+<lb ed="X" n="0404c10"/>少林金禪師法嗣
+<lb ed="X" n="0404c11"/>　平陽坦山斌禪師<note place="inline">此後無傳</note>　江西空禪師
+<lb ed="X" n="0404c12"/>　曲州順禪師　潞州&CB15564;禪師
+<lb ed="X" n="0404c13"/>　平陽才禪師
+<lb ed="X" n="0404c14"/>香山潭禪師法嗣
+<lb ed="X" n="0404c15"/>　覺林禪師<note place="inline">此後無傳</note>　契道禪師
+<lb ed="X" n="0404c16"/>　禧玉禪師　智廣禪師
+<lb ed="X" n="0404c17"/>　本宗禪師　廣明禪師
+<lb ed="X" n="0404c18"/>　善信禪師　真溫禪師
+<lb ed="X" n="0404c19"/>　行信禪師　行成禪師
+<lb ed="X" n="0404c20"/>　行深禪師　行淵禪師
+<lb ed="X" n="0404c21"/>　相才禪師　相能禪師
+<lb ed="X" n="0404c22"/>　相成禪師　具月禪師
+<lb ed="X" n="0404c23"/>　淨仙禪師　修義禪師
+<lb ed="X" n="0404c24"/>　圓正禪師　昌秀禪師
+<pb ed="X" id="X84.1582.0405a" n="0405a"/>
+<lb ed="X" n="0405a01"/>　德貴禪師　修通禪師
+<lb ed="X" n="0405a02"/>　廣載禪師　文琮禪師
+<lb ed="X" n="0405a03"/>　真旺禪師　思明禪師
+<lb ed="X" n="0405a04"/>　壽山禪師　文賢禪師
+<lb ed="X" n="0405a05"/>　行學禪師　正宗禪師
+<lb ed="X" n="0405a06"/>　法順禪師　榮金禪師
+<lb ed="X" n="0405a07"/>　祥寧禪師　淨嵩禪師
+<lb ed="X" n="0405a08"/>　行明禪師　真聰禪師
+<lb ed="X" n="0405a09"/>　壽能禪師　普&CB15223;禪師
+<lb ed="X" n="0405a10"/>　圓果禪師　道理禪師
+<lb ed="X" n="0405a11"/>　德祥禪師　道顯禪師
+<lb ed="X" n="0405a12"/>　永隆禪師　圓安禪師
+<lb ed="X" n="0405a13"/>　道智禪師　慧玄禪師
+<lb ed="X" n="0405a14"/>　如整禪師　際雲禪師
+<lb ed="X" n="0405a15"/>　祖顯禪師　妙德禪師
+<lb ed="X" n="0405a16"/>　　大鑑下第三十一世
+<lb ed="X" n="0405a17"/>嵩山斌禪師法嗣
+<lb ed="X" n="0405a18"/>　定國可從禪師
+<lb ed="X" n="0405a19"/>　　大鑑下第三十二世
+<lb ed="X" n="0405a20"/>定國從禪師法嗣
+<lb ed="X" n="0405a21"/>　嵩山文載禪師　太原性成禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0405a22"/>　洛陽悟明禪師　少林悟&CB05951;禪師
+<lb ed="X" n="0405a23"/>　順德昌泰禪師　漁陽悟興禪師
+<lb ed="X" n="0405a24"/>　滏陽如明禪師　長安圓錦禪師
+<pb ed="X" id="X84.1582.0405b" n="0405b"/>
+<lb ed="X" n="0405b01"/>　永慶可洽禪師　平陽淨浩禪師
+<lb ed="X" n="0405b02"/>　洛陽悟本禪師　古汴真騰禪師
+<lb ed="X" n="0405b03"/>　興國道欽禪師　長安悟才禪師
+<lb ed="X" n="0405b04"/>　新中常景禪師　長安圓達禪師
+<lb ed="X" n="0405b05"/>　金臺周惠禪師　嵩易國琦禪師
+<lb ed="X" n="0405b06"/>　扶風道祥禪師　寶豐道靜禪師
+<lb ed="X" n="0405b07"/>　黎陽繼鋆禪師　項城真喜禪師
+<lb ed="X" n="0405b08"/>　大梁悟曉禪師　臨穎守圓禪師
+<lb ed="X" n="0405b09"/>　古&CB01096;佛勉禪師　雲中幸琦禪師
+<lb ed="X" n="0405b10"/>　東昌圓玉禪師　少林本原禪師
+<lb ed="X" n="0405b11"/>　法廣禪師　悟文禪師
+<lb ed="X" n="0405b12"/>　悟定禪師　悟德禪師
+<lb ed="X" n="0405b13"/>　悟方禪師　繼玉禪師
+<lb ed="X" n="0405b14"/>　聰廣禪師　行滿禪師
+<lb ed="X" n="0405b15"/>　海潭禪師　海潤禪師
+<lb ed="X" n="0405b16"/>　靈聰禪師　可深禪師
+<lb ed="X" n="0405b17"/>　可亮禪師　真萬禪師
+<lb ed="X" n="0405b18"/>　圓淨禪師　淨&CB05951;禪師
+<lb ed="X" n="0405b19"/>　文玉禪師　性月禪師
+<lb ed="X" n="0405b20"/>　悟宗禪師　淨定禪師
+<lb ed="X" n="0405b21"/>　悟忍禪師　繼鏞禪師
+<lb ed="X" n="0405b22"/>　鎮平禪師　了思禪師
+<lb ed="X" n="0405b23"/>　道惺禪師　慧浩禪師
+<lb ed="X" n="0405b24"/>　可順禪師
+<pb ed="X" id="X84.1582.0405c" n="0405c"/>
+<lb ed="X" n="0405c01"/>　　大鑑下第三十三世
+<lb ed="X" n="0405c02"/>嵩山載禪師法嗣
+<lb ed="X" n="0405c03"/>　宗鏡宗書禪師　顯慶悟寅禪師
+<lb ed="X" n="0405c04"/>　金山德寶禪師　定州義亮禪師<note place="inline">此後無傳</note>
+<lb ed="X" n="0405c05"/>　金臺真了禪師　慈仁性深禪師
+<lb ed="X" n="0405c06"/>　白塔真害禪師　興隆本通禪師
+<lb ed="X" n="0405c07"/>　&CB04569;州明淵禪師　燕山覺瀛禪師
+<lb ed="X" n="0405c08"/>　鎮陽圓通禪師　束鹿明遇禪師
+<lb ed="X" n="0405c09"/>　偃水德進禪師　黎陽法訓禪師
+<lb ed="X" n="0405c10"/>　臨潁宗琳禪師　消川祖鼐禪師
+<lb ed="X" n="0405c11"/>　黎山圓斌禪師　琴臺歸理禪師
+<lb ed="X" n="0405c12"/>　偃城福鄰禪師　衡水覺洪禪師
+<lb ed="X" n="0405c13"/>　蟾源壽明禪師　西毫悟心禪師
+<lb ed="X" n="0405c14"/>　洛陽周潮禪師　清&CB00289;智思禪師
+<lb ed="X" n="0405c15"/>　潁州周乾禪師　臨縣周訓禪師
+<lb ed="X" n="0405c16"/>　西安圓寶禪師　寧晉德杲禪師
+<lb ed="X" n="0405c17"/>　東魯悟聰禪師　偃水明潭禪師
+<lb ed="X" n="0405c18"/>　東魯圓朗禪師　肥鄉續隆禪師
+<lb ed="X" n="0405c19"/>　西毫悟萬禪師　芮城圓安禪師
+<lb ed="X" n="0405c20"/>　伊川善梅禪師　南山宗朗禪師
+<lb ed="X" n="0405c21"/>　密縣宗美禪師　中牟宗寶禪師
+<lb ed="X" n="0405c22"/>　定興王仲達居士
+<lb ed="X" n="0405c23"/>　　大鑑下第三十四世
+<lb ed="X" n="0405c24"/>宗鏡書禪師法嗣
+<pb ed="X" id="X84.1582.0406a" n="0406a"/>
+<lb ed="X" n="0406a01"/>　少室常潤禪師　廩山常忠禪師
+<lb ed="X" n="0406a02"/>　鵲山圓佐禪師　興國如進禪師
+<lb ed="X" n="0406a03"/>　龍岡如遷禪師
+<lb ed="X" n="0406a04"/>金山寶禪師法嗣
+<lb ed="X" n="0406a05"/>　崇恩祖通禪師<note place="inline">無傳</note>
+<lb ed="X" n="0406a06"/>　　大鑑下第三十五世
+<lb ed="X" n="0406a07"/>少室潤禪師法嗣
+<lb ed="X" n="0406a08"/>　大覺方念禪師　少室正道禪師
+<lb ed="X" n="0406a09"/>　實相善真禪師
+<lb ed="X" n="0406a10"/>　羅漢智空了睿禪師<note place="inline">此後無傳</note>　上黨鰲谷妙銀禪師
+<lb ed="X" n="0406a11"/>　南宗上座　蜀漢王山靜居
+<lb ed="X" n="0406a12"/>卷三十八
+<lb ed="X" n="0406a13"/>曹洞宗
+<lb ed="X" n="0406a14"/>　　大鑑下第三十五世
+<lb ed="X" n="0406a15"/>廩山忠禪師法嗣
+<lb ed="X" n="0406a16"/>　壽昌慧經禪師
+<lb ed="X" n="0406a17"/>　　大鑑下第三十六世
+<lb ed="X" n="0406a18"/>大覺念禪師法嗣
+<lb ed="X" n="0406a19"/>　雲門圓澄禪師
+<lb ed="X" n="0406a20"/>少室道禪師法嗣
+<lb ed="X" n="0406a21"/>　少室慧喜禪師
+<lb ed="X" n="0406a22"/>　廣慈悟空智省禪師<note place="inline">此後無傳</note>　華嚴達如秀禪師
+<lb ed="X" n="0406a23"/>　衛源繼賢性燈禪師　衛輝一念性純禪師
+<lb ed="X" n="0406a24"/>　關中嵩月利信禪師　五臺棲賢鑑玄禪師
+<pb ed="X" id="X84.1582.0406b" n="0406b"/>
+<lb ed="X" n="0406b01"/>　海潮化衡如準禪師　龍華正化禪師
+<lb ed="X" n="0406b02"/>壽昌經禪師法嗣
+<lb ed="X" n="0406b03"/>　&CB00397;山元來禪師　東苑元鏡禪師
+<lb ed="X" n="0406b04"/>　壽昌元謐禪師　鼓山元賢禪師
+<lb ed="X" n="0406b05"/>卷三十九
+<lb ed="X" n="0406b06"/>曹洞宗
+<lb ed="X" n="0406b07"/>　　大鑑下第三十七世
+<lb ed="X" n="0406b08"/>雲門澄禪師法嗣
+<lb ed="X" n="0406b09"/>　指南明徹禪師　明因明懷禪師
+<lb ed="X" n="0406b10"/>　寶壽明方禪師　愚菴明盂禪師
+<lb ed="X" n="0406b11"/>　東山明澓禪師　香雪明有禪師
+<lb ed="X" n="0406b12"/>　弁山明雪禪師　鴈田柳湞居士
+<lb ed="X" n="0406b13"/>　葉曇茂居士
+<lb ed="X" n="0406b14"/>少室喜禪師法嗣
+<lb ed="X" n="0406b15"/>　少室海寬禪師<note place="inline">此後不列章次</note>　靜善性在禪師
+<lb ed="X" n="0406b16"/>卷四十
+<lb ed="X" n="0406b17"/>曹洞宗
+<lb ed="X" n="0406b18"/>　　大鑑下第三十七世
+<lb ed="X" n="0406b19"/>&CB00397;山來禪師法嗣
+<lb ed="X" n="0406b20"/>　&CB00397;山智誾禪師　檀度道密禪師
+<lb ed="X" n="0406b21"/>　長慶道獨禪師　獨峰道嚴禪師
+<lb ed="X" n="0406b22"/>　迴龍道舟禪師　&CB00397;山道奉禪師
+<lb ed="X" n="0406b23"/>　余大成濟生居士　黃端伯居士<note place="inline">不列章次</note>
+<lb ed="X" n="0406b24"/>東苑鏡禪師法嗣
+<pb ed="X" id="X84.1582.0406c" n="0406c"/>
+<lb ed="X" n="0406c01"/>　天界道盛禪師
+<lb ed="X" n="0406c02"/>鼓山永覺禪師法嗣
+<lb ed="X" n="0406c03"/>　鼓山為霖霈禪師
+<lb ed="X" n="0406c04"/>卷四十一
+<lb ed="X" n="0406c05"/>未詳法嗣
+<lb ed="X" n="0406c06"/>　徑山雲菴慶禪師　先淨照禪師
+<lb ed="X" n="0406c07"/>　公期禪師　因禪師
+<lb ed="X" n="0406c08"/>　東山雲頂禪師　雲幽重惲禪師
+<lb ed="X" n="0406c09"/>　大安如玉禪師　投子通禪師
+<lb ed="X" n="0406c10"/>　法海立禪師　天寧明禪師
+<lb ed="X" n="0406c11"/>　仁王欽禪師　樓子禪師
+<lb ed="X" n="0406c12"/>　神照本如禪師　靈隱淳朋禪師
+<lb ed="X" n="0406c13"/>　聖壽可觀禪師　青州佛覺禪師
+<lb ed="X" n="0406c14"/>　圓通善禪師<note place="inline">嗣青州覺</note>　慶壽玉禪師<note place="inline">嗣圓通善</note>
+<lb ed="X" n="0406c15"/>　高郵定禪師<note place="inline">嗣慶壽玉</note>　老素首座
+<lb ed="X" n="0406c16"/>　羅漢證禪師　雪竇常藏主
+<lb ed="X" n="0406c17"/>　清谷坱圠子　鐵勤慧洪禪師
+<lb ed="X" n="0406c18"/>　蔣山元模禪師　佛光道悟禪師<note place="inline">嗣白雲海</note>
+<lb ed="X" n="0406c19"/>　嘉山來禪師　天目魁禪師
+<lb ed="X" n="0406c20"/>　靈雲思禪師　育王勉侍者
+<lb ed="X" n="0406c21"/>　永寧清禪師　育王實首座
+<lb ed="X" n="0406c22"/>　幻菴住首座　天童唯西堂
+<lb ed="X" n="0406c23"/>　佛隴可上座　九峰壽首座
+<lb ed="X" n="0406c24"/>　武工明星禪師　長蘆登禪師
+<pb ed="X" id="X84.1582.0407a" n="0407a"/>
+<lb ed="X" n="0407a01"/>　太瘤禪師　長慶法慈禪師
+<lb ed="X" n="0407a02"/>　潭柘覺宗禪師<note place="inline">嗣聖因</note>　潭柘福源禪師
+<lb ed="X" n="0407a03"/>　太古道亨禪師　寶頂元亮禪師
+<lb ed="X" n="0407a04"/>　順天&CB00642;融圓禪師　武昌無念有禪師
+<lb ed="X" n="0407a05"/>　杭州蓮池宏大師　雲居顓愚禪師<note place="inline">憨山嗣&CB00386;列此</note>
+<lb ed="X" n="0407a06"/>　佛妙禪師　紫&CB00177;達觀可禪師
+<lb ed="X" n="0407a07"/>　孝禪戲蘆心禪師
+<lb ed="X" n="0407a08"/>卷四十二
+<lb ed="X" n="0407a09"/>補遺
+<lb ed="X" n="0407a10"/>　雲峰祖燈禪師　大原妙峰登禪師
+<lb ed="X" n="0407a11"/>　夔州儀彖禪師　杭州聞谷印禪師
+<lb ed="X" n="0407a12"/>　曹溪憨山清禪師　翠巖古雪&CB15223;禪師</p>
+<lb ed="X" n="0407a13"/>
+<lb ed="X" n="0407a14"/><juan fun="close" n="001"><jhead>續燈正統目錄<note place="inline">終</note></jhead></juan></div1>
+</body></text></TEI.2>

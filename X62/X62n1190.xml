@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X62n1190.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1190 念佛三昧</title>
+			<author>瑞聖歎註</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.4 $ (Big5)<date>$Date: 2009/04/22 09:01:55 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:01:55 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 62, No. 1190 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/07/04 09:38:28</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X62n1190.xml,v $
+Revision 1.4  2009/04/22 09:01:55  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.3  2005/08/15 06:33:29  eva
+modified: milestone juan mulu n="23" 改成 n="1"
+
+Revision 1.2  2005/07/20 08:05:31  eva
+modified: 跑 juan
+
+Revision 1.1  2005/07/04 01:43:13  ray
+使用 basicx 程式 將 簡單標記版 轉成 XML
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X62.1190.0470b" n="0470b"/>
+<lb ed="X" n="0470b01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0470b02"/>
+<lb ed="X" n="0470b03"/>
+<lb ed="X" n="0470b04"/>
+<lb ed="X" n="0470b05"/><head type="no">No. 1190</head>
+<lb ed="X" n="0470b06"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>念佛三昧　<note place="inline">出檀几叢書二集卷二十三</note></jhead></juan>
+<lb ed="X" n="0470b07"/>
+<lb ed="X" n="0470b08"/><byline type="author">姑蘇金人　瑞聖歎　著</byline>
+<lb ed="X" n="0470b09"/><div1><p id="pX62p0470b0901">娑婆世界。釋尊住持。華藏世界。盧舍那世尊住持。釋
+<lb ed="X" n="0470b10"/>尊新成佛。盧舍那本成佛也。他方世界。有阿彌陀佛。
+<lb ed="X" n="0470b11"/>住于極樂國土。一花一世尊。非算數譬喻之所能及。
+<lb ed="X" n="0470b12"/>所以阿彌陀經。為無問自說經。首題佛說阿彌陀。下
+<lb ed="X" n="0470b13"/>加不得一佛字。</p>
+<lb ed="X" n="0470b14"/><p id="pX62p0470b1401">然燈佛者。一微塵佛也。釋迦佛者。無量微塵佛也。釋
+<lb ed="X" n="0470b15"/>迦佛者。名為病愈。阿彌陀者。名本無病。世尊說阿彌
+<lb ed="X" n="0470b16"/>陀經。另一施設。與諸經不同。乃是為一切眾生。畢竟
+<lb ed="X" n="0470b17"/>不能破我故。特地全舉法界。說你本住在極樂國土
+<lb ed="X" n="0470b18"/>中。各各蓮花化生。有甚不好。譬如醜婦人一般。貯之
+<lb ed="X" n="0470b19"/>洞房深宮。亦自覺標致也。</p><p id="pX62p0470b1911" place="inline">喜怒哀樂四字。以樂為極。
+<lb ed="X" n="0470b20"/>所以知之學者。好之聖人。樂之即天地也。</p><p id="pX62p0470b2017" place="inline">蓮花取相
+<lb ed="X" n="0470b21"/>連義曰蓮。<note place="inline">三世相連花有房房有蔤</note>因非實相曰花。一一眾生。各
+<lb ed="X" n="0470b22"/>坐一花。花開見佛。則見釋迦佛也。極樂國土九品化
+<lb ed="X" n="0470b23"/>生。上品上生者。乃是彌勒一生補處。于此成佛。下品
+<lb ed="X" n="0470b24"/>下生者。乃是阿鼻大地獄罪人。于此成佛。是人因犯
+<pb ed="X" id="X62.1190.0470c" n="0470c"/>
+<lb ed="X" n="0470c01"/>極惡大罪。下阿鼻獄有善知識。以種種因緣。唱阿彌
+<lb ed="X" n="0470c02"/>陀佛。如千年暗室。一燈照之。而此罪人聞此名字。地
+<lb ed="X" n="0470c03"/>獄即在蓮花中。而此蓮花。即在極樂國土中。而此極
+<lb ed="X" n="0470c04"/>樂國土。為阿彌陀佛世界中。此阿彌陀佛世界。乃即
+<lb ed="X" n="0470c05"/>在無量大地獄內一罪人之八識田中。是人總犯極
+<lb ed="X" n="0470c06"/>惡大罪。不敵阿彌陀名字。所以地獄應時粉碎。此謂
+<lb ed="X" n="0470c07"/>下品下生也。</p>
+<lb ed="X" n="0470c08"/><p id="pX62p0470c0801">菩薩不願住於惡濁世界。則不得不求生極樂。然而
+<lb ed="X" n="0470c09"/>得生極樂。乃是果事。欲獲果者。先須造因。云何造因。
+<lb ed="X" n="0470c10"/>念佛三昧是也。念佛之法。不可以妄心念于遙佛。亦
+<lb ed="X" n="0470c11"/>不可以妄心念於妄心。何以故。妄心者。是生死因。不
+<lb ed="X" n="0470c12"/>能感通于本際故。以生死因不能感通故。故佛本不
+<lb ed="X" n="0470c13"/>遙而遂遙也。</p><p id="pX62p0470c1306" place="inline">復次妄心念于妄心者。凡夫正為妄心
+<lb ed="X" n="0470c14"/>連持。至墮地獄。今復教以如是念佛。彼即以前妄心
+<lb ed="X" n="0470c15"/>為念。後妄心為佛。或以前妄心為佛。後妄心為念。如
+<lb ed="X" n="0470c16"/>是即與世間流浪何異。是故此法所不應用。</p><p id="pX62p0470c1618" place="inline">夫念佛
+<lb ed="X" n="0470c17"/>之法。不應先見佛次作念。正應先念成次見佛。所以
+<lb ed="X" n="0470c18"/>者何。若先見佛。佛是何事。如是名為大妄語人。又即
+<lb ed="X" n="0470c19"/>使感應道交。佛或示現。然佛來尋念佛去久矣。又況
+<lb ed="X" n="0470c20"/>能念正是妄心。妄心何可唐突於佛。所謂先念成次
+<lb ed="X" n="0470c21"/>見佛者。念是實。佛是假。菩薩以本際為念。而以妄心
+<lb ed="X" n="0470c22"/>為佛。問何故不以妄心為念。本際為佛。答本際者不
+<lb ed="X" n="0470c23"/>可見。不可見則不能令行人發歡喜心。又本際纖塵
+<lb ed="X" n="0470c24"/>不立。若行人於念處用力。即大不應。又師子乳用玻
+<pb ed="X" id="X62.1190.0471a" n="0471a"/>
+<lb ed="X" n="0471a01"/>&CB00226;盞盛。他器不受。若行人欲以妄心念本際。譬如毒
+<lb ed="X" n="0471a02"/>器盛師子乳。終竟不受。</p><p id="pX62p0471a0210" place="inline">又念佛三昧。對住生死。若用
+<lb ed="X" n="0471a03"/>妄心追逐。終入生死海無疑也。<note place="inline">終</note></p></div1>
+</body></text></TEI.2>

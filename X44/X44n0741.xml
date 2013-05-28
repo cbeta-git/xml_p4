@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X44n0741.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 741 行事鈔諸家記標目</title>
+			<author>宋 慧顯集　日本 戒月改錄</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $ (Big5)<date>$Date: 2009/04/22 08:58:32 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:58:32 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 44, No. 741 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2006/11/06 10:22:43</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X44n0741.xml,v $
+Revision 1.2  2009/04/22 08:58:32  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.1  2006/11/06 03:01:22  duncan
+11/06 轉自 basicx & parsevol done
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X44.0741.0303b" n="0303b"/>
+<lb ed="X" n="0303b01"/><milestone unit="juan" n="1"/>
+<lb ed="X" n="0303b03"/>
+<lb ed="X" n="0303b04"/>
+<lb ed="X" n="0303b05"/><head type="no">No. 741</head>
+<lb ed="X" n="0303b06"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>行事鈔諸家記標目</jhead></juan>
+<lb ed="X" n="0303b07"/>
+<lb ed="X" n="0303b08"/><byline type="other">後學　釋　戒月　改錄</byline>
+<lb ed="X" n="0303b09"/><div1><list><item id="itemX44p0303b0901">行事鈔記十卷<note place="inline">未詳記名</note></item></list>
+<lb ed="X" n="0303b10"/><p id="pX44p0303b1001" rend="margin-left:2em">右一部唐京兆光明寺智仁律師著事鈔一出
+<lb ed="X" n="0303b11"/>諸家著記以師為始係所謂六十家之外矣。</p>
+<lb ed="X" n="0303b12"/><list><item id="itemX44p0303b1201">行事鈔引源記二十一卷</item></list>
+<lb ed="X" n="0303b13"/><p id="pX44p0303b1301" rend="margin-left:2em">右一部唐會稽雲門寺靈澈律師述亦係六十
+<lb ed="X" n="0303b14"/>家之外矣。</p>
+<lb ed="X" n="0303b15"/><list><item id="itemX44p0303b1501">行事鈔記<note place="inline">未考記名及卷數</note></item></list>
+<lb ed="X" n="0303b16"/><p id="pX44p0303b1601" rend="margin-left:2em">右一部唐京師西明寺大慈律師述。</p>
+<lb ed="X" n="0303b17"/><list><item id="itemX44p0303b1701">行事鈔記<note place="inline">如上</note></item></list>
+<lb ed="X" n="0303b18"/><p id="pX44p0303b1801" rend="margin-left:2em">右一部唐龍興寺恒<note place="inline">一作弘</note>景律師述。</p>
+<lb ed="X" n="0303b19"/><list><item id="itemX44p0303b1901">行事鈔當陽記<note place="inline">未詳卷數</note></item></list>
+<lb ed="X" n="0303b20"/><p id="pX44p0303b2001" rend="margin-left:2em">右一部唐荊州曇勝律師述。</p>
+<lb ed="X" n="0303b21"/><list><item id="itemX44p0303b2101">行事鈔記<note place="inline">未詳記名及卷數</note></item></list>
+<lb ed="X" n="0303b22"/><p id="pX44p0303b2201" rend="margin-left:2em">右一部唐蒲州融濟律師述。</p>
+<lb ed="X" n="0303b23"/><list><item id="itemX44p0303b2301">行事鈔記<note place="inline">如上</note></item></list>
+<lb ed="X" n="0303b24"/><p id="pX44p0303b2401" rend="margin-left:2em">右一部唐泉州道深律師述。</p>
+<pb ed="X" id="X44.0741.0303c" n="0303c"/>
+<lb ed="X" n="0303c01"/><list><item id="itemX44p0303c0101">行事鈔西河記<note place="inline">未考卷數</note></item></list>
+<lb ed="X" n="0303c02"/><p id="pX44p0303c0201" rend="margin-left:2em">右一部唐湖州崇福律師述。</p>
+<lb ed="X" n="0303c03"/><list><item id="itemX44p0303c0301">行事鈔記<note place="inline">未詳記名及卷數</note></item></list>
+<lb ed="X" n="0303c04"/><p id="pX44p0303c0401" rend="margin-left:2em">右一部唐崇聖寺靈&CB02920;律師述。</p>
+<lb ed="X" n="0303c05"/><list><item id="itemX44p0303c0501">行事鈔記<note place="inline">如上</note></item></list>
+<lb ed="X" n="0303c06"/><p id="pX44p0303c0601" rend="margin-left:2em">右一部唐湖州智海律師述。</p>
+<lb ed="X" n="0303c07"/><list><item id="itemX44p0303c0701">行事鈔記<note place="inline">如上</note></item></list>
+<lb ed="X" n="0303c08"/><p id="pX44p0303c0801" rend="margin-left:2em">右一部唐湖州法琳律師述。</p>
+<lb ed="X" n="0303c09"/><list><item id="itemX44p0303c0901">行事鈔記十卷<note place="inline">未詳記名</note></item></list>
+<lb ed="X" n="0303c10"/><p id="pX44p0303c1001" rend="margin-left:2em">右一部唐蘇州開元寺道恒律師述。</p>
+<lb ed="X" n="0303c11"/><list><item id="itemX44p0303c1101">行事鈔今古記十卷</item></list>
+<lb ed="X" n="0303c12"/><p id="pX44p0303c1201" rend="margin-left:2em">右一部唐志明律師述。</p>
+<lb ed="X" n="0303c13"/><list><item id="itemX44p0303c1301">行事鈔圓成記十卷</item></list>
+<lb ed="X" n="0303c14"/><p id="pX44p0303c1401" rend="margin-left:2em">右一部唐智蟾律師述。</p>
+<lb ed="X" n="0303c15"/><list><item id="itemX44p0303c1501">行事鈔富陽記十卷</item></list>
+<lb ed="X" n="0303c16"/><p id="pX44p0303c1601" rend="margin-left:2em">右一部唐杭州法儼律師述。</p>
+<lb ed="X" n="0303c17"/><list><item id="itemX44p0303c1701">行事鈔支硎記<note place="inline">未考卷數</note></item></list>
+<lb ed="X" n="0303c18"/><p id="pX44p0303c1801" rend="margin-left:2em">右一部唐蘇州法興律師述。</p>
+<lb ed="X" n="0303c19"/><list><item id="itemX44p0303c1901">行事鈔輔篇記十卷</item></list>
+<lb ed="X" n="0303c20"/><p id="pX44p0303c2001" rend="margin-left:2em">右一部唐越州法華寺玄儼律師述。</p>
+<lb ed="X" n="0303c21"/><list><item id="itemX44p0303c2101">行事鈔發正記十卷</item></list>
+<lb ed="X" n="0303c22"/><p id="pX44p0303c2201" rend="margin-left:2em">右一部唐會稽開元寺覺胤一律師述。</p>
+<lb ed="X" n="0303c23"/><list><item id="itemX44p0303c2301">行事鈔折中記六卷</item></list>
+<lb ed="X" n="0303c24"/><p id="pX44p0303c2401" rend="margin-left:2em">右一部唐常州興寧寺義宣<note place="inline">一作超</note>律師述。</p>
+<pb ed="X" id="X44.0741.0304a" n="0304a"/>
+<lb ed="X" n="0304a01"/><list><item id="itemX44p0304a0101">行事鈔會正<note place="inline">一作冒</note>記<note place="inline">未詳卷數</note></item></list>
+<lb ed="X" n="0304a02"/><p id="pX44p0304a0201" rend="margin-left:2em">右一部唐志相律師述。</p>
+<lb ed="X" n="0304a03"/><list><item id="itemX44p0304a0301">行事鈔古今決<note place="inline">一作慈和記</note>十卷</item></list>
+<lb ed="X" n="0304a04"/><p id="pX44p0304a0401" rend="margin-left:2em">右一部唐潤州招隱寺朗然律師述。</p>
+<lb ed="X" n="0304a05"/><list><item id="itemX44p0304a0501">行事鈔關要記十卷</item></list>
+<lb ed="X" n="0304a06"/><p id="pX44p0304a0601" rend="margin-left:2em">右一部唐清法律師述。</p>
+<lb ed="X" n="0304a07"/><list><item id="itemX44p0304a0701">行事鈔集正記<note place="inline">未詳卷數</note></item></list>
+<lb ed="X" n="0304a08"/><p id="pX44p0304a0801" rend="margin-left:2em">右一部唐潤州惟倩律師述。</p>
+<lb ed="X" n="0304a09"/><list><item id="itemX44p0304a0901">行事鈔記六卷<note place="inline">未考記名</note></item></list>
+<lb ed="X" n="0304a10"/><p id="pX44p0304a1001" rend="margin-left:2em">右一部唐慧超律師述。</p>
+<lb ed="X" n="0304a11"/><list><item id="itemX44p0304a1101">行事鈔記七卷<note place="inline">一作六卷未考記名</note></item></list>
+<lb ed="X" n="0304a12"/><p id="pX44p0304a1201" rend="margin-left:2em">右一部唐杭州辯常律師述。</p>
+<lb ed="X" n="0304a13"/><list><item id="itemX44p0304a1301">行事鈔靈山記<note place="inline">未考卷數</note></item></list>
+<lb ed="X" n="0304a14"/><p id="pX44p0304a1401" rend="margin-left:2em">右一部唐西京禪定寺義威律師述。</p>
+<lb ed="X" n="0304a15"/><list><item id="itemX44p0304a1501">四分律鈔批<note place="inline">一作華嚴記</note>十四卷</item></list>
+<lb ed="X" n="0304a16"/><p id="pX44p0304a1601" rend="margin-left:2em">右一部唐杭州華嚴寺大覺律師述。</p>
+<lb ed="X" n="0304a17"/><list><item id="itemX44p0304a1701">行事鈔搜玄錄二十卷</item></list>
+<lb ed="X" n="0304a18"/><p id="pX44p0304a1801" rend="margin-left:2em">右一部唐吳郡雙林寺長壽大師志鴻述。</p>
+<lb ed="X" n="0304a19"/><list><item id="itemX44p0304a1901">行事鈔順正記十卷</item></list>
+<lb ed="X" n="0304a20"/><p id="pX44p0304a2001" rend="margin-left:2em">右一部唐楊州慧照寺省&CB04457;律師述。</p>
+<lb ed="X" n="0304a21"/><list><item id="itemX44p0304a2101">行事鈔通玄記<note place="inline">未考卷數</note></item></list>
+<lb ed="X" n="0304a22"/><p id="pX44p0304a2201" rend="margin-left:2em">右一部唐通玄寺常進律師述。</p>
+<lb ed="X" n="0304a23"/><list><item id="itemX44p0304a2301">行事鈔記六卷<note place="inline">未考記名</note></item></list>
+<lb ed="X" n="0304a24"/><p id="pX44p0304a2401" rend="margin-left:2em">右一部唐乾素律師述。</p>
+<pb ed="X" id="X44.0741.0304b" n="0304b"/>
+<lb ed="X" n="0304b01"/><list><item id="itemX44p0304b0101">行事鈔記四卷<note place="inline">未詳記名</note></item></list>
+<lb ed="X" n="0304b02"/><p id="pX44p0304b0201" rend="margin-left:2em">右一部唐曇慶律師述。</p>
+<lb ed="X" n="0304b03"/><list><item id="itemX44p0304b0301">行事鈔顯宗記<note place="inline">未考卷數</note></item></list>
+<lb ed="X" n="0304b04"/><p id="pX44p0304b0401" rend="margin-left:2em">右一部唐衛獄寺曇清律師述。</p>
+<lb ed="X" n="0304b05"/><list><item id="itemX44p0304b0501">行事鈔集義記<note place="inline">一作後堂記</note>二十卷</item></list>
+<lb ed="X" n="0304b06"/><p id="pX44p0304b0601" rend="margin-left:2em">右一部唐鐘陵龍興寺清徹律師述。</p>
+<lb ed="X" n="0304b07"/><list><item id="itemX44p0304b0701">行事鈔記<note place="inline">未考記名及卷數</note></item></list>
+<lb ed="X" n="0304b08"/><p id="pX44p0304b0801" rend="margin-left:2em">右一部唐廣雄律師述。</p>
+<lb ed="X" n="0304b09"/><list><item id="itemX44p0304b0901">行事鈔記十卷<note place="inline">未考記名</note></item></list>
+<lb ed="X" n="0304b10"/><p id="pX44p0304b1001" rend="margin-left:2em">右一部唐智璀律師述。</p>
+<lb ed="X" n="0304b11"/><list><item id="itemX44p0304b1101">行事鈔顯正記十卷</item></list>
+<lb ed="X" n="0304b12"/><p id="pX44p0304b1201" rend="margin-left:2em">右一部總持寺法寶大師玄暢述。</p>
+<lb ed="X" n="0304b13"/><list><item id="itemX44p0304b1301">行事鈔繼宗記<note place="inline">未考卷數</note></item></list>
+<lb ed="X" n="0304b14"/><p id="pX44p0304b1401" rend="margin-left:2em">右一部唐京兆從志律師述。</p>
+<lb ed="X" n="0304b15"/><list><item id="itemX44p0304b1501">行事鈔記<note place="inline">未考記名及卷數</note></item></list>
+<lb ed="X" n="0304b16"/><p id="pX44p0304b1601" rend="margin-left:2em">右一部唐秀州德圓律師述。</p>
+<lb ed="X" n="0304b17"/><list><item id="itemX44p0304b1701">行事鈔記<note place="inline">如上</note></item></list>
+<lb ed="X" n="0304b18"/><p id="pX44p0304b1801" rend="margin-left:2em">右一部唐越州開元寺丹甫律師述。</p>
+<lb ed="X" n="0304b19"/><list><item id="itemX44p0304b1901">行事鈔記<note place="inline">如上</note></item></list>
+<lb ed="X" n="0304b20"/><p id="pX44p0304b2001" rend="margin-left:2em">右一部唐湖州仲平律師述。</p>
+<lb ed="X" n="0304b21"/><list><item id="itemX44p0304b2101">行事鈔集要記十二卷</item></list>
+<lb ed="X" n="0304b22"/><p id="pX44p0304b2201" rend="margin-left:2em">右一部後梁西明寺慧則律師述。</p>
+<lb ed="X" n="0304b23"/><list><item id="itemX44p0304b2301">行事鈔義記五卷</item></list>
+<lb ed="X" n="0304b24"/><p id="pX44p0304b2401" rend="margin-left:2em">右一部後梁越州大善寺元表律師述。</p>
+<pb ed="X" id="X44.0741.0304c" n="0304c"/>
+<lb ed="X" n="0304c01"/><list><item id="itemX44p0304c0101">行事鈔長水記<note place="inline">未考卷數</note></item></list>
+<lb ed="X" n="0304c02"/><p id="pX44p0304c0201" rend="margin-left:2em">右一部後梁秀州全禮律師述。</p>
+<lb ed="X" n="0304c03"/><list><item id="itemX44p0304c0301">行事鈔上元記<note place="inline">如上</note></item></list>
+<lb ed="X" n="0304c04"/><p id="pX44p0304c0401" rend="margin-left:2em">右一部後梁慧密律師述。</p>
+<lb ed="X" n="0304c05"/><list><item id="itemX44p0304c0501">行事鈔龜鏡記<note place="inline">如上</note></item></list>
+<lb ed="X" n="0304c06"/><p id="pX44p0304c0601" rend="margin-left:2em">右一部後梁徽猷律師述。</p>
+<lb ed="X" n="0304c07"/><list><item id="itemX44p0304c0701">行事鈔簡正記二十卷</item></list>
+<lb ed="X" n="0304c08"/><p id="pX44p0304c0801" rend="margin-left:2em">右一部後唐杭州真身寶塔寺景霄律師述。</p>
+<lb ed="X" n="0304c09"/><list><item id="itemX44p0304c0901">行事鈔持犯四果章記<note place="inline">未考卷數</note></item></list>
+<lb ed="X" n="0304c10"/><p id="pX44p0304c1001" rend="margin-left:2em">右一部後唐杭州無外律師述。</p>
+<lb ed="X" n="0304c11"/><list><item id="itemX44p0304c1101">行事鈔手鏡記<note place="inline">如上</note></item></list>
+<lb ed="X" n="0304c12"/><p id="pX44p0304c1201" rend="margin-left:2em">右一部後唐婺州德殷律師述。</p>
+<lb ed="X" n="0304c13"/><list><item id="itemX44p0304c1301">行事鈔指志記五卷</item></list>
+<lb ed="X" n="0304c14"/><p id="pX44p0304c1401" rend="margin-left:2em">右一部後唐杭州覺照律師述。</p>
+<lb ed="X" n="0304c15"/><list><item id="itemX44p0304c1501">行事鈔集義記<note place="inline">未考卷數</note></item></list>
+<lb ed="X" n="0304c16"/><p id="pX44p0304c1601" rend="margin-left:2em">右一部後唐洪州清儼律師述。</p>
+<lb ed="X" n="0304c17"/><list><item id="itemX44p0304c1701">述鈔音訓<note place="inline">如上</note></item></list>
+<lb ed="X" n="0304c18"/><p id="pX44p0304c1801" rend="margin-left:2em">右一部後唐越州崇義律師述。</p>
+<lb ed="X" n="0304c19"/><list><item id="itemX44p0304c1901">行事鈔記<note place="inline">未考記名及卷數</note></item></list>
+<lb ed="X" n="0304c20"/><p id="pX44p0304c2001" rend="margin-left:2em">右一部後唐立律師述。</p>
+<lb ed="X" n="0304c21"/><list><item id="itemX44p0304c2101">行事鈔增暉記二十卷</item></list>
+<lb ed="X" n="0304c22"/><p id="pX44p0304c2201" rend="margin-left:2em">右一部漢錢塘千佛寺文光大師希覺述。</p>
+<lb ed="X" n="0304c23"/><list><item id="itemX44p0304c2301">行事鈔拾遺記三卷</item></list>
+<lb ed="X" n="0304c24"/><p id="pX44p0304c2401" rend="margin-left:2em">右一部宋杭州處雲律師述。</p>
+<pb ed="X" id="X44.0741.0305a" n="0305a"/>
+<lb ed="X" n="0305a01"/><list><item id="itemX44p0305a0101">行事鈔集解記十二卷</item></list>
+<lb ed="X" n="0305a02"/><p id="pX44p0305a0201" rend="margin-left:2em">右一部宋越州普濟律師述。</p>
+<lb ed="X" n="0305a03"/><list><item id="itemX44p0305a0301">行事鈔音義指歸三卷</item></list>
+<lb ed="X" n="0305a04"/><p id="pX44p0305a0401" rend="margin-left:2em">右一部宋京兆天壽寺通慧大師贊寧述。</p>
+<lb ed="X" n="0305a05"/><list><item id="itemX44p0305a0501">行事鈔正言記十卷</item></list>
+<lb ed="X" n="0305a06"/><p id="pX44p0305a0601" rend="margin-left:2em">右一部宋昇州德明律師述。</p>
+<lb ed="X" n="0305a07"/><list><item id="itemX44p0305a0701">行事鈔義苑記七卷</item></list>
+<lb ed="X" n="0305a08"/><p id="pX44p0305a0801" rend="margin-left:2em">右一部宋杭州擇悟律師述。</p>
+<lb ed="X" n="0305a09"/><list><item id="itemX44p0305a0901">行事鈔會正記十三<note place="inline">一作二</note>卷</item></list>
+<lb ed="X" n="0305a10"/><p id="pX44p0305a1001" rend="margin-left:2em">右一部宋錢塘菩提寺允堪律師述。</p>
+<lb ed="X" n="0305a11"/><list><item id="itemX44p0305a1101">行事鈔簡正記<note place="inline">未詳卷數</note></item></list>
+<lb ed="X" n="0305a12"/><p id="pX44p0305a1201" rend="margin-left:2em">右一部宋溫州文博律師述。</p>
+<lb ed="X" n="0305a13"/><list><item id="itemX44p0305a1301">行事鈔資持記十六<note place="inline">一作二</note>卷</item></list>
+<lb ed="X" n="0305a14"/><p id="pX44p0305a1401" rend="margin-left:2em">右一部宋靈芝崇福寺大智律師元照述。</p>
+<lb ed="X" n="0305a15"/>
+<lb ed="X" n="0305a16"/><juan fun="close" n="1"><jhead>行事鈔諸家記標目<note place="inline">終</note></jhead></juan></div1>
+</body></text></TEI.2>

@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X22n0429.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 429 阿彌陀經已決</title>
+			<author>明 大慧釋</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.4 $ (Big5)<date>$Date: 2009/04/22 08:53:25 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:53:25 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 22, No. 429 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2006/06/28 14:44:56</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X22n0429.xml,v $
+Revision 1.4  2009/04/22 08:53:25  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.3  2007/07/06 09:09:02  eva
+modified: 校注作業完成
+
+Revision 1.2  2006/06/28 06:49:59  ray
+重新執行 basicx
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X22.0429.0811c" n="0811c"/>
+<lb ed="X" n="0811c01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0811c02"/>
+<lb ed="X" n="0811c03"/>
+<lb ed="X" n="0811c04"/>
+<lb ed="X" n="0811c05"/>
+<lb ed="X" n="0811c06"/><div1 type="xu"><mulu type="序" level="1" label="No. 429-A 淨土已訣序"/><head>No. 429-A
+<lb ed="X" n="0811c07"/> 淨土<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>訣序</head>
+<lb ed="X" n="0811c08"/>
+<lb ed="X" n="0811c09"/><p id="pX22p0811c0901">千江月現停水澄清四海風生動波混濁&CB00582;波動固
+<lb ed="X" n="0811c10"/>風而水停致月耳豈停波海濁而動水江清者乎土
+<lb ed="X" n="0811c11"/>之淨穢猶然佛道悟則淨土莊嚴凡心迷則穢土缺
+<lb ed="X" n="0811c12"/>陷非道迷土淨而心悟土穢也明矣若欲生淨貴先
+<lb ed="X" n="0811c13"/>求悟夫悟容受於生死穢耶故阿彌陀譯為無量壽
+<lb ed="X" n="0811c14"/>無量光量以容受為義念佛到心不亂時聖凡情見
+<lb ed="X" n="0811c15"/>俱不容受直得行樹羅網等莫不念佛法僧所謂無
+<lb ed="X" n="0811c16"/>情說法不思議者是<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>悟此不容受以相應曰壽用
+<lb ed="X" n="0811c17"/>此不容受以轉化曰光名含二義因存其梵語以流
+<lb ed="X" n="0811c18"/>通焉淨土彌陀非惟心本性而何北禪老尊宿與余
+<lb ed="X" n="0811c19"/>前三峰先師最為機契盡其堂奧積稔溫研先師去
+<lb ed="X" n="0811c20"/>後&CB05072;唱者稀養道歇心安身於無量壽中如潛龍而
+<lb ed="X" n="0811c21"/>勿用也爭奈春雷時動不免出而興雲於是縱自性
+<lb ed="X" n="0811c22"/>天注淨土<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>訣一帙蓮宗心髓敲出殆盡從古迨今
+<lb ed="X" n="0811c23"/>若疏與鈔不下數十家要且難駕其上者非但祇園
+<lb ed="X" n="0811c24"/>激揚共轍即少林單傳亦同風而無異永明曰有禪
+<pb ed="X" id="X22.0429.0812a" n="0812a"/>
+<lb ed="X" n="0812a01"/>有淨土猶如戴角虎斯之謂歟茲既訣以得<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>擬推
+<lb ed="X" n="0812a02"/><app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>以訣於人將壽諸剞劂氏用廣傳持屬弁數言以
+<lb ed="X" n="0812a03"/>為序愧無文字何以揄揚然贊化願中又辭而不敢
+<lb ed="X" n="0812a04"/>因轉別峰直與提述如向上若曰無訣可得是名得
+<lb ed="X" n="0812a05"/>訣且道是<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>訣耶非<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>訣耶吾不能加諸述焉。</p>
+<lb ed="X" n="0812a06"/><p id="pX22p0812a0601">崇禎壬午小春晦前日三峰弘證槃談題</p></div1>
+<lb ed="X" n="0812a07"/>
+<lb ed="X" n="0812a08"/>
+<lb ed="X" n="0812a09"/>
+<lb ed="X" n="0812a10"/><div1 type="other"><mulu type="其他" level="1" label="淨土已訣"/>
+<lb ed="X" n="0812a11"/><head type="no">No. 429</head>
+<lb ed="X" n="0812a12"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>淨土<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>訣</jhead></juan>
+<lb ed="X" n="0812a13"/>
+<lb ed="X" n="0812a14"/><byline type="other">姚秦三藏法師鳩摩羅什譯</byline>
+<lb ed="X" n="0812a15"/><byline type="author">明吳門北禪寺沙門大惠釋</byline>
+<lb ed="X" n="0812a16"/><div2 type="orig"><p id="pX22p0812a1601">佛說阿彌陀經</p></div2>
+<lb ed="X" n="0812a17"/><div2 type="commentary"><p id="pX22p0812a1701" rend="margin-left:1em">梵語阿彌陀此云無量壽亦云無量光佛說者即
+<lb ed="X" n="0812a18"/>此土我佛世尊讚彼佛名號本願殊勝種種方便
+<lb ed="X" n="0812a19"/>接引&CB00320;生故無量者約數言之即壽無量約理言
+<lb ed="X" n="0812a20"/>之即心無量何以故一切眾生住無量體中纔起
+<lb ed="X" n="0812a21"/>一念一念中具生住異滅即成四念展轉有無量
+<lb ed="X" n="0812a22"/>念即在一念中流轉如是一念具足不可思不可
+<lb ed="X" n="0812a23"/>說神用光明炤十方國名曰無量光若眾生依無
+<lb ed="X" n="0812a24"/>量體中起一念時在此一念中&CB00642;計即成多念便
+<pb ed="X" id="X22.0429.0812b" n="0812b"/>
+<lb ed="X" n="0812b01"/>有無量生死此是流轉門若在還滅門中而心意
+<lb ed="X" n="0812b02"/>識不可到故曰無量亦為數之極如是無量數逆
+<lb ed="X" n="0812b03"/>而歸萬萬歸千千歸百百歸一一不知歸於何處
+<lb ed="X" n="0812b04"/>故稱無量方始聖凡心盡十方皆為淨土也無量
+<lb ed="X" n="0812b05"/>壽即體也無量光即用也此無量光一句東西兩
+<lb ed="X" n="0812b06"/>土盡空法界總為一句阿彌陀佛更無剩法何以
+<lb ed="X" n="0812b07"/>故心即無量世界亦無量所謂法界藏身阿彌陀
+<lb ed="X" n="0812b08"/>佛佛者譯名覺也&CB00582;愚智皆具奈何凡聖情隔不
+<lb ed="X" n="0812b09"/>能入清淨覺耳若聖凡俱泯又為斷滅若混而不
+<lb ed="X" n="0812b10"/>分亦名矯亂離此多言十法界皆成圓滿覺性方
+<lb ed="X" n="0812b11"/>可說法應一切機亦名一切種智經者如潤大地
+<lb ed="X" n="0812b12"/>之水未失本源流注故所以佛佛始終教義但用
+<lb ed="X" n="0812b13"/>一&CB00286;經之源貫通血&CB00160;耳彼佛經無量劫單說一
+<lb ed="X" n="0812b14"/>&CB00286;經字即此一字一切法具耶不具耶曰經行十
+<lb ed="X" n="0812b15"/>萬億即在飯食時若諦觀實際淨土因緣者豈文
+<lb ed="X" n="0812b16"/>字可詮乎離文字焉有是乎惠雖脫舊言新亦是
+<lb ed="X" n="0812b17"/>過中語句其餘名相舊釋<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>詳置而不述者今<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0812b18"/>訣但解一句古彌陀例於情與無情皆無欠少此
+<lb ed="X" n="0812b19"/>經題六字如是我聞等句是經家貫通文勢耳。</p></div2>
+<lb ed="X" n="0812b20"/><div2 type="orig"><p id="pX22p0812b2001">如是我聞<note place="inline">至</note>無量諸天大眾俱。</p></div2>
+<lb ed="X" n="0812b21"/><div2 type="commentary"><p id="pX22p0812b2101" rend="margin-left:1em">如是我聞者阿難親聞斷疑生信故一時者世尊
+<lb ed="X" n="0812b22"/>說此經時三時為一時可為說法之要覺三心無
+<lb ed="X" n="0812b23"/>&CB00697;曰佛也祇樹給孤獨園者是說法處所非是&CB00980;
+<lb ed="X" n="0812b24"/>空無體之談在事相中有體法耳表無&CB00980;妄也因
+<pb ed="X" id="X22.0429.0812c" n="0812c"/>
+<lb ed="X" n="0812c01"/>人心流注必須在一微塵聖凡心盡處方得如如
+<lb ed="X" n="0812c02"/>一時大用也比丘及大菩薩眾者<note n="0812001" resp="Xuzangjing" place="foot text" type="orig">&CB00573;與常通下準之</note>&CB00573;隨眾也表無
+<lb ed="X" n="0812c03"/>性之理所說法不從佛生不從比丘生不從佛與
+<lb ed="X" n="0812c04"/>比丘菩薩諸天共生因此土昏迷眾生而生所以
+<lb ed="X" n="0812c05"/>不是無因而生一切眾生因無明緣行乃至生緣
+<lb ed="X" n="0812c06"/>老死皆從緣生無自性故說無生一切聖凡身語
+<lb ed="X" n="0812c07"/>意業及法界從地水火風空而生如是五大各從
+<lb ed="X" n="0812c08"/>緣生無自性故是故說無生一切有情無情同住
+<lb ed="X" n="0812c09"/>本際三世本是&CB00980;妄無自性故曰無生無生淨土
+<lb ed="X" n="0812c10"/>旨要愚者十萬億智者在目前佛雖指西方象表
+<lb ed="X" n="0812c11"/>此土事物上全張何也此土一事一物具一大藏
+<lb ed="X" n="0812c12"/>始末法法皆是因緣所生故若以寸土許物分析
+<lb ed="X" n="0812c13"/>生空轉於空生至於雙炤雙泯圓明便入無生<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0812c14"/>更有一種有血氣者在寸土物中不經前途用無
+<lb ed="X" n="0812c15"/>生無滅無來無去秘密觀炤一剎那頃頓入圓音
+<lb ed="X" n="0812c16"/>妙旨者即世尊四十九年法一時說盡耳可見人
+<lb ed="X" n="0812c17"/>人無量壽物物無量光口口吐蓮華步步黃金界
+<lb ed="X" n="0812c18"/>四苦咸極樂八難皆淨土淨手盆中是八功德水
+<lb ed="X" n="0812c19"/>鳥鳴風吹樹演暢無生義未然者用一句阿彌陀
+<lb ed="X" n="0812c20"/>佛念念截斷眾流終有到遮時節此經無問而自
+<lb ed="X" n="0812c21"/>說者何也一者此方弟子無有緣起直指西方之
+<lb ed="X" n="0812c22"/>樂令人好樂二者無當機故所以詔告舍利弗何
+<lb ed="X" n="0812c23"/>以故欲令現前大眾頓契無量光之句也如此說
+<lb ed="X" n="0812c24"/>者為末世眾生出生死捷要不然只是方便有餘
+<pb ed="X" id="X22.0429.0813a" n="0813a"/>
+<lb ed="X" n="0813a01"/>土耳敘分<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>竟下云正宗分。</p></div2>
+<lb ed="X" n="0813a02"/><div2 type="orig"><p id="pX22p0813a0201">爾時佛告<note place="inline">至</note>今現在說法。</p></div2>
+<lb ed="X" n="0813a03"/><div2 type="commentary"><p id="pX22p0813a0301" rend="margin-left:1em">有世界名極樂者彼國依報莊嚴阿彌陀今現在
+<lb ed="X" n="0813a04"/>說法是正報相好莊嚴極樂者是依正之兼備標
+<lb ed="X" n="0813a05"/>一經之大義耳此土到彼土十萬億數不歷須臾
+<lb ed="X" n="0813a06"/>即登彼國是事佛土中之理佛土也如斯行布圓
+<lb ed="X" n="0813a07"/>融即事理無礙事事無礙也若細推之明一箇阿
+<lb ed="X" n="0813a08"/>字種方可出情無&CB00980;妄也阿彌陀今現在說法者
+<lb ed="X" n="0813a09"/>彼佛成道以來至今十劫非但十劫於無始時盡
+<lb ed="X" n="0813a10"/>彼佛壽亦可作現在一時此意云何是本際無前
+<lb ed="X" n="0813a11"/>後際故唯有現在一時耳若不爾者一日至於七
+<lb ed="X" n="0813a12"/>日亦為方便但生彼國始知阿彌陀佛與我同生
+<lb ed="X" n="0813a13"/>乃至過去未來現在諸佛亦與我同生同說法皆
+<lb ed="X" n="0813a14"/>不離本住法故言同時說法也。</p></div2>
+<lb ed="X" n="0813a15"/><div2 type="orig"><p id="pX22p0813a1501">舍利弗<note place="inline">至</note>故名極樂。</p></div2>
+<lb ed="X" n="0813a16"/><div2 type="commentary"><p id="pX22p0813a1601" rend="margin-left:1em">彼土極樂者對此土極苦而言此土眾生雖苦而
+<lb ed="X" n="0813a17"/>不發心故指西方之極樂令人好樂發念佛之志
+<lb ed="X" n="0813a18"/>乃至一心不亂為因證不思議身為果也極樂者
+<lb ed="X" n="0813a19"/>離此土苦樂假名為樂是名真樂下文顯無量極
+<lb ed="X" n="0813a20"/>樂體也。</p></div2>
+<lb ed="X" n="0813a21"/><div2 type="orig"><p id="pX22p0813a2101">又舍利弗<note place="inline">至</note>是故名為極樂<note place="inline">彼土莊嚴本無所表愚智循業現諸淨穢物則
+<lb ed="X" n="0813a22"/>非心表即非物心物俱非唯心可表</note>。</p></div2>
+<lb ed="X" n="0813a23"/><div2 type="commentary"><p id="pX22p0813a2301" rend="margin-left:1em">七重欄楯等者有難問云此七重在一人耶一世
+<lb ed="X" n="0813a24"/>界耶唯佛有耶若一人者不得成隨乃至惟佛有
+<pb ed="X" id="X22.0429.0813b" n="0813b"/>
+<lb ed="X" n="0813b01"/>者與彼國人民何干四寶周&CB00038;等皆如是答曰非
+<lb ed="X" n="0813b02"/>也佛與眾生共有七種識與如來藏同一清淨及
+<lb ed="X" n="0813b03"/>眾生八種識皆攝一剎那際中無為之妙用故秪
+<lb ed="X" n="0813b04"/>因前七種識見聞覺知次第而生所以不清淨耳
+<lb ed="X" n="0813b05"/>然而七八合而為一體無先後&CB00642;計執著即為嘗
+<lb ed="X" n="0813b06"/>寂光也假如此土一株樹將前七種識在現量一
+<lb ed="X" n="0813b07"/>剎那中見耶非見耶分別耶非分別耶即此一際
+<lb ed="X" n="0813b08"/>中分得合得六根互用自然神妙不犯功勳名為
+<lb ed="X" n="0813b09"/>極樂。</p></div2>
+<lb ed="X" n="0813b10"/><div2 type="orig"><p id="pX22p0813b1001">又舍利弗<note place="inline">至</note>成就如是功德莊嚴。</p></div2>
+<lb ed="X" n="0813b11"/><div2 type="commentary"><p id="pX22p0813b1101" rend="margin-left:1em">七寶池八功德水者表極樂之法式也八種識攝
+<lb ed="X" n="0813b12"/>為一體分而為眾法故稱寶也八功德水者即藏
+<lb ed="X" n="0813b13"/>識中流出皆是無量珍寶使眾生不枯不住即是
+<lb ed="X" n="0813b14"/>無量妙用所住地亦皆金沙是塵沙妙用四邊階
+<lb ed="X" n="0813b15"/>道表地水火風上有樓閣只三乘法也總是如來
+<lb ed="X" n="0813b16"/>藏中無量種智所謂金銀乃至瑪瑙表本際中妙
+<lb ed="X" n="0813b17"/>用池中蓮華言法之微妙大如車輪言法之無住
+<lb ed="X" n="0813b18"/>青色青光乃至白色白光法有本位不錯亂故微
+<lb ed="X" n="0813b19"/>妙香潔使眾生愛樂不然者如上境緣王侯富貴
+<lb ed="X" n="0813b20"/>之家亦可為之豈淨&CB15131;也哉。</p></div2>
+<lb ed="X" n="0813b21"/><div2 type="orig"><p id="pX22p0813b2101">又舍利弗<note place="inline">至</note>成就如是功德莊嚴。</p></div2>
+<lb ed="X" n="0813b22"/><div2 type="commentary"><p id="pX22p0813b2201" rend="margin-left:1em">&CB00573;作天樂表陀羅尼句如樂音自然之妙然此土
+<lb ed="X" n="0813b23"/>樂音必借樂而發音非人語非不人語唯樂人可
+<lb ed="X" n="0813b24"/>知餘不得而知也佛語秘密如樂音悟者方知迷
+<pb ed="X" id="X22.0429.0813c" n="0813c"/>
+<lb ed="X" n="0813c01"/>者無知何以故直指阿彌陀佛無量光明句與樂
+<lb ed="X" n="0813c02"/>音句無二無二故令眾生不思議熏自然信樂彼
+<lb ed="X" n="0813c03"/>國亦有天與地及六時者即淨穢兩土當體不二
+<lb ed="X" n="0813c04"/>故一&CB01366;食時供養十萬億佛土佛佛前皆以獻華
+<lb ed="X" n="0813c05"/>作禮請說法要不出受食這一時若此土一劫彼
+<lb ed="X" n="0813c06"/>土作一日本非神通亦非延促法爾然也咸是唯
+<lb ed="X" n="0813c07"/>心所現經劫之嘗即是一日一日即一時一時即
+<lb ed="X" n="0813c08"/>一剎那住斯剎那無去來故彼土如斯殊勝豈不
+<lb ed="X" n="0813c09"/>樂乎上云報化佛說法下云法佛說法。</p></div2>
+<lb ed="X" n="0813c10"/><div2 type="orig"><p id="pX22p0813c1001">復次舍利弗<note place="inline">至</note>成就如是功德莊嚴。</p></div2>
+<lb ed="X" n="0813c11"/><div2 type="commentary"><p id="pX22p0813c1101" rend="margin-left:1em">雜色之鳥樹網等是法佛說法眾鳥演暢五根五
+<lb ed="X" n="0813c12"/>力等者即此土三十七品助道法也彼土單言五
+<lb ed="X" n="0813c13"/>根五力等者甚言其道力也何以故彼土人民依
+<lb ed="X" n="0813c14"/>正無我不言其苦樂所以無四念處故彼國眾生
+<lb ed="X" n="0813c15"/>越善惡嘗清淨故不言伏惡養善所以無四正勤
+<lb ed="X" n="0813c16"/>法故彼土自有種種功德智慧莊嚴一生補處不
+<lb ed="X" n="0813c17"/>言其欲等所以無四如意法故何以故直提上上
+<lb ed="X" n="0813c18"/>法然而明此上上法者即在一事中藏身事事皆
+<lb ed="X" n="0813c19"/>演上上之法耳彼佛國土無三惡道是眾鳥等是
+<lb ed="X" n="0813c20"/>佛所化現即阿彌陀佛願力弘深故若論實理者
+<lb ed="X" n="0813c21"/>法法頭頭無不是演這一句阿彌陀佛會鶯啼鵲
+<lb ed="X" n="0813c22"/>噪水流風動皆悉念佛念法念僧無不是嘗寂光
+<lb ed="X" n="0813c23"/>現前矣倘不會者必須發願往生生彼國<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>然諸
+<lb ed="X" n="0813c24"/>苦滅而諸樂現然不思議淨土者在一相中是不
+<pb ed="X" id="X22.0429.0814a" n="0814a"/>
+<lb ed="X" n="0814a01"/>得非不得亦不壞此相即成無相實相此正顯無
+<lb ed="X" n="0814a02"/>情說法也寶樹羅網同時俱作者無次第生故東
+<lb ed="X" n="0814a03"/>西兩土盡空法界俱在一毫頭上施設種種法種
+<lb ed="X" n="0814a04"/>種事咸是念佛念法念僧何以故種種法與相皆
+<lb ed="X" n="0814a05"/>住本際中無有前後名曰同時俱作。</p></div2>
+<lb ed="X" n="0814a06"/><div2 type="orig"><p id="pX22p0814a0601">舍利弗於汝意云何<note place="inline">至</note>故名阿彌陀。</p></div2>
+<lb ed="X" n="0814a07"/><div2 type="commentary"><p id="pX22p0814a0701" rend="margin-left:1em">阿彌陀佛從無量劫修無量壽之光明以成聖果
+<lb ed="X" n="0814a08"/>無有障礙前皆依正莊嚴此獨顯正報也即阿彌
+<lb ed="X" n="0814a09"/>陀佛在一微塵中炤十方國通達無礙四聖六凡
+<lb ed="X" n="0814a10"/>亦不出一微塵何以故微塵最微細事上上之機
+<lb ed="X" n="0814a11"/>不壞一微塵相故稱廣大不即不離是名微妙然
+<lb ed="X" n="0814a12"/>阿彌陀佛最高大身亦住此微塵中說法度生能
+<lb ed="X" n="0814a13"/>舒能捲故名無量義不歷須臾佛壽無量眾生壽
+<lb ed="X" n="0814a14"/>亦無量不出一微塵耳固然透得微塵義總持一
+<lb ed="X" n="0814a15"/>句自然明矣。</p></div2>
+<lb ed="X" n="0814a16"/><div2 type="orig"><p id="pX22p0814a1601">舍利弗<note place="inline">至</note>成就如是功德莊嚴。</p></div2>
+<lb ed="X" n="0814a17"/><div2 type="commentary"><p id="pX22p0814a1701" rend="margin-left:1em">彼佛國土唯有菩薩聲聞十劫<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>來無有惡習眾
+<lb ed="X" n="0814a18"/>生故名成就如是功德莊嚴。</p></div2>
+<lb ed="X" n="0814a19"/><div2 type="orig"><p id="pX22p0814a1901">又舍利弗<note place="inline">至</note>但可以無量無邊阿僧祗說。</p></div2>
+<lb ed="X" n="0814a20"/><div2 type="commentary"><p id="pX22p0814a2001" rend="margin-left:1em">言彼國之妙生者便登不退一生補處此土因人
+<lb ed="X" n="0814a21"/>即念一句佛名無思無為盡一生念去自然生彼
+<lb ed="X" n="0814a22"/>不退或一念或十念或一日至於七日將一句佛
+<lb ed="X" n="0814a23"/>名截斷心意識如斯念者即生上上品自力不退
+<lb ed="X" n="0814a24"/>前云一生念佛生而不退非是眾生不退彼佛菩
+<pb ed="X" id="X22.0429.0814b" n="0814b"/>
+<lb ed="X" n="0814b01"/>薩誓願攝受皆是聖賢所居之地無惡伴侶是故
+<lb ed="X" n="0814b02"/>不退耳此土凡聖同居有惡眾生故逢善即善遇
+<lb ed="X" n="0814b03"/>惡即惡所以有進退之難也。</p></div2>
+<lb ed="X" n="0814b04"/><div2 type="orig"><p id="pX22p0814b0401">舍利弗<note place="inline">至</note>應當發願生彼國土。</p></div2>
+<lb ed="X" n="0814b05"/><div2 type="commentary"><p id="pX22p0814b0501" rend="margin-left:1em">此念佛人必須發願往生一日乃至七日唯遮一
+<lb ed="X" n="0814b06"/>句佛現前不見能念所念亦無念者連遮一句也
+<lb ed="X" n="0814b07"/>不知便可通身是佛如斯念者方可與念佛三昧
+<lb ed="X" n="0814b08"/>相應可以一生閑樂樂地臨命終時阿彌陀佛與
+<lb ed="X" n="0814b09"/>諸聖眾親垂接引有此大利故說此言此土眾生
+<lb ed="X" n="0814b10"/>聞是說者應當發願若無信願者此土眾苦難堪
+<lb ed="X" n="0814b11"/>難忍長處三途煩惱為伴無明為侶何時解脫佛
+<lb ed="X" n="0814b12"/>言不可以少善根福德因緣得生彼國若有信力
+<lb ed="X" n="0814b13"/>念力是人福德具足諸障自除不期然而坐蓮華
+<lb ed="X" n="0814b14"/>耳。</p></div2>
+<lb ed="X" n="0814b15"/><div2 type="orig"><p id="pX22p0814b1501">舍利弗<note place="inline">至</note>一切諸佛所護念經。</p></div2>
+<lb ed="X" n="0814b16"/><div2 type="commentary"><p id="pX22p0814b1601" rend="margin-left:1em">南方乃至上方亦復如是其國土諸佛名號未詳
+<lb ed="X" n="0814b17"/>故不釋之<note place="inline">是說該釋文後筆訛此也</note>。</p></div2>
+<lb ed="X" n="0814b18"/><div2 type="orig"><p id="pX22p0814b1801">舍利弗於汝意云何<note place="inline">至</note>皆當信受我語及諸佛所說。</p></div2>
+<lb ed="X" n="0814b19"/><div2 type="commentary"><p id="pX22p0814b1901" rend="margin-left:1em">此是世尊大方便中說誠實言猶恐此土眾生不
+<lb ed="X" n="0814b20"/>信不思議功德之利佛作證明所謂廣長舌&CB00642;覆
+<lb ed="X" n="0814b21"/>三千大千世界者廣長舌者一切情與無情水流
+<lb ed="X" n="0814b22"/>風動總攝不思議不二法中皆悉念佛念法念僧
+<lb ed="X" n="0814b23"/>何以故秪一微塵內施設不二法中言佛法僧世
+<lb ed="X" n="0814b24"/>諦語言皆順正法是故曰說誠實言總在一字流
+<pb ed="X" id="X22.0429.0814c" n="0814c"/>
+<lb ed="X" n="0814c01"/>出無前後字餘故此顯法身佛說上上法故言不
+<lb ed="X" n="0814c02"/>思議一切諸佛之所護念十方佛護念者即諸佛
+<lb ed="X" n="0814c03"/>同為一淨土也淨土者只諸佛眾生本有非從外
+<lb ed="X" n="0814c04"/>得三僧祗劫去染歸淨即到自心淨土所以不加
+<lb ed="X" n="0814c05"/>工而自護念耳。</p></div2>
+<lb ed="X" n="0814c06"/><div2 type="orig"><p id="pX22p0814c0601">舍利弗<note place="inline">至</note>作禮而退。</p></div2>
+<lb ed="X" n="0814c07"/><div2 type="commentary"><p id="pX22p0814c0701" rend="margin-left:1em">固然念佛滅罪福生<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>種菩提種芽若不發願不
+<lb ed="X" n="0814c08"/>及淨土坐蓮華一彈指頃見阿彌陀佛便登不退
+<lb ed="X" n="0814c09"/>地耳<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>發願今發願人所共知當發願者何故早
+<lb ed="X" n="0814c10"/>記者哉曰為愚者有是焉耳有發願不念佛者有
+<lb ed="X" n="0814c11"/>者念佛不發願故當發願者只為此也若念力願
+<lb ed="X" n="0814c12"/>力信力有是三種功能臨終畢竟往生當生皆有
+<lb ed="X" n="0814c13"/>願力者佛無誑語故此一章亦為末世眾生流通
+<lb ed="X" n="0814c14"/>無斷續故所以諸佛共相讚歎此經利益者只為
+<lb ed="X" n="0814c15"/>眾生難信此經耳所謂濁世之纏縛然此濁世能
+<lb ed="X" n="0814c16"/>令眾生厭諸苦惱樂之清淨直至菩提畢竟成佛
+<lb ed="X" n="0814c17"/>殊不知濁世即淨土也諸佛讚希之事者為一切
+<lb ed="X" n="0814c18"/>眾生本來無時妄稱時劫知見本閑妄生分別智
+<lb ed="X" n="0814c19"/>體本淨妄為煩惱本無五蘊三科妄作三世流轉
+<lb ed="X" n="0814c20"/>本無延促妄為命之長短但諸佛俱在五濁惡世
+<lb ed="X" n="0814c21"/>度生說法無眾生可度亦無法可說何以故一切
+<lb ed="X" n="0814c22"/>眾生本是具足智慧德相故讚希有難信之法。</p></div2>
+<lb ed="X" n="0814c23"/>
+<lb ed="X" n="0814c24"/><div2 type="orig"><p id="pX22p0814c2401">佛說阿彌陀經<note place="inline">終</note></p></div2>
+<pb ed="X" id="X22.0429.0815a" n="0815a"/>
+<lb ed="X" n="0815a01"/>
+<lb ed="X" n="0815a02"/>
+<lb ed="X" n="0815a03"/>
+<lb ed="X" n="0815a04"/>
+<lb ed="X" n="0815a05"/>
+<lb ed="X" n="0815a06"/>
+<lb ed="X" n="0815a07"/><div2 type="orig"><p id="pX22p0815a0701">拔一切業障根本得生淨土陀羅尼</p></div2>
+<lb ed="X" n="0815a08"/><div2 type="commentary"><p id="pX22p0815a0801" rend="margin-left:1em">拔者頓也盡也力也念一句阿彌陀名號及持往
+<lb ed="X" n="0815a09"/>生真言功能者若餘修習倍倍不及可知矣一切
+<lb ed="X" n="0815a10"/>業障根本頓然消落非如餘懺悔漸除也更加願
+<lb ed="X" n="0815a11"/>力深信無疑者何愁淨土不生耶此是往生淨土
+<lb ed="X" n="0815a12"/>如斯而矣若本生淨土者即真如為根本但轉其
+<lb ed="X" n="0815a13"/>名不轉其體轉識成智無明實體無增減故是根
+<lb ed="X" n="0815a14"/>本為體而得一剎那生為用所謂淨土亦名陀羅
+<lb ed="X" n="0815a15"/>尼此一箇生原在一微塵中出興所謂一塵現眾
+<lb ed="X" n="0815a16"/>塵塵塵現一微塵一切眾生住一佛身諸佛亦住
+<lb ed="X" n="0815a17"/>一眾生身諸佛眾生住我身我身亦住生佛身是
+<lb ed="X" n="0815a18"/>故曰無礙也所以此經象示不思議事故相應事
+<lb ed="X" n="0815a19"/>事無礙一門耳陀羅尼者只總持也智者現前取
+<lb ed="X" n="0815a20"/>決愚者生去方知但因途路有別到家是同不可
+<lb ed="X" n="0815a21"/>不知不信耳<note place="inline">惠</note>德薄福&CB00458;淺學言微不堪以佛深
+<lb ed="X" n="0815a22"/>深旨妄加箋釋偶而詮緣起無生少合聖意用報
+<lb ed="X" n="0815a23"/>佛恩不負初心志願代代流傳佛種不斷故我佛
+<lb ed="X" n="0815a24"/>世尊直指眾生依正東西淨穢咸是唯心所現即
+<pb ed="X" id="X22.0429.0815b" n="0815b"/>
+<lb ed="X" n="0815b01"/>斯欄楯樹網七寶八功德等皆出法音樂音三寶
+<lb ed="X" n="0815b02"/>音更非奇特何以故即此土事物一一無可表無
+<lb ed="X" n="0815b03"/>可究無可釋直示眼前露&CB00529;&CB00529;地為未然者即宜
+<lb ed="X" n="0815b04"/>非思非議非根非塵非識非凡非聖方如此表如
+<lb ed="X" n="0815b05"/>斯究如斯釋如斯學世尊釋此經者但願眾生如
+<lb ed="X" n="0815b06"/>斯信如斯念如斯發願諸佛共相讚歎而矣。</p></div2></div1>
+<lb ed="X" n="0815b07"/>
+<lb ed="X" n="0815b08"/>
+<lb ed="X" n="0815b09"/><div1 type="xu"><mulu type="序" level="1" label="No. 429-B 北禪量公二注跋尾"/><head>No. 429-B
+<lb ed="X" n="0815b10"/> 北禪量公二注跋尾</head>
+<lb ed="X" n="0815b11"/>
+<lb ed="X" n="0815b12"/><p id="pX22p0815b1201">吾人學問得於授受者淺得於天機者深世學且然
+<lb ed="X" n="0815b13"/>而況佛法量公體敦龐之質積嚮往之誠矻矻乎欲
+<lb ed="X" n="0815b14"/>以悟入處舉化世人&CB00582;自千山萬水艸鞋邊拾得并
+<lb ed="X" n="0815b15"/>初中後夜蒲團上拈來非如世間阿師食人涕唾從
+<lb ed="X" n="0815b16"/>&CB00195;黃本子尋活計者也去年有般若心經際決行世
+<lb ed="X" n="0815b17"/>未幾彌陀<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>決又出夫從智慧門而收歸淨土溯流
+<lb ed="X" n="0815b18"/>窮源因枝得本昔文殊大智發願求生西方量公述
+<lb ed="X" n="0815b19"/>作本意與之暗合當是諸佛憫念其勤嘿為贊助耳。</p>
+<lb ed="X" n="0815b20"/><p id="pX22p0815b2001">壬午小除夕弟子徐波題</p></div1>
+<lb ed="X" n="0815b21"/>
+<lb ed="X" n="0815b22"/>
+<lb ed="X" n="0815b23"/><div1 type="xu"><mulu type="序" level="1" label="No. 429-C"/><head>No. 429-C</head>
+<lb ed="X" n="0815b24"/><p id="pX22p0815b2401">若人識得心大地無寸土般若是心智淨土是心地
+<pb ed="X" id="X22.0429.0815c" n="0815c"/>
+<lb ed="X" n="0815c01"/>二經是心之常理二註是心之指南是故除心則無
+<lb ed="X" n="0815c02"/>般若亦無淨土況有二經與二註哉二註之中說道
+<lb ed="X" n="0815c03"/>微塵際剎那際者所謂一念未興心源也操持此心
+<lb ed="X" n="0815c04"/>源謂之行深般若尋到此心源謂之往生淨土行也
+<lb ed="X" n="0815c05"/>往也必可依指南以知方所是二經之不可無二註
+<lb ed="X" n="0815c06"/>也如此矣我禪定老人月舟胡禪師偶得此書且誦
+<lb ed="X" n="0815c07"/>且喜欲與眾共之乃令印生&CB00549;刻流通是大慈心也
+<lb ed="X" n="0815c08"/>是般若心也是淨土莊嚴心也三心即一心從彼微
+<lb ed="X" n="0815c09"/>塵剎那之二際流出蓋天蓋地浩無邊際此心既無
+<lb ed="X" n="0815c10"/>邊際此書流通亦豈有邊際哉不肖幸在眾先而看
+<lb ed="X" n="0815c11"/>閱之不知感喜何如也因落禿筆於卷尾聊記年月
+<lb ed="X" n="0815c12"/>云爾。</p>
+<lb ed="X" n="0815c13"/><p id="pX22p0815c1301">貞享五戊辰歲三月穀旦
+<lb ed="C X" n="0815c14"/>加州&CB00180;樹林大乘護國禪寺　白卍山和南&CB02494;</p>
+<lb ed="X" n="0815c15"/>
+<lb ed="X" n="0815c16"/>
+<lb ed="X" n="0815c17"/>
+<lb ed="X" n="0815c18"/><div2 type="w"><list><item id="itemX22p0815c1801"><note n="0815001" resp="Xuzangjing" place="foot text" type="orig">（淨土十要第一(No.1164-1)，第61卷所收。&CB18834;）</note>阿彌陀經要解　　<note place="inline">清</note>智旭解</item></list>
+<lb ed="X" n="0815c19"/><p id="pX22p0815c1901" rend="margin-left:2em"><note place="inline">收于淨土十要第一</note></p></div2>
+<lb ed="X" n="0815c20"/>
+<lb ed="X" n="0815c21"/>
+<lb ed="X" n="0815c22"/><div2 type="w"><list><item id="itemX22p0815c2201"><note n="0815002" resp="Xuzangjing" place="foot text" type="orig">（閱經十二種第八(No.674-8)，第37卷所收。&CB18834;）</note>阿彌陀經舌相　　<note place="inline">清</note>淨挺著</item></list>
+<lb ed="X" n="0815c23"/><p id="pX22p0815c2301" rend="margin-left:2em"><note place="inline">收于閱經十二種第<note n="0815003" resp="Xuzangjing" place="foot text" type="orig">（十&M062447;八&M062442;&M062474;。&CB18834;）</note>十</note></p></div2></div1>
+</body></text></TEI.2>

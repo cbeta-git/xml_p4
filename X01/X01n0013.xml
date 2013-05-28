@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X01n0013.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 013 念佛超脫輪迴捷徑經</title>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.3 $ (Big5)<date>$Date: 2009/04/22 08:48:29 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:48:29 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 01, No. 013 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/10/03 09:13:10</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X01n0013.xml,v $
+Revision 1.3  2009/04/22 08:48:29  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.2  2005/10/03 02:43:14  ray
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X01.0013.0364a" n="0364a"/>
+<lb ed="X" n="0364a01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0364a02"/>
+<lb ed="X" n="0364a03"/><head type="no">No. 13</head>
+<lb ed="X" n="0364a04"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>念佛超脫輪迴捷徑經</jhead></juan>
+<lb ed="X" n="0364a05"/>
+<lb ed="X" n="0364a06"/><div1><p id="pX01p0364a0601" rend="margin-left:3em">先誦佛讚。</p>
+<lb ed="X" n="0364a07"/><lg id="lgX01p0364a0701"><l>阿彌陀佛身金色</l><l>相好光明無等倫</l>
+<lb ed="X" n="0364a08"/><l>白毫宛轉五須彌</l><l>紺目澄清四大海</l>
+<lb ed="X" n="0364a09"/><l>光中化佛無數億</l><l>化菩薩眾亦無邊</l>
+<lb ed="X" n="0364a10"/><l>四十八願度眾生</l><l>九品咸令登彼岸</l></lg>
+<lb ed="X" n="0364a11"/><list><item id="itemX01p0364a1101">南無西方極樂世界大慈大悲阿彌陀佛</item>
+<lb ed="X" n="0364a12"/><item id="itemX01p0364a1201">南無阿彌陀佛<note place="inline">或百聲或千聲以至萬聲愈妙隨人發願</note></item>
+<lb ed="X" n="0364a13"/><item id="itemX01p0364a1301">南無觀世音菩薩<note place="inline">十聲</note>南無大勢至菩薩<note place="inline">十聲</note></item>
+<lb ed="X" n="0364a14"/><item id="itemX01p0364a1401">南無清淨大海眾菩薩<note place="inline">十聲</note></item></list>
+<lb ed="X" n="0364a15"/><p id="pX01p0364a1501" rend="margin-left:3em">念畢迴向發願頌。</p>
+<lb ed="X" n="0364a16"/><lg id="lgX01p0364a1601"><l>十方三世佛</l><l>阿彌陀第一</l><l>九品度眾生</l>
+<lb ed="X" n="0364a17"/><l>威德無窮極</l><l>我今大歸依</l><l>懺悔三業罪</l>
+<lb ed="X" n="0364a18"/><l>凡有諸福善</l><l>至心用迴向</l><l>願同念佛人</l>
+<lb ed="X" n="0364a19"/><l>感應隨時現</l><l>臨終西方境</l><l>分明在目前</l>
+<lb ed="X" n="0364a20"/><l>見聞皆精進</l><l>同生極樂國</l><l>見佛了生死</l>
+<lb ed="X" n="0364a21"/><l>如佛度一切</l><l>無邊煩惱斷</l><l>無量法門修</l>
+<lb ed="X" n="0364a22"/><l>誓願度眾生</l><l>總願成佛道</l>
+<lb ed="X" n="0364a23"/><l>&CB00980;空有盡</l><l>我願無窮</l><l>情與無情</l>
+<lb ed="X" n="0364a24"/><l>同緣種智</l></lg>
+<pb ed="X" id="X01.0013.0364b" n="0364b"/>
+<lb ed="X" n="0364b01"/><list><item id="itemX01p0364b0101">十方三世一切佛</item>
+<lb ed="X" n="0364b02"/><item id="itemX01p0364b0201">一切菩薩摩訶薩</item>
+<lb ed="X" n="0364b03"/><item id="itemX01p0364b0301">摩訶般若波羅蜜</item>
+<lb ed="X" n="0364b04"/><item id="itemX01p0364b0401">南無阿彌陀佛<note place="inline">三聲</note></item></list><p id="pX01p0364b0409" place="inline">念畢合掌頂禮而退。</p>
+<lb ed="X" n="0364b05"/>
+<lb ed="X" n="0364b06"/><p id="pX01p0364b0601" rend="margin-left:1em">此是還原要術。脫苦神方。不遇此門。真為痛惜。倘
+<lb ed="X" n="0364b07"/>未能頓棄家緣專一修習。但每日正心西向。繫念
+<lb ed="X" n="0364b08"/>阿彌陀佛。或百或千以為常課。此方念佛。極樂池
+<lb ed="X" n="0364b09"/>內。花即標名。勤惰纔分。榮枯頓異。臨命終時。觀世
+<lb ed="X" n="0364b10"/>音菩薩。手執此花。迎取念佛之人。坐於花內。往生
+<lb ed="X" n="0364b11"/>彼國。花開見佛。快樂無窮。我若誑汝。當墮&CB15072;舌地
+<lb ed="X" n="0364b12"/>獄。代汝念佛之人。受大苦。幸發信心。早修淨業。莫
+<lb ed="X" n="0364b13"/>教一日換了皮。縱有千佛難救汝。火急進步。時不
+<lb ed="X" n="0364b14"/>待人。思之思之。</p>
+<lb ed="X" n="0364b15"/><p id="pX01p0364b1501" rend="margin-left:1em">先原為極忙而設每早定為常課。不可一日間斷。
+<lb ed="X" n="0364b16"/>常課之外。遇有空閒。仍把念佛做一件日用緊要
+<lb ed="X" n="0364b17"/>的事。好像穿衣食飯一般。沒有一時半刻可離。這
+<lb ed="X" n="0364b18"/>纔與古人所說。朝也阿彌陀。暮也阿彌陀。假饒忙
+<lb ed="X" n="0364b19"/>似箭。不離阿彌陀。的意相合。每次所念。不必拘定
+<lb ed="X" n="0364b20"/>遍數。亦不拘四字六字。明念暗念。但念佛時。至心
+<lb ed="X" n="0364b21"/>歸命。莫教有一毫外念夾雜。方為真念。大藏經云。
+<lb ed="X" n="0364b22"/>念阿彌陀佛一聲。滅八十億萬劫生死重罪。苟非
+<lb ed="X" n="0364b23"/>真念純切。那能有此大效。近有一種念佛的人。不
+<lb ed="X" n="0364b24"/>曉得善養喜神。動輒生氣。兼又貪圖口腹。恣意殺
+<pb ed="X" id="X01.0013.0364c" n="0364c"/>
+<lb ed="X" n="0364c01"/>生。自謂無礙於念佛。那曉得怒恨傷生兩業。最是
+<lb ed="X" n="0364c02"/>招惹魔障。到命終時業境現前。纏繞作梗。不是痛
+<lb ed="X" n="0364c03"/>苦。就是昏迷。雖欲念一佛字。將不可得。何況十念。
+<lb ed="X" n="0364c04"/>故修淨業的。要曉得於今所做是因。臨終所得是
+<lb ed="X" n="0364c05"/>果。趁早歡喜戒殺。莫到臨頭後悔。又有一種念佛
+<lb ed="X" n="0364c06"/>的人。自謂生平那裏沒有過惡。未必就能投生極
+<lb ed="X" n="0364c07"/>樂。但得現世安穩。來生富貴。於願足矣。這是信念
+<lb ed="X" n="0364c08"/>不堅。佛不能度。要知從前有個十惡五逆的屠戶。
+<lb ed="X" n="0364c09"/>到命終時。痛苦萬狀。只求速死的時節。纔聽得有
+<lb ed="X" n="0364c10"/>這十念法門。急忙之中。取香安放手掌焚燒。力求
+<lb ed="X" n="0364c11"/>超度。尚可見佛接引。得了下品下生。何況生平行
+<lb ed="X" n="0364c12"/>為。尚不至於十惡五逆。而又起信得早。豈有不遂
+<lb ed="X" n="0364c13"/>往生之理。是故念佛不可希求來世福報。到得福
+<lb ed="X" n="0364c14"/>報盡時。依然要受苦楚。那裏比得跳出輪迴。能彀
+<lb ed="X" n="0364c15"/>永享極樂的好。惟求父母往生。及在世保病。去世
+<lb ed="X" n="0364c16"/>追薦的。皆是孝思。可以求得。但父母在世的。不若
+<lb ed="X" n="0364c17"/>勸其自念的好。昔長蘆頤禪師勸孝文云。能勸父
+<lb ed="X" n="0364c18"/>母修淨土。是為大孝。今世人得見此書。就是有緣。
+<lb ed="X" n="0364c19"/>宜發堅信心。勸父母戚友。一同念佛。莫教當面錯
+<lb ed="X" n="0364c20"/>過。倘或轉勸未能兄信。&CB00230;<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>曉得天地間。原有這
+<lb ed="X" n="0364c21"/>超出輪迴。投生極樂的法門。耳根聽熟。日久自然
+<lb ed="X" n="0364c22"/>會信。至於戒殺。但食三淨肉。不傷生命。便是佛家
+<lb ed="X" n="0364c23"/>以眼不見其殺。耳不聞其殺。心不疑其因我而殺。
+<lb ed="X" n="0364c24"/>名為三淨肉。便可食得。如能長年食素更<app><lem wit="【CBETA】" resp="CBETA.maha">佳</lem><rdg wit="【卍續】">隹</rdg></app>。凡修
+<pb ed="X" id="X01.0013.0365a" n="0365a"/>
+<lb ed="X" n="0365a01"/>淨業。除念佛外。惟誦淨土真言。超度一切眾生。往
+<lb ed="X" n="0365a02"/>生西方則可。餘與淨土無涉。昔蓮池大師臨終時。
+<lb ed="X" n="0365a03"/>果然見佛來迎。因叮嚀大眾云。老實念佛。莫換題
+<lb ed="X" n="0365a04"/>目。可見三藏十二部經。同那八萬四千法門。總不
+<lb ed="X" n="0365a05"/>若念佛為第一也。</p></div1>
+</body></text></TEI.2>

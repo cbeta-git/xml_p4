@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X54n0869.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 869 夾科肇論序注</title>
+			<author>宋 曉月注</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.8 $ (Big5)<date>$Date: 2009/04/22 09:00:08 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:00:08 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 54, No. 869 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/04/22 08:08:07</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X54n0869.xml,v $
+Revision 1.8  2009/04/22 09:00:08  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.7  2008/12/04 08:36:38  amtbgrace
+modified: 序文 的 type xml 標記修訂。
+
+Revision 1.6  2007/08/24 07:45:53  eva
+modified: 校注作業完成
+
+Revision 1.5  2006/10/26 08:01:09  amtbgrace
+modified: 組字重複。刪除 CB02373 [〦/(刀*ㄚ*(留-刀-田))/韭]，改用 CB17572 [虀-卄]。
+
+Revision 1.4  2005/11/30 06:34:29  amtbgrace
+modified: 執行全部 mulu.py, 取消自訂目錄的全形括號
+
+Revision 1.3  2005/04/26 08:10:58  eva
+modified: 目錄檢查修訂
+
+Revision 1.2  2005/04/25 02:31:10  eva
+modified: 依note修訂
+
+Revision 1.1  2005/04/22 00:15:14  edith
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X54.0869.0136a" n="0136a"/>
+<lb ed="X" n="0136a01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0136a02"/><head type="no">No. 869</head>
+<lb ed="X" n="0136a03"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>夾科肇論序</jhead></juan>
+<lb ed="X" n="0136a04"/>
+<lb ed="X" n="0136a05"/><byline type="author">小招提寺沙門　慧達　述</byline>
+<lb ed="X" n="0136a06"/><byline type="author">泐潭禪師　曉月　注</byline>
+<lb ed="X" n="0136a07"/><div1 type="xu"><mulu type="序" level="1" label="通序"/><p id="pX54p0136a0701" rend="margin-left:1em">△科此序文。分為二章。前明作論元由是通序。後
+<lb ed="X" n="0136a08"/>正明論之宗旨是別序。前明作論元由有六節。第
+<lb ed="X" n="0136a09"/>一標論名。二稱美人法。三慶幸遭逢。四排斥譏嫌。
+<lb ed="X" n="0136a10"/>五申述元情。六宣明序意。今第一標舉論名。</p>
+<lb ed="X" n="0136a11"/><div2 type="other"><mulu type="其他" level="2" label="第一標舉論名"/><div3 type="orig"><p id="pX54p0136a1101">慧達率愚。通序長安釋僧肇法師所作。宗本物不遷
+<lb ed="X" n="0136a12"/>等四論。</p></div3>
+<lb ed="X" n="0136a13"/><div3 type="commentary"><p id="pX54p0136a1301" rend="margin-left:1em">序主云率愚者。謙抑之辭也。序者爾唯云。東西墻
+<lb ed="X" n="0136a14"/>謂之序。郭璞注云。所以序別內外也。今達師序述
+<lb ed="X" n="0136a15"/>作論元由。如東西墻為宅之序也。又序者如繭之
+<lb ed="X" n="0136a16"/>得序。序盡一繭之絲。經書得序。序盡一經書之義
+<lb ed="X" n="0136a17"/>理。言小招提寺者。在潤州江寧縣。舊是丹陽郡。始
+<lb ed="X" n="0136a18"/>自吳朝。爰及晉宋齊梁陳六代<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>來。佛法興盛。伽
+<lb ed="X" n="0136a19"/>藍精舍。接揀連甍。名字相參。如莊嚴寺。則有大莊
+<lb ed="X" n="0136a20"/>嚴小莊嚴。招提寺亦有大小之名。大招提是梁時造。
+<lb ed="X" n="0136a21"/>小招提是晉時造。達師是陳時人。居小招提寺為
+<lb ed="X" n="0136a22"/>沙門也。當陳時名達者非一人。故標其寺以為別
+<lb ed="X" n="0136a23"/>也。然此達公佛義未善文體。所作論序多有庸音。
+<lb ed="X" n="0136a24"/>今只直取序論之大意。後之覽者無至譏誚。肇論
+<pb ed="X" id="X54.0869.0136b" n="0136b"/>
+<lb ed="X" n="0136b01"/>從人得名也。是後秦姚興長安人也。俗姓張氏。家
+<lb ed="X" n="0136b02"/>貧以傭書為業。遂因善寫。曆觀經史。備盡墳籍。乃
+<lb ed="X" n="0136b03"/>為儒生深味玄微。每以莊老為心要。常讀老子道
+<lb ed="X" n="0136b04"/>德章歎曰。美則美矣。然其棲神冥累之方。猶未盡
+<lb ed="X" n="0136b05"/>也。後見古維摩經。披尋翫味。乃言始知所歸矣。因
+<lb ed="X" n="0136b06"/>此出家。大通實相。年方弱冠。英辯遠聞。後羅什東
+<lb ed="X" n="0136b07"/>來化誘。暫憩姑臧。肇奔往參承從什稟授。先有著
+<lb ed="X" n="0136b08"/>述。&CB00278;將呈什。什撫机歎曰。吾所造幽深不&CB00518;於子。
+<lb ed="X" n="0136b09"/>文辭麗美。實則相遵可同善吉者也。遂參隨羅什
+<lb ed="X" n="0136b10"/>入長安。姚興命肇與僧叡等。居逍遙園。詳定經論。
+<lb ed="X" n="0136b11"/>因著述宗本義。物不遷。不真空。般若無知三論。涅
+<lb ed="X" n="0136b12"/>槃無名論。是什遷化後方造也。盧山劉遺民因見
+<lb ed="X" n="0136b13"/>此論乃歎曰。不意方袍復有平叔。呈之遠公。遠公
+<lb ed="X" n="0136b14"/>乃撫机歎曰。未嘗有也。因披尋翫味。遂有書問住
+<lb ed="X" n="0136b15"/>復。什公亡後。遂以涅槃無名論。復造寶藏論三章。
+<lb ed="X" n="0136b16"/>進上秦王。秦王姚興答旨慇懃。敕令繕寫。班諸子
+<lb ed="X" n="0136b17"/>姪以為大訓。其為時所重也如此。晉義熙十年。終
+<lb ed="X" n="0136b18"/>於長安逍遙園。春秋三十有一耳。</p></div3></div2><div2 type="other"><mulu type="其他" level="2" label="第二稱美人法"/><head>△第二稱美人
+<lb ed="X" n="0136b19"/>法</head>
+<lb ed="X" n="0136b20"/><div3 type="orig"><p id="pX54p0136b2001">但末代弘經。允屬四依菩薩。爰傳茲土。抑亦其例。</p></div3>
+<lb ed="X" n="0136b21"/><div3 type="commentary"><p id="pX54p0136b2101" rend="margin-left:1em">末代者。佛滅後正法陵遲。西竺遂有馬鳴諸祖。造
+<lb ed="X" n="0136b22"/>論解經。弘護佛法。允屬者。信憑也。四依有二。一依
+<lb ed="X" n="0136b23"/>人。二依法。依人者。十住十行十回向地前菩薩。名
+<lb ed="X" n="0136b24"/>須陀洹。為第一依。初地見道菩薩。名斯&CB00442;含。為第
+<pb ed="X" id="X54.0869.0136c" n="0136c"/>
+<lb ed="X" n="0136c01"/>二依。修道位入二地至八地菩薩。名阿那含。為第
+<lb ed="X" n="0136c02"/>三依。八地至十地滿心等覺菩薩。名阿羅漢。為第
+<lb ed="X" n="0136c03"/>四依。二依法者。一依義不依文。二依智不依識。三
+<lb ed="X" n="0136c04"/>依法不依人。四依了義不依不了義。爰傳茲土者。
+<lb ed="X" n="0136c05"/>及至教流此土也。抑亦者。如西竺諸祖之類也。</p></div3>
+<lb ed="X" n="0136c06"/><div3 type="orig"><p id="pX54p0136c0601">至如彌天大德童壽桑門。&CB00278;創始命宗。圖辯格致。播
+<lb ed="X" n="0136c07"/>揚宣述。所事玄&CB00980;。唯斯擬聖默之所祖。</p></div3>
+<lb ed="X" n="0136c08"/><div3 type="commentary"><p id="pX54p0136c0801" rend="margin-left:1em">彌天大德即襄陽道安法師。因<app><lem wit="【CBETA】" resp="CBETA.maha">刺</lem><rdg wit="【卍續】">剌</rdg></app>史習鑿戲論之
+<lb ed="X" n="0136c09"/>談也。習公一日訪安云。四海習鑿齒。固來相謁爾。
+<lb ed="X" n="0136c10"/>正遇齊次。安應聲答云。彌天釋道安。飯後始相看。
+<lb ed="X" n="0136c11"/>自此時人稱彌天大德也。童壽者。亦名羅什。本
+<lb ed="X" n="0136c12"/>龜茲國人。父名鳩摩羅琰。母名耆婆。是彼國王白
+<lb ed="X" n="0136c13"/>純妹。合父母二名。故稱鳩摩羅耆婆。&CB00549;就華言童
+<lb ed="X" n="0136c14"/>壽。什者。為此達法師喜此方文字章句之什故。華
+<lb ed="X" n="0136c15"/>梵合云羅什。安師造性空論。什師造實相論。此土
+<lb ed="X" n="0136c16"/>造論之始也。桑門者。不正梵音也。應云沙門。&CB00549;就
+<lb ed="X" n="0136c17"/>華言勤息。謂出家人。見善勤修。見惡止息。此二師
+<lb ed="X" n="0136c18"/>&CB00278;創始於妙性圓明。命為宗本。造此二論。圖度辯
+<lb ed="X" n="0136c19"/>別格量致理。播布揚顯。宣說序述。同歸般若體義。
+<lb ed="X" n="0136c20"/>故云玄&CB00980;。達公序美此二人造論。創始冥契佛理。
+<lb ed="X" n="0136c21"/>故云唯斯擬聖默之所祖。一者鼓論法義是擬聖。
+<lb ed="X" n="0136c22"/>二者當聖默然是所祖。俱照而常寂寂而常照也。
+<lb ed="X" n="0136c23"/>此序主共美安什二師也。</p></div3>
+<lb ed="X" n="0136c24"/><div3 type="orig"><p id="pX54p0136c2401">自降乎<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>還。歷代古今。凡著名僧傳。及傳所不載者。
+<pb ed="X" id="X54.0869.0137a" n="0137a"/>
+<lb ed="X" n="0137a01"/>釋僧叡等三千餘僧。清信檀越謝靈運等八百許人。
+<lb ed="X" n="0137a02"/>至能辯正方言。節文階級。善覈名教。精搜義理。揖此
+<lb ed="X" n="0137a03"/>&CB00320;賢語之所統。</p></div3>
+<lb ed="X" n="0137a04"/><div3 type="commentary"><p id="pX54p0137a0401" rend="margin-left:1em">自降乎<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>還。降乎非文體。應云降斯<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>還也。歷代
+<lb ed="X" n="0137a05"/>古今。此達序主序述自安什之後。曆古者。指長安
+<lb ed="X" n="0137a06"/>後秦在西北。歷今者。指西晉東晉至梁在江南。凡
+<lb ed="X" n="0137a07"/>古今共翻譯佛經。依經造論。僧中叡師首唱。俗中
+<lb ed="X" n="0137a08"/>謝公為首。故云揖此&CB00320;賢。於文字章句能緣飾佛
+<lb ed="X" n="0137a09"/>意。俱不得中道。只於言語中統貫理事也。</p></div3>
+<lb ed="X" n="0137a10"/><div3 type="orig"><p id="pX54p0137a1001">有美若人。超語兼默。標本則句句深達佛心。明末則
+<lb ed="X" n="0137a11"/>言言備通眾教。諒是大乘懿典。方等博書。</p></div3>
+<lb ed="X" n="0137a12"/><div3 type="commentary"><p id="pX54p0137a1201" rend="margin-left:1em">此序主贊美肇師造四論。深契真俗理事。性相寂
+<lb ed="X" n="0137a13"/>照。體用俱絕。待不偏□□。有美若人者。指肇師也。
+<lb ed="X" n="0137a14"/>借毛詩云。有美一人青陽婉兮。&CB15141;逅相遇適我願
+<lb ed="X" n="0137a15"/>兮。論語云。君子哉若人。今借此二語共成一句也。
+<lb ed="X" n="0137a16"/>言超語兼默者。謂前安什二師。唯得理而文有所
+<lb ed="X" n="0137a17"/>闕。叡師謝公造論。唯得文而理有所闕。今肇四論
+<lb ed="X" n="0137a18"/>文理兼備。故云為超。非謂文理勝前四人者。言標
+<lb ed="X" n="0137a19"/>本者。指宗本義。言明末者。指涅槃論。諒是者。諒訓
+<lb ed="X" n="0137a20"/>信也。信此四義論。與華嚴楞嚴諸大乘教無異。深
+<lb ed="X" n="0137a21"/>達佛心也。</p></div3>
+<lb ed="X" n="0137a22"/><div3 type="orig"><p id="pX54p0137a2201">自古自今著文著筆。詳汰名賢所作諸論。或六家七
+<lb ed="X" n="0137a23"/>宗。爰延十二。&CB00278;判其臧否。辯其差當。</p></div3>
+<lb ed="X" n="0137a24"/><div3 type="commentary"><p id="pX54p0137a2401" rend="margin-left:1em">此明諸家造論得失也。詳者支法詳。支遁弟子。從
+<pb ed="X" id="X54.0869.0137b" n="0137b"/>
+<lb ed="X" n="0137b01"/>師姓氏。汰者竺法汰。竺道猷弟子。支法詳造實相
+<lb ed="X" n="0137b02"/>論。竺法汰造本無論。俱有得失。高僧傳中。此二人
+<lb ed="X" n="0137b03"/>相繼為名賢。六家七宗。其七義。爰者緩也。短義。延
+<lb ed="X" n="0137b04"/>者長義。此十二論中多有辯爭是非長短。臧者善
+<lb ed="X" n="0137b05"/>也。否者惡也。差殊的當俱不契佛心中道也。梁釋
+<lb ed="X" n="0137b06"/>寶唱造俗法論一百六十卷。內引述宋莊嚴寺高
+<lb ed="X" n="0137b07"/>僧曇濟。作六家七宗論。論有六家。分成七宗。第一
+<lb ed="X" n="0137b08"/>本無宗。第二本無玄妙宗。出第一本無宗。第三即
+<lb ed="X" n="0137b09"/>色宗。第四義合宗。亦云識合宗。第五幻化宗。亦云
+<lb ed="X" n="0137b10"/>如幻宗。第六心無宗。第七緣會宗。亦云體會宗。本
+<lb ed="X" n="0137b11"/>有六家。第一家分為二宗。故成七宗。言十二者。續
+<lb ed="X" n="0137b12"/>法論云。下定林寺釋慧鏡。作實相六宗論。先設客
+<lb ed="X" n="0137b13"/>問二諦一體義。然後引六宗義答之。第一家以理
+<lb ed="X" n="0137b14"/>實為空。凡夫謂有為有。空即真諦。有即俗諦。第二
+<lb ed="X" n="0137b15"/>家以色性是空為空。色體是有為有。第三家以離
+<lb ed="X" n="0137b16"/>緣無山為空。因緣成山為有。第四家以心從緣生
+<lb ed="X" n="0137b17"/>為空。離緣別有心體為有。第五家以邪見所計心
+<lb ed="X" n="0137b18"/>空為空。不空因緣所生之心為有。第六家以名色
+<lb ed="X" n="0137b19"/>所依之物實空為空。世流布中假名為有。前有六
+<lb ed="X" n="0137b20"/>家。後有六家。合成十二。故云爰延十二也。臧否者。
+<lb ed="X" n="0137b21"/>前六家判第四為臧。餘五家為否。後六家論中辯
+<lb ed="X" n="0137b22"/>前五家為差。後五家為當。</p></div3>
+<lb ed="X" n="0137b23"/><div3 type="orig"><p id="pX54p0137b2301">唯此憲章無弊斯咎。</p></div3>
+<lb ed="X" n="0137b24"/><div3 type="commentary"><p id="pX54p0137b2401" rend="margin-left:1em">憲者法也。前十二家皆有是非之弊。今肇法師四
+<pb ed="X" id="X54.0869.0137c" n="0137c"/>
+<lb ed="X" n="0137c01"/>論無有此弊。但是而無非也。</p></div3>
+<lb ed="X" n="0137c02"/><div3 type="orig"><p id="pX54p0137c0201">良<note n="0137001" resp="Xuzangjing" place="foot text" type="orig">由一作猶</note>由襟情泛若。不知何係。<note n="0137002" resp="Xuzangjing" place="foot text" type="orig">譬作匹</note>譬彼淵海數越九流。挺拔
+<lb ed="X" n="0137c03"/>清&CB00980;。蕭然物外。</p></div3>
+<lb ed="X" n="0137c04"/><div3 type="commentary"><p id="pX54p0137c0401" rend="margin-left:1em">良由者多以也。序主美肇師襟靈情田泛泛然。如
+<lb ed="X" n="0137c05"/>淵深之海&CB00278;無畔岸係屬也。故云譬彼淵海。譬訓
+<lb ed="X" n="0137c06"/>譬也。數越九流者。美肇師文筆如海不落數量。九
+<lb ed="X" n="0137c07"/>流者有二。一依人。二依境。依人者俗諦。仲尼之學
+<lb ed="X" n="0137c08"/>如海。諸子百家如分九流。一儒家流。二道家流。三
+<lb ed="X" n="0137c09"/>墨家流。四名家流。五雜家流。六農家流。七縱橫家
+<lb ed="X" n="0137c10"/>流。八法家流。九小說家流。二依境名九流者。亦謂
+<lb ed="X" n="0137c11"/>之九江也。此是夏禹疏決天下洪水分為九江。流
+<lb ed="X" n="0137c12"/>入大海。一曰烏白江。二曰箘江。三曰蚌江。四曰烏
+<lb ed="X" n="0137c13"/>江。五曰嘉美江。六曰畎江。七曰源江。八曰廩江。九
+<lb ed="X" n="0137c14"/>曰提江。序主美肇師四論不落數量如海也。負生
+<lb ed="X" n="0137c15"/>知之性靈心正直。如豫章之木。標表拔萃於眾木
+<lb ed="X" n="0137c16"/>也。識情清淨&CB00980;明曠大於萬物之外。冥契法身之
+<lb ed="X" n="0137c17"/>理。更無一法一人過越於肇師也。</p></div3>
+<lb ed="X" n="0137c18"/><div3 type="orig"><p id="pX54p0137c1801">知公者希。歸公採什。如曰不知則公貴矣。</p></div3>
+<lb ed="X" n="0137c19"/><div3 type="commentary"><p id="pX54p0137c1901" rend="margin-left:1em">知公者希。此一句借老子道德經中吾言甚易知
+<lb ed="X" n="0137c20"/>章第七十。彼章云。吾言甚易知。甚易行。唐玄宗注
+<lb ed="X" n="0137c21"/>云。吾言說契理故易知。事簡故易行。老君又云。天
+<lb ed="X" n="0137c22"/>下莫能知莫能行。玄宗注云。天下滯言而不悟。事
+<lb ed="X" n="0137c23"/>順而不約。故莫能知莫能行。老君又云。言有宗事
+<lb ed="X" n="0137c24"/>有君。玄宗注云。言者在理。理得而言忘。故言以無
+<pb ed="X" id="X54.0869.0138a" n="0138a"/>
+<lb ed="X" n="0138a01"/>言為宗。事者在功。功成而不宰。故事以無事為君。
+<lb ed="X" n="0138a02"/>老君又云。夫唯無知。是以不我知。玄宗注云。夫唯
+<lb ed="X" n="0138a03"/>世俗之人。無了之知。是以不知我無言無事之教。
+<lb ed="X" n="0138a04"/>老君又云。知我者希則我者貴。玄宗注云。了知我
+<lb ed="X" n="0138a05"/>忘言之教意者希少。法則我不言之教意至貴。老
+<lb ed="X" n="0138a06"/>君又云。是以聖人被褐懷玉。玄宗注云。被褐者晦
+<lb ed="X" n="0138a07"/>其外。懷王者明其內。故知者希少。序主變老君我
+<lb ed="X" n="0138a08"/>字作公字。時人只歸伏四論之文字耳。</p></div3></div2><div2 type="other"><mulu type="其他" level="2" label="第三慶幸遭逢"/><head>△第三慶
+<lb ed="X" n="0138a09"/>幸遭逢</head>
+<lb ed="X" n="0138a10"/><div3 type="orig"><p id="pX54p0138a1001">達猥生天幸。逢此正音。忻躍<note n="0138001" resp="Xuzangjing" place="foot text" type="orig">弗一作不</note>弗<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。饗讌無疲。每至披
+<lb ed="X" n="0138a11"/>尋。不勝手舞。誓願生生盡命弘述。達於肇之遺文。其
+<lb ed="X" n="0138a12"/>猶若是。</p></div3>
+<lb ed="X" n="0138a13"/><div3 type="commentary"><p id="pX54p0138a1301" rend="margin-left:1em">猥生者多生也。天幸者不期而自然。逢遇也。正音者
+<lb ed="X" n="0138a14"/>指此四論也。是真正之文契佛心也。饗者食時也。
+<lb ed="X" n="0138a15"/>讌者眠臥時也。序主自謂。披閱四論日久無倦。手
+<lb ed="X" n="0138a16"/>舞者借子夏詩序云。不知手之舞之足之蹈之。表
+<lb ed="X" n="0138a17"/>忻躍之極也。肇之遺文者。指四論也。誓願不輕捨耳。</p></div3>
+<lb ed="X" n="0138a18"/><div3 type="orig"><p id="pX54p0138a1801">況中百門觀爰洎方等深經。而不至增乎。</p></div3>
+<lb ed="X" n="0138a19"/><div3 type="commentary"><p id="pX54p0138a1901" rend="margin-left:1em">況者比況相類也。序主指肇之四論。比類中觀論
+<lb ed="X" n="0138a20"/>百法明門論及方廣華嚴等經。更無一字增加也。</p></div3></div2>
+<lb ed="X" n="0138a21"/><div2 type="other"><mulu type="其他" level="2" label="第四排斥譏嫌"/><head>△第四排斥譏嫌</head>
+<lb ed="X" n="0138a22"/><div3 type="orig"><p id="pX54p0138a2201">世諺咸云。肇之所作故是誠實真諦。地論通宗。莊老
+<lb ed="X" n="0138a23"/>所資猛浪之說。</p></div3>
+<lb ed="X" n="0138a24"/><div3 type="commentary"><p id="pX54p0138a2401" rend="margin-left:1em">世諺者世俗無稽之譚也。肇師亡後滯執名相教
+<pb ed="X" id="X54.0869.0138b" n="0138b"/>
+<lb ed="X" n="0138b01"/>者。譏毀肇之四論。其文是誠實論中真諦義。十地
+<lb ed="X" n="0138b02"/>論中通宗義。更以莊老書中言辭緣飾相資。猛浪
+<lb ed="X" n="0138b03"/>之說者。莊子齊物篇中借一句。是無根本不精要
+<lb ed="X" n="0138b04"/>之辭。此外人譏毀也。古之既有譏謗。今之&CB07946;爭嫉
+<lb ed="X" n="0138b05"/>&CB00107;更多。只如嘉祐中滕州東山明教禪師契嵩。進
+<lb ed="X" n="0138b06"/>上仁宗皇帝正宗記十二卷。尋敕令頒入譯經院。
+<lb ed="X" n="0138b07"/>隨與藏經印布天下。恩賜獎譽。古來未有如此者
+<lb ed="X" n="0138b08"/>也。當時醫僧子昉富有衣&CB00425;。遂於蘇臺招集淺學
+<lb ed="X" n="0138b09"/>禪律者。造作文字。毀謗禪宗。復命相識官人冠序
+<lb ed="X" n="0138b10"/>刊之。古今有此外道也。</p></div3>
+<lb ed="X" n="0138b11"/><div3 type="orig"><p id="pX54p0138b1101">此實巨蠱之言。欺誣<note n="0138002" resp="Xuzangjing" place="foot text" type="orig">亡一作巳</note><note n="0138002" resp="CBETA" type="mod">亡一作<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>亡沒。街巷陋音。未之足拾。</p></div3>
+<lb ed="X" n="0138b12"/><div3 type="commentary"><p id="pX54p0138b1201" rend="margin-left:1em">巨蠱者大毒之言。肇師亡後。以此毒害陋音。欺聖
+<lb ed="X" n="0138b13"/>罔賢。固不足採聽也。佛在之日。尚有五千增上慢
+<lb ed="X" n="0138b14"/>者。而況今之乎。</p></div3></div2><div2 type="other"><mulu type="其他" level="2" label="第五申述元情"/><head>△第五申述元情</head>
+<lb ed="X" n="0138b15"/><div3 type="orig"><p id="pX54p0138b1501">夫神道不形。心敏難繪。既文拘而義遠。故眾端之所
+<lb ed="X" n="0138b16"/>詭。肇之卜意豈徒然哉。良有以也。</p></div3>
+<lb ed="X" n="0138b17"/><div3 type="commentary"><p id="pX54p0138b1701" rend="margin-left:1em">神道不形者。謂法身無形像。如太&CB00980;空。心敏難繪
+<lb ed="X" n="0138b18"/>者。謂般若無知。亦難相狀求也。繪者寫邈書&CB15148;也。
+<lb ed="X" n="0138b19"/>謂法身與觀照般若。寂而常照。照而常寂。離諸名
+<lb ed="X" n="0138b20"/>相。文拘義遠者。四論中文字拘束。義理深奧。故肇
+<lb ed="X" n="0138b21"/>師須假此方經書文言強飾。緣之令後之學般若
+<lb ed="X" n="0138b22"/>人易為曉會。故云眾端之所詭。眾端者四論端由
+<lb ed="X" n="0138b23"/>也。所詭者謂肇師假此方文言經書變通。有異西
+<lb ed="X" n="0138b24"/>竺梵音。豈空然也。</p></div3>
+<pb ed="X" id="X54.0869.0138c" n="0138c"/>
+<lb ed="X" n="0138c01"/><div3 type="orig"><p id="pX54p0138c0101">如復徇狎其言。願生生不面。至獲忍心。還度斯下。</p></div3>
+<lb ed="X" n="0138c02"/><div3 type="commentary"><p id="pX54p0138c0201" rend="margin-left:1em">序主以析設二法弘護四論也。恐後世人隨逐無
+<lb ed="X" n="0138c03"/>稽之譚謗毀。故云如復徇狎其言。願生生不與其
+<lb ed="X" n="0138c04"/>人相見也。徇者順也。狎者親也。除是序主成等正
+<lb ed="X" n="0138c05"/>覺得無生法忍。方可度脫此下根等人也。</p></div3></div2><div2 type="other"><mulu type="其他" level="2" label="第六宣明序意"/><head>△第六
+<lb ed="X" n="0138c06"/>宣明序意</head>
+<lb ed="X" n="0138c07"/><div3 type="orig"><p id="pX54p0138c0701">達留連講肆二十餘年。頗逢重席。末&CB00418;斯論。聊寄一
+<lb ed="X" n="0138c08"/>序。託悟在中。同我賢余。請俟來哲。</p></div3>
+<lb ed="X" n="0138c09"/><div3 type="commentary"><p id="pX54p0138c0901" rend="margin-left:1em">梁普通年前。達麼未到此土。只有名相講席。故云
+<lb ed="X" n="0138c10"/>留連講肆也。頗逢重席者。頗訓多也。序主多遇奪
+<lb ed="X" n="0138c11"/>席明師。重席者。後漢帝每朝正日。令戴憑侍中與
+<lb ed="X" n="0138c12"/>諸儒論經。勝者奪席而坐。憑勝其日奪五十餘重。
+<lb ed="X" n="0138c13"/>時人語曰。論經不窮戴侍中。末&CB00418;斯論者。序主謂
+<lb ed="X" n="0138c14"/>前二十餘年。雖多逢明師。末後披此四論。句句深
+<lb ed="X" n="0138c15"/>達佛理。與前名師不同。故聊寄述此通序。庶表序
+<lb ed="X" n="0138c16"/>主悟解肇意深達也。同我者與序主悟解一般。賢
+<lb ed="X" n="0138c17"/>余者悟解勝於序主。俱俟來哲臧否也。</p></div3></div2></div1>
+<lb ed="X" n="0138c18"/><div1 type="xu"><mulu type="序" level="1" label="別序"/><p id="pX54p0138c1801" rend="margin-left:1em">△後序論之宗旨。文中有四科。第一序次第。二遣
+<lb ed="X" n="0138c19"/>相。三稱歎。四簡別是論非論。今第一序次第。</p>
+<lb ed="X" n="0138c20"/><div2 type="other"><mulu type="其他" level="2" label="第一序次第"/><div3 type="orig"><p id="pX54p0138c2001">夫大分深義。厥號本無。</p></div3>
+<lb ed="X" n="0138c21"/><div3 type="commentary"><p id="pX54p0138c2101" rend="margin-left:1em">十二門論云。大分者即空也。非斷滅空。是法身真
+<lb ed="X" n="0138c22"/>空之理。故云深義也。</p></div3>
+<lb ed="X" n="0138c23"/><div3 type="orig"><p id="pX54p0138c2301">故建言宗旨。標乎實相。</p></div3>
+<lb ed="X" n="0138c24"/><div3 type="commentary"><p id="pX54p0138c2401" rend="margin-left:1em">實相者無相也。謂真空之體本無名相。於無相中
+<pb ed="X" id="X54.0869.0139a" n="0139a"/>
+<lb ed="X" n="0139a01"/>建立。不壞假名。而譚實相耳。</p></div3>
+<lb ed="X" n="0139a02"/><div3 type="orig"><p id="pX54p0139a0201">開空法道。莫逾真俗。所以次釋二諦顯佛教門。</p></div3>
+<lb ed="X" n="0139a03"/><div3 type="commentary"><p id="pX54p0139a0301" rend="margin-left:1em">真空不礙於幻有故。從體起用。所以有萬法。教云。
+<lb ed="X" n="0139a04"/>森羅及萬像。一法之所印。無過越於真俗二諦也。
+<lb ed="X" n="0139a05"/>雪山童子為求半偈捨身。樹神問曰。此偈何益。童
+<lb ed="X" n="0139a06"/>子答曰。如是偈者諸佛所說開空法道。此出涅槃
+<lb ed="X" n="0139a07"/>經也。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上序主。宗本義物不遷論并不真空論。故
+<lb ed="X" n="0139a08"/>云所以次釋二諦顯佛教門。以佛教門出三界苦。
+<lb ed="X" n="0139a09"/>一代時教。不越真俗二諦為門也。</p></div3>
+<lb ed="X" n="0139a10"/><div3 type="orig"><p id="pX54p0139a1001">但圓正之因。無上般若。至極之果。唯有涅槃。故末啟
+<lb ed="X" n="0139a11"/>重玄。明眾聖之所宅。</p></div3>
+<lb ed="X" n="0139a12"/><div3 type="commentary"><p id="pX54p0139a1201" rend="margin-left:1em">圓正之因者涅槃正因也。無有上於般若。此序無
+<lb ed="X" n="0139a13"/>名論也。般若無知為涅槃正因。涅槃無名為般若
+<lb ed="X" n="0139a14"/>極果。所以前序物不遷不真空二論。後序無知無
+<lb ed="X" n="0139a15"/>名二論。故云末啟重玄。涅槃是一玄。般若是一玄。
+<lb ed="X" n="0139a16"/>末者於物不遷不真空二論。後造此無知二論。重
+<lb ed="X" n="0139a17"/>玄者。借老子道經中二句玄之又玄眾妙之門。故
+<lb ed="X" n="0139a18"/>云明眾聖之所宅。前言真俗。指前二論。不遷即俗
+<lb ed="X" n="0139a19"/>明真。不真即真明俗。後言重玄。指後二論。俱是三
+<lb ed="X" n="0139a20"/>賢十聖所居之處也。</p></div3></div2><div2 type="other"><mulu type="其他" level="2" label="第二遣相"/><head>△第二遣相</head>
+<lb ed="X" n="0139a21"/><div3 type="orig"><p id="pX54p0139a2101">雖以性空擬本。無本可稱。語本絕言。非心行處。</p></div3>
+<lb ed="X" n="0139a22"/><div3 type="commentary"><p id="pX54p0139a2201" rend="margin-left:1em">口欲譚而辭喪。心欲緣而慮忘。不可以智知。不可
+<lb ed="X" n="0139a23"/>以識識。非是無辯無心。辭辯俱不及也。心所分別
+<lb ed="X" n="0139a24"/>亦忘耳。</p></div3>
+<pb ed="X" id="X54.0869.0139b" n="0139b"/>
+<lb ed="X" n="0139b01"/><div3 type="orig"><p id="pX54p0139b0101">然則不遷當俗。俗則不生。</p></div3>
+<lb ed="X" n="0139b02"/><div3 type="commentary"><p id="pX54p0139b0201" rend="margin-left:1em">此遣即真明俗。</p></div3>
+<lb ed="X" n="0139b03"/><div3 type="orig"><p id="pX54p0139b0301">不真為真。真但名說。</p></div3>
+<lb ed="X" n="0139b04"/><div3 type="commentary"><p id="pX54p0139b0401" rend="margin-left:1em">此遣即俗明真。但對機言說都無實。遣執也。</p></div3>
+<lb ed="X" n="0139b05"/><div3 type="orig"><p id="pX54p0139b0501">若能放曠蕩然。崇茲一道。</p></div3>
+<lb ed="X" n="0139b06"/><div3 type="commentary"><p id="pX54p0139b0601" rend="margin-left:1em">指前宗本義。曠蕩謂自<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>法身如太&CB00980;空。無&CB15145;無
+<lb ed="X" n="0139b07"/>礙。而不拒彼諸相發揮。不執真俗因果。一道者。故
+<lb ed="X" n="0139b08"/>涅槃第十二卷云。實際理地一道清淨無有異路耳。</p></div3>
+<lb ed="X" n="0139b09"/><div3 type="orig"><p id="pX54p0139b0901">清耳&CB00980;襟無言二諦。</p></div3>
+<lb ed="X" n="0139b10"/><div3 type="commentary"><p id="pX54p0139b1001" rend="margin-left:1em">清耳謂聞性清淨。不執言教音聲也。&CB00980;襟者忘懷
+<lb ed="X" n="0139b11"/>絕慮不滯空寂。不見有真俗。此遣前二論之名相
+<lb ed="X" n="0139b12"/>也。</p></div3>
+<lb ed="X" n="0139b13"/><div3 type="orig"><p id="pX54p0139b1301">斯則淨照之功著。故般若無知。無名之德興。而涅槃
+<lb ed="X" n="0139b14"/>不稱。</p></div3>
+<lb ed="X" n="0139b15"/><div3 type="commentary"><p id="pX54p0139b1501" rend="margin-left:1em">若不執真俗因果當人觀照般若絕對時。無知之
+<lb ed="X" n="0139b16"/>知方便無功之功顯也。著者顯也。即般若無知無
+<lb ed="X" n="0139b17"/>所不知也。即涅槃無名應興起於妙用耳。</p></div3></div2><div2 type="other"><mulu type="其他" level="2" label="第三稱歎"/><head>△第三
+<lb ed="X" n="0139b18"/>稱歎</head>
+<lb ed="X" n="0139b19"/><div3 type="orig"><p id="pX54p0139b1901">余謂此說周圓。罄佛淵海。浩博無涯。窮法體相。</p></div3>
+<lb ed="X" n="0139b20"/><div3 type="commentary"><p id="pX54p0139b2001" rend="margin-left:1em">余者序主自謂也。此說周圓者。指四論也。罄盡也。
+<lb ed="X" n="0139b21"/>更無有一法。過此四論中覺性相浩博無邊。不落
+<lb ed="X" n="0139b22"/>數量耳。</p></div3>
+<lb ed="X" n="0139b23"/><div3 type="orig"><p id="pX54p0139b2301">雖復言約而義豐。文華而理詣。語勢連環。意實孤誕。</p></div3>
+<lb ed="X" n="0139b24"/><div3 type="commentary"><p id="pX54p0139b2401" rend="margin-left:1em">言約者少也。豐者備也。指四論中文字雖簡少。其
+<pb ed="X" id="X54.0869.0139c" n="0139c"/>
+<lb ed="X" n="0139c01"/>義理豐備。該括一代時教。文華者謂四論中文句
+<lb ed="X" n="0139c02"/>華麗。引此土經書緣飾。令人覽之易曉。然句句俱
+<lb ed="X" n="0139c03"/>到詣諸佛理處。言語血脈不斷。如貫連環中。其明
+<lb ed="X" n="0139c04"/>理事之意。絕待孤標。拔萃於思議之表也。連環者
+<lb ed="X" n="0139c05"/>出莊子天下篇第三十二。此惠子之辯。惠子言連
+<lb ed="X" n="0139c06"/>環可解。取不窮之義。郭象注云。環之相貫。貫於空
+<lb ed="X" n="0139c07"/>處。不貫於環也。是以兩環貫空不相涉入。各自通
+<lb ed="X" n="0139c08"/>轉。取無窮之義。尚可解也。序主指四論中語論雖
+<lb ed="X" n="0139c09"/>無窮。其冥契佛意。其實標出乎言外也。</p></div3>
+<lb ed="X" n="0139c10"/><div3 type="orig"><p id="pX54p0139c1001">敢是絕妙好&CB08437;。莫不竭茲洪論。</p></div3>
+<lb ed="X" n="0139c11"/><div3 type="commentary"><p id="pX54p0139c1101" rend="margin-left:1em">序主美肇師四論文理俱詣。借曹娥&CB15156;後蔡邕之
+<lb ed="X" n="0139c12"/>言也。漢時曹盰渡浙江溺死。其女曹娥年十四。求
+<lb ed="X" n="0139c13"/>父屍不得。投浙江死。經宿抱父屍而出。杜尚為作
+<lb ed="X" n="0139c14"/>&CB15156;。安於會稽上虞山。漢末蔡邕讀之。於&CB15156;陰鐫八
+<lb ed="X" n="0139c15"/>字云。黃絹幼婦外孫&CB17572;臼。後曹操同楊脩行兵。因
+<lb ed="X" n="0139c16"/>覽此八字。操問脩解否。答曰<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>解。操令脩且勿言。
+<lb ed="X" n="0139c17"/>待吾思之。行三十里。操方解。乃自為歎曰。有智無
+<lb ed="X" n="0139c18"/>智較三十里。尋因征戰殺之。操一諸子皆請救之。
+<lb ed="X" n="0139c19"/>操曰。楊脩是人中之龍。非汝力之所駕馭。遂殺之。
+<lb ed="X" n="0139c20"/>釋之曰。黃絹是色絲。色絲是絕字。幼婦是少女。少
+<lb ed="X" n="0139c21"/>女是妙字。外孫是女子。女子是好字。&CB17572;臼是受辛。
+<lb ed="X" n="0139c22"/>受辛是&CB08437;字。序主贊美四論同是絕妙好&CB08437;。竭者
+<lb ed="X" n="0139c23"/>窮盡也。洪者大也。佛理奧妙。盡在此四大論中耳。</p></div3>
+<lb ed="X" n="0139c24"/><div3 type="orig"><p id="pX54p0139c2401">所以童壽歎言。解空第一肇公其人。斯言有由矣。彰
+<pb ed="X" id="X54.0869.0140a" n="0140a"/>
+<lb ed="X" n="0140a01"/>在翰牘。</p></div3>
+<lb ed="X" n="0140a02"/><div3 type="commentary"><p id="pX54p0140a0201" rend="margin-left:1em">名僧傳慧觀門中。什見肇潤文製作。撫机歎略曰。
+<lb ed="X" n="0140a03"/>實同善吉。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>在前注中具述也。時人謂什公得肇。
+<lb ed="X" n="0140a04"/>如佛有須菩提也。此歎美之言彰顯在高傳。翰者
+<lb ed="X" n="0140a05"/>筆牘簡也。</p></div3></div2><div2 type="other"><mulu type="其他" level="2" label="第四簡別是論非論"/><head>△第四簡別是論非論</head>
+<lb ed="X" n="0140a06"/><div3 type="orig"><p id="pX54p0140a0601"><app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>宗本蕭然莫能致詰。不遷等四論。事開接引。問答
+<lb ed="X" n="0140a07"/>&CB00701;微。所以稱論。</p></div3>
+<lb ed="X" n="0140a08"/><div3 type="commentary"><p id="pX54p0140a0801" rend="margin-left:1em">宗本蕭然者。取蕭然<app><lem wit="【CBETA】" resp="CBETA.maha">曠</lem><rdg wit="【卍續】">嚝</rdg></app>大如&CB00980;空。不可窮詰畔岸。
+<lb ed="X" n="0140a09"/>非是論之正文。都序四論宗旨。物不遷等四。其中
+<lb ed="X" n="0140a10"/>以事明理。開示接引。後學初機有問有答。&CB00701;理精
+<lb ed="X" n="0140a11"/>微。研覈真偽。所以目之為論也。</p></div3></div2></div1>
+</body></text></TEI.2>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X01n0023.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 023 大藏正教血盆經</title>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.4 $ (Big5)<date>$Date: 2009/04/22 08:48:29 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:48:29 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 01, No. 023 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/10/03 09:13:10</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X01n0023.xml,v $
+Revision 1.4  2009/04/22 08:48:29  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.3  2007/05/30 08:58:45  eva
+modified: 校注作業
+
+Revision 1.2  2005/10/03 02:43:14  ray
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X01.0023.0414a" n="0414a"/>
+<lb ed="X" n="0414a01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0414a02"/>
+<lb ed="X" n="0414a03"/><head type="no">No. 23</head>
+<lb ed="X" n="0414a04"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>佛說大藏正教血盆經</jhead></juan>
+<lb ed="X" n="0414a05"/>
+<lb ed="X" n="0414a06"/><div1><p id="pX01p0414a0601">爾時目連尊者昔日往到<note n="0414001" resp="Xuzangjing" place="foot text" type="orig">羽一作鳥</note>羽州追陽縣見一血盆池
+<lb ed="X" n="0414a07"/>地獄闊八萬四千由旬池中有一百二十件事鐵梁
+<lb ed="X" n="0414a08"/>鐵柱鐵枷鐵<note n="0414002" resp="Xuzangjing" place="foot text" type="orig">鎖一作索</note>鎖見南閻浮提女人許多被頭散髮長
+<lb ed="X" n="0414a09"/>枷杻手在地獄中受罪獄卒鬼<note n="0414003" resp="Xuzangjing" place="foot text" type="orig">王一作主</note>王一日三度將血勒
+<lb ed="X" n="0414a10"/>教罪人喫此時罪人不甘伏喫遂被獄主將鐵棒打
+<lb ed="X" n="0414a11"/>作&CB00054;聲目連悲哀問獄主不見南閻浮提丈夫之人
+<lb ed="X" n="0414a12"/>受此苦報只見許多女人受其苦痛獄主答師言不
+<lb ed="X" n="0414a13"/>干丈夫之事只是女<note n="0414004" resp="Xuzangjing" place="foot text" type="orig">人下一有每月滲經水且六字產下時神下頂字</note>人產下血露污觸地神<note n="0414005" resp="Xuzangjing" place="foot text" type="orig">若作並</note>若穢污
+<lb ed="X" n="0414a14"/>衣裳<note n="0414006" resp="Xuzangjing" place="foot text" type="orig">將去二字在若穢之間</note>將去<note n="0414007" resp="Xuzangjing" place="foot text" type="orig">溪河洗澤作洗溪河</note>溪河洗澤水流污漫誤諸善男<note n="0414008" resp="Xuzangjing" place="foot text" type="orig">女下有不覺二字</note>女取水煎
+<lb ed="X" n="0414a15"/>茶供養諸聖致令不淨天大將軍劄下名字附在善
+<lb ed="X" n="0414a16"/>惡部中<note n="0414009" resp="Xuzangjing" place="foot text" type="orig">候作俟</note>候百年命終之後受此苦報目連悲哀遂問
+<lb ed="X" n="0414a17"/>獄主將何報<note n="0414010A" resp="Xuzangjing" place="foot text" type="orig">一無答字重字</note><note n="0414010A" resp="CBETA" type="mod">一無答字</note>答產生阿娘之恩出離血盆池地獄獄
+<lb ed="X" n="0414a18"/>主答師言惟有小心孝順男女敬<note n="0414010B" resp="Xuzangjing" place="foot text" type="orig">一無答字重字</note><note n="0414010B" resp="CBETA" type="mod">一無重字</note>重三寶更為阿娘
+<lb ed="X" n="0414a19"/>持血盆齋三年仍結血盆勝會請僧轉<note n="0414011" resp="Xuzangjing" place="foot text" type="orig">誦一作讀</note>誦此經一藏
+<lb ed="X" n="0414a20"/>滿日懺<note n="0414012" resp="Xuzangjing" place="foot text" type="orig">散作悔</note>散便有般若船載過<note n="0414013" resp="Xuzangjing" place="foot text" type="orig">奈等六字作那落迦并變</note>奈河江岸看見血盆池
+<lb ed="X" n="0414a21"/><note n="0414014" resp="Xuzangjing" place="foot text" type="orig">中作地獄</note>中有五朵蓮華出現罪人歡喜心生&CB00518;愧<note n="0414015" resp="Xuzangjing" place="foot text" type="orig">便一作使</note>便得超生
+<lb ed="X" n="0414a22"/>佛地諸大菩薩及目連尊者啟告來勸南閻浮提<note n="0414016" resp="Xuzangjing" place="foot text" type="orig">人上一有女字</note>人
+<lb ed="X" n="0414a23"/>信善男女早覺修取大辦前程莫教失手萬劫難<note n="0414017" resp="Xuzangjing" place="foot text" type="orig">復一作亦覆</note>復
+<lb ed="X" n="0414a24"/>佛告<note n="0414018" resp="Xuzangjing" place="foot text" type="orig">說作諸</note>說女<note n="0414019" resp="Xuzangjing" place="foot text" type="orig">人下有說字</note>人血盆經若有信心書寫受持令得三世
+<pb ed="X" id="X01.0023.0414b" n="0414b"/>
+<lb ed="X" n="0414b01"/>母親盡<note n="0414020" resp="Xuzangjing" place="foot text" type="orig">無得字</note>得生天受諸快樂衣食自然長命富貴爾時
+<lb ed="X" n="0414b02"/>天龍八部人非人等皆大歡喜信受奉行作禮而退。</p>
+<lb ed="X" n="0414b03"/>
+<lb ed="X" n="0414b04"/><juan fun="close" n="1"><jhead>佛說大藏正教血盆經</jhead></juan></div1>
+</body></text></TEI.2>

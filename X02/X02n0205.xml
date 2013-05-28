@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X02n0205.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 205 佛說阿彌陀佛根本祕密神咒經</title>
+			<author>曹魏 菩提流支譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.4 $ (Big5)<date>$Date: 2009/04/22 08:48:36 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:48:36 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 02, No. 205 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/10/03 16:20:55</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X02n0205.xml,v $
+Revision 1.4  2009/04/22 08:48:36  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.3  2005/11/30 06:34:24  amtbgrace
+modified: 執行全部 mulu.py, 取消自訂目錄的全形括號
+
+Revision 1.2  2005/10/06 03:58:02  amtbgrace
+modified: 依 note 修訂
+
+Revision 1.1  2005/10/03 08:40:34  ray
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X02.0205.0887c" n="0887c"/>
+<lb ed="X" n="0887c01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0887c02"/>
+<lb ed="X" n="0887c03"/>
+<lb ed="X" n="0887c04"/><div1 type="other"><mulu type="其他" level="1" label="佛說阿彌陀佛根本祕密神＆CB00057；經"/>
+<lb ed="X" n="0887c05"/><head type="no">No. 205</head>
+<lb ed="X" n="0887c06"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>佛說阿彌陀佛根本祕密神&CB00057;經</jhead></juan>
+<lb ed="X" n="0887c07"/>
+<lb ed="X" n="0887c08"/><byline type="translator">曹魏朝三藏菩提流支奉　詔譯</byline>
+<lb ed="X" n="0887c09"/><p id="pX02p0887c0901">如是我聞一時佛在舍衛國祇樹給孤獨園與大比
+<lb ed="X" n="0887c10"/>丘眾千二百五十人俱皆是大阿羅漢眾所知識長
+<lb ed="X" n="0887c11"/>老舍利弗摩訶目犍連摩訶迦葉摩訶迦旃涎摩訶
+<lb ed="X" n="0887c12"/>俱絺羅離婆多周利槃陀伽難陀阿難陀羅&CB00264;羅憍
+<lb ed="X" n="0887c13"/>梵波提賓頭盧頗羅墮迦留陀夷摩訶劫賓那薄狗
+<lb ed="X" n="0887c14"/>羅阿菟樓&CB00499;如是等諸大弟子并諸菩薩摩訶薩文
+<lb ed="X" n="0887c15"/>殊師利法王子阿逸多菩薩乾陀訶提菩薩常精進
+<lb ed="X" n="0887c16"/>菩薩與如是等諸大菩薩及釋提桓因等無量諸天
+<lb ed="X" n="0887c17"/>大眾俱。</p>
+<lb ed="X" n="0887c18"/><p id="pX02p0887c1801">爾時佛告長老舍利弗從是西方過十萬億佛土有
+<lb ed="X" n="0887c19"/>世界名曰極樂其土有佛號阿彌陀今現在說法舍
+<lb ed="X" n="0887c20"/>利弗彼土何故名為極樂其國眾生無有眾苦但受
+<lb ed="X" n="0887c21"/>諸樂故名極樂。</p>
+<lb ed="X" n="0887c22"/><p id="pX02p0887c2201">又舍利弗極樂國土七重欄楯七重羅網七重行樹
+<lb ed="X" n="0887c23"/>皆是四寶周&CB00038;圍遶是故彼國名曰極樂。</p>
+<lb ed="X" n="0887c24"/><p id="pX02p0887c2401">又舍利弗極樂國土有七寶池八功德水充滿其中
+<pb ed="X" id="X02.0205.0888a" n="0888a"/>
+<lb ed="X" n="0888a01"/>池底純以金沙布地四邊階道金銀&CB00222;璃玻&CB00224;合成
+<lb ed="X" n="0888a02"/>上有樓閣亦以金銀&CB00222;璃玻&CB00224;硨磲赤珠瑪瑙而嚴
+<lb ed="X" n="0888a03"/>飾之池中蓮華大如車輪青色青光黃色黃光赤色
+<lb ed="X" n="0888a04"/>赤光白色白光微妙香潔舍利弗極樂國土成就如
+<lb ed="X" n="0888a05"/>是功德莊嚴。</p>
+<lb ed="X" n="0888a06"/><p id="pX02p0888a0601">又舍利弗彼佛國土常作天樂黃金為地晝夜六時
+<lb ed="X" n="0888a07"/>而雨曼陀羅華其國眾生常以清旦各以衣&CB00525;盛眾
+<lb ed="X" n="0888a08"/>妙華供養他方十萬億佛即以食時還到本國飯食
+<lb ed="X" n="0888a09"/>經行舍利弗極樂國土成就如是功德莊嚴。</p>
+<lb ed="X" n="0888a10"/><p id="pX02p0888a1001">復次舍利弗彼國常有種種奇妙雜色之鳥白鵠孔
+<lb ed="X" n="0888a11"/>&CB15179;鸚鵡舍利迦陵頻伽共命之鳥是諸眾鳥晝夜六
+<lb ed="X" n="0888a12"/>時出和雅音其音演暢五根五力七菩提分八聖道
+<lb ed="X" n="0888a13"/>分如是等法其土眾生聞是音<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>皆悉念佛念法念
+<lb ed="X" n="0888a14"/>僧舍利弗汝勿謂此鳥實是罪報所生所以者何彼
+<lb ed="X" n="0888a15"/>佛國土無三惡趣舍利弗其佛國土尚無三惡道之
+<lb ed="X" n="0888a16"/>名何況有實是諸眾鳥皆是阿彌陀佛欲令法音宣
+<lb ed="X" n="0888a17"/>流變化所作舍利弗彼佛國土微風吹動諸寶行樹
+<lb ed="X" n="0888a18"/>及寶羅網出微妙音譬如百千種樂同時俱作聞是
+<lb ed="X" n="0888a19"/>音者皆自然生念佛念法念僧之心舍利弗其佛國
+<lb ed="X" n="0888a20"/>土成就如是功德莊嚴。</p>
+<lb ed="X" n="0888a21"/><p id="pX02p0888a2101">舍利弗於汝意云何彼佛何故號阿彌陀舍利弗彼
+<lb ed="X" n="0888a22"/>佛光明無量照十方國無所障礙是故號為阿彌陀
+<lb ed="X" n="0888a23"/>又舍利弗彼佛壽命及其人民無量無邊阿僧祇劫
+<lb ed="X" n="0888a24"/>故名阿彌陀舍利弗阿彌陀佛成佛<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>來於今十劫
+<pb ed="X" id="X02.0205.0888b" n="0888b"/>
+<lb ed="X" n="0888b01"/>又舍利弗彼佛有無量無邊聲聞弟子皆阿羅漢非
+<lb ed="X" n="0888b02"/>是算數之所能知諸菩薩眾亦復如是舍利弗彼佛
+<lb ed="X" n="0888b03"/>國土成就如是功德莊嚴。</p>
+<lb ed="X" n="0888b04"/><p id="pX02p0888b0401">又舍利弗極樂國土眾生生者皆是阿&CB16014;&CB02494;致其中
+<lb ed="X" n="0888b05"/>多有一生補處其數甚多非是算數所能知之但可
+<lb ed="X" n="0888b06"/>以無量無邊阿僧祇劫說舍利弗眾生聞者應當發
+<lb ed="X" n="0888b07"/>願願生彼國所以者何得與如是諸上善人俱會一
+<lb ed="X" n="0888b08"/>處舍利弗不可以少善根福德因緣得生彼國。</p>
+<lb ed="X" n="0888b09"/><p id="pX02p0888b0901">又舍利弗阿彌陀佛有根本祕密陀羅尼神&CB00057;是名
+<lb ed="X" n="0888b10"/>拔一切業障根本得生極樂淨土神&CB00057;即說&CB00057;曰。</p>
+<lb ed="X" n="0888b11"/><p id="pX02p0888b1101" type="dharani">南無阿彌多婆夜哆<note place="inline">多曷切</note><note place="inline">一</note>他伽跢<note place="inline">都餓切</note><note place="inline">二</note>夜哆地<note place="inline">途賣切</note><note place="inline">三</note>
+<lb ed="X" n="0888b12"/>夜他阿彌利<note place="inline">上聲</note><note place="inline">四</note>都婆毗<note place="inline">五</note>阿彌利哆<note place="inline">六</note>悉耽婆毗
+<lb ed="X" n="0888b13"/><note place="inline">七</note>阿彌利哆<note place="inline">八</note>毗迦蘭諦<note place="inline">九</note>阿彌利哆<note place="inline">十</note>毗迦蘭哆
+<lb ed="X" n="0888b14"/><note place="inline">十一</note>伽彌膩<note place="inline">十二</note>伽伽那<note place="inline">十三</note>枳多迦&CB12528;<note place="inline">十四</note>莎婆訶<note place="inline">十五</note></p>
+<lb ed="X" n="0888b15"/><p id="pX02p0888b1501">佛言若有善男子善女人能誦此&CB00057;者阿彌陀佛常
+<lb ed="X" n="0888b16"/>住其頂日夜擁護無令怨家而得其便現世常得安
+<lb ed="X" n="0888b17"/>穩臨命終時任運往生極樂國土。</p>
+<lb ed="X" n="0888b18"/><p id="pX02p0888b1801">又舍利弗阿彌陀佛名號具足無量無邊不可思議
+<lb ed="X" n="0888b19"/>甚深祕密殊勝微妙無上功德所以者何阿彌陀佛
+<lb ed="X" n="0888b20"/>三字中有十方三世一切諸佛一切諸菩薩聲聞阿
+<lb ed="X" n="0888b21"/>羅漢一切諸經陀羅尼神&CB00057;無量行法是故彼佛名
+<lb ed="X" n="0888b22"/>號即是為無上真實至極大乘之法即是為無上殊
+<lb ed="X" n="0888b23"/>勝清淨了義妙行即是為無上最勝微妙陀羅尼而
+<lb ed="X" n="0888b24"/>說偈曰。</p>
+<pb ed="X" id="X02.0205.0888c" n="0888c"/>
+<lb ed="X" n="0888c01"/><lg id="lgX02p0888c0101"><l>阿字十方三世佛</l><l>彌字一切諸菩薩</l>
+<lb ed="X" n="0888c02"/><l>陀字八萬諸聖教</l><l>三字之中是具足</l></lg>
+<lb ed="X" n="0888c03"/><p id="pX02p0888c0301">舍利弗若有眾生聞說阿彌陀佛不可思議功德歡
+<lb ed="X" n="0888c04"/>喜踊躍至心稱念深信不懈於現在身受無比樂或
+<lb ed="X" n="0888c05"/>轉貧賤獲得富貴或得果免宿業所追病患之苦或
+<lb ed="X" n="0888c06"/>轉短命得壽延長或怨家變恨得子孫繁榮身心安
+<lb ed="X" n="0888c07"/>樂如意滿足如是功德不可稱計。</p>
+<lb ed="X" n="0888c08"/><p id="pX02p0888c0801">舍利弗若有善男子善女人聞說阿彌陀佛執持名
+<lb ed="X" n="0888c09"/>號若一日若二日若三日若四日若五日若六日若
+<lb ed="X" n="0888c10"/>七日一心不亂專持名號以稱名故諸罪消滅即是
+<lb ed="X" n="0888c11"/>多善根福德因緣其人臨命終時阿彌陀佛與諸聖
+<lb ed="X" n="0888c12"/>眾現在其前是人終時心不顛倒即得往生阿彌陀
+<lb ed="X" n="0888c13"/>佛極樂國土舍利弗我見是利故說此言若有眾生
+<lb ed="X" n="0888c14"/>聞是說者應當發願生彼國土。</p>
+<lb ed="X" n="0888c15"/><p id="pX02p0888c1501">舍利弗如我今者讚歎阿彌陀佛不可思議功德東
+<lb ed="X" n="0888c16"/>方亦有阿&CB00434;&CB16014;佛須彌相佛大須彌佛須彌光佛妙
+<lb ed="X" n="0888c17"/>音佛如是等恒河沙數諸佛各於其國出廣長舌相
+<lb ed="X" n="0888c18"/>&CB00642;覆三千大千世界說誠實言汝等眾生當信是稱
+<lb ed="X" n="0888c19"/>讚不可思議功德一切諸佛所護念經。</p>
+<lb ed="X" n="0888c20"/><p id="pX02p0888c2001">舍利弗南方世界有日月燈佛名聞光佛大焰肩佛
+<lb ed="X" n="0888c21"/>須彌燈佛無量精進佛如是等恒河沙數諸佛各於
+<lb ed="X" n="0888c22"/>其國出廣長舌相&CB00642;覆三千大千世界說誠實言汝
+<lb ed="X" n="0888c23"/>等眾生當信是彌讚不可思議功德一切諸佛所護
+<lb ed="X" n="0888c24"/>念經。</p>
+<pb ed="X" id="X02.0205.0889a" n="0889a"/>
+<lb ed="X" n="0889a01"/><p id="pX02p0889a0101">舍利弗西方世界有無量壽佛無量相佛無量幢佛
+<lb ed="X" n="0889a02"/>大光佛大明佛寶相佛淨光佛如是等恒河沙數諸佛
+<lb ed="X" n="0889a03"/>各於其國出廣長舌相&CB00642;覆三千大千世界說誠實
+<lb ed="X" n="0889a04"/>言汝等眾生當信是稱讚不可思議功德一切諸佛所
+<lb ed="X" n="0889a05"/>護念經舍利弗北方世界有焰肩佛最勝音佛難&CB17464;
+<lb ed="X" n="0889a06"/>佛日生佛網明佛如是等恒河沙數諸佛各於其國
+<lb ed="X" n="0889a07"/>出廣長舌相&CB00642;覆三千大千世界說誠實言汝等眾
+<lb ed="X" n="0889a08"/>生當信是稱讚不可思議功德一切諸佛所護念經
+<lb ed="X" n="0889a09"/>舍利弗下方世界有師子佛名聞佛名光佛達摩佛
+<lb ed="X" n="0889a10"/>法幢佛持法佛如是等恒河沙數諸佛各於其國出
+<lb ed="X" n="0889a11"/>廣長舌相&CB00642;覆三千大千世界說誠實言汝等眾生
+<lb ed="X" n="0889a12"/>當信是稱讚不可思議功德一切諸佛所護念經。</p>
+<lb ed="X" n="0889a13"/><p id="pX02p0889a1301">舍利弗上方世界有梵音佛宿王佛香上佛香光佛
+<lb ed="X" n="0889a14"/>大焰肩佛雜色寶華嚴身佛沙羅樹王佛寶華德佛
+<lb ed="X" n="0889a15"/>見一切義佛如須彌山佛如是等恒河沙數諸佛各
+<lb ed="X" n="0889a16"/>於其國出廣長舌相&CB00642;覆三千大千世界說誠實言
+<lb ed="X" n="0889a17"/>汝等眾生當信是稱讚不可思議功德一切諸佛所
+<lb ed="X" n="0889a18"/>護念經。</p>
+<lb ed="X" n="0889a19"/><p id="pX02p0889a1901">舍利弗於汝意云何何故名為一切諸佛所護念經
+<lb ed="X" n="0889a20"/>舍利弗若有善男子善女人聞是諸佛所說名及經
+<lb ed="X" n="0889a21"/>名者是諸善男子善女人皆為一切諸佛共所護念
+<lb ed="X" n="0889a22"/>皆得不退轉於阿耨多羅三藐三菩提是故舍利弗
+<lb ed="X" n="0889a23"/>汝等皆當信受我語及諸佛所說舍利弗若有人<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0889a24"/>發願今發願當發願欲生阿彌陀佛國者是諸人等
+<pb ed="X" id="X02.0205.0889b" n="0889b"/>
+<lb ed="X" n="0889b01"/>皆得不退轉於阿耨多羅三藐三菩提於彼國土若
+<lb ed="X" n="0889b02"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>生若今生若當生是故舍利弗諸善男子善女人
+<lb ed="X" n="0889b03"/>若有信者應當發願生彼國土。</p>
+<lb ed="X" n="0889b04"/><p id="pX02p0889b0401">舍利弗如我今者稱讚諸佛不可思議功德彼諸佛
+<lb ed="X" n="0889b05"/>等亦稱說我不可思議功德而作是言釋迦牟尼佛
+<lb ed="X" n="0889b06"/>能為甚難希有之事能於娑婆國土五濁惡世劫濁
+<lb ed="X" n="0889b07"/>見濁煩惱濁眾生濁命濁中得阿耨多羅三藐三菩
+<lb ed="X" n="0889b08"/>提為諸眾生說是一切世間難信之法舍利弗當知
+<lb ed="X" n="0889b09"/>我於五濁惡世行此難事得阿耨多羅三藐三菩提
+<lb ed="X" n="0889b10"/>為一切世間說此難信之法是為甚難佛說此經<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0889b11"/>舍利弗及諸比丘一切世間天人阿脩羅等聞佛所
+<lb ed="X" n="0889b12"/>說歡喜信受作禮而去。</p>
+<lb ed="X" n="0889b13"/><juan fun="close" n="1"><jhead>佛說阿彌陀佛根本祕密神&CB00057;經</jhead></juan></div1>
+<lb ed="X" n="0889b14"/>
+<lb ed="X" n="0889b15"/>
+<lb ed="X" n="0889b16"/><div1 type="w"><mulu type="附文" level="1" label="No. 205-A 神＆CB00057；經真偽決疑"/><head>No. 205-A
+<lb ed="X" n="0889b17"/> 神&CB00057;經真偽決疑</head>
+<lb ed="X" n="0889b18"/>
+<lb ed="X" n="0889b19"/><p id="pX02p0889b1901">難云藏經之中拔一切業障根本得生淨土&CB00057;<note place="inline">出小
+<lb ed="X" n="0889b20"/>無量壽經</note>劉宋天竺三藏求那&CB02494;陀羅奉詔重譯矣合
+<lb ed="X" n="0889b21"/>計五十九字一十五句也又說&CB00057;功德有若有善
+<lb ed="X" n="0889b22"/>男子<note place="inline">乃至</note>任運往生之二十七字<note place="inline">切德文如此經</note>而無前
+<lb ed="X" n="0889b23"/>後文且前後文者與羅什所譯之小經全同而無
+<lb ed="X" n="0889b24"/>異中間編入神&CB00057;與說功德等之文為流支所譯
+<pb ed="X" id="X02.0205.0889c" n="0889c"/>
+<lb ed="X" n="0889c01"/>是以阿字十方等文為金口說欲壓下眾經企揚
+<lb ed="X" n="0889c02"/>邪慢之後學偽制者歟疑難不少考於諸錄不載
+<lb ed="X" n="0889c03"/>此經<note place="inline">其一</note>此經前後文與羅什所譯小經雖有剩語
+<lb ed="X" n="0889c04"/>少分無異譯人既異文言何同<note place="inline">其二</note>依彌陀不思議
+<lb ed="X" n="0889c05"/>神力傳<note place="inline">神力傳在藏本</note>龍樹菩薩願生安養夢感此&CB00057;耶
+<lb ed="X" n="0889c06"/><note place="inline">或作那</note>舍三藏誦此&CB00057;天平寺銹法師從那舍三藏
+<lb ed="X" n="0889c07"/>口受此&CB00057;其人云經本外國不來<note place="inline">文</note>蒙記<note place="inline">有楞伽經蒙授
+<lb ed="X" n="0889c08"/>記之文</note>龍樹譯場耶舍不得其本<note place="inline">其三</note>況外國不來矣
+<lb ed="X" n="0889c09"/>未渡經本誰人譯之<note place="inline">其四</note>又流支傳中<note place="inline">唐傳一釋教錄六等</note>未
+<lb ed="X" n="0889c10"/>見譯此經之語<note place="inline">其五</note>偽經梗&CB01356;如是云何正經耶答
+<lb ed="X" n="0889c11"/>曰不載錄中不流布故例如彼釋摩訶衍論七百
+<lb ed="X" n="0889c12"/>年之間不流布漢土<note place="inline">釋論不流布漢土出通法疏一卷</note>通疑難之
+<lb ed="X" n="0889c13"/>一異譯而文言全同例如羅什所譯阿彌陀經與
+<lb ed="X" n="0889c14"/>求那&CB02494;陀羅翻譯小無量壽經文言同而不異見
+<lb ed="X" n="0889c15"/>于開元釋教錄第十二卷同第十四卷同第十七
+<lb ed="X" n="0889c16"/>卷又如真諦與摩多所譯起信<note place="inline">摩多者釋論譯者也釋論本文者起
+<lb ed="X" n="0889c17"/>信論也</note>文言不異<note place="inline">會三</note>龍樹耶舍不得之者結集之梵
+<lb ed="X" n="0889c18"/>本百千也<note place="inline">依華嚴一經上本經有十箇三千大千世界微塵數偈一四天下微塵數品中本經
+<lb ed="X" n="0889c19"/>有四十九萬八千八百偈一千二百品下本經有十萬偈四十八品略本經即今本部八十卷等也出行
+<lb ed="X" n="0889c20"/>願品疏鈔三卷</note>況難訶之中云外國不來在梵地分明<note place="inline">會三</note>
+<lb ed="X" n="0889c21"/>又外國不來語以不得故屬之未渡<note place="inline">會四</note>流支傳中
+<lb ed="X" n="0889c22"/>不舉者所譯經論最廣何悉載之流支傳云流支
+<lb ed="X" n="0889c23"/>房內經論梵本可有萬夾所翻新文筆受&CB00928;本滿
+<lb ed="X" n="0889c24"/>一間屋<note place="inline">文</note>萬夾滿屋之中有此經指掌乎用不任
+<pb ed="X" id="X02.0205.0890a" n="0890a"/>
+<lb ed="X" n="0890a01"/>學者敢勿生毀謗願以一校功自他生安樂。</p>
+<lb ed="X" n="0890a02"/><p id="pX02p0890a0201">于時元祿十一年九月下旬
+<lb ed="C X" n="0890a03"/>武江上高輪龍原寺九世住　寂譽知足欽書</p></div1>
+</body></text></TEI.2>

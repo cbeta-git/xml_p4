@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X55n0911.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 911 觀心食法</title>
+			<author>隋 智顗述</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $ (Big5)<date>$Date: 2009/04/22 09:00:20 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:00:20 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 55, No. 911 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/05/24 15:22:47</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X55n0911.xml,v $
+Revision 1.2  2009/04/22 09:00:20  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.1  2005/05/24 07:33:22  edith
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X55.0911.0687a" n="0687a"/>
+<lb ed="X" n="0687a01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0687a02"/><head type="no">No. 911</head>
+<lb ed="X" n="0687a03"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>觀心食法</jhead></juan>
+<lb ed="X" n="0687a04"/>
+<lb ed="X" n="0687a05"/><byline type="author">天台　智者大師</byline>
+<lb ed="X" n="0687a06"/><div1><p id="pX55p0687a0601">既敷座<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。聽維那進止。鳴鐘後<app><lem wit="【CBETA】" resp="CBETA.maha">斂</lem><rdg wit="【卍續】">歛</rdg></app>手供養一體三寶。
+<lb ed="X" n="0687a07"/>&CB00642;十方界施作佛事。次出生飯稱施六道。即表六波
+<lb ed="X" n="0687a08"/>羅密。然後受此食。夫食者。眾生之外命。若不入觀即
+<lb ed="X" n="0687a09"/>潤生死。若能知入觀。分別生死有邊無邊。不問分衛
+<lb ed="X" n="0687a10"/>與清眾淨食皆須作觀觀之者。自恐此身內舊食皆
+<lb ed="X" n="0687a11"/>是無明煩惱潤益生死。今之所食皆是般若。想於舊
+<lb ed="X" n="0687a12"/>食從毛孔次第而出。食既出<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>心路即開。食今新食。
+<lb ed="X" n="0687a13"/>照諸暗滅成於般若。故淨名云。於食等者於法亦等。
+<lb ed="X" n="0687a14"/>是為明證。以此食故成般若食。能養法身。法身得立
+<lb ed="X" n="0687a15"/>即得解脫。是為三德照此食者。非新非故。而有舊食
+<lb ed="X" n="0687a16"/>之故。而有新食之新。是名為假。求故不得。求新不得。
+<lb ed="X" n="0687a17"/>畢竟空寂。名之為空觀。食者自那可食為新。既無新
+<lb ed="X" n="0687a18"/>食那可得食。食者而不離舊食養身而新食重益。因
+<lb ed="X" n="0687a19"/>緣和合。不可前後分別。名之為中。只中即假空。只空
+<lb ed="X" n="0687a20"/>即中假。只假即空中。不可思議。名為中道。又淨名云。
+<lb ed="X" n="0687a21"/>非有煩惱。非離煩惱。非入定意。非起定意。是名食法
+<lb ed="X" n="0687a22"/>也。</p></div1>
+</body></text></TEI.2>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X58n1026.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+<!ENTITY FigX58p0697_01 SYSTEM "figures/X58p0697_01.gif" NDATA GIF>
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1026 賢首五教斷證三覺揀濫圖</title>
+			<author>清 續法集</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.8 $ (Big5)<date>$Date: 2010/10/25 08:45:25 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2010/10/25 08:45:25 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 58, No. 1026 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/06/06 14:05:32</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X58n1026.xml,v $
+Revision 1.8  2010/10/25 08:45:25  amtbgrace
+modified: 圖檔檔名修改
+
+Revision 1.7  2009/04/22 09:00:58  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.6  2005/11/30 06:34:34  amtbgrace
+modified: 執行全部 mulu.py, 取消自訂目錄的全形括號
+
+Revision 1.5  2005/07/13 02:43:41  eva
+modified: 修改〔〕後的 item id 起始字
+
+Revision 1.4  2005/07/11 08:03:41  eva
+modified: 依note.txt修訂及目錄檢查
+
+Revision 1.3  2005/06/06 06:10:49  edith
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X58.1026.0696b" n="0696b"/>
+<lb ed="X" n="0696b01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0696b02"/>
+<lb ed="X" n="0696b03"/>
+<lb ed="X" n="0696b04"/>
+<lb ed="X" n="0696b05"/><head type="no">No. 1026</head>
+<lb ed="X" n="0696b06"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>賢首五教斷證三覺揀濫圖</jhead></juan>
+<lb ed="X" n="0696b07"/>
+<lb ed="X" n="0696b08"/><byline type="collector">清浙水慈雲沙門續法集</byline><byline type="other">門人嚴指較</byline>
+<lb ed="X" n="0696b09"/><div1 type="other"><mulu type="其他" level="1" label="賢首五教斷證三覺揀濫圖"/><p id="pX58p0696b0901">東傳三藏。迨唐始足。列祖判教。賢首方周。良由典誥
+<lb ed="X" n="0696b10"/>既多。知見自廣。約義判教。備所未備。是以後後勝於
+<lb ed="X" n="0696b11"/>前前。賢首二十餘部。清涼五十餘部。圭山十餘部。皆
+<lb ed="X" n="0696b12"/>詳教觀斷證。況五教斷證。原出經論。前尚未來。後盡
+<lb ed="X" n="0696b13"/>流至。人未之察。反曰無斷無證。豈不屈抑佛祖也歟。
+<lb ed="X" n="0696b14"/><note place="inline">續法</note>痛心。遂準賢宗諸大部中。錄出斷證。排圖貫線。
+<lb ed="X" n="0696b15"/>庶使學者。於一家判釋。明如指掌。無纖疑滯。果能從
+<lb ed="X" n="0696b16"/>小發心。至圓妙覺。於中一一解行無謬。畢得斷執障
+<lb ed="X" n="0696b17"/>於蓮華藏剎。證法界於毗盧性海。漸歷頓超。又何難
+<lb ed="X" n="0696b18"/>哉。此亦略示其梗&CB01356;耳。若欲委明。宣閱教儀諸書
+<lb ed="X" n="0696b19"/>　三覺　三五位別。一覺性同。但能悟知。頓圓妙覺。</p>
+<lb ed="X" n="0696b20"/><p id="pX58p0696b2001" rend="margin-left:1em">本覺位。五教俱不覺。圓覺位。小則羅漢辟支佛位。
+<lb ed="X" n="0696b21"/>後四俱妙覺。始覺位。從發心極於等覺。此中復有
+<lb ed="X" n="0696b22"/>三位。一。名字覺位。小發心至停心。始等俱十信。二。
+<lb ed="X" n="0696b23"/>相似覺位。小別相至世第一。後四俱三賢四加。三。
+<lb ed="X" n="0696b24"/>隨分覺位。小初果至三果。始等俱十地等覺。其間
+<pb ed="X" id="X58.1026.0696c" n="0696c"/>
+<lb ed="X" n="0696c01"/>高下階降不等。亦隨當教斷證以釋。故此三覺五
+<lb ed="X" n="0696c02"/>位。能判教相之權實也。</p></div1>
+<lb ed="X" n="0696c03"/>
+<lb ed="X" n="0696c04"/>
+<lb ed="X" n="0696c05"/>
+<lb ed="X" n="0696c06"/>
+<lb ed="X" n="0696c07"/>
+<lb ed="X" n="0696c08"/>
+<lb ed="X" n="0696c09"/>
+<lb ed="X" n="0696c10"/>
+<lb ed="X" n="0696c11"/>
+<lb ed="X" n="0696c12"/>
+<lb ed="X" n="0696c13"/>
+<lb ed="X" n="0696c14"/>
+<lb ed="X" n="0696c15"/>
+<lb ed="X" n="0696c16"/>
+<lb ed="X" n="0696c17"/>
+<lb ed="X" n="0696c18"/>
+<lb ed="X" n="0696c19"/>
+<lb ed="X" n="0696c20"/>
+<lb ed="X" n="0696c21"/>
+<lb ed="X" n="0696c22"/>
+<lb ed="X" n="0696c23"/>
+<lb ed="X" n="0696c24"/>
+<pb ed="X" id="X58.1026.0697a" n="0697a"/>
+<lb ed="X" n="0697a01"/><div1 type="other"><mulu type="其他" level="1" label="一乘不共教無盡妙覺根本佛性無障礙法界"/><head>一乘不共教無盡妙覺根本佛性無障礙法界</head></div1>
+<lb ed="X" n="0697a02"/><div1 type="other"><mulu type="其他" level="1" label="一乘不共教無盡妙覺根本佛性無障礙法界圖表"/><p id="pX58p0697a0201"><figure entity="FigX58p0697_01"/></p></div1>
+<lb ed="X" n="0697a03"/>
+<lb ed="X" n="0697a04"/>
+<lb ed="X" n="0697a05"/>
+<lb ed="X" n="0697a06"/>
+<lb ed="X" n="0697a07"/>
+<lb ed="X" n="0697a08"/>
+<lb ed="X" n="0697a09"/>
+<lb ed="X" n="0697a10"/>
+<lb ed="X" n="0697a11"/>
+<lb ed="X" n="0697a12"/>
+<lb ed="X" n="0697a13"/>
+<lb ed="X" n="0697a14"/>
+<lb ed="X" n="0697a15"/>
+<lb ed="X" n="0697a16"/>
+<lb ed="X" n="0697a17"/>
+<lb ed="X" n="0697a18"/>
+<lb ed="X" n="0697a19"/>
+<lb ed="X" n="0697a20"/>
+<lb ed="X" n="0697a21"/>
+<lb ed="X" n="0697a22"/>
+<lb ed="X" n="0697a23"/>
+<lb ed="X" n="0697a24"/>
+<pb ed="X" id="X58.1026.0698a" n="0698a"/>
+<lb ed="X" n="0698a01"/>
+<lb ed="X" n="0698a02"/>
+<lb ed="X" n="0698a03"/>
+<lb ed="X" n="0698a04"/><div1 type="other"><mulu type="其他" level="1" label="圓教(此教斷證如拆錦花如鎔金獅)"/><head>○圓教<note place="inline">此教斷證。如拆錦花。如鎔金獅</note></head>
+<lb ed="X" n="0698a05"/><p id="pX58p0698a0501" rend="margin-left:3em"><note place="inline">初住至妙。品數準終。但此三地。超頓妙覺。便有六十二品</note>。</p>
+<lb ed="X" n="0698a06"/><div2 type="other"><mulu type="其他" level="2" label="〔本〕"/><head>〔本〕</head><list><item id="itemX58p0698a0602">不覺<note place="inline">謂不覺法界性也</note></item></list></div2>
+<lb ed="X" n="0698a07"/><div2 type="other"><mulu type="其他" level="2" label="〔名字〕"/><head>〔名字〕</head>
+<lb ed="X" n="0698a08"/><list><item id="itemX58p0698a0801">發心<note place="inline">謂發普賢廣大行願心也</note></item>
+<lb ed="X" n="0698a09"/><item id="itemX58p0698a0901">初信<note place="inline">除我執分別俱生現。與小初果。始初地。終初住頓七信齊</note></item>
+<lb ed="X" n="0698a10"/><item id="itemX58p0698a1001">七信<note place="inline">除法執分別俱生現。與小四果。始七地。終七住。頓初住齊</note></item>
+<lb ed="X" n="0698a11"/><item id="itemX58p0698a1101">九信<note place="inline">伏二執分別俱生麤種。與始妙覺。終二行。頓七住齊</note></item>
+<lb ed="X" n="0698a12"/><item id="itemX58p0698a1201">十信<note place="inline">伏二執分別俱生細種。與終十行。頓十住齊上皆明圓伏中伏斷。下方圓斷也</note></item></list></div2>
+<lb ed="X" n="0698a13"/><div2 type="other"><mulu type="其他" level="2" label="〔相似〕"/><head>〔相似〕</head>
+<lb ed="X" n="0698a14"/><list><item id="itemX58p0698a1401">初住<note place="inline">除二執分別俱生麤種。與終初向。頓初行齊</note></item>
+<lb ed="X" n="0698a15"/><item id="itemX58p0698a1501">十住<note place="inline">除二執分別俱生細種。與終十向。頓十行齊</note></item>
+<lb ed="X" n="0698a16"/><item id="itemX58p0698a1601">初行<note place="inline">圓斷二執分別俱生現種盡。更斷習氣一分。與終初地。頓初向齊</note></item>
+<lb ed="X" n="0698a17"/><item id="itemX58p0698a1701">初向<note place="inline">圓斷二執習氣十一分。與終等覺。頓初地齊</note></item>
+<lb ed="X" n="0698a18"/><item id="itemX58p0698a1801">十向<note place="inline">圓斷習氣二十分與頓十地齊</note></item>
+<lb ed="X" n="0698a19"/><item id="itemX58p0698a1901">四加<note place="inline">圓斷十向習盡。進斷初地習氣</note></item></list></div2>
+<lb ed="X" n="0698a20"/><div2 type="other"><mulu type="其他" level="2" label="〔隨分〕"/><head>〔隨分〕</head>
+<lb ed="X" n="0698a21"/><list><item id="itemX58p0698a2101">初地<note place="inline">圓斷習氣二十一分。與頓等覺齊</note></item>
+<lb ed="X" n="0698a22"/><item id="itemX58p0698a2201">二地<note place="inline">圓斷習氣二十二分。與頓妙覺齊</note></item>
+<lb ed="X" n="0698a23"/><item id="itemX58p0698a2301">三地<note place="inline">圓斷習氣二十三分。頓教不知名目</note></item>
+<lb ed="X" n="0698a24"/><item id="itemX58p0698a2401">等覺<note place="inline">圓斷習氣三十一分。進斷佛地習氣一分</note></item></list></div2>
+<pb ed="X" id="X58.1026.0698b" n="0698b"/>
+<lb ed="X" n="0698b01"/><div2 type="other"><mulu type="其他" level="2" label="〔圓〕"/><head>〔圓〕</head><list><item id="itemX58p0698b0102">妙覺<note place="inline">圓斷二執無盡現種習盡。在無障礙法界土。成無障礙法界佛。坐普融無盡師子座。說緣
+<lb ed="X" n="0698b02"/>起法界法令偏教三乘并上上根凡夫外道轉偏成圖也</note></item></list></div2></div1>
+<lb ed="X" n="0698b03"/><div1 type="other"><mulu type="其他" level="1" label="頓教(此教斷證如狂迷歇如睡夢覺)"/><head>○頓教<note place="inline">此教斷證。如狂迷歇。如睡夢覺</note></head>
+<lb ed="X" n="0698b04"/><p id="pX58p0698b0401" rend="margin-left:3em"><note place="inline">本品準前。此中三地。亦超終妙。增成五十二品</note>。</p>
+<lb ed="X" n="0698b05"/><div2 type="other"><mulu type="其他" level="2" label="〔本〕"/><head>〔本〕</head><list><item id="itemX58p0698b0502">不覺<note place="inline">謂不覺真如性也</note></item></list></div2>
+<lb ed="X" n="0698b06"/><div2 type="other"><mulu type="其他" level="2" label="〔名字〕"/><head>〔名字〕</head>
+<lb ed="X" n="0698b07"/><list><item id="itemX58p0698b0701">發心<note place="inline">謂發內證聖智心也</note></item>
+<lb ed="X" n="0698b08"/><item id="itemX58p0698b0801">初信<note place="inline">伏二執分別俱生現。與小加行。始第一。終十信齊</note></item>
+<lb ed="X" n="0698b09"/><item id="itemX58p0698b0901">七信<note place="inline">除我執分別俱生現。與小初果。始初地。終初住齊</note></item></list>
+<lb ed="X" n="0698b10"/><p id="pX58p0698b1001" rend="margin-left:3em"><note place="inline">上皆頓伏。向下皆頓斷中明伏斷也</note>。</p></div2>
+<lb ed="X" n="0698b11"/><div2 type="other"><mulu type="其他" level="2" label="〔相似〕"/><head>〔相似〕</head>
+<lb ed="X" n="0698b12"/><list><item id="itemX58p0698b1201">初住<note place="inline">除法執分別俱生現。與小四果。始七地。終七住齊</note></item>
+<lb ed="X" n="0698b13"/><item id="itemX58p0698b1301">七住<note place="inline">伏二執分別俱麤種。與始妙覺。終二行齊</note></item>
+<lb ed="X" n="0698b14"/><item id="itemX58p0698b1401">十住<note place="inline">伏二執分別俱生細種。與與終十行齊</note></item>
+<lb ed="X" n="0698b15"/><item id="itemX58p0698b1501">初行<note place="inline">除二執分別俱生麤種。與終初向齊</note></item>
+<lb ed="X" n="0698b16"/><item id="itemX58p0698b1601">十行<note place="inline">除二執分別俱生細種。與終十向齊</note></item>
+<lb ed="X" n="0698b17"/><item id="itemX58p0698b1701">初向<note place="inline">頓斷二執分別俱生現種盡。更斷習氣一分。與終初地盡</note></item>
+<lb ed="X" n="0698b18"/><item id="itemX58p0698b1801">十向<note place="inline">頓斷二執習氣十分。與終十地齊</note></item>
+<lb ed="X" n="0698b19"/><item id="itemX58p0698b1901">四加<note place="inline">斷前十向習盡。進伏初地習氣</note></item></list></div2>
+<lb ed="X" n="0698b20"/><div2 type="other"><mulu type="其他" level="2" label="〔隨分〕"/><head>〔隨分〕</head>
+<lb ed="X" n="0698b21"/><list><item id="itemX58p0698b2101">初地<note place="inline">頓斷斷習氣十一分。與終等覺齊</note></item>
+<lb ed="X" n="0698b22"/><item id="itemX58p0698b2201">二地<note place="inline">頓斷習氣十二分。與終妙覺齊三地<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>去。終教不知名目</note></item>
+<lb ed="X" n="0698b23"/><item id="itemX58p0698b2301">等覺<note place="inline">頓斷習氣二十一分。進斷佛地習氣一分</note></item></list></div2>
+<lb ed="X" n="0698b24"/><div2 type="other"><mulu type="其他" level="2" label="〔圓〕"/><head>〔圓〕</head><list><item id="itemX58p0698b2402">妙覺<note place="inline">頓斷二執現種習盡。在法性土。成法性佛。坐&CB00980;空座。說一乘真性法。令漸教三乘并上根
+<pb ed="X" id="X58.1026.0698c" n="0698c"/>
+<lb ed="X" n="0698c01"/>凡夫外道。轉漸成頓也</note></item></list></div2></div1>
+<lb ed="X" n="0698c02"/><div1 type="other"><mulu type="其他" level="1" label="終教(此教斷證如器成金如水即水)"/><head>○終教<note place="inline">此教斷證。如器成金。如水即水</note></head>
+<lb ed="X" n="0698c03"/><p id="pX58p0698c0301" rend="margin-left:3em"><note place="inline">謂初住至妙。每有四十二品。勝始教可知</note>。</p>
+<lb ed="X" n="0698c04"/><div2 type="other"><mulu type="其他" level="2" label="〔本〕"/><head>〔本〕</head><list><item id="itemX58p0698c0402">不覺<note place="inline">謂不覺如來藏性也</note></item></list></div2>
+<lb ed="X" n="0698c05"/><div2 type="other"><mulu type="其他" level="2" label="〔名字〕"/><head>〔名字〕</head>
+<lb ed="X" n="0698c06"/><list><item id="itemX58p0698c0601">發心<note place="inline">謂發慈悲深直心也</note></item>
+<lb ed="X" n="0698c07"/><item id="itemX58p0698c0701">初信<note place="inline">即略伏二障</note></item>
+<lb ed="X" n="0698c08"/><item id="itemX58p0698c0801">七信<note place="inline">伏二障分別俱生麤現。與小總相。始十向齊</note></item>
+<lb ed="X" n="0698c09"/><item id="itemX58p0698c0901">十信<note place="inline">伏二障分別俱生細現。與小加行。始第一齊</note></item></list></div2>
+<lb ed="X" n="0698c10"/><div2 type="other"><mulu type="其他" level="2" label="〔相似〕"/><head>〔相似〕</head>
+<lb ed="X" n="0698c11"/><list><item id="itemX58p0698c1101">初住<note place="inline">除煩惱分別俱生現。與小初果。始初地齊</note></item>
+<lb ed="X" n="0698c12"/><item id="itemX58p0698c1201">七住<note place="inline">除所知分別俱生現。與小四果。始七地齊</note></item>
+<lb ed="X" n="0698c13"/><item id="itemX58p0698c1301">二行<note place="inline">伏二障分別俱生麤種。與始妙覺齊。三行<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>去。始教人不知名目</note></item>
+<lb ed="X" n="0698c14"/><item id="itemX58p0698c1401">十行<note place="inline">伏二障分別俱生細種</note></item>
+<lb ed="X" n="0698c15"/><item id="itemX58p0698c1501">初向<note place="inline">除二障分別俱生麤種</note></item>
+<lb ed="X" n="0698c16"/><item id="itemX58p0698c1601">十向<note place="inline">除二障分別俱生細種</note></item>
+<lb ed="X" n="0698c17"/><item id="itemX58p0698c1701">四加<note place="inline">伏二障習氣</note></item></list>
+<lb ed="X" n="0698c18"/><p id="pX58p0698c1801" rend="margin-left:3em"><note place="inline">以上皆明具伏二障中伏斷如此。向下皆具斷也</note>。</p></div2>
+<lb ed="X" n="0698c19"/><div2 type="other"><mulu type="其他" level="2" label="〔隨分〕"/><head>〔隨分〕</head>
+<lb ed="X" n="0698c20"/><list><item id="itemX58p0698c2001">初地<note place="inline">斷二障分別俱生現種盡更斷習氣一分</note></item>
+<lb ed="X" n="0698c21"/><item id="itemX58p0698c2101">十地<note place="inline">斷二障習氣十分</note></item>
+<lb ed="X" n="0698c22"/><item id="itemX58p0698c2201">等覺<note place="inline">斷二障習氣十一分。進斷佛地習氣一分</note></item></list></div2>
+<lb ed="X" n="0698c23"/><div2 type="other"><mulu type="其他" level="2" label="〔圓〕"/><head>〔圓〕</head><list><item id="itemX58p0698c2302">妙覺<note place="inline">斷二障現種習盡。在受用土。成受用佛。坐金剛座。說藏心法令權教三乘并中根凡夫外
+<lb ed="X" n="0698c24"/>道。轉權成實也</note></item></list></div2></div1>
+<pb ed="X" id="X58.1026.0699a" n="0699a"/>
+<lb ed="X" n="0699a01"/><div1 type="other"><mulu type="其他" level="1" label="始教(此教斷證如鏡離垢如月出雲)"/><head>○始教<note place="inline">此教斷證。如鏡離垢。如月出雲</note></head>
+<lb ed="X" n="0699a02"/><p id="pX58p0699a0201" rend="margin-left:3em"><note place="inline">斷事理二障。滅分變二死。顯我法二空理。證智斷二果德。初地至妙。每有十二品</note>。</p>
+<lb ed="X" n="0699a03"/><div2 type="other"><mulu type="其他" level="2" label="〔本〕"/><head>〔本〕</head><list><item id="itemX58p0699a0302">不覺<note place="inline">謂不覺二空法性也</note></item></list></div2>
+<lb ed="X" n="0699a04"/><div2 type="other"><mulu type="其他" level="2" label="〔名字〕"/><head>〔名字〕</head>
+<lb ed="X" n="0699a05"/><list><item id="itemX58p0699a0501">發心<note place="inline">謂發行度利生心也</note></item>
+<lb ed="X" n="0699a06"/><item id="itemX58p0699a0601">十信<note place="inline">初伏二障</note></item></list></div2>
+<lb ed="X" n="0699a07"/><div2 type="other"><mulu type="其他" level="2" label="〔相似〕"/><head>〔相似〕</head>
+<lb ed="X" n="0699a08"/><list><item id="itemX58p0699a0801">十住<note place="inline">雙伏二障中。少伏煩惱分別現</note></item>
+<lb ed="X" n="0699a09"/><item id="itemX58p0699a0901">十行<note place="inline">雙伏二障中。少伏所知分別現</note></item>
+<lb ed="X" n="0699a10"/><item id="itemX58p0699a1001">十向<note place="inline">伏除二障分別現。相資糧。空乾慧。與小總相念齊</note></item>
+<lb ed="X" n="0699a11"/><item id="itemX58p0699a1101">四加<note place="inline">除二障分別現。伏分別種及俱生現。相加行。空性地。與小世第一齊</note></item></list></div2>
+<lb ed="X" n="0699a12"/><div2 type="other"><mulu type="其他" level="2" label="〔隨分〕"/><head>〔隨分〕</head>
+<lb ed="X" n="0699a13"/><list><item id="itemX58p0699a1301">初地<note place="inline">始斷二障分別種。進斷俱生種現一分。相見道空八人見地。與小初果齊</note></item>
+<lb ed="X" n="0699a14"/><item id="itemX58p0699a1401">三地<note place="inline">斷二障俱生種現三分。空薄欲地。與小二果齊</note></item>
+<lb ed="X" n="0699a15"/><item id="itemX58p0699a1501">五地<note place="inline">斷二障俱生種現五分。空離欲地。與小三果齊</note></item>
+<lb ed="X" n="0699a16"/><item id="itemX58p0699a1601">七地<note place="inline">斷二障俱生種現七分。空<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>辦地。與小四果齊</note></item>
+<lb ed="X" n="0699a17"/><item id="itemX58p0699a1701">八地<note place="inline">斷二障俱生種現八分。空辟支佛地。與小支佛齊</note></item>
+<lb ed="X" n="0699a18"/><item id="itemX58p0699a1801">九地<note place="inline">斷二障俱生種現九分。與小佛果齊十地<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上。小教不知名目</note></item>
+<lb ed="X" n="0699a19"/><item id="itemX58p0699a1901">等覺<note place="inline">斷二障俱生種現十一分。進斷佛地一分。空菩薩地。相修習位</note></item></list></div2>
+<lb ed="X" n="0699a20"/><div2 type="other"><mulu type="其他" level="2" label="〔圓〕"/><head>〔圓〕</head><list><item id="itemX58p0699a2002">妙覺<note place="inline">頓斷二障分別俱生種現盡。空佛地。相究竟位。在淨化土。成勝應佛。天衣座上。說空相法。
+<lb ed="X" n="0699a21"/>令小乘及下根凡夫外道。轉小成大也</note></item></list></div2></div1>
+<lb ed="X" n="0699a22"/><div1 type="other"><mulu type="其他" level="1" label="小教(此教斷證如木作＆CB01926；如色歸空)"/><head>○小教<note place="inline">此教斷證。如木作&CB01926;。如色歸空</note></head>
+<lb ed="X" n="0699a23"/><p id="pX58p0699a2301" rend="margin-left:3em"><note place="inline">斷煩惱障。滅分段死。顯生空理。證偏真果</note>。</p>
+<lb ed="X" n="0699a24"/><div2 type="other"><mulu type="其他" level="2" label="〔本〕"/><head>〔本〕</head><list><item id="itemX58p0699a2402">不覺<note place="inline">凡夫地位。覺性本具。無明迷障。成不覺故。此則不覺偏真性也</note></item></list></div2>
+<pb ed="X" id="X58.1026.0699b" n="0699b"/>
+<lb ed="X" n="0699b01"/><div2 type="other"><mulu type="其他" level="2" label="〔名字〕"/><head>〔名字〕</head>
+<lb ed="X" n="0699b02"/><list><item id="itemX58p0699b0201">發心<note place="inline">謂發出界取滅心也</note></item>
+<lb ed="X" n="0699b03"/><item id="itemX58p0699b0301">五停心<note place="inline">多貪不淨觀。多瞋慈悲觀。多癡因緣觀。多散數息觀。多障念佛觀。此一位破障</note></item></list></div2>
+<lb ed="X" n="0699b04"/><div2 type="other"><mulu type="其他" level="2" label="〔相似〕"/><head>〔相似〕</head>
+<lb ed="X" n="0699b05"/><list><item id="itemX58p0699b0501">別相念<note place="inline">觀身不淨。觀受是苦。觀心無常。觀法無我</note></item>
+<lb ed="X" n="0699b06"/><item id="itemX58p0699b0601">總相念<note place="inline">觀身不淨。受心法皆不淨。乃至觀法無我。身受心亦無我</note></item></list>
+<lb ed="X" n="0699b07"/><p id="pX58p0699b0701" rend="margin-left:3em"><note place="inline">此上二位。唯觀欲界苦諦。伏煩惱惑</note>。</p><p id="pX58p0699b0715" place="inline" rend="margin-left:4em"><note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上資糧位</note>。</p>
+<lb ed="X" n="0699b08"/><list><item id="itemX58p0699b0801">煖<note place="inline">&CB01772;觀欲界四諦。修十六行</note></item>
+<lb ed="X" n="0699b09"/><item id="itemX58p0699b0901">頂<note place="inline">用觀同前。轉更明朗</note></item>
+<lb ed="X" n="0699b10"/><item id="itemX58p0699b1001"><p id="pX58p0699b1001">忍</p><p id="pX58p0699b1002" place="inline"><note place="inline">下忍遍觀八諦。修三十二行</note></p><p id="pX58p0699b1013" place="inline"><note place="inline">中忍漸減緣行。乃至一行二剎那在</note></p>
+<lb ed="X" n="0699b11"/><p id="pX58p0699b1101"><note place="inline">上忍亦唯觀欲界苦。於一行二剎那中。前一剎那盡</note></p></item>
+<lb ed="X" n="0699b12"/><item id="itemX58p0699b1201">世第一<note place="inline">一行二剎那中。後一剎那盡。伏除分別煩惱</note></item></list><p id="pX58p0699b1221" place="inline" rend="margin-left:4em"><note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上加行位</note>。</p></div2>
+<lb ed="X" n="0699b13"/><div2 type="other"><mulu type="其他" level="2" label="〔隨分〕"/><head>〔隨分〕</head>
+<lb ed="X" n="0699b14"/><list><item id="itemX58p0699b1401">須陀洹<note place="inline">斷三界八十八使分別見煩惱</note></item></list><p id="pX58p0699b1416" place="inline" rend="margin-left:4em"><note place="inline">通達位</note>。</p>
+<lb ed="X" n="0699b15"/><list><item id="itemX58p0699b1501">斯陀含<note place="inline">斷欲界前六品俱生思</note></item>
+<lb ed="X" n="0699b16"/><item id="itemX58p0699b1601">阿那含<note place="inline">斷欲界後三品。進斷上二界七十二品俱生思煩惱</note></item></list><p id="pX58p0699b1624" place="inline" rend="margin-left:4em"><note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上修習位</note>。</p></div2>
+<lb ed="X" n="0699b17"/><div2 type="other"><mulu type="其他" level="2" label="〔圓〕阿羅漢"/><head>〔圓〕</head><list><item id="itemX58p0699b1702">阿羅漢<note place="inline">斷我執分別俱生煩惱盡。證生空理。住有餘無餘涅槃</note></item></list><p id="pX58p0699b1728" place="inline" rend="margin-left:4em"><note place="inline">無學位</note>。</p></div2>
+<lb ed="X" n="0699b18"/><div2 type="other"><mulu type="其他" level="2" label="〔圓〕辟支"/><head>〔圓〕</head><list><item id="itemX58p0699b1802">辟支<note place="inline">斷見思煩惱障。與聲聞同。更侵習氣。故居其上。餘理果亦同</note></item></list><p id="pX58p0699b1829" place="inline" rend="margin-left:4em"><note place="inline">無學位</note>。</p></div2>
+<lb ed="X" n="0699b19"/><div2 type="other"><mulu type="其他" level="2" label="〔圓〕佛"/><head>〔圓〕</head><list><item id="itemX58p0699b1902">佛<note place="inline">從初發心。發四弘願。三祇百劫。修行種相。次入補處。托胎出家安坐不動。發真無漏。頓斷見思
+<lb ed="X" n="0699b20"/>煩惱習氣。在染化土。成劣應佛。生草座上。說諦緣法。令下下凡夫外道。轉凡成聖也</note></item></list><p id="pX58p0699b2033" place="inline" rend="margin-left:4em"><note place="inline">無學位</note>。</p>
+<lb ed="X" n="0699b21"/><p id="pX58p0699b2101" rend="margin-left:1em">庚戌春。豎錄此圖於單條紙上。緇素輩不粘之座
+<lb ed="X" n="0699b22"/>側。則易於遺失。重請方書。辛酉臘月八。再為橫鈔
+<lb ed="X" n="0699b23"/>於冊頁。不唯令行坐可閱。而且流之遠與久也。然
+<lb ed="X" n="0699b24"/>觀者須不凝滯於佛。若作迷本逐末看。豎則先上
+<pb ed="X" id="X58.1026.0699c" n="0699c"/>
+<lb ed="X" n="0699c01"/>次下。橫則先前次後。若作返妄歸真看。豎則先下
+<lb ed="X" n="0699c02"/>次上。橫則先後次前。人但知小始終頓圓。不知圓
+<lb ed="X" n="0699c03"/>頓終始小。今特圖出之。令作兩觀。以見其行布中。
+<lb ed="X" n="0699c04"/>而實圓融無礙焉。</p><p id="pX58p0699c0408" place="inline" rend="margin-left:1em">慈雲灌頂行者續法題</p></div2></div1>
+</body></text></TEI.2>

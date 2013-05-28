@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X55n0914.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 914 普賢菩薩發願文</title>
+			<author>隋 智顗撰</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $ (Big5)<date>$Date: 2009/04/22 09:00:20 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:00:20 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 55, No. 914 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/05/24 15:22:47</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X55n0914.xml,v $
+Revision 1.2  2009/04/22 09:00:20  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.1  2005/05/24 07:33:22  edith
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X55.0914.0689c" n="0689c"/>
+<lb ed="X" n="0689c01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0689c02"/>
+<lb ed="X" n="0689c03"/>
+<lb ed="X" n="0689c04"/>
+<lb ed="X" n="0689c05"/><head type="no">No. 914</head>
+<lb ed="X" n="0689c06"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>普賢菩薩發願文</jhead></juan>
+<lb ed="X" n="0689c07"/>
+<lb ed="X" n="0689c08"/><byline type="author">天台　智者大師　撰</byline>
+<lb ed="X" n="0689c09"/><div1><p id="pX55p0689c0901">稽首十方三世一切諸佛。願當證知某甲。諸佛所有
+<lb ed="X" n="0689c10"/>一切波羅蜜行。我今然當如彼修學。唯願諸佛如來
+<lb ed="X" n="0689c11"/>慈悲哀念。我願於菩提心得大固力。於不可思議諸
+<lb ed="X" n="0689c12"/>佛法中得深信力。於多聞中得不忘力。於往來生死
+<lb ed="X" n="0689c13"/>中得無疲倦力。於諸眾生中得堅大悲力。於布施中
+<lb ed="X" n="0689c14"/>得堅捨力。於持戒中得不壞力。於忍辱中得堅受力。
+<lb ed="X" n="0689c15"/>魔不能壞得智慧力。於深法中得信樂力。一者。願我
+<lb ed="X" n="0689c16"/>於一切生處。一切法中。常得供養十方一切諸佛。盡
+<lb ed="X" n="0689c17"/>未來際無有休息。二者。願我受持如來甚深法海。即
+<lb ed="X" n="0689c18"/>自明解不由佗悟。盡未來際無有休息。三者。諸佛坐
+<lb ed="X" n="0689c19"/>道場處。願我於中作攝法上首。請轉法輪度脫眾生。
+<lb ed="X" n="0689c20"/>盡未來際無有休息。四者。願我修行一切諸菩薩無
+<lb ed="X" n="0689c21"/>邊廣大願。盡未來際無有休息。五者。願我教化一切
+<lb ed="X" n="0689c22"/>眾生。卵生．胎生．濕生．化生。悉皆令入無餘涅槃。盡未
+<lb ed="X" n="0689c23"/>來際無有休息。六者。願我生諸佛剎如對目前。盡未
+<lb ed="X" n="0689c24"/>來際無有休息。七者。願我嚴淨諸佛如來甚深剎海。
+<pb ed="X" id="X55.0914.0690a" n="0690a"/>
+<lb ed="X" n="0690a01"/>盡未來際無有休息。八者。願我與一切諸菩薩同行。
+<lb ed="X" n="0690a02"/>集諸善根。盡未來際無有休息。九者。願我所有身口
+<lb ed="X" n="0690a03"/>意業。眾生見聞皆獲利益。如藥樹王無空過者。盡未
+<lb ed="X" n="0690a04"/>來際無有休息。十者。願我於一切微塵道中成等正
+<lb ed="X" n="0690a05"/>覺。轉大法輪。度脫眾生。盡未來際無有休息。佛子若
+<lb ed="X" n="0690a06"/>能發此十大願者。百萬阿僧祗願門皆悉見發。願以
+<lb ed="X" n="0690a07"/>此廣大誓願。種種善根。迴向一切眾生。願皆永離三
+<lb ed="X" n="0690a08"/>惡道苦。具足普賢菩薩行願。我又以此善根迴向無
+<lb ed="X" n="0690a09"/>上菩提。不求世間二乘果報。我又以此善根迴向真
+<lb ed="X" n="0690a10"/>如法界海。真如無滅。無漏無為。不可破壞。願我善根
+<lb ed="X" n="0690a11"/>亦復如是。如三世諸佛迴向。我亦如是迴向。迴向<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0690a12"/>歸命禮三寶。</p></div1>
+</body></text></TEI.2>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X69n1363.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1363 西山亮禪師語錄</title>
+			<author>(侍者)覺心．志清 編</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.7 $ (Big5)<date>$Date: 2009/04/22 09:03:14 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:03:14 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 69, No. 1363 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2004/06/17 09:14:43</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X69n1363.xml,v $
+Revision 1.7  2009/04/22 09:03:14  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.6  2007/09/06 05:57:05  amtbgrace
+modified: 校注插入 XML 作業完成
+
+Revision 1.5  2004/11/15 11:16:50  amtbgrace
+modified: 跑chk_mcode.pl  將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
+
+Revision 1.4  2004/07/16 09:13:19  moved
+modified：執行 margin.pl，加入 em 單位。
+
+Revision 1.3  2004/07/06 10:18:17  eva
+modified: 刪除空的 juan close
+
+Revision 1.2  2004/06/24 10:15:35  eva
+modified: 修訂milestone 及 手動加入 div
+
+Revision 1.1  2004/06/17 01:20:45  ray
+由 basicx 轉自 簡單標記版
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X69.1363.0649b" n="0649b"/>
+<lb ed="X" n="0649b01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0649b02"/>
+<lb ed="X" n="0649b03"/><div1 type="xu"><mulu type="序" level="1" label="No. 1363-A 西山和尚語錄序"/><head>No. 1363-A
+<lb ed="X" n="0649b04"/> 西山和尚語錄序</head>
+<lb ed="X" n="0649b05"/>
+<lb ed="X" n="0649b06"/><p id="pX69p0649b0601">比丘慧真。將與刊布西山亮和尚錄。&CB00582;予三十年舊
+<lb ed="X" n="0649b07"/>交。來福泉蘭若。求序引。泚筆示之云。</p>
+<lb ed="X" n="0649b08"/><lg id="lgX69p0649b0801"><l>四八年間誑後昆</l><l>纔開臭口謗宗門</l>
+<lb ed="X" n="0649b09"/><l>如今更刻閑題倡</l><l>擊水依前覓杖痕</l></lg>
+<lb ed="X" n="0649b10"/><p id="pX69p0649b1001">淳祐三祀。履端人日。天目樵叟<note place="inline">文禮</note>書于李&CB05896;功德
+<lb ed="X" n="0649b11"/>寺之退居。次第登五峰。丐　無準跋尾。蒙不得辭。以
+<lb ed="X" n="0649b12"/>此似它使拂我浪言也。</p></div1>
+<lb ed="X" n="0649b13"/>
+<lb ed="X" n="0649b14"/>
+<lb ed="X" n="0649b15"/>
+<lb ed="X" n="0649b16"/><head type="no">No. 1363</head>
+<lb ed="X" n="0649b17"/><juan fun="open" n="001"><mulu type="卷" n="1"/><jhead><app><lem wit="【CBETA】" resp="CBETA.maha">西山亮禪師語錄</lem><rdg wit="【卍續】"></rdg></app></jhead></juan>
+<lb ed="X" n="0649b18"/><div1 type="other"><mulu type="其他" level="1" label="西山和尚住建康府清真禪院語錄"/><head>西山和尚住建康府清真禪院語錄</head>
+<lb ed="X" n="0649b19"/><byline type="editor">侍者　覺心　編</byline>
+<lb ed="X" n="0649b20"/><p id="pX69p0649b2001">師於嘉定四年
+<lb ed="C X" n="0649b21"/>上堂。舉三聖和尚道。我逢人則出。出則不為人。興化
+<lb ed="X" n="0649b22"/>道。我逢人則不出。出則便為人。三聖興化。各出一隻
+<lb ed="X" n="0649b23"/>手。要扶&CB00594;臨濟宗風。殊不知。臨濟宗風。祇因二大老。
+<lb ed="X" n="0649b24"/>掃土而盡。今日亮上座出世。畢竟如何。幸是太平無
+<pb ed="X" id="X69.1363.0649c" n="0649c"/>
+<lb ed="X" n="0649c01"/>事客。相逢何必動干戈。雖然如是。也是雪峰道底。</p>
+<lb ed="X" n="0649c02"/><p id="pX69p0649c0201">上堂。一葉落天下秋。幾人於此辨來由。衲僧冷地呵
+<lb ed="X" n="0649c03"/>呵笑。南嶽天台拄杖頭。</p>
+<lb ed="X" n="0649c04"/><p id="pX69p0649c0401">上堂。舉南院問僧。名什麼。僧云普參。院云。忽遇屎橛
+<lb ed="X" n="0649c05"/>時如何。僧云不審。南院便打。師云。兩箇屎橛。合作一
+<lb ed="X" n="0649c06"/>團。熏天炙地誰能&CB00587;。千古叢林作話端。</p>
+<lb ed="X" n="0649c07"/><p id="pX69p0649c0701">上堂。今朝十一月十五。光陰似箭歲將莫。參禪學道
+<lb ed="X" n="0649c08"/>如何。切忌守株而待兔。若是金毛師子兒。翻身一擲
+<lb ed="X" n="0649c09"/>無回互。無回互。驚殺南山白額虎。</p>
+<lb ed="X" n="0649c10"/><p id="pX69p0649c1001">上堂。兩國戰爭。萬民逃竄。直得清真寺裏。前廊後架。
+<lb ed="X" n="0649c11"/>一時占斷。佛殿上繫牛。僧堂中繫馬。屙屎放溺。更無
+<lb ed="X" n="0649c12"/>縫罅。遮般境界。銕額銅頭也怕。唯有釋迦老子。懽懽
+<lb ed="X" n="0649c13"/>喜喜。屎堆上來來去去。放光動地。諸人還見麼。若也
+<lb ed="X" n="0649c14"/>見得。夜夜抱佛眠。朝朝還共起。其或未然。莫道無罪
+<lb ed="X" n="0649c15"/>過。擊禪床下座。</p>
+<lb ed="X" n="0649c16"/><p id="pX69p0649c1601">上堂。今朝三月半。百花開爛熳。祖意甚分明。何妨著
+<lb ed="X" n="0649c17"/>眼看。看看。忽然花謝樹頭空。又被風吹別調中。</p>
+<lb ed="X" n="0649c18"/><p id="pX69p0649c1801">上堂。舉僧問報慈。情生智隔。想變體殊。情未生時如
+<lb ed="X" n="0649c19"/>何。慈云隔。師云。者僧問處絕&CB05070;訛。就便拈來付與它。
+<lb ed="X" n="0649c20"/>&CB02393;綠枝頭紅一點。動人春色不消多。</p>
+<lb ed="X" n="0649c21"/><p id="pX69p0649c2101">解夏上堂。九旬禁足今朝滿。漆桶掀翻快活人。莫&CB00383;
+<lb ed="X" n="0649c22"/>點胸夸獨步。只緣過夏在清真。</p>
+<lb ed="X" n="0649c23"/><p id="pX69p0649c2301">上堂。舉趙州問南泉。知有底人向甚處去。泉云。檀越
+<lb ed="X" n="0649c24"/>家作一頭水牯牛去。州云。謝師答話。泉云。昨夜三更
+<pb ed="X" id="X69.1363.0650a" n="0650a"/>
+<lb ed="X" n="0650a01"/>月到&CB13122;。雲峰云。南泉若無後語。洎被打破蔡州。大慧
+<lb ed="X" n="0650a02"/>師祖云。雲峰老人。失&CB00230;一隻眼。殊不知。祇因后語。當
+<lb ed="X" n="0650a03"/>下打破蔡州。師云。行到水窮處。坐看雲起時。</p>
+<lb ed="X" n="0650a04"/><p id="pX69p0650a0401">開爐上堂。舉趙州和尚道。火爐頭。有則無賓主話。我
+<lb ed="X" n="0650a05"/>在南方卅年。更無一人舉著。師云。趙州老子。太無厭
+<lb ed="X" n="0650a06"/>足。今日開爐。清真不免頭上安頭。舉無賓主話一遍。
+<lb ed="X" n="0650a07"/>布施大眾。便下座。</p>
+<lb ed="X" n="0650a08"/><p id="pX69p0650a0801">上堂。說參禪彌天過。緣是見成行貨。可憐背覺合塵。
+<lb ed="X" n="0650a09"/>飯籮邊忍飢餓。</p></div1>
+<lb ed="X" n="0650a10"/><div1 type="other"><mulu type="其他" level="1" label="西山和尚住慶元府靈隱禪院語錄"/><head>西山和尚住慶元府靈隱禪院語錄</head>
+<lb ed="X" n="0650a11"/><byline type="editor">侍者　志清　編</byline>
+<lb ed="X" n="0650a12"/><div2 type="other"><mulu type="其他" level="2" label="指三門"/><head>指三門</head>
+<lb ed="X" n="0650a13"/><p id="pX69p0650a1301">蹋斷千差路。潑天門戶開。&CB01769;頭空蕩蕩。&CB00560;下起風雷。</p></div2>
+<lb ed="X" n="0650a14"/><div2 type="other"><mulu type="其他" level="2" label="拈帖"/><head>拈帖</head>
+<lb ed="X" n="0650a15"/><p id="pX69p0650a1501">號令聖凡。須憑者箇。且道者箇從甚處得來。還知麼。
+<lb ed="X" n="0650a16"/>塞&CB00230;耳根。分明聽取。</p>
+<lb ed="X" n="0650a17"/><p id="pX69p0650a1701">上堂。八十老婆心<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>&CB01926;。強顏抹粉與涂&CB16115;。自知潦倒
+<lb ed="X" n="0650a18"/>無羞&CB00302;。遇興何妨舞一回。<note place="inline">問答不錄</note>山野今蒙使府給帖。
+<lb ed="X" n="0650a19"/>俾令住持為。</p>
+<lb ed="X" n="0650a20"/><p id="pX69p0650a2001">國焚修。今晨入院。打鼓上堂。祝延
+<lb ed="C X" n="0650a21"/>聖壽外。合譚何事。若要說規矩。規矩隨身。若要說禪
+<lb ed="X" n="0650a22"/>道。鈍置殺人。畢竟如何。四海浪平龍睡穩。九天雲靜
+<lb ed="X" n="0650a23"/>&CB15112;蜚高。</p>
+<lb ed="X" n="0650a24"/><p id="pX69p0650a2401">舉併壽開堂。三聖推出一僧。與賊過梯。保壽便打。令
+<pb ed="X" id="X69.1363.0650b" n="0650b"/>
+<lb ed="X" n="0650b01"/>不&CB00980;行。三聖云。恁麼為人。非但瞎&CB00230;者僧眼。瞎&CB00230;鎮
+<lb ed="X" n="0650b02"/>州一城人眼去在。為眾竭力。保壽擲拄杖。歸方丈。大
+<lb ed="X" n="0650b03"/>眾會麼。醉后歸來明月夜。笙歌引入畫堂前。</p>
+<lb ed="X" n="0650b04"/><p id="pX69p0650b0401">臘八上堂。便恁麼去。蚤是雪上加霜。那堪更說見明
+<lb ed="X" n="0650b05"/>星成正覺。者般說話。掩彩兒孫。靈隱當時若見他。祇
+<lb ed="X" n="0650b06"/>向道。換盆換盆。</p>
+<lb ed="X" n="0650b07"/><p id="pX69p0650b0701">上堂。柳綠花紅春鳥啼。明明祖意報君知。箇中直下
+<lb ed="X" n="0650b08"/>知端的。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>落吾家第二機。</p>
+<lb ed="X" n="0650b09"/><p id="pX69p0650b0901">結夏上堂。安居之首。禁足為名。禁足之意。在進道而
+<lb ed="X" n="0650b10"/>護生。衲僧家。有何生而可護。有何道而可進。唾一唾。
+<lb ed="X" n="0650b11"/>唾破釋迦老子面門。行一步。蹋斷釋迦老子脊梁骨。
+<lb ed="X" n="0650b12"/>大眾。白雲祖師恁麼說話。大似&CB02852;目生花。靈隱門下。
+<lb ed="X" n="0650b13"/>前無釋迦。後無彌勒。說甚結制解制。長期短期。十二
+<lb ed="X" n="0650b14"/>時中。在在處處。如倚天長劍。誰敢正眼&CB15111;著。諸人還
+<lb ed="X" n="0650b15"/>會麼。<note place="inline">良久</note>會之一字。也不消得。</p>
+<lb ed="X" n="0650b16"/><p id="pX69p0650b1601">上堂。參學事絕商量。急著眼快承當。處處無非安樂
+<lb ed="X" n="0650b17"/>鄉。阿呵呵好快活。萬兩黃金也消得。雖然。且喫大麥
+<lb ed="X" n="0650b18"/>飯。</p>
+<lb ed="X" n="0650b19"/><p id="pX69p0650b1901">上堂。舉雲門問洞山云。近離甚處。山云。查渡。門云。夏
+<lb ed="X" n="0650b20"/>在甚處。山云。湖南報慈。門云。幾時離彼。山云。八月二
+<lb ed="X" n="0650b21"/>十五。門云。放子三頓棒。洞山來日上方丈。問訊云。昨
+<lb ed="X" n="0650b22"/>日蒙和尚賜棒。未審某甲過在甚處。門云。飯袋子。江
+<lb ed="X" n="0650b23"/>西湖南。便與麼去。師云。狂風暴雨轟霹&CB15439;。滿庭撼動
+<lb ed="X" n="0650b24"/>花狼籍。紅紅白白<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>周遮。何勞飯袋重拈出。</p>
+<pb ed="X" id="X69.1363.0650c" n="0650c"/>
+<lb ed="X" n="0650c01"/><p id="pX69p0650c0101">上堂。金風起樹葉落。體露堂堂活鱍鱍。報君知。快領
+<lb ed="X" n="0650c02"/>略。回頭轉腦擬思量。錯認笊籬作木杓。</p>
+<lb ed="X" n="0650c03"/><p id="pX69p0650c0301">真大師相訪上堂。舉實際訪俱胝。不下笠。胝云。放下
+<lb ed="X" n="0650c04"/>著。曰道得即放。胝無語。際便出。胝云。且小住。曰道得
+<lb ed="X" n="0650c05"/>即住。胝又無語。師曰。無語且置。實際也是弄巧成拙。
+<lb ed="X" n="0650c06"/>真大師今日相訪。且無如之若何。自是超出古人一
+<lb ed="X" n="0650c07"/>頭地。具眼者辨取。</p>
+<lb ed="X" n="0650c08"/><p id="pX69p0650c0801">上堂。舉五祖演和尚示徒云。譬如牛過&CB00275;櫺。兩&CB00560;四
+<lb ed="X" n="0650c09"/>蹄都過了。尾巴因甚&CB00230;&CB16150;難。與伊道箇谷呱呱。教它
+<lb ed="X" n="0650c10"/>滿面自羞慚。</p>
+<lb ed="X" n="0650c11"/><p id="pX69p0650c1101">上堂。舉明上座趁盧行者。至大庾嶺頭。見義不為。何
+<lb ed="X" n="0650c12"/>勇之有。盧乃擲衣&CB00647;於石上云。此衣表信。可力爭耶。
+<lb ed="X" n="0650c13"/>退<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>讓人。萬中無一。明上座舉之。如山不動。乃云。我
+<lb ed="X" n="0650c14"/>為法來。非為衣也。願乞開示。&CB00001;出囚口。盧云。不思善
+<lb ed="X" n="0650c15"/>不思惡。那箇是明上座本來面目。寶劍當頭截。明上
+<lb ed="X" n="0650c16"/>座於言下大悟。好與三十棒。畢竟那箇是明上座悟
+<lb ed="X" n="0650c17"/>處。撥闓華岳連天秀。放出黃河徹底清。</p></div2></div1>
+<lb ed="X" n="0650c18"/><div1 type="other"><mulu type="其他" level="1" label="偈頌"/><head>偈頌</head>
+<lb ed="X" n="0650c19"/><div2 type="other"><mulu type="其他" level="2" label="芭蕉拄杖子"/><head>芭蕉拄杖子</head>
+<lb ed="X" n="0650c20"/><p id="pX69p0650c2001">你有主丈與主丈。你無主丈奪主丈。撥亂乾坤幾箇
+<lb ed="X" n="0650c21"/>知。鶯啼不在花枝上。</p></div2>
+<lb ed="X" n="0650c22"/><div2 type="other"><mulu type="其他" level="2" label="靈雲見桃花"/><head>靈雲見桃花</head>
+<lb ed="X" n="0650c23"/><p id="pX69p0650c2301">幾年湖海不知羞。一見桃花自點頭。堪笑傍觀猶眼
+<lb ed="X" n="0650c24"/>熱。也來趁隊逞風流。</p></div2>
+<pb ed="X" id="X69.1363.0651a" n="0651a"/>
+<lb ed="X" n="0651a01"/><div2 type="other"><mulu type="其他" level="2" label="趙州勘婆"/><head>趙州勘婆</head>
+<lb ed="X" n="0651a02"/><p id="pX69p0651a0201">飢時定聞飢。飽時定聞飽。婆子在臺山。趙州勘破了。</p></div2>
+<lb ed="X" n="0651a03"/><div2 type="other"><mulu type="其他" level="2" label="雪師子"/><head>雪師子</head>
+<lb ed="X" n="0651a04"/><p id="pX69p0651a0401">一色通身白。天然絕點塵。吒沙當古路。不吼也驚人。</p></div2>
+<lb ed="X" n="0651a05"/><div2 type="other"><mulu type="其他" level="2" label="建康黃尚書請住清真曾以頌＆CB00230；之"/><head>建康黃尚書。請住清真。曾以頌&CB00230;之</head>
+<lb ed="X" n="0651a06"/><p id="pX69p0651a0601">徹骨窮來不厭窮。橫眠倒臥白雲中。飢&CB00290;一&CB00647;和羅
+<lb ed="X" n="0651a07"/>飯。此外無能振祖風。</p></div2>
+<lb ed="X" n="0651a08"/><div2 type="other"><mulu type="其他" level="2" label="悼遯庵"/><head>悼遯庵</head>
+<lb ed="X" n="0651a09"/><p id="pX69p0651a0901">無端拗曲作直。平白換人眼睛。而今隻履歸去。且喜
+<lb ed="X" n="0651a10"/>天下太平。</p></div2>
+<lb ed="X" n="0651a11"/><div2 type="other"><mulu type="其他" level="2" label="藤簟"/><head>藤簟</head>
+<lb ed="X" n="0651a12"/><p id="pX69p0651a1201">打成一片凝如水。風吹不動寒光起。飯飽&CB15346;&CB15346;快活
+<lb ed="X" n="0651a13"/>眠。不知身在秋波裏。</p></div2>
+<lb ed="X" n="0651a14"/><div2 type="other"><mulu type="其他" level="2" label="開塗田道者求語"/><head>開塗田道者求語</head>
+<lb ed="X" n="0651a15"/><p id="pX69p0651a1501">大海波濤湧。道人願力堅。當頭一截斷。萬頃看平田。</p></div2>
+<lb ed="X" n="0651a16"/><div2 type="other"><mulu type="其他" level="2" label="光維那歸鄉"/><head>光維那歸鄉</head>
+<lb ed="X" n="0651a17"/><p id="pX69p0651a1701">光境俱亡了。寒潭徹底清。泝流翻巨浪。五十四州驚。</p></div2>
+<lb ed="X" n="0651a18"/><div2 type="other"><mulu type="其他" level="2" label="寄　天童癡絕和尚"/><head>寄　天童癡絕和尚</head>
+<lb ed="X" n="0651a19"/><p id="pX69p0651a1901">潦倒西山百不能。隨身賴有一枝藤。東撐西拄消閒
+<lb ed="X" n="0651a20"/>日。甘作荒山小院僧。</p></div2>
+<lb ed="X" n="0651a21"/><div2 type="other"><mulu type="其他" level="2" label="達上人乞語"/><head>達上人乞語</head>
+<lb ed="X" n="0651a22"/><p id="pX69p0651a2201">達道應須併六賊。六賊併了何所得。十方坐斷眼頭
+<lb ed="X" n="0651a23"/>空。觀音院裏無彌勒。</p></div2>
+<lb ed="X" n="0651a24"/><div2 type="other"><mulu type="其他" level="2" label="碧雲寄華藏故舊"/><head>碧雲寄華藏故舊</head>
+<pb ed="X" id="X69.1363.0651b" n="0651b"/>
+<lb ed="X" n="0651b01"/><p id="pX69p0651b0101">碧雲深處望湖山。時步松門獨往還。眼底故人都不
+<lb ed="X" n="0651b02"/>見。但聞幽鳥語關關。</p></div2>
+<lb ed="X" n="0651b03"/><div2 type="other"><mulu type="其他" level="2" label="見侍者求語"/><head>見侍者求語</head>
+<lb ed="X" n="0651b04"/><p id="pX69p0651b0401">三呼三應箭鋒拄。不呼不應全體露。汝從雪竇到靈
+<lb ed="X" n="0651b05"/>山。步步蹋著無差互。</p></div2>
+<lb ed="X" n="0651b06"/><div2 type="other"><mulu type="其他" level="2" label="光上人求語"/><head>光上人求語</head>
+<lb ed="X" n="0651b07"/><p id="pX69p0651b0701">光明寂照&CB00642;河沙。認著依前滿眼花。喪盡諸緣回首
+<lb ed="X" n="0651b08"/>看。寥寥四顧絕周遮。絕周遮處未為是。更須知有祖
+<lb ed="X" n="0651b09"/>師關。透得關。生死佛魔甚屎屁。時來平地一聲雷。四
+<lb ed="X" n="0651b10"/>海五湖如鼎沸。</p></div2>
+<lb ed="X" n="0651b11"/><div2 type="other"><mulu type="其他" level="2" label="古禪人乞語"/><head>古禪人乞語</head>
+<lb ed="X" n="0651b12"/><p id="pX69p0651b1201">底事完全&CB00040;古今。何勞特地&CB00642;參尋。草&CB03603;蹋破知端
+<lb ed="X" n="0651b13"/>的。悔涉山川恨轉深。</p></div2>
+<lb ed="X" n="0651b14"/><div2 type="other"><mulu type="其他" level="2" label="佛事"/><head>佛事</head></div2>
+<lb ed="X" n="0651b15"/><div2 type="other"><mulu type="其他" level="2" label="普上座下火"/><head>普上座下火</head>
+<lb ed="X" n="0651b16"/><p id="pX69p0651b1601">未出母胎一句子。普天&CB00038;地絕&CB05070;訛。無端特地要行
+<lb ed="X" n="0651b17"/>&CB00560;。大似將身入網羅。平白網羅忽地斷。四顧寥寥無
+<lb ed="X" n="0651b18"/>畔岸。烈炎堆中轉法輪。三世諸佛立地看。</p></div2>
+<lb ed="X" n="0651b19"/><div2 type="other"><mulu type="其他" level="2" label="妙堪上座入塔"/><head>妙堪上座入塔</head>
+<lb ed="X" n="0651b20"/><p id="pX69p0651b2001">妙不妙堪不堪。到頭終是不相干。&CB01926;飛&CB00195;滅盡。一劍
+<lb ed="X" n="0651b21"/>倚天寒。</p></div2></div1>
+<lb ed="X" n="0651b22"/><div1 type="xu"><mulu type="序" level="1" label="No. 1363-B 塔銘"/><head>No. 1363-B
+<lb ed="X" n="0651b23"/> 塔銘</head>
+<lb ed="X" n="0651b24"/><p id="pX69p0651b2401">郪在梓。為壯哉。縣稅氏有子。讀書無味。耆貝葉。不啻
+<pb ed="X" id="X69.1363.0651c" n="0651c"/>
+<lb ed="X" n="0651c01"/>悅芻豢。志銳超俗。父母百計不得留。禮當縣文才院
+<lb ed="X" n="0651c02"/>僧普明為師。受具畢。往成都大聖善寺。擇三學名流。
+<lb ed="X" n="0651c03"/>北面師事之。居無何。振&CB15081;出三峽。徑造毗陵華藏。參
+<lb ed="X" n="0651c04"/>禮塗毒&CB15081;。&CB15081;器之。俾執侍左右。逮移徑山。與之偕。&CB15081;
+<lb ed="X" n="0651c05"/>喜作小入室。師直前曰。非古人意也。<note n="0651001" resp="Xuzangjing" place="foot text" type="orig">吾一作若</note>吾進惡石。輒不
+<lb ed="X" n="0651c06"/>聽。堂中第一座遯庵演。是其況。乃依演決所疑。演開
+<lb ed="X" n="0651c07"/>法華藏。亦與之偕。出世金陵清真。瓣香為演拈出。晚
+<lb ed="X" n="0651c08"/>住四明小靈隱。冰檗自若。人不堪其憂。年九十。閱七
+<lb ed="X" n="0651c09"/>十三&CB00168;。無疾而終。淳祐二年。二月十有九日。龕留七
+<lb ed="X" n="0651c10"/>日。葬全身於寺之東隅。得銘無媿。銘曰。</p>
+<lb ed="X" n="0651c11"/><lg id="lgX69p0651c1101"><l>&CB00980;空講經</l><l>四花亂零</l><l>亮公不來</l><l>瘖萬竅聲</l>
+<lb ed="X" n="0651c12"/><l>法不終否</l><l>崛起梓亮</l><l>亮自真訥</l><l>以訥提倡</l>
+<lb ed="X" n="0651c13"/><l>清真把茆</l><l>金陵佳麗</l><l>小試全提</l><l>霧沈半壘</l>
+<lb ed="X" n="0651c14"/><l>以古為鑑</l><l>以身代舌</l><l>波波挈挈</l><l>一生打徹</l>
+<lb ed="X" n="0651c15"/><l>惟小靈隱</l><l>近小淨慈</l><l>樹此勝幢</l><l>悠悠我思</l></lg>
+<lb ed="X" n="0651c16"/><p id="pX69p0651c1601">淳祐三年春朔。淨慈住山人。北&CB01139;<note place="inline">居簡</note>。書于西湖南
+<lb ed="X" n="0651c17"/>宕。</p></div1>
+<lb ed="X" n="0651c18"/><div1 type="xu"><mulu type="序" level="1" label="No. 1363-C"/><head>No. 1363-C</head>
+<lb ed="X" n="0651c19"/><p id="pX69p0651c1901">西山老人。如證而說。如說而行。不犯雕琢。渾然天成。
+<lb ed="X" n="0651c20"/>句句敲出佛祖骨髓。字字點開衲子眼睛。文彩未彰
+<lb ed="X" n="0651c21"/>時薦得。圓音貫耳儼如生。淳祐二年重午。天童比丘
+<lb ed="X" n="0651c22"/><note place="inline">道&CB00287;</note>謹書。</p></div1>
+<lb ed="X" n="0651c23"/><div1 type="xu"><mulu type="序" level="1" label="No. 1363-D"/><head>No. 1363-D</head>
+<lb ed="X" n="0651c24"/><p id="pX69p0651c2401">西山真實一老翁。不事枝葉。有古宿風韻。後學觀此
+<pb ed="X" id="X69.1363.0652a" n="0652a"/>
+<lb ed="X" n="0652a01"/>錄。則知予言之不&CB00980;也。淳祐癸卯上元。徑山圓照叟
+<lb ed="X" n="0652a02"/><note place="inline">師範</note>敬書。</p></div1>
+<lb ed="X" n="0652a03"/><div1 type="xu"><mulu type="序" level="1" label="No. 1363-E"/><head>No. 1363-E</head>
+<lb ed="X" n="0652a04"/><p id="pX69p0652a0401" rend="margin-left:1em">枯崖漫錄中卷曰。西山亮禪師頌趙州勘婆子云。
+<lb ed="X" n="0652a05"/>飢時定聞飢。飽時定聞飽。婆子在臺山。趙州勘破
+<lb ed="X" n="0652a06"/>了。遯菴可之。出世金陵清真。提唱語言。發若機括。
+<lb ed="X" n="0652a07"/>寄天童癡絕云。潦倒西山。百不能隨身。賴有一枝
+<lb ed="X" n="0652a08"/>藤。東&CB04950;西拄消閑日。甘作荒山小院僧。住四明小
+<lb ed="X" n="0652a09"/>靈隱而終。西山蜀人。性方雅。不喜與俗流交。無準
+<lb ed="X" n="0652a10"/>敘其語。稱為本色宗師者也。</p>
+<lb ed="X" n="0652a11"/><p id="pX69p0652a1101" rend="margin-left:1em">又下卷曰。西山亮禪師。福州人。枯硬儉約。&CB00573;蓄紙
+<lb ed="X" n="0652a12"/>被一張。補粘殆遍。寒暑不易。由鼓山首座寮。赴雲
+<lb ed="X" n="0652a13"/>門請。及遷黃檗。未&CB00573;別換。侍僧一夜潛以絹衾易
+<lb ed="X" n="0652a14"/>之。亮驚叫責曰。我鮮福。平生未&CB00573;敢服縑素。況此
+<lb ed="X" n="0652a15"/>被相隨三十年矣。其可棄乎。聞者謂。其住山有古
+<lb ed="X" n="0652a16"/>人風。後退席。入永陽鴈湖山中。與道者刀&CB05184;火種。
+<lb ed="X" n="0652a17"/>莫知所終<note place="inline">日本道忠按。此西山非嗣遯菴者</note>。</p></div1>
+</body></text></TEI.2>

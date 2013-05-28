@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X21n0379.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 379 盂蘭盆經略疏</title>
+			<author>清 元奇書</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $ (Big5)<date>$Date: 2009/04/22 08:53:15 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:53:15 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 21, No. 379 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2006/06/30 11:17:07</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X21n0379.xml,v $
+Revision 1.2  2009/04/22 08:53:15  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.1  2006/06/30 03:24:09  ray
+basicx 程式 轉自 簡單標記版
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X21.0379.0592a" n="0592a"/>
+<lb ed="X" n="0592a01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0592a02"/><div1 type="other"><mulu type="其他" level="1" label="佛說盂蘭盆經略疏"/>
+<lb ed="X" n="0592a03"/><head type="no">No. 379</head>
+<lb ed="X" n="0592a04"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>佛說盂蘭盆經略疏</jhead></juan>
+<lb ed="X" n="0592a05"/>
+<lb ed="X" n="0592a06"/><div2 type="commentary"><p id="pX21p0592a0601" rend="margin-left:1em">△文二初題目。</p></div2>
+<lb ed="X" n="0592a07"/><div2 type="orig"><p id="pX21p0592a0701">佛說盂蘭盆經</p></div2>
+<lb ed="X" n="0592a08"/><div2 type="commentary"><p id="pX21p0592a0801" rend="margin-left:1em">晉武帝時。剎法師。翻云盂蘭盆經。盂蘭是西域之
+<lb ed="X" n="0592a09"/>語。此云倒懸。盆唐三藏翻云救器。若隨方俗。應曰
+<lb ed="X" n="0592a10"/>救倒懸盆。</p><p id="pX21p0592a1005" place="inline" rend="margin-left:1em">△二本文三。初序分二。初證信序。</p></div2>
+<lb ed="X" n="0592a11"/><div2 type="orig"><p id="pX21p0592a1101">聞如是一時佛在舍衛國祇樹給孤獨園。</p></div2>
+<lb ed="X" n="0592a12"/><div2 type="commentary"><p id="pX21p0592a1201" rend="margin-left:1em">六緣闕眾。然不說則<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。說則必具徒眾。故經末云。
+<lb ed="X" n="0592a13"/>四輩弟子。歡喜奉行。聞緣為初。異餘經者。各是譯
+<lb ed="X" n="0592a14"/>人之意。謂或云如是之法我從佛聞。或云我於佛
+<lb ed="X" n="0592a15"/>邊聞如是法。皆是指法之詞也。不云我者。意彰聖
+<lb ed="X" n="0592a16"/>人皆證無我理故。餘經有者。即阿難自指五蘊假
+<lb ed="X" n="0592a17"/>者。不同情計之我。亦無過也。祇樹云云。長者布金
+<lb ed="X" n="0592a18"/>買園。惟少一隅。太子遂施所餘之地。置立門屋。施
+<lb ed="X" n="0592a19"/>園中樹。以為林陰。</p><p id="pX21p0592a1908" place="inline" rend="margin-left:1em">△二發起序六。初目連道滿。</p></div2>
+<lb ed="X" n="0592a20"/><div2 type="orig"><p id="pX21p0592a2001">大目犍連始得六通。</p></div2>
+<lb ed="X" n="0592a21"/><div2 type="commentary"><p id="pX21p0592a2101" rend="margin-left:1em">目犍連姓。唐言菉菽氏。彼國上古有仙。常食菉荳。
+<lb ed="X" n="0592a22"/>故仍以為氏。尊者是彼之種族也。名尼拘律陀。即
+<lb ed="X" n="0592a23"/>樹名也。因祭此樹神而生。故名之也。然時人貴其
+<lb ed="X" n="0592a24"/>種。故令稱其氏。始得六通者。初得聖道。便度二親。
+<pb ed="X" id="X21.0379.0592b" n="0592b"/>
+<lb ed="X" n="0592b01"/>本因親而修道也。道雖無異。本願各殊。諸聖者不
+<lb ed="X" n="0592b02"/>必皆爾。</p><p id="pX21p0592b0204" place="inline" rend="margin-left:1em">△二知恩欲酬。</p></div2>
+<lb ed="X" n="0592b03"/><div2 type="orig"><p id="pX21p0592b0301">欲度父母報乳哺之恩。</p></div2>
+<lb ed="X" n="0592b04"/><div2 type="commentary"><p id="pX21p0592b0401" rend="margin-left:1em">上句通舉父母。下句偏重母也。度脫正是其報恩。</p>
+<lb ed="X" n="0592b05"/><p id="pX21p0592b0501" rend="margin-left:1em">△三攀慕&CB00642;尋。</p></div2>
+<lb ed="X" n="0592b06"/><div2 type="orig"><p id="pX21p0592b0601">即以道眼觀視世間。</p></div2>
+<lb ed="X" n="0592b07"/><div2 type="commentary"><p id="pX21p0592b0701" rend="margin-left:1em">觀視世間。是天眼通。由證道而得。故云道眼。</p><p id="pX21p0592b0718" place="inline" rend="margin-left:1em">△四
+<lb ed="X" n="0592b08"/>得見所在。</p></div2>
+<lb ed="X" n="0592b09"/><div2 type="orig"><p id="pX21p0592b0901">見其父母生餓鬼中不見飲食皮骨連立。</p></div2>
+<lb ed="X" n="0592b10"/><div2 type="commentary"><p id="pX21p0592b1001" rend="margin-left:1em">生餓鬼中。是異熟果。酬引業故。不見飲食。是等流
+<lb ed="X" n="0592b11"/>果。酬滿業故。皮骨連立。是增上果。準正理論。鬼本
+<lb ed="X" n="0592b12"/>住在此洲之下五百由旬。縱廣亦爾。有琰魔羅界。
+<lb ed="X" n="0592b13"/>人間一月為一日。乘此積月積年。壽五百歲。</p><p id="pX21p0592b1318" place="inline" rend="margin-left:1em">△五
+<lb ed="X" n="0592b14"/>慟哭往救。</p></div2>
+<lb ed="X" n="0592b15"/><div2 type="orig"><p id="pX21p0592b1501">目連悲哀即以&CB00425;盛飯往餉其母。</p></div2>
+<lb ed="X" n="0592b16"/><div2 type="commentary"><p id="pX21p0592b1601" rend="margin-left:1em">三藏科云摧慟。釋云。感激徹於骨髓。號&CB00054;動於天
+<lb ed="X" n="0592b17"/>地。</p><p id="pX21p0592b1702" place="inline" rend="margin-left:1em">△六惡習現在。</p></div2>
+<lb ed="X" n="0592b18"/><div2 type="orig"><p id="pX21p0592b1801">母得&CB00425;飯便以左手障&CB00425;右手揣食食未入口化成
+<lb ed="X" n="0592b19"/>火炭遂不得食。</p></div2>
+<lb ed="X" n="0592b20"/><div2 type="commentary"><p id="pX21p0592b2001" rend="margin-left:1em">左手障&CB00425;。慳恐餘侵。右手揣食。貪於自給。揣攬取
+<lb ed="X" n="0592b21"/>也。慳貪猛盛。如此現行。飯食劣緣。若何克濟。</p><p id="pX21p0592b2118" place="inline" rend="margin-left:1em">上
+<lb ed="X" n="0592b22"/>序分竟。</p>
+<lb ed="X" n="0592b23"/><p id="pX21p0592b2301" rend="margin-left:1em">△二正宗分二。初目連悲陳苦厄。</p></div2>
+<lb ed="X" n="0592b24"/><div2 type="orig"><p id="pX21p0592b2401">目連大&CB00054;悲號涕泣馳還白佛具陳如此。</p></div2>
+<pb ed="X" id="X21.0379.0592c" n="0592c"/>
+<lb ed="X" n="0592c01"/><div2 type="commentary"><p id="pX21p0592c0101" rend="margin-left:1em">子急告父。臣急告君。自力不及。理宜投佛。</p><p id="pX21p0592c0117" place="inline" rend="margin-left:1em">△二如
+<lb ed="X" n="0592c02"/>來廣示因緣八。一彰母罪深。</p></div2>
+<lb ed="X" n="0592c03"/><div2 type="orig"><p id="pX21p0592c0301">佛言汝母罪根深結。</p></div2>
+<lb ed="X" n="0592c04"/><div2 type="commentary"><p id="pX21p0592c0401" rend="margin-left:1em">有經說。定光佛時。目連名羅卜。母字青提。羅卜出
+<lb ed="X" n="0592c05"/>行。囑其母曰。若有客來。孃當具&CB00498;。去後客至。母乃
+<lb ed="X" n="0592c06"/>不供。仍更詐為設食之筵。兒皈問曰。昨日客來。若
+<lb ed="X" n="0592c07"/>為備擬。母曰。汝豈不見設食處耶。從爾<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>來。五百
+<lb ed="X" n="0592c08"/>生中。慳慳相續。故云罪根深結。問。自定光佛世<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0592c09"/>來。所生之母不一。如何偏救彼之青提。答。青提與
+<lb ed="X" n="0592c10"/>目連緣深。今生復為其母。但救此身所生之母。非
+<lb ed="X" n="0592c11"/>謂救彼遠世青提。餘論云云。皆為未達。</p><p id="pX21p0592c1116" place="inline" rend="margin-left:1em">△二明子
+<lb ed="X" n="0592c12"/>德劣。</p></div2>
+<lb ed="X" n="0592c13"/><div2 type="orig"><p id="pX21p0592c1301">非汝一人力所奈何。</p></div2>
+<lb ed="X" n="0592c14"/><div2 type="commentary"><p id="pX21p0592c1401" rend="margin-left:1em">汝母慳心。慳於一切。時經多世。事歷多人。豈汝一
+<lb ed="X" n="0592c15"/>人力可濟救。</p><p id="pX21p0592c1506" place="inline" rend="margin-left:1em">△三斥邪無力。</p></div2>
+<lb ed="X" n="0592c16"/><div2 type="orig"><p id="pX21p0592c1601">汝雖孝順聲動天地天神地祇邪魔外道道士四天
+<lb ed="X" n="0592c17"/>王神亦不能奈何。</p></div2>
+<lb ed="X" n="0592c18"/><div2 type="commentary"><p id="pX21p0592c1801" rend="margin-left:1em">三藏云。縱汝感天靈于上界。激地祇于下方。縱攝
+<lb ed="X" n="0592c19"/>邪魔。橫羅外道。統六合以同一家。總八部以為一
+<lb ed="X" n="0592c20"/>眾。併其神力。亦不奈何。道士。外道之道士也。</p><p id="pX21p0592c2018" place="inline" rend="margin-left:1em">△四
+<lb ed="X" n="0592c21"/>顯正有能。</p></div2>
+<lb ed="X" n="0592c22"/><div2 type="orig"><p id="pX21p0592c2201">當須十方眾僧威神之力乃得解脫。</p></div2>
+<lb ed="X" n="0592c23"/><div2 type="commentary"><p id="pX21p0592c2301" rend="margin-left:1em">三藏云。一縷不能制象。必假多絲。一人不能制業。
+<lb ed="X" n="0592c24"/>必資眾德。</p><p id="pX21p0592c2405" place="inline" rend="margin-left:1em">△五許以救方。</p></div2>
+<pb ed="X" id="X21.0379.0593a" n="0593a"/>
+<lb ed="X" n="0593a01"/><div2 type="orig"><p id="pX21p0593a0101">吾今當說救濟之法令一切難皆離憂苦。</p></div2>
+<lb ed="X" n="0593a02"/><div2 type="commentary"><p id="pX21p0593a0201" rend="margin-left:1em">非但令汝母離苦。亦離一切憂苦。</p><p id="pX21p0593a0214" place="inline" rend="margin-left:1em">△六示其正法
+<lb ed="X" n="0593a03"/>二。初教弟子獻供之法五。初定勝時。自恣日為勝
+<lb ed="X" n="0593a04"/>時。</p></div2>
+<lb ed="X" n="0593a05"/><div2 type="orig"><p id="pX21p0593a0501">佛告目連十方眾僧七月十五日僧自恣時。</p></div2>
+<lb ed="X" n="0593a06"/><div2 type="commentary"><p id="pX21p0593a0601" rend="margin-left:1em">僧自恣。僧字。於上眾僧。為重語也。此是譯人之失。
+<lb ed="X" n="0593a07"/>何不云共自恣時。自恣者。自<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>之過恣他所舉。謂
+<lb ed="X" n="0593a08"/>一夏安居。雖謹護浮囊。猶恐當局者迷。必藉傍觀
+<lb ed="X" n="0593a09"/>得失。故偏袒於眾中白言。大德長老。或見我過。或
+<lb ed="X" n="0593a10"/>聞我罪。或疑我犯。恣任所舉。哀愍語我。我當懺悔。
+<lb ed="X" n="0593a11"/>如此則身心清淨。供養此者。&CB15072;濟先亡。資熏現存。
+<lb ed="X" n="0593a12"/>故三藏云。比丘受歲之日。大眾自恣之時。僧多獲
+<lb ed="X" n="0593a13"/>道。於四果人。能濟厄於七代。</p><p id="pX21p0593a1312" place="inline" rend="margin-left:1em">△二發勝意。孝心為
+<lb ed="X" n="0593a14"/>勝意。</p></div2>
+<lb ed="X" n="0593a15"/><div2 type="orig"><p id="pX21p0593a1501">當為七世父母及現在父母厄難中者。</p></div2>
+<lb ed="X" n="0593a16"/><div2 type="commentary"><p id="pX21p0593a1601" rend="margin-left:1em">七世者。儒教所宗。以形質為本。傳體相續。以父祖
+<lb ed="X" n="0593a17"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上為七世故。偏尊於父。佛教所宗。以靈識為本。
+<lb ed="X" n="0593a18"/>四大形質。為靈識所依。世世生生。皆有父母。生養
+<lb ed="X" n="0593a19"/>此身。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>去乃至七生所生父母為七世也。然寄託
+<lb ed="X" n="0593a20"/>之處。惟在母胎。生來乳哺懷抱亦多是母。故偏重
+<lb ed="X" n="0593a21"/>於母。是以經但言報乳哺之恩。三藏云。天地覆載。
+<lb ed="X" n="0593a22"/>既無憚於劬勞。幽顯沉淪。理合答於罔極。</p><p id="pX21p0593a2217" place="inline" rend="margin-left:1em">△三設
+<lb ed="X" n="0593a23"/>勝供。百味五果為勝供。</p></div2>
+<lb ed="X" n="0593a24"/><div2 type="orig"><p id="pX21p0593a2401">具飯百味五果汲灌盆器香油錠燭&CB00646;敷臥具盡世
+<pb ed="X" id="X21.0379.0593b" n="0593b"/>
+<lb ed="X" n="0593b01"/>甘味以著盆中供養十方大德眾僧。</p></div2>
+<lb ed="X" n="0593b02"/><div2 type="commentary"><p id="pX21p0593b0201" rend="margin-left:1em">飯為總統於百味。百者大數。非定百也。五果。一核
+<lb ed="X" n="0593b03"/>果。二膚果。三&CB15051;果。四&CB00712;果。如蘇荏等。五角果。如菱
+<lb ed="X" n="0593b04"/>荳等。汲灌盆器。沐浴所用。下著盆中。正是盂蘭盆
+<lb ed="X" n="0593b05"/>也。然如何&CB00646;等。可置盆中。應是著於盂蘭盆供會
+<lb ed="X" n="0593b06"/>之中也。三藏云。汝須物華四事盆味八珍。歷十方
+<lb ed="X" n="0593b07"/>而運想。澄一心而供養。</p><p id="pX21p0593b0710" place="inline" rend="margin-left:1em">△四讚勝田。賢聖為勝田。</p></div2>
+<lb ed="X" n="0593b08"/><div2 type="orig"><p id="pX21p0593b0801">當此之日一切聖眾或在山間禪定或得四道果或
+<lb ed="X" n="0593b09"/>在樹下經行或六通自在教化聲聞緣覺或十地菩
+<lb ed="X" n="0593b10"/>薩大人權現比丘在大眾中皆同一心受&CB00425;和羅飯
+<lb ed="X" n="0593b11"/>具清淨戒聖眾之道其德汪洋。</p></div2>
+<lb ed="X" n="0593b12"/><div2 type="commentary"><p id="pX21p0593b1201" rend="margin-left:1em">&CB00425;和羅飯。&CB00425;中飯也。梵云&CB00425;多羅。此云應量器。和
+<lb ed="X" n="0593b13"/>字訛也。今時但云&CB00425;者略也。經題云盆。即是&CB00425;。譯
+<lb ed="X" n="0593b14"/>時隨俗云盆。盆之與&CB00425;。皆是器也。故三藏釋題。翻
+<lb ed="X" n="0593b15"/>為救器。</p><p id="pX21p0593b1504" place="inline" rend="margin-left:1em">△五獲勝益。存亡父母。離苦生天。為勝益。</p></div2>
+<lb ed="X" n="0593b16"/><div2 type="orig"><p id="pX21p0593b1601">其有供養此等自恣僧者現世父母六親眷屬得出
+<lb ed="X" n="0593b17"/>三途之苦應時解脫衣食自然若父母現在者福樂
+<lb ed="X" n="0593b18"/>百年若七世父母生天自在化生入天華光。</p></div2>
+<lb ed="X" n="0593b19"/><div2 type="commentary"><p id="pX21p0593b1901" rend="margin-left:1em">此等自恣僧者。指前勝田也。現世云云離苦。若父
+<lb ed="X" n="0593b20"/>母云云得樂。而衣食自然一句。且翻三途生人天
+<lb ed="X" n="0593b21"/>故。屬拔苦之文。亦可得樂屬於後也。初現世父母。
+<lb ed="X" n="0593b22"/>生此身父母故云現世。非謂未亡名為現世也。故
+<lb ed="X" n="0593b23"/>指得益云出三途。其現在未亡之父母下自有文。
+<lb ed="X" n="0593b24"/>故指得益云福樂百年。</p><p id="pX21p0593b2410" place="inline" rend="margin-left:1em">△二教眾僧受供之儀。</p></div2>
+<pb ed="X" id="X21.0379.0593c" n="0593c"/>
+<lb ed="X" n="0593c01"/><div2 type="orig"><p id="pX21p0593c0101">時佛&CB00330;十方眾僧皆先為施主家&CB00057;願願七世父母
+<lb ed="X" n="0593c02"/>行禪定意然後受食初受食時先安在佛前塔寺中
+<lb ed="X" n="0593c03"/>佛前眾僧&CB00057;願竟便自受食。</p></div2>
+<lb ed="X" n="0593c04"/><div2 type="commentary"><p id="pX21p0593c0401" rend="margin-left:1em">前半淨三業。&CB00057;願口業。禪定意業。受食身業也。後
+<lb ed="X" n="0593c05"/>半具三寶。塔前是佛。&CB00057;願是法。受食是僧也。塔者
+<lb ed="X" n="0593c06"/>意通殿塔。塔安舍利。殿安佛像也。</p><p id="pX21p0593c0614" place="inline" rend="margin-left:1em">△七孝子領悟。</p></div2>
+<lb ed="X" n="0593c07"/><div2 type="orig"><p id="pX21p0593c0701">時目連比丘及大菩薩眾皆大歡喜目連悲啼泣聲
+<lb ed="X" n="0593c08"/>釋然除滅。</p></div2>
+<lb ed="X" n="0593c09"/><div2 type="commentary"><p id="pX21p0593c0901" rend="margin-left:1em">淨業既成。必知離苦。故喜而止啼也。</p><p id="pX21p0593c0915" place="inline" rend="margin-left:1em">△八慈母獲
+<lb ed="X" n="0593c10"/>益。</p></div2>
+<lb ed="X" n="0593c11"/><div2 type="orig"><p id="pX21p0593c1101">時目連母即於是日得脫一切餓鬼之苦。</p></div2>
+<lb ed="X" n="0593c12"/><div2 type="commentary"><p id="pX21p0593c1201" rend="margin-left:1em">先受教領悟。次施設盆供。後當獲益令領悟。次便
+<lb ed="X" n="0593c13"/>云脫苦者。譯經闕略也。應敘結集家文云。爾時目
+<lb ed="X" n="0593c14"/>連。聞是法<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。至七月十五日。施設盆供。供自恣僧。
+<lb ed="X" n="0593c15"/>時目連母。即於是日。得脫一切餓鬼之苦云。則文
+<lb ed="X" n="0593c16"/>義俱顯矣。三藏云。孝子既獻供於此晨。慈母乃除
+<lb ed="X" n="0593c17"/>殃於是日。</p><p id="pX21p0593c1705" place="inline" rend="margin-left:1em">上正宗分竟。</p>
+<lb ed="X" n="0593c18"/><p id="pX21p0593c1801" rend="margin-left:1em">△三流通分三。一申請。</p></div2>
+<lb ed="X" n="0593c19"/><div2 type="orig"><p id="pX21p0593c1901">目連復白佛言弟子所生母得蒙三寶功德之力眾
+<lb ed="X" n="0593c20"/>僧威神之力故若未來世一切佛弟子亦應奉盂蘭
+<lb ed="X" n="0593c21"/>盆救度現在父母乃至七世父母可為爾不。</p></div2>
+<lb ed="X" n="0593c22"/><div2 type="commentary"><p id="pX21p0593c2201" rend="margin-left:1em">說此語時。亦是設供之後。非一席之事。至畢&CB00425;羅
+<lb ed="X" n="0593c23"/>窟。方始總集為經也。</p><p id="pX21p0593c2309" place="inline" rend="margin-left:1em">△二讚請。</p></div2>
+<lb ed="X" n="0593c24"/><div2 type="orig"><p id="pX21p0593c2401">佛言大善快問我正欲說汝今復問。</p></div2>
+<pb ed="X" id="X21.0379.0594a" n="0594a"/>
+<lb ed="X" n="0594a01"/><div2 type="commentary"><p id="pX21p0594a0101" rend="margin-left:1em">大善快問者深契聖心。下二句釋所以。</p><p id="pX21p0594a0116" place="inline" rend="margin-left:1em">△三答請
+<lb ed="X" n="0594a02"/>五。一教起行。</p></div2>
+<lb ed="X" n="0594a03"/><div2 type="orig"><p id="pX21p0594a0301">善男子若比丘比丘尼國王太子大臣宰相三公百
+<lb ed="X" n="0594a04"/>官萬民庶人行慈孝者皆應先為所生現在父母過
+<lb ed="X" n="0594a05"/>去七世父母於七月十五日佛歡喜日僧自恣日以
+<lb ed="X" n="0594a06"/>百味飲食安盂蘭盆中施十方自恣僧。</p></div2>
+<lb ed="X" n="0594a07"/><div2 type="commentary"><p id="pX21p0594a0701" rend="margin-left:1em">歡喜日。比丘九旬加行日滿。倍更懇誠。稱佛本意。
+<lb ed="X" n="0594a08"/>寧不歡喜。</p><p id="pX21p0594a0805" place="inline" rend="margin-left:1em">△二教發願。</p></div2>
+<lb ed="X" n="0594a09"/><div2 type="orig"><p id="pX21p0594a0901">願使現在父母壽命百年無病無一切苦惱之患乃
+<lb ed="X" n="0594a10"/>至七世父母離餓鬼苦生人天中福樂無極。</p></div2>
+<lb ed="X" n="0594a11"/><div2 type="commentary"><p id="pX21p0594a1101" rend="margin-left:1em">願者心之樂欲。欲得存歿咸樂。</p><p id="pX21p0594a1113" place="inline" rend="margin-left:1em">△三教常作。</p></div2>
+<lb ed="X" n="0594a12"/><div2 type="orig"><p id="pX21p0594a1201">是佛弟子修孝順者應念念中常憶父母乃至七世
+<lb ed="X" n="0594a13"/>父母年年七月十五日常以孝慈憶所生父母為作
+<lb ed="X" n="0594a14"/>盂蘭盆施佛及僧以報父母長養慈愛之恩。</p></div2>
+<lb ed="X" n="0594a15"/><div2 type="commentary"><p id="pX21p0594a1501" rend="margin-left:1em">是佛弟子修孝順者者。反明非佛弟子及不孝順
+<lb ed="X" n="0594a16"/>者也。亦可指上起行中比丘比丘尼乃至萬民庶
+<lb ed="X" n="0594a17"/>人行慈孝者也。何也。以聞佛所說。如說行。則皆是
+<lb ed="X" n="0594a18"/>佛弟子也。故上申請。下受持中。皆云一切佛弟子。
+<lb ed="X" n="0594a19"/>三藏云。父母結愛。既念念不去心。孝子報恩。須年
+<lb ed="X" n="0594a20"/>年不絕供。</p><p id="pX21p0594a2005" place="inline" rend="margin-left:1em">△四勸受持。</p></div2>
+<lb ed="X" n="0594a21"/><div2 type="orig"><p id="pX21p0594a2101">若一切佛弟子應當奉持是法。</p></div2>
+<lb ed="X" n="0594a22"/><div2 type="commentary"><p id="pX21p0594a2201" rend="margin-left:1em">智論云。信力故受。念力故持。奉即受也。</p><p id="pX21p0594a2216" place="inline" rend="margin-left:1em">△五喜而
+<lb ed="X" n="0594a23"/>奉命。</p></div2>
+<lb ed="X" n="0594a24"/><div2 type="orig"><p id="pX21p0594a2401">時目連比丘四輩弟子歡喜奉行。</p></div2>
+<pb ed="X" id="X21.0379.0594b" n="0594b"/>
+<lb ed="X" n="0594b01"/><div2 type="commentary"><p id="pX21p0594b0101" rend="margin-left:1em">四輩。僧尼士女。或云人天龍鬼。</p></div2>
+<lb ed="X" n="0594b02"/>
+<lb ed="X" n="0594b03"/><byline type="author">曹溪山沙彌元奇書</byline></div1>
+<lb ed="X" n="0594b04"/>
+<lb ed="X" n="0594b05"/><div1 type="xu"><mulu type="序" level="1" label="No. 379-A"/><head>No. 379-A</head>
+<lb ed="X" n="0594b06"/>
+<lb ed="X" n="0594b07"/><p id="pX21p0594b0701">此疏。圭&CB00123;禪師。僧自恣日。供養三寶。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>歷多載。兼講
+<lb ed="X" n="0594b08"/>其誥。因歸鄉依日開設。道俗耆艾。悲喜遵行。異口同
+<lb ed="X" n="0594b09"/>音。請製新疏。式&CB04676;來請發揮要道者也。然其諸加懸
+<lb ed="X" n="0594b10"/>談一如華嚴圓覺等經慈悲攸暨。然則然矣。此經是
+<lb ed="X" n="0594b11"/>人天因果。教依而行之則<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。不必廣說。且至於釋文。
+<lb ed="X" n="0594b12"/>多有引用。致使初學淺識未閱望門而退。故令略抄
+<lb ed="X" n="0594b13"/>其直釋之文。要使文義簡而易近而彰。不是各說所
+<lb ed="X" n="0594b14"/>見。覽者幸勿深哨焉。</p><p id="pX21p0594b1409" place="inline">&CB01213;大清光緒庚辰五月日小林
+<lb ed="X" n="0594b15"/>門人有炯書于楊州浮圖庵塔光室中</p></div1>
+</body></text></TEI.2>

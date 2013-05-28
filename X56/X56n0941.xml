@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X56n0941.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 941 六即義</title>
+			<author>唐 行滿述</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.3 $ (Big5)<date>$Date: 2009/04/22 09:00:31 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:00:31 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 56, No. 941 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/05/25 15:07:15</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X56n0941.xml,v $
+Revision 1.3  2009/04/22 09:00:31  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.2  2007/08/23 06:35:15  amtbgrace
+modified: 校注插入 XML 作業完成
+
+Revision 1.1  2005/05/25 07:27:22  edith
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X56.0941.0671a" n="0671a"/>
+<lb ed="X" n="0671a01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0671a02"/><head type="no">No. 941</head>
+<lb ed="X" n="0671a03"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>六即義</jhead></juan>
+<lb ed="X" n="0671a04"/>
+<lb ed="X" n="0671a05"/><byline type="author">天台僧　行滿　於國中述</byline>
+<lb ed="X" n="0671a06"/><div1><p id="pX56p0671a0601">夫論即者名體不二今依天台大師五味判經四教
+<lb ed="X" n="0671a07"/>釋義圓教所出前三教無義立名有若爾藏教小乘
+<lb ed="X" n="0671a08"/>折色明空&CB00582;非所論通教大乘摩訶衍門別教知中
+<lb ed="X" n="0671a09"/>云何不釋答界內外巧拙不同通教巧度即色明空
+<lb ed="X" n="0671a10"/>只斷四住界內煩惱未破惑不能圓融三諦具一切
+<lb ed="X" n="0671a11"/>佛法<note n="0671001" resp="Xuzangjing" place="foot text" type="orig">一無亦字</note>亦不得云即圓教初<note n="0671002" resp="Xuzangjing" place="foot text" type="orig">心一作必</note>心一念能圓觀三諦境智
+<lb ed="X" n="0671a12"/>冥一即三而一即一而三因果具足故得即名若爾
+<lb ed="X" n="0671a13"/>因果體一復云何六答所言即者為簡離故所言六
+<lb ed="X" n="0671a14"/>者為簡濫故若使朱紫分明修行識位<note place="inline">云云</note>。</p><p id="pX56p0671a1418" place="inline">一理即
+<lb ed="X" n="0671a15"/>者理謂理性即如來藏本自有之非適今也亦名佛
+<lb ed="X" n="0671a16"/>性性是因義佛是果義因中具有果人之性故云佛
+<lb ed="X" n="0671a17"/>性名理即佛大經如來性品云如貧人舍內為有真
+<lb ed="X" n="0671a18"/>金之藏家人大小無有知即<note n="0671003" resp="Xuzangjing" place="foot text" type="orig">者字疑衍</note>者其義也。</p><p id="pX56p0671a1816" place="inline">二名字即者
+<lb ed="X" n="0671a19"/>或因經卷或因善知識聞此名字深信此理隨順三
+<lb ed="X" n="0671a20"/>諦法華名為初隨喜人大經云時有異人善知方便
+<lb ed="X" n="0671a21"/>即其義也。</p><p id="pX56p0671a2105" place="inline">三觀行即者從初隨喜深觀三諦言行相
+<lb ed="X" n="0671a22"/>應法華名為五品弟子位自行化佗事理具足經云
+<lb ed="X" n="0671a23"/>我今雇汝汝可為我耘除草穢即其義也。</p><p id="pX56p0671a2317" place="inline">四相似即
+<lb ed="X" n="0671a24"/>者從觀行位入於似道法華稱為六根清淨能以妙
+<pb ed="X" id="X56.0941.0671b" n="0671b"/>
+<lb ed="X" n="0671b01"/>音遍滿三千界等經云汝若能示我子真金藏者然
+<lb ed="X" n="0671b02"/>後乃有速為汝作即其義也。</p><p id="pX56p0671b0212" place="inline">五分真即者亦云分證
+<lb ed="X" n="0671b03"/>相似位進入銅輪<note n="0671004" resp="Xuzangjing" place="foot text" type="orig">法下疑脫華字</note>法名為開佛知見證初<note n="0671005" resp="Xuzangjing" place="foot text" type="orig">位疑住</note>位<note n="0671006" resp="Xuzangjing" place="foot text" type="orig">初疑斷</note>初一品
+<lb ed="X" n="0671b04"/>無明能八相成道從真起應百佛世界教化眾生大
+<lb ed="X" n="0671b05"/>經云是人即於其家掘出金藏女人見<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>心生歡喜
+<lb ed="X" n="0671b06"/>即其義也。</p><p id="pX56p0671b0605" place="inline">六究竟即者四十二位究竟圓極初阿後
+<lb ed="X" n="0671b07"/>荼無字可說智斷具足如十五日月月光圓滿法華
+<lb ed="X" n="0671b08"/>經云遊於四方直至道場大經云即於是人起奇怪
+<lb ed="X" n="0671b09"/>想宗仰是人即是玅覺如來住常寂光即其義也此
+<lb ed="X" n="0671b10"/>依章安疏主用大師義意釋涅槃經引此一文六位
+<lb ed="X" n="0671b11"/>具足何俟多釋散在諸文一家師承須知開顯法華
+<lb ed="X" n="0671b12"/>會了六即殊途涅槃醍醐自歸祕藏今若執實迷權
+<lb ed="X" n="0671b13"/>端拱不<note n="0671007" resp="Xuzangjing" place="foot text" type="orig">動疑勤</note>動修途既遠寶所難期略述大猷委明須尋
+<lb ed="X" n="0671b14"/>別記。</p>
+<lb ed="X" n="0671b15"/>
+<lb ed="X" n="0671b16"/><juan fun="close" n="1"><jhead>六即義<note place="inline">終</note></jhead></juan></div1>
+</body></text></TEI.2>

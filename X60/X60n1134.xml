@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X60n1134.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1134 二部僧授戒儀式</title>
+			<author>清 書玉述</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.4 $ (Big5)<date>$Date: 2009/04/22 09:01:34 $</date></edition>
+	</editionStmt>
+	<extent>2卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:01:34 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 60, No. 1134 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/06/28 10:04:47</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X60n1134.xml,v $
+Revision 1.4  2009/04/22 09:01:34  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.3  2007/09/03 04:02:31  amtbgrace
+modified: 校注插入 XML 作業
+
+Revision 1.2  2005/07/27 08:00:20  eva
+modified: HH目錄修訂
+
+Revision 1.1  2005/06/28 02:10:04  ray
+使用 basicx 程式 將 簡單標記版 轉成 XML
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X60.1134.0731a" n="0731a"/>
+<lb ed="X" n="0731a01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0731a02"/><div1 type="xu"><mulu type="序" level="1" label="No. 1134-A 二部僧授戒儀式緣起"/><head>No. 1134-A
+<lb ed="X" n="0731a03"/> 二部僧授戒儀式緣起</head>
+<lb ed="X" n="0731a04"/>
+<lb ed="X" n="0731a05"/><byline type="author">清　古杭昭慶寺傳律沙門　書玉　述</byline>
+<lb ed="X" n="0731a06"/><p id="pX60p0731a0601">律云。式叉摩那學戒<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。從比丘僧。乞受大戒。此是如
+<lb ed="X" n="0731a07"/>來成道十四年間。度大愛道等出家。金口親宣八敬
+<lb ed="X" n="0731a08"/>中第四法也。由是式叉尼學戒<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。必集二十眾清淨
+<lb ed="X" n="0731a09"/>僧尼。授具足戒。若少一人。作法不成。授者結罪。謂眾
+<lb ed="X" n="0731a10"/>不滿數。不能令尼感發增上戒故。其諸儀法。結在律
+<lb ed="X" n="0731a11"/>藏。南山宣祖。刪繁取要。集為行本。名曰隨機羯磨。就
+<lb ed="X" n="0731a12"/>其時用。復撰事鈔。以悉其文。自唐迄今。千有餘載。事
+<lb ed="X" n="0731a13"/>鈔板失。止存羯磨。而行者殊難　先師見老和尚。中
+<lb ed="X" n="0731a14"/>興止作。重復釋之。發隱加儀。則事理明矣。丁未春。崑
+<lb ed="X" n="0731a15"/>山蜜照尼和尚。同徐太夫人上山設供。眾學戒女。隨
+<lb ed="X" n="0731a16"/>來求具。行持半月。略諳威儀。先老人命蜜照尼為和
+<lb ed="X" n="0731a17"/>尚。揚州超塵尼為羯磨。真州圓證尼為教授。遴選德
+<lb ed="X" n="0731a18"/>臘尼為七證。統諸受戒尼四十餘位。出界往山南一
+<lb ed="X" n="0731a19"/>葉菴。集彼部尼僧。先授本法。次日和尚尼鳴槌集眾。
+<lb ed="X" n="0731a20"/>通白如來教敕<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。同壇上九師。領眾尼登山乞受大
+<lb ed="X" n="0731a21"/>戒。老人即集二部僧尼。為彼作法圓具。此是先老人
+<lb ed="X" n="0731a22"/>二部僧。為尼授戒之儀式也。余雖未列其位。然隨侍
+<lb ed="X" n="0731a23"/>先人左右。無法不從目過矣。自後師資不偶。授受惟
+<lb ed="X" n="0731a24"/>從大僧。亦由原仰先老人之法乳故。&CB00582;謂施法隨機。
+<pb ed="X" id="X60.1134.0731b" n="0731b"/>
+<lb ed="X" n="0731b01"/>不可勉也。所以後來受戒者。多未及見。吾法侄松隱
+<lb ed="X" n="0731b02"/>律師。倣善導之高風。勸修白業。因緣時至。道契寰中。
+<lb ed="X" n="0731b03"/>有尼和尚號巨源者。係潭柘震和尚之嗣也。以金剛
+<lb ed="X" n="0731b04"/>身。&CB05072;堅固願。行頭陀行。抖擻客塵。三十年來。如同一
+<lb ed="X" n="0731b05"/>日。其兄優婆塞翰屏周居士。為須達長者後身。篤信
+<lb ed="X" n="0731b06"/>毗尼。金湯佛法。二人同出蒼林和尚之門。見松公行
+<lb ed="X" n="0731b07"/>來出入。不失律儀。遂紏諸檀護。迎請到給孤精藍。傳
+<lb ed="X" n="0731b08"/>授三壇大戒。壇場殊勝。事事莊嚴。四眾雲從。嘆未曾
+<lb ed="X" n="0731b09"/>有。松公授比丘戒<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。復命巨源尼和尚。冀率九位尼
+<lb ed="X" n="0731b10"/>師。成二部僧。授尼大戒。然松公為吾同門定和尚入
+<lb ed="X" n="0731b11"/>室之子。操持日久。輔弼多年。雖未見其本師所行。而
+<lb ed="X" n="0731b12"/>所作之法。竟合我先老和尚成規。寧非繼席寶華之
+<lb ed="X" n="0731b13"/>兆也。壬午冬。巨翰二公。南來參覲普門大士。先到昭
+<lb ed="X" n="0731b14"/>慶。瞻禮古佛戒壇。致問慇懃。具陳上事。渴慕先老人
+<lb ed="X" n="0731b15"/>作法軌則。恨未親見。請述二部僧授戒儀式。以證將
+<lb ed="X" n="0731b16"/>來。意欲令受大戒僧尼。共&CB00418;如來聖制。律法森嚴也。
+<lb ed="X" n="0731b17"/>諄諄再四。理不容辭。故將昔年所見之儀。錄成一冊。
+<lb ed="X" n="0731b18"/>以奉觀&CB15095;。其間若事。若法。俱出傳戒。作持。如東坡云。
+<lb ed="X" n="0731b19"/>花落。花存吾未知也。</p>
+<lb ed="X" n="0731b20"/><p id="pX60p0731b2001" rend="margin-left:0em;text-indent:2em">&CB01213;
+<lb ed="C X" n="0731b21"/>康&CB00696;四十二年歲次癸未上元吉旦</p></div1>
+<lb ed="X" n="0731b22"/>
+<lb ed="X" n="0731b23"/>
+<lb ed="X" n="0731b24"/>
+<pb ed="X" id="X60.1134.0731c" n="0731c"/>
+<lb ed="X" n="0731c01"/><div1 type="other"><mulu type="其他" level="1" label="二部僧授戒儀式凡例"/><head>二部僧授戒儀式凡例<note place="inline">十二則</note></head>
+<lb ed="X" n="0731c02"/>
+<lb ed="X" n="0731c03"/><list><item id="itemX60p0731c0301"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一。</rdg></app>佛制僧居。必先結界。若不結界。一切作法等事。咸
+<lb ed="X" n="0731c04"/>無成濟之功。眾僧得罪。又五分云。義准尼僧。自結
+<lb ed="X" n="0731c05"/>大界。以護別眾故。</item>
+<lb ed="X" n="0731c06"/><item id="itemX60p0731c0601"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一。</rdg></app>二部十師。必須精嚴如法。知律僧尼。非謂頭數滿
+<lb ed="X" n="0731c07"/>足而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。主法者。宜先稱量。</item>
+<lb ed="X" n="0731c08"/><item id="itemX60p0731c0801"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一。</rdg></app>二部執事。各有所屬。不宜溷雜。尼授本法。惟用尼
+<lb ed="X" n="0731c09"/>司。至大僧中。比丘方為料理。</item>
+<lb ed="X" n="0731c10"/><item id="itemX60p0731c1001"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一。</rdg></app>二部授戒。重在大僧。尼授本法。俱遵大僧儀式。不
+<lb ed="X" n="0731c11"/>得隨世所行。有違佛制。</item>
+<lb ed="X" n="0731c12"/><item id="itemX60p0731c1201"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一。</rdg></app>尼受大戒。必在二部僧中。方為如法。先於本部。審
+<lb ed="X" n="0731c13"/>過懺悔。授與十支。或六法戒。所學清淨。生增上心。
+<lb ed="X" n="0731c14"/>次授本法。然後從比丘僧。乞受大戒。入三寶數也。
+<lb ed="X" n="0731c15"/>今雖從權受者多。然亦須知律法森嚴也。</item>
+<lb ed="X" n="0731c16"/><item id="itemX60p0731c1601"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一。</rdg></app>如律所明。不受沙彌尼十戒。而受具足戒者。無有
+<lb ed="X" n="0731c17"/>是處。故文中疊出沙彌尼字。以顯階級不亂也。</item>
+<lb ed="X" n="0731c18"/><item id="itemX60p0731c1801"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一。</rdg></app>獨授戒法。原無等字。三人一壇。名眾難疊。故加等
+<lb ed="X" n="0731c19"/>字。以攝餘二人也。</item>
+<lb ed="X" n="0731c20"/><item id="itemX60p0731c2001"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一。</rdg></app>尼授尼戒。屏處問遮。比丘授尼戒。不聽屏處問難。
+<lb ed="X" n="0731c21"/>惟到壇上十師前問也。</item>
+<lb ed="X" n="0731c22"/><item id="itemX60p0731c2201"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一。</rdg></app>本法羯磨。但作方便。未是示語時節。故戒相不宣。
+<lb ed="X" n="0731c23"/>此有二意。一。非正授具故。二。二部僧不滿二十眾
+<lb ed="X" n="0731c24"/>故。</item>
+<pb ed="X" id="X60.1134.0732a" n="0732a"/>
+<lb ed="X" n="0732a01"/><item id="itemX60p0732a0101"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一。</rdg></app>大僧中授戒。稱本法尼者。令位次不廢故。不稱沙
+<lb ed="X" n="0732a02"/>彌尼者。先受本法故。不稱比丘尼者。尚未得大戒
+<lb ed="X" n="0732a03"/>故。</item>
+<lb ed="X" n="0732a04"/><item id="itemX60p0732a0401"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一。</rdg></app>律法乃如來所制。呼召是攝眾之規。俱書大字頂
+<lb ed="X" n="0732a05"/>格。儀式皆低一字。以便披&CB15095;。</item>
+<lb ed="X" n="0732a06"/><item id="itemX60p0732a0601"><app><lem wit="【CBETA】" resp="CBETA.maha"></lem><rdg wit="【卍續】">一。</rdg></app>律開邊方授具。二部減半。謂眾僧難得故。其受法
+<lb ed="X" n="0732a07"/>禮儀。准此無異。</item></list></div1>
+<lb ed="X" n="0732a08"/>
+<lb ed="X" n="0732a09"/>
+<lb ed="X" n="0732a10"/>
+<lb ed="X" n="0732a11"/>
+<lb ed="X" n="0732a12"/><head type="no">No. 1134</head>
+<lb ed="X" n="0732a13"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>二部僧授戒儀式卷上</jhead></juan>
+<lb ed="X" n="0732a14"/>
+<lb ed="X" n="0732a15"/><byline type="other">清　古杭昭慶寺傳律沙門　書玉　記</byline>
+<lb ed="X" n="0732a16"/><div1 type="other"><mulu type="其他" level="1" label="授本法尼戒具十八法"/><head>授本法尼戒具十八法</head>
+<lb ed="X" n="0732a17"/><div2 type="other"><mulu type="其他" level="2" label="初淨壇敷座法"/><head>初淨壇敷座法</head>
+<lb ed="X" n="0732a18"/><p id="pX60p0732a1801" rend="margin-left:1em"><note place="inline">式叉摩那。或沙彌尼。學戒年滿。欲受大戒時。先&CB01191;大
+<lb ed="X" n="0732a19"/>僧中。啟白和尚。和尚允許。先差尼部十師。其尼部十
+<lb ed="X" n="0732a20"/>師。先到方丈頂禮和尚<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。次領求戒尼至誠頂禮三
+<lb ed="X" n="0732a21"/>拜。然後出界作法。至本部<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。必須如法習儀。次第純
+<lb ed="X" n="0732a22"/>熟。其維那師。令人灑掃戒壇。若無戒壇。必須搭就。壇
+<lb ed="X" n="0732a23"/>上中設正座。座右安一小桌。中鋪設第二座。餘八座
+<lb ed="X" n="0732a24"/>位。左四右四。對面而列。正受具日。懸掛旛幢。寶蓋瓔
+<pb ed="X" id="X60.1134.0732b" n="0732b"/>
+<lb ed="X" n="0732b01"/>珞。壇下正中。設一香案。燃燭供花。復於屏處。設一問
+<lb ed="X" n="0732b02"/>難小座。次方請戒。懺摩。待回復<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。清淨無染。俟候登
+<lb ed="X" n="0732b03"/>壇</note>。</p></div2>
+<lb ed="X" n="0732b04"/><div2 type="other"><mulu type="其他" level="2" label="二鳴椎集眾法"/><head>二鳴椎集眾法</head>
+<lb ed="X" n="0732b05"/><p id="pX60p0732b0501" rend="margin-left:1em"><note place="inline">其知事人。先於法堂。敷十師座。第一座正中。餘九座。
+<lb ed="X" n="0732b06"/>左五。右四。八字分開。諸求戒尼。各披五七二衣。懸&CB00425;
+<lb ed="X" n="0732b07"/>持具。手捧大衣。知事人令鳴鐘三下。諸求戒尼。聞犍
+<lb ed="X" n="0732b08"/>椎聲。雁行而出。齊集法堂。左右班立。尼引禮師。先領
+<lb ed="X" n="0732b09"/>二人。至板堂禮佛一拜。起立。引禮師云。請引禮師傅。
+<lb ed="X" n="0732b10"/>引贊師傅。說<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。作禮一拜。問訊。先回法堂歸位。其引
+<lb ed="X" n="0732b11"/>禮師。引贊師。遂至法堂。尼引贊師。先為彼等。收大衣
+<lb ed="X" n="0732b12"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。放於桌上。本堂尼引禮師。呼云</note>。</p>
+<lb ed="X" n="0732b13"/><p id="pX60p0732b1301">一齊向上排班<note place="inline">右班呼云</note>作禮大僧三拜<note place="inline">左云</note>撩衣<note place="inline">右云</note>護&CB00425;
+<lb ed="X" n="0732b14"/><note place="inline">拜<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。左云</note>起具<note place="inline">右云</note>問訊<note place="inline">左云</note>分班。</p>
+<lb ed="X" n="0732b15"/><p id="pX60p0732b1501" rend="margin-left:1em"><note place="inline">二引禮師。向上同新戒一問訊。引彼四人。請七師來
+<lb ed="X" n="0732b16"/>到法堂。新戒歸位。左班呼云</note>。</p>
+<lb ed="X" n="0732b17"/><p id="pX60p0732b1701">一齊向上排班<note place="inline">右班呼云</note>作禮諸師三拜<note place="inline">左云</note>撩衣<note place="inline">右云</note>護&CB00425;
+<lb ed="X" n="0732b18"/><note place="inline">七師首位云</note>一拜<note place="inline">左云</note>起具<note place="inline">右云</note>問訊<note place="inline">左云</note>分班。</p>
+<lb ed="X" n="0732b19"/><p id="pX60p0732b1901" rend="margin-left:1em"><note place="inline">二引禮師復出眾。同四新戒齊向上一問訊。各領二
+<lb ed="X" n="0732b20"/>人至兩寮。先應向羯磨師一觸禮。請羯磨師出。作如
+<lb ed="X" n="0732b21"/>是言。作禮羯磨師三拜。撩衣。護&CB00425;。師云一拜。引禮云。
+<lb ed="X" n="0732b22"/>起具。問訊。分班。教授寮亦如是說。說<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。新戒前行。教
+<lb ed="X" n="0732b23"/>授師隨後。引禮相照二師。同至法堂。新戒歸班。引禮
+<lb ed="X" n="0732b24"/>復位。九師向上同一拜<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。左右序立。引禮呼云</note>。</p>
+<pb ed="X" id="X60.1134.0732c" n="0732c"/>
+<lb ed="X" n="0732c01"/><p id="pX60p0732c0101">一齊向上排班<note place="inline">右云</note>作禮二師三拜<note place="inline">左班呼云</note>撩衣<note place="inline">右云</note>護&CB00425;
+<lb ed="X" n="0732c02"/><note place="inline">羯磨師云</note>一拜<note place="inline">左云</note>起具<note place="inline">右云</note>問訊<note place="inline">左云</note>分班。</p>
+<lb ed="X" n="0732c03"/><p id="pX60p0732c0301" rend="margin-left:1em"><note place="inline">二引禮鳴擊統六新戒。或四人。齊向上一問訊。&CB01191;方
+<lb ed="X" n="0732c04"/>丈請和尚。二引禮押班。九師對面班立。引磬領新戒
+<lb ed="X" n="0732c05"/>進方丈左右頰門。至公位前班立。押班者在門外。引
+<lb ed="X" n="0732c06"/>禮通會侍司請和尚出。引禮呼云</note>。</p>
+<lb ed="X" n="0732c07"/><p id="pX60p0732c0701">一齊向上排班<note place="inline">右云</note>聞磬聲至誠頂禮三拜<note place="inline">左云</note>撩衣<note place="inline">右云</note>
+<lb ed="X" n="0732c08"/>護&CB00425;<note place="inline">尚云</note>一拜<note place="inline">左云</note>起具<note place="inline">右云</note>問訊<note place="inline">左云</note>分班<note place="inline">右云</note>末後先行<note place="inline">押班
+<lb ed="X" n="0732c09"/>者領新戒出</note>。</p>
+<lb ed="X" n="0732c10"/><p id="pX60p0732c1001" rend="margin-left:1em"><note place="inline">二引磬在和尚前。侍者在後。至法堂。新戒復位。引禮
+<lb ed="X" n="0732c11"/>歸班。和尚詣座。九師向上展具三拜。尚云不展具。一
+<lb ed="X" n="0732c12"/>拜。拜<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。尚云</note>。</p>
+<lb ed="X" n="0732c13"/><p id="pX60p0732c1301">各序坐<note place="inline">九師坐<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>。</p>
+<lb ed="X" n="0732c14"/><p id="pX60p0732c1401" rend="margin-left:2em">尼引禮師呼云。</p>
+<lb ed="X" n="0732c15"/><p id="pX60p0732c1501">諸沙彌尼<note place="inline">若是學戒女。則云諸式叉尼。後皆同</note>一齊向上排班<note place="inline">右云</note>問訊。
+<lb ed="X" n="0732c16"/>展大具<note place="inline">如人多尚云</note>免展具<note place="inline">左云</note>聞磬聲至誠頂禮三拜<note place="inline">右云</note>
+<lb ed="X" n="0732c17"/>撩衣<note place="inline">左云</note>護&CB00425;<note place="inline">拜<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。右云</note>問訊<note place="inline">左云</note>長跪<note place="inline">右云</note>合掌<note place="inline">此三拜。九師不須合掌</note>。</p>
+<lb ed="X" n="0732c18"/><p id="pX60p0732c1801" rend="margin-left:2em">左班尼引禮云。</p>
+<lb ed="X" n="0732c19"/><p id="pX60p0732c1901">夫明鏡當臺。遇形則鑑。洪鐘在架。有扣則鳴。圓成三
+<lb ed="X" n="0732c20"/>聚。須假於三師。舉撿七非。全憑於七證。今在此大僧
+<lb ed="X" n="0732c21"/>之中。為汝等恭請十師。登壇受具。諸沙彌尼。一齊&CB01769;
+<lb ed="X" n="0732c22"/>頭認師。各各記取得戒和尚。及現前諸師。相貌名號。
+<lb ed="X" n="0732c23"/>不得妄識。</p>
+<lb ed="X" n="0732c24"/><p id="pX60p0732c2401">第一位<note place="inline">上某下某</note>律師。為汝等作具足戒尼和尚。</p>
+<pb ed="X" id="X60.1134.0733a" n="0733a"/>
+<lb ed="X" n="0733a01"/><p id="pX60p0733a0101" rend="margin-left:2em">右班引禮云。</p>
+<lb ed="X" n="0733a02"/><p id="pX60p0733a0201">第二位<note place="inline">某甲</note>律師。為汝等作尼羯磨阿闍黎。</p>
+<lb ed="X" n="0733a03"/><p id="pX60p0733a0301" rend="margin-left:2em">左班引禮云。</p>
+<lb ed="X" n="0733a04"/><p id="pX60p0733a0401">第三位。<note place="inline">某甲</note>律師。為汝等作尼教授阿闍黎。</p>
+<lb ed="X" n="0733a05"/><p id="pX60p0733a0501" rend="margin-left:2em">右班引禮云。</p>
+<lb ed="X" n="0733a06"/><p id="pX60p0733a0601">第四位。<note place="inline">某甲</note>律師。為汝等作尼尊證阿闍黎。</p>
+<lb ed="X" n="0733a07"/><p id="pX60p0733a0701" rend="margin-left:1em"><note place="inline">乃至第十位。左右引禮亦如是。舉名示相。令諸求具
+<lb ed="X" n="0733a08"/>者。一一記識分明。如是宣<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。左班引禮師呼云</note>。</p>
+<lb ed="X" n="0733a09"/><p id="pX60p0733a0901">一齊起立<note place="inline">右云</note>聞磬聲頂禮三拜<note place="inline">左云</note>撩衣<note place="inline">右云</note>護&CB00425;<note place="inline">拜<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>左云</note>
+<lb ed="X" n="0733a10"/>長跪<note place="inline">右云</note>合掌。</p></div2>
+<lb ed="X" n="0733a11"/><div2 type="other"><mulu type="其他" level="2" label="三僧中請師法"/><head>三僧中請師法</head>
+<lb ed="X" n="0733a12"/><p id="pX60p0733a1201" rend="margin-left:1em"><note place="inline">律云。弟子無師教授故。造作非法。佛言。當立和尚。弟
+<lb ed="X" n="0733a13"/>子看和尚。當如父母想。敬重瞻視。和尚看弟子。當如
+<lb ed="X" n="0733a14"/>兒想。撫育教誡。善見律云。以初不請故。後便違教。佛
+<lb ed="X" n="0733a15"/>制令請也</note>。</p>
+<lb ed="X" n="0733a16"/><p id="pX60p0733a1601" rend="margin-left:2em">左班引禮云。</p>
+<lb ed="X" n="0733a17"/><p id="pX60p0733a1701">諸沙彌尼。今為汝等。恭請<note place="inline">某</note>堂上。<note place="inline">上某下某</note>律師。為
+<lb ed="X" n="0733a18"/>汝等作具足戒尼和尚。請師之語。汝合自陳。恐汝未
+<lb ed="X" n="0733a19"/>能。我今教汝。各稱法名<note place="inline">稱<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>。其餘言詞。皆隨我道
+<lb ed="X" n="0733a20"/>大&CB00106;一心念。我沙彌尼<note place="inline">某甲</note>等。今請大&CB00106;。為具足戒
+<lb ed="X" n="0733a21"/>和尚。願大&CB00106;。為我作具足戒和尚。我依大&CB00106;故。得受
+<lb ed="X" n="0733a22"/>具足戒。慈愍故<note place="inline">如是至誠三請。三叩首</note>。</p>
+<lb ed="X" n="0733a23"/><p id="pX60p0733a2301" rend="margin-left:2em">和尚云。</p>
+<lb ed="X" n="0733a24"/><p id="pX60p0733a2401">諸沙彌尼。汝既慇懃伸請。可爾。為汝等作具足戒和
+<pb ed="X" id="X60.1134.0733b" n="0733b"/>
+<lb ed="X" n="0733b01"/>尚。受戒之後。人人要清淨守持。不可毀犯。<note place="inline">答</note>頂戴受
+<lb ed="X" n="0733b02"/>持。</p>
+<lb ed="X" n="0733b03"/><p id="pX60p0733b0301" rend="margin-left:2em">引禮師云。</p>
+<lb ed="X" n="0733b04"/><p id="pX60p0733b0401">一齊起立<note place="inline">右云</note>聞磬聲頂禮三拜<note place="inline">左云</note>撩衣<note place="inline">右云</note>護&CB00425;<note place="inline">拜<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>左云</note>
+<lb ed="X" n="0733b05"/>問訊<note place="inline">右云</note>長跪<note place="inline">左云</note>合掌。</p>
+<lb ed="X" n="0733b06"/><p id="pX60p0733b0601" rend="margin-left:2em">右班引禮師云。</p>
+<lb ed="X" n="0733b07"/><p id="pX60p0733b0701">諸沙彌尼。今為汝等。恭請現前諸師。作羯磨阿闍黎。
+<lb ed="X" n="0733b08"/>教授阿闍黎。尊證阿闍黎。請師之語。汝合自陳。恐汝
+<lb ed="X" n="0733b09"/>未能。我今教汝。各稱法名<note place="inline">稱<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>。其餘言詞。皆隨我道。</p>
+<lb ed="X" n="0733b10"/><p id="pX60p0733b1001">大&CB00106;一心念。我沙彌尼<note place="inline">某甲</note>等。今請大&CB00106;。為羯磨。教
+<lb ed="X" n="0733b11"/>授。尊證阿闍黎。願大&CB00106;。為我作羯磨。教授。尊證阿闍
+<lb ed="X" n="0733b12"/>黎。我依大&CB00106;故。得受具足戒。慈愍故<note place="inline">三請三叩首。第三遍當云大慈
+<lb ed="X" n="0733b13"/>愍故。前亦如是</note>。</p>
+<lb ed="X" n="0733b14"/><p id="pX60p0733b1401" rend="margin-left:2em">羯磨師云。</p>
+<lb ed="X" n="0733b15"/><p id="pX60p0733b1501">諸沙彌尼。汝既慇懃伸請。我現前諸師。為汝等作羯
+<lb ed="X" n="0733b16"/>磨阿闍黎。教授阿闍黎。尊證阿闍黎。可爾。汝等受戒
+<lb ed="X" n="0733b17"/>之後。人人清淨莫放逸。<note place="inline">答</note>依教奉行。</p>
+<lb ed="X" n="0733b18"/><p id="pX60p0733b1801" rend="margin-left:2em">引禮師云。</p>
+<lb ed="X" n="0733b19"/><p id="pX60p0733b1901">一齊起立<note place="inline">右云</note>聞磬聲作禮三拜<note place="inline">左云</note>撩衣<note place="inline">右云</note>護&CB00425;<note place="inline">拜<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>左云</note>
+<lb ed="X" n="0733b20"/>起具<note place="inline">右云</note>問訊<note place="inline">左云</note>分班。</p>
+<lb ed="X" n="0733b21"/><p id="pX60p0733b2101" rend="margin-left:1em"><note place="inline">諸引贊尼。仍將各人大衣。次第散還。令彼自捧。十師
+<lb ed="X" n="0733b22"/>起座。第一位師舉云</note>。</p>
+<lb ed="X" n="0733b23"/><p id="pX60p0733b2301">南無本師釋迦牟尼佛</p>
+<lb ed="X" n="0733b24"/><p id="pX60p0733b2401" rend="margin-left:1em"><note place="inline">佛號方舉。法鼓大擂。普眾同音。一齊朗誦。二引禮雙
+<pb ed="X" id="X60.1134.0733c" n="0733c"/>
+<lb ed="X" n="0733c01"/>鳴引磬導前。諸比丘尼走完。又二引禮雙鳴引磬。領
+<lb ed="X" n="0733c02"/>新戒次第走<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。一人執香在第十師前行。又一人執
+<lb ed="X" n="0733c03"/>香在第三師前行。又二引禮雙鳴引磬。又一人執香
+<lb ed="X" n="0733c04"/>在和尚前行。侍者隨後。大眾及新戒至壇。左右班列。
+<lb ed="X" n="0733c05"/>三位執香者。側立丹墀左防。引禮歸位。九師至香案
+<lb ed="X" n="0733c06"/>前兩分序列。第一師至。居中向上。法&CB00655;佛聲即止</note>。</p></div2>
+<lb ed="X" n="0733c07"/><div2 type="other"><mulu type="其他" level="2" label="四祝延聖壽法"/><head>四祝延聖壽法</head>
+<lb ed="X" n="0733c08"/><p id="pX60p0733c0801" rend="margin-left:1em"><note place="inline">准古壇儀。登壇之始。有祝延一科。蓋僧弘佛法。必藉
+<lb ed="X" n="0733c09"/>外護。故靈山會上。世尊曾有付囑。若違佛語。而負國
+<lb ed="X" n="0733c10"/>恩者。恐教化難昌。今則仍遵古壇儀範。維那作梵。舉
+<lb ed="X" n="0733c11"/>祝延香讚。大眾同和</note>。</p>
+<lb ed="X" n="0733c12"/><p id="pX60p0733c1201">寶鼎爇名香。普&CB00642;十方。虔誠奉獻法中王。端為皇王
+<lb ed="X" n="0733c13"/>祝聖壽。地久天長。端為皇王祝聖壽。地久天長。</p>
+<lb ed="X" n="0733c14"/><p id="pX60p0733c1401">南無香雲蓋菩薩摩訶薩<note place="inline">三稱</note></p>
+<lb ed="X" n="0733c15"/><p id="pX60p0733c1501" rend="margin-left:1em"><note place="inline">第一師恭謹拈香三拜默祝聖<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>。</p></div2>
+<lb ed="X" n="0733c16"/><div2 type="other"><mulu type="其他" level="2" label="五讚禮三寶法"/><head>五讚禮三寶法</head>
+<lb ed="X" n="0733c17"/><p id="pX60p0733c1701" rend="margin-left:1em"><note place="inline">作法之始。必先禮敬三寶者。所以求其加被也。念第
+<lb ed="X" n="0733c18"/>二聲菩薩。九師轉下在第一師後。並排一班。展大具。
+<lb ed="X" n="0733c19"/>讚禮三寶。第一師先聲。九師同讚</note>。</p>
+<lb ed="X" n="0733c20"/><lg id="lgX60p0733c2001"><l>稽首禮諸佛</l><l>及法賢聖僧<note place="inline">十師一拜大眾接和</note></l>
+<lb ed="X" n="0733c21"/><l>今演毗尼法</l><l>續僧伽命脈<note place="inline">如前</note></l>
+<lb ed="X" n="0733c22"/><l>正法得久住</l><l>三乘果不絕<note place="inline">大眾接和。師拜起具</note></l>
+<lb ed="X" n="0733c23"/><l>將登清淨壇</l><l>願證明所說<note place="inline">十師口稱。執具問訊</note></l></lg></div2>
+<lb ed="X" n="0733c24"/><div2 type="other"><mulu type="其他" level="2" label="六陞壇白眾法"/><head>六陞壇白眾法</head>
+<pb ed="X" id="X60.1134.0734a" n="0734a"/>
+<lb ed="X" n="0734a01"/><p id="pX60p0734a0101" rend="margin-left:1em"><note place="inline">十師讚禮三拜畢。維那舉大悲&CB00057;。大眾齊聲朗誦。第
+<lb ed="X" n="0734a02"/>十師先轉身。從東南向西繞壇。次九師。次八師。乃至
+<lb ed="X" n="0734a03"/>第一師末行。繞三匝半。二遍&CB00057;完。脫履陞中級繞一
+<lb ed="X" n="0734a04"/>匝半。至東南角上壇。第十師在左班尾立。面向第一
+<lb ed="X" n="0734a05"/>師來處。第九師至右班列。第八師至左班。面向和尚
+<lb ed="X" n="0734a06"/>來處。第七師至右班列。第六師至左班。亦如是列。乃
+<lb ed="X" n="0734a07"/>至第一師上壇面向南而立。三遍&CB00057;完。鐘魚隨煞一
+<lb ed="X" n="0734a08"/>陣。九師向上排班。前五。後四。第一師先聲。九師同和</note>。</p>
+<lb ed="X" n="0734a09"/><lg id="lgX60p0734a0901"><l>持戒清淨如滿月<note place="inline">九師向尚一拜。大眾接和。答禮准前可知</note></l>
+<lb ed="X" n="0734a10"/><l>身口皎潔無瑕穢<note place="inline">同前</note></l>
+<lb ed="X" n="0734a11"/><l>大眾和合無疑諍<note place="inline">九師拜下起具</note></l>
+<lb ed="X" n="0734a12"/><l>是乃可得同授戒<note place="inline">九師口稱執具問訊</note></l></lg>
+<lb ed="X" n="0734a13"/><p id="pX60p0734a1301" rend="margin-left:1em"><note place="inline">十師和合三拜<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。舉偈方完。鐘魚隨煞一陣　十師
+<lb ed="X" n="0734a14"/>各序坐</note>。</p>
+<lb ed="X" n="0734a15"/><p id="pX60p0734a1501" rend="margin-left:2em">和尚撫尺云。</p>
+<lb ed="X" n="0734a16"/><p id="pX60p0734a1601">出家不易。受戒良難。若非懇切勤求。安能得趣亞位。
+<lb ed="X" n="0734a17"/>塵緣既割。志願須堅。慎始慎終。方堪拔濟。故我憍曇
+<lb ed="X" n="0734a18"/>彌最初請度。聖制無容。勤求確志不移。佛慈乃聽。遵
+<lb ed="X" n="0734a19"/>行八敬。正法常存。嚴整四儀。僧倫衍慶。登壇秉具。衣
+<lb ed="X" n="0734a20"/>&CB00425;為先。審問難遮。要當實答。今則先傳本法。以為入
+<lb ed="X" n="0734a21"/>道之基。次方恭詣大僧。而得解脫之本。謹白臨壇大
+<lb ed="X" n="0734a22"/>眾。同心共秉。慎勿異緣<note place="inline">撫尺一下</note>。</p>
+<lb ed="X" n="0734a23"/><p id="pX60p0734a2301" rend="margin-left:2em">引禮云。</p>
+<lb ed="X" n="0734a24"/><p id="pX60p0734a2401">諸沙彌尼等。人各照位。依次排班。</p>
+<pb ed="X" id="X60.1134.0734b" n="0734b"/>
+<lb ed="X" n="0734b01"/><p id="pX60p0734b0101" rend="margin-left:1em"><note place="inline">左右為首沙彌尼。從上而下。餘者雁行相隨。至壇前
+<lb ed="X" n="0734b02"/>面。分班順次立定</note>。</p>
+<lb ed="X" n="0734b03"/><p id="pX60p0734b0301" rend="margin-left:2em">引禮師云。</p>
+<lb ed="X" n="0734b04"/><p id="pX60p0734b0401">上香。</p>
+<lb ed="X" n="0734b05"/><p id="pX60p0734b0501" rend="margin-left:1em"><note place="inline">執香三人。齊眉一舉。轉身朝上並立。又一舉。具儀並
+<lb ed="X" n="0734b06"/>進。第一位走中門。餘二人走兩頰門。並至香案前。又
+<lb ed="X" n="0734b07"/>一舉。右手提衣跪下。二引禮站在香案內。為首執香
+<lb ed="X" n="0734b08"/>者。自插爐中。餘二人作插香勢。二引禮接彼香插爐
+<lb ed="X" n="0734b09"/>中。云</note>。</p>
+<lb ed="X" n="0734b10"/><p id="pX60p0734b1001">起立<note place="inline">右云</note>問訊<note place="inline">左云</note>復位。</p>
+<lb ed="X" n="0734b11"/><p id="pX60p0734b1101" rend="margin-left:2em">壇上教授師云。</p>
+<lb ed="X" n="0734b12"/><p id="pX60p0734b1201">眾引贊大德。為彼諸沙彌尼。暫持袈裟。以便頂禮<note place="inline">引贊
+<lb ed="X" n="0734b13"/>出眾。收衣<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>。</p>
+<lb ed="X" n="0734b14"/><p id="pX60p0734b1401" rend="margin-left:2em">引禮師云。</p>
+<lb ed="X" n="0734b15"/><p id="pX60p0734b1501">一齊向上排班<note place="inline">右云</note>問訊。展大具<note place="inline">尚云</note>免展具<note place="inline">左云</note>聞磬聲
+<lb ed="X" n="0734b16"/>至誠頂禮三拜<note place="inline">右云</note>撩衣<note place="inline">左云</note>護&CB00425;<note place="inline">拜<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。右云</note>問訊<note place="inline">左云</note>長跪<note place="inline">右云</note>
+<lb ed="X" n="0734b17"/>合掌。</p></div2>
+<lb ed="X" n="0734b18"/><div2 type="other"><mulu type="其他" level="2" label="七請慈加護法"/><head>七請慈加護法</head><p id="pX60p0734b1807" place="inline" rend="margin-left:2em">和尚撫尺云。</p>
+<lb ed="X" n="0734b19"/><p id="pX60p0734b1901">諸沙彌尼。今者集僧登壇。如律受具。理當先祈
+<lb ed="C X" n="0734b20"/>三寶。慈光攝照。次屈萬靈威神鎮衛。各稱法名<note place="inline">稱<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>作
+<lb ed="X" n="0734b21"/>觀運心。隨我通請。</p>
+<lb ed="X" n="0734b22"/><p id="pX60p0734b2201" rend="margin-left:2em">引禮云。</p>
+<lb ed="X" n="0734b23"/><p id="pX60p0734b2301">諸沙彌尼。一齊起立。</p>
+<lb ed="X" n="0734b24"/><p id="pX60p0734b2401" rend="margin-left:1em"><note place="inline">十師起座。壇主舉香碟齊眉作梵。九師同和。一侍者
+<pb ed="X" id="X60.1134.0734c" n="0734c"/>
+<lb ed="X" n="0734c01"/>合掌與羯磨師對面立。一侍者立壇前第二級。二引
+<lb ed="X" n="0734c02"/>禮立香案內。合掌同請</note>。</p>
+<lb ed="X" n="0734c03"/><p id="pX60p0734c0301">香煙迎。香煙請。沙彌尼<note place="inline">某甲</note>等。一心奉請
+<lb ed="C X" n="0734c04"/>娑婆教主。本師釋迦牟尼佛。西方接引。阿彌陀佛。當
+<lb ed="X" n="0734c05"/>來下生。彌勒尊佛。盡&CB00980;空。&CB00642;法界。一切諸佛。惟願不
+<lb ed="X" n="0734c06"/>違本誓。慈光攝照。證明受戒。</p>
+<lb ed="X" n="0734c07"/><p id="pX60p0734c0701" rend="margin-left:1em"><note place="inline">和尚拈香一瓣。傳於侍者。侍者接香傳至第二級侍
+<lb ed="X" n="0734c08"/>者。侍者又傳至引禮。引禮接香拈在爐中。求具沙彌
+<lb ed="X" n="0734c09"/>尼。隨其所請。一拜起立。須知能所空寂。感應道交</note>。</p>
+<lb ed="X" n="0734c10"/><p id="pX60p0734c1001">香煙迎。香煙請。沙彌尼<note place="inline">某甲</note>等。一心奉請
+<lb ed="C X" n="0734c11"/>大小二乘。毗尼律藏。五篇三聚。解脫木叉。十二分經。
+<lb ed="X" n="0734c12"/>權實教典。離欲真淨。甚深法寶。謹運一心。歸命頂禮
+<lb ed="X" n="0734c13"/><note place="inline">儀式如前</note>。</p>
+<lb ed="X" n="0734c14"/><p id="pX60p0734c1401">香煙迎。香煙請。沙彌尼<note place="inline">某甲</note>等。一心奉請
+<lb ed="C X" n="0734c15"/>觀音勢至。文殊普賢。清淨海眾。諸大菩薩。律藏會上。
+<lb ed="X" n="0734c16"/>優波離尊者。西天東土。歷代祖師。傳南山宗。諸大律
+<lb ed="X" n="0734c17"/>師。中興律祖。慧雲馨公大和尚。弘傳戒法。三昧光公
+<lb ed="X" n="0734c18"/>大和尚。中興止作。見月體公大和尚<note place="inline">此下復續入座上師之得戒本
+<lb ed="X" n="0734c19"/>師和尚諱</note>惟願不違本誓。慈光攝照。證明受戒<note place="inline">如前</note>。</p>
+<lb ed="X" n="0734c20"/><p id="pX60p0734c2001">香煙迎。香煙請。沙彌尼<note place="inline">某甲</note>等。一心奉請
+<lb ed="C X" n="0734c21"/>光明會上寄位諸天梵釋四王天龍八部。伽藍土地
+<lb ed="X" n="0734c22"/>護戒神王。金剛力士。幽顯靈祇。惟願各乘本誓。監壇
+<lb ed="X" n="0734c23"/>護戒。</p>
+<lb ed="X" n="0734c24"/><p id="pX60p0734c2401" rend="margin-left:1em"><note place="inline">如是伸請<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>舉。十師仍就座跏趺而坐。侍者下壇。引
+<pb ed="X" id="X60.1134.0735a" n="0735a"/>
+<lb ed="X" n="0735a01"/>禮復位。新戒拜<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>。</p>
+<lb ed="X" n="0735a02"/><p id="pX60p0735a0201" rend="margin-left:2em">引禮云。</p>
+<lb ed="X" n="0735a03"/><p id="pX60p0735a0301">問訊<note place="inline">右云</note>長跪<note place="inline">雙手撩衣莫跪具上</note>合掌。</p>
+<lb ed="X" n="0735a04"/><p id="pX60p0735a0401" rend="margin-left:2em">和尚撫尺云。</p>
+<lb ed="X" n="0735a05"/><p id="pX60p0735a0501">通啟
+<lb ed="C X" n="0735a06"/>三寶<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>竟眾引禮大德。將沙彌尼等。安置眼見耳不
+<lb ed="X" n="0735a07"/>聞處立。</p>
+<lb ed="X" n="0735a08"/><p id="pX60p0735a0801" rend="margin-left:2em">引禮云。</p>
+<lb ed="X" n="0735a09"/><p id="pX60p0735a0901">一拜起具<note place="inline">右云</note>問訊<note place="inline">左云</note>分班。</p>
+<lb ed="X" n="0735a10"/><p id="pX60p0735a1001" rend="margin-left:1em"><note place="inline">諸引贊仍將大衣散還。令各自捧之。二引禮師對立
+<lb ed="X" n="0735a11"/>沙彌尼班前</note>。</p>
+<lb ed="X" n="0735a12"/><p id="pX60p0735a1201" rend="margin-left:2em">引禮云。</p>
+<lb ed="X" n="0735a13"/><p id="pX60p0735a1301">諸沙彌尼。汝等隨我音聲。一齊念佛出壇南無本師
+<lb ed="X" n="0735a14"/>釋迦牟尼佛。</p>
+<lb ed="X" n="0735a15"/><p id="pX60p0735a1501" rend="margin-left:1em"><note place="inline">二引禮雙鳴引磬在前。口稱佛號。出壇至屏處。佛號
+<lb ed="X" n="0735a16"/>方歇。引禮復回壇中和合集僧。若是戒場作法。集僧
+<lb ed="X" n="0735a17"/>惟是壇上十師。餘者盡出</note>。</p></div2>
+<lb ed="X" n="0735a18"/><div2 type="other"><mulu type="其他" level="2" label="九僧集約界法"/><head>九僧集約界法</head><p id="pX60p0735a1807" place="inline" rend="margin-left:2em">壇主云。</p>
+<lb ed="X" n="0735a19"/><p id="pX60p0735a1901">僧集否<note place="inline">第十師答</note>僧<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>集<note place="inline">問</note>和合否<note place="inline">答</note>和合<note place="inline">問</note>未受具戒
+<lb ed="X" n="0735a20"/>者出否<note place="inline">答</note><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>出<note place="inline">問</note>不來諸比丘尼說欲有否<note place="inline">說欲者答</note>有
+<lb ed="X" n="0735a21"/><note place="inline">出眾向上一拜。問訊。長跪。合掌。作如是說</note>。</p>
+<lb ed="X" n="0735a22"/><p id="pX60p0735a2201">大&CB00106;僧聽。比丘尼<note place="inline">某甲</note>我受彼欲。彼如法僧事。與欲
+<lb ed="X" n="0735a23"/>羯磨<note place="inline">壇主云</note>善<note place="inline">答</note>爾。</p>
+<lb ed="X" n="0735a24"/><p id="pX60p0735a2401" rend="margin-left:1em"><note place="inline">一叩而起。問訊歸班。若在戒場。或結小界說戒不必問欲</note>。</p>
+<pb ed="X" id="X60.1134.0735b" n="0735b"/>
+<lb ed="X" n="0735b01"/><p id="pX60p0735b0101">僧今和合。何所作為。<note place="inline">答</note>受具足戒羯磨。</p>
+<lb ed="X" n="0735b02"/><p id="pX60p0735b0201" rend="margin-left:2em">和尚云。</p>
+<lb ed="X" n="0735b03"/><p id="pX60p0735b0301">差教授出<note place="inline">羯磨師出位。向上一拜。歸位。合掌如是白云</note>。</p></div2>
+<lb ed="X" n="0735b04"/><div2 type="other"><mulu type="其他" level="2" label="十差教授師法"/><head>十差教授師法</head>
+<lb ed="X" n="0735b05"/><p id="pX60p0735b0501">大&CB00106;僧聽。彼沙彌尼<note place="inline">某甲</note>等。從和尚尼<note place="inline">上某下某</note>律
+<lb ed="X" n="0735b06"/>師。求受大戒。若僧時到。僧忍聽。<note place="inline">某甲</note>為教授師。白如
+<lb ed="X" n="0735b07"/>是。<note place="inline">問云</note>作白成否<note place="inline">七證合掌齊答云</note>成。</p></div2>
+<lb ed="X" n="0735b08"/><div2 type="other"><mulu type="其他" level="2" label="十一教授師出眾問難法"/><head>十一教授師出眾問難法</head>
+<lb ed="X" n="0735b09"/><p id="pX60p0735b0901" rend="margin-left:1em"><note place="inline">教授師出眾向上一拜。從右頰下。左轉至香案前一
+<lb ed="X" n="0735b10"/>問訊。出右頰門。至屏處。引贊尼先領受戒人至屏處
+<lb ed="X" n="0735b11"/>香案前立。第三人在左。第二人在右。第一人在第三
+<lb ed="X" n="0735b12"/>位肩下。二引贊將彼三人大衣放於桌上。取彼壇籤
+<lb ed="X" n="0735b13"/>安在師前。教授師至位。引贊師作如是言</note>。</p>
+<lb ed="X" n="0735b14"/><p id="pX60p0735b1401">一齊向上排班<note place="inline">為首者居中。餘二人即轉身一齊向上。引贊云</note>。</p>
+<lb ed="X" n="0735b15"/><p id="pX60p0735b1501">作禮教授師三拜　撩衣　護&CB00425;<note place="inline">師云</note>一拜<note place="inline">暫云</note>問訊
+<lb ed="X" n="0735b16"/>　長跪　合掌。</p>
+<lb ed="X" n="0735b17"/><p id="pX60p0735b1701" rend="margin-left:2em">教授師撫尺云。</p>
+<lb ed="X" n="0735b18"/><p id="pX60p0735b1801">諸沙彌尼。壇上諸師作法。差我下來問汝三人遮難。
+<lb ed="X" n="0735b19"/>汝莫恐怖。須臾之間。令汝三人。陞於寶壇。受具足戒。
+<lb ed="X" n="0735b20"/>成大比丘尼。入三寶數。此非小緣。當生慶幸。</p>
+<lb ed="X" n="0735b21"/><p id="pX60p0735b2101">此是安陀會。此鬱多羅僧。此僧伽黎。</p>
+<lb ed="X" n="0735b22"/><p id="pX60p0735b2201" rend="margin-left:1em"><note place="inline">西土僧尼。謂無內服。故比丘畜持三衣。比丘尼畜持
+<lb ed="X" n="0735b23"/>五衣。以幃身覆肩掩腋故。東震則有內衣所著。不露
+<lb ed="X" n="0735b24"/>形體。若無僧祇支。覆肩衣。不問亦可</note>。</p>
+<pb ed="X" id="X60.1134.0735c" n="0735c"/>
+<lb ed="X" n="0735c01"/><p id="pX60p0735c0101">此&CB00425;多羅。今此衣&CB00425;。是汝三人有否<note place="inline">答</note>有　教授師
+<lb ed="X" n="0735c02"/>云。既有。受持披著。<note place="inline">引贊將大衣散彼十中。領彼受云</note>大&CB00106;。一心念我
+<lb ed="X" n="0735c03"/>沙彌尼<note place="inline">某甲</note>此僧伽黎。二十五條衣受。四長一短。割
+<lb ed="X" n="0735c04"/>截衣持<note place="inline">三說。師云</note>如法受持<note place="inline">答</note>爾<note place="inline">三人即起。如前班立。引贊為彼三人搭起大衣
+<lb ed="X" n="0735c05"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。如前跪下</note>。</p>
+<lb ed="X" n="0735c06"/><p id="pX60p0735c0601" rend="margin-left:2em">師撫尺云。</p>
+<lb ed="X" n="0735c07"/><p id="pX60p0735c0701">諸沙彌尼諦聽。今是真誠時。實語時。我今問汝。實富
+<lb ed="X" n="0735c08"/>言實。不實當言不實。汝三人不犯邊罪不<note place="inline">答</note>無<note place="inline">問</note>汝
+<lb ed="X" n="0735c09"/>犯淨行比丘不<note place="inline">答</note>無<note place="inline">問</note>汝非賊心受戒不<note place="inline">答</note>非<note place="inline">問</note>汝
+<lb ed="X" n="0735c10"/>不破內外道不<note place="inline">答</note>無　汝非黃門不<note place="inline">答</note>非　汝非&CB06128;
+<lb ed="X" n="0735c11"/>父不<note place="inline">答</note>無　汝非&CB06128;母不<note place="inline">答</note>無　汝非&CB06128;阿羅漢不
+<lb ed="X" n="0735c12"/><note place="inline">答</note>無　汝非破和合僧不<note place="inline">答</note>無　汝非惡心出佛身
+<lb ed="X" n="0735c13"/>血不<note place="inline">答</note>無　汝非非人不<note place="inline">答</note>非　汝非畜生不<note place="inline">答</note>非
+<lb ed="X" n="0735c14"/>　汝非二根不<note place="inline">答</note>非　汝字何等<note place="inline">答某甲</note>　和尚字
+<lb ed="X" n="0735c15"/>誰<note place="inline">答上某下某</note>　大和尚　年歲滿不<note place="inline">答</note>滿　衣&CB00425;
+<lb ed="X" n="0735c16"/>具不<note place="inline">答</note>具　父母夫主聽不<note place="inline">答</note>聽　汝不負債不<note place="inline">答</note>
+<lb ed="X" n="0735c17"/>無　汝非婢不<note place="inline">答</note>非　汝是女人不<note place="inline">答</note>是　女人有
+<lb ed="X" n="0735c18"/>如是諸病　癩癰疽。白癩乾痟。顛狂。二形。二道合。道
+<lb ed="X" n="0735c19"/>小。常漏大小便涕吐常流出。汝有如此病不<note place="inline">答</note>無
+<lb ed="X" n="0735c20"/>既無重難輕遮。戒可得受。如我向問汝事。僧中亦當
+<lb ed="X" n="0735c21"/>如是問。如汝向者答我。眾僧中亦當如是答。一拜起
+<lb ed="X" n="0735c22"/>具。隨我登壇<note place="inline">次第隨師而行</note>。</p></div2>
+<lb ed="X" n="0735c23"/><div2 type="other"><mulu type="其他" level="2" label="十二白召人眾法"/><head>十二白召人眾法</head>
+<lb ed="X" n="0735c24"/><p id="pX60p0735c2401" rend="margin-left:1em"><note place="inline">佛言。彼教授師問<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。來至眾中。將近戒壇令沙彌尼
+<pb ed="X" id="X60.1134.0736a" n="0736a"/>
+<lb ed="X" n="0736a01"/>止立。瞻觀壇上。教授師居中向壇上。合掌問訊<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。作
+<lb ed="X" n="0736a02"/>白召言</note>。</p>
+<lb ed="X" n="0736a03"/><p id="pX60p0736a0301">大&CB00106;僧聽。彼沙彌尼<note place="inline">某甲</note>等。從和尚尼<note place="inline">上某下某</note>律
+<lb ed="X" n="0736a04"/>師。求受大戒。若僧時到。僧忍聽。我<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>教授竟。聽使來。
+<lb ed="X" n="0736a05"/>白如是。</p>
+<lb ed="X" n="0736a06"/><p id="pX60p0736a0601">和尚云。喚將來<note place="inline">師一問訊轉身面向沙彌尼。招手召之云</note>。</p>
+<lb ed="X" n="0736a07"/><p id="pX60p0736a0701">諸沙彌尼。汝等來<note place="inline">沙彌尼聞召。具儀前行入壇。師移步詣香案右邊而立。語云</note>汝
+<lb ed="X" n="0736a08"/>等一齊近香案前<note place="inline">到<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>。問訊　長跪　居中者拈香一
+<lb ed="X" n="0736a09"/>瓣。供養壇上諸師。<note place="inline">拈香云</note>一拜而起。再問訊隨我登壇
+<lb ed="X" n="0736a10"/>乞戒。</p></div2>
+<lb ed="X" n="0736a11"/><div2 type="other"><mulu type="其他" level="2" label="十三從僧乞戒法"/><head>十三從僧乞戒法</head>
+<lb ed="X" n="0736a12"/><p id="pX60p0736a1201" rend="margin-left:1em"><note place="inline">教授師前行。沙彌尼隨後。向西繞至壇後。脫履。陞第
+<lb ed="X" n="0736a13"/>二級。向東北至東南。陞第三級。師歸本座前。合掌而
+<lb ed="X" n="0736a14"/>立。沙彌尼次第上壇。面向和尚。三位並立。師教云</note>。</p>
+<lb ed="X" n="0736a15"/><p id="pX60p0736a1501">問訊。展大具　至誠頂禮三拜　撩衣　護&CB00425;<note place="inline">拜<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>問
+<lb ed="X" n="0736a16"/>訊。長跪<note place="inline">雙手提衣跪下</note>合掌。</p>
+<lb ed="X" n="0736a17"/><p id="pX60p0736a1701">善女人等。懇切至誠。仰憑清眾。求哀乞戒。乞戒之語。
+<lb ed="X" n="0736a18"/>汝合自陳。恐汝未能。我今教汝。各稱法名<note place="inline">稱<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>。其餘言
+<lb ed="X" n="0736a19"/>詞。皆隨我道。</p>
+<lb ed="X" n="0736a20"/><p id="pX60p0736a2001">大&CB00106;僧聽。我沙彌尼<note place="inline">某甲</note>從和尚尼<note place="inline">上某下某</note>律師。
+<lb ed="X" n="0736a21"/>求受大戒。我沙彌尼<note place="inline">某甲</note>今從眾僧。乞受大戒。和尚
+<lb ed="X" n="0736a22"/>尼<note place="inline">上某下某</note>律師。願僧濟度我。慈愍故<note place="inline">三說。師云</note>頂禮一
+<lb ed="X" n="0736a23"/>拜<note place="inline">教授師就本座而坐</note>。</p></div2>
+<lb ed="X" n="0736a24"/><div2 type="other"><mulu type="其他" level="2" label="十四戒師單白法"/><head>十四戒師單白法</head>
+<pb ed="X" id="X60.1134.0736b" n="0736b"/>
+<lb ed="X" n="0736b01"/><p id="pX60p0736b0101" rend="margin-left:1em"><note place="inline">羯磨師於本座合掌先作單白羯磨<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>然後問難如
+<lb ed="X" n="0736b02"/>是白云</note>。</p>
+<lb ed="X" n="0736b03"/><p id="pX60p0736b0301">大&CB00106;僧聽此沙彌尼<note place="inline">某甲</note>等從和尚尼<note place="inline">上某下某</note>律師
+<lb ed="X" n="0736b04"/>求受大戒此<note place="inline">某甲</note>等。今從眾僧。乞受大戒。和尚尼<note place="inline">上
+<lb ed="X" n="0736b05"/>某下某</note>律師。若僧時到。僧忍聽我問諸難事。白如是
+<lb ed="X" n="0736b06"/><note place="inline">問云</note>作白成否<note place="inline">七證答云</note>成。</p></div2>
+<lb ed="X" n="0736b07"/><div2 type="other"><mulu type="其他" level="2" label="十五正問難遮法"/><head>十五正問難遮法</head><p id="pX60p0736b0708" place="inline" rend="margin-left:2em"><note place="inline">羯磨師云</note>。</p>
+<lb ed="X" n="0736b08"/><p id="pX60p0736b0801">汝三人諦聽。今是真誠時。我今問汝。有當言有。無當
+<lb ed="X" n="0736b09"/>言無。汝不犯邊罪耶<note place="inline">答</note>無　汝不犯比丘耶<note place="inline">答</note>無
+<lb ed="X" n="0736b10"/>汝非賊心受戒耶<note place="inline">答</note>無　汝非破內外道耶無　汝
+<lb ed="X" n="0736b11"/>非黃門耶<note place="inline">答</note>非　汝不&CB06128;父耶<note place="inline">答</note>無　汝不&CB06128;母耶
+<lb ed="X" n="0736b12"/><note place="inline">答</note>無　汝不&CB06128;阿羅漢耶<note place="inline">答</note>無　汝不破和合僧耶
+<lb ed="X" n="0736b13"/><note place="inline">答</note>無　汝不惡心出佛身血耶<note place="inline">答</note>無　汝非非人耶
+<lb ed="X" n="0736b14"/><note place="inline">答</note>非　汝非畜生耶<note place="inline">答</note>非　汝非二形耶<note place="inline">答</note>非　汝
+<lb ed="X" n="0736b15"/>字何等<note place="inline">答某甲</note>　和尚字誰<note place="inline">答上</note><note place="inline">某下某</note>大和尚　年
+<lb ed="X" n="0736b16"/>歲滿否<note place="inline">答</note>滿　衣&CB00425;具不<note place="inline">答</note>具　父母夫主聽汝否
+<lb ed="X" n="0736b17"/><note place="inline">答</note>聽　汝不負人債不<note place="inline">答</note>無　汝非婢不<note place="inline">答</note>非　汝
+<lb ed="X" n="0736b18"/>是女人不<note place="inline">答</note>是　女人有如是諸病。癩癰疽。白癩。乾
+<lb ed="X" n="0736b19"/>痟。顛狂。二形。二道合。道小。常漏。大小便&CB00762;唾常流出。
+<lb ed="X" n="0736b20"/>汝有如是病不<note place="inline">答</note>無。</p></div2>
+<lb ed="X" n="0736b21"/><div2 type="other"><mulu type="其他" level="2" label="十六開道發心法"/><head>十六開道發心法</head>
+<lb ed="X" n="0736b22"/><p id="pX60p0736b2201" rend="margin-left:1em"><note place="inline">作持云。彼和尚當隨機示導。令發增上心。便得增上
+<lb ed="X" n="0736b23"/>戒</note>。</p>
+<lb ed="X" n="0736b24"/><p id="pX60p0736b2401" rend="margin-left:2em">和尚云。</p>
+<pb ed="X" id="X60.1134.0736c" n="0736c"/>
+<lb ed="X" n="0736c01"/><p id="pX60p0736c0101">善女人當知。此戒尊重。六道眾生。多是戒障。惟人得
+<lb ed="X" n="0736c02"/>受。而人中又有重難輕遮。汝三人幸無遮難。可為完
+<lb ed="X" n="0736c03"/>全淨器。當授汝戒。但深上善戒。廣周法界。量等&CB00980;空。
+<lb ed="X" n="0736c04"/>要須發心緣境。心境相應。方得無作戒體。境有兩種。
+<lb ed="X" n="0736c05"/>一者情境。二者非情境。有知覺者。名為情境。無知覺
+<lb ed="X" n="0736c06"/>者。名非情境。汝等從無始以來。于此境上。造一切惡。
+<lb ed="X" n="0736c07"/>所以輪迴生死。今我佛如來。于此境上。制一切戒。解
+<lb ed="X" n="0736c08"/>脫涅槃。境無邊故。惡亦無邊。戒無盡故。福亦無盡。心
+<lb ed="X" n="0736c09"/>有三品。若發下品心。只得下品戒。若發中品心。只得
+<lb ed="X" n="0736c10"/>中品戒。要發上品心。方得上品戒。何為中下品。或者
+<lb ed="X" n="0736c11"/>為名利故發心。或為勝他故發心。或為人天之樂故。
+<lb ed="X" n="0736c12"/>而乃發心。此名中下品。此心劣弱。不得堅固。何名上
+<lb ed="X" n="0736c13"/>品心。或為初果。二果。三果。四果。辟支佛果。乃至三明
+<lb ed="X" n="0736c14"/>六通。禪定解脫。無量功德。而發心者。乃名上品心。此
+<lb ed="X" n="0736c15"/>心究竟。得大涅槃。永離生死。不受後有。故論云。若此
+<lb ed="X" n="0736c16"/>戒法有形色者。入汝身時。當作天崩地裂之聲。由是
+<lb ed="X" n="0736c17"/>非色法故。令汝不覺不知。如此妙善戒法。豈汝狹劣
+<lb ed="X" n="0736c18"/>身心。所能容受<note place="inline">撫尺云</note>汝善女人。應當普緣一切情非
+<lb ed="X" n="0736c19"/>情境。發起上品殷重之心。領受如來清淨妙戒。正為
+<lb ed="X" n="0736c20"/>汝秉白羯磨之時。汝當眼觀壇儀。耳聽羯磨音聲。心
+<lb ed="X" n="0736c21"/>中默默如是運想。口裏不要答應。自然得戒。羯磨者。
+<lb ed="X" n="0736c22"/>先作單白。疊事告僧。次秉羯磨。量其可否。</p></div2>
+<lb ed="X" n="0736c23"/><div2 type="other"><mulu type="其他" level="2" label="十七正授戒體法"/><head>十七正授戒體法</head><p id="pX60p0736c2308" place="inline" rend="margin-left:2em"><note place="inline">羯磨師合掌云</note>。</p>
+<lb ed="X" n="0736c24"/><p id="pX60p0736c2401">惟願和尚大眾。不&CB00385;慈悲。布施其戒。同心共秉。慎勿
+<pb ed="X" id="X60.1134.0737a" n="0737a"/>
+<lb ed="X" n="0737a01"/>異緣。令此三人。感發圓宗戒體。將秉羯磨。聽宣作白。</p>
+<lb ed="X" n="0737a02"/><p id="pX60p0737a0201">大&CB00106;僧聽。此沙彌尼<note place="inline">某甲</note>等。從和尚尼<note place="inline">上某下某</note>律
+<lb ed="X" n="0737a03"/>師。求受大戒。此<note place="inline">某甲</note>等。今從眾僧。乞受大戒。和尚尼
+<lb ed="X" n="0737a04"/><note place="inline">上某下某</note>律師<note place="inline">某甲</note>等。自說清淨。無諸難事。年歲<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0737a05"/>滿。衣&CB00425;具足。若僧時到僧忍聽。今與<note place="inline">某甲</note>等受大戒。
+<lb ed="X" n="0737a06"/>和尚尼<note place="inline">上某下某</note>律師。白如是<note place="inline">問云</note>作白成否<note place="inline">七師答云</note>成。</p>
+<lb ed="X" n="0737a07"/><p id="pX60p0737a0701">大&CB00106;僧聽。此沙彌尼<note place="inline">某甲</note>等。從和尚尼。<note place="inline">上某下某</note>律
+<lb ed="X" n="0737a08"/>師。求受大戒。此<note place="inline">某甲</note>等。今從眾僧。乞受大戒。和尚尼
+<lb ed="X" n="0737a09"/><note place="inline">上某下某</note>律師。<note place="inline">某甲</note>等。自說清淨。無諸難事。年歲<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0737a10"/>滿。衣&CB00425;具足。僧今。為<note place="inline">某甲</note>等受大戒。和尚尼<note place="inline">上某下
+<lb ed="X" n="0737a11"/>某</note>律師。誰諸大&CB00106;忍。僧今為<note place="inline">某甲</note>等受大戒。和尚尼
+<lb ed="X" n="0737a12"/><note place="inline">上某下某</note>律師者默然。誰不忽者說。<note place="inline">問</note>此是初羯磨
+<lb ed="X" n="0737a13"/>成否<note place="inline">七證答云</note>成。</p>
+<lb ed="X" n="0737a14"/><p id="pX60p0737a1401">大&CB00106;僧聽。此沙彌尼<note place="inline">某甲</note>等。從和尚尼。<note place="inline">上某下某</note>律
+<lb ed="X" n="0737a15"/>師。求受大戒。此<note place="inline">某甲</note>等。今從眾僧乞受大戒。和尚尼
+<lb ed="X" n="0737a16"/><note place="inline">上某下某</note>律師。<note place="inline">某甲</note>等。自說清淨無諸難事。年歲<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0737a17"/>滿衣&CB00425;具足。僧今為<note place="inline">某甲</note>等受大戒。和尚尼<note place="inline">上某下
+<lb ed="X" n="0737a18"/>某</note>律師誰諸大&CB00106;忍。僧今為<note place="inline">某甲</note>等受大戒。和尚尼
+<lb ed="X" n="0737a19"/><note place="inline">上某下某</note>律師者默然。誰不忍者說。<note place="inline">問</note>此是二羯磨
+<lb ed="X" n="0737a20"/>成否<note place="inline">七證答云</note>成。</p>
+<lb ed="X" n="0737a21"/><p id="pX60p0737a2101">大&CB00106;僧聽。此沙彌尼<note place="inline">某甲</note>等。從和尚尼<note place="inline">上某下某</note>律
+<lb ed="X" n="0737a22"/>師。求受大戒。此<note place="inline">某甲</note>等。今從眾僧。乞受大戒。和尚尼
+<lb ed="X" n="0737a23"/><note place="inline">上某下某</note>律師。<note place="inline">某甲</note>等。自說清淨。無諸難事。年歲<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0737a24"/>滿。衣&CB00425;具足。僧今為<note place="inline">某甲</note>等受大戒。和尚尼<note place="inline">上某下
+<pb ed="X" id="X60.1134.0737b" n="0737b"/>
+<lb ed="X" n="0737b01"/>某</note>律師。誰諸大&CB00106;。忍僧今為<note place="inline">某甲</note>等。受大戒。和尚尼
+<lb ed="X" n="0737b02"/><note place="inline">上某下某</note>律師者默然。誰不忍者說。<note place="inline">問</note>此是三羯磨
+<lb ed="X" n="0737b03"/>成否<note place="inline">七證答云</note>成。</p>
+<lb ed="X" n="0737b04"/><p id="pX60p0737b0401">僧<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>忍。與<note place="inline">某甲</note>等受大成竟。和尚尼<note place="inline">上某下某</note>律師。
+<lb ed="X" n="0737b05"/>僧忍默然故。是事如是持。</p>
+<lb ed="X" n="0737b06"/><p id="pX60p0737b0601" rend="margin-left:2em">和尚尼復示云。</p>
+<lb ed="X" n="0737b07"/><p id="pX60p0737b0701">白四羯磨<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>竟。汝三人得了本法戒體。更當起增上
+<lb ed="X" n="0737b08"/>心。發堅固念。往大僧中。乞受大戒。成大比丘尼。廣度
+<lb ed="X" n="0737b09"/>眾生。化化不絕。一拜起具。上殿禮佛。</p><p id="pX60p0737b0915" place="inline" rend="margin-left:1em"><note place="inline">新戒摺具。問訊。&CB01191;右級下壇。第
+<lb ed="X" n="0737b10"/>二壇亦如上受。一一受竟。新戒起具問訊</note>。</p>
+<lb ed="X" n="0737b11"/><p id="pX60p0737b1101" rend="margin-left:2em">和尚云。</p>
+<lb ed="X" n="0737b12"/><p id="pX60p0737b1201">受戒<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>竟。大眾同音。念佛回向。</p>
+<lb ed="X" n="0737b13"/><p id="pX60p0737b1301" rend="margin-left:2em">引禮呼云。</p>
+<lb ed="X" n="0737b14"/><p id="pX60p0737b1401">一齊向上排班。<note place="inline">右云</note>聞磬聲頂禮三拜<note place="inline">左云</note>撩衣<note place="inline">拜<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。右云</note>起
+<lb ed="X" n="0737b15"/>具<note place="inline">左云</note>問訊<note place="inline">右云</note>分班。</p><p id="pX60p0737b1510" place="inline" rend="margin-left:1em"><note place="inline">壇上九師如前排班。向上頂禮三拜。或云一拜。問訊<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。十師未後前
+<lb ed="X" n="0737b16"/>行。從<app><lem wit="【CBETA】" resp="CBETA.maha">右</lem><rdg wit="【卍續】">古</rdg></app>級下壇。左繞至壇前。並立一班。和尚如前立</note>。</p>
+<lb ed="X" n="0737b17"/><p id="pX60p0737b1701" rend="margin-left:2em">維那舉回向偈<note place="inline">大眾同和</note>。</p>
+<lb ed="X" n="0737b18"/><lg id="lgX60p0737b1801"><l>受戒功德殊勝行</l><l>無邊勝福皆回向<note place="inline">十師一拜</note></l>
+<lb ed="X" n="0737b19"/><l>普願沉溺諸有情</l><l>速往無量光佛剎<note place="inline">如前</note></l>
+<lb ed="X" n="0737b20"/><l>十方三世一切佛</l><l>一切菩薩摩訶薩<note place="inline">如前</note></l>
+<lb ed="X" n="0737b21"/><l>摩訶般若波羅密<note place="inline">十師一問訊</note></l></lg>
+<lb ed="X" n="0737b22"/><p id="pX60p0737b2201" rend="margin-left:1em"><note place="inline">十師禮畢。回向偈完。和尚轉身南面而立九師兩分。
+<lb ed="X" n="0737b23"/>二引禮先領新戒未後先行。新戒走完。第十師接上。
+<lb ed="X" n="0737b24"/>次第九。第八。乃至第二。二引禮雙鳴引磬。在和尚前。
+<pb ed="X" id="X60.1134.0737c" n="0737c"/>
+<lb ed="X" n="0737c01"/>新戒至方丈前。站兩行。合掌。面面對跪。候十師行過。
+<lb ed="X" n="0737c02"/>仍起雙行。至方丈站班。和尚至座前面南而立。九師
+<lb ed="X" n="0737c03"/>向尚三禮。或一拜。八字分開</note>。</p>
+<lb ed="X" n="0737c04"/><p id="pX60p0737c0401" rend="margin-left:2em">引禮呼云。</p>
+<lb ed="X" n="0737c05"/><p id="pX60p0737c0501">一齊向上排班　聞磬聲禮謝三拜<note place="inline">十師俱合掌</note>撩衣<note place="inline">拜<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>
+<lb ed="X" n="0737c06"/>起具　問訊　分班<note place="inline">和尚入室。九師各回</note>。</p>
+<lb ed="X" n="0737c07"/><p id="pX60p0737c0701" rend="margin-left:2em">引禮呼云。</p>
+<lb ed="X" n="0737c08"/><p id="pX60p0737c0801">一齊向上排班　禮謝眾位引禮師傅三拜<note place="inline">首者云</note>一
+<lb ed="X" n="0737c09"/>拜　起具　問訊　分班<note place="inline">引禮散<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。新戒回堂</note>。</p></div2>
+<lb ed="X" n="0737c10"/><div2 type="other"><mulu type="其他" level="2" label="十八本法尼往大僧中受戒法"/><head>十八本法尼往大僧中受戒法</head>
+<lb ed="X" n="0737c11"/><p id="pX60p0737c1101" rend="margin-left:1em"><note place="inline">五分律云。若作本法羯磨竟。復集十比丘尼往比丘
+<lb ed="X" n="0737c12"/>僧中。乞受大戒。准義加儀。理無默&CB01191;。或當日。或次朝。
+<lb ed="X" n="0737c13"/>鳴椎集界內尼僧。彼和尚尼。應通白大僧</note>。</p>
+<lb ed="X" n="0737c14"/><p id="pX60p0737c1401" rend="margin-left:2em">尼和尚云。</p>
+<lb ed="X" n="0737c15"/><p id="pX60p0737c1501">世尊為我等制八敬法。第四云。式叉摩那學戒<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。從
+<lb ed="X" n="0737c16"/>比丘僧。乞受大戒。當尊重恭敬。盡形壽不可違。今有
+<lb ed="X" n="0737c17"/><note place="inline">某甲</note>沙彌尼。本部遵律。問難羯磨。授本法竟。我等作
+<lb ed="X" n="0737c18"/>法十比丘尼。將彼諸受具者。同至大僧中。乞受大戒。
+<lb ed="X" n="0737c19"/>大&CB00106;僧和合忍不<note place="inline">眾尼僧應齊答云</note>可爾。</p><p id="pX60p0737c1917" place="inline" rend="margin-left:1em"><note place="inline">如是答<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。作法十比丘尼。同諸引禮
+<lb ed="X" n="0737c20"/>統領新戒&CB01191;大僧中</note>。</p></div2></div1>
+<lb ed="X" n="0737c21"/>
+<lb ed="X" n="0737c22"/><juan fun="close" n="1"><jhead>二部僧授戒儀式卷上</jhead></juan>
+<pb ed="X" id="X60.1134.0738a" n="0738a"/>
+<lb ed="X" n="0738a01"/><milestone unit="juan" n="2"/>
+<lb ed="X" n="0738a02"/>
+<lb ed="X" n="0738a03"/><juan fun="open" n="2"><mulu type="卷" n="2"/><jhead>二部僧授戒儀式卷下</jhead></juan>
+<lb ed="X" n="0738a04"/>
+<lb ed="X" n="0738a05"/><byline type="author">清　古杭昭慶寺傳律沙門　書玉　記</byline>
+<lb ed="X" n="0738a06"/><div1 type="other"><mulu type="其他" level="1" label="正授本法尼大戒具十八法"/><head>正授本法尼大戒具十八法</head>
+<lb ed="X" n="0738a07"/><div2 type="other"><mulu type="其他" level="2" label="初先陳乞戒法"/><head>初先陳乞戒法</head>
+<lb ed="X" n="0738a08"/><p id="pX60p0738a0801" rend="margin-left:1em"><note place="inline">尼至寺中。先見知客師。通會眾引禮師。&CB01191;方丈請和
+<lb ed="X" n="0738a09"/>尚登座。然後令尼和尚至座前向上立。九師後排一
+<lb ed="X" n="0738a10"/>班。問訊。展大具。至誠頂禮三拜。問訊長跪。合掌</note>。</p>
+<lb ed="X" n="0738a11"/><p id="pX60p0738a1101" rend="margin-left:2em">尼和尚白云。</p>
+<lb ed="X" n="0738a12"/><p id="pX60p0738a1201">我<note place="inline">某甲</note>等。奉和尚慈命差委。將諸沙彌尼先授本法。
+<lb ed="X" n="0738a13"/>彼<note place="inline">某甲</note>等。自說清淨。無有難遮。年歲<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>滿。衣&CB00425;具足。
+<lb ed="X" n="0738a14"/>我等和合授本法竟。今詣座前。乞受大戒。惟願和尚
+<lb ed="X" n="0738a15"/>慈悲&CB15072;濟。下情無任。懇禱之至。</p><p id="pX60p0738a1513" place="inline" rend="margin-left:1em"><note place="inline">一齊起立。頂禮三拜。起具問訊。左右分立。
+<lb ed="X" n="0738a16"/>次尼引禮師亦向上排班。頂禮三拜。起具。問訊。傍立</note>。</p>
+<lb ed="X" n="0738a17"/><p id="pX60p0738a1701" rend="margin-left:2em">比丘引禮師云。</p>
+<lb ed="X" n="0738a18"/><p id="pX60p0738a1801">諸本法尼等。一齊向上排班　問訊展大具聞磬聲
+<lb ed="X" n="0738a19"/>頂禮三拜　撩衣<note place="inline">拜<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>問訊　長跪　合掌。</p>
+<lb ed="X" n="0738a20"/><p id="pX60p0738a2001" rend="margin-left:2em">和尚云。</p>
+<lb ed="X" n="0738a21"/><p id="pX60p0738a2101">二部授具。律制森嚴。必集清淨僧伽。各滿十眾。緣成
+<lb ed="X" n="0738a22"/>方許授受。少有乖違。便名非法。然師長雖具。尤恐汝
+<lb ed="X" n="0738a23"/>等身有難遮。又受不得。既然身器清淨。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>受本法。則
+<lb ed="X" n="0738a24"/>大戒堪容。俟候登壇。</p>
+<pb ed="X" id="X60.1134.0738b" n="0738b"/>
+<lb ed="X" n="0738b01"/><p id="pX60p0738b0101" rend="margin-left:2em">引禮呼云。</p>
+<lb ed="X" n="0738b02"/><p id="pX60p0738b0201">一齊起立　聞磬聲禮謝三拜　撩衣<note place="inline">拜<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>起具
+<lb ed="X" n="0738b03"/>　問訊　分班。</p>
+<lb ed="X" n="0738b04"/><p id="pX60p0738b0401" rend="margin-left:1em"><note place="inline">尼引禮仍向上一拜。尼十師亦向上一拜。然後各回。以俟受戒</note>。</p></div2>
+<lb ed="X" n="0738b05"/><div2 type="other"><mulu type="其他" level="2" label="二敷設壇儀法"/><head>二敷設壇儀法</head>
+<lb ed="X" n="0738b06"/><p id="pX60p0738b0601" rend="margin-left:1em"><note place="inline">引禮師先令人洒掃戒壇。周圍懸掛瓔珞幢幡。壇上
+<lb ed="X" n="0738b07"/>正中設和尚座。座傍安一香几。中輔設羯磨座。兩傍
+<lb ed="X" n="0738b08"/>設教授尊證座。壇下正中設香案。供列香花。近壇左
+<lb ed="X" n="0738b09"/>右。各敷高臺。與壇二級相等。尼和尚。座面南。餘向壇。
+<lb ed="X" n="0738b10"/>又於法堂正中設和尚座。左五。右四。設九師座。八字
+<lb ed="X" n="0738b11"/>分開。引禮師請問和尚作法時節以便鳴椎集眾</note>。</p></div2>
+<lb ed="X" n="0738b12"/><div2 type="other"><mulu type="其他" level="2" label="三鳴椎集眾法"/><head>三鳴椎集眾法</head>
+<lb ed="X" n="0738b13"/><p id="pX60p0738b1301" rend="margin-left:1em"><note place="inline">時至。引禮師令鳴鐘三下。戒壇燃燭。本法尼各各披
+<lb ed="X" n="0738b14"/>搭三衣。聽&CB00425;執具。其尼引禮師領彼魚貫而出。行至
+<lb ed="X" n="0738b15"/>法堂。各歸班立。內外大僧盡齊集<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>。</p>
+<lb ed="X" n="0738b16"/><p id="pX60p0738b1601" rend="margin-left:2em">引禮師呼云。</p>
+<lb ed="X" n="0738b17"/><p id="pX60p0738b1701">一齊向上排班　作禮大僧三拜　撩衣　護&CB00425;<note place="inline">拜
+<lb ed="X" n="0738b18"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>起具　問訊　分班。</p>
+<lb ed="X" n="0738b19"/><p id="pX60p0738b1901" rend="margin-left:1em"><note place="inline">尼引禮師二位出班。居中向上同四新戒一問訊。領
+<lb ed="X" n="0738b20"/>彼請尼十師至法堂。十師先向大僧一拜。左右班列</note>。</p>
+<lb ed="X" n="0738b21"/><p id="pX60p0738b2101" rend="margin-left:2em">比丘引禮師云。</p>
+<lb ed="X" n="0738b22"/><p id="pX60p0738b2201">一齊向上排班　作禮本部諸師三拜　撩衣　護
+<lb ed="X" n="0738b23"/>&CB00425;<note place="inline">師答云一拜</note>起具　問訊　分班。</p>
+<lb ed="X" n="0738b24"/><p id="pX60p0738b2401" rend="margin-left:1em"><note place="inline">尼十師分開邊立。二比丘引禮師出班。居中向上。同
+<pb ed="X" id="X60.1134.0738c" n="0738c"/>
+<lb ed="X" n="0738c01"/>新戒四人一問訊。轉身去請七師至法堂。新戒歸班。
+<lb ed="X" n="0738c02"/>引禮復位。七師分開</note>。</p>
+<lb ed="X" n="0738c03"/><p id="pX60p0738c0301" rend="margin-left:2em">引禮師呼云。</p>
+<lb ed="X" n="0738c04"/><p id="pX60p0738c0401">一齊向上排班　作禮諸師三拜　撩衣　護&CB00425;
+<lb ed="X" n="0738c05"/><note place="inline">師答云。一拜</note>起具　問訊　分班。</p>
+<lb ed="X" n="0738c06"/><p id="pX60p0738c0601" rend="margin-left:1em"><note place="inline">又二引禮出班。向上問訊。引四新戒&CB01191;兩寮分請二
+<lb ed="X" n="0738c07"/>師。同至法堂。新戒歸班。引禮復位。九師相會同一拜
+<lb ed="X" n="0738c08"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>左右序立</note>。</p>
+<lb ed="X" n="0738c09"/><p id="pX60p0738c0901" rend="margin-left:2em">引禮師呼云。</p>
+<lb ed="X" n="0738c10"/><p id="pX60p0738c1001">一齊向上排班　作禮二師三拜　撩衣　護&CB00425;<note place="inline">羯磨
+<lb ed="X" n="0738c11"/>師云。一拜</note>起具　問訊　分班。</p>
+<lb ed="X" n="0738c12"/><p id="pX60p0738c1201" rend="margin-left:1em"><note place="inline">二引禮雙鳴引磬。同新戒六人。&CB01191;方丈請和尚。二押
+<lb ed="X" n="0738c13"/>班隨後。至方丈<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。引禮師知會侍司。請和尚出</note>。</p>
+<lb ed="X" n="0738c14"/><p id="pX60p0738c1401" rend="margin-left:2em">引禮師呼云。</p>
+<lb ed="X" n="0738c15"/><p id="pX60p0738c1501">一齊向上排班　聞磬聲至誠頂禮三拜　撩衣
+<lb ed="X" n="0738c16"/>　護&CB00425;<note place="inline">尚云</note>一拜　起具　問訊　分班<note place="inline">引禮云</note>末後先
+<lb ed="X" n="0738c17"/>行。</p>
+<lb ed="X" n="0738c18"/><p id="pX60p0738c1801" rend="margin-left:1em"><note place="inline">領班引禮云。隨我走。師轉身領新戒前行。引磬在和
+<lb ed="X" n="0738c19"/>尚前。將至法堂九師對面而立。新戒歸班。引禮復位。
+<lb ed="X" n="0738c20"/>和尚到<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>九師向上展具三拜。尚云不展具。一拜。尚
+<lb ed="X" n="0738c21"/>云各序坐。其尼部十師向上排班。問訊展具。一齊頂
+<lb ed="X" n="0738c22"/>禮三拜。九師立起。尚云不展具。一拜問訊。歸位</note>。</p></div2>
+<lb ed="X" n="0738c23"/><div2 type="other"><mulu type="其他" level="2" label="四正明請師法"/><head>四正明請師法</head>
+<lb ed="X" n="0738c24"/><p id="pX60p0738c2401" rend="margin-left:1em"><note place="inline">如律所明。本法尼止請羯磨師。餘無請法。然開道戒
+<pb ed="X" id="X60.1134.0739a" n="0739a"/>
+<lb ed="X" n="0739a01"/>體。傳宣聖教。必由和尚指示律儀。務須教授。羯磨成
+<lb ed="X" n="0739a02"/>壞。重在七師。今以理推之。故須伸請</note>。</p>
+<lb ed="X" n="0739a03"/><p id="pX60p0739a0301" rend="margin-left:2em">引禮師云。</p>
+<lb ed="X" n="0739a04"/><p id="pX60p0739a0401">諸本法尼等。一齊向上排班　問訊展大具聞磬聲
+<lb ed="X" n="0739a05"/>至誠頂禮三拜撩衣護&CB00425;<note place="inline">拜<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>問訊　長跪　合掌。</p>
+<lb ed="X" n="0739a06"/><p id="pX60p0739a0601" rend="margin-left:2em">引禮師合掌白云。</p>
+<lb ed="X" n="0739a07"/><p id="pX60p0739a0701">夫明鏡當臺。遇形則鑑。洪鐘在架。有扣則鳴。圓成三
+<lb ed="X" n="0739a08"/>聚。須假於三師。舉撿七非。全憑於七證。今。在此大僧
+<lb ed="X" n="0739a09"/>之中。為汝等恭請十師。登壇受具。諸本法尼一齊&CB01769;
+<lb ed="X" n="0739a10"/>頭認師。各各記取得戒和尚。及現前諸師。相貌名字。
+<lb ed="X" n="0739a11"/>不得忘失。</p>
+<lb ed="X" n="0739a12"/><p id="pX60p0739a1201">第一位<note place="inline">上某下某</note>律師。為汝等作具足戒和尚。</p>
+<lb ed="X" n="0739a13"/><p id="pX60p0739a1301" rend="margin-left:2em">右班引禮云。</p>
+<lb ed="X" n="0739a14"/><p id="pX60p0739a1401">第二位<note place="inline">某甲</note>律師。為汝等作羯磨阿闍黎。</p>
+<lb ed="X" n="0739a15"/><p id="pX60p0739a1501" rend="margin-left:2em">左班引禮云。</p>
+<lb ed="X" n="0739a16"/><p id="pX60p0739a1601">第三位<note place="inline">某甲</note>律師。為汝等作教授阿闍黎。</p>
+<lb ed="X" n="0739a17"/><p id="pX60p0739a1701" rend="margin-left:2em">右班引禮云。</p>
+<lb ed="X" n="0739a18"/><p id="pX60p0739a1801">第四位<note place="inline">某甲</note>律師。為汝等作尊證阿闍黎。</p>
+<lb ed="X" n="0739a19"/><p id="pX60p0739a1901" rend="margin-left:1em"><note place="inline">乃至第十位。左右引禮亦如是宣名示相。令諸求戒
+<lb ed="X" n="0739a20"/>者。一一記識分明。如是宣<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。左班引禮呼云</note>。</p>
+<lb ed="X" n="0739a21"/><p id="pX60p0739a2101">一齊起立　聞磬聲至誠頂禮三拜　撩衣　護&CB00425;
+<lb ed="X" n="0739a22"/>　長跪　合掌。</p>
+<lb ed="X" n="0739a23"/><p id="pX60p0739a2301" rend="margin-left:2em">左班引禮師云。</p>
+<lb ed="X" n="0739a24"/><p id="pX60p0739a2401">諸本法尼。今為汝等。恭請<note place="inline">某</note>堂上<note place="inline">上某下某</note>律師。為
+<pb ed="X" id="X60.1134.0739b" n="0739b"/>
+<lb ed="X" n="0739b01"/>汝等作具足戒和尚。請師之語。汝合自陳。恐汝未能。
+<lb ed="X" n="0739b02"/>我今教汝。各稱法名。<note place="inline">稱<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>其餘言詞。皆隨我道。</p>
+<lb ed="X" n="0739b03"/><p id="pX60p0739b0301">大德。一心念我本法尼<note place="inline">某甲</note>等。今請大德。為具足戒
+<lb ed="X" n="0739b04"/>和尚。願大德。為我作具足戒和尚。我依大德故。得受
+<lb ed="X" n="0739b05"/>具足戒。慈愍故<note place="inline">如是至誠三請三叩首</note>。</p>
+<lb ed="X" n="0739b06"/><p id="pX60p0739b0601" rend="margin-left:2em">和尚云。</p>
+<lb ed="X" n="0739b07"/><p id="pX60p0739b0701">諸本法尼。汝既慇懃伸請。可爾。為汝等作具足戒和
+<lb ed="X" n="0739b08"/>尚。汝等受戒之後。人人要清淨守持。不可毀犯。<note place="inline">答</note>頂
+<lb ed="X" n="0739b09"/>戴受持。</p>
+<lb ed="X" n="0739b10"/><p id="pX60p0739b1001" rend="margin-left:2em">引禮呼云。</p>
+<lb ed="X" n="0739b11"/><p id="pX60p0739b1101">一齊起立　聞磬聲至誠頂禮三拜　撩衣　護&CB00425;
+<lb ed="X" n="0739b12"/><note place="inline">拜<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>問訊　長跪　合掌。</p>
+<lb ed="X" n="0739b13"/><p id="pX60p0739b1301" rend="margin-left:2em">右班引禮云。</p>
+<lb ed="X" n="0739b14"/><p id="pX60p0739b1401">諸本法尼。今為汝等恭請現前諸師。作羯磨阿闍黎。
+<lb ed="X" n="0739b15"/>教授阿闍黎。尊證阿闍黎。請師之語汝合自陳。恐汝
+<lb ed="X" n="0739b16"/>未能。我今教汝。各稱法名。<note place="inline">稱<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>其餘言詞。皆隨我道。</p>
+<lb ed="X" n="0739b17"/><p id="pX60p0739b1701">大德。一心念我本法尼<note place="inline">某甲</note>等。今請大德。為羯磨教
+<lb ed="X" n="0739b18"/>授尊證阿闍黎。願大德。為我作羯磨。教授。尊證阿闍
+<lb ed="X" n="0739b19"/>黎。我依大德故。得受具足戒慈愍故<note place="inline">三請三叩首</note>。</p>
+<lb ed="X" n="0739b20"/><p id="pX60p0739b2001" rend="margin-left:2em">羯磨師云。</p>
+<lb ed="X" n="0739b21"/><p id="pX60p0739b2101">諸本法尼。汝既慇懃伸請。我現前諸師。為汝等作羯
+<lb ed="X" n="0739b22"/>磨阿闍黎。教授阿闍黎。尊證阿闍黎。可爾。汝等受戒
+<lb ed="X" n="0739b23"/>之後。人人清淨莫放逸<note place="inline">答</note>依教奉行。</p>
+<lb ed="X" n="0739b24"/><p id="pX60p0739b2401" rend="margin-left:2em">引禮師云。</p>
+<pb ed="X" id="X60.1134.0739c" n="0739c"/>
+<lb ed="X" n="0739c01"/><p id="pX60p0739c0101">一齊起立　聞磬聲作禮三拜　撩衣　護&CB00425;<note place="inline">拜<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>
+<lb ed="X" n="0739c02"/>起具　問訊　分班。</p>
+<lb ed="X" n="0739c03"/><p id="pX60p0739c0301" rend="margin-left:2em">和尚云。</p>
+<lb ed="X" n="0739c04"/><p id="pX60p0739c0401">大眾念佛登壇。</p>
+<lb ed="X" n="0739c05"/><p id="pX60p0739c0501">南無本師釋迦牟尼佛</p>
+<lb ed="X" n="0739c06"/><p id="pX60p0739c0601" rend="margin-left:1em"><note place="inline">佛號方舉。法鼓大擂。二引禮雙鳴引磬。領站班大僧
+<lb ed="X" n="0739c07"/>前行。又二引禮雙鳴引磬。引新戒序前而行。新戒走
+<lb ed="X" n="0739c08"/>完。尼十師未後前行。接上而去。然後一執香者在七
+<lb ed="X" n="0739c09"/>師前行。一執香者。在教授師前行。二引禮雙鳴引磬。
+<lb ed="X" n="0739c10"/>及一執香者。俱在和尚前行。侍者隨後。大僧及新戒
+<lb ed="X" n="0739c11"/>至戒壇。左右班立。引禮復位。尼十師在&CB02098;前對面而
+<lb ed="X" n="0739c12"/>立。三執香者又次之。和尚近香案前。佛號鼓聲。一齊
+<lb ed="X" n="0739c13"/>停止</note>。</p></div2>
+<lb ed="X" n="0739c14"/><div2 type="other"><mulu type="其他" level="2" label="五祝延聖壽法"/><head>五祝延聖壽法</head><p id="pX60p0739c1407" place="inline" rend="margin-left:2em">維那舉讚<note place="inline">大眾同和</note>。</p>
+<lb ed="X" n="0739c15"/><p id="pX60p0739c1501">寶鼎熱名香。普&CB00642;十方。虔誠奉獻法中王。端為皇王
+<lb ed="X" n="0739c16"/>祝聖壽。地久天長。端為皇王祝聖壽。地久天長。</p>
+<lb ed="X" n="0739c17"/><p id="pX60p0739c1701">南無香雲蓋菩薩摩訶薩<note place="inline">三稱</note></p>
+<lb ed="X" n="0739c18"/><p id="pX60p0739c1801" rend="margin-left:1em"><note place="inline">和尚拈香三拜一問訊。念第二聲香雲蓋九師在和
+<lb ed="X" n="0739c19"/>尚後一班展大具。脫革屣。尼十師又次一班。亦展大
+<lb ed="X" n="0739c20"/>具。念第三聲菩薩完。鐘魚隨煞一陣</note>。</p></div2>
+<lb ed="X" n="0739c21"/><div2 type="other"><mulu type="其他" level="2" label="六讚禮三寶法"/><head>六讚禮三寶法</head>
+<lb ed="X" n="0739c22"/><lg id="lgX60p0739c2201"><l>稽首禮諸佛</l><l>及法賢聖僧<note place="inline">二十師同一拜。大眾接和</note></l>
+<lb ed="X" n="0739c23"/><l>今演毗尼法</l><l>續僧伽命&CB00160;<note place="inline">如前</note></l>
+<lb ed="X" n="0739c24"/><l>正法得久住</l><l>三乘果不絕<note place="inline">大眾接和。師拜起具</note></l>
+<pb ed="X" id="X60.1134.0740a" n="0740a"/>
+<lb ed="X" n="0740a01"/><l>將登清淨壇</l><l>願證明所說<note place="inline">師口稱偈執具問訊</note></l></lg></div2>
+<lb ed="X" n="0740a02"/><div2 type="other"><mulu type="其他" level="2" label="七陞壇白眾法"/><head>七陞壇白眾法</head>
+<lb ed="X" n="0740a03"/><p id="pX60p0740a0301" rend="margin-left:1em"><note place="inline">讚禮三寶畢。維那舉大悲&CB00057;。大眾齊聲朗誦。第十師
+<lb ed="X" n="0740a04"/>從東南轉身向西繞壇。次九師八師乃至第一師走
+<lb ed="X" n="0740a05"/>完。尼十師移至近檻。對面班立但合掌持&CB00057;。不必隨
+<lb ed="X" n="0740a06"/>繞。壇內十師繞三匝半。二遍&CB00057;完。脫屣陞中級。繞一
+<lb ed="X" n="0740a07"/>匝半。至東南角上壇。第十師在左班尾立。面向第一
+<lb ed="X" n="0740a08"/>師來處。第九師至右班尾立。第八師在左班面向和
+<lb ed="X" n="0740a09"/>尚來處立。第七師至右班立。第六師至左班立。乃至
+<lb ed="X" n="0740a10"/>第一師上壇面南而立。三遍&CB00057;完。鐘魚隨煞一陣。其
+<lb ed="X" n="0740a11"/>九師向上排班。前五後四。尼和尚近香案前立。餘尼
+<lb ed="X" n="0740a12"/>九師後立排班。向尚合掌同念</note>。</p>
+<lb ed="X" n="0740a13"/><p id="pX60p0740a1301" rend="margin-left:1em">壇上第一師舉云。</p>
+<lb ed="X" n="0740a14"/><lg id="lgX60p0740a1401"><l>持戒清淨如滿月<note place="inline">十九師向尚一拜。大眾接和。答禮准前</note></l>
+<lb ed="X" n="0740a15"/><l>身口皎潔無瑕穢<note place="inline">仝前</note></l>
+<lb ed="X" n="0740a16"/><l>大眾和合無疑諍<note place="inline">諸師拜下起具</note></l>
+<lb ed="X" n="0740a17"/><l>是乃可得同授戒<note place="inline">諸師口稱。執具問訊</note></l></lg>
+<lb ed="X" n="0740a18"/><p id="pX60p0740a1801" rend="margin-left:1em"><note place="inline">諸師和合舉偈三禮竟。鐘魚長煞一陣。十師各序坐。
+<lb ed="X" n="0740a19"/>尼十師上臺亦各序坐</note>。</p>
+<lb ed="X" n="0740a20"/><p id="pX60p0740a2001" rend="margin-left:2em">和尚撫尺云。</p>
+<lb ed="X" n="0740a21"/><p id="pX60p0740a2101">法音罕遇。戒德難思。能超凡鄙穢流。可入聖賢寶位。
+<lb ed="X" n="0740a22"/>為師為匠。誠易誠難。爐&CB00469;弘開。人根須鍊。受持禁戒。
+<lb ed="X" n="0740a23"/>衣&CB00425;應嚴。如無衣&CB00425;。莫容缺借。前言重難。後列輕遮。
+<lb ed="X" n="0740a24"/>問若不解不知。勤勞徒設。信其實語實答。陶誘得方。
+<pb ed="X" id="X60.1134.0740b" n="0740b"/>
+<lb ed="X" n="0740b01"/>令發上品真誠。要期塵境。圖使十方善法。灌注身心。
+<lb ed="X" n="0740b02"/>五分基成。三身體具。謹白臨壇大眾。同心共秉。慎勿
+<lb ed="X" n="0740b03"/>異緣<note place="inline">撫尺一下</note>。</p>
+<lb ed="X" n="0740b04"/><p id="pX60p0740b0401" rend="margin-left:2em">引禮云。</p>
+<lb ed="X" n="0740b05"/><p id="pX60p0740b0501">諸本法尼等。人各照位依次排班。</p>
+<lb ed="X" n="0740b06"/><p id="pX60p0740b0601" rend="margin-left:1em"><note place="inline">左右為首本法尼。從上而下餘者雁行相隨。至壇前
+<lb ed="X" n="0740b07"/>面。分班順次立定</note>。</p>
+<lb ed="X" n="0740b08"/><p id="pX60p0740b0801" rend="margin-left:2em">引禮云。</p>
+<lb ed="X" n="0740b09"/><p id="pX60p0740b0901">上香。</p><p id="pX60p0740b0903" place="inline" rend="margin-left:1em"><note place="inline">執香三人齊眉一舉。轉身向上並立。又一舉。具儀
+<lb ed="X" n="0740b10"/>並進。第一位走中門。餘二人走兩頰門。並至香案前。
+<lb ed="X" n="0740b11"/>又一舉。右手提衣跪下。二引禮站在案前。為首執香
+<lb ed="X" n="0740b12"/>者自插爐中。餘二人作插香勢。二引禮接彼香插爐
+<lb ed="X" n="0740b13"/>中云</note>。</p>
+<lb ed="X" n="0740b14"/><p id="pX60p0740b1401">起立　問訊　復位。</p>
+<lb ed="X" n="0740b15"/><p id="pX60p0740b1501" rend="margin-left:2em">引禮云。</p>
+<lb ed="X" n="0740b16"/><p id="pX60p0740b1601">一齊向上排班　問訊。展大具。<note place="inline">尚云</note>免展具　聞磬
+<lb ed="X" n="0740b17"/>聲至誠頂禮三拜<note place="inline">二部師合掌受禮</note>撩衣　護&CB00425;<note place="inline">拜<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>問訊
+<lb ed="X" n="0740b18"/>　長跪　合掌。</p></div2>
+<lb ed="X" n="0740b19"/><div2 type="other"><mulu type="其他" level="2" label="七請慈加護法"/><head>七請慈加護法</head><p id="pX60p0740b1907" place="inline" rend="margin-left:2em">和尚撫尺云。</p>
+<lb ed="X" n="0740b20"/><p id="pX60p0740b2001">諸本法尼。今者集僧登壇。依律傳戒。理當通啟
+<lb ed="C X" n="0740b21"/>三寶。乞求加被。各稱法名。<note place="inline">稱<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>作觀運心。隨我通請。</p>
+<lb ed="X" n="0740b22"/><p id="pX60p0740b2201" rend="margin-left:2em">引禮云。</p>
+<lb ed="X" n="0740b23"/><p id="pX60p0740b2301">一齊起立。</p>
+<lb ed="X" n="0740b24"/><p id="pX60p0740b2401" rend="margin-left:1em"><note place="inline">十師起座。壇主舉香碟齊眉作梵。九師同請。一侍者
+<pb ed="X" id="X60.1134.0740c" n="0740c"/>
+<lb ed="X" n="0740c01"/>合掌與羯磨師對面立。一侍者立壇前第二級。二引
+<lb ed="X" n="0740c02"/>禮立香案內。俱合掌同請。尼十師亦然</note>。</p>
+<lb ed="X" n="0740c03"/><p id="pX60p0740c0301">香煙迎。香煙請。本法尼<note place="inline">某甲</note>等。一心奉請
+<lb ed="C X" n="0740c04"/>娑婆教主。本師釋迦牟尼佛。西方接引。阿彌陀佛。當
+<lb ed="X" n="0740c05"/>來下生。彌勒尊佛。盡&CB00980;空。遍法界。一切諸佛。惟願不
+<lb ed="X" n="0740c06"/>違本誓。慈光攝照。證明受戒。</p>
+<lb ed="X" n="0740c07"/><p id="pX60p0740c0701" rend="margin-left:1em"><note place="inline">和尚拈香一瓣。傳於侍者。侍者接香傳至第二級侍
+<lb ed="X" n="0740c08"/>者。第二級侍者傳於引禮。引禮接香拈在爐中。求具
+<lb ed="X" n="0740c09"/>本法尼。隨其所請。一拜起立。須知能所空寂。感應道
+<lb ed="X" n="0740c10"/>交</note>。</p>
+<lb ed="X" n="0740c11"/><p id="pX60p0740c1101">香&CB00195;迎。香&CB00195;請。本法尼<note place="inline">某甲</note>等。一心奉請
+<lb ed="C X" n="0740c12"/>大小二乘。毗尼律藏。五篇三聚。解脫木叉。十二分經。
+<lb ed="X" n="0740c13"/>權實教典。離欲真淨。甚深法寶。謹運一心。歸命頂禮。</p>
+<lb ed="X" n="0740c14"/><p id="pX60p0740c1401" rend="margin-left:1em"><note place="inline">儀式如前</note>。</p>
+<lb ed="X" n="0740c15"/><p id="pX60p0740c1501">香&CB00195;迎。香&CB00195;請。本法尼<note place="inline">某甲</note>等。一心奉請
+<lb ed="C X" n="0740c16"/>觀音勢至。文殊普賢。清淨海眾。諸大菩薩。律藏會上。
+<lb ed="X" n="0740c17"/>優波離尊者。西天東土。歷代祖師。傳南山宗諸大律
+<lb ed="X" n="0740c18"/>師。中興律祖。慧雲馨公大和尚。弘傳戒法。三昧光公
+<lb ed="X" n="0740c19"/>大和尚。中興止作。見月體公老和尚<note place="inline">此下復續八座上師之得戒本
+<lb ed="X" n="0740c20"/>師和尚諱</note>。惟願不違本誓。慈光攝照。證明受戒<note place="inline">如前</note>。</p>
+<lb ed="X" n="0740c21"/><p id="pX60p0740c2101">香煙迎。香煙請。本法尼<note place="inline">某甲</note>等。一心奉請
+<lb ed="C X" n="0740c22"/>光明會上。寄位諸天。梵釋四王。天龍八部。伽藍<note n="0740001" resp="Xuzangjing" place="foot text" type="orig">上疑土</note>上地。
+<lb ed="X" n="0740c23"/>護戒神王。金剛力士。幽顯靈祇。惟願各乘本誓。監壇
+<lb ed="X" n="0740c24"/>護戒。</p>
+<pb ed="X" id="X60.1134.0741a" n="0741a"/>
+<lb ed="X" n="0741a01"/><p id="pX60p0741a0101" rend="margin-left:1em"><note place="inline">如是伸請<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>畢十師就座而坐。侍者下壇。引禮復位。
+<lb ed="X" n="0741a02"/>新戒拜<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>。</p>
+<lb ed="X" n="0741a03"/><p id="pX60p0741a0301" rend="margin-left:2em">引禮云。</p>
+<lb ed="X" n="0741a04"/><p id="pX60p0741a0401">問訊　長跪<note place="inline">雙手牽衣</note>合掌。</p>
+<lb ed="X" n="0741a05"/><p id="pX60p0741a0501" rend="margin-left:2em">和尚撫尺云。</p>
+<lb ed="X" n="0741a06"/><p id="pX60p0741a0601">通啟
+<lb ed="C X" n="0741a07"/>三寶<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>竟。諸引禮大德。將彼等安見不聞處立。</p>
+<lb ed="X" n="0741a08"/><p id="pX60p0741a0801" rend="margin-left:2em">引禮云。</p>
+<lb ed="X" n="0741a09"/><p id="pX60p0741a0901">一拜起具　問訊　分班<note place="inline">二引禮對立班前。作如是言</note>。</p>
+<lb ed="X" n="0741a10"/><p id="pX60p0741a1001">諸本法尼。汝等隨我音聲。一齊念佛出壇。</p>
+<lb ed="X" n="0741a11"/><p id="pX60p0741a1101" rend="margin-left:1em"><note place="inline">向上一問訊。雙鳴引磬齊念</note>。</p>
+<lb ed="X" n="0741a12"/><p id="pX60p0741a1201">南無本師釋迦牟尼佛</p>
+<lb ed="X" n="0741a13"/><p id="pX60p0741a1301" rend="margin-left:1em"><note place="inline">如是次第引本法尼至屏教所。引禮仍回僧中。如律
+<lb ed="X" n="0741a14"/>所明。戒壇乃是非師不與之地。惟是十師同秉惟受
+<lb ed="X" n="0741a15"/>比丘尼大戒。不遮眾人。但是受具足戒者。俱聽隨喜</note>。</p></div2>
+<lb ed="X" n="0741a16"/><div2 type="other"><mulu type="其他" level="2" label="十僧集問和法"/><head>十僧集問和法</head><p id="pX60p0741a1607" place="inline" rend="margin-left:2em">壇主云。</p>
+<lb ed="X" n="0741a17"/><p id="pX60p0741a1701">僧集否。<note place="inline">第十師答</note>僧<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>集　和合否　和合　未受具戒
+<lb ed="X" n="0741a18"/>者出否　是中無有未受具戒者　<note place="inline">謂本法尼<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>受具故</note>僧今
+<lb ed="X" n="0741a19"/>和合。何所作為　受比丘尼大戒羯磨。</p>
+<lb ed="X" n="0741a20"/><p id="pX60p0741a2001" rend="margin-left:1em"><note place="inline">集僧<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>竟。其引禮師至屏教所。引三人近戒壇。令本
+<lb ed="X" n="0741a21"/>法尼止立。瞻觀壇上生難遭之想。恭敬之心。引禮居
+<lb ed="X" n="0741a22"/>中向上一問訊。合掌。如是白云</note>。</p></div2>
+<lb ed="X" n="0741a23"/><div2 type="other"><mulu type="其他" level="2" label="十一白召乞戒法"/><head>十一白召乞戒法</head>
+<lb ed="X" n="0741a24"/><p id="pX60p0741a2401">大德僧聽。彼本法尼<note place="inline">某甲</note>等。今從大僧。乞受大戒<note place="inline">一問
+<pb ed="X" id="X60.1134.0741b" n="0741b"/>
+<lb ed="X" n="0741b01"/>訊</note>。</p>
+<lb ed="X" n="0741b02"/><p id="pX60p0741b0201" rend="margin-left:2em">壇主云。</p>
+<lb ed="X" n="0741b03"/><p id="pX60p0741b0301">喚將來<note place="inline">引禮轉身招手召云</note>。</p>
+<lb ed="X" n="0741b04"/><p id="pX60p0741b0401">諸本法尼。汝等來。<note place="inline">諸尼聞召。具儀前行入壇。師移步至香案側立。語云</note>汝等一
+<lb ed="X" n="0741b05"/>齊近香案前。<note place="inline">到<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>問訊　長跪　居中者拈香一瓣。供
+<lb ed="X" n="0741b06"/>養壇上諸師。<note place="inline">拈香<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>一拜而起。再問訊　隨我送汝登
+<lb ed="X" n="0741b07"/>壇乞戒。</p>
+<lb ed="X" n="0741b08"/><p id="pX60p0741b0801" rend="margin-left:1em"><note place="inline">引禮先行。三人次第隨去至壇後脫履。尼教授師引
+<lb ed="X" n="0741b09"/>彼登壇。三人上壇齊立。尼教授師。側立於傍。呼云</note>。</p>
+<lb ed="X" n="0741b10"/><p id="pX60p0741b1001">問訊展大具。<note place="inline">展<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>云</note>至誠頂禮三拜　撩衣　護&CB00425;<note place="inline">拜
+<lb ed="X" n="0741b11"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>問訊　長跪<note place="inline">雙手牽衣跪下</note>合掌。</p>
+<lb ed="X" n="0741b12"/><p id="pX60p0741b1201" rend="margin-left:1em"><note place="inline">尼教授師合掌。作如是言</note>。</p>
+<lb ed="X" n="0741b13"/><p id="pX60p0741b1301">善女人等。懇切至誠。仰憑清眾。求哀乞戒。乞戒之語。
+<lb ed="X" n="0741b14"/>汝當自陳。恐汝未能。我今教汝。各稱法名。<note place="inline">稱<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>其餘
+<lb ed="X" n="0741b15"/>言詞。皆隨我道。</p>
+<lb ed="X" n="0741b16"/><p id="pX60p0741b1601">大德僧聽。我本法尼<note place="inline">某甲</note>。從和尚尼<note place="inline">上某下某</note>律師。
+<lb ed="X" n="0741b17"/>求受大戒。我本法尼<note place="inline">某甲</note>。今從大僧。乞受大戒。和尚
+<lb ed="X" n="0741b18"/>尼<note place="inline">上某下某</note>律師。願僧&CB15072;濟我。慈愍故<note place="inline">三說<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>云</note>頂禮一
+<lb ed="X" n="0741b19"/>拜　&CB01769;起頭來。</p>
+<lb ed="X" n="0741b20"/><p id="pX60p0741b2001" rend="margin-left:1em"><note place="inline">作持云。尼教授師教乞戒<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。當下壇復座</note>。</p></div2>
+<lb ed="X" n="0741b21"/><div2 type="other"><mulu type="其他" level="2" label="十二單白問難法"/><head>十二單白問難法</head>
+<lb ed="X" n="0741b22"/><p id="pX60p0741b2201" rend="margin-left:1em"><note place="inline">羯磨師於本座合掌白云</note>。</p>
+<lb ed="X" n="0741b23"/><p id="pX60p0741b2301">大德僧聽。此本法尼<note place="inline">某甲</note>等。從和尚尼<note place="inline">某甲</note>律師。求
+<lb ed="X" n="0741b24"/>受大戒。此<note place="inline">某甲</note>等。今從大僧。乞受大戒。和尚尼<note place="inline">某甲</note>律
+<pb ed="X" id="X60.1134.0741c" n="0741c"/>
+<lb ed="X" n="0741c01"/>師。若僧時到。僧忍聽。我問諸難事。白如是。<note place="inline">問云</note>作白成
+<lb ed="X" n="0741c02"/>否。<note place="inline">七師合掌答云</note>成。</p>
+<lb ed="X" n="0741c03"/><p id="pX60p0741c0301" rend="margin-left:1em"><note place="inline">五分律云。當安慰彼言。族姓女諦聽。汝莫恐怖。須臾
+<lb ed="X" n="0741c04"/>之間。令汝三人。行清淨戒。成大比丘尼。入僧寶數也</note>。</p>
+<lb ed="X" n="0741c05"/><p id="pX60p0741c0501" rend="margin-left:2em">羯磨師合掌問云。</p>
+<lb ed="X" n="0741c06"/><p id="pX60p0741c0601">汝三人諦聽。今是真誠時。我今問汝。有。當言有。無。當
+<lb ed="X" n="0741c07"/>言無。汝三人不犯邊罪耶<note place="inline">答</note>無　汝不犯比丘耶<note place="inline">答</note>
+<lb ed="X" n="0741c08"/>無　汝非賊心為道耶<note place="inline">答</note>非　汝非壞二道耶<note place="inline">答</note>非
+<lb ed="X" n="0741c09"/>　汝非黃門耶<note place="inline">答</note>非　汝非&CB06128;父耶<note place="inline">答</note>無　汝非&CB06128;
+<lb ed="X" n="0741c10"/>母耶<note place="inline">答</note>無　汝非&CB06128;阿羅漢耶<note place="inline">答</note>無　汝非破和合
+<lb ed="X" n="0741c11"/>僧耶<note place="inline">答</note>無　汝非惡心出佛身血耶<note place="inline">答</note>無　汝非非
+<lb ed="X" n="0741c12"/>人耶<note place="inline">答</note>非　汝非畜生耶<note place="inline">答</note>非　汝非二根耶<note place="inline">答</note>非
+<lb ed="X" n="0741c13"/>　<note place="inline">並令識相分明顯答。以不解故。無由得戒也</note>汝字何等<note place="inline">答某甲</note>和尚字誰
+<lb ed="X" n="0741c14"/><note place="inline">答上某下某</note>大和尚。年歲滿不<note place="inline">答</note>滿　衣&CB00425;具足不
+<lb ed="X" n="0741c15"/><note place="inline">答</note>具　父母夫主聽汝不<note place="inline">答</note>聽　汝不負人債不<note place="inline">答</note>
+<lb ed="X" n="0741c16"/>無　汝非婢不<note place="inline">答</note>非　汝是女人不<note place="inline">答</note>是　女人有
+<lb ed="X" n="0741c17"/>如是諸病。癩癰疽。白癩。乾痟。顛狂。汝無如是諸病不
+<lb ed="X" n="0741c18"/><note place="inline">答</note>無<note place="inline">准僧祗律。二根。二道合。道小。大小便涕唾常出。不必問。謂難中<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>有故</note>汝學戒未
+<lb ed="X" n="0741c19"/><note place="inline">答</note><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>學戒　清淨不<note place="inline">答</note>清淨<note place="inline">復應問餘尼言某甲</note><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>學戒未
+<lb ed="X" n="0741c20"/><note place="inline">餘尼答言</note><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>學戒　清淨未<note place="inline">餘尼答言</note>清淨。</p></div2>
+<lb ed="X" n="0741c21"/><div2 type="other"><mulu type="其他" level="2" label="十三開道發心法"/><head>十三開道發心法</head><p id="pX60p0741c2108" place="inline" rend="margin-left:2em">和尚云。</p>
+<lb ed="X" n="0741c22"/><p id="pX60p0741c2201">善女人。前無重難。後無輕遮。甚是淨器。眾僧同慶。當
+<lb ed="X" n="0741c23"/>授汝戒。但深戒上善。廣周法界。量等&CB00980;空。今欲進受。
+<lb ed="X" n="0741c24"/>要須緣境發心。心境相容。方發無作。薩婆多論云。凡
+<pb ed="X" id="X60.1134.0742a" n="0742a"/>
+<lb ed="X" n="0742a01"/>欲受戒。先與說法引導開解。汝三人。從無始以來。於
+<lb ed="X" n="0742a02"/>一切境上。造諸惡業。惡&CB00642;法界。今欲受戒。翻前惡境。
+<lb ed="X" n="0742a03"/>並起善心。故戒法所因。還&CB00642;法界。故我釋迦如來隨
+<lb ed="X" n="0742a04"/>眾生心。造無邊之業。制無邊之戒。戒隨所制。故須緣
+<lb ed="X" n="0742a05"/>境。境量雖多。舉要而言。不出乎二種。一者情境。二者
+<lb ed="X" n="0742a06"/>非情境。言情境者。上至諸佛。下至眾生。十界正報。中
+<lb ed="X" n="0742a07"/>陰有情。凡有心者。皆名情境。非情境者。十界依報。一
+<lb ed="X" n="0742a08"/>切世間。山河大地。草木叢林。舟車屋宅。珍寶田園。地
+<lb ed="X" n="0742a09"/>水火風。乃至&CB00980;空。佛說聖教。儒流文字。形像&CB01244;廟等。
+<lb ed="X" n="0742a10"/>皆名非情境。善女人。既知境量如此寬廣。當須依境
+<lb ed="X" n="0742a11"/>發心。心有三品。中下二心。劣弱非勝。<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>能自度。不能
+<lb ed="X" n="0742a12"/>度人。我今教汝發上品心。求上品戒。何為上品心。今
+<lb ed="X" n="0742a13"/>於我諸師座前。立三種誓願。一者。誓斷一切惡。無惡
+<lb ed="X" n="0742a14"/>不斷。二者。誓修一切善。無善不修。三者。誓度一切眾
+<lb ed="X" n="0742a15"/>生。無一眾生不度。發此三種大誓願<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。於白四羯磨
+<lb ed="X" n="0742a16"/>言下。進受大比丘尼戒。不為但求聲聞小果故。直欲
+<lb ed="X" n="0742a17"/>成就三聚淨戒故。趣向三解脫門故。正求佛果。求大
+<lb ed="X" n="0742a18"/>涅槃。令法久住故。發如是上品心。受上品戒。次當開
+<lb ed="X" n="0742a19"/>廣汝懷者。良由戒法。體周法界。量等塵沙。終不以汝
+<lb ed="X" n="0742a20"/>三人現前父母所生報得狹劣身心。而能容受。當作
+<lb ed="X" n="0742a21"/>&CB00980;空器量之身。方能領納塵沙戒法。故論云。若此戒
+<lb ed="X" n="0742a22"/>法有形色者。入汝身時。當作天崩地裂之聲。由是非
+<lb ed="X" n="0742a23"/>色法故。令汝不覺不知。當起警懷之意。發上品殷重
+<lb ed="X" n="0742a24"/>之心。領納如來清淨妙戒<note place="inline">鳴尺一下</note>。今正為汝等白四羯
+<pb ed="X" id="X60.1134.0742b" n="0742b"/>
+<lb ed="X" n="0742b01"/>磨。受大比丘尼戒。汝等當眼觀壇儀。耳聽羯磨。一心
+<lb ed="X" n="0742b02"/>諦受。莫餘思餘覺。羯磨師。先作一白。疊事告知。次秉
+<lb ed="X" n="0742b03"/>三羯磨。量其可否。</p></div2>
+<lb ed="X" n="0742b04"/><div2 type="other"><mulu type="其他" level="2" label="十四正受戒體法"/><head>十四正受戒體法</head><p id="pX60p0742b0408" place="inline" rend="margin-left:2em"><note place="inline">羯磨師合掌云</note>。</p>
+<lb ed="X" n="0742b05"/><p id="pX60p0742b0501"><note n="0742001" resp="Xuzangjing" place="foot text" type="orig">性疑惟</note>性願和尚大眾。不&CB00385;慈悲。布施其戒。同心共秉。慎勿
+<lb ed="X" n="0742b06"/>異緣。令此三人。感發圓宗戒體。將秉羯磨。聽宣作白。</p>
+<lb ed="X" n="0742b07"/><p id="pX60p0742b0701">大德僧聽。此本法尼<note place="inline">某甲</note>等。從和尚尼<note place="inline">某甲</note>律師。求
+<lb ed="X" n="0742b08"/>受大戒。此<note place="inline">某甲</note>等。今從大僧。乞受大戒。和尚尼<note place="inline">某甲</note>
+<lb ed="X" n="0742b09"/>律師。<note place="inline">某甲</note>等所說清淨無諸難事。年歲<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>滿。衣&CB00425;具
+<lb ed="X" n="0742b10"/>足。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>學戒清淨。若僧時到。僧忍聽。僧今為<note place="inline">某甲</note>等。受
+<lb ed="X" n="0742b11"/>大戒。和尚尼<note place="inline">某甲</note>律師。白如是。<note place="inline">問</note>作白成否。<note place="inline">七師合掌齊答
+<lb ed="X" n="0742b12"/>云</note>成。</p>
+<lb ed="X" n="0742b13"/><p id="pX60p0742b1301">大德僧聽。此本法尼<note place="inline">某甲</note>等。從和尚尼<note place="inline">某甲</note>律師。求
+<lb ed="X" n="0742b14"/>受大戒。此<note place="inline">某甲</note>等。今從大僧。乞受大戒。和尚尼<note place="inline">某甲</note>
+<lb ed="X" n="0742b15"/>律師。<note place="inline">某甲</note>等。所說清淨。無諸難事。年歲<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>滿。衣&CB00425;具
+<lb ed="X" n="0742b16"/>足。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>學戒清淨。僧今為<note place="inline">某甲</note>等受大戒。和尚尼<note place="inline">某甲</note>
+<lb ed="X" n="0742b17"/>律師。誰諸長老忍。僧與<note place="inline">某甲</note>等受大戒。和尚尼<note place="inline">某甲</note>
+<lb ed="X" n="0742b18"/>律師者默然。誰不忍者說。是初羯磨成否。<note place="inline">如前答</note>成。</p>
+<lb ed="X" n="0742b19"/><p id="pX60p0742b1901">大德僧聽。此本法尼<note place="inline">某甲</note>等。從和尚尼<note place="inline">某甲</note>律師。求
+<lb ed="X" n="0742b20"/>受大戒。此<note place="inline">某甲</note>等。今從大僧。乞受大戒。和尚尼<note place="inline">某甲</note>
+<lb ed="X" n="0742b21"/>律師。<note place="inline">某甲</note>等。所說清淨。無諸難事。年歲<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>滿。衣&CB00425;具
+<lb ed="X" n="0742b22"/>足。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>學戒清淨。僧今為<note place="inline">某甲</note>等受大戒。和尚尼<note place="inline">某甲</note>
+<lb ed="X" n="0742b23"/>律師。誰諸長老忍。僧與<note place="inline">某甲</note>等受大戒。和尚尼<note place="inline">某甲</note>
+<lb ed="X" n="0742b24"/>律師者默然。誰不忍者說。是二羯磨成否。<note place="inline">如前答</note>成。</p>
+<pb ed="X" id="X60.1134.0742c" n="0742c"/>
+<lb ed="X" n="0742c01"/><p id="pX60p0742c0101">大德僧聽。此本法尼<note place="inline">某甲</note>等。從尚和尼<note place="inline">某甲</note>律師。求
+<lb ed="X" n="0742c02"/>受大戒。此<note place="inline">某甲</note>等。今從大僧。乞受大戒。和尚尼<note place="inline">某甲</note>
+<lb ed="X" n="0742c03"/>律師。<note place="inline">某甲</note>等。所說清淨。無諸難事。年歲<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>滿。衣&CB00425;具
+<lb ed="X" n="0742c04"/>足。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>學戒清淨。僧今為<note place="inline">某甲</note>等受大戒。和尚尼<note place="inline">某甲</note>
+<lb ed="X" n="0742c05"/>律師。誰諸長老忍。僧與<note place="inline">某甲</note>等受大戒。和尚尼<note place="inline">某甲</note>
+<lb ed="X" n="0742c06"/>律師者默然。誰不忍者說。是三羯磨成否。<note place="inline">如前答</note>成。</p>
+<lb ed="X" n="0742c07"/><p id="pX60p0742c0701">僧<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>忍。為<note place="inline">某甲</note>等受大戒竟。和尚尼<note place="inline">某甲</note>律師。僧忍
+<lb ed="X" n="0742c08"/>默然故。是事如是持。</p></div2>
+<lb ed="X" n="0742c09"/><div2 type="other"><mulu type="其他" level="2" label="十五示記時節法"/><head>十五示記時節法</head>
+<lb ed="X" n="0742c10"/><p id="pX60p0742c1001" rend="margin-left:1em"><note place="inline">作持云。所以本法羯磨。但作方便。未是示。語時節者。
+<lb ed="X" n="0742c11"/>非正受具故。又二部僧不滿二十眾故</note>。</p>
+<lb ed="X" n="0742c12"/><p id="pX60p0742c1201" rend="margin-left:2em">和尚語言。</p>
+<lb ed="X" n="0742c13"/><p id="pX60p0742c1301">白四羯磨<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>竟。汝三人<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>得比丘尼戒體了。記汝受
+<lb ed="X" n="0742c14"/>戒年。月。日。時。以便本部中。好分上中下座。汝三人得
+<lb ed="X" n="0742c15"/>戒。在干。</p>
+<lb ed="X" n="0742c16"/><p id="pX60p0742c1601">康&CB00696;<note place="inline">某</note>年。<note place="inline">某</note>月。<note place="inline">某</note>日。<note place="inline">某</note>時。受具足戒。第<note place="inline">几</note>壇。</p></div2>
+<lb ed="X" n="0742c17"/><div2 type="other"><mulu type="其他" level="2" label="十六傳授戒相法"/><head>十六傳授戒相法</head>
+<lb ed="X" n="0742c18"/><p id="pX60p0742c1801">族姓女諦聽。此是如來。無所著。等正覺。說八波羅夷
+<lb ed="X" n="0742c19"/>法。若比丘尼犯一一法。此非比丘尼。非釋種女。</p>
+<lb ed="X" n="0742c20"/><list><item id="itemX60p0742c2001">第一。不得作不淨。行。行婬欲法。若比丘尼。意樂作不
+<lb ed="X" n="0742c21"/>淨行。行婬欲法。乃至共畜生。此非比丘尼。非釋種女。
+<lb ed="X" n="0742c22"/>汝是中盡形壽不得犯。能持否。<note place="inline">答</note>能持。</item>
+<lb ed="X" n="0742c23"/><item id="itemX60p0742c2301">第二。不得盜。乃至草葉。若比丘尼。偷人五錢。若過五
+<lb ed="X" n="0742c24"/>錢。若自取。教人取。若自斷。教人斷。若自破。教人破。若
+<pb ed="X" id="X60.1134.0743a" n="0743a"/>
+<lb ed="X" n="0743a01"/>燒。若埋。若壞色。彼非比丘尼。非釋種女。汝是中盡形
+<lb ed="X" n="0743a02"/>壽不得犯。能持不。<note place="inline">答</note>能持。</item>
+<lb ed="X" n="0743a03"/><item id="itemX60p0743a0301">第三。不得故斷眾生命。乃至蟻子。若比丘尼。故自手
+<lb ed="X" n="0743a04"/>斷人命。若持刀與人。教死。讚死。若與非藥。若復墮人
+<lb ed="X" n="0743a05"/>胎。厭禱&CB00057;咀殺。若自作。教人作。彼非比丘尼。非釋種
+<lb ed="X" n="0743a06"/>女。汝是中盡形壽不得犯。能持否。<note place="inline">答</note>能持。</item>
+<lb ed="X" n="0743a07"/><item id="itemX60p0743a0701">第四。不得妄語。乃至戲笑。若比丘尼。非真實。非<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>有
+<lb ed="X" n="0743a08"/>自稱言。我得上人法。我得禪。得解脫。三昧正受。須陀
+<lb ed="X" n="0743a09"/>洹果。斯陀含果。阿那含果。阿羅漢果。天來。龍來。鬼神
+<lb ed="X" n="0743a10"/>來。供養我。此非比丘尼。非釋種女。汝是中盡形壽不
+<lb ed="X" n="0743a11"/>得犯。能持否。<note place="inline">答</note>能持。</item>
+<lb ed="X" n="0743a12"/><item id="itemX60p0743a1201">第五。不得身相觸。乃至共畜生。若比丘尼。有染污心。
+<lb ed="X" n="0743a13"/>與染污心男子。身相觸。從腋以下。膝以上。若捺。若摩。
+<lb ed="X" n="0743a14"/>若牽。若推。若逆摩。順摩。若舉。若下。若捉。若急捺。此非
+<lb ed="X" n="0743a15"/>比丘尼。非釋種女。汝是中盡形壽不得犯。能持否。<note place="inline">答</note>
+<lb ed="X" n="0743a16"/>能持。</item>
+<lb ed="X" n="0743a17"/><item id="itemX60p0743a1701">第六。不得犯八事。乃至共畜生。若比丘尼。受染污心
+<lb ed="X" n="0743a18"/>男子。捉手。捉衣。入屏處。共立。共語。共行。身相近。共期。
+<lb ed="X" n="0743a19"/>犯此八事。彼非比丘尼。非釋種女。犯八事故。汝是中
+<lb ed="X" n="0743a20"/>盡形壽不得犯。能持否。<note place="inline">答</note>能持。</item>
+<lb ed="X" n="0743a21"/><item id="itemX60p0743a2101">第七。不得覆藏他罪。乃至突吉羅。惡說。若比丘尼。知
+<lb ed="X" n="0743a22"/>他比丘尼。犯波羅夷罪。若不自舉。不白僧。若眾多人。
+<lb ed="X" n="0743a23"/>後於異時。此比丘尼。若罷道。若滅擯。若遮不共僧事。
+<lb ed="X" n="0743a24"/>若入外道。後便作是說。我先知有如是。如是事。彼非
+<pb ed="X" id="X60.1134.0743b" n="0743b"/>
+<lb ed="X" n="0743b01"/>比丘尼。非釋種女。覆藏重罪故。汝是中盡形壽不得
+<lb ed="X" n="0743b02"/>犯。能持否。<note place="inline">答</note>能持。</item>
+<lb ed="X" n="0743b03"/><item id="itemX60p0743b0301">第八。不得隨舉比丘。乃至守園人。及沙彌。若比丘尼。
+<lb ed="X" n="0743b04"/>知比丘為僧所舉。如法。如律。如佛所教。不隨順。不懺
+<lb ed="X" n="0743b05"/>悔。僧未與作共住。而隨順。是比丘尼。諫是比丘尼言。
+<lb ed="X" n="0743b06"/>汝妹知不。今僧舉此比丘。如法。如律。如佛所教。不隨
+<lb ed="X" n="0743b07"/>順。不懺悔。僧未與作共住。汝莫隨順。是比丘尼諫是
+<lb ed="X" n="0743b08"/>比丘尼時。堅持不捨。是比丘尼當三諫。捨此事故。乃
+<lb ed="X" n="0743b09"/>至三諫。捨者善。不捨者。彼非比丘尼。非釋種女。由隨
+<lb ed="X" n="0743b10"/>舉故。汝是中盡形壽不得犯。能持否。<note place="inline">答</note>能持。</item></list>
+<lb ed="X" n="0743b11"/><p id="pX60p0743b1101" rend="margin-left:1em">五分律云。說八重<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。總說四喻。應如是告言。</p>
+<lb ed="X" n="0743b12"/><p id="pX60p0743b1201">族姓女聽。如來無所著。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>說八波羅夷。又說四種譬
+<lb ed="X" n="0743b13"/>喻。若犯八重。如斷人頭<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。不可復起。又如截多羅樹
+<lb ed="X" n="0743b14"/>心。不更生長。又如針鼻缺。不堪復用。又如析大石分
+<lb ed="X" n="0743b15"/>為二分。不可還合。若比丘尼。犯八重<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。不得還成比
+<lb ed="X" n="0743b16"/>丘尼行。汝是中盡形壽不得犯。能持不。<note place="inline">答</note>能持。</p></div2>
+<lb ed="X" n="0743b17"/><div2 type="other"><mulu type="其他" level="2" label="十七後說四依法"/><head>十七後說四依法</head><p id="pX60p0743b1708" place="inline" rend="margin-left:2em"><note place="inline">又應告言</note>。</p>
+<lb ed="X" n="0743b18"/><p id="pX60p0743b1801">族姓女聽。如來無所著。等正覺。說四依法。比丘尼依
+<lb ed="X" n="0743b19"/>此得出家。受大戒。成比丘尼法。</p>
+<lb ed="X" n="0743b20"/><list><item id="itemX60p0743b2001"><p id="pX60p0743b2001">第一。比丘尼依糞掃衣。得出家。受大戒。成比丘尼法。
+<lb ed="X" n="0743b21"/>汝是中盡形壽能持不。<note place="inline">答</note>能持。</p>
+<lb ed="X" n="0743b22"/><p id="pX60p0743b2201">若得長利。檀越施衣。割壞衣。得受。</p></item>
+<lb ed="X" n="0743b23"/><item id="itemX60p0743b2301"><p id="pX60p0743b2301">第二。比丘尼依托&CB00425;乞食。得出家。受大戒。成比丘尼
+<lb ed="X" n="0743b24"/>法。汝是中盡形壽能持不。<note place="inline">答</note>能持。</p>
+<pb ed="X" id="X60.1134.0743c" n="0743c"/>
+<lb ed="X" n="0743c01"/><p id="pX60p0743c0101">若得長利。若僧差食。檀越送身。月八日食。十四日食。
+<lb ed="X" n="0743c02"/>十五日食。若月初日食。若眾僧常食。若檀越請食。應
+<lb ed="X" n="0743c03"/>受。</p></item>
+<lb ed="X" n="0743c04"/><item id="itemX60p0743c0401"><p id="pX60p0743c0401">第三。比丘尼依樹下坐。得出家。受大戒。成比丘尼法。
+<lb ed="X" n="0743c05"/>汝是中盡形壽能持不。<note place="inline">答</note>能持。</p>
+<lb ed="X" n="0743c06"/><p id="pX60p0743c0601">若得長利。別房。尖頭屋。小房。石室。兩房一戶。得受。</p></item>
+<lb ed="X" n="0743c07"/><item id="itemX60p0743c0701"><p id="pX60p0743c0701">第四。比丘尼依腐爛藥。得出家。受大戒。成比丘尼法。
+<lb ed="X" n="0743c08"/>汝是中盡形壽能持不。<note place="inline">答</note>能持。</p>
+<lb ed="X" n="0743c09"/><p id="pX60p0743c0901">若得長利。酥。油。生酥。蜜。石蜜。應受。</p></item></list>
+<lb ed="X" n="0743c10"/><p id="pX60p0743c1001" rend="margin-left:1em">律中因比丘尼。獨住阿蘭若。有難事起。佛<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>遮不
+<lb ed="X" n="0743c11"/>聽樹下坐。今仍以舊文說者。令彼知四依法故。</p>
+<lb ed="X" n="0743c12"/><p id="pX60p0743c1201">汝三人受大戒<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>竟。白四羯磨如法成就。得處所。和
+<lb ed="X" n="0743c13"/>尚如法。阿闍黎如法。二部僧具足滿。汝當善受教法。
+<lb ed="X" n="0743c14"/>應勸化作福。治&CB01244;。供養眾僧。若和尚阿闍黎一切如
+<lb ed="X" n="0743c15"/>法教授。不得違逆。應學問誦經。勤求方便。於佛法中。
+<lb ed="X" n="0743c16"/>得須陀洹果。斯陀含果。阿那含果。阿羅漢果。汝始發
+<lb ed="X" n="0743c17"/>心出家。功不唐捐。果報不絕。餘所未知。當問和尚阿
+<lb ed="X" n="0743c18"/>闍黎。一拜起具。上殿禮佛。</p>
+<lb ed="X" n="0743c19"/><p id="pX60p0743c1901" rend="margin-left:1em"><note place="inline">新戒執具。從西南角至壇後而下。第二壇。乃至末壇。
+<lb ed="X" n="0743c20"/>亦如是次第受<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>。</p>
+<lb ed="X" n="0743c21"/><p id="pX60p0743c2101" rend="margin-left:2em">和尚云。</p>
+<lb ed="X" n="0743c22"/><p id="pX60p0743c2201">受戒<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>竟。大眾同音。念佛回向。</p>
+<lb ed="X" n="0743c23"/><p id="pX60p0743c2301" rend="margin-left:1em"><note place="inline">新戒執具下壇。尼十師先下座分立</note>。</p></div2>
+<lb ed="X" n="0743c24"/><div2 type="other"><mulu type="其他" level="2" label="十八回向出壇法"/><head>十八回向出壇法</head><p id="pX60p0743c2408" place="inline" rend="margin-left:2em">引禮云。</p>
+<pb ed="X" id="X60.1134.0744a" n="0744a"/>
+<lb ed="X" n="0744a01"/><p id="pX60p0744a0101">一齊向上排班　聞磬聲頂禮三拜　撩衣<note place="inline">拜<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>起
+<lb ed="X" n="0744a02"/>具　問訊　分班。</p>
+<lb ed="X" n="0744a03"/><p id="pX60p0744a0301" rend="margin-left:1em"><note place="inline">壇上九師。分排兩班。前五。後四。尼十師亦向上排班。
+<lb ed="X" n="0744a04"/>前一後九。向上頂禮三拜。或一拜。問訊<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。尼十師退
+<lb ed="X" n="0744a05"/>出簷下。壇上十師末後先行。從右級下壇。向東北繞
+<lb ed="X" n="0744a06"/>至壇前。第一師前一班。九師次之。尼十師又次之</note>。</p>
+<lb ed="X" n="0744a07"/><p id="pX60p0744a0701" rend="margin-left:2em">維那舉偈云。</p>
+<lb ed="X" n="0744a08"/><lg id="lgX60p0744a0801"><l>受戒功德殊勝行</l><l>無邊勝福皆回向<note place="inline">師同一拜</note></l>
+<lb ed="X" n="0744a09"/><l>普願沉溺諸有情</l><l>速往無量光佛剎<note place="inline">同前</note></l>
+<lb ed="X" n="0744a10"/><l>十方三世一切佛</l><l>一切菩薩摩訶薩<note place="inline">同前</note></l>
+<lb ed="X" n="0744a11"/><l>摩訶般若波羅蜜<note place="inline">二十師問訊分班對立</note></l></lg>
+<lb ed="X" n="0744a12"/><p id="pX60p0744a1201" rend="margin-left:1em"><note place="inline">和尚轉面南立。二引禮師。先引新戒末後先行。新戒
+<lb ed="X" n="0744a13"/>走完。尼十師末後先行接上。大僧九師亦末後先行
+<lb ed="X" n="0744a14"/>接上。引禮雙鳴引磬在和尚前行。新戒至方丈前。兩
+<lb ed="X" n="0744a15"/>行合掌面面對跪。候諸師行過。仍起雙行至方丈班
+<lb ed="X" n="0744a16"/>列。和尚面南。十九師向上排班三拜。或一拜。八字分
+<lb ed="X" n="0744a17"/>開</note>。</p>
+<lb ed="X" n="0744a18"/><p id="pX60p0744a1801" rend="margin-left:2em">引禮呼云。</p>
+<lb ed="X" n="0744a19"/><p id="pX60p0744a1901">一齊向上排班　聞磬聲禮謝三拜<note place="inline">師具合掌</note>撩衣<note place="inline">拜<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></note>起
+<lb ed="X" n="0744a20"/>具　問訊　分班。</p>
+<lb ed="X" n="0744a21"/><p id="pX60p0744a2101" rend="margin-left:1em"><note place="inline">和尚入室。諸師各散。新戒再禮謝引禮師<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。然後次
+<lb ed="X" n="0744a22"/>序歸堂</note>。</p></div2></div1>
+<lb ed="X" n="0744a23"/>
+<lb ed="X" n="0744a24"/><juan fun="close" n="2"><jhead>二部僧授戒儀式卷下<note place="inline">終</note></jhead></juan>
+<pb ed="X" id="X60.1134.0744b" n="0744b"/>
+<lb ed="X" n="0744b01"/>
+<lb ed="X" n="0744b02"/><div1 type="xu"><mulu type="序" level="1" label="No. 1134-B ＆CB02494；"/><head>No. 1134-B
+<lb ed="X" n="0744b03"/> &CB02494;</head>
+<lb ed="X" n="0744b04"/>
+<lb ed="X" n="0744b05"/><p id="pX60p0744b0501">是儀式也。目之極易。而行之實難。若非具大根器。得
+<lb ed="X" n="0744b06"/>大忍力者。不能信是法也。佛謂女人惑亂。多諸煩惱。
+<lb ed="X" n="0744b07"/>或因瞋起。而障精進修持。或因慢生。而障如法授受。
+<lb ed="X" n="0744b08"/>因此煩惱。惑亂心田。便障聖道。所以佛姨母大愛道。
+<lb ed="X" n="0744b09"/>與五百釋種女詣祇桓門外。求度出家。佛不聽許。大
+<lb ed="X" n="0744b10"/>愛道等。步涉&CB00560;裂。塵土坌身。悲泣不去。阿難見愍。三
+<lb ed="X" n="0744b11"/>請如來。佛慈為彼。制八敬法。語言。若能盡壽行持。聽
+<lb ed="X" n="0744b12"/>汝出家。阿難依教傳宣。愛道等三答頂戴奉行。而尼
+<lb ed="X" n="0744b13"/>部自斯建立。後制二十僧尼。白四受具。故論云。由尼
+<lb ed="X" n="0744b14"/>等奉行八敬。能令如來正法不減也。於戲。末法受戒
+<lb ed="X" n="0744b15"/>尼。如&CB00876;似粟。若欲覓箇知八敬者。尚不可得。何況行
+<lb ed="X" n="0744b16"/>持。梵網經云。一切眾生。皆有佛性。有佛性者。皆得作
+<lb ed="X" n="0744b17"/>佛。大涅槃云。一切眾生雖有佛性。要因持戒。然後乃
+<lb ed="X" n="0744b18"/>見。又云。女人得佛性者。即為女中丈夫。今巨源和尚
+<lb ed="X" n="0744b19"/>是其人也。能行八敬。依律師人。復同其兄翰屏周居
+<lb ed="X" n="0744b20"/>士。請緒此儀。以壽梨棗。吾知二公。不自為也。欲令人
+<lb ed="X" n="0744b21"/>人如法授受。久住毗尼者矣。其為法之心。當共垂不
+<lb ed="X" n="0744b22"/>朽。</p><p id="pX60p0744b2202" place="inline">二月二日。閣筆故&CB02494;。</p></div1>
+</body></text></TEI.2>

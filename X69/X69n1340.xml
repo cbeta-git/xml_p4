@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X69n1340.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1340 黃龍四家錄（序）</title>
+			<author>宋 秀人錢密序</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.3 $ (Big5)<date>$Date: 2009/04/22 09:03:13 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:03:13 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 69, No. 1340 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, ZENCD as provided by Mr. Christian Wittern</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，維習安大德提供之 ZENCD 經文</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2004/06/17 09:14:30</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X69n1340.xml,v $
+Revision 1.3  2009/04/22 09:03:13  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.2  2004/07/13 06:53:00  eva
+modified: normal 比對修訂
+
+Revision 1.1  2004/06/17 01:20:45  ray
+由 basicx 轉自 簡單標記版
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X69.1340.0198a" n="0198a"/>
+<lb ed="X" n="0198a01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0198a02"/><div1 type="xu"><mulu type="序" level="1" label="No. 1340-A 黃龍四家語錄序"/><head>No. 1340-A
+<lb ed="X" n="0198a03"/> 黃龍四家語錄序</head>
+<lb ed="X" n="0198a04"/>
+<lb ed="X" n="0198a05"/><p id="pX69p0198a0501">言而足。終日言而盡道。言而不足。終日言而盡物。足
+<lb ed="X" n="0198a06"/>與不足。二理俱墮。而世豈識之哉。&CB07519;有黃龍四世孫
+<lb ed="X" n="0198a07"/>惠泉禪師。手錄積翠晦堂死心超宗四家語錄。俾予
+<lb ed="X" n="0198a08"/>為序。夫四大士者。大江之西。禪宗之有光焰者也。或
+<lb ed="X" n="0198a09"/>傳馬祖後身。或拒大溈師席。或雷電影響隨聲。或六
+<lb ed="X" n="0198a10"/>根勝熱不壞真風道譽。天下仰之。機鋒一觸。瓶寫萬
+<lb ed="X" n="0198a11"/>偈。如大空谷應無餘聲。如大圓鑑照無餘影。編珠織
+<lb ed="X" n="0198a12"/>貝。散落人間。雲堂月&CB13122;。萬口稱誦。隨量小大。咸有所
+<lb ed="X" n="0198a13"/>得。斯言也。謂之盡物可乎。要之盡物盡道。聞者自薦
+<lb ed="X" n="0198a14"/>耳。中有所謂終日言而未嘗言者。又非剝皮折骨之
+<lb ed="X" n="0198a15"/>所能書也。然則泉師之編次問答。是耶非耶。以之為
+<lb ed="X" n="0198a16"/>是。則毗盧藏中。有大經卷。而文字本不立。以之為非。
+<lb ed="X" n="0198a17"/>則尸居龍見。淵默雷聲。而音容本不忘。是之與非。特
+<lb ed="X" n="0198a18"/>未定也。唯解是理。有說無說。皆是真如。未解是理。有
+<lb ed="X" n="0198a19"/>說無說。皆墮邪見。由是知惠泉之心。即四師之心也。
+<lb ed="X" n="0198a20"/>惠泉之見。即四師之見也。甲乙其說。用示方來。以廣
+<lb ed="X" n="0198a21"/>四師利物之仁。由音聲入。不嗇一<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>。以傳四師行道
+<lb ed="X" n="0198a22"/>之惠。真祖師西來之本意也。坐進此道者。試以此文
+<lb ed="X" n="0198a23"/>評之。紹興十一年。三月五日。秀人錢密序。</p></div1>
+</body></text></TEI.2>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X25n0480.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 480 金剛經觀心釋</title>
+			<author>明 智旭述</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $ (Big5)<date>$Date: 2009/04/22 08:53:57 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:53:57 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 25, No. 480 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, Text as provided by Electronic Buddhadharma Society (EBS)</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，佛教電腦資訊庫功德會提供</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2006/08/16 15:46:28</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X25n0480.xml,v $
+Revision 1.2  2009/04/22 08:53:57  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.1  2006/08/16 08:31:58  ray
+basicx 程式 轉自 簡單標記版
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X25.0480.0149a" n="0149a"/>
+<lb ed="X" n="0149a01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0149a02"/>
+<lb ed="X" n="0149a03"/>
+<lb ed="X" n="0149a04"/>
+<lb ed="X" n="0149a05"/><head type="no">No. 480</head>
+<lb ed="X" n="0149a06"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>金剛般若波羅蜜經觀心釋</jhead></juan>
+<lb ed="X" n="0149a07"/>
+<lb ed="X" n="0149a08"/><byline type="author">菩薩沙彌　智旭際明　述</byline>
+<lb ed="X" n="0149a09"/><div1 type="jing"><lg id="lgX25p0149a0901"><l><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>申如實不空義</l><l>如如演說不取著</l>
+<lb ed="X" n="0149a10"/><l>攝彼名句及文身</l><l>融歸一念成觀行</l></lg>
+<lb ed="X" n="0149a11"/><p id="pX25p0149a1101">金剛者。喻現前一念心也。譬如金剛。體則無上至寶。
+<lb ed="X" n="0149a12"/>相則純淨無雜。用則廣能利益。現前一念。亦復如是。
+<lb ed="X" n="0149a13"/>體即法界。相無塵染。用&CB00642;一切。復次現前一念。即是
+<lb ed="X" n="0149a14"/>金剛。世間金剛之寶。假心為喻。乃世寶似心。非心似
+<lb ed="X" n="0149a15"/>世寶也。此現前一念金剛之心。即三般若。法界真體。
+<lb ed="X" n="0149a16"/>名為實相。無塵染相。名為觀照。&CB00642;一切用。名為文字。
+<lb ed="X" n="0149a17"/>達此一念三般若者。名波羅蜜。以即三德究竟之彼
+<lb ed="X" n="0149a18"/>岸故。此一念性。&CB00040;古&CB00040;今常不變故。可軌持故。一切
+<lb ed="X" n="0149a19"/>聖賢由此得成諸道果故。即名為經。</p><p id="pX25p0149a1915" place="inline">復次。現前一念
+<lb ed="X" n="0149a20"/>之性。從來不異。名如。此外更無別法。名是。統攝自在。
+<lb ed="X" n="0149a21"/>名我。了了印境。名聞。十世古今不離當念。名一時。&CB00980;
+<lb ed="X" n="0149a22"/>靈絕待。名佛。豎窮橫&CB00642;。名在。含育出生一切諸法。名
+<lb ed="X" n="0149a23"/>舍衛國。但悟惟心。能降魔外。名戰勝。功德之林。名樹。
+<lb ed="X" n="0149a24"/>性具功德。周給一切。名給孤獨。萬善所集。名園。</p><p id="pX25p0149a2419" place="inline">復次。
+<pb ed="X" id="X25.0480.0149b" n="0149b"/>
+<lb ed="X" n="0149b01"/>現前一念。當體常&CB00642;。名大。出生福慧。名比丘。諸心心
+<lb ed="X" n="0149b02"/>所相應。名眾。一念具足百界十如。為千。自行化他。十
+<lb ed="X" n="0149b03"/>善各各互具。為二百。五根。五力各各互具。為五十。猶
+<lb ed="X" n="0149b04"/>如海印炳現。無前無後。名俱。</p><p id="pX25p0149b0412" place="inline">復次。無有一法出過於
+<lb ed="X" n="0149b05"/>心。名為世尊。一切時中。常應觀察自心。名食時。自心
+<lb ed="X" n="0149b06"/>本具慚愧法忍。名衣。自心事理和合相應。名&CB00425;。歷陰
+<lb ed="X" n="0149b07"/>界處觀察理性。名入城乞食。於一一法得見理性。名
+<lb ed="X" n="0149b08"/>次第乞<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。會事歸理。名還本處。觀理究竟。名飯食訖。
+<lb ed="X" n="0149b09"/>全修在性。名收衣&CB00425;。福慧明顯。名洗足。證於第一義
+<lb ed="X" n="0149b10"/>空。名敷座而坐。</p><p id="pX25p0149b1007" place="inline">復次。相應解心所。名須菩提。此解有
+<lb ed="X" n="0149b11"/>殊勝力。名為長老。諸心所中能為導首。名為在大眾
+<lb ed="X" n="0149b12"/>中。不取空證。名從座起。順方便道。名偏袒右肩。右膝
+<lb ed="X" n="0149b13"/>著地。權不異實。名為合掌。如理觀察。自覺聖智境界。
+<lb ed="X" n="0149b14"/>名恭敬白佛。心性不可思議。故名希有。無量眾善。名
+<lb ed="X" n="0149b15"/>諸菩薩。眾善不離一心。名善護念。一心具行眾善。名
+<lb ed="X" n="0149b16"/>善付囑。一念照性。名善男子。一念寂性。名善女人。依
+<lb ed="X" n="0149b17"/>寂照體。起寂照用。名為發菩提心。用如其體。名為應
+<lb ed="X" n="0149b18"/>住。永離昏擾。名為降伏其心。心之理性隨解現故。名
+<lb ed="X" n="0149b19"/>佛告須菩提。如理而觀。觀即如理。名善哉善哉。</p><p id="pX25p0149b1919" place="inline">復次。
+<lb ed="X" n="0149b20"/>現前一念。具足無量染淨種子及現行故。名為一切
+<lb ed="X" n="0149b21"/>眾生之類。無明覆蔽。名為卵生。隱覆含藏。名為胎生。
+<lb ed="X" n="0149b22"/>愛取所潤。名為濕生。非有現有。名為化生。心生像生。
+<lb ed="X" n="0149b23"/>名為有色。覓心無像。名為無色。種種攀緣。名為有想。
+<lb ed="X" n="0149b24"/>攀緣無性。名為無想。所緣不實。名非有想。能緣不斷。
+<pb ed="X" id="X25.0480.0149c" n="0149c"/>
+<lb ed="X" n="0149c01"/>名非無想。無明妄想本性空寂。名為無餘涅槃。了妄
+<lb ed="X" n="0149c02"/>不生。名為令入滅度。一心不生。萬法無咎。譬如翳除。
+<lb ed="X" n="0149c03"/>空華悉殞。名為滅度無量無數無邊眾生。華性本空。
+<lb ed="X" n="0149c04"/>非今始滅。名為實無眾生得滅度者。於一念中。妄計
+<lb ed="X" n="0149c05"/>宰主形相眾緣相續。名我等四相。迷空計華。名非菩
+<lb ed="X" n="0149c06"/>薩。</p><p id="pX25p0149c0602" place="inline">復次。心無心相。名無所住。念念出生。名之為行。不
+<lb ed="X" n="0149c07"/>取一法。名為布施。不染一法。名為持戒。不礙一法。名
+<lb ed="X" n="0149c08"/>為忍辱。不捨一法。名為精進。不動一法。名為禪定。不
+<lb ed="X" n="0149c09"/>昧一法。名為智慧。不壞一法。名為福德。不見一法有
+<lb ed="X" n="0149c10"/>分劑相。名如&CB00980;空。不計一法異於般若。名如教住。</p><p id="pX25p0149c1020" place="inline">復
+<lb ed="X" n="0149c11"/>次。現前一念。體即法界。名非身相。本原真如。名為如
+<lb ed="X" n="0149c12"/>來。由觀心故。不毀三業。名為持戒。質直柔和。名為修
+<lb ed="X" n="0149c13"/>福。一念覺故。名為一佛。念念相續。至無量念。善覺悟
+<lb ed="X" n="0149c14"/>故。名為無量佛所種諸善根。本覺之性。印持攝受諸
+<lb ed="X" n="0149c15"/>修德故。名為如來悉知悉見無量福德。了心無相。名
+<lb ed="X" n="0149c16"/>無四相。行無相善。名無法相。離一切惡。名為無非法
+<lb ed="X" n="0149c17"/>相。諦喻彼岸。觀智喻筏。安住實諦。觀解亦絕。名為法
+<lb ed="X" n="0149c18"/>尚應捨。</p><p id="pX25p0149c1804" place="inline">復次。現前一念。即如來故。亦即菩提。不應如
+<lb ed="X" n="0149c19"/>來得於如來。不應菩提得於菩提。以能得所得。能說
+<lb ed="X" n="0149c20"/>所說。皆是即心自性。無能所故。此心之性。即無為法。
+<lb ed="X" n="0149c21"/>一切聖賢。不離心性有修證故。現前心性。即名為經。
+<lb ed="X" n="0149c22"/>是法是常。無變壞故。一切諸佛及菩提法。無不依於
+<lb ed="X" n="0149c23"/>心性而施設故。若達心法。即知佛法。亦知一切眾生
+<lb ed="X" n="0149c24"/>之法。三無差別。非別更有諸佛法故。</p><p id="pX25p0149c2415" place="inline">復次。現前一念。
+<pb ed="X" id="X25.0480.0150a" n="0150a"/>
+<lb ed="X" n="0150a01"/>即是法界。無內外故。故無出入。亦無往來。無道無果。
+<lb ed="X" n="0150a02"/>無欲無離。無喧無寂。名為四果阿蘭那行。復次。現前
+<lb ed="X" n="0150a03"/>一念。光光相續。名為然燈。萬法所依。名為佛土。&CB00642;滿
+<lb ed="X" n="0150a04"/>自在。名為大身。福田所宗。名為塔廟。一體三義。名金
+<lb ed="X" n="0150a05"/>剛般若。究竟秘藏。名波羅蜜。如理觀心。名奉。觀成不
+<lb ed="X" n="0150a06"/>失。名持。自此以後。雖有種種名句文身。以義攝取。亦
+<lb ed="X" n="0150a07"/>復不離現前一念。可以意知。不復委釋。</p>
+<lb ed="X" n="0150a08"/><lg id="lgX25p0150a0801"><l>如是微妙金剛義</l><l>不離現前一念心</l>
+<lb ed="X" n="0150a09"/><l>觀心具足般若經</l><l>亦復具足餘妙典</l>
+<lb ed="X" n="0150a10"/><l>十二分教二種藏</l><l>乃至量等大千經</l>
+<lb ed="X" n="0150a11"/><l>於一念中悉剖出</l><l>一切諸念亦復然</l>
+<lb ed="X" n="0150a12"/><l>如於念念剖大經</l><l>一切根塵亦如是</l>
+<lb ed="X" n="0150a13"/><l>乃至無有少許塵</l><l>而不具足法界藏</l>
+<lb ed="X" n="0150a14"/><l>如是正慧應了知</l><l>一切惟心心一切</l>
+<lb ed="X" n="0150a15"/><l>若不觀心類說藥</l><l>真藥現前亦不知</l>
+<lb ed="X" n="0150a16"/><l>是故我今稽首禮</l><l>性具三德無遺者</l>
+<lb ed="X" n="0150a17"/><l>一一啟請勸觀心</l><l>速登般若金剛岸</l></lg>
+<lb ed="X" n="0150a18"/>
+<lb ed="X" n="0150a19"/><juan fun="close" n="1"><jhead>金剛般若波羅蜜經觀心釋<note place="inline">終</note></jhead></juan></div1>
+</body></text></TEI.2>

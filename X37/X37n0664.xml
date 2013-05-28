@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X37n0664.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 664 涅槃經會疏解</title>
+			<author>元 師正分科　明 圓澄會疏</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.3 $ (Big5)<date>$Date: 2009/04/22 08:56:20 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:56:20 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 37, No. 664 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2006/10/03 12:00:10</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X37n0664.xml,v $
+Revision 1.3  2009/04/22 08:56:20  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.2  2007/07/06 02:42:26  amtbgrace
+modified: 校注插入 XML
+
+Revision 1.1  2006/10/03 05:33:49  duncan
+10/3  轉自basicx ok
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X37.0664.0628c" n="0628c"/>
+<lb ed="X" n="0628c01"/><milestone unit="juan" n="1"/>
+<lb ed="X" n="0628c02"/><div1 type="xu"><mulu type="序" level="1" label="No. 664-A 南本大般涅槃經會疏敘"/><head>No. 664-A
+<lb ed="X" n="0628c03"/> 南本大般涅槃經會疏敘</head>
+<lb ed="X" n="0628c04"/>
+<lb ed="X" n="0628c05"/><p id="pX37p0628c0501">夫大般涅槃經者。乃如來顧命之言也。蘊成矌劫而
+<lb ed="X" n="0628c06"/>久祕不談。方便調機而待時方說。所以小大對帶半
+<lb ed="X" n="0628c07"/>滿開宗。頓漸偏圓初中後唱。惟此奧旨最後極談。其
+<lb ed="X" n="0628c08"/>由庫內之珍財臨終始付。海中之神寶劫盡乃亡。大
+<lb ed="X" n="0628c09"/>哉世尊。慈悲莫並。精求竭力。等救沉淪。伺機四十九
+<lb ed="X" n="0628c10"/>年。本懷未罄。唱滅二月十五。盡吐肝腸。故得十外歸
+<lb ed="X" n="0628c11"/>依闡提亦悟。昆蟲草木悉<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>沾恩。象馬蛇虺咸皆被
+<lb ed="X" n="0628c12"/>澤。內凡外凡而功超<app><lem wit="【CBETA】" resp="CBETA.maha">曠</lem><rdg wit="【卍續】">嚝</rdg></app>劫。天類人類而果證無生。能
+<lb ed="X" n="0628c13"/>事既畢即告涅槃。於是日月無光而山林變白。大地
+<lb ed="X" n="0628c14"/>震動而鳥獸哀鳴。是凡是聖盡失所天。情與無情誰
+<lb ed="X" n="0628c15"/>非號慕。是知此經一唱無復遺餘。至矣盡矣。他莫能
+<lb ed="X" n="0628c16"/>尚。舊經四十卷譯拙辭繁。靈運削成言簡理直。開宗
+<lb ed="X" n="0628c17"/>判教五七八家。灌頂精詳互存得失。由是重參至理
+<lb ed="X" n="0628c18"/>註此玄文。惜乎陳隋兵亂疏未入經。彼此分張勢同
+<lb ed="X" n="0628c19"/>吳越。況復藏中久匿。學者&CB00458;窺。末世澆漓盡疲至道。
+<lb ed="X" n="0628c20"/>致使法眼&CB15167;垢佛日沉埋。哀哉痛哉。實傷心腑。故予
+<lb ed="X" n="0628c21"/>不揣愚庸而輒敢&CB00283;顰。欲會此經而發心有日。再三
+<lb ed="X" n="0628c22"/>披閱宗趣粗知。奈何旨奧文深。有倣郭象。錯綜前後
+<lb ed="X" n="0628c23"/>多苦亡羊。於是不懼闡提之罪。甘負謗法之愆。削繁
+<lb ed="X" n="0628c24"/>錄實。貴在貫通。罪歟福歟。並伸懺悔。</p>
+<pb ed="X" id="X37.0664.0629a" n="0629a"/>
+<lb ed="X" n="0629a01"/><p id="pX37p0629a0101" rend="margin-left:0em;text-indent:1em">時
+<lb ed="C X" n="0629a02"/>皇明萬曆歲次辛亥如來誕生日</p></div1>
+<lb ed="X" n="0629a03"/>
+<lb ed="X" n="0629a04"/>
+<lb ed="X" n="0629a05"/>
+<lb ed="X" n="0629a06"/><div1 type="other"><mulu type="其他" level="1" label="南本大般涅槃經五分圖　品題總目"/><head>南本大般涅槃經五分圖
+<lb ed="X" n="0629a07"/>　品題總目</head>
+<lb ed="X" n="0629a08"/><list><item id="itemX37p0629a0801">△初召請涅槃眾
+<lb ed="X" n="0629a09"/><list><item id="itemX37p0629a0901">序品第一　卷<note place="inline">之一</note></item></list></item>
+<lb ed="X" n="0629a10"/><item id="itemX37p0629a1001">△二開演涅槃施
+<lb ed="X" n="0629a11"/><list><item id="itemX37p0629a1101">純陀品第二<note place="inline">此品施常住五果對此土雜眾</note>　卷<note place="inline">之二</note></item>
+<lb ed="X" n="0629a12"/><item id="itemX37p0629a1201">哀歎品第三<note place="inline">此品施勝三修對此土聲聞眾</note></item>
+<lb ed="X" n="0629a13"/><item id="itemX37p0629a1301">長壽品第四<note place="inline">此品訖大眾問品隨問而施對此土菩薩眾</note>　卷<note place="inline">之三</note></item>
+<lb ed="X" n="0629a14"/><item id="itemX37p0629a1401">金剛身品第五</item>
+<lb ed="X" n="0629a15"/><item id="itemX37p0629a1501">名字功德品第六</item>
+<lb ed="X" n="0629a16"/><item id="itemX37p0629a1601">四相品第七　卷<note place="inline">四之五</note></item>
+<lb ed="X" n="0629a17"/><item id="itemX37p0629a1701">四依品第八　卷<note place="inline">之六</note></item>
+<lb ed="X" n="0629a18"/><item id="itemX37p0629a1801">邪正品第九　卷<note place="inline">之七</note></item>
+<lb ed="X" n="0629a19"/><item id="itemX37p0629a1901">四諦品第十</item>
+<lb ed="X" n="0629a20"/><item id="itemX37p0629a2001">四倒品第十一</item>
+<lb ed="X" n="0629a21"/><item id="itemX37p0629a2101">如來性品第十二　卷<note place="inline">之八</note></item>
+<lb ed="X" n="0629a22"/><item id="itemX37p0629a2201">文字品第十三</item>
+<lb ed="X" n="0629a23"/><item id="itemX37p0629a2301">鳥喻品第十四</item>
+<lb ed="X" n="0629a24"/><item id="itemX37p0629a2401">月喻品第十五　卷<note place="inline">之九</note></item>
+<pb ed="X" id="X37.0664.0629b" n="0629b"/>
+<lb ed="X" n="0629b01"/><item id="itemX37p0629b0101">菩薩品第十六</item>
+<lb ed="X" n="0629b02"/><item id="itemX37p0629b0201">大眾所問品第十七　卷<note place="inline">之十</note></item></list></item>
+<lb ed="X" n="0629b03"/><item id="itemX37p0629b0301">△三示現涅槃行
+<lb ed="X" n="0629b04"/><list><item id="itemX37p0629b0401">現病品第十八</item>
+<lb ed="X" n="0629b05"/><item id="itemX37p0629b0501">聖行品第十九　卷<note place="inline">十一之十三</note></item>
+<lb ed="X" n="0629b06"/><item id="itemX37p0629b0601">梵行品第二十<note place="inline">此品末指雜華經明天行</note>　卷<note place="inline">十四之十八</note></item>
+<lb ed="X" n="0629b07"/><item id="itemX37p0629b0701">嬰兒行品第二十一</item>
+<lb ed="X" n="0629b08"/><item id="itemX37p0629b0801">高貴德王品第二十二　卷<note place="inline">十九之二十四</note></item></list></item>
+<lb ed="X" n="0629b09"/><item id="itemX37p0629b0901">△四問答涅槃義
+<lb ed="X" n="0629b10"/><list><item id="itemX37p0629b1001">獅子吼品第二十三　卷<note place="inline">二十五之三十</note></item></list></item>
+<lb ed="X" n="0629b11"/><item id="itemX37p0629b1101">△五折攝涅槃用
+<lb ed="X" n="0629b12"/><list><item id="itemX37p0629b1201">迦葉菩薩品第二十四　卷<note place="inline">三十一之三十四</note></item>
+<lb ed="X" n="0629b13"/><item id="itemX37p0629b1301">憍陳如品第二十五　卷<note place="inline">三十五之三十六</note></item></list></item></list>
+<lb ed="X" n="0629b14"/><p id="pX37p0629b1401" rend="margin-left:1em">又四品半後時所至文分為二。</p>
+<lb ed="X" n="0629b15"/><list><item id="itemX37p0629b1501">○初折惡攝邪用
+<lb ed="X" n="0629b16"/><list><item id="itemX37p0629b1601">陳如品末至遺教還源二品半</item></list></item>
+<lb ed="X" n="0629b17"/><item id="itemX37p0629b1701">○二化周掩&CB00528;用
+<lb ed="X" n="0629b18"/><list><item id="itemX37p0629b1801">茶毗品至廓潤品</item></list></item></list></div1>
+<lb ed="X" n="0629b19"/>
+<lb ed="X" n="0629b20"/>
+<lb ed="X" n="0629b21"/>
+<lb ed="X" n="0629b22"/>
+<lb ed="X" n="0629b23"/>
+<lb ed="X" n="0629b24"/>
+<pb ed="X" id="X37.0664.0629c" n="0629c"/>
+<lb ed="X" n="0629c01"/>
+<lb ed="X" n="0629c02"/><div1 type="other"><mulu type="其他" level="1" label="南本大般涅槃經會疏解"/>
+<lb ed="X" n="0629c03"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead><note n="0629001" resp="Xuzangjing" place="foot text" type="orig">（涅槃經會疏(No. 659)，第36卷所收。&CB18834;）</note>南本大般涅槃經會疏解卷第一</jhead></juan>
+<lb ed="X" n="0629c04"/>
+<lb ed="X" n="0629c05"/><byline type="other">北天竺三藏法師曇無讖奉　詔譯</byline>
+<lb ed="X" n="0629c06"/><byline type="other">晉沙門慧嚴慧觀同謝靈運重治</byline>
+<lb ed="X" n="0629c07"/><byline type="other">隋灌頂法師疏　高足湛然再治</byline>
+<lb ed="X" n="0629c08"/><byline type="other">元傳天台教<app><lem wit="【CBETA】" resp="CBETA.maha">崇</lem><rdg wit="【卍續】">祟</rdg></app>聖院沙門師正分科</byline>
+<lb ed="X" n="0629c09"/><byline type="author">明會稽後學沙門湛然圓澄會疏註</byline>
+<lb ed="X" n="0629c10"/><byline type="other">嘉善沈豫昌　仁和張　顯同校</byline>
+<lb ed="X" n="0629c11"/>
+<lb ed="X" n="0629c12"/><p id="pX37p0629c1201" rend="margin-left:2em">卍云。此會疏解與大日本續藏經第五十六七
+<lb ed="X" n="0629c13"/>套所收重訂交科本無大差。仍單錄序&CB02494;而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。</p></div1>
+<lb ed="X" n="0629c14"/>
+<lb ed="X" n="0629c15"/><div1 type="xu"><mulu type="序" level="1" label="No. 664-B"/><head>No. 664-B</head>
+<lb ed="X" n="0629c16"/>
+<lb ed="X" n="0629c17"/><p id="pX37p0629c1701" rend="margin-left:1em"><note n="0629002" resp="Xuzangjing" place="foot text" type="orig">巳下十一行係會解者所添之文故存錄于此</note><note n="0629002" resp="CBETA" type="mod"><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>下十一行係會解者所添之文故存錄于此</note>今北本<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>具有四品半。謂是後分陳如末品具載
+<lb ed="X" n="0629c18"/>須&CB02494;然身報本之意。有遺教品還源品茶毗品廓
+<lb ed="X" n="0629c19"/>潤品。與居士請僧經品目不同。意實一貫也。<note place="inline">澄</note>不
+<lb ed="X" n="0629c20"/>揣<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>德。妄意會入。倘有&CB00386;脫之謬。三寶慈悲懺悔。
+<lb ed="X" n="0629c21"/>將此微因。上祝
+<lb ed="C X" n="0629c22"/>聖皇福壽萬延。下禱黎民菩提共證。生生藉此為
+<lb ed="X" n="0629c23"/>法船。不登覺岸誓不捨離。世世持以為寶鑑。未出
+<lb ed="X" n="0629c24"/>魔罥。願長相保。現生父母與曠劫父母同悟一乘
+<pb ed="X" id="X37.0664.0630a" n="0630a"/>
+<lb ed="X" n="0630a01"/>之佛性。積生冤親及法界冤親共持六念。以勳修
+<lb ed="X" n="0630a02"/>五行。堅持十德。圓備眾生界盡。方取菩提。地獄未
+<lb ed="X" n="0630a03"/>空。誓不成佛。</p></div1>
+<lb ed="X" n="0630a04"/>
+<lb ed="X" n="0630a05"/><div1 type="xu"><mulu type="序" level="1" label="No. 664-C"/><head>No. 664-C</head>
+<lb ed="X" n="0630a06"/>
+<lb ed="X" n="0630a07"/><p id="pX37p0630a0701">比丘圓澄廣山真密明宗通達清朗
+<lb ed="C X" n="0630a08"/>會首沈豫昌葉明琪張顯成廣易沈大雲盧明淳
+<lb ed="X" n="0630a09"/>朱廣蕃沈明潮俞明濡沈明瀚信女大霽杭州
+<lb ed="X" n="0630a10"/>鄒門信女廣奇洎眾姓等。發心刊此大涅槃經
+<lb ed="X" n="0630a11"/>疏一部。伏願在會眾等。承此功德。積生父母各途超
+<lb ed="X" n="0630a12"/>昇。歷劫冤親俱蒙解脫。大涅槃日爍破昏衢。秘密義
+<lb ed="X" n="0630a13"/>天普含法界。六念三修世世熏聞。五行十德在在成
+<lb ed="X" n="0630a14"/>就。共證圓滿菩提。各受最後付囑。龍華三會初會相
+<lb ed="X" n="0630a15"/>逢淨土九品上品授記者。謹疏。</p>
+<lb ed="X" n="0630a16"/><p id="pX37p0630a1601" rend="margin-left:2em">劉廣盤呂鳴治吳孝延嚴大參沈國彥沈憲
+<lb ed="C X" n="0630a17"/>朱常新胡奕訓沈兆槐曾慶芳沈受祉沈受祺</p></div1>
+<lb ed="X" n="0630a18"/>
+<lb ed="X" n="0630a19"/>
+<lb ed="X" n="0630a20"/>
+<lb ed="X" n="0630a21"/>
+<lb ed="X" n="0630a22"/>
+<lb ed="X" n="0630a23"/>
+<lb ed="X" n="0630a24"/>
+<pb ed="X" id="X37.0664.0630b" n="0630b"/>
+<lb ed="X" n="0630b01"/>
+<lb ed="X" n="0630b02"/><div1 type="xu"><mulu type="序" level="1" label="No. 664-D"/><head>No. 664-D</head>
+<lb ed="X" n="0630b03"/>
+<lb ed="X" n="0630b04"/><p id="pX37p0630b0401">壬寅中秋。湛大師自會稽過。訪見予。案頭有南藏涅
+<lb ed="X" n="0630b05"/>槃經疏。問曰居士從何處得來。予曰。從殘書中檢出。
+<lb ed="X" n="0630b06"/>乃先世所遺。師喟然嘆曰。此疏昔灌頂老人當隋陳
+<lb ed="X" n="0630b07"/>之亂。拾糊&CB00275;紙錄疏。艱辛萬狀。上首湛然欲會經而
+<lb ed="X" n="0630b08"/>不遂。埋&CB00230;藏中幾千年。學者罕得寓目。我將分疏會
+<lb ed="X" n="0630b09"/>入經文。有願而未逮。如果居士為我流通。予唯唯。越
+<lb ed="X" n="0630b10"/>十有三載。乙卯孟冬。師來我郡。說法於福城東塔。暇
+<lb ed="X" n="0630b11"/>日相見於麟水之&CB15147;。師曰。涅槃疏會成矣。出稿相示。
+<lb ed="X" n="0630b12"/>且云。幾為病魔所沮。向佛悲哀者累日。願延殘喘。以
+<lb ed="X" n="0630b13"/>畢此願。亡何病愈。廣延書家。焚膏繼&CB15092;。又數月而始
+<lb ed="X" n="0630b14"/>成。居士不忘前諾乎。予曰。古德未了之案。得師不惜
+<lb ed="X" n="0630b15"/>身命。以利樂有情。敢食前諾。遂於臘月八日。紏工授
+<lb ed="X" n="0630b16"/>梓。幸賴同志。樂助竣事。於丁巳秋。謹識其緣起歲月
+<lb ed="X" n="0630b17"/>云爾。</p><p id="pX37p0630b1703" place="inline" rend="margin-left:4em">丁巳孟冬朔日武塘沈豫昌識</p></div1>
+<lb ed="X" n="0630b18"/>
+<lb ed="X" n="0630b19"/>
+<lb ed="X" n="0630b20"/>
+<lb ed="X" n="0630b21"/>
+<lb ed="X" n="0630b22"/>
+<lb ed="X" n="0630b23"/>
+<lb ed="X" n="0630b24"/>
+<pb ed="X" id="X37.0664.0630c" n="0630c"/>
+<lb ed="X" n="0630c01"/>
+<lb ed="X" n="0630c02"/><div1 type="xu"><mulu type="序" level="1" label="No. 664-E"/><head>No. 664-E</head>
+<lb ed="X" n="0630c03"/>
+<lb ed="X" n="0630c04"/><p id="pX37p0630c0401">琪本名祺胤。自幼知崇三寶。丁巳春。會湛大師講楞
+<lb ed="X" n="0630c05"/>嚴經於福城東塔。日往聽焉。遂皈依大師。得錫今法
+<lb ed="X" n="0630c06"/>名。先是涅槃會疏付刻流通。功繁貲儉。師甚憂之。琪
+<lb ed="X" n="0630c07"/>遂有幹蠱之思。不覺悲淚。是夕得一夢。夢大師上堂
+<lb ed="X" n="0630c08"/>前設一大浴槃。大師體沾泥。從槃沐浴而出。頭長躍
+<lb ed="X" n="0630c09"/>尺。琪自視兩足沾泥。次第亦入浴。便覺。覺而占之。數
+<lb ed="X" n="0630c10"/>然自喜曰。夜來所夢分明。其象為涅槃。師弘大法。固
+<lb ed="X" n="0630c11"/>宜頭長數尺。而琪亦濯足。當是收功於後之兆。是夕
+<lb ed="X" n="0630c12"/>四月初四也。遂發心代募。得門下弟張顯慨助四十
+<lb ed="X" n="0630c13"/>金。而相繼助者有差。兼程告竣。于七月終旬。計夢之
+<lb ed="X" n="0630c14"/>夜迄工之竣。僅一百二十日。因紀其事如此。以見法
+<lb ed="X" n="0630c15"/>之流通。非偶然也。檀越姓名初議不必刻。以善信發
+<lb ed="X" n="0630c16"/>心。龍天洞鑒。但世間法恐有昧因果者。故琪所募一
+<lb ed="X" n="0630c17"/>一備書。師講法華經於海鹽。偷兒竊其侍者兩匣去。
+<lb ed="X" n="0630c18"/>中多募票。因而失所或不得登名經尾。惟護法韋&CB00501;
+<lb ed="X" n="0630c19"/>證之。實無他也。後零搜得姓名若干。因附于左。</p>
+<lb ed="X" n="0630c20"/><p id="pX37p0630c2001" rend="margin-left:13em">弟子明琪識</p></div1>
+<lb ed="X" n="0630c21"/>
+<lb ed="X" n="0630c22"/>
+<lb ed="X" n="0630c23"/>
+<lb ed="X" n="0630c24"/>
+<pb ed="X" id="X37.0664.0631a" n="0631a"/>
+<lb ed="X" n="0631a01"/>
+<lb ed="X" n="0631a02"/><div1 type="w"><p id="pX37p0631a0201"><note n="0631001" resp="Xuzangjing" place="foot text" type="orig">（閱經上二種第十二(No. 674-72)，第37卷所收。&CB18834;）</note>涅槃經末後句<note place="inline">一卷</note></p>
+<lb ed="X" n="0631a03"/>
+<lb ed="X" n="0631a04"/><byline type="author">清　淨挺　著</byline>
+<lb ed="X" n="0631a05"/><p id="pX37p0631a0501" rend="margin-left:2em">卍云。收于閱經十二種第十二。故省于此。</p></div1>
+</body></text></TEI.2>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X02n0182.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 182 正了知王藥叉眷屬法</title>
+			<author>唐 義淨譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.3 $ (Big5)<date>$Date: 2009/04/22 08:48:36 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:48:36 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 02, No. 182 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/10/03 16:20:54</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X02n0182.xml,v $
+Revision 1.3  2009/04/22 08:48:36  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.2  2007/05/30 10:58:36  eva
+modified: 校注作業
+
+Revision 1.1  2005/10/03 08:40:34  ray
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X02.0182.0839a" n="0839a"/>
+<lb ed="X" n="0839a01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0839a02"/><head type="no">No. 182</head>
+<lb ed="X" n="0839a03"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>正了知王藥叉眷屬法</jhead></juan>
+<lb ed="X" n="0839a04"/>
+<lb ed="X" n="0839a05"/><byline type="translator">三藏法師義淨奉制　譯</byline>
+<lb ed="X" n="0839a06"/><div1><p id="pX02p0839a0601">僧慎爾耶此云正了知此正了知王有二十八藥叉
+<lb ed="X" n="0839a07"/>大將佛告阿難陀言此二十八部藥叉現大自在神
+<lb ed="X" n="0839a08"/>通威德能於十方世界覆護一切眾生為除衰患厄
+<lb ed="X" n="0839a09"/>難之事有四藥叉大將住在東面擁護東方所有眾
+<lb ed="X" n="0839a10"/>生令離憂苦其名曰。</p>
+<lb ed="X" n="0839a11"/><list><item id="itemX02p0839a1101">地嘌伽<note place="inline">長大</note></item><item id="itemX02p0839a1106">蘇<note n="0839001" resp="Xuzangjing" place="foot text" type="orig">泥異作爾</note>泥怛羅<note place="inline">妙目</note></item><item id="itemX02p0839a1112">晡&CB02976;拏<note place="inline">圓滿</note></item><item id="itemX02p0839a1117">&CB00230;畢羅<note place="inline">黃色</note></item></list><p id="pX02p0839a1122" place="inline">唱<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>說
+<lb ed="X" n="0839a12"/>所求事<note place="inline">下准此</note>。</p>
+<lb ed="X" n="0839a13"/><p id="pX02p0839a1301">阿難陀有四藥叉大將住在南面擁護南方所有眾
+<lb ed="X" n="0839a14"/>生令離憂苦其名曰。</p>
+<lb ed="X" n="0839a15"/><list><item id="itemX02p0839a1501">僧訶<note place="inline">師子</note></item><item id="itemX02p0839a1505">鄔波僧訶<note place="inline">小師子</note></item><item id="itemX02p0839a1512">商企羅<note place="inline">螺</note></item><item id="itemX02p0839a1516">旃憚那<note place="inline">栴檀</note></item></list>
+<lb ed="X" n="0839a16"/><p id="pX02p0839a1601">復阿難陀有四藥叉大將住在西面擁護西方所有
+<lb ed="X" n="0839a17"/>眾生令離憂苦其名曰。</p>
+<lb ed="X" n="0839a18"/><list><item id="itemX02p0839a1801">&CB01231;里<note place="inline">師子</note></item><item id="itemX02p0839a1805">&CB03550;里雞舍<note place="inline">師子髮</note></item><item id="itemX02p0839a1812">&CB00425;喇部<note place="inline">自在</note></item><item id="itemX02p0839a1817">&CB00457;伽羅<note place="inline">青色</note></item></list>
+<lb ed="X" n="0839a19"/><p id="pX02p0839a1901">復阿難陀有四藥叉大將住在北面擁護北方所有
+<lb ed="X" n="0839a20"/>眾生令離憂苦其名曰。</p>
+<lb ed="X" n="0839a21"/><list><item id="itemX02p0839a2101">違喇拏<note place="inline">能持</note></item><item id="itemX02p0839a2106">違喇難陀<note place="inline">持喜</note></item><item id="itemX02p0839a2112">嗢猶伽波羅<note place="inline">勇進勤護</note></item><item id="itemX02p0839a2121">吠率奴<note place="inline">天名</note></item></list>
+<lb ed="X" n="0839a22"/><p id="pX02p0839a2201">復阿難陀有四藥叉大將各住四維擁護四維所有
+<lb ed="X" n="0839a23"/>眾生令離憂苦其名曰。</p>
+<lb ed="X" n="0839a24"/><list><item id="itemX02p0839a2401">半支迦<note place="inline">有五</note></item><item id="itemX02p0839a2406">般遮羅健荼<note place="inline">五處</note></item><item id="itemX02p0839a2413">娑跢祇利<note place="inline">平山</note></item><item id="itemX02p0839a2419">&CB03454;摩&CB02494;多<note place="inline">雪山</note></item></list>
+<pb ed="X" id="X02.0182.0839b" n="0839b"/>
+<lb ed="X" n="0839b01"/><p id="pX02p0839b0101">復次阿難陀有四藥叉大將住在地上擁護所有地
+<lb ed="X" n="0839b02"/>居眾生令離憂苦其名曰。</p>
+<lb ed="X" n="0839b03"/><list><item id="itemX02p0839b0301">部摩<note place="inline">地</note></item><item id="itemX02p0839b0304">蘇部摩<note place="inline">妙地</note></item><item id="itemX02p0839b0309">哥羅<note place="inline">黑</note></item><item id="itemX02p0839b0312">鄔波哥羅<note place="inline">小黑</note></item></list>
+<lb ed="X" n="0839b04"/><p id="pX02p0839b0401">復次阿難陀有四藥叉大將住在空中擁護所有空
+<lb ed="X" n="0839b05"/>居眾生令離憂苦其名曰。</p>
+<lb ed="X" n="0839b06"/><list><item id="itemX02p0839b0601">蘇利耶<note place="inline">日神</note></item><item id="itemX02p0839b0606">蘇摩<note place="inline">月神</note></item><item id="itemX02p0839b0610">惡祁尼<note place="inline">火神</note></item><item id="itemX02p0839b0615">婆庾<note place="inline">風神</note></item></list>
+<lb ed="X" n="0839b07"/><p id="pX02p0839b0701">佛言此鎮護法如說唱其名號守護八方上下利安
+<lb ed="X" n="0839b08"/>一切眾生其藥叉利生相無量無邊略說少分佛說
+<lb ed="X" n="0839b09"/>此法<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>若召請之時名字之終加速來句不越本誓
+<lb ed="X" n="0839b10"/>必垂來影印尋之。</p>
+<lb ed="X" n="0839b11"/>
+<lb ed="X" n="0839b12"/><juan fun="close" n="1"><jhead>正了知王藥叉眷屬法</jhead></juan>
+<lb ed="X" n="0839b13"/>
+<lb ed="X" n="0839b14"/><div2 type="w"><p id="pX02p0839b1401">孔&CB15179;明王經云蘇師奴藥叉住那羯羅國<note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上</note>
+<lb ed="X" n="0839b15"/>師曰蘇師奴此云正了知亦云妙了知<note place="inline">云云</note>。</p></div2></div1>
+</body></text></TEI.2>

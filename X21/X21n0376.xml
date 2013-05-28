@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X21n0376.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+<!ENTITY FigX21p0563_01 SYSTEM "figures/X21p0563_01.gif" NDATA GIF>
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 376 盂蘭盆經疏鈔餘義</title>
+			<author>宋 日新錄</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.6 $ (Big5)<date>$Date: 2010/10/25 08:39:24 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2010/10/25 08:39:24 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 21, No. 376 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2006/06/30 11:17:06</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X21n0376.xml,v $
+Revision 1.6  2010/10/25 08:39:24  amtbgrace
+modified: 圖檔檔名修改
+
+Revision 1.5  2009/04/22 08:53:14  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.4  2008/07/29 07:17:31  amtbgrace
+modified:[通用字] 經文修訂 [[冠-寸+文]>[冠-寸+ㄆ]]
+
+Revision 1.3  2007/07/06 03:34:53  eva
+modified: 校注作業完成
+
+Revision 1.2  2006/09/07 04:59:17  amtbgrace
+modified:  [經文修訂] [盂>孟]子
+
+Revision 1.1  2006/06/30 03:24:09  ray
+basicx 程式 轉自 簡單標記版
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X21.0376.0558a" n="0558a"/>
+<lb ed="X" n="0558a01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0558a02"/>
+<lb ed="X" n="0558a03"/><head type="no">No. 376</head>
+<lb ed="X" n="0558a04"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>蘭盆疏鈔餘義<note place="inline">并序</note></jhead></juan>
+<lb ed="X" n="0558a05"/><byline type="other">門人霅谿普靜寺賜紫　日新　隨聽次錄</byline>
+<lb ed="X" n="0558a06"/><div1><p id="pX21p0558a0601">餘之為義大抵明乎疏鈔之援引音義之異同誘諸
+<lb ed="X" n="0558a07"/>來裔識其指歸也嘗考昔人以會粹略隨難解<note place="inline">普寧律師
+<lb ed="X" n="0558a08"/>會粹記明義大師隨難解</note>用名義廣拾遺圖<note place="inline">淨覺大師述名義金山闍梨拾遺圖</note>交
+<lb ed="X" n="0558a09"/>互其說不可悉數然其間義有可取者亦取之而但
+<lb ed="X" n="0558a10"/>直節其辭意耳雖章句不完亦前載之餘故總命題
+<lb ed="X" n="0558a11"/>曰蘭盆疏鈔餘義焉時熙寧元年歲次戊申六月望
+<lb ed="X" n="0558a12"/>日啟講七月十有二日徹廗因而再刊又為之序云。</p>
+<lb ed="X" n="0558a13"/><entry><form>注并序</form><def><p id="pX21p0558a1304" place="inline" rend="margin-left:1em">敘述鈔家之得失及摭華之興起也若然
+<lb ed="X" n="0558a14"/>則序文一道亦分兩節先序鈔得失從初文至難
+<lb ed="X" n="0558a15"/>能是也後序鈔興起從斯疏下至序終。</p></def></entry>
+<lb ed="X" n="0558a16"/><entry><form>錢塘</form><def><p id="pX21p0558a1603" place="inline" rend="margin-left:1em">即古之餘杭郡至唐改為杭州錢塘記云昔
+<lb ed="X" n="0558a17"/>郡功曹華德信立此塘以防海水始開募有能致
+<lb ed="X" n="0558a18"/>土石一斛與一千旬日之間來者雲集塘未成譎
+<lb ed="X" n="0558a19"/>不復取皆棄土而去塘以遂成焉。</p></def></entry>
+<lb ed="X" n="0558a20"/><entry><form>知圓</form><def><p id="pX21p0558a2003" place="inline" rend="margin-left:1em">字無外號中庸子俗姓徐氏錢塘人受業於
+<lb ed="X" n="0558a21"/>本州淨住院學台教於奉先源清法師撰疏十本
+<lb ed="X" n="0558a22"/>以通十經著閑居編六十卷其講道訓人備如集
+<lb ed="X" n="0558a23"/>賢吳遵路撰行狀&CB15156;云。</p></def></entry>
+<lb ed="X" n="0558a24"/><entry><form>晉水</form><def><p id="pX21p0558a2403" place="inline" rend="margin-left:1em">即泉郡水名以泉江之水接于溫江有似篆
+<pb ed="X" id="X21.0376.0558b" n="0558b"/>
+<lb ed="X" n="0558b01"/>書晉字之形故縣名晉江水名晉水具如閩王傳
+<lb ed="X" n="0558b02"/>云。</p></def></entry>
+<lb ed="X" n="0558b03"/><entry><form>淨源</form><def><p id="pX21p0558b0303" place="inline" rend="margin-left:1em">字伯長號潛叟族揚氏泉南人闢帝心觀門
+<lb ed="X" n="0558b04"/>三車立賢首華梵七祖製義學文藪箋經註論具
+<lb ed="X" n="0558b05"/>如出家稟學傳唯此略傳日新出之。</p></def></entry>
+<lb ed="X" n="0558b06"/><entry><form>刪科重刊</form><def><p id="pX21p0558b0605" place="inline" rend="margin-left:1em">有二意一刪削科文重刊印板二刊正
+<lb ed="X" n="0558b07"/>鈔文歸敬三寶等文。</p></def></entry>
+<lb ed="X" n="0558b08"/><entry><form>記鈔</form><def><p id="pX21p0558b0803" place="inline" rend="margin-left:1em">記即鈔也如演義鈔解華嚴疏筆削記釋起
+<lb ed="X" n="0558b09"/>信疏亦猶孔&CB00002;達之有正義以解五經之注文非
+<lb ed="X" n="0558b10"/>謂記廣鈔略耳。</p></def></entry>
+<lb ed="X" n="0558b11"/><entry><form>既瀆且壅</form><def><p id="pX21p0558b1105" place="inline" rend="margin-left:1em">既<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>瀆亂且兼壅滯。</p></def></entry><entry place="inline"><form>曹</form><def><p id="pX21p0558b1114" place="inline" rend="margin-left:1em">輩也。</p></def></entry>
+<lb ed="X" n="0558b12"/><entry><form>無所錯手足</form><def><p id="pX21p0558b1206" place="inline" rend="margin-left:1em">錯置也論語云刑罰不中則無所錯
+<lb ed="X" n="0558b13"/>手足今謂鈔文有煩略之失則學者雖手披玩習
+<lb ed="X" n="0558b14"/>而行之不遠故云無所錯手足矣。</p></def></entry>
+<lb ed="X" n="0558b15"/><entry><form>為難能也</form><def><p id="pX21p0558b1505" place="inline" rend="margin-left:1em">論語子游謂吾友張也為難能也包氏
+<lb ed="X" n="0558b16"/>注曰言子張容儀難及也。</p></def></entry>
+<lb ed="X" n="0558b17"/><entry><form>傳奧法師</form><def><p id="pX21p0558b1705" place="inline" rend="margin-left:1em">姓韓氏并州祈縣人先業儒夙&CB00573;預鄉
+<lb ed="X" n="0558b18"/>薦遇定惠禪師上足潛輝闍梨剃髮受道然其內
+<lb ed="X" n="0558b19"/>外典籍皆有章句備如本傳云。</p></def></entry>
+<lb ed="X" n="0558b20"/><entry><form>法師</form><def><p id="pX21p0558b2003" place="inline" rend="margin-left:1em">&CB00397;通教法軌物為師出婆婆論。</p></def></entry>
+<lb ed="X" n="0558b21"/><entry><form>庸</form><def><p id="pX21p0558b2102" place="inline" rend="margin-left:1em">常也。</p></def></entry><entry place="inline"><form>馴</form><def><p id="pX21p0558b2105" place="inline" rend="margin-left:1em">巡音順也。</p></def></entry>
+<lb ed="X" n="0558b22"/><entry><form>不撥荒蕪</form><def><p id="pX21p0558b2205" place="inline" rend="margin-left:1em">撥度也不度荒唐蓁蕪耳。</p></def></entry>
+<lb ed="X" n="0558b23"/><entry><form>輒事筆削</form><def><p id="pX21p0558b2305" place="inline" rend="margin-left:1em">輒專也是者筆而存之非者削而去之。</p></def></entry>
+<lb ed="X" n="0558b24"/><entry><form>播遷其文</form><def><p id="pX21p0558b2405" place="inline" rend="margin-left:1em">播遷刪去也文煩則刪之對上削字。</p></def></entry>
+<pb ed="X" id="X21.0376.0558c" n="0558c"/>
+<lb ed="X" n="0558c01"/><entry><form>彌縫其闕</form><def><p id="pX21p0558c0105" place="inline" rend="margin-left:1em">彌縫補緝也闕略則補之對上筆字。</p></def></entry>
+<lb ed="X" n="0558c02"/><entry><form>傳諸童蒙</form><def><p id="pX21p0558c0205" place="inline" rend="margin-left:1em">諸之童幼蒙昧也周易云童蒙求我。</p></def></entry>
+<lb ed="X" n="0558c03"/><entry><form>頗</form><def><p id="pX21p0558c0302" place="inline" rend="margin-left:1em">甚也。</p></def></entry>
+<lb ed="X" n="0558c04"/><entry><form><app><lem wit="【CBETA】" resp="CBETA.maha">采</lem><rdg wit="【卍續】">釆</rdg></app>摭英華</form><def><p id="pX21p0558c0405" place="inline" rend="margin-left:1em">劉勰云捃摭英華班固云英華外發。</p></def></entry>
+<lb ed="X" n="0558c05"/><entry><form>庶</form><def><p id="pX21p0558c0502" place="inline" rend="margin-left:1em">近也。</p></def></entry><entry place="inline"><form>中庸之義</form><def><p id="pX21p0558c0508" place="inline" rend="margin-left:1em">言不煩不略也。</p></def></entry>
+<lb ed="X" n="0558c06"/><entry><form>才識不敏</form><def><p id="pX21p0558c0605" place="inline" rend="margin-left:1em">才藻識智不敏疾也雖言才識學在其
+<lb ed="X" n="0558c07"/>中。</p></def></entry>
+<lb ed="X" n="0558c08"/><entry><form>短於自見</form><def><p id="pX21p0558c0805" place="inline" rend="margin-left:1em">短淺之能仍出自見。</p></def></entry><entry place="inline"><form>冀</form><def><p id="pX21p0558c0814" place="inline" rend="margin-left:1em">望也。</p></def></entry>
+<lb ed="X" n="0558c09"/><entry><form>後之病今</form><def><p id="pX21p0558c0905" place="inline" rend="margin-left:1em">後人病摭華之是非。</p></def></entry>
+<lb ed="X" n="0558c10"/><entry><form>亦猶今之視昔</form><def><p id="pX21p0558c1007" place="inline" rend="margin-left:1em">亦如無外視奧師之得失上之二
+<lb ed="X" n="0558c11"/>句語勢出史記彼文云今之病秦亦猶秦之視昔。</p></def></entry>
+<lb ed="X" n="0558c12"/><entry><form>皇宋</form><def><p id="pX21p0558c1203" place="inline" rend="margin-left:1em">皇大也宋古商丘也周武王勝紂封商之後
+<lb ed="X" n="0558c13"/>以微子受封於此以為宋國太祖皇帝受周之封
+<lb ed="X" n="0558c14"/>由此飛龍故以受封興王之地為有天下之號亦
+<lb ed="X" n="0558c15"/>猶唐高祖受隋之命封唐國升帝因號大唐國也。</p></def></entry>
+<lb ed="X" n="0558c16"/><entry><form>三葉</form><def><p id="pX21p0558c1603" place="inline" rend="margin-left:1em">太祖太宗真宗如玉葉聯芳也。</p></def></entry>
+<lb ed="X" n="0558c17"/><entry><form>聖駕</form><def><p id="pX21p0558c1703" place="inline" rend="margin-left:1em">真宗法駕。</p></def></entry>
+<lb ed="X" n="0558c18"/><entry><form>祀汾陰</form><def><p id="pX21p0558c1804" place="inline" rend="margin-left:1em">漢武祀后土始立祀汾陰在水之南曰陰。</p></def></entry>
+<lb ed="X" n="0558c19"/><entry><form>之明年</form><def><p id="pX21p0558c1904" place="inline" rend="margin-left:1em">當辛亥年。</p></def></entry>
+<lb ed="X" n="0558c20"/><entry><form>歲次</form><def><p id="pX21p0558c2003" place="inline" rend="margin-left:1em">歲星也每年行一次。</p></def></entry>
+<lb ed="X" n="0558c21"/><entry><form>六釋</form><def><p id="pX21p0558c2103" place="inline" rend="margin-left:1em">唐三藏云持業依主與有財相違鄰近并帶
+<lb ed="X" n="0558c22"/>數此六名為離合釋取合應知離不成此法相之
+<lb ed="X" n="0558c23"/>學慎勿臆說。</p></def></entry>
+<lb ed="X" n="0558c24"/><entry><form>依主受稱</form><def><p id="pX21p0558c2405" place="inline" rend="margin-left:1em">經勝疏劣如臣依君故云依主稱去聲。</p></def></entry>
+<pb ed="X" id="X21.0376.0559a" n="0559a"/>
+<lb ed="X" n="0559a01"/><entry><form>文心雕龍</form><def><p id="pX21p0559a0105" place="inline" rend="margin-left:1em">劉勰撰十卷言為文用心也大學謂之
+<lb ed="X" n="0559a02"/>雕龍小學謂之雕蟲。</p></def></entry>
+<lb ed="X" n="0559a03"/><entry><form>疏者布也</form><def><p id="pX21p0559a0305" place="inline" rend="margin-left:1em">彼明臣下上天子書曰疏。</p></def></entry>
+<lb ed="X" n="0559a04"/><entry><form>撮題近意</form><def><p id="pX21p0559a0405" place="inline" rend="margin-left:1em">額中曰題撮取經文中遠之旨以疏近
+<lb ed="X" n="0559a05"/>意通之揚雄曰聖人之言遠如天賢者之言近如
+<lb ed="X" n="0559a06"/>地。</p></def></entry>
+<lb ed="X" n="0559a07"/><entry><form>漢靈帝</form><def><p id="pX21p0559a0704" place="inline" rend="margin-left:1em">後漢第十一主諱宏。</p></def></entry>
+<lb ed="X" n="0559a08"/><entry><form>應劭注漢</form><def><p id="pX21p0559a0805" place="inline" rend="margin-left:1em">漢書班固所撰應劭等集解顏師古又
+<lb ed="X" n="0559a09"/>注之也。</p></def></entry>
+<lb ed="X" n="0559a10"/><entry><form>故廬子國</form><def><p id="pX21p0559a1005" place="inline" rend="margin-left:1em">故舊也子爵號。</p></def></entry>
+<lb ed="X" n="0559a11"/><entry><form>其事例然</form><def><p id="pX21p0559a1105" place="inline" rend="margin-left:1em">以南充郡例廬江郡以充國例廬國古
+<lb ed="X" n="0559a12"/>之國即今之州古之附庸即今之縣也。</p></def></entry>
+<lb ed="X" n="0559a13"/><entry><form>名諱</form><def><p id="pX21p0559a1303" place="inline" rend="margin-left:1em">諱避也生有名死避之。</p></def></entry>
+<lb ed="X" n="0559a14"/><entry><form>建中</form><def><p id="pX21p0559a1403" place="inline" rend="margin-left:1em">德宗年號。</p></def></entry><entry place="inline"><form>會昌</form><def><p id="pX21p0559a1409" place="inline" rend="margin-left:1em">武宗年號。</p></def></entry>
+<lb ed="X" n="0559a15"/><entry><form>僧臘</form><def><p id="pX21p0559a1503" place="inline" rend="margin-left:1em">儒禮取一歲之終為臘釋教但一夏之終為
+<lb ed="X" n="0559a16"/>臘。</p></def></entry>
+<lb ed="X" n="0559a17"/><entry><form>追<app><lem wit="【CBETA】" resp="CBETA.maha">諡</lem><rdg wit="【卍續】">謚</rdg></app></form><def><p id="pX21p0559a1703" place="inline" rend="margin-left:1em">隔朝曰追<app><lem wit="【CBETA】" resp="CBETA.maha">諡</lem><rdg wit="【卍續】">謚</rdg></app>易名也<app><lem wit="【CBETA】" resp="CBETA.maha">諡</lem><rdg wit="【卍續】">謚</rdg></app>示也亦生平善惡之
+<lb ed="X" n="0559a18"/>行。</p></def></entry>
+<lb ed="X" n="0559a19"/><entry><form>平居</form><def><p id="pX21p0559a1903" place="inline" rend="margin-left:1em">平昔所居。</p></def></entry>
+<lb ed="X" n="0559a20"/><entry><form>終南圭&CB00123;</form><def><p id="pX21p0559a2005" place="inline" rend="margin-left:1em">如助脩記辨之。</p></def></entry>
+<lb ed="X" n="0559a21"/><entry><form>作者曰聖等</form><def><p id="pX21p0559a2106" place="inline" rend="margin-left:1em">文出樂記摭華依劉勰引文耳。</p></def></entry>
+<lb ed="X" n="0559a22"/><entry><form>若聖下</form><def><p id="pX21p0559a2204" place="inline" rend="margin-left:1em">文出論語。</p></def></entry>
+<lb ed="X" n="0559a23"/><entry><form>竊比於我老彭</form><def><p id="pX21p0559a2307" place="inline" rend="margin-left:1em">包曰老彭殷賢大夫好述古事我
+<lb ed="X" n="0559a24"/>若老彭但述之耳。</p></def></entry>
+<pb ed="X" id="X21.0376.0559b" n="0559b"/>
+<lb ed="X" n="0559b01"/><entry><form>錄疏注經</form><def><p id="pX21p0559b0105" place="inline" rend="margin-left:1em">昔吾稟以清&CB00289;本疏箋于華嚴今又錄
+<lb ed="X" n="0559b02"/>圭&CB00123;疏箋注于此經者蓋遵一家注辭皆附于經
+<lb ed="X" n="0559b03"/>論觀法之下夫然則不獨使其學者臨文到旨抑
+<lb ed="X" n="0559b04"/>亦安置教藏倫例有緒與。</p></def></entry>
+<lb ed="X" n="0559b05"/><entry><form>白虎通</form><def><p id="pX21p0559b0504" place="inline" rend="margin-left:1em">後漢孝章帝於白虎殿會群儒講論五經
+<lb ed="X" n="0559b06"/>同異所作也班固字子堅奉詔纂其事奏凡十卷。</p></def></entry>
+<lb ed="X" n="0559b07"/><entry><form>太初</form><def><p id="pX21p0559b0703" place="inline" rend="margin-left:1em">元氣始萌。</p></def></entry><entry place="inline"><form>太始</form><def><p id="pX21p0559b0709" place="inline" rend="margin-left:1em">形氣始端。</p></def></entry>
+<lb ed="X" n="0559b08"/><entry><form>太素</form><def><p id="pX21p0559b0803" place="inline" rend="margin-left:1em">質之始也廣明有五略辨則三或謂摭華誤
+<lb ed="X" n="0559b09"/>者淺識狂言何足信哉。</p></def></entry>
+<lb ed="X" n="0559b10"/><entry><form>清濁既分</form><def><p id="pX21p0559b1005" place="inline" rend="margin-left:1em">徐整曰陽清為天陰濁為地。</p></def></entry>
+<lb ed="X" n="0559b11"/><entry><form>精出曜布</form><def><p id="pX21p0559b1105" place="inline" rend="margin-left:1em">日月為太陽太陰之精曜謂星曜即五
+<lb ed="X" n="0559b12"/>星二十八宿等。</p></def></entry>
+<lb ed="X" n="0559b13"/><entry><form>度物施生</form><def><p id="pX21p0559b1305" place="inline" rend="margin-left:1em">度待洛切施去聲謂品度萬物施與生
+<lb ed="X" n="0559b14"/>長。</p></def></entry>
+<lb ed="X" n="0559b15"/><entry><form>適今</form><def><p id="pX21p0559b1503" place="inline" rend="margin-left:1em">適猶近也。</p></def></entry>
+<lb ed="X" n="0559b16"/><entry><form>天之經</form><def><p id="pX21p0559b1604" place="inline" rend="margin-left:1em">經常也天有常明。</p></def></entry>
+<lb ed="X" n="0559b17"/><entry><form>地之義</form><def><p id="pX21p0559b1704" place="inline" rend="margin-left:1em">義利也地有常利。</p></def></entry>
+<lb ed="X" n="0559b18"/><entry><form>援神契</form><def><p id="pX21p0559b1804" place="inline" rend="margin-left:1em">宋均注援引神明契合之事。</p></def></entry>
+<lb ed="X" n="0559b19"/><entry><form>有情則識神無始</form><def><p id="pX21p0559b1908" place="inline" rend="margin-left:1em">言賴耶識中<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>具孝矣。</p></def></entry>
+<lb ed="X" n="0559b20"/><entry><form>器世則成壞相摩</form><def><p id="pX21p0559b2008" place="inline" rend="margin-left:1em">摩滅也器界成而復壞故云相
+<lb ed="X" n="0559b21"/>摩。</p></def></entry>
+<lb ed="X" n="0559b22"/><entry><form>懷任交易</form><def><p id="pX21p0559b2205" place="inline" rend="margin-left:1em">言地能懷藏任持萬物交更遷易也。</p></def></entry>
+<lb ed="X" n="0559b23"/><entry><form>祭義</form><def><p id="pX21p0559b2303" place="inline" rend="margin-left:1em">禮記篇名記其祭祀薦羞之義。</p></def></entry>
+<lb ed="X" n="0559b24"/><entry><form>曾子</form><def><p id="pX21p0559b2403" place="inline" rend="margin-left:1em">姓曾名參字子輿。</p></def></entry>
+<pb ed="X" id="X21.0376.0559c" n="0559c"/>
+<lb ed="X" n="0559c01"/><entry><form>無朝夕</form><def><p id="pX21p0559c0104" place="inline" rend="margin-left:1em">猶云無始終也。</p></def></entry>
+<lb ed="X" n="0559c02"/><entry><form>所出不同</form><def><p id="pX21p0559c0205" place="inline" rend="margin-left:1em">始混沌出援神契塞天地出祭義。</p></def></entry>
+<lb ed="X" n="0559c03"/><entry><form>共成一義</form><def><p id="pX21p0559c0305" place="inline" rend="margin-left:1em">豎深之義。</p></def></entry><entry place="inline"><form>孝弟</form><def><p id="pX21p0559c0311" place="inline" rend="margin-left:1em">悌音。</p></def></entry>
+<lb ed="X" n="0559c04"/><entry><form>天子</form><def><p id="pX21p0559c0403" place="inline" rend="margin-left:1em">爵稱也王者父天<note n="0559001" resp="Xuzangjing" place="foot text" type="orig">原本闕欠母下三十一行今文係後人補寫是故其文字不正</note>母之子也。</p></def></entry>
+<lb ed="X" n="0559c05"/><entry><form>諸侯</form><def><p id="pX21p0559c0503" place="inline" rend="margin-left:1em">侯君也謂列國之君。</p></def></entry>
+<lb ed="X" n="0559c06"/><entry><form>卿大夫</form><def><p id="pX21p0559c0604" place="inline" rend="margin-left:1em">卿章也明善理大扶進人也章九卿二十
+<lb ed="X" n="0559c07"/>七大夫出王制今合辨之以孝行同故。</p></def></entry>
+<lb ed="X" n="0559c08"/><entry><form>士</form><def><p id="pX21p0559c0802" place="inline" rend="margin-left:1em">事也任事之稱。</p></def></entry>
+<lb ed="X" n="0559c09"/><entry><form>庶人</form><def><p id="pX21p0559c0903" place="inline" rend="margin-left:1em">庶眾謂天下眾人也。</p></def></entry>
+<lb ed="X" n="0559c10"/><entry><form>而患不及者未之有也</form><def><p id="pX21p0559c1010" place="inline" rend="margin-left:1em">孝經疏云或有目患不能
+<lb ed="X" n="0559c11"/>及於孝者未之有也。</p></def></entry>
+<lb ed="X" n="0559c12"/><entry><form>天龍負圖</form><def><p id="pX21p0559c1205" place="inline" rend="margin-left:1em">河圖曰舜以大尉即位與三公臨觀于
+<lb ed="X" n="0559c13"/>河黃龍五釆負圖出舜前。</p></def></entry>
+<lb ed="X" n="0559c14"/><entry><form>地龜出書</form><def><p id="pX21p0559c1405" place="inline" rend="margin-left:1em">宋書云天錫禹書神龜出洛有數九法
+<lb ed="X" n="0559c15"/>即洪範九疇是也。</p></def></entry>
+<lb ed="X" n="0559c16"/><entry><form>天孽消滅</form><def><p id="pX21p0559c1605" place="inline" rend="margin-left:1em">孽災也淮南子云堯射十日而去九留
+<lb ed="X" n="0559c17"/>一尚書惟德動於天故以禍為福。</p></def></entry>
+<lb ed="X" n="0559c18"/><entry><form>景雲出游</form><def><p id="pX21p0559c1805" place="inline" rend="margin-left:1em">唐書曰睿宗即位日景雲現景瑞也又
+<lb ed="X" n="0559c19"/>德宗時澤州<app><lem wit="【CBETA】" resp="CBETA.maha">刺</lem><rdg wit="【卍續】">剌</rdg></app>史李德上慶雲圖。</p></def></entry>
+<lb ed="X" n="0559c20"/><entry><form>澤林茂</form><def><p id="pX21p0559c2004" place="inline" rend="margin-left:1em">如察順盧感不生連理。</p></def></entry>
+<lb ed="X" n="0559c21"/><entry><form>浮珍舒</form><def><p id="pX21p0559c2104" place="inline" rend="margin-left:1em">如郭巨埋子全母天賜黃金也。</p></def></entry>
+<lb ed="X" n="0559c22"/><entry><form>&CB00383;草秀</form><def><p id="pX21p0559c2204" place="inline" rend="margin-left:1em">劉&CB17750;祖母冬思堇&CB17750;哭動感堇滿地爾雅
+<lb ed="X" n="0559c23"/>云苦堇即蔡也。</p></def></entry>
+<lb ed="X" n="0559c24"/><entry><form>水出神魚</form><def><p id="pX21p0559c2405" place="inline" rend="margin-left:1em">王祥母思魚祥臥&CB00457;上水開感雙鯉躍
+<pb ed="X" id="X21.0376.0560a" n="0560a"/>
+<lb ed="X" n="0560a01"/>出。</p></def></entry>
+<lb ed="X" n="0560a02"/><entry><form>幽顯</form><def><p id="pX21p0560a0203" place="inline" rend="margin-left:1em">顯明也禮云明則有禮樂幽則有鬼神。</p></def></entry>
+<lb ed="X" n="0560a03"/><entry><form>二儀</form><def><p id="pX21p0560a0303" place="inline" rend="margin-left:1em">儀像也分天地之形像。</p></def></entry>
+<lb ed="X" n="0560a04"/><entry><form>因心之孝</form><def><p id="pX21p0560a0405" place="inline" rend="margin-left:1em">孝經序云因心之孝<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>萌。</p></def></entry>
+<lb ed="X" n="0560a05"/><entry><form>資敬之道</form><def><p id="pX21p0560a0505" place="inline" rend="margin-left:1em">孝經云資於事父以事君而敬同。</p></def></entry>
+<lb ed="X" n="0560a06"/><entry><form>儒</form><def><p id="pX21p0560a0602" place="inline" rend="margin-left:1em">文選云&CB00397;通經史謂之儒。</p></def></entry>
+<lb ed="X" n="0560a07"/><entry><form>五常</form><def><p id="pX21p0560a0703" place="inline" rend="margin-left:1em">仁義禮智信為萬世常行之道。</p></def></entry>
+<lb ed="X" n="0560a08"/><entry><form>本與</form><def><p id="pX21p0560a0803" place="inline" rend="margin-left:1em">平呼語絕之辭。</p></def></entry>
+<lb ed="X" n="0560a09"/><entry><form>形質由父母而生</form><def><p id="pX21p0560a0908" place="inline" rend="margin-left:1em">祭義云身也者父母遺體也。</p></def></entry>
+<lb ed="X" n="0560a10"/><entry><form>三學</form><def><p id="pX21p0560a1003" place="inline" rend="margin-left:1em">此約大乘戒定慧三。</p></def></entry>
+<lb ed="X" n="0560a11"/><entry><form>祭統</form><def><p id="pX21p0560a1103" place="inline" rend="margin-left:1em">亦禮記篇名統猶本也以其記祭祀齋戒之
+<lb ed="X" n="0560a12"/>本。</p></def></entry>
+<lb ed="X" n="0560a13"/><entry><form>釋名</form><def><p id="pX21p0560a1303" place="inline" rend="margin-left:1em">漢&CB00397;土劉&CB00696;撰。</p></def></entry>
+<lb ed="X" n="0560a14"/><entry><form>周書<app><lem wit="【CBETA】" resp="CBETA.maha">諡</lem><rdg wit="【卍續】">謚</rdg></app>法</form><def><p id="pX21p0560a1405" place="inline" rend="margin-left:1em">周公作訓成王也善行則善<app><lem wit="【CBETA】" resp="CBETA.maha">諡</lem><rdg wit="【卍續】">謚</rdg></app>如云翼
+<lb ed="X" n="0560a15"/>善傳聖曰堯惡行則惡<app><lem wit="【CBETA】" resp="CBETA.maha">諡</lem><rdg wit="【卍續】">謚</rdg></app>亦如殘義損善曰紂。</p></def></entry>
+<lb ed="X" n="0560a16"/><entry><form>爾雅</form><def><p id="pX21p0560a1603" place="inline" rend="margin-left:1em">爾近雅正也近正之言故曰爾雅。</p></def></entry>
+<lb ed="X" n="0560a17"/><entry><form>昊天</form><def><p id="pX21p0560a1703" place="inline" rend="margin-left:1em">夏天也郭氏云陽氣皓肝曰昊春曰蒼天秋
+<lb ed="X" n="0560a18"/>曰旻天冬曰上天。</p></def></entry>
+<lb ed="X" n="0560a19"/><entry><form>鄭氏箋</form><def><p id="pX21p0560a1904" place="inline" rend="margin-left:1em">毛詩正義云東漢鄭玄取毛氏詁訓所不
+<lb ed="X" n="0560a20"/>盡及同異者續之為注解謂之箋箋薦成毛意。</p></def></entry>
+<lb ed="X" n="0560a21"/><entry><form>罪釁</form><def><p id="pX21p0560a2103" place="inline" rend="margin-left:1em">或云過顯曰罪隱曰釁也。</p></def></entry>
+<lb ed="X" n="0560a22"/><entry><form>童&CB01104;</form><def><p id="pX21p0560a2203" place="inline" rend="margin-left:1em">牛無角曰童禾晚生曰&CB01104;人幼小以之。</p></def></entry>
+<lb ed="X" n="0560a23"/><entry><form>喪亡</form><def><p id="pX21p0560a2303" place="inline" rend="margin-left:1em">息浪切也。</p></def></entry>
+<lb ed="X" n="0560a24"/><entry><form>上延考妣</form><def><p id="pX21p0560a2405" place="inline" rend="margin-left:1em">延猶及也父亡答書云上延先考母亡
+<pb ed="X" id="X21.0376.0560b" n="0560b"/>
+<lb ed="X" n="0560b01"/>延先妣。</p></def></entry>
+<lb ed="X" n="0560b02"/><entry><form>悽愴</form><def><p id="pX21p0560b0203" place="inline" rend="margin-left:1em">謂悽然感愴霜露降萬物凋言父母同萬物
+<lb ed="X" n="0560b03"/>之殞感時念親。</p></def></entry>
+<lb ed="X" n="0560b04"/><entry><form>濡</form><def><p id="pX21p0560b0402" place="inline" rend="margin-left:1em">沾潤也小雨曰濡。</p></def></entry>
+<lb ed="X" n="0560b05"/><entry><form>&CB04467;惕</form><def><p id="pX21p0560b0503" place="inline" rend="margin-left:1em">驚懼貌雨露濡生萬物孝子欲父母同萬物
+<lb ed="X" n="0560b06"/>乘春而生故云如將見之。</p></def></entry>
+<lb ed="X" n="0560b07"/><entry><form>節序</form><def><p id="pX21p0560b0703" place="inline" rend="margin-left:1em">八節如下序謂四時。</p></def></entry>
+<lb ed="X" n="0560b08"/><entry><form>家語</form><def><p id="pX21p0560b0803" place="inline" rend="margin-left:1em">十卷當時門弟子所集王肅注之。</p></def></entry>
+<lb ed="X" n="0560b09"/><entry><form>孔子</form><def><p id="pX21p0560b0903" place="inline" rend="margin-left:1em">子慈也以慈愛洽人姓孔名丘字仲尼哀公
+<lb ed="X" n="0560b10"/>二十一年生襄公十一年卒壽七十三。</p></def></entry>
+<lb ed="X" n="0560b11"/><entry><form>適齊</form><def><p id="pX21p0560b1103" place="inline" rend="margin-left:1em">適往也。</p></def></entry><entry place="inline"><form>中路</form><def><p id="pX21p0560b1108" place="inline" rend="margin-left:1em">去聲中。</p></def></entry>
+<lb ed="X" n="0560b12"/><entry><form>謂僕</form><def><p id="pX21p0560b1203" place="inline" rend="margin-left:1em">御車者即顏&CB17762;。</p></def></entry>
+<lb ed="X" n="0560b13"/><entry><form>擁鎌帶索</form><def><p id="pX21p0560b1305" place="inline" rend="margin-left:1em">擁持也鎌刈禾刀帶索刈之。</p></def></entry>
+<lb ed="X" n="0560b14"/><entry><form>哭而不衰</form><def><p id="pX21p0560b1405" place="inline" rend="margin-left:1em">亦作縗以六寸之布廣四寸帖於心前
+<lb ed="X" n="0560b15"/>衰之言悲權也。</p></def></entry>
+<lb ed="X" n="0560b16"/><entry><form>吾丘吾子</form><def><p id="pX21p0560b1605" place="inline" rend="margin-left:1em">上吾自稱猶云我也姓虞名丘字吾子。</p></def></entry>
+<lb ed="X" n="0560b17"/><entry><form>後還</form><def><p id="pX21p0560b1703" place="inline" rend="margin-left:1em">旋音。</p></def></entry>
+<lb ed="X" n="0560b18"/><entry><form>齊君</form><def><p id="pX21p0560b1803" place="inline" rend="margin-left:1em">即齊景公有馬千駟是謂驕奢耳。</p></def></entry>
+<lb ed="X" n="0560b19"/><entry><form>小子識之</form><def><p id="pX21p0560b1905" place="inline" rend="margin-left:1em">識音志令小子記其言也。</p></def></entry>
+<lb ed="X" n="0560b20"/><entry><form>十有三</form><def><p id="pX21p0560b2004" place="inline" rend="margin-left:1em">十中有三辭歸養親。</p></def></entry>
+<lb ed="X" n="0560b21"/><entry><form>檀弓</form><def><p id="pX21p0560b2103" place="inline" rend="margin-left:1em">姓檀名弓由善於禮故以名篇。</p></def></entry>
+<lb ed="X" n="0560b22"/><entry><form>東西南北之人</form><def><p id="pX21p0560b2207" place="inline" rend="margin-left:1em">鄭箋注云言君無常以君子有四
+<lb ed="X" n="0560b23"/>方志耳。</p></def></entry>
+<lb ed="X" n="0560b24"/><entry><form>不登壟</form><def><p id="pX21p0560b2404" place="inline" rend="margin-left:1em">言慎敬也。</p></def></entry>
+<pb ed="X" id="X21.0376.0560c" n="0560c"/>
+<lb ed="X" n="0560c01"/><entry><form>塋域</form><def><p id="pX21p0560c0103" place="inline" rend="margin-left:1em">墓地也即墓之限域。</p></def></entry>
+<lb ed="X" n="0560c02"/><entry><form>負士為墳</form><def><p id="pX21p0560c0205" place="inline" rend="margin-left:1em">如孝子顏烏東陽人父亡負土為墳感
+<lb ed="X" n="0560c03"/>郡烏郵土助之烏口中血出遂名其縣為義烏耳。</p></def></entry>
+<lb ed="X" n="0560c04"/><entry><form>植&CB00177;成列</form><def><p id="pX21p0560c0405" place="inline" rend="margin-left:1em">通俗云罔象好食亡者肝腦墓傍植&CB00177;
+<lb ed="X" n="0560c05"/>樹墓前立石虎以驅罔象也。</p></def></entry>
+<lb ed="X" n="0560c06"/><entry><form>孝德傳</form><def><p id="pX21p0560c0604" place="inline" rend="margin-left:1em">梁元帝撰凡三十卷。</p></def></entry>
+<lb ed="X" n="0560c07"/><entry><form>廬于墳次</form><def><p id="pX21p0560c0705" place="inline" rend="margin-left:1em">廬&CB00246;寄也墳之次舍。</p></def></entry>
+<lb ed="X" n="0560c08"/><entry><form>三十年為世</form><def><p id="pX21p0560c0806" place="inline" rend="margin-left:1em">古者三十娶妻而子孫可繼家業。</p></def></entry>
+<lb ed="X" n="0560c09"/><entry><form>礿</form><def><p id="pX21p0560c0902" place="inline" rend="margin-left:1em">薄也春物薄少。</p></def></entry>
+<lb ed="X" n="0560c10"/><entry><form>禘</form><def><p id="pX21p0560c1002" place="inline" rend="margin-left:1em">第音諦也諦審其物可祭先祖。</p></def></entry>
+<lb ed="X" n="0560c11"/><entry><form>&CB00573;</form><def><p id="pX21p0560c1102" place="inline" rend="margin-left:1em">新也&CB00573;新&CB00591;也。</p></def></entry>
+<lb ed="X" n="0560c12"/><entry><form>烝</form><def><p id="pX21p0560c1202" place="inline" rend="margin-left:1em">眾也冬物眾多。</p></def></entry>
+<lb ed="X" n="0560c13"/><entry><form>包冬夏</form><def><p id="pX21p0560c1304" place="inline" rend="margin-left:1em">例烝&CB00573;包礿禘也。</p></def></entry>
+<lb ed="X" n="0560c14"/><entry><form>損益</form><def><p id="pX21p0560c1403" place="inline" rend="margin-left:1em">損則祭殺牲命益乃設供&CB15072;苦。</p></def></entry>
+<lb ed="X" n="0560c15"/><entry><form>七賢</form><def><p id="pX21p0560c1503" place="inline" rend="margin-left:1em">一五停心二別相念三總相念四煖五頂六
+<lb ed="X" n="0560c16"/>忍七世第一。</p></def></entry>
+<lb ed="X" n="0560c17"/><entry><form>七聖</form><def><p id="pX21p0560c1703" place="inline" rend="margin-left:1em">一隨信行二隨法行三信解四見得五身證
+<lb ed="X" n="0560c18"/>阿那含六時解脫羅漢七不時解脫羅漢。</p></def></entry>
+<lb ed="X" n="0560c19"/><entry><form>三賢</form><def><p id="pX21p0560c1903" place="inline" rend="margin-left:1em">十住初賢十行中賢十向上賢。</p></def></entry>
+<lb ed="X" n="0560c20"/><entry><form>十聖</form><def><p id="pX21p0560c2003" place="inline" rend="margin-left:1em">初歡喜地二離垢三發光四&CB08504;慧五難勝六
+<lb ed="X" n="0560c21"/>現前七遠行八不動九善慧十法雲。</p></def></entry>
+<lb ed="X" n="0560c22"/><entry><form>魯哀公</form><def><p id="pX21p0560c2204" place="inline" rend="margin-left:1em">名蔣定公之子。</p></def></entry>
+<lb ed="X" n="0560c23"/><entry><form>測物之性情</form><def><p id="pX21p0560c2306" place="inline" rend="margin-left:1em">知子路之好勇測顏回之不愚。</p></def></entry>
+<lb ed="X" n="0560c24"/><entry><form>紀</form><def><p id="pX21p0560c2402" place="inline" rend="margin-left:1em">大網之繩曰綱小網之繩曰紀。</p></def></entry>
+<pb ed="X" id="X21.0376.0561a" n="0561a"/>
+<lb ed="X" n="0561a01"/><entry><form>望</form><def><p id="pX21p0561a0102" place="inline" rend="margin-left:1em">表望。</p></def></entry><entry place="inline"><form>帝王</form><def><p id="pX21p0561a0106" place="inline" rend="margin-left:1em">五帝三王。</p></def></entry>
+<lb ed="X" n="0561a02"/><entry><form>以之安危</form><def><p id="pX21p0561a0205" place="inline" rend="margin-left:1em">有賢者天下安無其人宗&CB08775;危。</p></def></entry>
+<lb ed="X" n="0561a03"/><entry><form>測眾生之根性</form><def><p id="pX21p0561a0307" place="inline" rend="margin-left:1em">接上根以六度測中下以諦緣。</p></def></entry>
+<lb ed="X" n="0561a04"/><entry><form>佛土</form><def><p id="pX21p0561a0403" place="inline" rend="margin-left:1em">通而言之則大聖所化之境也。</p></def></entry>
+<lb ed="X" n="0561a05"/><entry><form>三世諸佛</form><def><p id="pX21p0561a0505" place="inline" rend="margin-left:1em">對上五帝三王。</p></def></entry>
+<lb ed="X" n="0561a06"/><entry><form>以之揚化</form><def><p id="pX21p0561a0605" place="inline" rend="margin-left:1em">有師範則三藏教法與無其人則五分
+<lb ed="X" n="0561a07"/>法身喪。</p></def></entry>
+<lb ed="X" n="0561a08"/><entry><form>微功致巨益</form><def><p id="pX21p0561a0806" place="inline" rend="margin-left:1em">一日之微功致生天之巨益。</p></def></entry>
+<lb ed="X" n="0561a09"/><entry><form>少善破大惡</form><def><p id="pX21p0561a0906" place="inline" rend="margin-left:1em">盆供之少善破劇苦之大惡。</p></def></entry>
+<lb ed="X" n="0561a10"/><entry><form>但三塵</form><def><p id="pX21p0561a1004" place="inline" rend="margin-left:1em">色香觸。</p></def></entry>
+<lb ed="X" n="0561a11"/><entry><form>名實區別</form><def><p id="pX21p0561a1105" place="inline" rend="margin-left:1em">實體也四名四體如土田分隔區以別
+<lb ed="X" n="0561a12"/>矣。</p></def></entry>
+<lb ed="X" n="0561a13"/><entry><form>三尊</form><def><p id="pX21p0561a1303" place="inline" rend="margin-left:1em">三寶皆尊皆重。</p></def></entry>
+<lb ed="X" n="0561a14"/><entry><form>唐</form><def><p id="pX21p0561a1402" place="inline" rend="margin-left:1em">堯帝姓伊祁名放勳始封於唐地。</p></def></entry>
+<lb ed="X" n="0561a15"/><entry><form>虞</form><def><p id="pX21p0561a1502" place="inline" rend="margin-left:1em">舜帝姓姚名重華始封於虞地。</p></def></entry>
+<lb ed="X" n="0561a16"/><entry><form>夏</form><def><p id="pX21p0561a1602" place="inline" rend="margin-left:1em">禹王姓姒名文命始封於夏今銀夏州是也。</p></def></entry>
+<lb ed="X" n="0561a17"/><entry><form>商</form><def><p id="pX21p0561a1702" place="inline" rend="margin-left:1em">姓子名履始封於商丘或云殷湯皆國號也。</p></def></entry>
+<lb ed="X" n="0561a18"/><entry><form>周</form><def><p id="pX21p0561a1802" place="inline" rend="margin-left:1em">姓姬名昌始封於岐周之地。</p></def></entry>
+<lb ed="X" n="0561a19"/><entry><form>李巡</form><def><p id="pX21p0561a1903" place="inline" rend="margin-left:1em">注爾雅。</p></def></entry>
+<lb ed="X" n="0561a20"/><entry><form>示不相襲</form><def><p id="pX21p0561a2005" place="inline" rend="margin-left:1em">襲承也言二帝三王各立其名不相承
+<lb ed="X" n="0561a21"/>順也。</p></def></entry>
+<lb ed="X" n="0561a22"/><entry><form>孫炎</form><def><p id="pX21p0561a2203" place="inline" rend="margin-left:1em">有爾雅義疏十卷。</p></def></entry>
+<lb ed="X" n="0561a23"/><entry><form>更始</form><def><p id="pX21p0561a2303" place="inline" rend="margin-left:1em">更平聲改也。</p></def></entry>
+<lb ed="X" n="0561a24"/><entry><form>兼講</form><def><p id="pX21p0561a2403" place="inline" rend="margin-left:1em">論語序云兼講齊說。</p></def></entry>
+<pb ed="X" id="X21.0376.0561b" n="0561b"/>
+<lb ed="X" n="0561b01"/><entry><form>廣雅</form><def><p id="pX21p0561b0103" place="inline" rend="margin-left:1em">張揖撰凡四卷。</p></def></entry>
+<lb ed="X" n="0561b02"/><entry><form>大詰</form><def><p id="pX21p0561b0203" place="inline" rend="margin-left:1em">陳大道告天下。</p></def></entry>
+<lb ed="X" n="0561b03"/><entry><form>思齊</form><def><p id="pX21p0561b0303" place="inline" rend="margin-left:1em">語云見賢思齊。</p></def></entry>
+<lb ed="X" n="0561b04"/><entry><form>&CB15156;銘</form><def><p id="pX21p0561b0403" place="inline" rend="margin-left:1em">銘名也述其功業使可稱名而期於不朽故
+<lb ed="X" n="0561b05"/>刻諸&CB15156;石也。</p></def></entry>
+<lb ed="X" n="0561b06"/><entry><form>文宗</form><def><p id="pX21p0561b0603" place="inline" rend="margin-left:1em">唐第十五帝名印穆宗之子。</p></def></entry>
+<lb ed="X" n="0561b07"/><entry><form>慶成節</form><def><p id="pX21p0561b0704" place="inline" rend="margin-left:1em">降誕之辰猶今之乾元節。</p></def></entry>
+<lb ed="X" n="0561b08"/><entry><form>知命</form><def><p id="pX21p0561b0803" place="inline" rend="margin-left:1em">五十知天命。</p></def></entry><entry place="inline"><form>耳順</form><def><p id="pX21p0561b0810" place="inline" rend="margin-left:1em">六十而耳順。</p></def></entry>
+<lb ed="X" n="0561b09"/><entry><form>耆艾&CB17760;老也</form><def><p id="pX21p0561b0906" place="inline" rend="margin-left:1em">上三字皆訓老也&CB17760;迭音&CB05033;也老人
+<lb ed="X" n="0561b10"/>身黑如鐵。</p></def></entry>
+<lb ed="X" n="0561b11"/><entry><form>古疏雖多</form><def><p id="pX21p0561b1105" place="inline" rend="margin-left:1em">紀國寺慧淨三藏亦有疏文今也則亡。</p></def></entry>
+<lb ed="X" n="0561b12"/><entry><form>舛的</form><def><p id="pX21p0561b1203" place="inline" rend="margin-left:1em">舛訛也如下疏云三藏錯會故有異釋是也
+<lb ed="X" n="0561b13"/>的當也疏又引三藏云物華四事盆美八珍也。</p></def></entry>
+<lb ed="X" n="0561b14"/><entry><form>&CB00048;機符理</form><def><p id="pX21p0561b1405" place="inline" rend="margin-left:1em">下&CB00048;機宜上符義理。</p></def></entry>
+<lb ed="X" n="0561b15"/><entry><form>玄風</form><def><p id="pX21p0561b1503" place="inline" rend="margin-left:1em">玄籍教風。</p></def></entry>
+<lb ed="X" n="0561b16"/><entry><form>敬服尤深</form><def><p id="pX21p0561b1605" place="inline" rend="margin-left:1em">肅敬服從尤甚也。</p></def></entry>
+<lb ed="X" n="0561b17"/><entry><form>含文嘉</form><def><p id="pX21p0561b1704" place="inline" rend="margin-left:1em">禮記緯書名也。</p></def></entry>
+<lb ed="X" n="0561b18"/><entry><form>三仞</form><def><p id="pX21p0561b1803" place="inline" rend="margin-left:1em">七尺曰仞。</p></def></entry><entry place="inline"><form>半之</form><def><p id="pX21p0561b1809" place="inline" rend="margin-left:1em">一仞半。</p></def></entry>
+<lb ed="X" n="0561b19"/><entry><form>遭母憂</form><def><p id="pX21p0561b1904" place="inline" rend="margin-left:1em">遭猶丁也。</p></def></entry>
+<lb ed="X" n="0561b20"/><entry><form>刻像圖形</form><def><p id="pX21p0561b2005" place="inline" rend="margin-left:1em">刻檀彫像圖&CB15148;形容。</p></def></entry>
+<lb ed="X" n="0561b21"/><entry><form>貝多</form><def><p id="pX21p0561b2103" place="inline" rend="margin-left:1em">西竺以貝多葉傍行而寫。</p></def></entry>
+<lb ed="X" n="0561b22"/><entry><form>黃卷</form><def><p id="pX21p0561b2203" place="inline" rend="margin-left:1em">朱士衡燒經盡成黃卷赤軸。</p></def></entry>
+<lb ed="X" n="0561b23"/><entry><form>教理行果</form><def><p id="pX21p0561b2305" place="inline" rend="margin-left:1em">下鈔具釋。</p></def></entry>
+<lb ed="X" n="0561b24"/><entry><form>八輩</form><def><p id="pX21p0561b2403" place="inline" rend="margin-left:1em">四果四向。</p></def></entry>
+<pb ed="X" id="X21.0376.0561c" n="0561c"/>
+<lb ed="X" n="0561c01"/><entry><form>五位</form><def><p id="pX21p0561c0103" place="inline" rend="margin-left:1em">資糧加行見道脩道無學。</p></def></entry>
+<lb ed="X" n="0561c02"/><entry><form>五教</form><def><p id="pX21p0561c0203" place="inline" rend="margin-left:1em">一小乘教二大乘始教三終教四頓教五圓
+<lb ed="X" n="0561c03"/>教。</p></def></entry>
+<lb ed="X" n="0561c04"/><entry><form>唯歸佛寶者</form><def><p id="pX21p0561c0406" place="inline" rend="margin-left:1em">此一句刊牒摭華彼以法是佛言僧
+<lb ed="X" n="0561c05"/>是佛子故但歸佛寶耳。</p></def></entry>
+<lb ed="X" n="0561c06"/><entry><form>同遵古訓</form><def><p id="pX21p0561c0605" place="inline" rend="margin-left:1em">孝衡鈔并舊鈔諸文皆例歸三寶。</p></def></entry>
+<lb ed="X" n="0561c07"/><entry><form>稽首</form><def><p id="pX21p0561c0703" place="inline" rend="margin-left:1em">貫於下謂法僧二寶。</p></def></entry>
+<lb ed="X" n="0561c08"/><entry><form>冥加</form><def><p id="pX21p0561c0803" place="inline" rend="margin-left:1em">蒙於上亦佛法二寶。</p></def></entry>
+<lb ed="X" n="0561c09"/><entry><form>注云</form><def><p id="pX21p0561c0903" place="inline" rend="margin-left:1em">即孔安國作傳以注之。</p></def></entry>
+<lb ed="X" n="0561c10"/><entry><form>問訊</form><def><p id="pX21p0561c1003" place="inline" rend="margin-left:1em">言也郭璞云相問訊。</p></def></entry>
+<lb ed="X" n="0561c11"/><entry><form>長跪</form><def><p id="pX21p0561c1103" place="inline" rend="margin-left:1em">律鈔以尼弱故長跪僧彊故互跪。</p></def></entry>
+<lb ed="X" n="0561c12"/><entry><form>屬</form><def><p id="pX21p0561c1202" place="inline" rend="margin-left:1em">祝音。</p></def></entry>
+<lb ed="X" n="0561c13"/><entry><form>舉豎而包橫</form><def><p id="pX21p0561c1306" place="inline" rend="margin-left:1em">舉三界之豎包大千之橫。</p></def></entry>
+<lb ed="X" n="0561c14"/><entry><form>悲智兼運</form><def><p id="pX21p0561c1405" place="inline" rend="margin-left:1em">悲故不住涅槃智故不住生死。</p></def></entry>
+<lb ed="X" n="0561c15"/><entry><form>三無數劫</form><def><p id="pX21p0561c1505" place="inline" rend="margin-left:1em">梵云阿僧祇劫臘波此云無數時分。</p></def></entry>
+<lb ed="X" n="0561c16"/><entry><form>十種通號</form><def><p id="pX21p0561c1605" place="inline" rend="margin-left:1em">一如來二應供三正&CB00642;知四明行足五
+<lb ed="X" n="0561c17"/>善逝六世間解七無上士調御丈夫八天人師九
+<lb ed="X" n="0561c18"/>佛十世尊。</p></def></entry>
+<lb ed="X" n="0561c19"/><entry><form>五分律</form><def><p id="pX21p0561c1904" place="inline" rend="margin-left:1em">即彌沙塞部五段之文。</p></def></entry>
+<lb ed="X" n="0561c20"/><entry><form>立五分<note n="0561001" resp="Xuzangjing" place="foot text" type="orig">本文無法字</note>法身</form><def><p id="pX21p0561c2006" place="inline" rend="margin-left:1em">轉五陰成五分法身轉色陰成戒身
+<lb ed="X" n="0561c21"/>受成定想成慧行成解脫識成解脫知見。</p></def></entry>
+<lb ed="X" n="0561c22"/><entry><form>睒</form><def><p id="pX21p0561c2202" place="inline" rend="margin-left:1em">閃音。</p></def></entry>
+<lb ed="X" n="0561c23"/><entry><form>射殺等</form><def><p id="pX21p0561c2304" place="inline" rend="margin-left:1em">以睒子著鹿皮衣入山取水麋鹿相隨值
+<lb ed="X" n="0561c24"/>王出獵引弓射鹿誤中睒子故云射殺乃至父母
+<pb ed="X" id="X21.0376.0562a" n="0562a"/>
+<lb ed="X" n="0562a01"/>禱願帝釋與藥睒活如具如經云射音石。</p></def></entry>
+<lb ed="X" n="0562a02"/><entry><form>雜寶藏經</form><def><p id="pX21p0562a0205" place="inline" rend="margin-left:1em">下卷引之。</p></def></entry><entry place="inline"><form>兜率</form><def><p id="pX21p0562a0211" place="inline" rend="margin-left:1em">此云知足。</p></def></entry>
+<lb ed="X" n="0562a03"/><entry><form>閻浮</form><def><p id="pX21p0562a0303" place="inline" rend="margin-left:1em">具云閻浮提此翻勝金洲。</p></def></entry>
+<lb ed="X" n="0562a04"/><entry><form>三十四心</form><def><p id="pX21p0562a0405" place="inline" rend="margin-left:1em">八忍八智九無間九解脫。</p></def></entry>
+<lb ed="X" n="0562a05"/><entry><form>萬舞</form><def><p id="pX21p0562a0503" place="inline" rend="margin-left:1em">武王以萬兵伐紂周公亦以萬人為舞而祭
+<lb ed="X" n="0562a06"/>武王。</p></def></entry>
+<lb ed="X" n="0562a07"/><entry><form>孝子不匱永錫爾類</form><def><p id="pX21p0562a0709" place="inline" rend="margin-left:1em">匱竭也箋云孝子之心非有
+<lb ed="X" n="0562a08"/>竭極之時長以與汝之族類。</p></def></entry>
+<lb ed="X" n="0562a09"/><entry><form>自淺階深</form><def><p id="pX21p0562a0905" place="inline" rend="margin-left:1em">自酬恩反妄之淺階密意歸真之深。</p></def></entry>
+<lb ed="X" n="0562a10"/><entry><form>誘掖</form><def><p id="pX21p0562a1003" place="inline" rend="margin-left:1em">誘引掖持也毛萇云故作諸以誘掖其君。</p></def></entry>
+<lb ed="X" n="0562a11"/><entry><form>生前色養</form><def><p id="pX21p0562a1105" place="inline" rend="margin-left:1em">養親色難。</p></def></entry><entry place="inline"><form>沒後薦追</form><def><p id="pX21p0562a1113" place="inline" rend="margin-left:1em">薦拔追思。</p></def></entry>
+<lb ed="X" n="0562a12"/><entry><form>今試論之</form><def><p id="pX21p0562a1205" place="inline" rend="margin-left:1em">試用也未敢正說且試傍論。</p></def></entry>
+<lb ed="X" n="0562a13"/><entry><form>居則致其敬</form><def><p id="pX21p0562a1306" place="inline" rend="margin-left:1em">平居必盡其敬。</p></def></entry>
+<lb ed="X" n="0562a14"/><entry><form>養則致其樂</form><def><p id="pX21p0562a1406" place="inline" rend="margin-left:1em">就養能致其歡。</p></def></entry>
+<lb ed="X" n="0562a15"/><entry><form>病則致其憂</form><def><p id="pX21p0562a1506" place="inline" rend="margin-left:1em">色不滿容行不正履。</p></def></entry>
+<lb ed="X" n="0562a16"/><entry><form>喪則致其哀</form><def><p id="pX21p0562a1606" place="inline" rend="margin-left:1em">擗踊哭泣盡其哀情。</p></def></entry>
+<lb ed="X" n="0562a17"/><entry><form>祭則致其嚴</form><def><p id="pX21p0562a1706" place="inline" rend="margin-left:1em">齋戒沐浴明發不昧。</p></def></entry>
+<lb ed="X" n="0562a18"/><entry><form>居上不驕</form><def><p id="pX21p0562a1805" place="inline" rend="margin-left:1em">當莊敬以臨下。</p></def></entry>
+<lb ed="X" n="0562a19"/><entry><form>為下不亂</form><def><p id="pX21p0562a1905" place="inline" rend="margin-left:1em">當恭謹以奉上。</p></def></entry>
+<lb ed="X" n="0562a20"/><entry><form>仕醜不爭</form><def><p id="pX21p0562a2005" place="inline" rend="margin-left:1em">醜眾也爭競也當知順以從眾。</p></def></entry>
+<lb ed="X" n="0562a21"/><entry><form>則亡</form><def><p id="pX21p0562a2103" place="inline" rend="margin-left:1em">危亡。</p></def></entry><entry place="inline"><form>則刑</form><def><p id="pX21p0562a2107" place="inline" rend="margin-left:1em">刑&CB02168;及身。</p></def></entry>
+<lb ed="X" n="0562a22"/><entry><form>則兵</form><def><p id="pX21p0562a2203" place="inline" rend="margin-left:1em">丘刃相加。</p></def></entry><entry place="inline"><form>三者不除</form><def><p id="pX21p0562a2211" place="inline" rend="margin-left:1em">驕亂爭。</p></def></entry>
+<lb ed="X" n="0562a23"/><entry><form>三牲</form><def><p id="pX21p0562a2303" place="inline" rend="margin-left:1em">牛羊豕。</p></def></entry>
+<lb ed="X" n="0562a24"/><entry><form>佐成</form><def><p id="pX21p0562a2403" place="inline" rend="margin-left:1em">佐助也疏者經之助也。</p></def></entry>
+<pb ed="X" id="X21.0376.0562b" n="0562b"/>
+<lb ed="X" n="0562b01"/><entry><form>明之曰述</form><def><p id="pX21p0562b0105" place="inline" rend="margin-left:1em">反用述者曰明。</p></def></entry>
+<lb ed="X" n="0562b02"/><entry><form>無煩異解</form><def><p id="pX21p0562b0205" place="inline" rend="margin-left:1em">無外以前云釋迦尊是歸本師今云眾
+<lb ed="X" n="0562b03"/>聖乃十方佛故云異解。</p></def></entry>
+<lb ed="X" n="0562b04"/><entry><form>分段苦</form><def><p id="pX21p0562b0404" place="inline" rend="margin-left:1em">分限之年形段之身。</p></def></entry>
+<lb ed="X" n="0562b05"/><entry><form>變易苦</form><def><p id="pX21p0562b0504" place="inline" rend="margin-left:1em">變麤身為細質對上形段之身易短劫為
+<lb ed="X" n="0562b06"/>長齡對上分限之年。</p></def></entry>
+<lb ed="X" n="0562b07"/><entry><form>漢制</form><def><p id="pX21p0562b0703" place="inline" rend="margin-left:1em">叔孫通定之。</p></def></entry><entry place="inline"><form>皇帝</form><def><p id="pX21p0562b0710" place="inline" rend="margin-left:1em">因秦始皇稱之。</p></def></entry>
+<lb ed="X" n="0562b08"/><entry><form>嫡</form><def><p id="pX21p0562b0802" place="inline" rend="margin-left:1em">正也。</p></def></entry><entry place="inline"><form>世子</form><def><p id="pX21p0562b0806" place="inline" rend="margin-left:1em">可以繼世。</p></def></entry>
+<lb ed="X" n="0562b09"/><entry><form>金輪王</form><def><p id="pX21p0562b0904" place="inline" rend="margin-left:1em">俱舍云金銀銅鐵輪一二三四洲。</p></def></entry>
+<lb ed="X" n="0562b10"/><entry><form>嬌曇彌</form><def><p id="pX21p0562b1004" place="inline" rend="margin-left:1em">此云眾主亦名摩訶波闍波提此&CB00549;大愛
+<lb ed="X" n="0562b11"/>道不云摩耶者以佛生七日摩耶命終故。</p></def></entry>
+<lb ed="X" n="0562b12"/><entry><form>迦毗羅</form><def><p id="pX21p0562b1204" place="inline" rend="margin-left:1em">此云妙德。</p></def></entry>
+<lb ed="X" n="0562b13"/><entry><form>公明儀</form><def><p id="pX21p0562b1304" place="inline" rend="margin-left:1em">姓公名明儀曾子門人。</p></def></entry>
+<lb ed="X" n="0562b14"/><entry><form>夫子</form><def><p id="pX21p0562b1403" place="inline" rend="margin-left:1em">有德行之稱也即公明儀召師為夫子也。</p></def></entry>
+<lb ed="X" n="0562b15"/><entry><form>稍</form><def><p id="pX21p0562b1502" place="inline" rend="margin-left:1em">小也。</p></def></entry>
+<lb ed="X" n="0562b16"/><entry><form>心感則孝心衰則止</form><def><p id="pX21p0562b1609" place="inline" rend="margin-left:1em">心若思感則孝存焉心若衰
+<lb ed="X" n="0562b17"/>滅則孝止息。</p></def></entry>
+<lb ed="X" n="0562b18"/><entry><form>淮南子</form><def><p id="pX21p0562b1804" place="inline" rend="margin-left:1em">即淮南王劉安漢之宗裔好著書因叛戮
+<lb ed="X" n="0562b19"/>于市。</p></def></entry>
+<lb ed="X" n="0562b20"/><entry><form>叔重</form><def><p id="pX21p0562b2003" place="inline" rend="margin-left:1em">許慎字也。</p></def></entry>
+<lb ed="X" n="0562b21"/><entry><form>十大弟子</form><def><p id="pX21p0562b2105" place="inline" rend="margin-left:1em">次文略&CB00549;華梵緣起如例。</p></def></entry>
+<lb ed="X" n="0562b22"/><entry><form>迦葉頭陀</form><def><p id="pX21p0562b2205" place="inline" rend="margin-left:1em">迦葉&CB00549;飲光頭陀云斗藪。</p></def></entry>
+<lb ed="X" n="0562b23"/><entry><form>阿難</form><def><p id="pX21p0562b2303" place="inline" rend="margin-left:1em">此云歡喜。</p></def></entry>
+<lb ed="X" n="0562b24"/><entry><form>富樓那彌多羅尼</form><def><p id="pX21p0562b2408" place="inline" rend="margin-left:1em">此云滿慈子。</p></def></entry>
+<pb ed="X" id="X21.0376.0562c" n="0562c"/>
+<lb ed="X" n="0562c01"/><entry><form>迦旃延</form><def><p id="pX21p0562c0104" place="inline" rend="margin-left:1em">此云扇。</p></def></entry><entry place="inline"><form>阿陀律</form><def><p id="pX21p0562c0110" place="inline" rend="margin-left:1em">此云無滅。</p></def></entry>
+<lb ed="X" n="0562c02"/><entry><form>鶖子</form><def><p id="pX21p0562c0203" place="inline" rend="margin-left:1em">其母眼如鶖鷺。</p></def></entry><entry place="inline"><form>優波離</form><def><p id="pX21p0562c0212" place="inline" rend="margin-left:1em">此云近執。</p></def></entry>
+<lb ed="X" n="0562c03"/><entry><form>羅&CB00264;羅</form><def><p id="pX21p0562c0304" place="inline" rend="margin-left:1em">此云障日。</p></def></entry><entry place="inline"><form>善現</form><def><p id="pX21p0562c0310" place="inline" rend="margin-left:1em">梵云須菩提。</p></def></entry>
+<lb ed="X" n="0562c04"/><entry><form>目連</form><def><p id="pX21p0562c0403" place="inline" rend="margin-left:1em">如下所明。</p></def></entry><entry place="inline"><form>來蒙</form><def><p id="pX21p0562c0409" place="inline" rend="margin-left:1em">未來童蒙。</p></def></entry>
+<lb ed="X" n="0562c05"/><entry><form>左傳</form><def><p id="pX21p0562c0503" place="inline" rend="margin-left:1em">左丘明作傳解春秋。</p></def></entry>
+<lb ed="X" n="0562c06"/><entry><form>&CB00002;考叔</form><def><p id="pX21p0562c0604" place="inline" rend="margin-left:1em">如下卷鈔。</p></def></entry><entry place="inline"><form>鈔斥</form><def><p id="pX21p0562c0610" place="inline" rend="margin-left:1em">此並斥指。</p></def></entry>
+<lb ed="X" n="0562c07"/><entry><form>不能觀機</form><def><p id="pX21p0562c0705" place="inline" rend="margin-left:1em">如教浣衣之子作數息觀鍜金之子作
+<lb ed="X" n="0562c08"/>不淨觀。</p></def></entry>
+<lb ed="X" n="0562c09"/><entry><form>既昧經部</form><def><p id="pX21p0562c0905" place="inline" rend="margin-left:1em">昧人天教。</p></def></entry>
+<lb ed="X" n="0562c10"/><entry><form>又枉聖人</form><def><p id="pX21p0562c1005" place="inline" rend="margin-left:1em">言小聖無悲心。</p></def></entry>
+<lb ed="X" n="0562c11"/><entry><form>不可不慎</form><def><p id="pX21p0562c1105" place="inline" rend="margin-left:1em">慎言則少過也。</p></def></entry>
+<lb ed="X" n="0562c12"/><entry><form>分地</form><def><p id="pX21p0562c1203" place="inline" rend="margin-left:1em">王制曰天子之田方千里公侯百里伯七十
+<lb ed="X" n="0562c13"/>里子男五十里。</p></def></entry>
+<lb ed="X" n="0562c14"/><entry><form>九州</form><def><p id="pX21p0562c1403" place="inline" rend="margin-left:1em">一冀州二&CB05839;三青四徐五揚六荊七豫八梁
+<lb ed="X" n="0562c15"/>九雍。</p></def></entry>
+<lb ed="X" n="0562c16"/><entry><form>都</form><def><p id="pX21p0562c1602" place="inline" rend="margin-left:1em">猶&CB15119;也國君聚人而&CB15119;會也。</p></def></entry>
+<lb ed="X" n="0562c17"/><entry><form>邑</form><def><p id="pX21p0562c1702" place="inline" rend="margin-left:1em">防邑也邑人之聚會。</p></def></entry>
+<lb ed="X" n="0562c18"/><entry><form>王畿</form><def><p id="pX21p0562c1803" place="inline" rend="margin-left:1em">祁音方千里以象曰。</p></def></entry>
+<lb ed="X" n="0562c19"/><entry><form>親疏多少</form><def><p id="pX21p0562c1905" place="inline" rend="margin-left:1em">近者為親遠者為疏七&CB08775;曰多五三等
+<lb ed="X" n="0562c20"/>漸少。</p></def></entry>
+<lb ed="X" n="0562c21"/><entry><form>封土</form><def><p id="pX21p0562c2103" place="inline" rend="margin-left:1em">封聚也。</p></def></entry><entry place="inline"><form>除地</form><def><p id="pX21p0562c2108" place="inline" rend="margin-left:1em">除掃也。</p></def></entry>
+<lb ed="X" n="0562c22"/><entry><form>示將去然</form><def><p id="pX21p0562c2205" place="inline" rend="margin-left:1em">先在墠者遷入石函為鬼故云去也然
+<lb ed="X" n="0562c23"/>語助耳。</p></def></entry>
+<lb ed="X" n="0562c24"/><entry><form>應遷</form><def><p id="pX21p0562c2403" place="inline" rend="margin-left:1em">應平聲當也。</p></def></entry>
+<pb ed="X" id="X21.0376.0563a" n="0563a"/>
+<lb ed="X" n="0563a01"/><entry><form>享&CB00573;乃止</form><def><p id="pX21p0563a0105" place="inline" rend="margin-left:1em">享&CB00453;秋祭曰&CB00573;秋物備矣故特舉之。</p></def></entry>
+<lb ed="X" n="0563a02"/><entry><form>昭行</form><def><p id="pX21p0563a0203" place="inline" rend="margin-left:1em">昭明也父有文明之德以治天下晉景公諱
+<lb ed="X" n="0563a03"/>昭改呼為韶。</p></def></entry>
+<lb ed="X" n="0563a04"/><entry><form>寄藏武祧</form><def><p id="pX21p0563a0405" place="inline" rend="margin-left:1em">自后稷<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>下文王當穆武王當昭故昭
+<lb ed="X" n="0563a05"/>行寄武穆行寄文。</p></def></entry>
+<lb ed="X" n="0563a06"/><entry><form>穆行</form><def><p id="pX21p0563a0603" place="inline" rend="margin-left:1em">穆敬也子肅敬於父。</p></def></entry>
+<lb ed="X" n="0563a07"/><entry><form>寄藏文祧</form><def><p id="pX21p0563a0705" place="inline" rend="margin-left:1em">寄藏謂四時不祭也。</p></def></entry>
+<lb ed="X" n="0563a08"/><entry><form>禘祫</form><def><p id="pX21p0563a0803" place="inline" rend="margin-left:1em">禘大也祫也三年一禘五年一祫禘以夏祭
+<lb ed="X" n="0563a09"/>祫以冬祭。</p></def></entry>
+<lb ed="X" n="0563a10"/><entry><form>去祖為壇</form><def><p id="pX21p0563a1005" place="inline" rend="margin-left:1em">次文云顯考祖考無&CB08775;故為二壇以祭
+<lb ed="X" n="0563a11"/>之。</p></def></entry>
+<lb ed="X" n="0563a12"/><entry><form>適士</form><def><p id="pX21p0563a1203" place="inline" rend="margin-left:1em">的音王之上士。</p></def></entry><entry place="inline"><form>官師</form><def><p id="pX21p0563a1211" place="inline" rend="margin-left:1em">一官之長。</p></def></entry>
+<lb ed="X" n="0563a13"/><entry><form>庶人無廟</form><def><p id="pX21p0563a1305" place="inline" rend="margin-left:1em">祭之於寢。</p></def></entry><entry place="inline"><form>上士</form><def><p id="pX21p0563a1311" place="inline" rend="margin-left:1em">今之正卿。</p></def></entry>
+<lb ed="X" n="0563a14"/><entry><form>中士</form><def><p id="pX21p0563a1403" place="inline" rend="margin-left:1em">今之朝官。</p></def></entry><entry place="inline"><form>下士</form><def><p id="pX21p0563a1409" place="inline" rend="margin-left:1em">今之少官。</p></def></entry>
+<lb ed="X" n="0563a15"/><entry><form>府史之屬</form><def><p id="pX21p0563a1505" place="inline" rend="margin-left:1em">主天子庫藏曰府主天子圖籍曰史屬
+<lb ed="X" n="0563a16"/>徒也。</p>
+<lb ed="X" n="0563a17"/><p id="pX21p0563a1701" rend="margin-left:1em">尚書云七世之廟可以觀德今直書名圖庶易詳
+<lb ed="X" n="0563a18"/>&CB15095;焉。</p>
+<lb ed="X" n="0563a19"/>
+<lb ed="X" n="0563a20"/>
+<lb ed="X" n="0563a21"/>
+<lb ed="X" n="0563a22"/>
+<lb ed="X" n="0563a23"/>
+<lb ed="X" n="0563a24"/>
+<pb ed="X" id="X21.0376.0563b" n="0563b"/>
+<lb ed="X" n="0563b01"/><p id="pX21p0563b0101" rend="margin-left:1em"><figure entity="FigX21p0563_01"/></p>
+<lb ed="X" n="0563b02"/>
+<lb ed="X" n="0563b03"/>
+<lb ed="X" n="0563b04"/>
+<lb ed="X" n="0563b05"/>
+<lb ed="X" n="0563b06"/>
+<lb ed="X" n="0563b07"/>
+<lb ed="X" n="0563b08"/>
+<lb ed="X" n="0563b09"/>
+<lb ed="X" n="0563b10"/><p id="pX21p0563b1001" rend="margin-left:1em">有志於摭華鈔者未始不廣引夏殷周以至于有
+<lb ed="X" n="0563b11"/>唐立廟之多少歷代之差當是皆亡本逐末叛釋
+<lb ed="X" n="0563b12"/>泥儒耳試為陳之夫鈔者疏之助也&CB00528;疏以通經
+<lb ed="X" n="0563b13"/>由經以明孝此其大&CB01356;也今諸家殊不究疏之之
+<lb ed="X" n="0563b14"/>要辭經之之孝道但漁獵鈔文穿鑿群籍立廟有
+<lb ed="X" n="0563b15"/>多少歷代有差當豈非亡本逐末叛釋泥儒乎然
+<lb ed="X" n="0563b16"/>摭華引禮記祭法其中注文皆鄭氏之微言向出
+<lb ed="X" n="0563b17"/>名圖兼示昭行寄藏武穆行寄藏文耳然而子廟
+<lb ed="X" n="0563b18"/>既向於父則祖與孫同列矣而言遷廟者蓋四親
+<lb ed="X" n="0563b19"/>之名雖遷而昭穆之行不移此通制也若謂互而
+<lb ed="X" n="0563b20"/>遷之無乃乖於昭穆失於寄藏者乎且立&CB08775;之宏
+<lb ed="X" n="0563b21"/>規實儒家之大務而空門末學率易辨之亦猶握
+<lb ed="X" n="0563b22"/>管窺天持螺酌海又安能知其高闊深廣哉。</p></def></entry>
+<lb ed="X" n="0563b23"/><entry><form>嚳</form><def><p id="pX21p0563b2302" place="inline" rend="margin-left:1em">哭音。</p></def></entry><entry place="inline"><form>釗</form><def><p id="pX21p0563b2305" place="inline" rend="margin-left:1em">招音。</p></def></entry>
+<lb ed="X" n="0563b24"/><entry><form>扈</form><def><p id="pX21p0563b2402" place="inline" rend="margin-left:1em">戶音。</p></def></entry><entry place="inline"><form>五教</form><def><p id="pX21p0563b2406" place="inline" rend="margin-left:1em">義慈友恭孝。</p></def></entry>
+<pb ed="X" id="X21.0376.0563c" n="0563c"/>
+<lb ed="X" n="0563c01"/><entry><form>孝弟</form><def><p id="pX21p0563c0103" place="inline" rend="margin-left:1em">去呼善事父母曰孝善事兄&CB00106;曰弟。</p></def></entry>
+<lb ed="X" n="0563c02"/><entry><form>踵</form><def><p id="pX21p0563c0202" place="inline" rend="margin-left:1em">足後。</p></def></entry><entry place="inline"><form>肖</form><def><p id="pX21p0563c0205" place="inline" rend="margin-left:1em">似也不似其先。</p></def></entry>
+<lb ed="X" n="0563c03"/><entry><form>得中</form><def><p id="pX21p0563c0303" place="inline" rend="margin-left:1em">得其中庸。</p></def></entry><entry place="inline"><form>子思</form><def><p id="pX21p0563c0309" place="inline" rend="margin-left:1em">名伋給音。</p></def></entry>
+<lb ed="X" n="0563c04"/><entry><form>伯魚</form><def><p id="pX21p0563c0403" place="inline" rend="margin-left:1em">孔鯉字也。</p></def></entry><entry place="inline"><form>跂</form><def><p id="pX21p0563c0408" place="inline" rend="margin-left:1em">企音望也。</p></def></entry>
+<lb ed="X" n="0563c05"/><entry><form>杖而後起</form><def><p id="pX21p0563c0505" place="inline" rend="margin-left:1em">父亡竹杖母亡桐杖。</p></def></entry>
+<lb ed="X" n="0563c06"/><entry><form>陽貨</form><def><p id="pX21p0563c0603" place="inline" rend="margin-left:1em">即陽虎也。</p></def></entry>
+<lb ed="X" n="0563c07"/><entry><form>疏雖論禮壞樂崩</form><def><p id="pX21p0563c0708" place="inline" rend="margin-left:1em">宰我雖說禮壞樂崩。</p></def></entry>
+<lb ed="X" n="0563c08"/><entry><form>終訶衣錦食稻</form><def><p id="pX21p0563c0807" place="inline" rend="margin-left:1em">仲尼終責衣錦食稻。</p></def></entry>
+<lb ed="X" n="0563c09"/><entry><form>衣</form><def><p id="pX21p0563c0902" place="inline" rend="margin-left:1em">意音。</p></def></entry><entry place="inline"><form>食</form><def><p id="pX21p0563c0905" place="inline" rend="margin-left:1em">嗣音。</p></def></entry>
+<lb ed="X" n="0563c10"/><entry><form>宰我</form><def><p id="pX21p0563c1003" place="inline" rend="margin-left:1em">姓宰名予字子我。</p></def></entry>
+<lb ed="X" n="0563c11"/><entry><form>禮必壞</form><def><p id="pX21p0563c1104" place="inline" rend="margin-left:1em">禮壞無以撿人&CB00528;也。</p></def></entry>
+<lb ed="X" n="0563c12"/><entry><form>樂必崩</form><def><p id="pX21p0563c1204" place="inline" rend="margin-left:1em">樂崩無以和人心也。</p></def></entry>
+<lb ed="X" n="0563c13"/><entry><form>鑽燧改火</form><def><p id="pX21p0563c1305" place="inline" rend="margin-left:1em">春取楊柳之火夏取棗杏秋取柞楢冬
+<lb ed="X" n="0563c14"/>取槐檀柞側嫁切楢子由切。</p></def></entry>
+<lb ed="X" n="0563c15"/><entry><form>食旨</form><def><p id="pX21p0563c1503" place="inline" rend="margin-left:1em">旨美也。</p></def></entry>
+<lb ed="X" n="0563c16"/><entry><form>蔓延</form><def><p id="pX21p0563c1603" place="inline" rend="margin-left:1em">上萬音延去聲若蘿蔓延而不絕也。</p></def></entry>
+<lb ed="X" n="0563c17"/><entry><form>布濩</form><def><p id="pX21p0563c1703" place="inline" rend="margin-left:1em">下護音長多貌出文選注文。</p></def></entry>
+<lb ed="X" n="0563c18"/><entry><form>通喪</form><def><p id="pX21p0563c1803" place="inline" rend="margin-left:1em">孔曰自天子達於庶人。</p></def></entry>
+<lb ed="X" n="0563c19"/><entry><form>始從鹿苑</form><def><p id="pX21p0563c1905" place="inline" rend="margin-left:1em">亦名施鹿林文出智度論。</p></def></entry>
+<lb ed="X" n="0563c20"/><entry><form>終至&CB15112;林</form><def><p id="pX21p0563c2005" place="inline" rend="margin-left:1em">佛臨涅槃四&CB04639;八樹皆悉變白如白&CB15112;
+<lb ed="X" n="0563c21"/>然。</p></def></entry>
+<lb ed="X" n="0563c22"/><entry><form>肇啟五乘</form><def><p id="pX21p0563c2205" place="inline" rend="margin-left:1em">釋上鹿苑誘五乘之之權也。</p></def></entry>
+<lb ed="X" n="0563c23"/><entry><form>卒圓三點</form><def><p id="pX21p0563c2305" place="inline" rend="margin-left:1em">釋上&CB15112;林歸三點之實也三點喻三德
+<lb ed="X" n="0563c24"/>法身斷德般若智德解脫恩德亦如梵書伊字二
+<pb ed="X" id="X21.0376.0564a" n="0564a"/>
+<lb ed="X" n="0564a01"/>點在上一點在下首羅三日則一在上二在下。</p></def></entry>
+<lb ed="X" n="0564a02"/><entry><form>梵音廣略</form><def><p id="pX21p0564a0205" place="inline" rend="margin-left:1em">廣則四字略唯三字。</p></def></entry>
+<lb ed="X" n="0564a03"/><entry><form>左右</form><def><p id="pX21p0564a0303" place="inline" rend="margin-left:1em">猶云楚夏也。</p></def></entry>
+<lb ed="X" n="0564a04"/><entry><form>晉譯華嚴</form><def><p id="pX21p0564a0405" place="inline" rend="margin-left:1em">即覺賢三藏譯成六十卷。</p></def></entry>
+<lb ed="X" n="0564a05"/><entry><form>二障麤細</form><def><p id="pX21p0564a0505" place="inline" rend="margin-left:1em">煩惱障麤所知障細。</p></def></entry>
+<lb ed="X" n="0564a06"/><entry><form>非三五等時</form><def><p id="pX21p0564a0606" place="inline" rend="margin-left:1em">此辨逐機頓教非三五漸收。</p></def></entry>
+<lb ed="X" n="0564a07"/><entry><form>三時</form><def><p id="pX21p0564a0703" place="inline" rend="margin-left:1em">武丘岌法師謂初見有得道次見空得道後
+<lb ed="X" n="0564a08"/>&CB04639;照空有。</p></def></entry>
+<lb ed="X" n="0564a09"/><entry><form>五時</form><def><p id="pX21p0564a0903" place="inline" rend="margin-left:1em">道場<note n="0564001" resp="Xuzangjing" place="foot text" type="orig">原本佚失惠以下三十二行今文係後人補入是故其文字不正</note>惠觀師謂一有相教二無相教三抑揚
+<lb ed="X" n="0564a10"/>教四同歸教五常住教。</p></def></entry><entry place="inline"><form>不徇</form><def><p id="pX21p0564a1012" place="inline" rend="margin-left:1em">隨也。</p></def></entry>
+<lb ed="X" n="0564a11"/><entry><form>經詮理智</form><def><p id="pX21p0564a1105" place="inline" rend="margin-left:1em">此標次文說華嚴也清&CB00289;疏云理開体
+<lb ed="X" n="0564a12"/>用號大方廣知分因果名佛華嚴。</p></def></entry>
+<lb ed="X" n="0564a13"/><entry><form>律詮德行</form><def><p id="pX21p0564a1305" place="inline" rend="margin-left:1em">此標次文說梵網也賢首疏以攝律儀
+<lb ed="X" n="0564a14"/>戒攝善法戒攝眾生戒皆用三眾淨戒釋十重四
+<lb ed="X" n="0564a15"/>十八輕。</p></def></entry>
+<lb ed="X" n="0564a16"/><entry><form>悟通解悟證悟</form><def><p id="pX21p0564a1607" place="inline" rend="margin-left:1em">地前能取未亡解悟也登地理智
+<lb ed="X" n="0564a17"/>一如證悟也此釋經詮理智。</p></def></entry>
+<lb ed="X" n="0564a18"/><entry><form>行通悟後悟前</form><def><p id="pX21p0564a1807" place="inline" rend="margin-left:1em">始脩隨相行悟前也終證離相行
+<lb ed="X" n="0564a19"/>悟後也此約三聚戒釋律詮德行。</p></def></entry>
+<lb ed="X" n="0564a20"/><entry><form>摩竭提</form><def><p id="pX21p0564a2004" place="inline" rend="margin-left:1em">云無毒害。</p></def></entry><entry place="inline"><form>阿蘭若法</form><def><p id="pX21p0564a2012" place="inline" rend="margin-left:1em">云最靜法。</p></def></entry>
+<lb ed="X" n="0564a21"/><entry><form>七處</form><def><p id="pX21p0564a2103" place="inline" rend="margin-left:1em">人間三處菩提場普光明殿逝多林天上四
+<lb ed="X" n="0564a22"/>所忉利夜摩兜<app><lem wit="【CBETA】" resp="CBETA.maha">率</lem><rdg wit="【卍續】">卒</rdg></app>他化自在。</p></def></entry>
+<lb ed="X" n="0564a23"/><entry><form>九會</form><def><p id="pX21p0564a2303" place="inline" rend="margin-left:1em">以普光明重說兩會添七成九。</p></def></entry>
+<lb ed="X" n="0564a24"/><entry><form>五周</form><def><p id="pX21p0564a2403" place="inline" rend="margin-left:1em">周&CB00642;也即五周因果一所信因果二差別因
+<pb ed="X" id="X21.0376.0564b" n="0564b"/>
+<lb ed="X" n="0564b01"/>果三平等因果四成行因果五證入因果。</p></def></entry>
+<lb ed="X" n="0564b02"/><entry><form>六位</form><def><p id="pX21p0564b0203" place="inline" rend="margin-left:1em">十信三賢十地等覺即六位圓因也。</p></def></entry>
+<lb ed="X" n="0564b03"/><entry><form>但略標名</form><def><p id="pX21p0564b0305" place="inline" rend="margin-left:1em">釋疏不引華嚴。</p></def></entry>
+<lb ed="X" n="0564b04"/><entry><form>餘生</form><def><p id="pX21p0564b0403" place="inline" rend="margin-left:1em">餘諸眾生。</p></def></entry>
+<lb ed="X" n="0564b05"/><entry><form>稱性之戒</form><def><p id="pX21p0564b0505" place="inline" rend="margin-left:1em">彼經云非色非心非有非無非因果法
+<lb ed="X" n="0564b06"/>諸佛之本源耳。</p></def></entry>
+<lb ed="X" n="0564b07"/><entry><form>頓制</form><def><p id="pX21p0564b0703" place="inline" rend="margin-left:1em">十重四十八經。</p></def></entry>
+<lb ed="X" n="0564b08"/><entry><form>十支</form><def><p id="pX21p0564b0803" place="inline" rend="margin-left:1em">小乘但七身三口四今約大乘加意三。</p></def></entry>
+<lb ed="X" n="0564b09"/><entry><form>初義</form><def><p id="pX21p0564b0903" place="inline" rend="margin-left:1em">即孝為至極之道等。</p></def></entry><entry place="inline"><form>&CB17766;</form><def><p id="pX21p0564b0912" place="inline" rend="margin-left:1em">猶云過也。</p></def></entry>
+<lb ed="X" n="0564b10"/><entry><form>樂正子春</form><def><p id="pX21p0564b1005" place="inline" rend="margin-left:1em">正掌也即掌樂之官名子春姓未詳。</p></def></entry>
+<lb ed="X" n="0564b11"/><entry><form>子春曰善句跬</form><def><p id="pX21p0564b1107" place="inline" rend="margin-left:1em">丘弭切三尺曰跬六尺曰步。</p></def></entry>
+<lb ed="X" n="0564b12"/><entry><form>衾</form><def><p id="pX21p0564b1202" place="inline" rend="margin-left:1em">被也。</p></def></entry>
+<lb ed="X" n="0564b13"/><entry><form>戰戰至薄冰</form><def><p id="pX21p0564b1306" place="inline" rend="margin-left:1em">戰戰恐懼兢兢戒慎矣小子者弟子
+<lb ed="X" n="0564b14"/>也憂陷。</p></def></entry>
+<lb ed="X" n="0564b15"/><entry><form>而今而後吾知免夫</form><def><p id="pX21p0564b1509" place="inline" rend="margin-left:1em">句。</p></def></entry>
+<lb ed="X" n="0564b16"/><entry><form>小子</form><def><p id="pX21p0564b1603" place="inline" rend="margin-left:1em">鄭曰乃今日後我自知免於患難矣小子者
+<lb ed="X" n="0564b17"/>弟子也呼之欲使聽誡其言。</p></def></entry>
+<lb ed="X" n="0564b18"/><entry><form>矜</form><def><p id="pX21p0564b1802" place="inline" rend="margin-left:1em">驚音。</p></def></entry><entry place="inline"><form>斷</form><def><p id="pX21p0564b1805" place="inline" rend="margin-left:1em">短音。</p></def></entry>
+<lb ed="X" n="0564b19"/><entry><form>文選</form><def><p id="pX21p0564b1903" place="inline" rend="margin-left:1em">梁昭明太子撰。</p></def></entry><entry place="inline"><form>甌駱</form><def><p id="pX21p0564b1911" place="inline" rend="margin-left:1em">甌地名駱姓也。</p></def></entry>
+<lb ed="X" n="0564b20"/><entry><form>泰誓</form><def><p id="pX21p0564b2003" place="inline" rend="margin-left:1em">尚書篇名泰大也大會以誓眾。</p></def></entry>
+<lb ed="X" n="0564b21"/><entry><form>上帝</form><def><p id="pX21p0564b2103" place="inline" rend="margin-left:1em">上天大帝。</p></def></entry><entry place="inline"><form>下是</form><def><p id="pX21p0564b2109" place="inline" rend="margin-left:1em">釋降時二字也。</p></def></entry>
+<lb ed="X" n="0564b22"/><entry><form>正色</form><def><p id="pX21p0564b2203" place="inline" rend="margin-left:1em">青黃赤白黑等。</p></def></entry><entry place="inline"><form>間色</form><def><p id="pX21p0564b2211" place="inline" rend="margin-left:1em">紅綠紫碧。</p></def></entry>
+<lb ed="X" n="0564b23"/><entry><form>域中</form><def><p id="pX21p0564b2303" place="inline" rend="margin-left:1em">儒教中也四十二章經序云域內治平耳謂
+<lb ed="X" n="0564b24"/>之外教也。</p></def></entry>
+<pb ed="X" id="X21.0376.0564c" n="0564c"/>
+<lb ed="X" n="0564c01"/><entry><form>為省招害之徒</form><def><p id="pX21p0564c0107" place="inline" rend="margin-left:1em">言作過招禍之者也。</p></def></entry>
+<lb ed="X" n="0564c02"/><entry><form>太伯</form><def><p id="pX21p0564c0203" place="inline" rend="margin-left:1em">周太王之長子。</p></def></entry>
+<lb ed="X" n="0564c03"/><entry><form>斷髮文身</form><def><p id="pX21p0564c0305" place="inline" rend="margin-left:1em">以讓位之德亦不可用也。</p></def></entry>
+<lb ed="X" n="0564c04"/><entry><form>歎為至德</form><def><p id="pX21p0564c0405" place="inline" rend="margin-left:1em">論語云泰伯其謂至德也<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>矣。</p></def></entry>
+<lb ed="X" n="0564c05"/><entry><form>夷齊餓死</form><def><p id="pX21p0564c0505" place="inline" rend="margin-left:1em">白夷叔齊孤竹君之二子餓死于首陽
+<lb ed="X" n="0564c06"/>山之下首去聲。</p></def></entry>
+<lb ed="X" n="0564c07"/><entry><form>稱曰賢人</form><def><p id="pX21p0564c0705" place="inline" rend="margin-left:1em">子貢曰伯夷叔齊何人也仲尼曰古之
+<lb ed="X" n="0564c08"/>賢人也。</p></def></entry><entry place="inline"><form>排斥</form><def><p id="pX21p0564c0806" place="inline" rend="margin-left:1em">排擯斥逐。</p></def></entry>
+<lb ed="X" n="0564c09"/><entry><form>幾諫</form><def><p id="pX21p0564c0903" place="inline" rend="margin-left:1em">上平聲微也。</p></def></entry><entry place="inline"><form>波羅門</form><def><p id="pX21p0564c0911" place="inline" rend="margin-left:1em">此云淨志。</p></def></entry>
+<lb ed="X" n="0564c10"/><entry><form>七多羅樹</form><def><p id="pX21p0564c1005" place="inline" rend="margin-left:1em">似此方&CB00673;櫚高長六七尺。</p></def></entry>
+<lb ed="X" n="0564c11"/><entry><form>娑羅</form><def><p id="pX21p0564c1103" place="inline" rend="margin-left:1em">此云堅固。</p></def></entry>
+<lb ed="X" n="0564c12"/><entry><form>王充</form><def><p id="pX21p0564c1203" place="inline" rend="margin-left:1em">僧述無鬼論為圭&CB00123;取破。</p></def></entry>
+<lb ed="X" n="0564c13"/><entry><form>人死精亡而形存</form><def><p id="pX21p0564c1308" place="inline" rend="margin-left:1em">且證留形二字其實識神不亡
+<lb ed="X" n="0564c14"/>而身形不存如下破之文。</p></def></entry>
+<lb ed="X" n="0564c15"/><entry><form>有子</form><def><p id="pX21p0564c1503" place="inline" rend="margin-left:1em">姓名若字有子。</p></def></entry>
+<lb ed="X" n="0564c16"/><entry><form>中都</form><def><p id="pX21p0564c1603" place="inline" rend="margin-left:1em">仲尼曾為中都宰自宰為司空由司空為司
+<lb ed="X" n="0564c17"/>&CB02480;。</p></def></entry>
+<lb ed="X" n="0564c18"/><entry><form>衣衾而舉之</form><def><p id="pX21p0564c1806" place="inline" rend="margin-left:1em">大小<app><lem wit="【CBETA】" resp="CBETA.maha">斂</lem><rdg wit="【卍續】">歛</rdg></app>時之也衾單被也用之舉屍
+<lb ed="X" n="0564c19"/>入棺并覆屍上。</p></def></entry>
+<lb ed="X" n="0564c20"/><entry><form>卜其宅兆</form><def><p id="pX21p0564c2005" place="inline" rend="margin-left:1em">龜曰卜選以定吉凶苟不預卜地下或
+<lb ed="X" n="0564c21"/>值伏石涌泉則不安其親也。</p></def></entry><entry place="inline"><form>措</form><def><p id="pX21p0564c2113" place="inline" rend="margin-left:1em">置也。</p></def></entry>
+<lb ed="X" n="0564c22"/><entry><form>韓康伯</form><def><p id="pX21p0564c2204" place="inline" rend="margin-left:1em">名伯字康伯師王弼注易繫辭。</p></def></entry>
+<lb ed="X" n="0564c23"/><entry><form>西域記</form><def><p id="pX21p0564c2304" place="inline" rend="margin-left:1em">唐三藏撰十卷。</p></def></entry>
+<lb ed="X" n="0564c24"/><entry><form>四分</form><def><p id="pX21p0564c2403" place="inline" rend="margin-left:1em">業疏序云據說之章段也。</p></def></entry>
+<pb ed="X" id="X21.0376.0565a" n="0565a"/>
+<lb ed="X" n="0565a01"/><entry><form>一一墮</form><def><p id="pX21p0565a0104" place="inline" rend="margin-left:1em">搥&CB00291;并泣皆犯故云一一梵網波逸提義
+<lb ed="X" n="0565a02"/>&CB00549;為墮墮在燒暑覆障地獄。</p></def></entry>
+<lb ed="X" n="0565a03"/><entry><form>吉羅</form><def><p id="pX21p0565a0303" place="inline" rend="margin-left:1em">具云突吉羅善見&CB00549;云惡作。</p></def></entry>
+<lb ed="X" n="0565a04"/><entry><form>散齊七日以定之</form><def><p id="pX21p0565a0408" place="inline" rend="margin-left:1em">定其志意此猶居本處也。</p></def></entry>
+<lb ed="X" n="0565a05"/><entry><form>致齋三日以齋之</form><def><p id="pX21p0565a0508" place="inline" rend="margin-left:1em">出本處往&CB08775;側今宿齋廳是也。</p></def></entry>
+<lb ed="X" n="0565a06"/><entry><form>致齋於內下</form><def><p id="pX21p0565a0606" place="inline" rend="margin-left:1em">此則致齋於&CB08775;內散齋於&CB08775;外也。</p></def></entry>
+<lb ed="X" n="0565a07"/><entry><form>見其所為齋者</form><def><p id="pX21p0565a0707" place="inline" rend="margin-left:1em">鄭玄云思之孰也為去聲。</p></def></entry>
+<lb ed="X" n="0565a08"/><entry><form>設供如今經</form><def><p id="pX21p0565a0806" place="inline" rend="margin-left:1em">言忌辰設供如蘭盆薦親。</p></def></entry>
+<lb ed="X" n="0565a09"/><entry><form>疏資其業報</form><def><p id="pX21p0565a0906" place="inline" rend="margin-left:1em">助其善業樂報。</p></def></entry>
+<lb ed="X" n="0565a10"/><entry><form>禘礿陽義</form><def><p id="pX21p0565a1005" place="inline" rend="margin-left:1em">礿祭之月當三陽生寅位以一陽生於
+<lb ed="X" n="0565a11"/>子位是十一月至正月即三陽也禘祭之月當六
+<lb ed="X" n="0565a12"/>陽生於巳位即四月也。</p></def></entry>
+<lb ed="X" n="0565a13"/><entry><form>&CB00573;烝陰義</form><def><p id="pX21p0565a1305" place="inline" rend="margin-left:1em">&CB00573;祭之月當三陰生申位以一陰生於
+<lb ed="X" n="0565a14"/>午位是五月至七月即三陰也烝祭之月六陰生
+<lb ed="X" n="0565a15"/>於亥位即十月也。</p></def></entry>
+<lb ed="X" n="0565a16"/><entry><form>夏者尊卑著</form><def><p id="pX21p0565a1606" place="inline" rend="margin-left:1em">春生萬物至夏大小分矣可以祭先
+<lb ed="X" n="0565a17"/>祖。</p></def></entry><entry place="inline"><form>卒哭</form><def><p id="pX21p0565a1704" place="inline" rend="margin-left:1em">百日。</p></def></entry>
+<lb ed="X" n="0565a18"/><entry><form>祥日</form><def><p id="pX21p0565a1803" place="inline" rend="margin-left:1em">小祥&CB04407;年大祥三年。</p></def></entry>
+<lb ed="X" n="0565a19"/><entry><form>布施二田</form><def><p id="pX21p0565a1905" place="inline" rend="margin-left:1em">三寶敬田貧病悲田。</p></def></entry>
+<lb ed="X" n="0565a20"/><entry><form>姬周</form><def><p id="pX21p0565a2003" place="inline" rend="margin-left:1em">姬姓周代。</p></def></entry><entry place="inline"><form>夷狄</form><def><p id="pX21p0565a2009" place="inline" rend="margin-left:1em">東夷北狄。</p></def></entry>
+<lb ed="X" n="0565a21"/><entry><form>圖難於易</form><def><p id="pX21p0565a2105" place="inline" rend="margin-left:1em">佛教報應難弘禮法祭祀易舉。</p></def></entry>
+<lb ed="X" n="0565a22"/><entry><form>陟遐自邇</form><def><p id="pX21p0565a2205" place="inline" rend="margin-left:1em">遐遠佛教也邇近禮法也。</p></def></entry>
+<lb ed="X" n="0565a23"/><entry><form>先遣二聖</form><def><p id="pX21p0565a2305" place="inline" rend="margin-left:1em">老子摩訶迦葉仲尼光淨童子。</p></def></entry>
+<lb ed="X" n="0565a24"/><entry><form>支那</form><def><p id="pX21p0565a2403" place="inline" rend="margin-left:1em">亦名震旦此云思惟以情慮多端故。</p></def></entry>
+<pb ed="X" id="X21.0376.0565b" n="0565b"/>
+<lb ed="X" n="0565b01"/><entry><form>列子</form><def><p id="pX21p0565b0103" place="inline" rend="margin-left:1em">姓列名禦<app><lem wit="【CBETA】" resp="CBETA.maha">&CB04223;</lem><rdg wit="【卍續】">&CB15259;</rdg></app>宋國人著書八篇莊子師之。</p></def></entry>
+<lb ed="X" n="0565b02"/><entry><form>商太宰嚭</form><def><p id="pX21p0565b0205" place="inline" rend="margin-left:1em">商姓太宰官也名嚭。</p></def></entry>
+<lb ed="X" n="0565b03"/><entry><form>博識彊記</form><def><p id="pX21p0565b0305" place="inline" rend="margin-left:1em">明五常述六經生民<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>來未有如夫子
+<lb ed="X" n="0565b04"/>者也彊巨良切。</p></def></entry><entry place="inline"><form>三王</form><def><p id="pX21p0565b0409" place="inline" rend="margin-left:1em">夏殷周。</p></def></entry>
+<lb ed="X" n="0565b05"/><entry><form>善用智勇</form><def><p id="pX21p0565b0505" place="inline" rend="margin-left:1em">洪水滔天夏禹治之善用智也殷伐夏
+<lb ed="X" n="0565b06"/>桀周伐殷紂皆其勇也。</p></def></entry>
+<lb ed="X" n="0565b07"/><entry><form>五帝</form><def><p id="pX21p0565b0703" place="inline" rend="margin-left:1em">少昊顓頊高辛唐堯虞舜。</p></def></entry>
+<lb ed="X" n="0565b08"/><entry><form>善用仁信</form><def><p id="pX21p0565b0805" place="inline" rend="margin-left:1em">五帝心雖無為而&CB00528;陟有為以德教化
+<lb ed="X" n="0565b09"/>於民善用仁信也。</p></def></entry>
+<lb ed="X" n="0565b10"/><entry><form>三皇</form><def><p id="pX21p0565b1003" place="inline" rend="margin-left:1em">伏羲神農黃帝。</p></def></entry>
+<lb ed="X" n="0565b11"/><entry><form>善用時</form><def><p id="pX21p0565b1104" place="inline" rend="margin-left:1em">三皇心既無為而&CB00528;亦無為以道化於民
+<lb ed="X" n="0565b12"/>故云善用時老子云動善智此其證也。</p></def></entry>
+<lb ed="X" n="0565b13"/><entry><form>駭</form><def><p id="pX21p0565b1302" place="inline" rend="margin-left:1em">驚也。</p></def></entry><entry place="inline"><form>匿</form><def><p id="pX21p0565b1305" place="inline" rend="margin-left:1em">隱也。</p></def></entry><entry place="inline"><form>&CB17754;</form><def><p id="pX21p0565b1308" place="inline" rend="margin-left:1em">過也。</p></def></entry>
+<lb ed="X" n="0565b14"/><entry><form>子貢</form><def><p id="pX21p0565b1403" place="inline" rend="margin-left:1em">字也姓端木名賜。</p></def></entry>
+<lb ed="X" n="0565b15"/><entry><form>告朔</form><def><p id="pX21p0565b1503" place="inline" rend="margin-left:1em">告音谷朔穌也魄死而復蘇。</p></def></entry>
+<lb ed="X" n="0565b16"/><entry><form>餼</form><def><p id="pX21p0565b1602" place="inline" rend="margin-left:1em">戲音腥羊曰餼。</p></def></entry><entry place="inline"><form>朝享</form><def><p id="pX21p0565b1610" place="inline" rend="margin-left:1em">上直遙切。</p></def></entry>
+<lb ed="X" n="0565b17"/><entry><form>東漢</form><def><p id="pX21p0565b1703" place="inline" rend="margin-left:1em">後漢光武都洛邑為東前漢高祖都長安為
+<lb ed="X" n="0565b18"/>西。</p></def></entry>
+<lb ed="X" n="0565b19"/><entry><form>之初</form><def><p id="pX21p0565b1903" place="inline" rend="margin-left:1em">即第二主明帝名莊永平年夜夢金人翔于
+<lb ed="X" n="0565b20"/>殿庭。</p></def></entry>
+<lb ed="X" n="0565b21"/><entry><form>佛法肇至</form><def><p id="pX21p0565b2105" place="inline" rend="margin-left:1em">騰蘭齎四十二章經并白&CB15802;像等。</p></def></entry>
+<lb ed="X" n="0565b22"/><entry><form>真宗</form><def><p id="pX21p0565b2203" place="inline" rend="margin-left:1em">即佛教。</p></def></entry>
+<lb ed="X" n="0565b23"/><entry><form>逮疏主之世</form><def><p id="pX21p0565b2306" place="inline" rend="margin-left:1em">逮及也謂德宗之代。</p></def></entry>
+<lb ed="X" n="0565b24"/><entry><form>疏莫大於施生</form><def><p id="pX21p0565b2407" place="inline" rend="margin-left:1em">施平聲先儒云施生而不為故能
+<pb ed="X" id="X21.0376.0565c" n="0565c"/>
+<lb ed="X" n="0565c01"/>常生。</p></def></entry>
+<lb ed="X" n="0565c02"/><entry><form>乾卦</form><def><p id="pX21p0565c0203" place="inline" rend="margin-left:1em">乾健也本以象天天体乾用也。</p></def></entry>
+<lb ed="X" n="0565c03"/><entry><form>帝釋</form><def><p id="pX21p0565c0303" place="inline" rend="margin-left:1em">具云釋迦因陀羅此云能天帝。</p></def></entry>
+<lb ed="X" n="0565c04"/><entry><form>四等</form><def><p id="pX21p0565c0403" place="inline" rend="margin-left:1em">慈悲善捨化生平等故。</p></def></entry>
+<lb ed="X" n="0565c05"/><entry><form>梵王</form><def><p id="pX21p0565c0503" place="inline" rend="margin-left:1em">色界初天王。</p></def></entry>
+<lb ed="X" n="0565c06"/><entry><form>潔靜精微</form><def><p id="pX21p0565c0605" place="inline" rend="margin-left:1em">禮記經解云潔靜精微易教也。</p></def></entry>
+<lb ed="X" n="0565c07"/><entry><form>至命之書</form><def><p id="pX21p0565c0705" place="inline" rend="margin-left:1em">易云窮理&CB15148;性以至于命。</p></def></entry>
+<lb ed="X" n="0565c08"/><entry><form>春畋不圍澤</form><def><p id="pX21p0565c0806" place="inline" rend="margin-left:1em">曲禮云國君春畋不圍澤鄭注云生
+<lb ed="X" n="0565c09"/>乳之時重傷其類畋獵也。</p></def></entry>
+<lb ed="X" n="0565c10"/><entry><form>大夫不揜群</form><def><p id="pX21p0565c1006" place="inline" rend="margin-left:1em">言卿大夫行獵不盡群而多取也。</p></def></entry>
+<lb ed="X" n="0565c11"/><entry><form>士不取麛卵</form><def><p id="pX21p0565c1106" place="inline" rend="margin-left:1em">麛迷音鹿子也卵鳥子也。</p></def></entry>
+<lb ed="X" n="0565c12"/><entry><form>釣而不<note n="0565001" resp="Xuzangjing" place="foot text" type="orig">綱一作網</note>綱</form><def><p id="pX21p0565c1205" place="inline" rend="margin-left:1em">垂一釣取之不以大<note n="0565002" resp="Xuzangjing" place="foot text" type="orig">繩一作網</note>繩橫列水內懸多
+<lb ed="X" n="0565c13"/>&CB00424;取多魚也。</p></def></entry>
+<lb ed="X" n="0565c14"/><entry><form>弋不射宿</form><def><p id="pX21p0565c1405" place="inline" rend="margin-left:1em">以線繫箭射之曰弋然仲尼不射宿禽
+<lb ed="X" n="0565c15"/>恐傷眾類射石音弋亦音。</p></def></entry>
+<lb ed="X" n="0565c16"/><entry><form>孟子</form><def><p id="pX21p0565c1603" place="inline" rend="margin-left:1em">名軻字子輿師子思治中庸之書。</p></def></entry>
+<lb ed="X" n="0565c17"/><entry><form>&CB08383;鐘之牛</form><def><p id="pX21p0565c1705" place="inline" rend="margin-left:1em">&CB08383;與釁同新鑄鐘殺牲以血塗其釁&CB00992;
+<lb ed="X" n="0565c18"/>因以祭之。</p></def></entry>
+<lb ed="X" n="0565c19"/><entry><form>用殺止殺</form><def><p id="pX21p0565c1905" place="inline" rend="margin-left:1em">用少殺止多殺。</p></def></entry>
+<lb ed="X" n="0565c20"/><entry><form>楞伽</form><def><p id="pX21p0565c2003" place="inline" rend="margin-left:1em">此云種種現。</p></def></entry>
+<lb ed="X" n="0565c21"/><entry><form>八佾</form><def><p id="pX21p0565c2103" place="inline" rend="margin-left:1em">論語篇名佾逸音列也天子八佾舞於庭。</p></def></entry>
+<lb ed="X" n="0565c22"/><entry><form>月令</form><def><p id="pX21p0565c2203" place="inline" rend="margin-left:1em">秦相呂不韋造。</p></def></entry>
+<lb ed="X" n="0565c23"/><entry><form>中氣日在低</form><def><p id="pX21p0565c2306" place="inline" rend="margin-left:1em">中氣時太陽躔氐宿度。</p></def></entry>
+<lb ed="X" n="0565c24"/><entry><form>昏須女中</form><def><p id="pX21p0565c2405" place="inline" rend="margin-left:1em">謂黃昏二刻半女星現南方也。</p></def></entry>
+<pb ed="X" id="X21.0376.0566a" n="0566a"/>
+<lb ed="X" n="0566a01"/><entry><form>斗建戌位</form><def><p id="pX21p0566a0105" place="inline" rend="margin-left:1em">北斗柄指於戌位即九月也。</p></def></entry>
+<lb ed="X" n="0566a02"/><entry><form>社</form><def><p id="pX21p0566a0202" place="inline" rend="margin-left:1em">社以勾龍配享其實土神也禮記祭法曰共工
+<lb ed="X" n="0566a03"/>氏之&CB00649;九州其子曰后土能平九州故祀為社也
+<lb ed="X" n="0566a04"/>不言土地而言社者先王配之以嘉名也。</p></def></entry>
+<lb ed="X" n="0566a05"/><entry><form>稷</form><def><p id="pX21p0566a0502" place="inline" rend="margin-left:1em">稷者五&CB00591;之&CB15119;名也立壇祭之報先農也其神
+<lb ed="X" n="0566a06"/>以后稷為主禮記祭法云厲山氏有天下也其子
+<lb ed="X" n="0566a07"/>曰農能植百穀夏之衰周棄繼之故祀以為稷也。</p></def></entry>
+<lb ed="X" n="0566a08"/><entry><form>&CB00493;</form><def><p id="pX21p0566a0802" place="inline" rend="margin-left:1em">嗣音。</p></def></entry>
+<lb ed="X" n="0566a09"/><entry><form>犧牲</form><def><p id="pX21p0566a0903" place="inline" rend="margin-left:1em">純色牛羊豕曰犧滌牢中養曰牲耳角齊者
+<lb ed="X" n="0566a10"/>曰純色即童子牛也。</p></def></entry>
+<lb ed="X" n="0566a11"/><entry><form>誄</form><def><p id="pX21p0566a1102" place="inline" rend="margin-left:1em">力軏切累也言人死後累其德行。</p></def></entry>
+<lb ed="X" n="0566a12"/><entry><form>達士徇名</form><def><p id="pX21p0566a1205" place="inline" rend="margin-left:1em">此一句是誄辭曹子建作。</p></def></entry>
+<lb ed="X" n="0566a13"/><entry><form>鄉</form><def><p id="pX21p0566a1302" place="inline" rend="margin-left:1em">音向。</p></def></entry>
+<lb ed="X" n="0566a14"/><entry><form>孔氏傳</form><def><p id="pX21p0566a1404" place="inline" rend="margin-left:1em">孔安國注尚書蓋言傳通其義也。</p></def></entry>
+<lb ed="X" n="0566a15"/><entry><form>&CB00589;</form><def><p id="pX21p0566a1502" place="inline" rend="margin-left:1em">山夾水&CB00589;。</p></def></entry><entry place="inline"><form>谿</form><def><p id="pX21p0566a1507" place="inline" rend="margin-left:1em">水注川曰谿。</p></def></entry>
+<lb ed="X" n="0566a16"/><entry><form>沼</form><def><p id="pX21p0566a1602" place="inline" rend="margin-left:1em">小池。</p></def></entry><entry place="inline"><form>沚</form><def><p id="pX21p0566a1605" place="inline" rend="margin-left:1em">小渚。</p></def></entry>
+<lb ed="X" n="0566a17"/><entry><form>蘋</form><def><p id="pX21p0566a1702" place="inline" rend="margin-left:1em">大者曰蘋小者曰萍。</p></def></entry><entry place="inline"><form>蘩</form><def><p id="pX21p0566a1711" place="inline" rend="margin-left:1em">蒿也。</p></def></entry>
+<lb ed="X" n="0566a18"/><entry><form>蘊藻</form><def><p id="pX21p0566a1803" place="inline" rend="margin-left:1em">聚藻也如海藻之類。</p></def></entry>
+<lb ed="X" n="0566a19"/><entry><form>筐</form><def><p id="pX21p0566a1902" place="inline" rend="margin-left:1em">區方切。</p></def></entry><entry place="inline"><form>筥</form><def><p id="pX21p0566a1906" place="inline" rend="margin-left:1em">九呂切。</p></def></entry>
+<lb ed="X" n="0566a20"/><entry><form>&CB15353;</form><def><p id="pX21p0566a2002" place="inline" rend="margin-left:1em">犧音即三足鼎。</p></def></entry>
+<lb ed="X" n="0566a21"/><entry><form>潢汗</form><def><p id="pX21p0566a2103" place="inline" rend="margin-left:1em">停蓄之水也上黃音下鳥音。</p></def></entry>
+<lb ed="X" n="0566a22"/><entry><form>行潦</form><def><p id="pX21p0566a2203" place="inline" rend="margin-left:1em">流水也上平聲下老音。</p></def></entry>
+<lb ed="X" n="0566a23"/><entry><form>東鄰</form><def><p id="pX21p0566a2303" place="inline" rend="margin-left:1em">紂居衛國朝歌之地故曰東。</p></def></entry>
+<lb ed="X" n="0566a24"/><entry><form>西鄰</form><def><p id="pX21p0566a2403" place="inline" rend="margin-left:1em">文王在岐山之陽故曰西伯。</p></def></entry>
+<pb ed="X" id="X21.0376.0566b" n="0566b"/>
+<lb ed="X" n="0566b01"/><entry><form>王弼</form><def><p id="pX21p0566b0103" place="inline" rend="margin-left:1em">字輔嗣官至尚書年二十四受饗。</p></def></entry>
+<lb ed="X" n="0566b02"/><entry><form>內外障</form><def><p id="pX21p0566b0204" place="inline" rend="margin-left:1em">內障炬火針咽外障見大力鬼等。</p></def></entry>
+<lb ed="X" n="0566b03"/><entry><form>子游</form><def><p id="pX21p0566b0303" place="inline" rend="margin-left:1em">字也姓言名偃。</p></def></entry>
+<lb ed="X" n="0566b04"/><entry><form>一曰</form><def><p id="pX21p0566b0403" place="inline" rend="margin-left:1em">即何晏子平叔注辭。</p></def></entry>
+<lb ed="X" n="0566b05"/><entry><form>食而不愛豕交之</form><def><p id="pX21p0566b0508" place="inline" rend="margin-left:1em">人之交接但食而不愛若養豕
+<lb ed="X" n="0566b06"/>也食嗣音。</p></def></entry>
+<lb ed="X" n="0566b07"/><entry><form>愛而不敬獸畜之</form><def><p id="pX21p0566b0708" place="inline" rend="margin-left:1em">如人畜獸但愛而不能敬也。</p></def></entry>
+<lb ed="X" n="0566b08"/><entry><form>七多</form><def><p id="pX21p0566b0803" place="inline" rend="margin-left:1em">孝衡云其樹高四十九尺以七尺為一仞七
+<lb ed="X" n="0566b09"/>仞為一多羅七多羅計三百四十三尺也。</p></def></entry>
+<lb ed="X" n="0566b10"/><entry><form>僧俗之儀</form><def><p id="pX21p0566b1005" place="inline" rend="margin-left:1em">應云出世之儀。</p></def></entry>
+<lb ed="X" n="0566b11"/><entry><form>曲禮下</form><def><p id="pX21p0566b1104" place="inline" rend="margin-left:1em">禮記內則篇敘孝行大同。</p></def></entry>
+<lb ed="X" n="0566b12"/><entry><form>東觀漢記</form><def><p id="pX21p0566b1205" place="inline" rend="margin-left:1em">後漢劉珍等撰觀去聲漢時於宮前造
+<lb ed="X" n="0566b13"/>東西兩觀今之史&CB00419;是也。</p></def></entry>
+<lb ed="X" n="0566b14"/><entry><form>僧祇</form><def><p id="pX21p0566b1403" place="inline" rend="margin-left:1em">具云摩訶僧祇此&CB00549;大眾部。</p></def></entry>
+<lb ed="X" n="0566b15"/><entry><form>增一</form><def><p id="pX21p0566b1503" place="inline" rend="margin-left:1em">即阿含經。</p></def></entry>
+<lb ed="X" n="0566b16"/><entry><form>太子父母等</form><def><p id="pX21p0566b1606" place="inline" rend="margin-left:1em">太子即釋迦生身父母即淨飯摩耶
+<lb ed="X" n="0566b17"/>羅&CB00264;羅賊即調達也。</p></def></entry>
+<lb ed="X" n="0566b18"/><entry><form>篡</form><def><p id="pX21p0566b1802" place="inline" rend="margin-left:1em">初患切奪也。</p></def></entry><entry place="inline"><form>文常</form><def><p id="pX21p0566b1809" place="inline" rend="margin-left:1em">即前漢第三主。</p></def></entry>
+<lb ed="X" n="0566b19"/><entry><form>文王世子</form><def><p id="pX21p0566b1905" place="inline" rend="margin-left:1em">古無定制繼世之子即周文王也。</p></def></entry>
+<lb ed="X" n="0566b20"/><entry><form>不脫冠帶而養</form><def><p id="pX21p0566b2007" place="inline" rend="margin-left:1em">言常待左右也。</p></def></entry>
+<lb ed="X" n="0566b21"/><entry><form>亦一飯</form><def><p id="pX21p0566b2104" place="inline" rend="margin-left:1em">欲知氣力鍼藥所勝也。</p></def></entry>
+<lb ed="X" n="0566b22"/><entry><form>間</form><def><p id="pX21p0566b2202" place="inline" rend="margin-left:1em">去聲。</p></def></entry><entry place="inline"><form>唐傳</form><def><p id="pX21p0566b2206" place="inline" rend="margin-left:1em">澄照大師撰。</p></def></entry>
+<lb ed="X" n="0566b23"/><entry><form>高齊</form><def><p id="pX21p0566b2303" place="inline" rend="margin-left:1em">南齊姓高。</p></def></entry><entry place="inline"><form>微行</form><def><p id="pX21p0566b2309" place="inline" rend="margin-left:1em">即擔舁也。</p></def></entry>
+<lb ed="X" n="0566b24"/><entry><form>衣著食飲</form><def><p id="pX21p0566b2405" place="inline" rend="margin-left:1em">衣食皆去聲。</p></def></entry>
+<pb ed="X" id="X21.0376.0566c" n="0566c"/>
+<lb ed="X" n="0566c01"/><entry><form>女身經理</form><def><p id="pX21p0566c0105" place="inline" rend="margin-left:1em">凡母身有患皆紀經歷治理。</p></def></entry>
+<lb ed="X" n="0566c02"/><entry><form>諒陰</form><def><p id="pX21p0566c0203" place="inline" rend="margin-left:1em">諒與亮皆信也信任冢宰曰諒不言國政曰
+<lb ed="X" n="0566c03"/>陰。</p></def></entry>
+<lb ed="X" n="0566c04"/><entry><form>說命</form><def><p id="pX21p0566c0403" place="inline" rend="margin-left:1em">悅音名也姓傅高宗命之為相。</p></def></entry>
+<lb ed="X" n="0566c05"/><entry><form>見齒</form><def><p id="pX21p0566c0503" place="inline" rend="margin-left:1em">上胡旬切。</p></def></entry>
+<lb ed="X" n="0566c06"/><entry><form>喪與其易也寧慼</form><def><p id="pX21p0566c0608" place="inline" rend="margin-left:1em">易以致切包咸云喪失於和不
+<lb ed="X" n="0566c07"/>如慼也。</p></def></entry><entry place="inline"><form>清卓</form><def><p id="pX21p0566c0706" place="inline" rend="margin-left:1em">清尚高卓。</p></def></entry>
+<lb ed="X" n="0566c08"/><entry><form>白&CB00626;</form><def><p id="pX21p0566c0803" place="inline" rend="margin-left:1em">應法師經音云天竺貴布也。</p></def></entry>
+<lb ed="X" n="0566c09"/><entry><form>難陀</form><def><p id="pX21p0566c0903" place="inline" rend="margin-left:1em">此云喜佛親弟。</p></def></entry>
+<lb ed="X" n="0566c10"/><entry><form>羅云</form><def><p id="pX21p0566c1003" place="inline" rend="margin-left:1em">佛嫡子也&CB00549;梵如前。</p></def></entry>
+<lb ed="X" n="0566c11"/><entry><form>喪足</form><def><p id="pX21p0566c1103" place="inline" rend="margin-left:1em">喪車之後。</p></def></entry>
+<lb ed="X" n="0566c12"/><entry><form>六反震動</form><def><p id="pX21p0566c1205" place="inline" rend="margin-left:1em">應云六種震動大疏云震即是聲動即
+<lb ed="X" n="0566c13"/>是形聲兼吼擊形兼起踊故有六種此六各三成
+<lb ed="X" n="0566c14"/>十八相次下列經疏注之。</p></def></entry>
+<lb ed="X" n="0566c15"/><entry><form>經云動&CB00642;動普&CB00642;動</form><def><p id="pX21p0566c1509" place="inline" rend="margin-left:1em">疏云搖颺不安為動。</p></def></entry>
+<lb ed="X" n="0566c16"/><entry><form>起&CB00642;起普&CB00642;起</form><def><p id="pX21p0566c1607" place="inline" rend="margin-left:1em">自下漸高為起。</p></def></entry>
+<lb ed="X" n="0566c17"/><entry><form>踊&CB00642;踊普&CB00642;踊</form><def><p id="pX21p0566c1707" place="inline" rend="margin-left:1em">忽然騰舉為踊。</p></def></entry>
+<lb ed="X" n="0566c18"/><entry><form>震&CB00642;震普&CB00642;震</form><def><p id="pX21p0566c1807" place="inline" rend="margin-left:1em">隱隱出聲為震。</p></def></entry>
+<lb ed="X" n="0566c19"/><entry><form>吼&CB00642;吼普&CB00642;吼</form><def><p id="pX21p0566c1907" place="inline" rend="margin-left:1em">雄聲郁遏為吼。</p></def></entry>
+<lb ed="X" n="0566c20"/><entry><form>擊&CB00642;擊普&CB00642;擊</form><def><p id="pX21p0566c2007" place="inline" rend="margin-left:1em">砰&CB02858;發響為擊廣釋十八相具如
+<lb ed="X" n="0566c21"/>華嚴大疏。</p></def></entry><entry place="inline"><form>不載</form><def><p id="pX21p0566c2107" place="inline" rend="margin-left:1em">上聲記也。</p></def></entry>
+<lb ed="X" n="0566c22"/><entry><form>舁</form><def><p id="pX21p0566c2202" place="inline" rend="margin-left:1em">以諸切對舉曰舁。</p></def></entry>
+<lb ed="X" n="0566c23"/><entry><form>禮不足</form><def><p id="pX21p0566c2304" place="inline" rend="margin-left:1em">殯葬之禮。</p></def></entry>
+<lb ed="X" n="0566c24"/><entry><form>西晉</form><def><p id="pX21p0566c2403" place="inline" rend="margin-left:1em">武帝司馬氏都洛陽為西晉至愍帝渡江都
+<pb ed="X" id="X21.0376.0567a" n="0567a"/>
+<lb ed="X" n="0567a01"/>金陵為東晉。</p></def></entry>
+<lb ed="X" n="0567a02"/><entry><form>委官</form><def><p id="pX21p0567a0203" place="inline" rend="margin-left:1em">委棄其官與新令尹。</p></def></entry>
+<lb ed="X" n="0567a03"/><entry><form>星馳</form><def><p id="pX21p0567a0303" place="inline" rend="margin-left:1em">禮唯父母喪見星而行見星而舍日行百里
+<lb ed="X" n="0567a04"/>如星之奔馳。</p></def></entry><entry place="inline"><form>豫章</form><def><p id="pX21p0567a0408" place="inline" rend="margin-left:1em">洪州。</p></def></entry>
+<lb ed="X" n="0567a05"/><entry><form>太守</form><def><p id="pX21p0567a0503" place="inline" rend="margin-left:1em">今之郡侯守也始皇罷削列郡三十有六凡
+<lb ed="X" n="0567a06"/>郡一守焉。</p></def></entry>
+<lb ed="X" n="0567a07"/><entry><form>難傳</form><def><p id="pX21p0567a0703" place="inline" rend="margin-left:1em">傳字解疏弘字。</p></def></entry>
+<lb ed="X" n="0567a08"/><entry><form>善惡報應</form><def><p id="pX21p0567a0805" place="inline" rend="margin-left:1em">過去善惡為因今世苦樂為報。</p></def></entry>
+<lb ed="X" n="0567a09"/><entry><form>前驅</form><def><p id="pX21p0567a0903" place="inline" rend="margin-left:1em">猶云先鋒也。</p></def></entry>
+<lb ed="X" n="0567a10"/><entry><form>人死神滅</form><def><p id="pX21p0567a1005" place="inline" rend="margin-left:1em">如王充云人死精亡而形存精亡則神
+<lb ed="X" n="0567a11"/>滅也。</p></def></entry><entry place="inline"><form>誣</form><def><p id="pX21p0567a1104" place="inline" rend="margin-left:1em">枉也。</p></def></entry>
+<lb ed="X" n="0567a12"/><entry><form>蔑棄祖禰</form><def><p id="pX21p0567a1205" place="inline" rend="margin-left:1em">上滅音沒也禰奴禮切父也新死不切
+<lb ed="X" n="0567a13"/>言之故變父為禰。</p></def></entry>
+<lb ed="X" n="0567a14"/><entry><form>既情且狀其無形乎</form><def><p id="pX21p0567a1409" place="inline" rend="margin-left:1em">此牒上周易之文反詰儒者
+<lb ed="X" n="0567a15"/>情狀既有則神明不滅故云其無形乎下三句反
+<lb ed="X" n="0567a16"/>詰倣此消文。</p></def></entry>
+<lb ed="X" n="0567a17"/><entry><form>三后</form><def><p id="pX21p0567a1703" place="inline" rend="margin-left:1em">太王王季文王。</p></def></entry>
+<lb ed="X" n="0567a18"/><entry><form>王配于京</form><def><p id="pX21p0567a1805" place="inline" rend="margin-left:1em">武王又能配行其道於京鄭玄云鎬京
+<lb ed="X" n="0567a19"/>在豐水之東也。</p></def></entry>
+<lb ed="X" n="0567a20"/><entry><form>升靈上旻</form><def><p id="pX21p0567a2005" place="inline" rend="margin-left:1em">旻天也反詰三后在天也。</p></def></entry>
+<lb ed="X" n="0567a21"/><entry><form>大禹所祇</form><def><p id="pX21p0567a2105" place="inline" rend="margin-left:1em">大禹即牒上夏王也所祗即反詰敬神
+<lb ed="X" n="0567a22"/>也。</p></def></entry>
+<lb ed="X" n="0567a23"/><entry><form>請代武王</form><def><p id="pX21p0567a2305" place="inline" rend="margin-left:1em">出尚書金縢篇武王有疾周公作請命
+<lb ed="X" n="0567a24"/>之書以代武王。</p></def></entry>
+<pb ed="X" id="X21.0376.0567b" n="0567b"/>
+<lb ed="X" n="0567b01"/><entry><form>姬旦禱親</form><def><p id="pX21p0567b0105" place="inline" rend="margin-left:1em">周公名旦禱親則反牒武王故云可&CB00980;
+<lb ed="X" n="0567b02"/>罔乎。</p></def></entry><entry place="inline"><form>背叛</form><def><p id="pX21p0567b0205" place="inline" rend="margin-left:1em">隱匿也。</p></def></entry>
+<lb ed="X" n="0567b03"/><entry><form>五經</form><def><p id="pX21p0567b0303" place="inline" rend="margin-left:1em">上文但引詩書禮易四經而該攝春秋云五
+<lb ed="X" n="0567b04"/>經。</p></def></entry>
+<lb ed="X" n="0567b05"/><entry><form>非直誣佛亦侮聖也</form><def><p id="pX21p0567b0509" place="inline" rend="margin-left:1em">不但誣毀於佛教亦乃侮慢
+<lb ed="X" n="0567b06"/>周孔聖典也先儒云侮聖言而不習。</p></def></entry>
+<lb ed="X" n="0567b07"/><entry><form>餘趣</form><def><p id="pX21p0567b0703" place="inline" rend="margin-left:1em">通六趣。</p></def></entry>
+<lb ed="X" n="0567b08"/><entry><form>已遷他蘊</form><def><p id="pX21p0567b0805" place="inline" rend="margin-left:1em">謂中陰身別遷他趣五蘊耳。</p></def></entry>
+<lb ed="X" n="0567b09"/><entry><form>陶</form><def><p id="pX21p0567b0902" place="inline" rend="margin-left:1em">遙音。</p></def></entry>
+<lb ed="X" n="0567b10"/><entry><form>士五刑有服</form><def><p id="pX21p0567b1006" place="inline" rend="margin-left:1em">士理官也言刑之輕重各使服從。</p></def></entry>
+<lb ed="X" n="0567b11"/><entry><form>劓</form><def><p id="pX21p0567b1102" place="inline" rend="margin-left:1em">魚器切。</p></def></entry><entry place="inline"><form>剕</form><def><p id="pX21p0567b1106" place="inline" rend="margin-left:1em">扶沸切。</p></def></entry><entry place="inline"><form>大辟</form><def><p id="pX21p0567b1111" place="inline" rend="margin-left:1em">大罪。</p></def></entry>
+<lb ed="X" n="0567b12"/><entry><form>革與服改制度</form><def><p id="pX21p0567b1207" place="inline" rend="margin-left:1em">改革車輿服飾製度。</p></def></entry>
+<lb ed="X" n="0567b13"/><entry><form>刖</form><def><p id="pX21p0567b1302" place="inline" rend="margin-left:1em">月音。</p></def></entry>
+<lb ed="X" n="0567b14"/><entry><form>決關梁</form><def><p id="pX21p0567b1404" place="inline" rend="margin-left:1em">決開也謂開其關而撤其梁。</p></def></entry>
+<lb ed="X" n="0567b15"/><entry><form>踰</form><def><p id="pX21p0567b1502" place="inline" rend="margin-left:1em">越也。</p></def></entry>
+<lb ed="X" n="0567b16"/><entry><form>閹人</form><def><p id="pX21p0567b1603" place="inline" rend="margin-left:1em">古者閹官守門即今之黃門也。</p></def></entry>
+<lb ed="X" n="0567b17"/><entry><form><app><lem wit="【CBETA】" resp="CBETA.maha">&CB04223;</lem><rdg wit="【卍續】">&CB15259;</rdg></app></form><def><p id="pX21p0567b1702" place="inline" rend="margin-left:1em">自內而取曰&CB02480;。</p></def></entry><entry place="inline"><form>賊</form><def><p id="pX21p0567b1709" place="inline" rend="margin-left:1em">自外而取曰賊。</p></def></entry>
+<lb ed="X" n="0567b18"/><entry><form>&CB04068;</form><def><p id="pX21p0567b1802" place="inline" rend="margin-left:1em">用兵而取曰&CB04068;。</p></def></entry>
+<lb ed="X" n="0567b19"/><entry><form>掠</form><def><p id="pX21p0567b1902" place="inline" rend="margin-left:1em">音諒巡行而取曰掠。</p></def></entry>
+<lb ed="X" n="0567b20"/><entry><form>奪</form><def><p id="pX21p0567b2002" place="inline" rend="margin-left:1em">欺弱而取曰奪。</p></def></entry>
+<lb ed="X" n="0567b21"/><entry><form>攘</form><def><p id="pX21p0567b2102" place="inline" rend="margin-left:1em">以手御物曰攘語云其父攘羊。</p></def></entry>
+<lb ed="X" n="0567b22"/><entry><form>矯</form><def><p id="pX21p0567b2202" place="inline" rend="margin-left:1em">詐也詐稱上命取之。</p></def></entry>
+<lb ed="X" n="0567b23"/><entry><form>虐</form><def><p id="pX21p0567b2302" place="inline" rend="margin-left:1em">殺也行殺盜物。</p></def></entry>
+<lb ed="X" n="0567b24"/><entry><form>周穆王</form><def><p id="pX21p0567b2404" place="inline" rend="margin-left:1em">周第六王諱昭。</p></def></entry><entry place="inline"><form>享</form><def><p id="pX21p0567b2411" place="inline" rend="margin-left:1em">當也。</p></def></entry>
+<pb ed="X" id="X21.0376.0567c" n="0567c"/>
+<lb ed="X" n="0567c01"/><entry><form>司&CB02480;</form><def><p id="pX21p0567c0103" place="inline" rend="margin-left:1em">掌刑典之官。</p></def></entry>
+<lb ed="X" n="0567c02"/><entry><form>今訓夏贖刑</form><def><p id="pX21p0567c0206" place="inline" rend="margin-left:1em">使訓暢夏禹贖刑之法。</p></def></entry>
+<lb ed="X" n="0567c03"/><entry><form>三十國春秋</form><def><p id="pX21p0567c0306" place="inline" rend="margin-left:1em">揀魯國春秋列晉宋等國肅方等撰。</p></def></entry>
+<lb ed="X" n="0567c04"/><entry><form>池陽</form><def><p id="pX21p0567c0403" place="inline" rend="margin-left:1em">姓池名陽。</p></def></entry><entry place="inline"><form>舍</form><def><p id="pX21p0567c0408" place="inline" rend="margin-left:1em">捨音。</p></def></entry>
+<lb ed="X" n="0567c05"/><entry><form>破羯磨轉法輪僧</form><def><p id="pX21p0567c0508" place="inline" rend="margin-left:1em">羯磨此云辨事破義如雜心論
+<lb ed="X" n="0567c06"/>廣明。</p></def></entry>
+<lb ed="X" n="0567c07"/><entry><form>七遮</form><def><p id="pX21p0567c0703" place="inline" rend="margin-left:1em">即七逆一出佛身血二殺父三害母四殺和
+<lb ed="X" n="0567c08"/>尚五殺阿闍梨六破羯磨轉法輪僧七殺聖人。</p></def></entry>
+<lb ed="X" n="0567c09"/><entry><form>妻</form><def><p id="pX21p0567c0902" place="inline" rend="margin-left:1em">砌音。</p></def></entry><entry place="inline"><form>禪</form><def><p id="pX21p0567c0905" place="inline" rend="margin-left:1em">去聲讓也。</p></def></entry>
+<lb ed="X" n="0567c10"/><entry><form>郭巨</form><def><p id="pX21p0567c1003" place="inline" rend="margin-left:1em">孝德傳曰郭巨家貧養老母有一子三歲母
+<lb ed="X" n="0567c11"/>常減食與之巨謂妻曰貧乏不能供給共汝埋之
+<lb ed="X" n="0567c12"/>子可再有母豈再得遂掘&CB15568;二尺餘忽見黃金一
+<lb ed="X" n="0567c13"/>釜釜上云天賜孝子郭巨官不得奪人不得取。</p></def></entry>
+<lb ed="X" n="0567c14"/><entry><form>董永</form><def><p id="pX21p0567c1403" place="inline" rend="margin-left:1em">青州千桑縣人父亡無以葬乃以身質錢一
+<lb ed="X" n="0567c15"/>萬永謂主曰若無錢還當以為奴葬訖將之中路
+<lb ed="X" n="0567c16"/>逢女求為永婦乃為織絹還錢主畢女即去曰吾
+<lb ed="X" n="0567c17"/>天女也見君至孝天使為君償債也。</p></def></entry>
+<lb ed="X" n="0567c18"/><entry><form>廩</form><def><p id="pX21p0567c1802" place="inline" rend="margin-left:1em">倉有屋曰廩。</p></def></entry>
+<lb ed="X" n="0567c19"/><entry><form>周官</form><def><p id="pX21p0567c1903" place="inline" rend="margin-left:1em">周禮建官有一百二十。</p></def></entry>
+<lb ed="X" n="0567c20"/><entry><form>五&CB00591;</form><def><p id="pX21p0567c2003" place="inline" rend="margin-left:1em">有云百&CB00591;揚泉物理論云粱者黍稷之總名
+<lb ed="X" n="0567c21"/>稻者溉種之總名菽者眾豆之總名三&CB00591;各二十
+<lb ed="X" n="0567c22"/>種為六十&CB02174;果之實助&CB00591;各二十凡為百&CB00591;。</p></def></entry>
+<lb ed="X" n="0567c23"/><entry><form>義必互通</form><def><p id="pX21p0567c2305" place="inline" rend="margin-left:1em">如於貧病下悲心通敬孝二心也承順
+<lb ed="X" n="0567c24"/>三寶下敬心通孝悲二心也父母不敬下孝心通
+<pb ed="X" id="X21.0376.0568a" n="0568a"/>
+<lb ed="X" n="0568a01"/>敬悲二心也母音無。</p></def></entry>
+<lb ed="X" n="0568a02"/><entry><form>福田者衣士釋</form><def><p id="pX21p0568a0207" place="inline" rend="margin-left:1em">田是能生故劣福是所生故勝前
+<lb ed="X" n="0568a03"/>劣後勝故名依士。</p></def></entry><entry place="inline"><form><note n="0568001" resp="Xuzangjing" place="foot text" type="orig">裁下卅一行古本闕脫書寫補入</note>裁省</form><def><p id="pX21p0568a0310" place="inline" rend="margin-left:1em">裁量省察。</p></def></entry>
+<lb ed="X" n="0568a04"/><entry><form>疏法有大小教有權實</form><def><p id="pX21p0568a0410" place="inline" rend="margin-left:1em">小乘法權教也大乘法實
+<lb ed="X" n="0568a05"/>教也賢首亦判般若心經為實教也。</p></def></entry>
+<lb ed="X" n="0568a06"/><entry><form>經藏亦詮餘二</form><def><p id="pX21p0568a0607" place="inline" rend="margin-left:1em">如楞嚴七處徵心論藏也自行離
+<lb ed="X" n="0568a07"/>魔律藏也。</p></def></entry>
+<lb ed="X" n="0568a08"/><entry><form>下之二藏比例可知</form><def><p id="pX21p0568a0809" place="inline" rend="margin-left:1em">律藏亦有經論論藏亦有經
+<lb ed="X" n="0568a09"/>律。</p></def></entry>
+<lb ed="X" n="0568a10"/><entry><form>婆沙</form><def><p id="pX21p0568a1003" place="inline" rend="margin-left:1em">此云廣解或&CB00549;種種說。</p></def></entry>
+<lb ed="X" n="0568a11"/><entry><form>疏論則推徵解釋</form><def><p id="pX21p0568a1108" place="inline" rend="margin-left:1em">宗釋二論皆有推徵解釋。</p></def></entry>
+<lb ed="X" n="0568a12"/><entry><form>從容判經</form><def><p id="pX21p0568a1205" place="inline" rend="margin-left:1em">蓯音言此經攝於化制故云從容也。</p></def></entry>
+<lb ed="X" n="0568a13"/><entry><form>以分制化</form><def><p id="pX21p0568a1305" place="inline" rend="margin-left:1em">論為能解經律所解解經屬化解律屬
+<lb ed="X" n="0568a14"/>制。</p></def></entry><entry place="inline"><form>憑心靈覺</form><def><p id="pX21p0568a1406" place="inline" rend="margin-left:1em">歸佛。</p></def></entry>
+<lb ed="X" n="0568a15"/><entry><form>憑佛所說</form><def><p id="pX21p0568a1505" place="inline" rend="margin-left:1em">歸法。</p></def></entry><entry place="inline"><form>憑心正伴</form><def><p id="pX21p0568a1511" place="inline" rend="margin-left:1em">歸僧。</p></def></entry>
+<lb ed="X" n="0568a16"/><entry><form>曇無德</form><def><p id="pX21p0568a1604" place="inline" rend="margin-left:1em">此云法密亦云法藏。</p></def></entry>
+<lb ed="X" n="0568a17"/><entry><form>薩婆多</form><def><p id="pX21p0568a1704" place="inline" rend="margin-left:1em">此云一切有也。</p></def></entry>
+<lb ed="X" n="0568a18"/><entry><form>徑挺</form><def><p id="pX21p0568a1803" place="inline" rend="margin-left:1em">即長小貌。</p></def></entry>
+<lb ed="X" n="0568a19"/><entry><form>六天</form><def><p id="pX21p0568a1903" place="inline" rend="margin-left:1em">四王忉利夜摩兜率化樂他化。</p></def></entry>
+<lb ed="X" n="0568a20"/><entry><form>八定</form><def><p id="pX21p0568a2003" place="inline" rend="margin-left:1em">空處識處無有處非非想處加四禪成八也。</p></def></entry>
+<lb ed="X" n="0568a21"/><entry><form>埤倉</form><def><p id="pX21p0568a2103" place="inline" rend="margin-left:1em">上卑音張揖撰文有三卷。</p></def></entry><entry place="inline"><form>汎</form><def><p id="pX21p0568a2114" place="inline" rend="margin-left:1em">通也。</p></def></entry>
+<lb ed="X" n="0568a22"/><entry><form>父有爭子</form><def><p id="pX21p0568a2205" place="inline" rend="margin-left:1em">有諫爭孝子也。</p></def></entry>
+<lb ed="X" n="0568a23"/><entry><form>故當不義</form><def><p id="pX21p0568a2305" place="inline" rend="margin-left:1em">當為也矣。</p></def></entry>
+<lb ed="X" n="0568a24"/><entry><form>扶持之</form><def><p id="pX21p0568a2404" place="inline" rend="margin-left:1em">慮有舉動之失故扶而持之也。</p></def></entry>
+<pb ed="X" id="X21.0376.0568b" n="0568b"/>
+<lb ed="X" n="0568b01"/><entry><form>子則然無常人</form><def><p id="pX21p0568b0107" place="inline" rend="margin-left:1em">但是父子皆須如然非常定在一
+<lb ed="X" n="0568b02"/>人也如父有三子不可分日限而就養也。</p></def></entry>
+<lb ed="X" n="0568b03"/><entry><form>可以語其得失</form><def><p id="pX21p0568b0307" place="inline" rend="margin-left:1em">如晏嬰適齊齊問楚國政嬰以過
+<lb ed="X" n="0568b04"/>失語之。</p></def></entry>
+<lb ed="X" n="0568b05"/><entry><form>不可侵官</form><def><p id="pX21p0568b0505" place="inline" rend="margin-left:1em">各有司職。</p></def></entry>
+<lb ed="X" n="0568b06"/><entry><form>方喪資於事父不聽</form><def><p id="pX21p0568b0609" place="inline" rend="margin-left:1em">平聲。</p></def></entry>
+<lb ed="X" n="0568b07"/><entry><form>子夏</form><def><p id="pX21p0568b0703" place="inline" rend="margin-left:1em">字也姓卜名商。</p></def></entry>
+<lb ed="X" n="0568b08"/><entry><form>世傳</form><def><p id="pX21p0568b0803" place="inline" rend="margin-left:1em">非經史所載也。</p></def></entry>
+<lb ed="X" n="0568b09"/><entry><form>昆子</form><def><p id="pX21p0568b0903" place="inline" rend="margin-left:1em">其人生來不順父臨終令葬水中欲其須葬
+<lb ed="X" n="0568b10"/>於山後乃依之。</p></def></entry>
+<lb ed="X" n="0568b11"/><entry><form>聲罪</form><def><p id="pX21p0568b1103" place="inline" rend="margin-left:1em">揚聲陳首罪名。</p></def></entry>
+<lb ed="X" n="0568b12"/><entry><form>王祥</form><def><p id="pX21p0568b1203" place="inline" rend="margin-left:1em">字休祺臨浙人承事繼母。</p></def></entry>
+<lb ed="X" n="0568b13"/><entry><form>賣身</form><def><p id="pX21p0568b1303" place="inline" rend="margin-left:1em">賣猶質也。</p></def></entry><entry place="inline"><form>從晉</form><def><p id="pX21p0568b1309" place="inline" rend="margin-left:1em">上去聲。</p></def></entry>
+<lb ed="X" n="0568b14"/><entry><form>盾三諫靈公</form><def><p id="pX21p0568b1406" place="inline" rend="margin-left:1em">靈公無道樹樓臺彈人民。</p></def></entry>
+<lb ed="X" n="0568b15"/><entry><form>公怒欲段之</form><def><p id="pX21p0568b1506" place="inline" rend="margin-left:1em">公作夾幕藏五百甲兵欲害之。</p></def></entry>
+<lb ed="X" n="0568b16"/><entry><form>盾走</form><def><p id="pX21p0568b1603" place="inline" rend="margin-left:1em">句。</p></def></entry>
+<lb ed="X" n="0568b17"/><entry><form>出乘車</form><def><p id="pX21p0568b1704" place="inline" rend="margin-left:1em">輒為五百甲兵之一故扶輪以報之。</p></def></entry>
+<lb ed="X" n="0568b18"/><entry><form>無扶輪之說</form><def><p id="pX21p0568b1806" place="inline" rend="margin-left:1em">不須和會。</p></def></entry>
+<lb ed="X" n="0568b19"/><entry><form>佛說盂蘭盆經</form><def><p id="pX21p0568b1907" place="inline" rend="margin-left:1em">從寬至狹三對在焉經為能詮上
+<lb ed="X" n="0568b20"/>皆所詮佛為能說余皆所說盆為能教盂蘭所救。</p></def></entry>
+<lb ed="X" n="0568b21"/><entry><form>晉武帝</form><def><p id="pX21p0568b2104" place="inline" rend="margin-left:1em">西晉武帝諱炎字世安即文帝之元子。</p></def></entry>
+<lb ed="X" n="0568b22"/><entry><form>惠帝</form><def><p id="pX21p0568b2203" place="inline" rend="margin-left:1em">即武帝第二子諱衷字正度。</p></def></entry>
+<lb ed="X" n="0568b23"/><entry><form>譯經圖紀</form><def><p id="pX21p0568b2305" place="inline" rend="margin-left:1em">釋靖邁撰。</p></def></entry>
+<lb ed="X" n="0568b24"/><entry><form>略舉汲灌</form><def><p id="pX21p0568b2405" place="inline" rend="margin-left:1em">即題云灌臘經。</p></def></entry>
+<pb ed="X" id="X21.0376.0568c" n="0568c"/>
+<lb ed="X" n="0568c01"/><entry><form>以省其餘</form><def><p id="pX21p0568c0105" place="inline" rend="margin-left:1em">省亦略也其餘即香油錠燭等。</p></def></entry>
+<lb ed="X" n="0568c02"/><entry><form>臘除</form><def><p id="pX21p0568c0203" place="inline" rend="margin-left:1em">呂氏春秋云前歲百擊&CB00655;驅疲癘之鬼謂之
+<lb ed="X" n="0568c03"/>逐除。</p></def></entry>
+<lb ed="X" n="0568c04"/><entry><form>倒懸</form><def><p id="pX21p0568c0403" place="inline" rend="margin-left:1em"><app><lem wit="【CBETA】" resp="CBETA.maha">孟</lem><rdg wit="【卍續】">盂</rdg></app>子猶解倒懸趙岐注喻困苦也。</p></def></entry>
+<lb ed="X" n="0568c05"/><entry><form>義淨三藏</form><def><p id="pX21p0568c0505" place="inline" rend="margin-left:1em">大宋高僧傳云釋義淨字文明姓張氏
+<lb ed="X" n="0568c06"/>范陽人也翻傳經論與奘師杭衡比其著述淨多
+<lb ed="X" n="0568c07"/>文性又按唐中宗皇帝述聖教序云法師義淨業
+<lb ed="X" n="0568c08"/>該經史學洞古今以是推之則圭&CB00123;始自釋題終
+<lb ed="X" n="0568c09"/>於解經多引其疏詞者良有以也。</p></def></entry>
+<lb ed="X" n="0568c10"/><entry><form>孔安國</form><def><p id="pX21p0568c1004" place="inline" rend="margin-left:1em">名也字子國孔子十一世孫也。</p></def></entry>
+<lb ed="X" n="0568c11"/><entry><form>冕服彩章</form><def><p id="pX21p0568c1105" place="inline" rend="margin-left:1em">冠冕服飾五彩十二章具如周禮。</p></def></entry>
+<lb ed="X" n="0568c12"/><entry><form>有夏昏德</form><def><p id="pX21p0568c1205" place="inline" rend="margin-left:1em">夏桀昏亂不恤下民。</p></def></entry>
+<lb ed="X" n="0568c13"/><entry><form>窘</form><def><p id="pX21p0568c1302" place="inline" rend="margin-left:1em">逼急之甚。</p></def></entry>
+<lb ed="X" n="0568c14"/><entry><form>六籍</form><def><p id="pX21p0568c1403" place="inline" rend="margin-left:1em">解疏典誥二字籍部也周易尚書毛詩春秋
+<lb ed="X" n="0568c15"/>周禮文河間王作樂記是為六經也。</p></def></entry>
+<lb ed="X" n="0568c16"/><entry><form>彌天</form><def><p id="pX21p0568c1603" place="inline" rend="margin-left:1em">盛德茂業如令摸鈔。</p></def></entry>
+<lb ed="X" n="0568c17"/><entry><form>習鑿齒</form><def><p id="pX21p0568c1704" place="inline" rend="margin-left:1em">姓習名鑿齒字彥戚。</p></def></entry>
+<lb ed="X" n="0568c18"/><entry><form>疏非信不階</form><def><p id="pX21p0568c1806" place="inline" rend="margin-left:1em">升也入也智度論云信為能入也。</p></def></entry>
+<lb ed="X" n="0568c19"/><entry><form>惡口車匿</form><def><p id="pX21p0568c1905" place="inline" rend="margin-left:1em">是淨飯王之奴雖投佛出家而習氣不
+<lb ed="X" n="0568c20"/>除。</p></def></entry>
+<lb ed="X" n="0568c21"/><entry><form>在某處</form><def><p id="pX21p0568c2104" place="inline" rend="margin-left:1em">處有淨土穢國穢中又有諸國故通云某
+<lb ed="X" n="0568c22"/>處。</p></def></entry>
+<lb ed="X" n="0568c23"/><entry><form>與某眾</form><def><p id="pX21p0568c2304" place="inline" rend="margin-left:1em">如圓覺十萬菩薩法華萬二千人俱故通
+<lb ed="X" n="0568c24"/>標某眾也。</p></def></entry>
+<pb ed="X" id="X21.0376.0569a" n="0569a"/>
+<lb ed="X" n="0569a01"/><entry><form>老子</form><def><p id="pX21p0569a0103" place="inline" rend="margin-left:1em">姓李名耳字陽<app><lem wit="【CBETA】" resp="CBETA.maha">諡</lem><rdg wit="【卍續】">謚</rdg></app>曰聃。</p></def></entry>
+<lb ed="X" n="0569a02"/><entry><form>諸方時分延促不定</form><def><p id="pX21p0569a0209" place="inline" rend="margin-left:1em">圓覺大鈔云諸方者豎謂上
+<lb ed="X" n="0569a03"/>下橫謂四方言延促者人間五十年四天王天一
+<lb ed="X" n="0569a04"/>晝夜等言不定有二意一則指上延促不定二謂
+<lb ed="X" n="0569a05"/>四洲晝夜不同故云不定謂北洲夜半南洲日午
+<lb ed="X" n="0569a06"/>東洲日沒西洲日出。</p></def></entry>
+<lb ed="X" n="0569a07"/><entry><form>游化住止</form><def><p id="pX21p0569a0705" place="inline" rend="margin-left:1em">游化則舍衛住止則祇園。</p></def></entry>
+<lb ed="X" n="0569a08"/><entry><form>阿含</form><def><p id="pX21p0569a0803" place="inline" rend="margin-left:1em">此云淨教。</p></def></entry>
+<lb ed="X" n="0569a09"/><entry><form>覺了真妄性相之者</form><def><p id="pX21p0569a0909" place="inline" rend="margin-left:1em">大鈔云覺妄法本空照真性
+<lb ed="X" n="0569a10"/>本淨故云覺了真妄又覺性中本無諸妄為覺性
+<lb ed="X" n="0569a11"/>照性上恒沙功德本來具足為覺相。</p></def></entry>
+<lb ed="X" n="0569a12"/><entry><form>始本合</form><def><p id="pX21p0569a1204" place="inline" rend="margin-left:1em">始覺智合本覺理也。</p></def></entry>
+<lb ed="X" n="0569a13"/><entry><form>等覺照寂</form><def><p id="pX21p0569a1305" place="inline" rend="margin-left:1em">等覺菩薩由照而至寂妙覺大聖從寂
+<lb ed="X" n="0569a14"/>而發照亦猶賢人自明而誠聖人自誠而明。</p></def></entry>
+<lb ed="X" n="0569a15"/><entry><form>疏具足欲塵</form><def><p id="pX21p0569a1506" place="inline" rend="margin-left:1em">佳麗女色。</p></def></entry>
+<lb ed="X" n="0569a16"/><entry><form>財寶</form><def><p id="pX21p0569a1603" place="inline" rend="margin-left:1em">珍奇寶物。</p></def></entry>
+<lb ed="X" n="0569a17"/><entry><form>多聞</form><def><p id="pX21p0569a1703" place="inline" rend="margin-left:1em">&CB00397;通內外典籍。</p></def></entry>
+<lb ed="X" n="0569a18"/><entry><form>解脫</form><def><p id="pX21p0569a1803" place="inline" rend="margin-left:1em">五通仙人此則國豐四德亦名豐德城。</p></def></entry>
+<lb ed="X" n="0569a19"/><entry><form>鰥</form><def><p id="pX21p0569a1902" place="inline" rend="margin-left:1em">應法師云人不&CB00895;目常鰥鰥然如魚目之不閉。</p></def></entry>
+<lb ed="X" n="0569a20"/><entry><form>無告</form><def><p id="pX21p0569a2003" place="inline" rend="margin-left:1em">告之言訴也言此四是無告訴者。</p></def></entry>
+<lb ed="X" n="0569a21"/><entry><form>君臣下</form><def><p id="pX21p0569a2104" place="inline" rend="margin-left:1em">白虎通曰君者&CB00320;下之所歸也臣者堅也
+<lb ed="X" n="0569a22"/>勵志自堅也父矩也以法度教子也子孳也孳孳
+<lb ed="X" n="0569a23"/>無<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>也兄況也況父法也弟悌也心順行篤也。</p></def></entry>
+<lb ed="X" n="0569a24"/><entry><form>園圃</form><def><p id="pX21p0569a2403" place="inline" rend="margin-left:1em">倉頡篇云種木曰園種菜曰圃。</p></def></entry>
+<pb ed="X" id="X21.0376.0569b" n="0569b"/>
+<lb ed="X" n="0569b01"/><entry><form>騰蘭</form><def><p id="pX21p0569b0103" place="inline" rend="margin-left:1em">二名未詳所&CB00549;按靖邁譯經圖紀云迦葉摩
+<lb ed="X" n="0569b02"/>騰中印度人婆羅門種幼而敏悟兼有風姿&CB00397;學
+<lb ed="X" n="0569b03"/>多聞特明經律每有新義出於神表竺法蘭者中
+<lb ed="X" n="0569b04"/>印度人禪思毗尼莫不窮玅誦經百餘萬言學徒
+<lb ed="X" n="0569b05"/>千餘居不求安常懷弘利戒範嚴峻眾莫能窺。</p></def></entry>
+<lb ed="X" n="0569b06"/><entry><form>法水初流</form><def><p id="pX21p0569b0605" place="inline" rend="margin-left:1em">齎白&CB00626;&CB15148;像四十二章經初流通此土。</p></def></entry>
+<lb ed="X" n="0569b07"/><entry><form>鴻臚</form><def><p id="pX21p0569b0703" place="inline" rend="margin-left:1em">鴻大也臚音閭陳序也言大陳序所須以禮
+<lb ed="X" n="0569b08"/>外國之賓。</p></def></entry>
+<lb ed="X" n="0569b09"/><entry><form>四夷</form><def><p id="pX21p0569b0903" place="inline" rend="margin-left:1em">東夷而戎南蠻北狄通言夷易也言禮法簡
+<lb ed="X" n="0569b10"/>易也。</p></def></entry><entry place="inline"><form>邸舍</form><def><p id="pX21p0569b1005" place="inline" rend="margin-left:1em">暫至曰邸。</p></def></entry>
+<lb ed="X" n="0569b11"/><entry><form>毗曇</form><def><p id="pX21p0569b1103" place="inline" rend="margin-left:1em">法也論名。</p></def></entry><entry place="inline"><form>別館</form><def><p id="pX21p0569b1109" place="inline" rend="margin-left:1em">白馬等寺。</p></def></entry>
+<lb ed="X" n="0569b12"/><entry><form>三漏</form><def><p id="pX21p0569b1203" place="inline" rend="margin-left:1em">煩惱并無明如小乘諸論。</p></def></entry>
+<lb ed="X" n="0569b13"/><entry><form>疏乳哺如濟食等</form><def><p id="pX21p0569b1308" place="inline" rend="margin-left:1em">青提乳哺目連如趙盾濟食靈
+<lb ed="X" n="0569b14"/>&CB00364;皆恩之實事。</p></def></entry>
+<lb ed="X" n="0569b15"/><entry><form>度脫如扶輪</form><def><p id="pX21p0569b1506" place="inline" rend="margin-left:1em">目連得神通度脫青提如靈&CB00364;為甲
+<lb ed="X" n="0569b16"/>士扶趙盾輪皆報之實事。</p></def></entry>
+<lb ed="X" n="0569b17"/><entry><form>齊斬之異</form><def><p id="pX21p0569b1705" place="inline" rend="margin-left:1em">齊資音齋者禮記外傳云齋之言齊也
+<lb ed="X" n="0569b18"/>如針縷緝其裳下之縫使齊平也斬者翦而不緝。</p></def></entry>
+<lb ed="X" n="0569b19"/><entry><form>除徹</form><def><p id="pX21p0569b1903" place="inline" rend="margin-left:1em">十三月除而徹去之。</p></def></entry>
+<lb ed="X" n="0569b20"/><entry><form>高宗</form><def><p id="pX21p0569b2003" place="inline" rend="margin-left:1em">唐第三主諱活太宗之子也。</p></def></entry>
+<lb ed="X" n="0569b21"/><entry><form>天后</form><def><p id="pX21p0569b2103" place="inline" rend="margin-left:1em">則天也以未登九五故曰天后諱&CB06061;音照。</p></def></entry>
+<lb ed="X" n="0569b22"/><entry><form>上表</form><def><p id="pX21p0569b2203" place="inline" rend="margin-left:1em">標也標陳<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">已</rdg></app>情進於上也。</p></def></entry>
+<lb ed="X" n="0569b23"/><entry><form>垂拱</form><def><p id="pX21p0569b2303" place="inline" rend="margin-left:1em">則天年號。</p></def></entry>
+<lb ed="X" n="0569b24"/><entry><form>玄宗</form><def><p id="pX21p0569b2403" place="inline" rend="margin-left:1em">唐第六主諱隆基睿宗之子。</p></def></entry>
+<pb ed="X" id="X21.0376.0569c" n="0569c"/>
+<lb ed="X" n="0569c01"/><entry><form>左補闕</form><def><p id="pX21p0569c0104" place="inline" rend="margin-left:1em">太祖皇帝改為左正言。</p></def></entry>
+<lb ed="X" n="0569c02"/><entry><form>五禮吉禮</form><def><p id="pX21p0569c0205" place="inline" rend="margin-left:1em">致敬神也。</p></def></entry>
+<lb ed="X" n="0569c03"/><entry><form>凶禮</form><def><p id="pX21p0569c0303" place="inline" rend="margin-left:1em">為之棺槨。</p></def></entry><entry place="inline"><form>賓禮</form><def><p id="pX21p0569c0309" place="inline" rend="margin-left:1em">朝聘。</p></def></entry>
+<lb ed="X" n="0569c04"/><entry><form>軍禮</form><def><p id="pX21p0569c0403" place="inline" rend="margin-left:1em">戰戎。</p></def></entry><entry place="inline"><form>嘉禮</form><def><p id="pX21p0569c0407" place="inline" rend="margin-left:1em">嫁聚。</p></def></entry>
+<lb ed="X" n="0569c05"/><entry><form>啟寤</form><def><p id="pX21p0569c0503" place="inline" rend="margin-left:1em">啟開&CB00967;與悟音義同。</p></def></entry>
+<lb ed="X" n="0569c06"/><entry><form>北遠</form><def><p id="pX21p0569c0603" place="inline" rend="margin-left:1em">隋朝慧遠法師制涅槃經疏。</p></def></entry>
+<lb ed="X" n="0569c07"/><entry><form>從母立姓</form><def><p id="pX21p0569c0705" place="inline" rend="margin-left:1em">如鶖子與慈氏。</p></def></entry><entry place="inline"><form>耐</form><def><p id="pX21p0569c0712" place="inline" rend="margin-left:1em">音柰。</p></def></entry>
+<lb ed="X" n="0569c08"/><entry><form>亦不能報</form><def><p id="pX21p0569c0805" place="inline" rend="margin-left:1em">毗柰耶云若父母無信令起信心若慳
+<lb ed="X" n="0569c09"/>者令行惠施若無智令發智慧子能如是方曰報
+<lb ed="X" n="0569c10"/>恩。</p></def></entry>
+<lb ed="X" n="0569c11"/><entry><form>十三卷</form><def><p id="pX21p0569c1104" place="inline" rend="margin-left:1em">或可第十三王從文王至幽王正當其數。</p></def></entry>
+<lb ed="X" n="0569c12"/><entry><form>幽王</form><def><p id="pX21p0569c1203" place="inline" rend="margin-left:1em">諱涅宣王之子。</p></def></entry>
+<lb ed="X" n="0569c13"/><entry><form>宋書</form><def><p id="pX21p0569c1303" place="inline" rend="margin-left:1em">劉義撰後編入南史。</p></def></entry>
+<lb ed="X" n="0569c14"/><entry><form>固窮</form><def><p id="pX21p0569c1403" place="inline" rend="margin-left:1em">君子固亦有窮時但不如小人窮則濫溢為
+<lb ed="X" n="0569c15"/>非。</p></def></entry>
+<lb ed="X" n="0569c16"/><entry><form>簞食</form><def><p id="pX21p0569c1603" place="inline" rend="margin-left:1em">上音丹竹器也下音嗣。</p></def></entry>
+<lb ed="X" n="0569c17"/><entry><form>瓢飲</form><def><p id="pX21p0569c1703" place="inline" rend="margin-left:1em">即匏片持水耳。</p></def></entry>
+<lb ed="X" n="0569c18"/><entry><form>亞聖</form><def><p id="pX21p0569c1803" place="inline" rend="margin-left:1em">亞次孔聖。</p></def></entry><entry place="inline"><form>浮</form><def><p id="pX21p0569c1808" place="inline" rend="margin-left:1em">捊音。</p></def></entry>
+<lb ed="X" n="0569c19"/><entry><form>疏朋友</form><def><p id="pX21p0569c1904" place="inline" rend="margin-left:1em">同門曰朋同志曰友。</p></def></entry>
+<lb ed="X" n="0569c20"/><entry><form>縱廣</form><def><p id="pX21p0569c2003" place="inline" rend="margin-left:1em">韓子云南北曰縱東西曰廣。</p></def></entry>
+<lb ed="X" n="0569c21"/><entry><form>刀塗道</form><def><p id="pX21p0569c2104" place="inline" rend="margin-left:1em">有云鬼折草為刀更相殺害詳之。</p></def></entry>
+<lb ed="X" n="0569c22"/><entry><form>尸子</form><def><p id="pX21p0569c2203" place="inline" rend="margin-left:1em">姓尸名佼音絞魯人著書二十篇。</p></def></entry>
+<lb ed="X" n="0569c23"/><entry><form>瑜伽</form><def><p id="pX21p0569c2303" place="inline" rend="margin-left:1em">此云相應上釋三果多依行願鈔引瑜伽解
+<lb ed="X" n="0569c24"/>之。</p></def></entry>
+<pb ed="X" id="X21.0376.0570a" n="0570a"/>
+<lb ed="X" n="0570a01"/><entry><form>孝衡</form><def><p id="pX21p0570a0103" place="inline" rend="margin-left:1em">蘭盆鈔名東京遇榮大師撰亦二卷。</p></def></entry>
+<lb ed="X" n="0570a02"/><entry><form>三時無悔</form><def><p id="pX21p0570a0205" place="inline" rend="margin-left:1em">初殺正殺<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>殺。</p></def></entry>
+<lb ed="X" n="0570a03"/><entry><form>八戒</form><def><p id="pX21p0570a0303" place="inline" rend="margin-left:1em">五戒外加六不坐高廣&CB00646;七不著華鬘纓絡
+<lb ed="X" n="0570a04"/>并香油塗身熏衣八不自歌舞不自輒往視聽。</p></def></entry>
+<lb ed="X" n="0570a05"/><entry><form>不善反此</form><def><p id="pX21p0570a0505" place="inline" rend="margin-left:1em">殺二親為上品蚊蚋為下品餘人餘畜
+<lb ed="X" n="0570a06"/>為中品。</p></def></entry>
+<lb ed="X" n="0570a07"/><entry><form>為染汙依</form><def><p id="pX21p0570a0705" place="inline" rend="margin-left:1em">即我愛我痴我見我慢四惑故三界輪
+<lb ed="X" n="0570a08"/>外&CB15148;王表慢&CB15148;女表愛&CB15148;婆羅門表見&CB15148;猴表癡
+<lb ed="X" n="0570a09"/>乃執第八相分為內我與第六為根云染依。</p></def></entry>
+<lb ed="X" n="0570a10"/><entry><form>疏此洲</form><def><p id="pX21p0570a1004" place="inline" rend="margin-left:1em">南瞻部洲。</p></def></entry>
+<lb ed="X" n="0570a11"/><entry><form>一切經音義</form><def><p id="pX21p0570a1106" place="inline" rend="margin-left:1em">應法師撰凡二十五卷。</p></def></entry>
+<lb ed="X" n="0570a12"/><entry><form>楚辭注</form><def><p id="pX21p0570a1204" place="inline" rend="margin-left:1em">王逸注之。</p></def></entry><entry place="inline"><form>通俗文</form><def><p id="pX21p0570a1211" place="inline" rend="margin-left:1em">釋通方俗之言。</p></def></entry>
+<lb ed="X" n="0570a13"/><entry><form>苦樂並受</form><def><p id="pX21p0570a1305" place="inline" rend="margin-left:1em">淨住子云王或臥&CB05033;&CB00646;等苦。</p></def></entry>
+<lb ed="X" n="0570a14"/><entry><form>楚炙賢良</form><def><p id="pX21p0570a1405" place="inline" rend="margin-left:1em">炙隻音尚書云焚炙忠良。</p></def></entry>
+<lb ed="X" n="0570a15"/><entry><form>自惡</form><def><p id="pX21p0570a1503" place="inline" rend="margin-left:1em">音汙憎也。</p></def></entry>
+<lb ed="X" n="0570a16"/><entry><form>藩決不羸</form><def><p id="pX21p0570a1605" place="inline" rend="margin-left:1em">藩籬也羸力追切絆也易云羝羊觸藩
+<lb ed="X" n="0570a17"/>羸其角今羸籬穿決非絆之也。</p></def></entry>
+<lb ed="X" n="0570a18"/><entry><form>付法藏傳</form><def><p id="pX21p0570a1805" place="inline" rend="margin-left:1em">吉迦夜與竺曇耀譯。</p></def></entry>
+<lb ed="X" n="0570a19"/><entry><form>&CB02031;</form><def><p id="pX21p0570a1902" place="inline" rend="margin-left:1em">胡瓦切露身也。</p></def></entry><entry place="inline"><form>吾息</form><def><p id="pX21p0570a1910" place="inline" rend="margin-left:1em">子也。</p></def></entry>
+<lb ed="X" n="0570a20"/><entry><form>鳴稚</form><def><p id="pX21p0570a2003" place="inline" rend="margin-left:1em">地音擊木作聲謂之信&CB00655;。</p></def></entry>
+<lb ed="X" n="0570a21"/><entry><form>以福故宮殿七寶</form><def><p id="pX21p0570a2108" place="inline" rend="margin-left:1em">指前二鬼。</p></def></entry>
+<lb ed="X" n="0570a22"/><entry><form>堂閣嚴飾</form><def><p id="pX21p0570a2205" place="inline" rend="margin-left:1em">指後眾僧。</p></def></entry>
+<lb ed="X" n="0570a23"/><entry><form>以罪故而受鬼身</form><def><p id="pX21p0570a2308" place="inline" rend="margin-left:1em">通指上二。</p></def></entry><entry place="inline"><form>膺</form><def><p id="pX21p0570a2313" place="inline" rend="margin-left:1em">當也。</p></def></entry>
+<lb ed="X" n="0570a24"/><entry><form>弗慎厥德下</form><def><p id="pX21p0570a2406" place="inline" rend="margin-left:1em">孔注云不慎其德以速滅敗雖欲改
+<pb ed="X" id="X21.0376.0570b" n="0570b"/>
+<lb ed="X" n="0570b01"/>悔其可追及乎。</p></def></entry>
+<lb ed="X" n="0570b02"/><entry><form>厭課者多</form><def><p id="pX21p0570b0205" place="inline" rend="margin-left:1em">厭塞也課責也當二親忌日無心脩崇
+<lb ed="X" n="0570b03"/>但厭塞人之課責故為之耳孝衡云內無實德外
+<lb ed="X" n="0570b04"/>衒&CB00980;名故云厭課。</p></def></entry>
+<lb ed="X" n="0570b05"/><entry><form>元啟</form><def><p id="pX21p0570b0503" place="inline" rend="margin-left:1em">孫悟之子。</p></def></entry><entry place="inline"><form>&CB00403;襲</form><def><p id="pX21p0570b0509" place="inline" rend="margin-left:1em">&CB00403;流承襲。</p></def></entry>
+<lb ed="X" n="0570b06"/><entry><form>拊心</form><def><p id="pX21p0570b0603" place="inline" rend="margin-left:1em">女弱故拊擗其心。</p></def></entry>
+<lb ed="X" n="0570b07"/><entry><form>跳身</form><def><p id="pX21p0570b0703" place="inline" rend="margin-left:1em">男彊故跳踊其身。</p></def></entry>
+<lb ed="X" n="0570b08"/><entry><form>元嘉</form><def><p id="pX21p0570b0803" place="inline" rend="margin-left:1em">宋文帝年號。</p></def></entry>
+<lb ed="X" n="0570b09"/><entry><form>起居注</form><def><p id="pX21p0570b0904" place="inline" rend="margin-left:1em">史臣記天子之事也。</p></def></entry>
+<lb ed="X" n="0570b10"/><entry><form>春秋分</form><def><p id="pX21p0570b1004" place="inline" rend="margin-left:1em">春分秋分即八節之二也節謂分至啟閉
+<lb ed="X" n="0570b11"/>八節春秋有分冬夏有至啟謂立春立夏閉謂立
+<lb ed="X" n="0570b12"/>秋立冬是為八。</p></def></entry>
+<lb ed="X" n="0570b13"/><entry><form>權器</form><def><p id="pX21p0570b1303" place="inline" rend="margin-left:1em">權秤錘也秤帶其器以承龍口中水也錘真
+<lb ed="X" n="0570b14"/>偽功。</p></def></entry>
+<lb ed="X" n="0570b15"/><entry><form>節氣加減刻漏規式</form>
+<lb ed="X" n="0570b16"/><def><p id="pX21p0570b1601" rend="margin-left:1em">刻漏更點起自軒轅故周禮云挈壺氏掌之是也
+<lb ed="X" n="0570b17"/>近世釋瑞新作壺更刻漏其文簡而理詣故士大
+<lb ed="X" n="0570b18"/>夫多取之然起居注以春秋二分明五十五刻此
+<lb ed="X" n="0570b19"/>乃一家之說今依本朝定景福殿秤漏春秋二分
+<lb ed="X" n="0570b20"/>各五十刻匪唯學者之易曉亦古今之通規歟比
+<lb ed="X" n="0570b21"/>見講學多昧於此因而錄之庶備詳覽勿謂鈔簡
+<lb ed="X" n="0570b22"/>貴引文繁云耳。</p></def></entry>
+<table cols="3">
+<lb ed="X" n="0570b23"/><row><cell><note place="inline">晝刻</note></cell><cell><note place="inline">夜刻</note></cell><cell></cell></row>
+<lb ed="X" n="0570b24"/><row><cell>四十刻</cell><cell>六十刻</cell><cell><note place="inline">小雪後十二日連大雪及冬至并小寒後三日</note></cell></row>
+<pb ed="X" id="X21.0376.0570c" n="0570c"/><lb ed="X" n="0570c01"/><row><cell>四十一刻</cell><cell>五十九刻</cell><cell><note place="inline">小寒後四日至大寒後二日小雪前一日至後十一日</note></cell></row>
+<lb ed="X" n="0570c02"/><row><cell>四十二刻</cell><cell>五十八刻</cell><cell><note place="inline">大寒後三日至十二日立冬後四日至十三日</note></cell></row>
+<lb ed="X" n="0570c03"/><row><cell>四十三刻</cell><cell>五十七刻</cell><cell><note place="inline">立春前二日至後四日立冬前四日至後三日</note></cell></row>
+<lb ed="X" n="0570c04"/><row><cell>四十四刻</cell><cell>五十六刻</cell><cell><note place="inline">立春後五日至後十二日霜降後四日後十日</note></cell></row>
+<lb ed="X" n="0570c05"/><row><cell>四十五刻</cell><cell>五十五刻</cell><cell><note place="inline">雨水前二日至後三日霜降前二日至後三日</note></cell></row>
+<lb ed="X" n="0570c06"/><row><cell>四十六刻</cell><cell>五十四刻</cell><cell><note place="inline">雨水後四日至後九日寒露後六日至十二日</note></cell></row>
+<lb ed="X" n="0570c07"/><row><cell>四十七刻</cell><cell>五十三刻</cell><cell><note place="inline">雨水後十日至啟蟄節日寒露前一日至後五日</note></cell></row>
+<lb ed="X" n="0570c08"/><row><cell>四十八刻</cell><cell>五十二刻</cell><cell><note place="inline">啟蟄後一日至後六日秋分後九日至後十三日</note></cell></row>
+<lb ed="X" n="0570c09"/><row><cell>四十九刻</cell><cell>五十一刻</cell><cell><note place="inline">啟蟄後七日至後十二日秋分後四日至後八日</note></cell></row>
+<lb ed="X" n="0570c10"/><row><cell>五十刻</cell><cell>五十刻</cell><cell><note place="inline">春分前二日至後三日秋分前二日至後三日</note></cell></row>
+<lb ed="X" n="0570c11"/><row><cell>五十一刻</cell><cell>四十九刻</cell><cell><note place="inline">春分後四日至後八日白露後七日至後十二日</note></cell></row>
+<lb ed="X" n="0570c12"/><row><cell>五十二刻</cell><cell>四十八刻</cell><cell><note place="inline">春分後九日至後十三日白露後一日至後六日</note></cell></row>
+<lb ed="X" n="0570c13"/><row><cell>五十三刻</cell><cell>四十七刻</cell><cell><note place="inline">清明前一日至後五日處暑後十日至白露節日</note></cell></row>
+<lb ed="X" n="0570c14"/><row><cell>五十四刻</cell><cell>四十六刻</cell><cell><note place="inline">清明後六日至後十一日處暑後五日至後九日</note></cell></row>
+<lb ed="X" n="0570c15"/><row><cell>五十五刻</cell><cell>四十五刻</cell><cell><note place="inline">穀雨前三日至後三日立秋後十二日至處暑後四日</note></cell></row>
+<lb ed="X" n="0570c16"/><row><cell>五十六刻</cell><cell>四十四刻</cell><cell><note place="inline">&CB00591;雨後四日至後十日立秋後五日至後十一日</note></cell></row>
+<lb ed="X" n="0570c17"/><row><cell>五十七刻</cell><cell>四十三刻</cell><cell><note place="inline">&CB00591;雨後十一日至立夏後三日大暑十二日至立秋後四日</note></cell></row>
+<lb ed="X" n="0570c18"/><row><cell>五十八刻</cell><cell>四十二刻</cell><cell><note place="inline">立夏後四日至後十三日大暑後二日至後十一日</note></cell></row>
+<lb ed="X" n="0570c19"/><row><cell>五十九刻</cell><cell>四十一刻</cell><cell><note place="inline">小滿前一日至後十一日小暑後四日至大暑後一日</note></cell></row>
+<lb ed="X" n="0570c20"/><row><cell>六十刻</cell><cell>四十刻</cell><cell><note place="inline">芒種前三日連夏至及小暑後三日同</note></cell></row></table>
+<lb ed="X" n="0570c21"/><entry><form>惄</form><def><p id="pX21p0570c2102" place="inline" rend="margin-left:1em">奴力切思也。</p></def></entry>
+<lb ed="X" n="0570c22"/><entry><form>饋</form><def><p id="pX21p0570c2202" place="inline" rend="margin-left:1em">匱音。</p></def></entry><entry place="inline"><form>勝也</form><def><p id="pX21p0570c2206" place="inline" rend="margin-left:1em">上平聲。</p></def></entry>
+<lb ed="X" n="0570c23"/><entry><form>餘三</form><def><p id="pX21p0570c2303" place="inline" rend="margin-left:1em">即神境天耳他心但觀其相曰通知其因緣
+<lb ed="X" n="0570c24"/>曰明此三不能緣三世故不得稱明委辨如令摸
+<pb ed="X" id="X21.0376.0571a" n="0571a"/>
+<lb ed="X" n="0571a01"/>鈔。</p></def></entry>
+<lb ed="X" n="0571a02"/><entry><form>種現相資</form><def><p id="pX21p0571a0205" place="inline" rend="margin-left:1em">由種子故生起現行由現行故熏成種
+<lb ed="X" n="0571a03"/>子。</p></def></entry>
+<lb ed="X" n="0571a04"/><entry><form>根本煩惱</form><def><p id="pX21p0571a0405" place="inline" rend="margin-left:1em">有六謂貪瞋痴慢疑惡見今貪屬一數
+<lb ed="X" n="0571a05"/>也。</p></def></entry>
+<lb ed="X" n="0571a06"/><entry><form>隨煩惱</form><def><p id="pX21p0571a0604" place="inline" rend="margin-left:1em">有二十忿恨惱覆誑&CB00348;憍害嫉慳無&CB00518;無
+<lb ed="X" n="0571a07"/>愧不信懈怠放逸&CB15151;沉掉舉失念不正知散亂。</p></def></entry>
+<lb ed="X" n="0571a08"/><entry><form>不行惠施</form><def><p id="pX21p0571a0805" place="inline" rend="margin-left:1em">釋慳。</p></def></entry><entry place="inline"><form>侵奪他財</form><def><p id="pX21p0571a0811" place="inline" rend="margin-left:1em">釋貪。</p></def></entry>
+<lb ed="X" n="0571a09"/><entry><form>七支</form><def><p id="pX21p0571a0903" place="inline" rend="margin-left:1em">識名色六入觸受生老死。</p></def></entry>
+<lb ed="X" n="0571a10"/><entry><form>貪無是過</form><def><p id="pX21p0571a1005" place="inline" rend="margin-left:1em">無傷慈過。</p></def></entry>
+<lb ed="X" n="0571a11"/><entry><form>鬼無分別煩惱</form><def><p id="pX21p0571a1107" place="inline" rend="margin-left:1em">無分別之慳惑有人中之習氣。</p></def></entry>
+<lb ed="X" n="0571a12"/><entry><form>穿鑿</form><def><p id="pX21p0571a1203" place="inline" rend="margin-left:1em">孔融曰妄作文章穿鑿以成。</p></def></entry>
+<lb ed="X" n="0571a13"/><entry><form>第六天</form><def><p id="pX21p0571a1304" place="inline" rend="margin-left:1em">即他化自在天。</p></def></entry>
+<lb ed="X" n="0571a14"/><entry><form>四王東方提頭賴吒此云持國管二部</form><def><p id="pX21p0571a1416" place="inline" rend="margin-left:1em">乾闥婆毗
+<lb ed="X" n="0571a15"/>舍闍。</p></def></entry>
+<lb ed="X" n="0571a16"/><entry><form>南方毗樓勒叉此云增長主管二部</form><def><p id="pX21p0571a1615" place="inline" rend="margin-left:1em">鳩槃荼薜&CB04310;
+<lb ed="X" n="0571a17"/>多魘鬼。</p></def></entry>
+<lb ed="X" n="0571a18"/><entry><form>西方毗樓&CB00397;叉此云廣目管二部</form><def><p id="pX21p0571a1814" place="inline" rend="margin-left:1em">龍王富單那。</p></def></entry>
+<lb ed="X" n="0571a19"/><entry><form>北方毗沙門此云多聞管二部</form><def><p id="pX21p0571a1913" place="inline" rend="margin-left:1em">夜叉羅剎。</p></def></entry>
+<lb ed="X" n="0571a20"/><entry><form>謝安</form><def><p id="pX21p0571a2003" place="inline" rend="margin-left:1em">字萬石官至大傅出晉書。</p></def></entry>
+<lb ed="X" n="0571a21"/><entry><form>義少</form><def><p id="pX21p0571a2103" place="inline" rend="margin-left:1em">齊沙彌道慧能講涅槃法安能述佛性永問
+<lb ed="X" n="0571a22"/>慧年幾答云十九永歎曰昔日諸&CB00591;年十二善書
+<lb ed="X" n="0571a23"/>學時人號為才童今日二道士可謂義少。</p></def></entry>
+<lb ed="X" n="0571a24"/><entry><form>斷金</form><def><p id="pX21p0571a2403" place="inline" rend="margin-left:1em">亦如魏志云張歆與管寧為友二人鋤園見
+<pb ed="X" id="X21.0376.0571b" n="0571b"/>
+<lb ed="X" n="0571b01"/>金一挺寧遂揮鋤與歆迴於本處尋有釆薪人見
+<lb ed="X" n="0571b02"/>變作蛇因而斫之為二段□□復來見之<note place="inline">云云</note>。</p></def></entry>
+<lb ed="X" n="0571b03"/><entry><form>其臭如蘭</form><def><p id="pX21p0571b0305" place="inline" rend="margin-left:1em">古人云蘭生深林不以無人而不芳以
+<lb ed="X" n="0571b04"/>其有十步之香譬君子美德矣。</p></def></entry>
+<lb ed="X" n="0571b05"/><entry><form>四人和合成眾</form><def><p id="pX21p0571b0507" place="inline" rend="margin-left:1em">約僧體言之業疏云三人<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>下辨
+<lb ed="X" n="0571b06"/>法未盡四人<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上作法成濟耳。</p></def></entry>
+<lb ed="X" n="0571b07"/><entry><form>春冬過少</form><def><p id="pX21p0571b0705" place="inline" rend="margin-left:1em">不言秋者以西天但分三際耳。</p></def></entry>
+<lb ed="X" n="0571b08"/><entry><form>四月十六日是前安居</form><def><p id="pX21p0571b0810" place="inline" rend="margin-left:1em">唯結一日。</p></def></entry>
+<lb ed="X" n="0571b09"/><entry><form>五月十六日是後安居</form><def><p id="pX21p0571b0910" place="inline" rend="margin-left:1em">亦結一日。</p></def></entry>
+<lb ed="X" n="0571b10"/><entry><form>但結三月</form><def><p id="pX21p0571b1005" place="inline" rend="margin-left:1em">五月十六日六月十六日七月十六日。</p></def></entry>
+<lb ed="X" n="0571b11"/><entry><form>開後一月</form><def><p id="pX21p0571b1105" place="inline" rend="margin-left:1em">從七月十六至八月十五名迦提月賞
+<lb ed="X" n="0571b12"/>前安居之勞也迦提月即賞勞月也。</p></def></entry>
+<lb ed="X" n="0571b13"/><entry><form>始從十六至後十六</form><def><p id="pX21p0571b1309" place="inline" rend="margin-left:1em">四月十六至五月十六。</p></def></entry>
+<lb ed="X" n="0571b14"/><entry><form>急施衣次第增等文</form><def><p id="pX21p0571b1409" place="inline" rend="margin-left:1em">如律鈔所明既非本宗不可
+<lb ed="X" n="0571b15"/>曲辨。</p></def></entry>
+<lb ed="X" n="0571b16"/><entry><form>增三中三日</form><def><p id="pX21p0571b1606" place="inline" rend="margin-left:1em">十四十五十六。</p></def></entry>
+<lb ed="X" n="0571b17"/><entry><form>彝章</form><def><p id="pX21p0571b1703" place="inline" rend="margin-left:1em">彝法章明即制教也。</p></def></entry>
+<lb ed="X" n="0571b18"/><entry><form>禮因人情下</form><def><p id="pX21p0571b1806" place="inline" rend="margin-left:1em">以三藏中有律教例六經之有禮法
+<lb ed="X" n="0571b19"/>焉。</p></def></entry>
+<lb ed="X" n="0571b20"/><entry><form>瑕疵</form><def><p id="pX21p0571b2003" place="inline" rend="margin-left:1em">玉病曰瑕人病曰疵。</p></def></entry>
+<lb ed="X" n="0571b21"/><entry><form>摩得勒伽</form><def><p id="pX21p0571b2105" place="inline" rend="margin-left:1em">此云本母。</p></def></entry>
+<lb ed="X" n="0571b22"/><entry><form>不孤獨</form><def><p id="pX21p0571b2204" place="inline" rend="margin-left:1em">自恣懺罪得入清眾。</p></def></entry>
+<lb ed="X" n="0571b23"/><entry><form>十二分教</form><def><p id="pX21p0571b2305" place="inline" rend="margin-left:1em">如華嚴圓覺二疏廣辨。</p></def></entry>
+<lb ed="X" n="0571b24"/><entry><form>浮囊</form><def><p id="pX21p0571b2403" place="inline" rend="margin-left:1em">西域渡海人以鳥翎毛為袋或用大牛皮吹
+<pb ed="X" id="X21.0376.0571c" n="0571c"/>
+<lb ed="X" n="0571c01"/>氣內中而渡之耳。</p></def></entry>
+<lb ed="X" n="0571c02"/><entry><form>篇聚</form><def><p id="pX21p0571c0203" place="inline" rend="margin-left:1em">五篇七聚廣略釋義如律鈔。</p></def></entry>
+<lb ed="X" n="0571c03"/><entry><form>喻犯四重</form><def><p id="pX21p0571c0305" place="inline" rend="margin-left:1em">婬殺盜妄。</p></def></entry>
+<lb ed="X" n="0571c04"/><entry><form>喻犯十三</form><def><p id="pX21p0571c0405" place="inline" rend="margin-left:1em">僧殘也毗尼母云如人為他所斫殘有
+<lb ed="X" n="0571c05"/>咽哽。</p></def></entry>
+<lb ed="X" n="0571c06"/><entry><form>喻犯偷蘭</form><def><p id="pX21p0571c0605" place="inline" rend="margin-left:1em">具云偷蘭遮善見&CB00549;為大罪。</p></def></entry>
+<lb ed="X" n="0571c07"/><entry><form>喻犯二提</form><def><p id="pX21p0571c0705" place="inline" rend="margin-left:1em">謂三十捨墮九十單提也。</p></def></entry>
+<lb ed="X" n="0571c08"/><entry><form>喻犯吉羅</form><def><p id="pX21p0571c0805" place="inline" rend="margin-left:1em">具云突吉羅義&CB00549;應當學。</p></def></entry>
+<lb ed="X" n="0571c09"/><entry><form>為篇闕提舍</form><def><p id="pX21p0571c0906" place="inline" rend="margin-left:1em">具云提舍尼義&CB00549;向彼悔。</p></def></entry>
+<lb ed="X" n="0571c10"/><entry><form>為聚不開第五</form><def><p id="pX21p0571c1007" place="inline" rend="margin-left:1em">不開吉羅。</p></def></entry>
+<lb ed="X" n="0571c11"/><entry><form>亦闕提舍</form><def><p id="pX21p0571c1105" place="inline" rend="margin-left:1em">篇中既闕聚中亦然。</p></def></entry>
+<lb ed="X" n="0571c12"/><entry><form>六聚之罪</form><def><p id="pX21p0571c1205" place="inline" rend="margin-left:1em">南山鈔文<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>張六聚以正結罪科止樹
+<lb ed="X" n="0571c13"/>六法耳。</p></def></entry>
+<lb ed="X" n="0571c14"/><entry><form>伏首</form><def><p id="pX21p0571c1403" place="inline" rend="margin-left:1em">獸音自言其罪曰首。</p></def></entry>
+<lb ed="X" n="0571c15"/><entry><form>遮法</form><def><p id="pX21p0571c1503" place="inline" rend="margin-left:1em">遮舉也依當篇舉法治之。</p></def></entry>
+<lb ed="X" n="0571c16"/><entry><form>至高祖</form><def><p id="pX21p0571c1604" place="inline" rend="margin-left:1em">曾孫孫子考祖曾祖高祖是謂七世。</p></def></entry>
+<lb ed="X" n="0571c17"/><entry><form>方言</form><def><p id="pX21p0571c1703" place="inline" rend="margin-left:1em">揚雄撰郭璞注解異方之語也。</p></def></entry>
+<lb ed="X" n="0571c18"/><entry><form>鐙</form><def><p id="pX21p0571c1802" place="inline" rend="margin-left:1em">燈音。</p></def></entry><entry place="inline"><form>&CB00296;</form><def><p id="pX21p0571c1805" place="inline" rend="margin-left:1em">檜音。</p></def></entry>
+<lb ed="X" n="0571c19"/><entry><form>香油塗身</form><def><p id="pX21p0571c1905" place="inline" rend="margin-left:1em">有說西域地多砂礫及以毒蟲故用油
+<lb ed="X" n="0571c20"/>塗身并足。</p></def></entry>
+<lb ed="X" n="0571c21"/><entry><form>旃檀</form><def><p id="pX21p0571c2103" place="inline" rend="margin-left:1em">此云與樂。</p></def></entry>
+<lb ed="X" n="0571c22"/><entry><form>&CB15106;金</form><def><p id="pX21p0571c2203" place="inline" rend="margin-left:1em">亦名&CB15106;金草生伽毗國似麥門冬九月華開
+<lb ed="X" n="0571c23"/>狀若芙蓉其色紫碧香聞數十步華而不實<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>取
+<lb ed="X" n="0571c24"/>其根能治熱疾今&CB15106;金絕多即不如伽毗之珍也。</p></def></entry>
+<pb ed="X" id="X21.0376.0572a" n="0572a"/>
+<lb ed="X" n="0572a01"/><entry><form>太甲</form><def><p id="pX21p0572a0103" place="inline" rend="margin-left:1em">殷第四帝名。</p></def></entry><entry place="inline"><form>&CB00704;</form><def><p id="pX21p0572a0109" place="inline" rend="margin-left:1em">&CB00529;音。</p></def></entry>
+<lb ed="X" n="0572a02"/><entry><form>大小仍異</form><def><p id="pX21p0572a0205" place="inline" rend="margin-left:1em">大乘三學與小教經論律不同。</p></def></entry>
+<lb ed="X" n="0572a03"/><entry><form>柰</form><def><p id="pX21p0572a0302" place="inline" rend="margin-left:1em">狀似李出西京。</p></def></entry>
+<lb ed="X" n="0572a04"/><entry><form>芥</form><def><p id="pX21p0572a0402" place="inline" rend="margin-left:1em">其味香美者趙國有之。</p></def></entry>
+<lb ed="X" n="0572a05"/><entry><form>爾雅下</form><def><p id="pX21p0572a0504" place="inline" rend="margin-left:1em">&CB01753;之父為姻婦之父為婚鈔多母字。</p></def></entry>
+<lb ed="X" n="0572a06"/><entry><form>疏財賄</form><def><p id="pX21p0572a0604" place="inline" rend="margin-left:1em">呼罪功贈也。</p></def></entry>
+<lb ed="X" n="0572a07"/><entry><form>畢&CB00425;羅窟</form><def><p id="pX21p0572a0705" place="inline" rend="margin-left:1em">即七葉嚴。</p></def></entry>
+<lb ed="X" n="0572a08"/><entry><form>宛</form><def><p id="pX21p0572a0802" place="inline" rend="margin-left:1em">鴛音。</p></def></entry><entry place="inline"><form>奔共</form><def><p id="pX21p0572a0806" place="inline" rend="margin-left:1em">恭音。</p></def></entry>
+<lb ed="X" n="0572a09"/><entry><form>亟</form><def><p id="pX21p0572a0902" place="inline" rend="margin-left:1em">器音數也。</p></def></entry><entry place="inline"><form>繕甲兵</form><def><p id="pX21p0572a0909" place="inline" rend="margin-left:1em">繕脩甲鎧。</p></def></entry>
+<lb ed="X" n="0572a10"/><entry><form>具卒乘</form><def><p id="pX21p0572a1004" place="inline" rend="margin-left:1em">卒首也乘繩證切。</p></def></entry>
+<lb ed="X" n="0572a11"/><entry><form>掩不備</form><def><p id="pX21p0572a1104" place="inline" rend="margin-left:1em">掩以兵而取也備防也。</p></def></entry>
+<lb ed="X" n="0572a12"/><entry><form>啟之</form><def><p id="pX21p0572a1203" place="inline" rend="margin-left:1em">夫人內應將啟宮門。</p></def></entry>
+<lb ed="X" n="0572a13"/><entry><form>公開其期曰可矣</form><def><p id="pX21p0572a1308" place="inline" rend="margin-left:1em">莊公聞太叔與母之期言可伐
+<lb ed="X" n="0572a14"/>京矣。</p></def></entry>
+<lb ed="X" n="0572a15"/><entry><form>帥</form><def><p id="pX21p0572a1502" place="inline" rend="margin-left:1em">所類切將帥也。</p></def></entry>
+<lb ed="X" n="0572a16"/><entry><form>伐京</form><def><p id="pX21p0572a1603" place="inline" rend="margin-left:1em">有鐘&CB00655;曰伐無鐘&CB00655;曰侵。</p></def></entry>
+<lb ed="X" n="0572a17"/><entry><form>公子呂</form><def><p id="pX21p0572a1704" place="inline" rend="margin-left:1em">名呂字子封即莊公之子。</p></def></entry>
+<lb ed="X" n="0572a18"/><entry><form>汲郡</form><def><p id="pX21p0572a1803" place="inline" rend="margin-left:1em">今之衛州。</p></def></entry><entry place="inline"><form>食舍</form><def><p id="pX21p0572a1809" place="inline" rend="margin-left:1em">捨音。</p></def></entry>
+<lb ed="X" n="0572a19"/><entry><form>以遺</form><def><p id="pX21p0572a1903" place="inline" rend="margin-left:1em">遺猶賜也。</p></def></entry><entry place="inline"><form>何患</form><def><p id="pX21p0572a1909" place="inline" rend="margin-left:1em">憂也。</p></def></entry>
+<lb ed="X" n="0572a20"/><entry><form>若闕</form><def><p id="pX21p0572a2003" place="inline" rend="margin-left:1em">橛音掘也。</p></def></entry><entry place="inline"><form>隧</form><def><p id="pX21p0572a2008" place="inline" rend="margin-left:1em">遂音。</p></def></entry>
+<lb ed="X" n="0572a21"/><entry><form>延道</form><def><p id="pX21p0572a2103" place="inline" rend="margin-left:1em">延長也。</p></def></entry>
+<lb ed="X" n="0572a22"/><entry><form>經宰相</form><def><p id="pX21p0572a2204" place="inline" rend="margin-left:1em">宰執山河相助天子。</p></def></entry>
+<lb ed="X" n="0572a23"/><entry><form>百官</form><def><p id="pX21p0572a2303" place="inline" rend="margin-left:1em">即百辟也詩云率茲百辟。</p></def></entry>
+<lb ed="X" n="0572a24"/><entry><form>萬民</form><def><p id="pX21p0572a2403" place="inline" rend="margin-left:1em">通士農工商四民。</p></def></entry>
+<pb ed="X" id="X21.0376.0572b" n="0572b"/>
+<lb ed="X" n="0572b01"/><entry><form>庶人</form><def><p id="pX21p0572b0103" place="inline" rend="margin-left:1em">眾人也書云格爾眾庶。</p></def></entry>
+<lb ed="X" n="0572b02"/><entry><form>周官</form><def><p id="pX21p0572b0203" place="inline" rend="margin-left:1em">周家設官分職。</p></def></entry><entry place="inline"><form>太師</form><def><p id="pX21p0572b0211" place="inline" rend="margin-left:1em">天子所師。</p></def></entry>
+<lb ed="X" n="0572b03"/><entry><form>太傅</form><def><p id="pX21p0572b0303" place="inline" rend="margin-left:1em">傅相天子。</p></def></entry><entry place="inline"><form>太保</form><def><p id="pX21p0572b0309" place="inline" rend="margin-left:1em">保安天下。</p></def></entry>
+<lb ed="X" n="0572b04"/><entry><form>皆仍之</form><def><p id="pX21p0572b0404" place="inline" rend="margin-left:1em">仍因也。</p></def></entry><entry place="inline"><form>俱舍</form><def><p id="pX21p0572b0409" place="inline" rend="margin-left:1em">此云藏。</p></def></entry>
+<lb ed="X" n="0572b05"/><entry><form>人旁生具四</form><def><p id="pX21p0572b0506" place="inline" rend="margin-left:1em">人具四如刊定記旁生即畜生如化
+<lb ed="X" n="0572b06"/>生金翅鳥能食四生龍。</p></def></entry>
+<lb ed="X" n="0572b07"/><entry><form>地獄與諸天中有唯化生</form><def><p id="pX21p0572b0711" place="inline" rend="margin-left:1em">上三類皆化生中有即
+<lb ed="X" n="0572b08"/>中陰身。</p></def></entry>
+<lb ed="X" n="0572b09"/><entry><form>通胎化二</form><def><p id="pX21p0572b0905" place="inline" rend="margin-left:1em">亦如刊定。</p></def></entry>
+<lb ed="X" n="0572b10"/><entry><form>春秋運斗樞</form><def><p id="pX21p0572b1006" place="inline" rend="margin-left:1em">春秋別解之名。</p></def></entry>
+<lb ed="X" n="0572b11"/><entry><form>譙子法訓</form><def><p id="pX21p0572b1105" place="inline" rend="margin-left:1em">晉譙周撰。</p></def></entry><entry place="inline"><form>替</form><def><p id="pX21p0572b1110" place="inline" rend="margin-left:1em">廢也。</p></def></entry>
+<lb ed="X" n="0572b12"/><entry><form>數</form><def><p id="pX21p0572b1202" place="inline" rend="margin-left:1em">上聲。</p></def></entry><entry place="inline"><form>鴞</form><def><p id="pX21p0572b1205" place="inline" rend="margin-left:1em">干嬌切。</p></def></entry>
+<lb ed="X" n="0572b13"/><entry><form>喙</form><def><p id="pX21p0572b1302" place="inline" rend="margin-left:1em">許穢切觜也。</p></def></entry><entry place="inline"><form>劉子</form><def><p id="pX21p0572b1309" place="inline" rend="margin-left:1em">即劉□。</p></def></entry>
+<lb ed="X" n="0572b14"/><entry><form>東京賦</form><def><p id="pX21p0572b1404" place="inline" rend="margin-left:1em">張衡作。</p></def></entry>
+<lb ed="X" n="0572b15"/><entry><form>作持</form><def><p id="pX21p0572b1503" place="inline" rend="margin-left:1em">念念追思年年□□名之為作作而無違瑩
+<lb ed="X" n="0572b16"/>於戒德稱之曰持。</p></def></entry>
+<lb ed="X" n="0572b17"/><entry><form>止犯</form><def><p id="pX21p0572b1703" place="inline" rend="margin-left:1em">不思劬勞不救存沒故名為止止而有違戒
+<lb ed="X" n="0572b18"/>黜七遮乃名為犯。</p></def></entry>
+<lb ed="X" n="0572b19"/><entry><form>士女</form><def><p id="pX21p0572b1903" place="inline" rend="margin-left:1em">即優婆塞優婆夷也。</p></def></entry>
+<lb ed="X" n="0572b20"/><entry><form>今受神方</form><def><p id="pX21p0572b2005" place="inline" rend="margin-left:1em">結前目連聞教。</p></def></entry>
+<lb ed="X" n="0572b21"/><entry><form>兼&CB00418;靈驗</form><def><p id="pX21p0572b2105" place="inline" rend="margin-left:1em">結前設供獲益。</p></def></entry>
+<lb ed="X" n="0572b22"/><entry><form>天懸象</form><def><p id="pX21p0572b2204" place="inline" rend="margin-left:1em">象謂日月星也。</p></def></entry>
+<lb ed="X" n="0572b23"/><entry><form>父受氣</form><def><p id="pX21p0572b2304" place="inline" rend="margin-left:1em">傳體相續。</p></def></entry>
+<lb ed="X" n="0572b24"/><entry><form>揚子法言</form><def><p id="pX21p0572b2405" place="inline" rend="margin-left:1em">楊雄字子雲法論語立言。</p></def></entry>
+<pb ed="X" id="X21.0376.0572c" n="0572c"/>
+<lb ed="X" n="0572c01"/><entry><form>反魂起屍</form><def><p id="pX21p0572c0105" place="inline" rend="margin-left:1em">喻脫鬼身生於善道。</p></def></entry>
+<lb ed="X" n="0572c02"/>
+<lb ed="X" n="0572c03"/><juan fun="close" n="1"><jhead>蘭盆疏鈔餘義<note place="inline">終</note></jhead></juan>
+<lb ed="X" n="0572c04"/>
+<lb ed="X" n="0572c05"/><div2 type="w"><p id="pX21p0572c0501">享保元丙申稔仲冬上旬以宋刻古本校正訖</p>
+<lb ed="X" n="0572c06"/><p id="pX21p0572c0601" rend="margin-left:5em">日本國南京沙門　秀慶　識</p></div2></div1>
+</body></text></TEI.2>

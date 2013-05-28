@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X38n0698.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+<!ENTITY % JAP SYSTEM "../dtd/jap.ent">
+%ENTY;
+%CBENT;
+%JAP;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 698 梵網經直解事義</title>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.4 $ (Big5)<date>$Date: 2010/05/07 04:28:13 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2010/05/07 04:28:13 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 38, No. 698 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2006/10/09 08:22:28</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X38n0698.xml,v $
+Revision 1.4  2010/05/07 04:28:13  amtbgrace
+modified: 按 2010/4/23 maha 來信修訂（主旨為: [經文修訂] 揮[塵>麈] - 1）
+
+Revision 1.3  2009/04/22 08:56:33  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.2  2007/07/10 03:50:56  amtbgrace
+modified: 校注插入 XML
+
+Revision 1.1  2006/10/09 00:26:26  duncan
+10/9 轉自basicx
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X38.0698.0875b" n="0875b"/>
+<lb ed="X" n="0875b01"/><milestone unit="juan" n="1"/>
+<lb ed="X" n="0875b02"/>
+<lb ed="X" n="0875b03"/><head type="no">No. 698</head>
+<lb ed="X" n="0875b04"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>附直解事義</jhead></juan>
+<lb ed="X" n="0875b05"/>
+<lb ed="X" n="0875b06"/><div1 type="other"><mulu type="其他" level="1" label="上卷之一"/><head>上卷之一</head>
+<lb ed="X" n="0875b07"/><entry><form>翻譯</form>
+<lb ed="X" n="0875b08"/><def><p id="pX38p0875b0801" rend="margin-left:1em">翻譯者。謂翻梵天之語。成華夏之言。譯者。易也。周禮
+<lb ed="X" n="0875b09"/>設四官以達四方之事。東曰寄。南曰象。西曰狄鞮。北
+<lb ed="X" n="0875b10"/>曰譯。今翻西語而云譯者。以經傳漢世。譯官多事北
+<lb ed="X" n="0875b11"/>方。兼善西語。故易梵言曰譯。</p></def></entry>
+<lb ed="X" n="0875b12"/><entry><form>五住</form>
+<lb ed="X" n="0875b13"/><def><p id="pX38p0875b1301" rend="margin-left:1em">五住者。謂即五住地煩惱也。三界見惑為一住。即見
+<lb ed="X" n="0875b14"/>一切住地。三界思惑分為三住。即欲愛住地。色愛住
+<lb ed="X" n="0875b15"/>地。有愛住地也。根本無明為一住。即無明住地。由此
+<lb ed="X" n="0875b16"/>五惑。能令眾生住著生死。故名住地也。</p><p id="pX38p0875b1616" place="inline" rend="margin-left:1em">△見一切住
+<lb ed="X" n="0875b17"/>地者。乃三界分別見惑。由意識對法塵分別。起諸邪
+<lb ed="X" n="0875b18"/>見。住著三界故。</p><p id="pX38p0875b1807" place="inline" rend="margin-left:1em">△欲愛住地者。乃欲界思惑。由意根
+<lb ed="X" n="0875b19"/>對內我境起貪愛心。而於欲界住著生死故。</p><p id="pX38p0875b1918" place="inline" rend="margin-left:1em">△色愛
+<lb ed="X" n="0875b20"/>住地者。乃色界思惑。以諸眾生不了此惑。住著色界
+<lb ed="X" n="0875b21"/>禪定。不能出離故。</p><p id="pX38p0875b2108" place="inline" rend="margin-left:1em">△有愛住地者。乃無色界思惑。以
+<lb ed="X" n="0875b22"/>不了此惑。住于禪定。不能出離故。</p><p id="pX38p0875b2214" place="inline" rend="margin-left:1em">△無明住地者。乃
+<lb ed="X" n="0875b23"/>根本無明惑。謂諸聲聞。緣覺。未了此惑。沈滯真空。住
+<lb ed="X" n="0875b24"/>於方便土中。大乘菩薩方能除斷。由餘惑未盡。住實
+<pb ed="X" id="X38.0698.0875c" n="0875c"/>
+<lb ed="X" n="0875c01"/>報土。故名無明住地也。</p></def></entry>
+<lb ed="X" n="0875c02"/><entry><form>二死</form>
+<lb ed="X" n="0875c03"/><def><p id="pX38p0875c0301" rend="margin-left:1em">二死者。一分段生死。分。即分限。段。即形段。謂六道眾
+<lb ed="X" n="0875c04"/>生。隨其業力。所感果報身命。身。則有長有短。命。則有
+<lb ed="X" n="0875c05"/>壽有夭。而皆流轉生死也。</p><p id="pX38p0875c0511" place="inline" rend="margin-left:1em">△二變易生死。謂諸聲聞。
+<lb ed="X" n="0875c06"/>緣覺。菩薩。雖離三界內分段生死。而有方便等土變
+<lb ed="X" n="0875c07"/>易生死。如初住為因。後住為果。又後住為因。後後住
+<lb ed="X" n="0875c08"/>為果。以其因移果易。故名變易生死也。</p></def></entry>
+<lb ed="X" n="0875c09"/><entry><form>海有十德</form>
+<lb ed="X" n="0875c10"/><def><p id="pX38p0875c1001" rend="margin-left:1em">海有十德者。海以深廣為名。謂佛智海。深廣無涯。以
+<lb ed="X" n="0875c11"/>喻十地菩薩。入佛智海十德之相。故以十德表之。</p><p id="pX38p0875c1120" place="inline" rend="margin-left:1em">△
+<lb ed="X" n="0875c12"/>一次第淵深德。</p><p id="pX38p0875c1207" place="inline" rend="margin-left:1em">△二不受死屍德。</p><p id="pX38p0875c1214" place="inline" rend="margin-left:1em">△三餘水入中皆
+<lb ed="X" n="0875c13"/>失本名德。</p><p id="pX38p0875c1305" place="inline" rend="margin-left:1em">△四普同一味德。</p><p id="pX38p0875c1312" place="inline" rend="margin-left:1em">△五無量珍寶悉蘊其
+<lb ed="X" n="0875c14"/>中德。</p><p id="pX38p0875c1403" place="inline" rend="margin-left:1em">△六無能至底德。</p><p id="pX38p0875c1410" place="inline" rend="margin-left:1em">△七廣大無量德。</p><p id="pX38p0875c1417" place="inline" rend="margin-left:1em">△八大身
+<lb ed="X" n="0875c15"/>所居德。</p><p id="pX38p0875c1504" place="inline" rend="margin-left:1em">△九潮不過限德。</p><p id="pX38p0875c1511" place="inline" rend="margin-left:1em">△十普受大雨無有盈溢德。</p></def></entry>
+<lb ed="X" n="0875c16"/><entry><form>六十二見</form>
+<lb ed="X" n="0875c17"/><def><p id="pX38p0875c1701" rend="margin-left:1em">六十二見者。謂於五蘊法上起執我見。如執色大我
+<lb ed="X" n="0875c18"/>小。我在色中。色小我大。色在我中。離色是我。即色是
+<lb ed="X" n="0875c19"/>我。如執色蘊有四我見。受想行識。各有如是四我見。
+<lb ed="X" n="0875c20"/>五四成二十見。過去二十。現在二十。未來二十。共六
+<lb ed="X" n="0875c21"/>十。加斷常二根本。合六十二見。</p></def></entry>
+<lb ed="X" n="0875c22"/><entry><form>三十六物</form>
+<lb ed="X" n="0875c23"/><def><p id="pX38p0875c2301" rend="margin-left:1em">三十六物者。一髮。二毛。三爪。四齒。五眵。六淚。七涎。八
+<lb ed="X" n="0875c24"/>唾。九屎。十尿。十一垢。十二汗。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上為外相。十三皮。十
+<pb ed="X" id="X38.0698.0876a" n="0876a"/>
+<lb ed="X" n="0876a01"/>四膚。十五血。十六肉。十七筋。十八脈。十九骨。二十髓。
+<lb ed="X" n="0876a02"/>二十一肪。二十二膏。二十三腦。二十四膜。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上為內
+<lb ed="X" n="0876a03"/>相。二十五肝。二十六膽。二十七腸。二十八胃。二十九
+<lb ed="X" n="0876a04"/>脾。三十腎。三十一心。三十二肺。三十三生臟。三十四
+<lb ed="X" n="0876a05"/>熟臟。三十五赤痰。三十六白痰。此上為內舍。</p></def></entry>
+<lb ed="X" n="0876a06"/><entry><form>五種不淨之身</form>
+<lb ed="X" n="0876a07"/><def><p id="pX38p0876a0701" rend="margin-left:1em">五種不淨之身者。一生處不淨。是身為臭穢。不從蓮
+<lb ed="X" n="0876a08"/>花生。二種子不淨。是身種不淨。父母邪想有。三自性
+<lb ed="X" n="0876a09"/>不淨。四大不淨聚。海水洗不潔。四自相不淨。常流出
+<lb ed="X" n="0876a10"/>不淨。如囊盛穢物。五究竟不淨。諦觀於此身。終必歸
+<lb ed="X" n="0876a11"/>死處。</p></def></entry>
+<lb ed="X" n="0876a12"/><entry><form>四滿成佛</form>
+<lb ed="X" n="0876a13"/><def><p id="pX38p0876a1301" rend="margin-left:1em">四滿成佛者。一者。信滿成佛。謂依種性地。決定信於
+<lb ed="X" n="0876a14"/>諸法。不生不滅。清淨平等。無可願求是。為信滿成佛。
+<lb ed="X" n="0876a15"/>即文中求求至心。無生空一願之義。</p><p id="pX38p0876a1515" place="inline" rend="margin-left:1em">△二者解滿成
+<lb ed="X" n="0876a16"/>佛。謂依解行地。深解法性。無造無作。不起生死想。不
+<lb ed="X" n="0876a17"/>起涅槃想。心無所怖。亦無所欣。是為解滿成佛。即文
+<lb ed="X" n="0876a18"/>中觀觀入定照。無量見縛等義。</p><p id="pX38p0876a1813" place="inline" rend="margin-left:1em">△三者。行滿成佛。謂
+<lb ed="X" n="0876a19"/>依究竟菩薩地。能除一切無明諸障。菩提行願。皆悉
+<lb ed="X" n="0876a20"/>具足。是為行滿成佛。即文中行滿願故。</p><p id="pX38p0876a2016" place="inline" rend="margin-left:1em">△四者。證滿
+<lb ed="X" n="0876a21"/>成佛。謂依淨心地。得無分別寂靜法智。及不思議勝
+<lb ed="X" n="0876a22"/>妙功德。是為證滿成佛。即文中佛果便成。觀一諦中
+<lb ed="X" n="0876a23"/>道之義。於四滿中。單舉解慧是願體性者。此種性位。
+<lb ed="X" n="0876a24"/>是信成就發心。起行修行。故云解慧為願體性。為一
+<pb ed="X" id="X38.0698.0876b" n="0876b"/>
+<lb ed="X" n="0876b01"/>切行本源也。</p></def></entry>
+<lb ed="X" n="0876b02"/><entry><form>五利使</form>
+<lb ed="X" n="0876b03"/><def><p id="pX38p0876b0301" rend="margin-left:1em">五利使者。即身。邊。邪見。見取。戒禁取也。利。即快利之
+<lb ed="X" n="0876b04"/>義。謂此五種妄惑。動念即生。造次恒有故。使。即驅使
+<lb ed="X" n="0876b05"/>之義。謂諸眾生。於此五種妄惑。驅役心神。流轉三界。
+<lb ed="X" n="0876b06"/>無有出期。二義合言。故名五利使也。</p><p id="pX38p0876b0615" place="inline" rend="margin-left:1em">△一身見。謂諸
+<lb ed="X" n="0876b07"/>眾生。於名。色。五陰。十二入。十八界中。妄計為身故。</p><p id="pX38p0876b0720" place="inline" rend="margin-left:1em">△
+<lb ed="X" n="0876b08"/>二邊見。謂即於前身見。或執為斷。或執為常。各執一
+<lb ed="X" n="0876b09"/>邊故。</p><p id="pX38p0876b0903" place="inline" rend="margin-left:1em">△三邪見。謂諸眾生。邪心取理。撥無因果。斷滅
+<lb ed="X" n="0876b10"/>一切善根故。</p><p id="pX38p0876b1006" place="inline" rend="margin-left:1em">△四見取。謂諸眾生。於非真勝法中。謬
+<lb ed="X" n="0876b11"/>計涅槃。生心取著。於邪見中。執為正見故。</p><p id="pX38p0876b1117" place="inline" rend="margin-left:1em">△五戒禁
+<lb ed="X" n="0876b12"/>取。謂諸外道。於非戒中。謬計為戒。如雞狗等邪戒。以
+<lb ed="X" n="0876b13"/>為真戒。取以進行故。</p></def></entry>
+<lb ed="X" n="0876b14"/><entry><form>五鈍使</form>
+<lb ed="X" n="0876b15"/><def><p id="pX38p0876b1501" rend="margin-left:1em">五鈍使者。即貪瞋癡慢疑也。鈍。即遲鈍。使。即役使。謂
+<lb ed="X" n="0876b16"/>此五種妄惑。由推前身見等五種利使而生。對利說
+<lb ed="X" n="0876b17"/>鈍。故名鈍使也。</p><p id="pX38p0876b1707" place="inline" rend="margin-left:1em">△一貪使者。謂貪著世間色欲財寶。
+<lb ed="X" n="0876b18"/>恣縱心情。引取而無厭足故。</p><p id="pX38p0876b1812" place="inline" rend="margin-left:1em">△二瞋使者。謂眾生於
+<lb ed="X" n="0876b19"/>違情境上。起諸瞋恚忿怒。惱亂自他故。</p><p id="pX38p0876b1916" place="inline" rend="margin-left:1em">△三痴使者。
+<lb ed="X" n="0876b20"/>謂諸眾生。迷心緣境。於一切法。不能明了故。</p><p id="pX38p0876b2018" place="inline" rend="margin-left:1em">△四慢
+<lb ed="X" n="0876b21"/>使者。謂諸眾生。自恃種姓富貴。有德有才。輕蔑於他
+<lb ed="X" n="0876b22"/>故。</p><p id="pX38p0876b2202" place="inline" rend="margin-left:1em">△五疑使者。謂諸眾生。迷心乖理。於諸法猶豫不
+<lb ed="X" n="0876b23"/>決。不能通達故。由此五惑之所驅役。流轉三界。故名
+<lb ed="X" n="0876b24"/>使也。</p></def></entry>
+<pb ed="X" id="X38.0698.0876c" n="0876c"/>
+<lb ed="X" n="0876c01"/><entry><form>百三昧</form>
+<lb ed="X" n="0876c02"/><def><p id="pX38p0876c0201" rend="margin-left:1em">百三昧者。大智度論具明百八三昧。茲言百者。略舉
+<lb ed="X" n="0876c03"/>大數也。</p><p id="pX38p0876c0304" place="inline" rend="margin-left:1em">△首楞嚴三昧。於諸三昧行相。悉能分別了
+<lb ed="X" n="0876c04"/>知。究竟一切魔惱。不能破壞故。</p><p id="pX38p0876c0413" place="inline" rend="margin-left:1em">△寶印三昧。於一切
+<lb ed="X" n="0876c05"/>三昧。悉能印證。然諸寶中。法寶為最故。</p><p id="pX38p0876c0516" place="inline" rend="margin-left:1em">△師子戲三
+<lb ed="X" n="0876c06"/>昧。於諸三昧。出入自在。如師子戲。能制&CB00320;獸故。</p><p id="pX38p0876c0619" place="inline" rend="margin-left:1em">△妙
+<lb ed="X" n="0876c07"/>月三昧。能除無明黑暗。諸法邪見故。</p><p id="pX38p0876c0715" place="inline" rend="margin-left:1em">△月幢相三昧。
+<lb ed="X" n="0876c08"/>如大將以寶幢。作月之像。見者悉皆順從故。</p><p id="pX38p0876c0818" place="inline" rend="margin-left:1em">△出諸
+<lb ed="X" n="0876c09"/>法三昧。能令一切三昧。出生增長故。</p><p id="pX38p0876c0915" place="inline" rend="margin-left:1em">△觀頂三昧。入
+<lb ed="X" n="0876c10"/>是三昧。&CB00642;見諸三昧故。</p><p id="pX38p0876c1010" place="inline" rend="margin-left:1em">△畢法性三昧。決定知諸法
+<lb ed="X" n="0876c11"/>性。而得定相故。</p><p id="pX38p0876c1107" place="inline" rend="margin-left:1em">△畢幢相三昧。決定持諸三昧法幢。
+<lb ed="X" n="0876c12"/>最為尊勝故。</p><p id="pX38p0876c1206" place="inline" rend="margin-left:1em">△金剛三昧。智慧堅固。能破諸三昧故。</p>
+<lb ed="X" n="0876c13"/><p id="pX38p0876c1301" rend="margin-left:1em">△入法印三昧。持此法印。能入諸法實相故。</p><p id="pX38p0876c1318" place="inline" rend="margin-left:1em">△三昧
+<lb ed="X" n="0876c14"/>王安立三昧。於諸三昧中。安住自在故。</p><p id="pX38p0876c1416" place="inline" rend="margin-left:1em">△放光三昧。
+<lb ed="X" n="0876c15"/>能放種種光明。照諸三昧故。</p><p id="pX38p0876c1512" place="inline" rend="margin-left:1em">△力進三昧。於諸三昧。
+<lb ed="X" n="0876c16"/>得自在力。變現度生故。</p><p id="pX38p0876c1610" place="inline" rend="margin-left:1em">△高出三昧。諸三昧性。從心
+<lb ed="X" n="0876c17"/>而出。福德智慧。悉增長故。</p><p id="pX38p0876c1711" place="inline" rend="margin-left:1em">△必入辯才三昧。能辯說
+<lb ed="X" n="0876c18"/>一切三昧。知眾生語言經論等。分別無礙故。</p><p id="pX38p0876c1818" place="inline" rend="margin-left:1em">△釋名
+<lb ed="X" n="0876c19"/>字三昧。能解諸法三昧名義故。</p><p id="pX38p0876c1913" place="inline" rend="margin-left:1em">△觀方三昧。以平等
+<lb ed="X" n="0876c20"/>心。觀十方眾生。皆得度脫故。</p><p id="pX38p0876c2012" place="inline" rend="margin-left:1em">△陀羅尼即三昧。持諸
+<lb ed="X" n="0876c21"/>三昧印。分別諸三昧。皆有陀羅尼故。</p><p id="pX38p0876c2115" place="inline" rend="margin-left:1em">△無誑三昧。不
+<lb ed="X" n="0876c22"/>生愛。恚。無明。邪見。於諸三昧。都無迷悶之事故。</p><p id="pX38p0876c2219" place="inline" rend="margin-left:1em">△攝
+<lb ed="X" n="0876c23"/>諸法海三昧。能攝三乘諸法故。</p><p id="pX38p0876c2313" place="inline" rend="margin-left:1em">△&CB00642;覆&CB00980;空三昧。或
+<lb ed="X" n="0876c24"/>放光明。或以音聲。充&CB00642;無量&CB00980;空故。</p><p id="pX38p0876c2415" place="inline" rend="margin-left:1em">△金剛輪三昧。
+<pb ed="X" id="X38.0698.0877a" n="0877a"/>
+<lb ed="X" n="0877a01"/>持三昧輪。入一切法。所至無礙故。</p><p id="pX38p0877a0114" place="inline" rend="margin-left:1em">△實斷三昧。持此
+<lb ed="X" n="0877a02"/>法寶。能斷一切三時煩惱諸垢故。</p><p id="pX38p0877a0214" place="inline" rend="margin-left:1em">△能照三昧。以智
+<lb ed="X" n="0877a03"/>慧明。照了諸法故。</p><p id="pX38p0877a0308" place="inline" rend="margin-left:1em">△不求三昧。照諸法如幻。於三界
+<lb ed="X" n="0877a04"/>愛欲。悉斷無求故。</p><p id="pX38p0877a0408" place="inline" rend="margin-left:1em">△無住三昧。照諸法念念無常。無
+<lb ed="X" n="0877a05"/>有住相故。</p><p id="pX38p0877a0505" place="inline" rend="margin-left:1em">△無心三昧。心心數法。皆悉不行故。</p><p id="pX38p0877a0519" place="inline" rend="margin-left:1em">△淨
+<lb ed="X" n="0877a06"/>燈三昧。離垢慧燈。清淨明發故。</p><p id="pX38p0877a0613" place="inline" rend="margin-left:1em">△無邊明三昧。以智
+<lb ed="X" n="0877a07"/>慧明。普照無邊世界故。</p><p id="pX38p0877a0710" place="inline" rend="margin-left:1em">△能作明三昧。如燈入暗。無
+<lb ed="X" n="0877a08"/>不明了故。</p><p id="pX38p0877a0805" place="inline" rend="margin-left:1em">△普照明三昧。如寶珠光。四邊普照故。</p><p id="pX38p0877a0820" place="inline" rend="margin-left:1em">△
+<lb ed="X" n="0877a09"/>堅淨諸三昧。清淨堅牢。垢法無染故。</p><p id="pX38p0877a0915" place="inline" rend="margin-left:1em">△無垢明三昧。
+<lb ed="X" n="0877a10"/>離無明愛欲煩惱諸垢。明照一切三昧。故。</p><p id="pX38p0877a1017" place="inline" rend="margin-left:1em">△歡喜三
+<lb ed="X" n="0877a11"/>昧。能生無量法歡喜樂故。</p><p id="pX38p0877a1111" place="inline" rend="margin-left:1em">△電光三昧。於無始來所
+<lb ed="X" n="0877a12"/>失之道。還復能得。如電光蹔現。行者得路故。</p><p id="pX38p0877a1218" place="inline" rend="margin-left:1em">△無盡
+<lb ed="X" n="0877a13"/>三昧。滅諸法無常等相。入不生滅真實之理故。</p><p id="pX38p0877a1319" place="inline" rend="margin-left:1em">△威
+<lb ed="X" n="0877a14"/>德三昧。有無量威德自在莊嚴故。</p><p id="pX38p0877a1414" place="inline" rend="margin-left:1em">△離盡三昧。見諸
+<lb ed="X" n="0877a15"/>三昧。無有窮盡離一切斷滅之見故。</p><p id="pX38p0877a1515" place="inline" rend="margin-left:1em">△不動三昧。知
+<lb ed="X" n="0877a16"/>諸法實相。寂然不動故。</p><p id="pX38p0877a1610" place="inline" rend="margin-left:1em">△不退三昧。住是三昧。不退
+<lb ed="X" n="0877a17"/>轉故。</p><p id="pX38p0877a1703" place="inline" rend="margin-left:1em">△日燈三昧。能照種種法門。如日燈破暗故。</p><p id="pX38p0877a1720" place="inline" rend="margin-left:1em">△
+<lb ed="X" n="0877a18"/>月淨三昧。慧照圓明。如月除瞑故。</p><p id="pX38p0877a1814" place="inline" rend="margin-left:1em">△淨明三昧。明照
+<lb ed="X" n="0877a19"/>諸法。無有障礙故。</p><p id="pX38p0877a1908" place="inline" rend="margin-left:1em">△能作明三昧。能與般若智相應。
+<lb ed="X" n="0877a20"/>於諸三昧門。而作光明故。</p><p id="pX38p0877a2011" place="inline" rend="margin-left:1em">△作行三昧。能發起先所
+<lb ed="X" n="0877a21"/>得諸三昧故。</p><p id="pX38p0877a2106" place="inline" rend="margin-left:1em">△知相三昧。見一切三昧中。有實智慧
+<lb ed="X" n="0877a22"/>之相故。</p><p id="pX38p0877a2204" place="inline" rend="margin-left:1em">△如金剛三昧。能破煩惱結使。無有遺餘故。</p>
+<lb ed="X" n="0877a23"/><p id="pX38p0877a2301" rend="margin-left:1em">△心住三昧。能攝散心不動轉故。</p><p id="pX38p0877a2314" place="inline" rend="margin-left:1em">△普明三昧。神通
+<lb ed="X" n="0877a24"/>光明。普照諸法故。</p><p id="pX38p0877a2408" place="inline" rend="margin-left:1em">△安立三昧。於一切功德善法中
+<pb ed="X" id="X38.0698.0877b" n="0877b"/>
+<lb ed="X" n="0877b01"/>安立。堅固不動故。</p><p id="pX38p0877b0108" place="inline" rend="margin-left:1em">△寶聚三昧。能轉一切國土。皆成
+<lb ed="X" n="0877b02"/>七寶故。</p><p id="pX38p0877b0204" place="inline" rend="margin-left:1em">△妙法印三昧。得諸佛菩薩。深妙功德智慧
+<lb ed="X" n="0877b03"/>之法。印諸三昧故。</p><p id="pX38p0877b0308" place="inline" rend="margin-left:1em">△法等三昧。能照眾生諸法。悉皆
+<lb ed="X" n="0877b04"/>平等故。</p><p id="pX38p0877b0404" place="inline" rend="margin-left:1em">△斷喜三昧。厭離苦。空。無我。不淨之相。不起
+<lb ed="X" n="0877b05"/>樂著之想故。</p><p id="pX38p0877b0506" place="inline" rend="margin-left:1em">△到法頂三昧。以般若方便之力。而到
+<lb ed="X" n="0877b06"/>於法山之頂故。</p><p id="pX38p0877b0607" place="inline" rend="margin-left:1em">△能散三昧。能於空慧相應。而能破
+<lb ed="X" n="0877b07"/>散諸法故。</p><p id="pX38p0877b0705" place="inline" rend="margin-left:1em">△分別諸法句三昧。能分別諸法語言文
+<lb ed="X" n="0877b08"/>句。為眾生說。詞無礙故。</p><p id="pX38p0877b0810" place="inline" rend="margin-left:1em">△字等相三昧。觀諸字諸語。
+<lb ed="X" n="0877b09"/>悉皆平等故。</p><p id="pX38p0877b0906" place="inline" rend="margin-left:1em">△離字三昧。謂不見字在義中亦不見
+<lb ed="X" n="0877b10"/>字在字中故。</p><p id="pX38p0877b1006" place="inline" rend="margin-left:1em">△斷緣三昧。於苦樂三受。遠離不著。心
+<lb ed="X" n="0877b11"/>滅緣斷故。</p><p id="pX38p0877b1105" place="inline" rend="margin-left:1em">△不壞三昧。了法畢竟空寂。戲論不能破。
+<lb ed="X" n="0877b12"/>無常不能轉故。</p><p id="pX38p0877b1207" place="inline" rend="margin-left:1em">△無種相三昧。了法無相。而不見諸
+<lb ed="X" n="0877b13"/>法種種之相故。</p><p id="pX38p0877b1307" place="inline" rend="margin-left:1em">△無處行三昧。於三界火宅。菩提涅
+<lb ed="X" n="0877b14"/>槃。畢竟空寂。不依止故。</p><p id="pX38p0877b1410" place="inline" rend="margin-left:1em">△離&CB15167;昧三昧。於微翳無明
+<lb ed="X" n="0877b15"/>等。悉皆除盡故。</p><p id="pX38p0877b1507" place="inline" rend="margin-left:1em">△無去三昧。不見一切諸法去來之
+<lb ed="X" n="0877b16"/>相故。</p><p id="pX38p0877b1603" place="inline" rend="margin-left:1em">△不變異三昧。觀一切法。不見有變異之相故。</p>
+<lb ed="X" n="0877b17"/><p id="pX38p0877b1701" rend="margin-left:1em">△度緣三昧。於六塵中諸煩惱緣。悉皆度脫故。</p><p id="pX38p0877b1719" place="inline" rend="margin-left:1em">△集
+<lb ed="X" n="0877b18"/>諸功德三昧。修集一切善根功德。初中後夜。無休息
+<lb ed="X" n="0877b19"/>故。</p><p id="pX38p0877b1902" place="inline" rend="margin-left:1em">△住無心三昧。住諸法實相中。<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>隨智慧。不隨於
+<lb ed="X" n="0877b20"/>心故。</p><p id="pX38p0877b2003" place="inline" rend="margin-left:1em">△淨妙華三昧。於諸三昧中。開諸功德華。自在
+<lb ed="X" n="0877b21"/>莊嚴故。</p><p id="pX38p0877b2104" place="inline" rend="margin-left:1em">△覺意三昧。令諸三昧變成無漏。與七覺相
+<lb ed="X" n="0877b22"/>應故。</p><p id="pX38p0877b2203" place="inline" rend="margin-left:1em">△無量辯三昧。以無量辯才。樂說無礙故。</p><p id="pX38p0877b2219" place="inline" rend="margin-left:1em">△無
+<lb ed="X" n="0877b23"/>等等三昧。觀一切法。皆同佛法。與無等等般若波羅蜜
+<lb ed="X" n="0877b24"/>相應故。</p><p id="pX38p0877b2404" place="inline" rend="margin-left:1em">△度諸法三昧。能入三解脫門。超出三界。度
+<pb ed="X" id="X38.0698.0877c" n="0877c"/>
+<lb ed="X" n="0877c01"/>三乘眾生故。</p><p id="pX38p0877c0106" place="inline" rend="margin-left:1em">△分別諸法三昧。能分別善。不善。有漏
+<lb ed="X" n="0877c02"/>無漏。有為。無為等相故。</p><p id="pX38p0877c0210" place="inline" rend="margin-left:1em">△散疑三昧。除一切疑網。得
+<lb ed="X" n="0877c03"/>一切諸法實相故。</p><p id="pX38p0877c0308" place="inline" rend="margin-left:1em">△無住處三昧。不見諸法定有住
+<lb ed="X" n="0877c04"/>處故。</p><p id="pX38p0877c0403" place="inline" rend="margin-left:1em">△一莊嚴三昧。能觀諸法。皆以一相智慧莊嚴
+<lb ed="X" n="0877c05"/>故。</p><p id="pX38p0877c0502" place="inline" rend="margin-left:1em">△生行三昧。觀種種行。入。住。出相。皆空不可見故。</p>
+<lb ed="X" n="0877c06"/><p id="pX38p0877c0601" rend="margin-left:1em">△一行三昧。與畢竟空相應。更無餘行故。</p><p id="pX38p0877c0617" place="inline" rend="margin-left:1em">△不一行
+<lb ed="X" n="0877c07"/>三昧。以此三昧。兼行餘行故。</p><p id="pX38p0877c0712" place="inline" rend="margin-left:1em">△妙行三昧。不見諸三
+<lb ed="X" n="0877c08"/>昧二相。即是畢竟空相應三昧故。</p><p id="pX38p0877c0814" place="inline" rend="margin-left:1em">△達一切有底三
+<lb ed="X" n="0877c09"/>昧。以無漏智。通達三有。乃至非有想。非無想之底。悉
+<lb ed="X" n="0877c10"/>皆令其散壞故。</p><p id="pX38p0877c1007" place="inline" rend="margin-left:1em">△入名語三昧。於一切諸法名字語
+<lb ed="X" n="0877c11"/>言。無不解了故。</p><p id="pX38p0877c1107" place="inline" rend="margin-left:1em">△離音聲字語三昧。觀一切法。皆無
+<lb ed="X" n="0877c12"/>音聲語言。常寂滅相故。</p><p id="pX38p0877c1210" place="inline" rend="margin-left:1em">△然炬三昧。以智慧炬。照一
+<lb ed="X" n="0877c13"/>切法。無錯無著故。</p><p id="pX38p0877c1308" place="inline" rend="margin-left:1em">△淨相三昧。謂能清淨具足莊嚴
+<lb ed="X" n="0877c14"/>三十二相。及觀諸法總相。別相。無無相故。</p><p id="pX38p0877c1417" place="inline" rend="margin-left:1em">△破相三
+<lb ed="X" n="0877c15"/>昧。於諸三昧相。無住無著故。</p><p id="pX38p0877c1512" place="inline" rend="margin-left:1em">△一切種妙足三昧。能
+<lb ed="X" n="0877c16"/>以諸功德。種種莊嚴。禪定。智慧。悉皆具足故。</p><p id="pX38p0877c1618" place="inline" rend="margin-left:1em">△不喜
+<lb ed="X" n="0877c17"/>苦樂三昧。於世間苦樂諸境。皆不喜樂故。</p><p id="pX38p0877c1717" place="inline" rend="margin-left:1em">△無盡相
+<lb ed="X" n="0877c18"/>三昧。觀一切法。不斷不常。無壞無盡故。</p><p id="pX38p0877c1816" place="inline" rend="margin-left:1em">△陀羅尼三
+<lb ed="X" n="0877c19"/>昧。住是三昧。則能持諸三昧。而聞持等諸陀羅尼。皆
+<lb ed="X" n="0877c20"/>自然而得故。</p><p id="pX38p0877c2006" place="inline" rend="margin-left:1em">△攝諸邪正相三昧。謂於正定。邪定。不
+<lb ed="X" n="0877c21"/>定聚。一切眾生。都無所棄。一心攝取。而不見有邪正
+<lb ed="X" n="0877c22"/>等相故。</p><p id="pX38p0877c2204" place="inline" rend="margin-left:1em">△滅憎愛三昧。於可喜。不可喜法中。不生愛
+<lb ed="X" n="0877c23"/>瞋故。</p><p id="pX38p0877c2303" place="inline" rend="margin-left:1em">△逆順三昧。於諸法中。逆順自在。能破一切邪
+<lb ed="X" n="0877c24"/>逆眾生。能順一切可化眾生。而又不著逆順之相故。</p>
+<pb ed="X" id="X38.0698.0878a" n="0878a"/>
+<lb ed="X" n="0878a01"/><p id="pX38p0878a0101" rend="margin-left:1em">△淨光三昧。於諸三昧。光明清淨。諸煩惱垢。皆不可
+<lb ed="X" n="0878a02"/>得故。</p><p id="pX38p0878a0203" place="inline" rend="margin-left:1em">△堅固三昧。以與諸法實相智慧相應。皆悉堅
+<lb ed="X" n="0878a03"/>固故。</p><p id="pX38p0878a0303" place="inline" rend="margin-left:1em">△滿月淨光三昧。清涼智光。能滅三毒之火故。</p>
+<lb ed="X" n="0878a04"/><p id="pX38p0878a0401" rend="margin-left:1em">△大莊嚴三昧。以七寶香。莊嚴恒沙佛國處故。</p><p id="pX38p0878a0419" place="inline" rend="margin-left:1em">△能
+<lb ed="X" n="0878a05"/>炤一切世間三昧。三世間一切諸法。皆悉能炤故。</p><p id="pX38p0878a0520" place="inline" rend="margin-left:1em">△
+<lb ed="X" n="0878a06"/>三昧等三昧。觀諸三昧。無有淺深。與諸法相。皆悉平
+<lb ed="X" n="0878a07"/>等故。</p><p id="pX38p0878a0703" place="inline" rend="margin-left:1em">△攝一切有諍無諍三昧。於一切法。不見是法
+<lb ed="X" n="0878a08"/>如是不如是。於眾生中。亦無好醜諍論。<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>隨心行而
+<lb ed="X" n="0878a09"/>攝受度脫故。</p><p id="pX38p0878a0906" place="inline" rend="margin-left:1em">△不樂一切住處三昧。謂不樂住世間。
+<lb ed="X" n="0878a10"/>以世間無常故。不樂住非世間。不著於空故。</p><p id="pX38p0878a1018" place="inline" rend="margin-left:1em">△如住
+<lb ed="X" n="0878a11"/>定三昧。如。即有無不二之義。謂知一切法如實相。不
+<lb ed="X" n="0878a12"/>見有法過此如者故。</p><p id="pX38p0878a1209" place="inline" rend="margin-left:1em">△壞身衰三昧。以智慧力。分分
+<lb ed="X" n="0878a13"/>破壞身諸衰相故。</p><p id="pX38p0878a1308" place="inline" rend="margin-left:1em">△壞語如&CB00980;空三昧。不見諸三昧
+<lb ed="X" n="0878a14"/>語業。依聲而有故。</p><p id="pX38p0878a1408" place="inline" rend="margin-left:1em">△離著&CB00980;空不染三昧。菩薩修行
+<lb ed="X" n="0878a15"/>般若波羅蜜。觀諸法畢竟空。不生不滅。於此&CB00980;空三
+<lb ed="X" n="0878a16"/>昧之相。亦不染著故。</p></def></entry>
+<lb ed="X" n="0878a17"/><entry><form>百法明門</form>
+<lb ed="X" n="0878a18"/><def><p id="pX38p0878a1801" rend="margin-left:1em">百法明門者。具有百八。今舉百者。略而言也。本行集
+<lb ed="X" n="0878a19"/>經云。佛寄兜率天。作護明菩薩。將欲下生時。說此留
+<lb ed="X" n="0878a20"/>與諸天。以作憶念。後下生也。</p><p id="pX38p0878a2012" place="inline" rend="margin-left:1em">△百八者。所謂正信法
+<lb ed="X" n="0878a21"/>明門。不破堅牢心故。</p><p id="pX38p0878a2109" place="inline" rend="margin-left:1em">△淨心法明門。謂無穢濁故。</p><p id="pX38p0878a2120" place="inline" rend="margin-left:1em">△
+<lb ed="X" n="0878a22"/>歡喜法明門。謂安隱心故。</p><p id="pX38p0878a2211" place="inline" rend="margin-left:1em">△愛樂法明門。令心清淨
+<lb ed="X" n="0878a23"/>故。</p><p id="pX38p0878a2302" place="inline" rend="margin-left:1em">△身行正行法明門。身三惡業清淨故。</p><p id="pX38p0878a2317" place="inline" rend="margin-left:1em">△口行淨
+<lb ed="X" n="0878a24"/>行法明門。斷口四惡故。</p><p id="pX38p0878a2410" place="inline" rend="margin-left:1em">△意行正行法明門。斷貪等
+<pb ed="X" id="X38.0698.0878b" n="0878b"/>
+<lb ed="X" n="0878b01"/>三毒故。</p><p id="pX38p0878b0104" place="inline" rend="margin-left:1em">△念佛法明門。觀佛清淨故。</p><p id="pX38p0878b0115" place="inline" rend="margin-left:1em">△念法法明門。
+<lb ed="X" n="0878b02"/>觀法清淨故。</p><p id="pX38p0878b0206" place="inline" rend="margin-left:1em">△念僧法明門。得道堅牢故。</p><p id="pX38p0878b0217" place="inline" rend="margin-left:1em">△念施法
+<lb ed="X" n="0878b03"/>明門。不望果報故。</p><p id="pX38p0878b0308" place="inline" rend="margin-left:1em">△念戒法明門。一切願具足故。</p><p id="pX38p0878b0320" place="inline" rend="margin-left:1em">△
+<lb ed="X" n="0878b04"/>念天法明門。修廣大心故。</p><p id="pX38p0878b0411" place="inline" rend="margin-left:1em">△慈法明門。隨處善根攝
+<lb ed="X" n="0878b05"/>勝故。</p><p id="pX38p0878b0503" place="inline" rend="margin-left:1em">△悲法明門。不害眾生故。</p><p id="pX38p0878b0513" place="inline" rend="margin-left:1em">△喜法明門。捨一切
+<lb ed="X" n="0878b06"/>不喜事故。</p><p id="pX38p0878b0605" place="inline" rend="margin-left:1em">△捨法明門。厭離五欲故。</p><p id="pX38p0878b0615" place="inline" rend="margin-left:1em">△無常觀法明
+<lb ed="X" n="0878b07"/>門。觀三界慾故。</p><p id="pX38p0878b0707" place="inline" rend="margin-left:1em">△苦觀法明門。斷一切願故。</p><p id="pX38p0878b0718" place="inline" rend="margin-left:1em">△無我
+<lb ed="X" n="0878b08"/>觀法明門。不染著我故。</p><p id="pX38p0878b0810" place="inline" rend="margin-left:1em">△寂定觀法明門。不擾亂心
+<lb ed="X" n="0878b09"/>意故。</p><p id="pX38p0878b0903" place="inline" rend="margin-left:1em">△慚愧法明門。內心寂定故。</p><p id="pX38p0878b0914" place="inline" rend="margin-left:1em">△羞恥法明門。能
+<lb ed="X" n="0878b10"/>滅外惡故。</p><p id="pX38p0878b1005" place="inline" rend="margin-left:1em">△實法明門。不誑天人故。</p><p id="pX38p0878b1015" place="inline" rend="margin-left:1em">△真法明門。不
+<lb ed="X" n="0878b11"/>誑自身故。</p><p id="pX38p0878b1105" place="inline" rend="margin-left:1em">△行法明門。隨順法行故。</p><p id="pX38p0878b1115" place="inline" rend="margin-left:1em">△三歸法明門。
+<lb ed="X" n="0878b12"/>淨三惡道故。</p><p id="pX38p0878b1206" place="inline" rend="margin-left:1em">△知恩法明門。不捨善根故。</p><p id="pX38p0878b1217" place="inline" rend="margin-left:1em">△報恩法
+<lb ed="X" n="0878b13"/>明門。不欺負他故。</p><p id="pX38p0878b1308" place="inline" rend="margin-left:1em">△不自欺法明門。不自譽故。</p><p id="pX38p0878b1319" place="inline" rend="margin-left:1em">△為
+<lb ed="X" n="0878b14"/>眾生法明門。不毀呰他故。</p><p id="pX38p0878b1411" place="inline" rend="margin-left:1em">△為法法明門。如法而行
+<lb ed="X" n="0878b15"/>故。</p><p id="pX38p0878b1502" place="inline" rend="margin-left:1em">△知時法明門。不輕言說故。</p><p id="pX38p0878b1513" place="inline" rend="margin-left:1em">△攝我慢法明門。智
+<lb ed="X" n="0878b16"/>慧滿足故。</p><p id="pX38p0878b1605" place="inline" rend="margin-left:1em">△不生惡心法明門。自護護他故。</p><p id="pX38p0878b1618" place="inline" rend="margin-left:1em">△無障
+<lb ed="X" n="0878b17"/>礙法明門。心無疑惑故。</p><p id="pX38p0878b1710" place="inline" rend="margin-left:1em">△信解法明門。決了第一義
+<lb ed="X" n="0878b18"/>故。</p><p id="pX38p0878b1802" place="inline" rend="margin-left:1em">△不淨觀法明門。捨慾染心故。</p><p id="pX38p0878b1814" place="inline" rend="margin-left:1em">△不諍&CB00508;法明門。
+<lb ed="X" n="0878b19"/>斷瞋訟故。</p><p id="pX38p0878b1905" place="inline" rend="margin-left:1em">△不癡法明門。斷殺生故。</p><p id="pX38p0878b1915" place="inline" rend="margin-left:1em">△樂法義法明
+<lb ed="X" n="0878b20"/>門。求法義故。</p><p id="pX38p0878b2006" place="inline" rend="margin-left:1em">△愛法明門。得法明相故。</p><p id="pX38p0878b2016" place="inline" rend="margin-left:1em">△求多聞法
+<lb ed="X" n="0878b21"/>明門。正觀法相故。</p><p id="pX38p0878b2108" place="inline" rend="margin-left:1em">△正方便法明門。真正行故。</p><p id="pX38p0878b2119" place="inline" rend="margin-left:1em">△知
+<lb ed="X" n="0878b22"/>名色法明門。除諸障礙故。</p><p id="pX38p0878b2211" place="inline" rend="margin-left:1em">△除因見法明門。得解脫
+<lb ed="X" n="0878b23"/>故。</p><p id="pX38p0878b2302" place="inline" rend="margin-left:1em">△無怨親心法明門。於怨親中。生平等故。</p><p id="pX38p0878b2318" place="inline" rend="margin-left:1em">△除方
+<lb ed="X" n="0878b24"/>便法明門。知諸苦故。</p><p id="pX38p0878b2409" place="inline" rend="margin-left:1em">△諸大平等法明門。斷一切和
+<pb ed="X" id="X38.0698.0878c" n="0878c"/>
+<lb ed="X" n="0878c01"/>合法故。</p><p id="pX38p0878c0104" place="inline" rend="margin-left:1em">△諸入法明門。修正道故。</p><p id="pX38p0878c0114" place="inline" rend="margin-left:1em">△無生忍法明門。
+<lb ed="X" n="0878c02"/>證滅諦故。</p><p id="pX38p0878c0205" place="inline" rend="margin-left:1em">△身念處法明門。諸法寂靜故。</p><p id="pX38p0878c0217" place="inline" rend="margin-left:1em">△受念處
+<lb ed="X" n="0878c03"/>法明門。斷一切諸受故。</p><p id="pX38p0878c0310" place="inline" rend="margin-left:1em">△心念處法明門。觀心如幻
+<lb ed="X" n="0878c04"/>故。</p><p id="pX38p0878c0402" place="inline" rend="margin-left:1em">△法念處法明門。智慧無翳故。</p><p id="pX38p0878c0414" place="inline" rend="margin-left:1em">△四正勤法明門。
+<lb ed="X" n="0878c05"/>斷一切惡成諸善故。</p><p id="pX38p0878c0509" place="inline" rend="margin-left:1em">△四如意足法明門。身心輕安
+<lb ed="X" n="0878c06"/>故。</p><p id="pX38p0878c0602" place="inline" rend="margin-left:1em">△信根法明門。不隨他語故。</p><p id="pX38p0878c0613" place="inline" rend="margin-left:1em">△進根法明門。善得
+<lb ed="X" n="0878c07"/>諸智故。</p><p id="pX38p0878c0704" place="inline" rend="margin-left:1em">△念根法明門。善作諸業故。</p><p id="pX38p0878c0715" place="inline" rend="margin-left:1em">△定根法明門。
+<lb ed="X" n="0878c08"/>心得清淨故。</p><p id="pX38p0878c0806" place="inline" rend="margin-left:1em">△慧根法明門。現見諸法故。</p><p id="pX38p0878c0817" place="inline" rend="margin-left:1em">△信力法
+<lb ed="X" n="0878c09"/>明門。過諸魔力故。</p><p id="pX38p0878c0908" place="inline" rend="margin-left:1em">△進力法明門。謂不退轉故。</p><p id="pX38p0878c0919" place="inline" rend="margin-left:1em">△念
+<lb ed="X" n="0878c10"/>力法明門。謂不共他故。</p><p id="pX38p0878c1010" place="inline" rend="margin-left:1em">△定力法明門。斷一切念故。</p>
+<lb ed="X" n="0878c11"/><p id="pX38p0878c1101" rend="margin-left:1em">△慧力法明門。謂離二邊故。</p><p id="pX38p0878c1112" place="inline" rend="margin-left:1em">△念覺分法明門。如
+<lb ed="X" n="0878c12"/>諸法智故。</p><p id="pX38p0878c1205" place="inline" rend="margin-left:1em">△擇法覺分法明門。炤明諸法故。</p><p id="pX38p0878c1218" place="inline" rend="margin-left:1em">△精
+<lb ed="X" n="0878c13"/>進覺分法明門。謂善知覺故。</p><p id="pX38p0878c1312" place="inline" rend="margin-left:1em">△喜覺分法明門。謂得
+<lb ed="X" n="0878c14"/>諸定故。</p><p id="pX38p0878c1404" place="inline" rend="margin-left:1em">△除覺分法明門。知一切法平等故。</p><p id="pX38p0878c1418" place="inline" rend="margin-left:1em">△捨覺
+<lb ed="X" n="0878c15"/>分法明門。厭離一切法故。</p><p id="pX38p0878c1511" place="inline" rend="margin-left:1em">△正見法明門。得漏盡聖
+<lb ed="X" n="0878c16"/>道故。</p><p id="pX38p0878c1603" place="inline" rend="margin-left:1em">△正分別法明門。斷一切分別。無分別法故。</p><p id="pX38p0878c1620" place="inline" rend="margin-left:1em">△
+<lb ed="X" n="0878c17"/>正語法明門。斷名字音聲如響故。</p><p id="pX38p0878c1714" place="inline" rend="margin-left:1em">△正業法明門。無
+<lb ed="X" n="0878c18"/>業無報故。</p><p id="pX38p0878c1805" place="inline" rend="margin-left:1em">△正命法明門。除滅一切惡道故。</p><p id="pX38p0878c1818" place="inline" rend="margin-left:1em">△正行
+<lb ed="X" n="0878c19"/>法明門。謂至彼岸故。</p><p id="pX38p0878c1909" place="inline" rend="margin-left:1em">△正念法明門。不念一切法故。</p>
+<lb ed="X" n="0878c20"/><p id="pX38p0878c2001" rend="margin-left:1em">△正定法明門。無散亂故。</p><p id="pX38p0878c2011" place="inline" rend="margin-left:1em">△菩提心法明門不斷三
+<lb ed="X" n="0878c21"/>寶故。</p><p id="pX38p0878c2103" place="inline" rend="margin-left:1em">△依倚法明門。不樂小乘故。</p><p id="pX38p0878c2114" place="inline" rend="margin-left:1em">△正信法明門。得
+<lb ed="X" n="0878c22"/>最勝佛法故。</p><p id="pX38p0878c2206" place="inline" rend="margin-left:1em">△增進法明門。成就一切善根法故。</p><p id="pX38p0878c2220" place="inline" rend="margin-left:1em">△
+<lb ed="X" n="0878c23"/>檀度法明門。教化眾生。遠離慳貪故。</p><p id="pX38p0878c2315" place="inline" rend="margin-left:1em">△戒度法明門。
+<lb ed="X" n="0878c24"/>教化破戒眾生。遠離惡道故。</p><p id="pX38p0878c2412" place="inline" rend="margin-left:1em">△忍度法明門。教化眾
+<pb ed="X" id="X38.0698.0879a" n="0879a"/>
+<lb ed="X" n="0879a01"/>生。捨瞋恚慢故。</p><p id="pX38p0879a0107" place="inline" rend="margin-left:1em">△進度法明門。教化眾生。遠離懈怠
+<lb ed="X" n="0879a02"/>故。</p><p id="pX38p0879a0202" place="inline" rend="margin-left:1em">△禪度法明門。教化散亂眾生故。</p><p id="pX38p0879a0215" place="inline" rend="margin-left:1em">△智度法明門。
+<lb ed="X" n="0879a03"/>教化愚癡眾生。斷無明黑暗故。</p><p id="pX38p0879a0313" place="inline" rend="margin-left:1em">△方便法明門。應機
+<lb ed="X" n="0879a04"/>說法故。</p><p id="pX38p0879a0404" place="inline" rend="margin-left:1em">△四攝法法明門。普攝眾生故。</p><p id="pX38p0879a0416" place="inline" rend="margin-left:1em">△教化眾生
+<lb ed="X" n="0879a05"/>法明門。不生疲倦故。</p><p id="pX38p0879a0509" place="inline" rend="margin-left:1em">△攝受正法法明門。斷一切眾
+<lb ed="X" n="0879a06"/>生諸煩惱故。</p><p id="pX38p0879a0606" place="inline" rend="margin-left:1em">△福聚法明門。利益眾生故。</p><p id="pX38p0879a0617" place="inline" rend="margin-left:1em">△修禪法
+<lb ed="X" n="0879a07"/>明門。滿足十力故。</p><p id="pX38p0879a0708" place="inline" rend="margin-left:1em">△寂定法明門。成就如來諸三昧
+<lb ed="X" n="0879a08"/>故。</p><p id="pX38p0879a0802" place="inline" rend="margin-left:1em">△慧見法明門。大智滿足故。</p><p id="pX38p0879a0813" place="inline" rend="margin-left:1em">△入無礙辯法明門。
+<lb ed="X" n="0879a09"/>法眼成就故。</p><p id="pX38p0879a0906" place="inline" rend="margin-left:1em">△入一切行法明門。佛眼成就故。</p><p id="pX38p0879a0919" place="inline" rend="margin-left:1em">△成
+<lb ed="X" n="0879a10"/>就陀羅尼法明門。悉能受持佛法故。</p><p id="pX38p0879a1015" place="inline" rend="margin-left:1em">△得無礙辯法
+<lb ed="X" n="0879a11"/>明門。令一切眾生皆歡喜故。</p><p id="pX38p0879a1112" place="inline" rend="margin-left:1em">△無生法忍法明門。謂
+<lb ed="X" n="0879a12"/>得受記故。</p><p id="pX38p0879a1205" place="inline" rend="margin-left:1em">△不退轉地法明門。具足往昔諸佛法故。</p>
+<lb ed="X" n="0879a13"/><p id="pX38p0879a1301" rend="margin-left:1em">△從一地至一地智法明門。謂灌頂成就一切智。乃
+<lb ed="X" n="0879a14"/>至得成阿耨多羅三藐三菩提故。</p></def></entry></div1>
+<lb ed="X" n="0879a15"/><div1 type="other"><mulu type="其他" level="1" label="上卷之二"/><head>上卷之二</head>
+<lb ed="X" n="0879a16"/><entry><form>九十五種</form>
+<lb ed="X" n="0879a17"/><def><p id="pX38p0879a1701" rend="margin-left:1em">九十五種者。西域外道。有九十五種。束為十一宗。一
+<lb ed="X" n="0879a18"/>數論師。計神我諸諦。二勝論師。計六句義。三塗&CB01926;師。
+<lb ed="X" n="0879a19"/>計自在天。四韋陀師。計那羅延天。五安茶論師。計本
+<lb ed="X" n="0879a20"/>際。六時散外道。計物從時生。七方論師。計方生人。人
+<lb ed="X" n="0879a21"/>生天地。八路伽耶。計色心法。皆極微作。九口力論師。
+<lb ed="X" n="0879a22"/>計&CB00980;空為萬物因。十宿作論師。計苦樂隨業。十一無
+<lb ed="X" n="0879a23"/>因論師。計自在生。</p></def></entry>
+<lb ed="X" n="0879a24"/><entry><form>三細</form>
+<pb ed="X" id="X38.0698.0879b" n="0879b"/>
+<lb ed="X" n="0879b01"/><def><p id="pX38p0879b0101" rend="margin-left:1em">三細者。對六麤而言。即根本無明之惑也。一業相。即
+<lb ed="X" n="0879b02"/>從真起妄。初動之相也。然本覺心源。離念寂靜。因無
+<lb ed="X" n="0879b03"/>明故。覺成不覺。遂成業相。二能見相。即見初動之相
+<lb ed="X" n="0879b04"/>也。亦名轉相。謂依初動業識。轉成能見之相也。三境
+<lb ed="X" n="0879b05"/>界相。即轉相分別初動之境界也。亦名現相。繇前轉
+<lb ed="X" n="0879b06"/>相。則境界妄現也。</p></def></entry>
+<lb ed="X" n="0879b07"/><entry><form>六麤</form>
+<lb ed="X" n="0879b08"/><def><p id="pX38p0879b0801" rend="margin-left:1em">六麤者。繇三細而生。故名六麤。一智相謂依第三境
+<lb ed="X" n="0879b09"/>界相。不了自心所現。妄起分別。於染淨境。起愛不愛
+<lb ed="X" n="0879b10"/>故。二相續相。謂依前智相分別。於愛不愛境。生樂生
+<lb ed="X" n="0879b11"/>苦。覺心起念。相續不斷故。三執取相。謂依前相續緣
+<lb ed="X" n="0879b12"/>念苦樂等境。心起著故。四計名字相。謂依前執取分
+<lb ed="X" n="0879b13"/>別。假名言說之相故。五起業相謂依前名字。執取生
+<lb ed="X" n="0879b14"/>著。造種種業故。六業繫苦相。苦。即生死之苦。謂依前
+<lb ed="X" n="0879b15"/>起業繫縛。則有生死逼迫之苦。不得自在故。</p></def></entry>
+<lb ed="X" n="0879b16"/><entry><form>二十五諦</form>
+<lb ed="X" n="0879b17"/><def><p id="pX38p0879b1701" rend="margin-left:1em">二十五諦者。一冥性。二智大。三我心。四五唯量。即色
+<lb ed="X" n="0879b18"/>聲香味觸五塵也。五五大。即地水火風空也。六五知
+<lb ed="X" n="0879b19"/>根。即眼耳鼻舌身也。七五作業根。即手足口。大遺。小
+<lb ed="X" n="0879b20"/>遺也。八心平等根。即意根也。九神我主諦。合有二十
+<lb ed="X" n="0879b21"/>五法。</p></def></entry>
+<lb ed="X" n="0879b22"/><entry><form>三淨土</form>
+<lb ed="X" n="0879b23"/><def><p id="pX38p0879b2301" rend="margin-left:1em">三淨土者。一常寂光土。亦名法性土。此即法身如來
+<lb ed="X" n="0879b24"/>所依理土。通為諸土體故。</p><p id="pX38p0879b2411" place="inline" rend="margin-left:1em">△二實報莊嚴土。此即報
+<pb ed="X" id="X38.0698.0879c" n="0879c"/>
+<lb ed="X" n="0879c01"/>身如來所受用土。有二。一者。自受用土。即以所修自
+<lb ed="X" n="0879c02"/>利。行滿。從初成佛。盡未來際。變為純淨佛土。眾寶莊
+<lb ed="X" n="0879c03"/>嚴者是。二者。他受用土。是即所修化他行滿。乃隨十
+<lb ed="X" n="0879c04"/>地菩薩所宜居處。或大。或小。或勝。或劣。變成淨土者
+<lb ed="X" n="0879c05"/>是。</p><p id="pX38p0879c0502" place="inline" rend="margin-left:1em">△三變化土。亦名凡聖同居土。即是應身如來變
+<lb ed="X" n="0879c06"/>化之土。謂佛以不思議神力。隨諸眾生善惡之業。變
+<lb ed="X" n="0879c07"/>現淨穢之土。方便設化故。</p></def></entry>
+<lb ed="X" n="0879c08"/><entry><form>五怖畏</form>
+<lb ed="X" n="0879c09"/><def><p id="pX38p0879c0901" rend="margin-left:1em">五怖畏者。一不活畏。謂諸初學菩薩。雖行布施。不能
+<lb ed="X" n="0879c10"/>盡<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>所有。即恐自<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>不能過活而生怖畏。此即登地
+<lb ed="X" n="0879c11"/>菩薩。因深果勝。於所受用。不假營為。自然周足。但為
+<lb ed="X" n="0879c12"/>利益眾生而行布施。故無不活畏。</p><p id="pX38p0879c1214" place="inline" rend="margin-left:1em">△二惡名畏。初學
+<lb ed="X" n="0879c13"/>菩薩。雖欲與諸眾生同事。而攝化之。然入諸酒肆等。
+<lb ed="X" n="0879c14"/>恒懼譏謗。不能安行自如。而生怖畏。登地菩薩。為度
+<lb ed="X" n="0879c15"/>有情。以大悲心。隨類受生。饒益一切。處天宮不為樂。
+<lb ed="X" n="0879c16"/>入地獄不為苦。婬房酒肆。去住無礙。故無惡名畏。</p><p id="pX38p0879c1620" place="inline" rend="margin-left:1em">△
+<lb ed="X" n="0879c17"/>三怖死畏。初學菩薩。雖欲用廣大心。內外俱施。然有
+<lb ed="X" n="0879c18"/>時以財施。而於身命顧惜。不能自捨。而生怖畏。登地
+<lb ed="X" n="0879c19"/>菩薩。成就法身慧命。了無生死壽夭。延萬劫不為長。
+<lb ed="X" n="0879c20"/>促一念不為短。但為度脫有情。隨機示現長短壽命
+<lb ed="X" n="0879c21"/>之相。心無罣礙。故無怖死畏。</p><p id="pX38p0879c2112" place="inline" rend="margin-left:1em">△四惡道畏。初學菩薩。
+<lb ed="X" n="0879c22"/>懼生惡道。於不善法。分別對治。令其不生。常生怖畏。
+<lb ed="X" n="0879c23"/>登地菩薩。或修禪觀之行。或起利生之心。雖有思惟。
+<lb ed="X" n="0879c24"/>離諸散亂。隨願度生。平等無礙。故無惡道畏。</p><p id="pX38p0879c2418" place="inline" rend="margin-left:1em">△五大
+<pb ed="X" id="X38.0698.0880a" n="0880a"/>
+<lb ed="X" n="0880a01"/>眾威德畏。初學菩薩。或於王庭執理之處。或於善解
+<lb ed="X" n="0880a02"/>法義人前。申宗敵論。唯恐有失。而生怖畏。登地菩薩。
+<lb ed="X" n="0880a03"/>具足一切。悲智雙運。或現神通。或說妙法。或入禪定。
+<lb ed="X" n="0880a04"/>或行苦行。所作業行。一切真實。百萬人天。縱任無礙。
+<lb ed="X" n="0880a05"/>故無大眾威德畏。</p></def></entry>
+<lb ed="X" n="0880a06"/><entry><form>四明五明論</form>
+<lb ed="X" n="0880a07"/><def><p id="pX38p0880a0701" rend="margin-left:1em">四明五明論者。一聲明。聲。即聲教。明。即明了。謂世間
+<lb ed="X" n="0880a08"/>文章算數建立之法。皆悉明了通達故。二因明。因。即
+<lb ed="X" n="0880a09"/>萬法生起之因謂世間種種言論。及圖書印璽。地水
+<lb ed="X" n="0880a10"/>火風。萬法之因。皆悉明了通達故。三毉方明。即毉治
+<lb ed="X" n="0880a11"/>之方法也。謂世間種種病患。或癲癇蠱毒。四大不調。
+<lb ed="X" n="0880a12"/>鬼神&CB00057;咀。寒熱諸病。皆悉曉了其因。通達對治故。四
+<lb ed="X" n="0880a13"/>工巧明工。即工業。巧。即巧妙。謂世間文詞讚&CB00061;。乃至
+<lb ed="X" n="0880a14"/>營造城邑。農田商賈。種種音樂。卜。算。天文。地理。一切
+<lb ed="X" n="0880a15"/>工業巧妙。皆悉明了通達故。五內明。內即佛法內教
+<lb ed="X" n="0880a16"/>也。謂以持戒。治破戒。禪定。治散亂。智慧。治愚痴。乃至
+<lb ed="X" n="0880a17"/>種種染淨。邪正。生死。涅槃對治之法皆悉明了通達
+<lb ed="X" n="0880a18"/>故。言四明者。除內明也。</p></def></entry>
+<lb ed="X" n="0880a19"/><entry><form>二十五有</form>
+<lb ed="X" n="0880a20"/><def><p id="pX38p0880a2001" rend="margin-left:1em">二十五有者。四部洲為四有。及修羅。地獄。餓鬼。畜生。
+<lb ed="X" n="0880a21"/>為八有。並欲界四王。忉利。夜魔。兜率。化樂。他化六天。
+<lb ed="X" n="0880a22"/>為十四。加色界四禪。為十八。及摩醯首羅大梵王天。
+<lb ed="X" n="0880a23"/>與無想天。並五那含天。為二十一。合無色界四空天。
+<lb ed="X" n="0880a24"/>共成二十五有。</p></def></entry>
+<pb ed="X" id="X38.0698.0880b" n="0880b"/>
+<lb ed="X" n="0880b01"/><entry><form>見惑</form>
+<lb ed="X" n="0880b02"/><def><p id="pX38p0880b0201" rend="margin-left:1em">見惑者。分別曰見。謂意識對法塵。非理籌度起諸邪
+<lb ed="X" n="0880b03"/>見。如外道計斷計常。乃至有無等見。名見惑。惑者。迷
+<lb ed="X" n="0880b04"/>惑也。謂諸眾生。於一切法。不了自性本空。妄生執著。
+<lb ed="X" n="0880b05"/>惑於正道。流轉生死也。此見惑。開為八十八使。以五
+<lb ed="X" n="0880b06"/>利五鈍十惑。於三界中。以三四諦攝。三苦下具有十
+<lb ed="X" n="0880b07"/>惑。成三十。三集。三滅下。除身見。邊見。戒取。各具餘七
+<lb ed="X" n="0880b08"/>惑。成四十二。合前有七十二。三道諦下。除身見。邊見。
+<lb ed="X" n="0880b09"/>各具餘八惑。成二十四。合前有九十六。又於上二界
+<lb ed="X" n="0880b10"/>四諦下。各除瞋惑。去此八瞋。止有八十八也。</p></def></entry>
+<lb ed="X" n="0880b11"/><entry><form>思惑</form>
+<lb ed="X" n="0880b12"/><def><p id="pX38p0880b1201" rend="margin-left:1em">思惑者。俱生日思。為眼耳鼻舌身意六根。對於色聲
+<lb ed="X" n="0880b13"/>香味觸法六塵。貪愛染著。迷而不覺。是名思惑。依法
+<lb ed="X" n="0880b14"/>數中。唯取五鈍使中貪瞋痴慢四惑。於三界九地中。
+<lb ed="X" n="0880b15"/>欲界一地。四惑全有。上二界八地除瞋。唯貪痴慢。於
+<lb ed="X" n="0880b16"/>此九地。地地分為九品。九九成八十一品思惑也。</p></def></entry>
+<lb ed="X" n="0880b17"/><entry><form>塵沙惑</form>
+<lb ed="X" n="0880b18"/><def><p id="pX38p0880b1801" rend="margin-left:1em">塵沙惑者。即界外四十二品無明分劑頭數。又以理
+<lb ed="X" n="0880b19"/>事論。理惑。即見思。能障真諦之理故。事惑。即塵沙。能
+<lb ed="X" n="0880b20"/>障化導覆俗諦之法故。</p></def></entry>
+<lb ed="X" n="0880b21"/><entry><form>轉善作惡</form>
+<lb ed="X" n="0880b22"/><def><p id="pX38p0880b2201" rend="margin-left:1em">轉善作惡者。華嚴經。無厭足王。隱菩薩相。現王者身。
+<lb ed="X" n="0880b23"/>居多羅幢城。示惡持威。嚴刑酷法。折伏剛強暴惡眾
+<lb ed="X" n="0880b24"/>生。可治者治。可攝者攝。罰其罪惡。決其諍訟。撫其孤
+<pb ed="X" id="X38.0698.0880c" n="0880c"/>
+<lb ed="X" n="0880c01"/>弱。皆令永斷殺盜邪婬。此則名為轉善作惡也。</p></def></entry>
+<lb ed="X" n="0880c02"/><entry><form>轉惡作善</form>
+<lb ed="X" n="0880c03"/><def><p id="pX38p0880c0301" rend="margin-left:1em">轉惡作善者。涅槃經波羅柰國有屠兒。名曰廣額。日
+<lb ed="X" n="0880c04"/>以殺羊為事。舍利弗往化之。即回心受戒。放下屠刀。
+<lb ed="X" n="0880c05"/>自言我是千佛中一數也。</p></def></entry>
+<lb ed="X" n="0880c06"/><entry><form>以男為女</form>
+<lb ed="X" n="0880c07"/><def><p id="pX38p0880c0701" rend="margin-left:1em">以男為女者。維摩居士示疾。佛敕文殊往問。舍利弗
+<lb ed="X" n="0880c08"/>隨之。彼有天女。妙入不思議境界。舍利弗謂言。汝何
+<lb ed="X" n="0880c09"/>不轉女身。天女曰。我從十二年來。求女人相。了不可
+<lb ed="X" n="0880c10"/>得。當何所轉。即時天女以神通力。變舍利弗令如天
+<lb ed="X" n="0880c11"/>女。天自化身如舍利弗。而問言。何不轉女身。舍利弗
+<lb ed="X" n="0880c12"/>以天女相而答言。我今不知何轉而變為女身也。</p></def></entry>
+<lb ed="X" n="0880c13"/><entry><form>以女為男</form>
+<lb ed="X" n="0880c14"/><def><p id="pX38p0880c1401" rend="margin-left:1em">以女為男者。法華經。龍女獻寶珠。世尊納受。即往南
+<lb ed="X" n="0880c15"/>方無垢世界。成等正覺也。</p></def></entry>
+<lb ed="X" n="0880c16"/><entry><form>願生樂土</form>
+<lb ed="X" n="0880c17"/><def><p id="pX38p0880c1701" rend="margin-left:1em">願生樂土者。佛世有王。名頻婆娑羅。其王夫人。名韋
+<lb ed="X" n="0880c18"/>提希。其子阿闍世。逆父禁母。母在禁中。一心遙想如
+<lb ed="X" n="0880c19"/>來。以求救拔。果感如來為說十六觀經。令彼發願往
+<lb ed="X" n="0880c20"/>生樂土。</p></def></entry>
+<lb ed="X" n="0880c21"/><entry><form>誓願度生</form>
+<lb ed="X" n="0880c22"/><def><p id="pX38p0880c2201" rend="margin-left:1em">誓願度生者。彌陀因中為法藏比丘。廣發四十八願
+<lb ed="X" n="0880c23"/>願我來世。我國中無有地獄。餓鬼。禽畜。以至蜎飛蝡
+<lb ed="X" n="0880c24"/>動之類。不得是願。終不作佛。如是願願度生。同歸安
+<pb ed="X" id="X38.0698.0881a" n="0881a"/>
+<lb ed="X" n="0881a01"/>養也。</p></def></entry>
+<lb ed="X" n="0881a02"/><entry><form>願為閻羅天子</form>
+<lb ed="X" n="0881a03"/><def><p id="pX38p0881a0301" rend="margin-left:1em">願為閻羅天子者。梁皇懺云。昔毗沙門國王。與韋陀
+<lb ed="X" n="0881a04"/>始王共戰。兵力不如。因發誓願。願我後生為地獄主。
+<lb ed="X" n="0881a05"/>治此罪人。十八大臣亦如是願。後果如之。閻羅天子。
+<lb ed="X" n="0881a06"/>即毗沙國王是。十八大臣。即十八獄王是也。</p></def></entry>
+<lb ed="X" n="0881a07"/><entry><form>八十種好</form>
+<lb ed="X" n="0881a08"/><def><p id="pX38p0881a0801" rend="margin-left:1em">八十種隨形好者一無見頂相。二鼻高孔不現。三眉
+<lb ed="X" n="0881a09"/>如初月。四耳輪輻相埵成。五身堅實如那羅延。六骨
+<lb ed="X" n="0881a10"/>際如&CB00424;鎖。七身一時回如象王。八行時足去地四寸
+<lb ed="X" n="0881a11"/>印文現。九爪如赤銅色。十膝骨堅著圓好。十一身清
+<lb ed="X" n="0881a12"/>潔。十二身柔&CB00365;。十三身不曲。十四指長纖圓。十五指
+<lb ed="X" n="0881a13"/>文覆藏。十六脈深不現。十七踝不現。十八身潤澤。十
+<lb ed="X" n="0881a14"/>九身自持不逶迤。二十身滿足。二十一容儀備足。二
+<lb ed="X" n="0881a15"/>十二容儀滿足。二十三住處安。無能動者。二十四威
+<lb ed="X" n="0881a16"/>振一切。二十五一切樂觀。二十六面不長大。二十七
+<lb ed="X" n="0881a17"/>正容白不撓色。二十八面具滿足。二十九脣如頻婆
+<lb ed="X" n="0881a18"/>果色。三十言深音遠。三十一臍深圓好。三十二毛右
+<lb ed="X" n="0881a19"/>旋。三十三手足滿。三十四手足如意。三十五手文明
+<lb ed="X" n="0881a20"/>直。三十六手文長。三十七手文不斷。三十八一切惡
+<lb ed="X" n="0881a21"/>心眾生。見者和悅。三十九面廣姝好。四十隨眾生意。
+<lb ed="X" n="0881a22"/>和悅與語。四十一毛孔出香氣。四十二口出無上香。
+<lb ed="X" n="0881a23"/>四十三威儀如師子。四十四進止如象王。四十五行
+<lb ed="X" n="0881a24"/>法如鵝王。四十六頭如摩陀那果。四十七一切聲分
+<pb ed="X" id="X38.0698.0881b" n="0881b"/>
+<lb ed="X" n="0881b01"/>具足。四十八四牙白利。四十九舌色赤。五十舌薄廣。
+<lb ed="X" n="0881b02"/>五十一毛紅色。五十二毛軟淨。五十三廣長眼。五十
+<lb ed="X" n="0881b03"/>四孔門相具。五十五手足赤白如蓮花色。五十六臍
+<lb ed="X" n="0881b04"/>不出。五十七腹不現。五十八細腹。五十九身不傾動。
+<lb ed="X" n="0881b05"/>六十身持重。六十一其身大。六十二身長。六十三手
+<lb ed="X" n="0881b06"/>足軟滑。六十四四邊光各一丈。六十五光炤身而行。
+<lb ed="X" n="0881b07"/>六十六等視眾生。六十七不輕眾生。六十八隨眾生
+<lb ed="X" n="0881b08"/>音聲。不增不減。六十九說法不著。七十隨眾生語言
+<lb ed="X" n="0881b09"/>說法。七十一發音報眾聲。七十二次第有因緣說法。
+<lb ed="X" n="0881b10"/>七十三一切眾生不能盡觀相。七十四觀無厭足。七
+<lb ed="X" n="0881b11"/>十五髮長好。七十六髮不亂。七十七髮旋好。七十八
+<lb ed="X" n="0881b12"/>髮色青珠。七十九面淨如滿月。八十手足有德相。</p></def></entry>
+<lb ed="X" n="0881b13"/><entry><form>三十二相</form>
+<lb ed="X" n="0881b14"/><def><p id="pX38p0881b1401" rend="margin-left:1em">三十二相者。所謂足下平滿。因持戒故。</p><p id="pX38p0881b1416" place="inline" rend="margin-left:1em">△千輻輪相。
+<lb ed="X" n="0881b15"/>因修施故。</p><p id="pX38p0881b1505" place="inline" rend="margin-left:1em">△足跟&CB00166;相。不欺眾生故。</p><p id="pX38p0881b1515" place="inline" rend="margin-left:1em">△指纖長相。護
+<lb ed="X" n="0881b16"/>正法故。</p><p id="pX38p0881b1604" place="inline" rend="margin-left:1em">△指網縵相。不壞他眾故。</p><p id="pX38p0881b1614" place="inline" rend="margin-left:1em">△手足軟相。施妙
+<lb ed="X" n="0881b17"/>好服故。</p><p id="pX38p0881b1704" place="inline" rend="margin-left:1em">△七處滿相。施淨飲食故。</p><p id="pX38p0881b1714" place="inline" rend="margin-left:1em">△鹿王&CB00165;相。喜聞
+<lb ed="X" n="0881b18"/>佛法故。</p><p id="pX38p0881b1804" place="inline" rend="margin-left:1em">△馬陰藏相。覆載他過故。</p><p id="pX38p0881b1814" place="inline" rend="margin-left:1em">△身如師王相。廣
+<lb ed="X" n="0881b19"/>修善法故。</p><p id="pX38p0881b1905" place="inline" rend="margin-left:1em">△缺骨平滿相。善化眾生故。</p><p id="pX38p0881b1916" place="inline" rend="margin-left:1em">△臂肘&CB00166;相。
+<lb ed="X" n="0881b20"/>救護怖畏故。</p><p id="pX38p0881b2006" place="inline" rend="margin-left:1em">△手摩膝相。見善樂助故。</p><p id="pX38p0881b2016" place="inline" rend="margin-left:1em">△清淨身相。
+<lb ed="X" n="0881b21"/>常修十善故。</p><p id="pX38p0881b2106" place="inline" rend="margin-left:1em">△食至喉現相。常施病藥故。</p><p id="pX38p0881b2117" place="inline" rend="margin-left:1em">△師子頰
+<lb ed="X" n="0881b22"/>相莊嚴善法故。</p><p id="pX38p0881b2207" place="inline" rend="margin-left:1em">△四十齒相。心語平等故。</p><p id="pX38p0881b2217" place="inline" rend="margin-left:1em">△齒密相。
+<lb ed="X" n="0881b23"/>和合諍訟故。</p><p id="pX38p0881b2306" place="inline" rend="margin-left:1em">△齒齊相。施珍寶故。</p><p id="pX38p0881b2314" place="inline" rend="margin-left:1em">△四牙白相。三業
+<lb ed="X" n="0881b24"/>清淨故。</p><p id="pX38p0881b2404" place="inline" rend="margin-left:1em">△廣長舌相。護口過故。</p><p id="pX38p0881b2413" place="inline" rend="margin-left:1em">△味中上味相。成就
+<pb ed="X" id="X38.0698.0881c" n="0881c"/>
+<lb ed="X" n="0881c01"/>功德故。</p><p id="pX38p0881c0104" place="inline" rend="margin-left:1em">△梵音相。常軟語故。</p><p id="pX38p0881c0112" place="inline" rend="margin-left:1em">△紺色目相。修慈心故。</p>
+<lb ed="X" n="0881c02"/><p id="pX38p0881c0201" rend="margin-left:1em">△牛王睫相。至心求道故。</p><p id="pX38p0881c0211" place="inline" rend="margin-left:1em">△白毫光相。讚他功德故。</p>
+<lb ed="X" n="0881c03"/><p id="pX38p0881c0301" rend="margin-left:1em">△頂肉髻相。敬父母師故。</p><p id="pX38p0881c0311" place="inline" rend="margin-left:1em">△身軟柔相。樂說法故。</p><p id="pX38p0881c0320" place="inline" rend="margin-left:1em">△
+<lb ed="X" n="0881c04"/>身金光相。施敷具故。</p><p id="pX38p0881c0409" place="inline" rend="margin-left:1em">△孔毛生相。離說世事故。</p><p id="pX38p0881c0419" place="inline" rend="margin-left:1em">△身
+<lb ed="X" n="0881c05"/>毛上靡相。受師友教故。</p><p id="pX38p0881c0510" place="inline" rend="margin-left:1em">△髮色金精相。不惡加生故。</p>
+<lb ed="X" n="0881c06"/><p id="pX38p0881c0601" rend="margin-left:1em">△得身如尼拘陀相。常修三昧故。</p><p id="pX38p0881c0614" place="inline" rend="margin-left:1em">△得那羅身相。喜
+<lb ed="X" n="0881c07"/>作佛像故。</p></def></entry></div1>
+<lb ed="X" n="0881c08"/><div1 type="other"><mulu type="其他" level="1" label="下卷之一"/><head>下卷之一</head>
+<lb ed="X" n="0881c09"/><entry><form>十種大數</form>
+<lb ed="X" n="0881c10"/><def><p id="pX38p0881c1001" rend="margin-left:1em">十種大數者。一者阿僧祇。梵語阿僧祇。華言無數。謂
+<lb ed="X" n="0881c11"/>從百洛叉。為一俱胝。乃至千千萬萬俱胝等。為一阿
+<lb ed="X" n="0881c12"/>僧祇。</p><p id="pX38p0881c1203" place="inline" rend="margin-left:1em">△二者無量。謂從阿僧祗阿僧祇。為一阿僧祇
+<lb ed="X" n="0881c13"/>轉。阿僧祇轉阿僧祇轉。為一無量。</p><p id="pX38p0881c1314" place="inline" rend="margin-left:1em">△三者無邊。謂從
+<lb ed="X" n="0881c14"/>無量無量。為一無量轉。無量轉無量轉。為一無邊。</p><p id="pX38p0881c1420" place="inline" rend="margin-left:1em">△
+<lb ed="X" n="0881c15"/>四者無等。謂從無邊無邊。為一無邊轉。無邊轉無邊
+<lb ed="X" n="0881c16"/>轉。為一無等。</p><p id="pX38p0881c1606" place="inline" rend="margin-left:1em">△五者不可數。謂從無等無等。為一無
+<lb ed="X" n="0881c17"/>等轉。無等轉無等轉。為一不可數。</p><p id="pX38p0881c1714" place="inline" rend="margin-left:1em">△六者不可稱。謂
+<lb ed="X" n="0881c18"/>從不可數不可數。為一不可數轉。不可數轉不可
+<lb ed="X" n="0881c19"/>數轉。為一不可稱。</p><p id="pX38p0881c1908" place="inline" rend="margin-left:1em">△七者不可思。謂從不可稱不可
+<lb ed="X" n="0881c20"/>稱為一不可稱轉。不可稱轉不可稱轉。為一不可思。</p>
+<lb ed="X" n="0881c21"/><p id="pX38p0881c2101" rend="margin-left:1em">△八者不可量。謂從不可思不可思。為一不可思轉。
+<lb ed="X" n="0881c22"/>不可思轉不可思轉。為一不可量。</p><p id="pX38p0881c2214" place="inline" rend="margin-left:1em">△九者不可說。謂
+<lb ed="X" n="0881c23"/>從不可量不可量。為一不可量轉。不可量轉不可量
+<lb ed="X" n="0881c24"/>轉。為一不可說。</p><p id="pX38p0881c2407" place="inline" rend="margin-left:1em">△十者不可說不可說。謂從不可說
+<pb ed="X" id="X38.0698.0882a" n="0882a"/>
+<lb ed="X" n="0882a01"/>不可說。為一不可說轉。不可說轉不可說轉。為一不
+<lb ed="X" n="0882a02"/>可說不可說也。此是不可言說法門。</p></def></entry>
+<lb ed="X" n="0882a03"/><entry><form>一行三昧</form>
+<lb ed="X" n="0882a04"/><def><p id="pX38p0882a0401" rend="margin-left:1em">一行三昧者。出文殊所說摩訶般若經。梵語三昧。華
+<lb ed="X" n="0882a05"/>言調直定。又云正定一行三昧者。惟專一行修習正
+<lb ed="X" n="0882a06"/>定也。謂修行之人。應處空間。捨諸亂意繫心實理。想
+<lb ed="X" n="0882a07"/>念一佛。專稱名字。隨佛方所。端身正向。能於一佛念
+<lb ed="X" n="0882a08"/>念相續而不懈怠。於一念中。即能得見十方諸佛獲
+<lb ed="X" n="0882a09"/>大辯才也。</p></def></entry>
+<lb ed="X" n="0882a10"/><entry><form>十禪定</form>
+<lb ed="X" n="0882a11"/><def><p id="pX38p0882a1101" rend="margin-left:1em">十禪定者。一普光明三昧。謂身土重重。相入周&CB00642;。廣
+<lb ed="X" n="0882a12"/>無限故。</p><p id="pX38p0882a1204" place="inline" rend="margin-left:1em">△二妙光明三昧。謂自他身心境界無礙故。</p>
+<lb ed="X" n="0882a13"/><p id="pX38p0882a1301" rend="margin-left:1em">△三次第佛國土三昧。謂以如幻智。應物動寂。依根
+<lb ed="X" n="0882a14"/>本智。恒無往來。現延促故。</p><p id="pX38p0882a1411" place="inline" rend="margin-left:1em">△四清淨身心。行三昧。謂
+<lb ed="X" n="0882a15"/>過阿僧祇世界。於諸佛所散花供養。勤求法故。</p><p id="pX38p0882a1519" place="inline" rend="margin-left:1em">△五
+<lb ed="X" n="0882a16"/>知過去莊嚴藏三昧。謂知過去諸佛。出現劫剎。度生
+<lb ed="X" n="0882a17"/>壽命之次第故。</p><p id="pX38p0882a1707" place="inline" rend="margin-left:1em">△六智光明藏。三昧。謂未來劫中。說
+<lb ed="X" n="0882a18"/>佛<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>說法。及未說法。皆悉知故。</p><p id="pX38p0882a1813" place="inline" rend="margin-left:1em">△七了知一切世界
+<lb ed="X" n="0882a19"/>佛莊嚴三昧。謂能&CB00642;入十方世界。見一切佛化莊嚴
+<lb ed="X" n="0882a20"/>故。</p><p id="pX38p0882a2002" place="inline" rend="margin-left:1em">△八一切眾生差別身三昧。謂人身入。夜叉身出。
+<lb ed="X" n="0882a21"/>乃至剎那入。三世起故。</p><p id="pX38p0882a2110" place="inline" rend="margin-left:1em">△九法界自在三昧。謂自身
+<lb ed="X" n="0882a22"/>毛孔。入三昧而作諸佛事。得法界自在故。</p><p id="pX38p0882a2217" place="inline" rend="margin-left:1em">△十無礙
+<lb ed="X" n="0882a23"/>輪三昧。謂住無礙三業。&CB00642;入佛土。成眾生智。轉淨法
+<lb ed="X" n="0882a24"/>輪。紹佛種故。</p></def></entry>
+<pb ed="X" id="X38.0698.0882b" n="0882b"/>
+<lb ed="X" n="0882b01"/><entry><form>十金剛</form>
+<lb ed="X" n="0882b02"/><def><p id="pX38p0882b0201" rend="margin-left:1em">十金剛者。華嚴經云。</p><p id="pX38p0882b0209" place="inline" rend="margin-left:1em">△一者。覺了諸法金剛心。謂菩
+<lb ed="X" n="0882b03"/>薩大願。誓欲了知無量無邊。不可窮盡一切法故。</p><p id="pX38p0882b0320" place="inline" rend="margin-left:1em">△
+<lb ed="X" n="0882b04"/>二者。化度眾生金剛心。謂菩薩以無上涅槃。度脫無
+<lb ed="X" n="0882b05"/>量無邊眾生出諸趣故。</p><p id="pX38p0882b0510" place="inline" rend="margin-left:1em">△三者。莊嚴世界菩薩金剛
+<lb ed="X" n="0882b06"/>心。謂十方世界無量無邊。當以諸佛國土最上莊嚴
+<lb ed="X" n="0882b07"/>之具。而莊嚴故。</p><p id="pX38p0882b0707" place="inline" rend="margin-left:1em">△四者。善根迴向金剛心。謂菩薩以
+<lb ed="X" n="0882b08"/>種種善根。皆悉迴向無上佛果菩提。普及法界眾生
+<lb ed="X" n="0882b09"/>故。</p><p id="pX38p0882b0902" place="inline" rend="margin-left:1em">△五者。奉事大師金剛心。謂菩薩以善根功德。供
+<lb ed="X" n="0882b10"/>養無量無邊諸佛。悉周&CB00642;故。</p><p id="pX38p0882b1012" place="inline" rend="margin-left:1em">△六者。實證諸佛金剛
+<lb ed="X" n="0882b11"/>心。謂菩薩於諸法實相之理。非實。非&CB00980;。非有。非無。悉
+<lb ed="X" n="0882b12"/>皆真實而證知故。</p><p id="pX38p0882b1208" place="inline" rend="margin-left:1em">△七者。廣行忍辱金剛心。謂菩薩
+<lb ed="X" n="0882b13"/>或被眾生訶罵楚撻。或截手足。或割耳鼻。或挑其目。
+<lb ed="X" n="0882b14"/>或級其頭。如是一切皆能忍受。無瞋恨故。</p><p id="pX38p0882b1417" place="inline" rend="margin-left:1em">△八者。長
+<lb ed="X" n="0882b15"/>時修行金剛心。謂未來世劫。無量無邊不可窮劫。我
+<lb ed="X" n="0882b16"/>當盡彼劫中行菩薩道。教化眾生。永無疲倦故。</p><p id="pX38p0882b1619" place="inline" rend="margin-left:1em">△九
+<lb ed="X" n="0882b17"/>者自行滿足金剛心。謂菩薩建立妙行。以清淨心為
+<lb ed="X" n="0882b18"/>本。能滿一切功德善根。具足無上菩提道故。</p><p id="pX38p0882b1818" place="inline" rend="margin-left:1em">△十者。
+<lb ed="X" n="0882b19"/>令他願滿金剛心。謂菩薩自行既滿。慈悲之心。轉更
+<lb ed="X" n="0882b20"/>增上為求解脫者。說於涅槃。為求佛法者。說於大乘
+<lb ed="X" n="0882b21"/>之法。悉皆令其心願滿故。</p></def></entry>
+<lb ed="X" n="0882b22"/><entry><form>十忍</form>
+<lb ed="X" n="0882b23"/><def><p id="pX38p0882b2301" rend="margin-left:1em">十忍者。華嚴經云。</p><p id="pX38p0882b2308" place="inline" rend="margin-left:1em">△一音聲忍。謂聞佛深教。即能曉
+<lb ed="X" n="0882b24"/>了。忍可忍證。無驚怖故。</p><p id="pX38p0882b2410" place="inline" rend="margin-left:1em">△二順忍。謂於理事。悉能隨
+<pb ed="X" id="X38.0698.0882c" n="0882c"/>
+<lb ed="X" n="0882c01"/>順。諦審此法。忍可忍證。而無違故。</p><p id="pX38p0882c0114" place="inline" rend="margin-left:1em">△三無生忍。謂了
+<lb ed="X" n="0882c02"/>達諸法。本來無生。亦無有滅。諦審此法。忍可忍證。而
+<lb ed="X" n="0882c03"/>妄念不起故。</p><p id="pX38p0882c0306" place="inline" rend="margin-left:1em">△四如幻忍。謂了達諸法。皆從因緣和
+<lb ed="X" n="0882c04"/>合而生。如幻如化。性本空寂。諦審此法。忍可忍證。而
+<lb ed="X" n="0882c05"/>無著故。</p><p id="pX38p0882c0504" place="inline" rend="margin-left:1em">△五如&CB08504;忍。謂了知一切境界。悉如陽&CB08504;。無
+<lb ed="X" n="0882c06"/>有真實。諦審此法。忍可忍證。而無執故。</p><p id="pX38p0882c0616" place="inline" rend="margin-left:1em">△六如夢忍。
+<lb ed="X" n="0882c07"/>謂了諸妄心。皆如夢境。諦審此法。忍可忍證。而不執
+<lb ed="X" n="0882c08"/>故。</p><p id="pX38p0882c0802" place="inline" rend="margin-left:1em">△七如響忍。謂了一切世間語言音聲。皆由因緣
+<lb ed="X" n="0882c09"/>和合而成。猶如谷響。無有真實。諦審此法。忍可忍證。
+<lb ed="X" n="0882c10"/>而不著故。</p><p id="pX38p0882c1005" place="inline" rend="margin-left:1em">△八如影忍。謂了達色身。由五蘊積集而
+<lb ed="X" n="0882c11"/>成。本無實體。諦審此法。忍可忍證。而無著故。</p><p id="pX38p0882c1118" place="inline" rend="margin-left:1em">△九如
+<lb ed="X" n="0882c12"/>化忍。謂了達世間諸法。無而忽有。有即還無。體非真
+<lb ed="X" n="0882c13"/>實。諦審此法。忍可忍證。而無著故。</p><p id="pX38p0882c1314" place="inline" rend="margin-left:1em">△十如空忍謂了
+<lb ed="X" n="0882c14"/>達世出世間種種諸法。悉如&CB00980;空。無有色相。諦審此
+<lb ed="X" n="0882c15"/>法。忍可忍證。而無著故。</p></def></entry>
+<lb ed="X" n="0882c16"/><entry><form>十身</form>
+<lb ed="X" n="0882c17"/><def><p id="pX38p0882c1701" rend="margin-left:1em">十身者。法報化。三合顯是為一身。開法報。為二身。法
+<lb ed="X" n="0882c18"/>報化。為三身。兼隨應。為四身。法身如&CB00980;空。&CB00642;周滿法
+<lb ed="X" n="0882c19"/>界。無有障礙。諸佛眾生。平等具足。唯一無二。是為圓
+<lb ed="X" n="0882c20"/>身。報身如日光。&CB00642;普炤法界。不與二乘等共。然報身
+<lb ed="X" n="0882c21"/>有二種。一自報身。謂如來因地中。修習無量福慧。所
+<lb ed="X" n="0882c22"/>起無邊真實功德。恒自受用廣大法樂故。二他報身。
+<lb ed="X" n="0882c23"/>繇如來平等智。示現微妙清淨功德之身。居純淨土。
+<lb ed="X" n="0882c24"/>為住十地諸菩薩眾。現神通力。轉正法輪。令彼受用
+<pb ed="X" id="X38.0698.0883a" n="0883a"/>
+<lb ed="X" n="0883a01"/>大乘法樂故。應身如日影。&CB00642;謂如來身。如日之影。現
+<lb ed="X" n="0883a02"/>於水中。各隨人去。如東行者。見日東去。如西行者。見
+<lb ed="X" n="0883a03"/>日西去。謂諸如來。不捨眾生。如影隨形。現同事攝故。
+<lb ed="X" n="0883a04"/>言五身者。一者小教。丈六金身。謂以如來示現出家。
+<lb ed="X" n="0883a05"/>成道。初於鹿野苑中。轉四諦生滅法。專化二乘而二
+<lb ed="X" n="0883a06"/>乘人。但見丈六金身故。二者。始教。千百億化身。謂如
+<lb ed="X" n="0883a07"/>來次說大乘。廣談實相。而於千百億世界中。示現種
+<lb ed="X" n="0883a08"/>種色身。正化菩薩。兼化二乘。以是眾生所見。各各不
+<lb ed="X" n="0883a09"/>同故。三者。終教。丈六即是真身。謂如來次說大乘。終
+<lb ed="X" n="0883a10"/>極理趣。會一切法。咸歸實相。二乘闡提。悉得成佛。機
+<lb ed="X" n="0883a11"/>緣既熟。所見如來丈六金身。即是真常不遷之身故。
+<lb ed="X" n="0883a12"/>四者。頓教。大乘。丈六即是法身。謂以如來。不從漸次。
+<lb ed="X" n="0883a13"/>唯談圓頓妙理。空有兩忘。色心無礙。大乘菩薩。了一
+<lb ed="X" n="0883a14"/>切法。無非法身故。五者。圓教。具足十身。謂如來稱性
+<lb ed="X" n="0883a15"/>宣揚。圓融法界。如理如智。法法圓融。塵塵無礙。統諸
+<lb ed="X" n="0883a16"/>教差別身。全法界平等體。一切菩提願智等身。無不
+<lb ed="X" n="0883a17"/>具足。</p></def></entry>
+<lb ed="X" n="0883a18"/><entry><form>酒有三十六失</form>
+<lb ed="X" n="0883a19"/><def><p id="pX38p0883a1901" rend="margin-left:1em">酒有三十六失者。四分律云。飲酒犯三十六種失。</p><p id="pX38p0883a1920" place="inline" rend="margin-left:1em">△
+<lb ed="X" n="0883a20"/>不孝父母。</p><p id="pX38p0883a2005" place="inline" rend="margin-left:1em">△輕慢師友。</p><p id="pX38p0883a2010" place="inline" rend="margin-left:1em">△不敬三寶。</p><p id="pX38p0883a2015" place="inline" rend="margin-left:1em">△不信經法。</p><p id="pX38p0883a2020" place="inline" rend="margin-left:1em">△
+<lb ed="X" n="0883a21"/>誹謗沙門。</p><p id="pX38p0883a2105" place="inline" rend="margin-left:1em">△訐露人罪。</p><p id="pX38p0883a2110" place="inline" rend="margin-left:1em">△恒悅妄語。</p><p id="pX38p0883a2115" place="inline" rend="margin-left:1em">△誣人惡事。</p><p id="pX38p0883a2120" place="inline" rend="margin-left:1em">△
+<lb ed="X" n="0883a22"/>傳言兩舌。</p><p id="pX38p0883a2205" place="inline" rend="margin-left:1em">△惡口傷人。</p><p id="pX38p0883a2210" place="inline" rend="margin-left:1em">△生病之根。</p><p id="pX38p0883a2215" place="inline" rend="margin-left:1em">△&CB10823;諍之本。</p><p id="pX38p0883a2220" place="inline" rend="margin-left:1em">△
+<lb ed="X" n="0883a23"/>惡名流布。</p><p id="pX38p0883a2305" place="inline" rend="margin-left:1em">△人所憎嫌。</p><p id="pX38p0883a2310" place="inline" rend="margin-left:1em">△排斥聖賢。</p><p id="pX38p0883a2315" place="inline" rend="margin-left:1em">△怨黷天地。</p><p id="pX38p0883a2320" place="inline" rend="margin-left:1em">△
+<lb ed="X" n="0883a24"/>廢忘事業。</p><p id="pX38p0883a2405" place="inline" rend="margin-left:1em">△破散家財。</p><p id="pX38p0883a2410" place="inline" rend="margin-left:1em">△恒無慚愧。</p><p id="pX38p0883a2415" place="inline" rend="margin-left:1em">△不知羞恥。</p><p id="pX38p0883a2420" place="inline" rend="margin-left:1em">△
+<pb ed="X" id="X38.0698.0883b" n="0883b"/>
+<lb ed="X" n="0883b01"/>無故捶打奴僕。</p><p id="pX38p0883b0107" place="inline" rend="margin-left:1em">△橫殺眾生。</p><p id="pX38p0883b0112" place="inline" rend="margin-left:1em">△姦婬他妻。</p><p id="pX38p0883b0117" place="inline" rend="margin-left:1em">△偷人財
+<lb ed="X" n="0883b02"/>物。</p><p id="pX38p0883b0202" place="inline" rend="margin-left:1em">△疏遠善人。</p><p id="pX38p0883b0207" place="inline" rend="margin-left:1em">△狎近惡友。</p><p id="pX38p0883b0212" place="inline" rend="margin-left:1em">△常懷恚怒。</p><p id="pX38p0883b0217" place="inline" rend="margin-left:1em">△日夜憂
+<lb ed="X" n="0883b03"/>愁。</p><p id="pX38p0883b0302" place="inline" rend="margin-left:1em">△牽東引西。</p><p id="pX38p0883b0307" place="inline" rend="margin-left:1em">△持南著北。</p><p id="pX38p0883b0312" place="inline" rend="margin-left:1em">△倒溝臥路。</p><p id="pX38p0883b0317" place="inline" rend="margin-left:1em">△墮車墜
+<lb ed="X" n="0883b04"/>馬。</p><p id="pX38p0883b0402" place="inline" rend="margin-left:1em">△逢河落水。</p><p id="pX38p0883b0407" place="inline" rend="margin-left:1em">△持燈失火。</p><p id="pX38p0883b0412" place="inline" rend="margin-left:1em">△暑月熱亡。</p><p id="pX38p0883b0417" place="inline" rend="margin-left:1em">△寒天凍
+<lb ed="X" n="0883b05"/>死。</p></def></entry>
+<lb ed="X" n="0883b06"/><entry><form>又智論云三十五失</form>
+<lb ed="X" n="0883b07"/><def><p id="pX38p0883b0701" rend="margin-left:1em">三十五失者。現世財物&CB00980;竭。</p><p id="pX38p0883b0712" place="inline" rend="margin-left:1em">△眾病之門。</p><p id="pX38p0883b0717" place="inline" rend="margin-left:1em">△&CB10823;諍之
+<lb ed="X" n="0883b08"/>本。</p><p id="pX38p0883b0802" place="inline" rend="margin-left:1em">△裸露無恥。</p><p id="pX38p0883b0807" place="inline" rend="margin-left:1em">△醜名惡露。人所不敬。</p><p id="pX38p0883b0816" place="inline" rend="margin-left:1em">△無復智慧。</p>
+<lb ed="X" n="0883b09"/><p id="pX38p0883b0901" rend="margin-left:1em">△所應得不得。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>得物散失。</p><p id="pX38p0883b0912" place="inline" rend="margin-left:1em">△伏匿之事。盡向人說。</p>
+<lb ed="X" n="0883b10"/><p id="pX38p0883b1001" rend="margin-left:1em">△種種事業。廢不成辦。</p><p id="pX38p0883b1010" place="inline" rend="margin-left:1em">△醉為愁本。以多失故。醒乃
+<lb ed="X" n="0883b11"/>慚愧。</p><p id="pX38p0883b1103" place="inline" rend="margin-left:1em">△身力轉少。</p><p id="pX38p0883b1108" place="inline" rend="margin-left:1em">△色身敗壞。</p><p id="pX38p0883b1113" place="inline" rend="margin-left:1em">△不知敬父。</p><p id="pX38p0883b1118" place="inline" rend="margin-left:1em">△不知
+<lb ed="X" n="0883b12"/>敬母。</p><p id="pX38p0883b1203" place="inline" rend="margin-left:1em">△不敬師長。</p><p id="pX38p0883b1208" place="inline" rend="margin-left:1em">△不敬婆羅門。</p><p id="pX38p0883b1214" place="inline" rend="margin-left:1em">△不敬伯叔一切
+<lb ed="X" n="0883b13"/>尊長。</p><p id="pX38p0883b1303" place="inline" rend="margin-left:1em">△不尊敬佛。</p><p id="pX38p0883b1308" place="inline" rend="margin-left:1em">△不敬法。</p><p id="pX38p0883b1312" place="inline" rend="margin-left:1em">△不敬僧。</p><p id="pX38p0883b1316" place="inline" rend="margin-left:1em">△結黨惡人。</p>
+<lb ed="X" n="0883b14"/><p id="pX38p0883b1401" rend="margin-left:1em">△疏遠賢人。</p><p id="pX38p0883b1406" place="inline" rend="margin-left:1em">△作破戒人。</p><p id="pX38p0883b1411" place="inline" rend="margin-left:1em">△恒無慚愧。</p><p id="pX38p0883b1416" place="inline" rend="margin-left:1em">△不守六情。</p>
+<lb ed="X" n="0883b15"/><p id="pX38p0883b1501" rend="margin-left:1em">△縱色放逸。</p><p id="pX38p0883b1506" place="inline" rend="margin-left:1em">△人所憎惡。不喜見之。</p><p id="pX38p0883b1515" place="inline" rend="margin-left:1em">△貴重親識。共
+<lb ed="X" n="0883b16"/>所&CB11462;棄。</p><p id="pX38p0883b1604" place="inline" rend="margin-left:1em">△行不善法。</p><p id="pX38p0883b1609" place="inline" rend="margin-left:1em">△棄捨善法。</p><p id="pX38p0883b1614" place="inline" rend="margin-left:1em">△明人智者所不
+<lb ed="X" n="0883b17"/>用信。</p><p id="pX38p0883b1703" place="inline" rend="margin-left:1em">△遠離涅槃。</p><p id="pX38p0883b1708" place="inline" rend="margin-left:1em">△狂癡因果。</p><p id="pX38p0883b1713" place="inline" rend="margin-left:1em">△身壞命終。墮三惡
+<lb ed="X" n="0883b18"/>道。</p><p id="pX38p0883b1802" place="inline" rend="margin-left:1em">△若得為人。所生之處。常愚癡暗鈍。</p></def></entry>
+<lb ed="X" n="0883b19"/><entry><form>諸戒俱喪</form>
+<lb ed="X" n="0883b20"/><def><p id="pX38p0883b2001" rend="margin-left:1em">諸戒俱喪者。昔有優婆塞治田。因渴誤飲於酒。不覺
+<lb ed="X" n="0883b21"/>酣醉。忍鄰家有雞來其舍。即殺而食之。鄰女往索。又
+<lb ed="X" n="0883b22"/>強與婬。後理官。復妄言不取。只此一飲。五戒俱喪。</p></def></entry>
+<lb ed="X" n="0883b23"/><entry><form>為半偈捨全身</form>
+<lb ed="X" n="0883b24"/><def><p id="pX38p0883b2401" rend="margin-left:1em">為半偈捨全身者。昔菩薩於雪山修道。天帝釋往試
+<pb ed="X" id="X38.0698.0883c" n="0883c"/>
+<lb ed="X" n="0883c01"/>之。化為夜叉。口說半偈云。諸行無常。是生滅法。菩薩
+<lb ed="X" n="0883c02"/>求說後之半偈。夜叉曰。我腹饑&CB00980;。何暇為說。菩薩曰。
+<lb ed="X" n="0883c03"/>願為說。我則捨身供養。即敷座請說。夜叉曰。生滅滅
+<lb ed="X" n="0883c04"/><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。寂滅為樂。菩薩聞<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。即以此偈&CB00642;書於山石樹木
+<lb ed="X" n="0883c05"/>之間。登樹捨身。夜叉以手接之。復其本形。作禮而去。</p></def></entry>
+<lb ed="X" n="0883c06"/><entry><form>身然千燈</form>
+<lb ed="X" n="0883c07"/><def><p id="pX38p0883c0701" rend="margin-left:1em">身然千燈者。報恩經云。如來往昔為轉輪王。好行惠
+<lb ed="X" n="0883c08"/>施。時世饑荒。王乃設大施會。以五百象載上好飲食。
+<lb ed="X" n="0883c09"/>衣服。七寶之具。溥施一切眾生。內使誤取毒井之水
+<lb ed="X" n="0883c10"/>作食。饑民食者。毒發皆死。王乃除毒填井。念財施無
+<lb ed="X" n="0883c11"/>益。法施無窮。繇是擊鼓宣令。四方求法。時有婆羅門。
+<lb ed="X" n="0883c12"/>知解佛法而謂曰。不違供養。當為汝說。王曰。希何供
+<lb ed="X" n="0883c13"/>耶。答曰。大王若能身割千瘡。灌以膏油。然燈供養應
+<lb ed="X" n="0883c14"/>爾。王遂捨諸國土。城邑妻子。臣妾。命旃陀羅&CB02469;肉然
+<lb ed="X" n="0883c15"/>燈。婆羅門為說半偈云。夫生輒死。此滅為樂。王大歡
+<lb ed="X" n="0883c16"/>喜。時天帝釋現身謂曰。汝身然燈。為求生天耶。魔王
+<lb ed="X" n="0883c17"/>耶。梵王耶。王曰。我求無上阿耨菩提。我願不&CB00980;身瘡
+<lb ed="X" n="0883c18"/>平復發是願<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。身即如故。五百太子。合國臣民。見<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>
+<lb ed="X" n="0883c19"/>歡喜。皆發阿耨多羅三藐三菩提心。</p></def></entry>
+<lb ed="X" n="0883c20"/><entry><form>身為&CB00646;座</form>
+<lb ed="X" n="0883c21"/><def><p id="pX38p0883c2101" rend="margin-left:1em">身為&CB00646;座者。法華經。提婆達多品。佛於多劫。嘗作國
+<lb ed="X" n="0883c22"/>王。委政太子。宣令求法。時有阿私仙。來白王言。我有
+<lb ed="X" n="0883c23"/>大乘。名妙法蓮華。若不違我當為宣說。王聞仙言歡
+<lb ed="X" n="0883c24"/>喜踊躍。即隨仙人供給所須。采果汲水。捨薪設食。乃
+<pb ed="X" id="X38.0698.0884a" n="0884a"/>
+<lb ed="X" n="0884a01"/>至以身而為&CB00646;座。於時奉事經於千歲。為於法故。精
+<lb ed="X" n="0884a02"/>勤給侍。令無所乏也。</p></def></entry>
+<lb ed="X" n="0884a03"/><entry><form>布髮掩泥</form>
+<lb ed="X" n="0884a04"/><def><p id="pX38p0884a0401" rend="margin-left:1em">布髮掩泥者。昔如來因中。行菩薩行。值燈光佛於泥
+<lb ed="X" n="0884a05"/>塗。布髮掩泥以乘佛足。次即記曰。汝於來世。當得作
+<lb ed="X" n="0884a06"/>佛。號釋迦牟尼。</p></def></entry>
+<lb ed="X" n="0884a07"/><entry><form>&CB00573;啼賣心肝而學般若</form>
+<lb ed="X" n="0884a08"/><def><p id="pX38p0884a0801" rend="margin-left:1em">常啼賣心肝者。常啼。即薩陀波崙菩薩。為求般若深
+<lb ed="X" n="0884a09"/>法。賣心肝以興供養。入城聲價。諸魔隱蔽。令眾不聞。
+<lb ed="X" n="0884a10"/>有長者女。獨聞其聲。召曰。願隨所須。以助供養。繇是
+<lb ed="X" n="0884a11"/>菩薩得近善知識。開解妙法。得證甚深般若波羅蜜
+<lb ed="X" n="0884a12"/>門。</p></def></entry>
+<lb ed="X" n="0884a13"/><entry><form>鷗去海翁機</form>
+<lb ed="X" n="0884a14"/><def><p id="pX38p0884a1401" rend="margin-left:1em">鷗去海翁機者。列子云。海上之人好鷗者。每旦之海
+<lb ed="X" n="0884a15"/>上。從鷗鳥遊。鷗之至者。百數不止。其父曰。吾聞鷗鳥
+<lb ed="X" n="0884a16"/>皆從汝遊。可取來與吾玩之。明日之海上。鷗鳥舞而
+<lb ed="X" n="0884a17"/>不下。</p></def></entry>
+<lb ed="X" n="0884a18"/><entry><form>鴿搖羅漢影</form>
+<lb ed="X" n="0884a19"/><def><p id="pX38p0884a1901" rend="margin-left:1em">鴿搖羅漢影者。昔有鴿為鷹所逐。趨避於舍利弗之
+<lb ed="X" n="0884a20"/>影。猶戰慄不<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。遷於佛影。方乃釋然。繇羅漢尚有殺
+<lb ed="X" n="0884a21"/>之習氣。未能如佛之大慈悲也。</p></def></entry>
+<lb ed="X" n="0884a22"/><entry><form>旃陀羅</form>
+<lb ed="X" n="0884a23"/><def><p id="pX38p0884a2301" rend="margin-left:1em">旃陀羅者。梵語旃陀羅。此云屠者。四姓之中。唯此為
+<lb ed="X" n="0884a24"/>惡。行則搖鈴為號。人聞聲者。即遠避之。</p></def></entry>
+<pb ed="X" id="X38.0698.0884b" n="0884b"/>
+<lb ed="X" n="0884b01"/><entry><form>譚婆</form>
+<lb ed="X" n="0884b02"/><def><p id="pX38p0884b0201" rend="margin-left:1em">譚婆者。梵語譚婆。此云食狗肉人。每於路行。狗見而
+<lb ed="X" n="0884b03"/>瞋吠之。</p></def></entry>
+<lb ed="X" n="0884b04"/><entry><form>童子南詢</form>
+<lb ed="X" n="0884b05"/><def><p id="pX38p0884b0501" rend="margin-left:1em">童子南者詢。華嚴經。善財童子。展轉南行。經歷一百
+<lb ed="X" n="0884b06"/>一十城。參五十三善知識。各獲三昧解脫門。</p></def></entry>
+<lb ed="X" n="0884b07"/><entry><form>衲僧&CB00642;歷千山</form>
+<lb ed="X" n="0884b08"/><def><p id="pX38p0884b0801" rend="margin-left:1em">衲僧&CB00642;歷千山者。唐大隨法真禪師。有僧問。劫火洞
+<lb ed="X" n="0884b09"/>然。這個壞與不壞。答云壞。僧云恁麼則隨他去也。答
+<lb ed="X" n="0884b10"/>云隨他去。其僧疑之。尋師參叩。&CB00642;歷千山。至於萬里。
+<lb ed="X" n="0884b11"/>古所謂。一句隨他語。千山走衲僧是也。</p></def></entry>
+<lb ed="X" n="0884b12"/><entry><form>投子三登洞山九上</form>
+<lb ed="X" n="0884b13"/><def><p id="pX38p0884b1301" rend="margin-left:1em">投子三登洞山九上者。雪峰存禪師為大事不明。三
+<lb ed="X" n="0884b14"/>登投子。九上洞山。</p></def></entry>
+<lb ed="X" n="0884b15"/><entry><form>巖老躬處癘房而吮洗無忌</form>
+<lb ed="X" n="0884b16"/><def><p id="pX38p0884b1601" rend="margin-left:1em">巖老者。唐智巖。於石頭城。置癘人坊。為其說法。吮膿
+<lb ed="X" n="0884b17"/>洗穢。無不曲盡。永徽中。終于癘所。顏色不變。異香經
+<lb ed="X" n="0884b18"/>旬。</p></def></entry>
+<lb ed="X" n="0884b19"/><entry><form>寬公輿歸病者僧俗不分</form>
+<lb ed="X" n="0884b20"/><def><p id="pX38p0884b2001" rend="margin-left:1em">寬公者。唐智寬。性慈好惠。瞻病人。不計道俗。及路遠
+<lb ed="X" n="0884b21"/>近。無人治者。即輿來房中。躬自經理。有患癰膿不能
+<lb ed="X" n="0884b22"/>出。口為吮之。遂獲痊可。</p></def></entry>
+<lb ed="X" n="0884b23"/><entry><form>飛錫止&CB10823;</form>
+<lb ed="X" n="0884b24"/><def><p id="pX38p0884b2401" rend="margin-left:1em">飛錫止&CB10823;者。鄧隱&CB00123;禪師詣五臺。路淮西。屬吳元濟。
+<pb ed="X" id="X38.0698.0884c" n="0884c"/>
+<lb ed="X" n="0884c01"/>阻兵拒命。官軍與賊交鋒。未決勝負。師乃擲錫空中。
+<lb ed="X" n="0884c02"/>飛身而過。兩軍將士。仰視空中。&CB10823;心頓息。</p></def></entry>
+<lb ed="X" n="0884c03"/><entry><form>擲鞋解圍</form>
+<lb ed="X" n="0884c04"/><def><p id="pX38p0884c0401" rend="margin-left:1em">擲鞋解圍者。睦州陳尊宿。時遇賊兵圍城。人民荒亂。
+<lb ed="X" n="0884c05"/>師作大草鞋一隻。命懸城上。賊兵見之。共相告曰。此
+<lb ed="X" n="0884c06"/>有至人居焉。乃抽兵而去。</p></def></entry></div1>
+<lb ed="X" n="0884c07"/><div1 type="other"><mulu type="其他" level="1" label="下卷之二"/><head>下卷之二</head>
+<lb ed="X" n="0884c08"/><entry><form>十四種大願</form>
+<lb ed="X" n="0884c09"/><def><p id="pX38p0884c0901" rend="margin-left:1em">十四種大願者。一者。常能念佛親近善知識。二者。常
+<lb ed="X" n="0884c10"/>能捨離諸惡知識。三者。乃至失命因緣不犯佛戒。四
+<lb ed="X" n="0884c11"/>者。常能讀誦大乘經律。問甚深義。如法修學。五者。常
+<lb ed="X" n="0884c12"/>能於無上菩提而生信心。六者。若見眾生有苦惱時
+<lb ed="X" n="0884c13"/>常能救護。七者。常能隨力供養三寶。八者。常能孝順
+<lb ed="X" n="0884c14"/>父母。敬事師長。不敢違忤。九者。常能捨諸懈怠。勤求
+<lb ed="X" n="0884c15"/>佛道。十者。於五塵上諸煩惱生時。能制伏其心。十一
+<lb ed="X" n="0884c16"/>者。眾生無邊誓願度。十二者。煩惱無盡誓願斷。十三
+<lb ed="X" n="0884c17"/>者。法門無量誓願學。十四者。佛道無上誓願成。</p></def></entry>
+<lb ed="X" n="0884c18"/><entry><form>在家菩薩六重二十八輕戒</form>
+<lb ed="X" n="0884c19"/><def><p id="pX38p0884c1901" rend="margin-left:1em">六重戒者。一不殺生。二不偷盜。三不&CB00980;說。四不邪婬。
+<lb ed="X" n="0884c20"/>五不宣說四眾過罪。六不酤酒。</p>
+<lb ed="X" n="0884c21"/><p id="pX38p0884c2101" rend="margin-left:1em">二十八輕者。一不能供養父母師長。二&CB00361;樂飲酒。三
+<lb ed="X" n="0884c22"/>惡心不能瞻視病苦。四有乞者不能多少分與遣空
+<lb ed="X" n="0884c23"/>還。五見四眾不能承迎禮拜問訊。六見四眾毀所受
+<lb ed="X" n="0884c24"/>戒。心生憍慢。七月六齋日。不受八戒供三寶。八四十
+<pb ed="X" id="X38.0698.0885a" n="0885a"/>
+<lb ed="X" n="0885a01"/>里中有講法處。不能往聽。九受招提僧臥具床坐。十
+<lb ed="X" n="0885a02"/>疑水有蟲。故便飲之。十一險難之處。無伴獨行。十二
+<lb ed="X" n="0885a03"/>獨宿尼寺。十三為於財命。打罵奴婢僮僕。外人。十四
+<lb ed="X" n="0885a04"/>以&CB01852;食施四眾。十五畜&CB00339;貍。十六畜養象馬牛羊駝
+<lb ed="X" n="0885a05"/>驢。一切禽獸。十七不儲畜僧伽黎衣。&CB00425;。錫杖。十八若
+<lb ed="X" n="0885a06"/>須田作。不求淨水。及陸種處。十九物說價<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。捨賤趨
+<lb ed="X" n="0885a07"/>貴。斗秤量物。不令平用。二十於非處非時行欲。二十
+<lb ed="X" n="0885a08"/>一隱瞞官稅。二十二犯國制。二十三得新穀。&CB00031;。蓏。菜
+<lb ed="X" n="0885a09"/>茹。不先供奉三寶先自受。二十四僧若不聽說法讚
+<lb ed="X" n="0885a10"/>歎輒自作。二十五道路若在比丘。沙彌前行。二十六
+<lb ed="X" n="0885a11"/>僧中付食。若偏為師選擇美好過分與。二十七養蠶。
+<lb ed="X" n="0885a12"/>二十八路遇病者不能瞻視。為作方便。付囑所在。</p></def></entry>
+<lb ed="X" n="0885a13"/><entry><form>圓覺五性差別</form>
+<lb ed="X" n="0885a14"/><def><p id="pX38p0885a1401" rend="margin-left:1em">五性者。一凡夫性。謂於事理二障。未得斷滅。名未成
+<lb ed="X" n="0885a15"/>佛。二小乘性。謂諸眾生。永捨貪欲。先除事障。未斷理
+<lb ed="X" n="0885a16"/>障。但能悟入聲聞。緣覺。未能顯住菩薩境界。三菩薩
+<lb ed="X" n="0885a17"/>性。謂諸末世一切眾生。欲泛如來大圓覺海。先當發
+<lb ed="X" n="0885a18"/>願。勤斷二障。二障<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>伏。即能悟入菩薩境界。若事理
+<lb ed="X" n="0885a19"/>障。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>永斷滅。即入如來微妙圓覺。滿足菩提。及大涅
+<lb ed="X" n="0885a20"/>槃。四不定性。謂諸眾生。皆證圓覺。逢善知識。依彼所
+<lb ed="X" n="0885a21"/>作因地法行。爾時修習。便有頓漸。若遇如來無上菩
+<lb ed="X" n="0885a22"/>提正修行路。根無大小皆。成佛果。五外道性。謂諸眾
+<lb ed="X" n="0885a23"/>生。雖求善友。遇邪見者。未得正悟。是則名為外道種
+<lb ed="X" n="0885a24"/>性。邪師過謬。非眾生咎。是名圓覺互性差別。</p></def></entry>
+<pb ed="X" id="X38.0698.0885b" n="0885b"/>
+<lb ed="X" n="0885b01"/><entry><form>五濁</form>
+<lb ed="X" n="0885b02"/><def><p id="pX38p0885b0201" rend="margin-left:1em">五濁者。一劫濁。約四濁立此假名。四濁增劇。聚在此
+<lb ed="X" n="0885b03"/>時。二煩惱濁。五鈍使為體。三災為相故。三眾生濁。謂
+<lb ed="X" n="0885b04"/>見慢果報。立此假名。惡名穢稱為相故。四見濁。五利
+<lb ed="X" n="0885b05"/>使為體。諸見轉增為相故。命五濁。連持色心為體。摧
+<lb ed="X" n="0885b06"/>年減壽為相故。</p></def></entry>
+<lb ed="X" n="0885b07"/><entry><form>臨濟發悟於首座</form>
+<lb ed="X" n="0885b08"/><def><p id="pX38p0885b0801" rend="margin-left:1em">臨濟發悟者。臨濟義玄禪師。初在黃檗會中。時睦州
+<lb ed="X" n="0885b09"/>為首座。乃問臨濟。上座在此多少時。曰。三年。州曰。曾
+<lb ed="X" n="0885b10"/>參問否。曰。不曾問。不知問箇甚麼。州曰。何不問如何
+<lb ed="X" n="0885b11"/>是佛法的的大意。明日檗上堂。師依教而問。三度被
+<lb ed="X" n="0885b12"/>打。後辭去參大愚。於言下大悟。愚令嗣黃檗焉。</p></def></entry>
+<lb ed="X" n="0885b13"/><entry><form>昌黎發悟於三平</form>
+<lb ed="X" n="0885b14"/><def><p id="pX38p0885b1401" rend="margin-left:1em">昌黎發悟者。韓文公問大顛曰。某甲軍州事繁。佛法
+<lb ed="X" n="0885b15"/>有要處。乞師一語。師。良久。公。罔措。時三平為侍者。乃
+<lb ed="X" n="0885b16"/>敲禪床三下。師曰。作麼。平曰。先以定動。後以智拔。公
+<lb ed="X" n="0885b17"/>乃曰。和尚門風高峻。某甲於侍者邊得箇入處。</p></def></entry>
+<lb ed="X" n="0885b18"/><entry><form>十無盡句</form>
+<lb ed="X" n="0885b19"/><def><p id="pX38p0885b1901" rend="margin-left:1em">十無盡句者。所謂眾生不可盡。我願不可盡。世界不
+<lb ed="X" n="0885b20"/>可盡。我願不可盡。&CB00980;空不可盡。我願不可盡。法性不
+<lb ed="X" n="0885b21"/>可盡。我願不可盡。涅槃不可盡。我願不可盡。佛出世
+<lb ed="X" n="0885b22"/>不何盡。我願不可盡。諸佛智慧不可盡。我願不可盡。
+<lb ed="X" n="0885b23"/>心緣不可盡。我願不可盡。起智不可盡。我願不可盡。
+<lb ed="X" n="0885b24"/>世間道種。法道種。智慧道種不可盡。我願不可盡。若
+<pb ed="X" id="X38.0698.0885c" n="0885c"/>
+<lb ed="X" n="0885c01"/>十種可盡。我願乃可盡。是則又為十無盡願也。</p></def></entry>
+<lb ed="X" n="0885c02"/>
+<lb ed="X" n="0885c03"/><juan fun="close" n="1"><jhead>附直解事義<note place="inline">終</note></jhead></juan></div1>
+<lb ed="X" n="0885c04"/>
+<lb ed="X" n="0885c05"/>
+<lb ed="X" n="0885c06"/>
+<lb ed="X" n="0885c07"/>
+<lb ed="X" n="0885c08"/><div1 type="xu"><mulu type="序" level="1" label="No. 698-A 梵網經直解＆CB02494；並頌"/><head>No. 698-A
+<lb ed="X" n="0885c09"/> 梵網經直解&CB02494;並頌</head>
+<lb ed="X" n="0885c10"/>
+<lb ed="X" n="0885c11"/><p id="pX38p0885c1101" rend="margin-left:1em">潤。自戊辰歲求戒楚沔廣長社。得讀
+<lb ed="C X" n="0885c12"/>和尚所註。梵網經略疏。遂歷寒暑。日夜繼之。僅於菩
+<lb ed="X" n="0885c13"/>薩心地品分。知上卷所詮。智理觀行。修證階級。下
+<lb ed="X" n="0885c14"/>卷所詮。輕重開遮。止持作犯之名言而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。嗣後自
+<lb ed="X" n="0885c15"/>臺山侍巾缾之
+<lb ed="C X" n="0885c16"/>神京。每伺揮<app><lem wit="【CBETA】" resp="CBETA.maha">麈</lem><rdg wit="【卍續】">塵</rdg></app>之暇。跪陣柬筆。請發略疏之覆。既旋
+<lb ed="X" n="0885c17"/>維揚石塔。一日緝編告成。焚香展讀不數紙。即了
+<lb ed="C X" n="0885c18"/>舍那光。釋迦光。玄主光。光無二致。報佛說。化佛說。和
+<lb ed="X" n="0885c19"/>尚說。說本同源。開圓頓之門於現前。徹名言之岐
+<lb ed="X" n="0885c20"/>於當下。允矣
+<lb ed="C X" n="0885c21"/>和尚天性。江漢濯來。粉飾文章。不添隻字。直就本文
+<lb ed="X" n="0885c22"/>掀翻
+<lb ed="C X" n="0885c23"/>佛意。因以直解名焉。然而楚沔刻略疏。維揚刻直解。
+<lb ed="X" n="0885c24"/>精神何所致耶。今年庚辰<app><lem wit="【CBETA】" resp="CBETA.maha">閏</lem><rdg wit="【卍續】">&CB03594;</rdg></app>正月來。復加覃思。研
+<pb ed="X" id="X38.0698.0886a" n="0886a"/>
+<lb ed="X" n="0886a01"/>覈精微。壽棗華山。遠流佛化。此其四無量心。再三
+<lb ed="X" n="0886a02"/>為人故若是矣。吁。攝受一切眾生。<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>解法師語。盡
+<lb ed="X" n="0886a03"/>受得戒。即入諸佛位者。其為梵網圓頓歟。直令上
+<lb ed="X" n="0886a04"/>中下機。一值此經。即奠佛位於自心者。其為直解
+<lb ed="X" n="0886a05"/>詳明歟。而今後讀之者。不必言
+<lb ed="C X" n="0886a06"/>和尚報身之今說。即舍那報身之重說。但惟信現前
+<lb ed="X" n="0886a07"/>仁者之今學。即過去菩薩之再學。則與千百億釋
+<lb ed="X" n="0886a08"/>迦。同一鼻孔出氣矣。夫其摩醯首羅天王宮。是誰
+<lb ed="X" n="0886a09"/>指之而入哉。潤。不能效藥王神光之為。而不禁篤
+<lb ed="X" n="0886a10"/>信。申吐數語。不稱&CB02494;。不稱頌。聊誌廣長法乳。源遠
+<lb ed="X" n="0886a11"/>而流長云爾。頌曰。</p>
+<lb ed="X" n="0886a12"/><p id="pX38p0886a1201">如來心藏及戒藏。因果佛性常住藏。我今字字從師
+<lb ed="X" n="0886a13"/>授。慈悲喜捨四無量。流通天上與人間。觀察諸法真
+<lb ed="X" n="0886a14"/>實相。百億諸佛一毛端。時時常把光明放。善哉直解
+<lb ed="X" n="0886a15"/>絕支離。入梵網門為最上。普願人人如我心。二利福
+<lb ed="X" n="0886a16"/>德盡迴向。四恩三有證菩提。蓮華端坐無&CB00980;誑。</p>
+<lb ed="X" n="0886a17"/><p id="pX38p0886a1701" rend="margin-left:0em;text-indent:1em">時
+<lb ed="C X" n="0886a18"/>崇禎庚辰歲二月十九日</p>
+<lb ed="X" n="0886a19"/><p id="pX38p0886a1901" rend="margin-left:6em">楚峽州律弟子戒潤和南拜題</p>
+<lb ed="X" n="0886a20"/>
+<lb ed="X" n="0886a21"/>
+<lb ed="X" n="0886a22"/>
+<lb ed="X" n="0886a23"/>
+<lb ed="X" n="0886a24"/>
+<pb ed="X" id="X38.0698.0886b" n="0886b"/>
+<lb ed="X" n="0886b01"/>
+<lb ed="X" n="0886b02"/>
+<lb ed="X" n="0886b03"/>
+<lb ed="X" n="0886b04"/><div2 type="w"><p id="pX38p0886b0401"><note n="0886001" resp="Xuzangjing" place="foot text" type="orig">（閱經十二種之第二(No. 674-2)，第37卷所收。&CB18834;）</note>梵網經戒光<note place="inline">一卷</note></p>
+<lb ed="X" n="0886b05"/><byline type="author">清　淨挺　著</byline>
+<lb ed="X" n="0886b06"/><p id="pX38p0886b0601" rend="margin-left:1em">卍云。收于閱經十二種之第<note n="0886002" resp="Xuzangjing" place="foot text" type="orig">（七&M062447;二&M062442;&M062474;。&CB18834;）</note>七。故省于此。</p></div2></div1>
+</body></text></TEI.2>

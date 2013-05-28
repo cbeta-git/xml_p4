@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X59n1069.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1069 釋迦牟尼如來拔除苦惱現大神變飛空大&CB00425;法</title>
+			<author>唐 般若傳</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.5 $ (Big5)<date>$Date: 2009/04/22 09:01:10 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:01:10 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 59, No. 1069 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/06/13 08:44:29</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X59n1069.xml,v $
+Revision 1.5  2009/04/22 09:01:10  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.4  2007/08/29 06:38:31  amtbgrace
+modified: 校注插入 XML 作業完成
+
+Revision 1.3  2005/06/13 00:49:03  edith
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X59.1069.0171b" n="0171b"/>
+<lb ed="X" n="0171b01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0171b02"/>
+<lb ed="X" n="0171b03"/>
+<lb ed="X" n="0171b04"/><head type="no">No. 1069</head>
+<lb ed="X" n="0171b05"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>釋迦牟尼如來&CB15072;除苦惱現大神變飛空大&CB00425;法</jhead></juan>
+<lb ed="X" n="0171b06"/>
+<lb ed="X" n="0171b07"/>
+<lb ed="X" n="0171b08"/><byline type="other">三藏法師　般若　傳</byline>
+<lb ed="X" n="0171b09"/><div1><p id="pX59p0171b0901">一時釋迦尊住雪山頂。五百比丘。□萬菩薩。天龍八
+<lb ed="X" n="0171b10"/>部。無量大眾。俱會聞法。時眾疲勞。飲食難得。爾時世
+<lb ed="X" n="0171b11"/>尊入大慈三昧。於光明中。涌出如來之大&CB00425;。乘空而
+<lb ed="X" n="0171b12"/>去。不知去所。大眾驚疑<note n="0171001" resp="Xuzangjing" place="foot text" type="orig">振字更勘</note>振。於時佛大&CB00425;還來。飯滿&CB00425;
+<lb ed="X" n="0171b13"/>中。</p><p id="pX59p0171b1302" place="inline">爾時如來從定而起。告大眾言。汝等皆當食之。說
+<lb ed="X" n="0171b14"/>此語<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。大眾歡喜。食此&CB00425;飯。猶餘無盡。其香遍滿三
+<lb ed="X" n="0171b15"/>千大千世界。地獄餓鬼畜生皆得飽滿。</p>
+<lb ed="X" n="0171b16"/><p id="pX59p0171b1601">於是文殊師利。白佛言。如來以何神力。飛是大&CB00425;。令
+<lb ed="X" n="0171b17"/>飽滿大眾。及濟三途八難眾生之苦。我等及未來世
+<lb ed="X" n="0171b18"/>求法修道者。何習是法。<note n="0171002" resp="Xuzangjing" place="foot text" type="orig">成能疑能成</note>成能佛事。可利眾生。唯願大
+<lb ed="X" n="0171b19"/>聖說是法要。佛<note n="0171003" resp="Xuzangjing" place="foot text" type="orig">事字疑衍</note>事告文殊師利。如此如是。善男子。我
+<lb ed="X" n="0171b20"/>當演說其法。利益眾生。饒益行者。我昔作大仙人。住
+<lb ed="X" n="0171b21"/>於雪山巖中。久斷衣食。無由得之。時有弟子一萬人。
+<lb ed="X" n="0171b22"/>俱住苦行。有一迦樓羅王。來白我言。願持大仙御&CB00425;。
+<lb ed="X" n="0171b23"/>往於天上及人間。盛滿衣食。還來供養大眾。時我仙
+<lb ed="X" n="0171b24"/>許之。于時迦樓羅王戴&CB00425;。飛走大千世界。一時之間。
+<pb ed="X" id="X59.1069.0171c" n="0171c"/>
+<lb ed="X" n="0171c01"/>滿&CB00425;衣飯還來。大眾隨喜。皆得安隱。可知時仙人者。
+<lb ed="X" n="0171c02"/>今我身是也。我今當說其法。先撰清淨處無人深山
+<lb ed="X" n="0171c03"/>幽林高巖中。大河大海清泉之邊。斷食練行。服五葉
+<lb ed="X" n="0171c04"/>松葉。及諸&CB00031;食。誦如來大&CB00425;真言。及結其印。晝夜六
+<lb ed="X" n="0171c05"/>時。不得絕聲。未至三日。得成就　印相。</p>
+<lb ed="X" n="0171c06"/><p id="pX59p0171c0601">先以右手當心仰掌。次以右手掌覆。令右掌上其左。
+<lb ed="X" n="0171c07"/>當小指頭。與右大指頭相柱。其左大指頭與右小指
+<lb ed="X" n="0171c08"/>頭相柱。&CB00057;曰。</p>
+<lb ed="X" n="0171c09"/><p id="pX59p0171c0901" type="dharani">曩莫三曼多勃&CB00499;南唵路迦播羅地瑟恥多&CB00499;羅野
+<lb ed="X" n="0171c10"/>&CB00499;羅野摩訶皤<note place="inline">去</note>傳勃&CB00499;幡怛羅<note place="inline">二合</note>娑婆訶</p>
+<lb ed="X" n="0171c11"/><p id="pX59p0171c1101">當誦是&CB00057;。滿百萬遍。是法印&CB00057;。其大精進。當為一切
+<lb ed="X" n="0171c12"/>如來神力。而加護之。當結是印。并誦此&CB00057;。即得成就。
+<lb ed="X" n="0171c13"/>若地獄餓鬼有情。滿百八遍。則得地獄餓鬼。飽滿諸
+<lb ed="X" n="0171c14"/>食。若曠野行亦結此印。并誦此&CB00057;者。曠野鬼神不相
+<lb ed="X" n="0171c15"/>嬈也。故其&CB00425;隨心飛行十方。若持是法時。當呼速疾
+<lb ed="X" n="0171c16"/>迦樓羅王。以為使者。如來神力故。彼王能隨奉仕。行
+<lb ed="X" n="0171c17"/>者知之。空&CB00425;自轉。遣&CB00057;。</p>
+<lb ed="X" n="0171c18"/><p id="pX59p0171c1801" type="dharani">模呼呵梨疑&CB11399;提迷頭迷七佛世尊摩訶毗嵐彼莎
+<lb ed="X" n="0171c19"/>呵&CB02728;&CB02728;&CB02728;&CB02728;&CB02728;&CB02728;&CB02728;&CB02728;&CB02728;&CB02728;&CB02728;&CB02728;&CB02728;&CB02728;&CB02728;&CB02728;&CB02728;&CB02728;&CB02728;
+<lb ed="X" n="0171c20"/>莎呵</p>
+<lb ed="X" n="0171c21"/><p id="pX59p0171c2101">轉&CB00425;&CB00057;。</p>
+<lb ed="X" n="0171c22"/><p id="pX59p0171c2201" type="dharani">南無佛陀耶　南無達磨耶　南無僧伽耶　南無
+<lb ed="X" n="0171c23"/>多羅&CB00425;　遮羅陀羅尼轉陀羅尼轉莎呵</p>
+<lb ed="X" n="0171c24"/><p id="pX59p0171c2401">若作法時。淨治一室。香水灑地。禮四方佛。喚一童子。
+<pb ed="X" id="X59.1069.0172a" n="0172a"/>
+<lb ed="X" n="0172a01"/>教洗手面。亦遣禮佛。於其地上。敷一淨氈。又取一&CB00425;。
+<lb ed="X" n="0172a02"/>香水淨洗。置於氈。取淨衣。盛於&CB00425;中。喚童子。上以兩
+<lb ed="X" n="0172a03"/>膝頭。案於&CB00425;中。以兩手把地。&CB00057;師數數誦&CB00057;曰。云轉
+<lb ed="X" n="0172a04"/>呵&CB01239;即轉。又請三寶一切神王&CB00057;。</p>
+<lb ed="X" n="0172a05"/><p id="pX59p0172a0501" type="dharani">南無佛陀耶　南無達磨耶　南無僧伽耶　跢姪
+<lb ed="X" n="0172a06"/>他伊弭泥伊弭泥弭&CB00410;弭&CB00410;莎呵</p>
+<lb ed="X" n="0172a07"/><p id="pX59p0172a0701">凡欲誦&CB00057;時。先誦三七遍。請<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>誦所行　大驗。</p>
+<lb ed="X" n="0172a08"/>
+<lb ed="X" n="0172a09"/><juan fun="close" n="1"><jhead>大威德秘密飛空&CB00425;法印<note place="inline">竟</note></jhead></juan></div1>
+</body></text></TEI.2>

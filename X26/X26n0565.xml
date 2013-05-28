@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X26n0565.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 565 般若心經論</title>
+			<author>清 &CB05585;&CB00156;撰</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $ (Big5)<date>$Date: 2009/04/22 08:54:12 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:54:12 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 26, No. 565 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2006/08/01 10:23:10</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X26n0565.xml,v $
+Revision 1.2  2009/04/22 08:54:12  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.1  2006/08/01 02:26:56  ray
+basicx 程式 轉自 簡單標記版
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X26.0565.0915c" n="0915c"/>
+<lb ed="X" n="0915c01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0915c02"/><head type="no">No. 565</head>
+<lb ed="X" n="0915c03"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>般若心經論</jhead></juan>
+<lb ed="X" n="0915c04"/>
+<lb ed="X" n="0915c05"/><byline type="author">丹霞沙門　釋天然&CB05585;&CB00156;　撰</byline>
+<lb ed="X" n="0915c06"/><div1><p id="pX26p0915c0601">梵語般若。此云智慧。以智慧解諸法空。而至于彼岸。
+<lb ed="X" n="0915c07"/>是矣。又曰。心經何謂也。華首曰。心是體。智是用。體則
+<lb ed="X" n="0915c08"/>通凡聖。而皆&CB00642;用。則分迷悟以各成。天下無無用之
+<lb ed="X" n="0915c09"/>體。體即&CB00642;。而用安得不&CB00642;歟。曰&CB00642;而迷悟異致。故曰
+<lb ed="X" n="0915c10"/>各成。各成則不可均言智慧矣。此所謂本覺則聖凡
+<lb ed="X" n="0915c11"/>無二。迷本為妄。悟本為始。妄與始無二體。而有二用
+<lb ed="X" n="0915c12"/>也。當其迷也。見色而不見空。迺至見受想行識。而不
+<lb ed="X" n="0915c13"/>見空。行于日用。欲求其毫釐解脫。而不可得矣。及其
+<lb ed="X" n="0915c14"/>悟也。即色是空。更無別空。即空是色。更無別色。迺至
+<lb ed="X" n="0915c15"/>即受想行識是空。更無別空。即空是受想行識。更無
+<lb ed="X" n="0915c16"/>別受想行識。行於日用。欲求其毫釐凝滯。而亦不可
+<lb ed="X" n="0915c17"/>得矣。是迷悟之用各異。而皆原于本覺之心。固無有
+<lb ed="X" n="0915c18"/>異也。通凡聖而無有異。故曰體也。自無始來。無佛名。
+<lb ed="X" n="0915c19"/>無菩薩名。無二乘凡夫名。唯渾然藏識而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。藏無自
+<lb ed="X" n="0915c20"/>性。不覺成識。識成而根身器界名相臚。然而藏性不
+<lb ed="X" n="0915c21"/>失。識滅而三明六通。智證詣極。而藏性不加。所謂無
+<lb ed="X" n="0915c22"/>生滅之謂心。無垢淨之謂心。無增減之謂心。此心空
+<lb ed="X" n="0915c23"/>相本自如。然而非深于般若。則未有能徹見。而返本
+<lb ed="X" n="0915c24"/>歸源者。此三世如來所讚歎尊重。無異旨也。般若生
+<pb ed="X" id="X26.0565.0916a" n="0916a"/>
+<lb ed="X" n="0916a01"/>于本覺。而要迷情淨盡。然後現妄覺。亦生于本覺。而
+<lb ed="X" n="0916a02"/>要當體知歸。然後泯故知翻其妄。而自照之為智。智
+<lb ed="X" n="0916a03"/>生即無妄。妄成智也。智解諸法空。還其本覺之無。動
+<lb ed="X" n="0916a04"/>搖之為心。心返則無智。智盡心也。涅槃三德。非縱非
+<lb ed="X" n="0916a05"/>橫。而悉始于明。見佛性融。根本差別。而一至于是。所
+<lb ed="X" n="0916a06"/>謂佛性為因。而涅槃為果也。由是而造焉。之謂經也。</p>
+<lb ed="X" n="0916a07"/>
+<lb ed="X" n="0916a08"/><juan fun="close" n="1"><jhead>般若心經論<note place="inline">終</note></jhead></juan></div1>
+</body></text></TEI.2>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X45n0770.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+<!ENTITY FigX45p0782_01 SYSTEM "figures/X45p0782_01.gif" NDATA GIF>
+<!ENTITY FigX45p0782_02 SYSTEM "figures/X45p0782_02.gif" NDATA GIF>
+<!ENTITY FigX45p0782_03 SYSTEM "figures/X45p0782_03.gif" NDATA GIF>
+<!ENTITY FigX45p0782_04 SYSTEM "figures/X45p0782_04.gif" NDATA GIF>
+<!ENTITY FigX45p0782_05 SYSTEM "figures/X45p0782_05.gif" NDATA GIF>
+<!ENTITY FigX45p0782_06 SYSTEM "figures/X45p0782_06.gif" NDATA GIF>
+<!ENTITY FigX45p0782_07 SYSTEM "figures/X45p0782_07.gif" NDATA GIF>
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 770 釋摩訶衍論記</title>
+			<author>唐 聖法鈔</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.5 $ (Big5)<date>$Date: 2010/10/25 08:43:32 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2010/10/25 08:43:32 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 45, No. 770 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2006/11/17 16:29:22</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X45n0770.xml,v $
+Revision 1.5  2010/10/25 08:43:32  amtbgrace
+modified: 圖檔檔名修改
+
+Revision 1.4  2009/04/22 08:58:45  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.3  2007/08/15 07:08:25  eva
+modified: 校注作業完成
+
+Revision 1.2  2007/07/12 10:12:14  amtbgrace
+modified: 校注作業修訂
+
+Revision 1.1  2006/11/17 08:38:37  duncan
+11/17 轉自basicx parsevol OK
+BY duncan
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X45.0770.0781a" n="0781a"/>
+<lb ed="X" n="0781a01"/><milestone unit="juan" n="1"/>
+<lb ed="X" n="0781a02"/><head type="no">No. 770</head>
+<lb ed="X" n="0781a03"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>釋摩訶衍論記一卷</jhead></juan>
+<lb ed="X" n="0781a04"/>
+<lb ed="X" n="0781a05"/><byline type="author">沙門　聖法　鈔</byline>
+<lb ed="X" n="0781a06"/><div1 type="other"><mulu type="其他" level="1" label="前文"/><p id="pX45p0781a0601">回音瑰允也又好慧反寶&CB04693;也迴也續也此中&CB04693;字
+<lb ed="X" n="0781a07"/>契當而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>此字在文殊師利答第一經十一卷&CB06935;鏡
+<lb ed="X" n="0781a08"/>日珠言&CB06935;<note place="interlinear">月也</note>鏡者龍樹古稱言日珠者馬鳴古稱謂迦
+<lb ed="X" n="0781a09"/>葉佛出世時中一長者名曰輪香有女名曰珠池如
+<lb ed="X" n="0781a10"/>是二人各以七寶獻迦葉佛請其嗣息爾時世尊告
+<lb ed="X" n="0781a11"/>二人言速去還所汝等所請求十七日<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>經當得成
+<lb ed="X" n="0781a12"/>就所願滿足爾時二人頭地禮佛&CB00230;返本處第十七
+<lb ed="X" n="0781a13"/>日悉<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>滿足其日夢中彼珠池女即得好夢甚大歡
+<lb ed="X" n="0781a14"/>喜無所譬喻所謂第一明散日輪來入腹中第二耀
+<lb ed="X" n="0781a15"/>了滿月之輪來入腹中得此吉祥<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>經九月即生二
+<lb ed="X" n="0781a16"/>子兄名日珠弟名月鏡隨其前相立名字故如是二
+<lb ed="X" n="0781a17"/>子歲至一七即便出家詣迦葉佛隨佛世尊脩其行
+<lb ed="X" n="0781a18"/>法常作是願生生處處不相捨離同學知識建立正
+<lb ed="X" n="0781a19"/>法具足妙行念一覺海以此事故此二菩薩不相捨
+<lb ed="X" n="0781a20"/>離俱行俱轉出現本釋利益眾生今此序主取彼時
+<lb ed="X" n="0781a21"/>名立名字言月鏡日珠以何義故略去今名取過去
+<lb ed="X" n="0781a22"/>名本釋兩論除無明闇增智慧明盲冥眾生而能開
+<lb ed="X" n="0781a23"/>曉譬如兩曜皆生光明除滅暗夜引導眾生令不惱
+<lb ed="X" n="0781a24"/>亂是故時事契合當中強彼名爰存而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>如是因緣
+<pb ed="X" id="X45.0770.0781b" n="0781b"/>
+<lb ed="X" n="0781b01"/>在無著菩薩本事因緣論第三卷也光明妙雲言光
+<lb ed="X" n="0781b02"/>明者馬鳴往古如來名字言妙雲者龍樹往古如來
+<lb ed="X" n="0781b03"/>名字如是二字名脩多羅中各各異說謂金剛正智
+<lb ed="X" n="0781b04"/>經中作如是說馬鳴菩薩大光明佛龍樹菩薩妙雲
+<lb ed="X" n="0781b05"/>相佛大莊嚴三昧經中作如是說馬鳴菩薩&CB00642;照通
+<lb ed="X" n="0781b06"/>達無邊如來龍樹菩薩&CB00642;覆初生如來甚深道場經
+<lb ed="X" n="0781b07"/>中作如是說馬鳴菩薩日月星明如來今依金剛正
+<lb ed="X" n="0781b08"/>智經序主作如是說光明妙雲相焉料音羅閭反寶
+<lb ed="X" n="0781b09"/>水月也此字在三三昧經第八卷也隔檀門往向位
+<lb ed="X" n="0781b10"/>言隔檀門者入如意藏直門之稱言往向位者入如
+<lb ed="X" n="0781b11"/>意藏經門之稱如是二門如其次第喻真如生滅之
+<lb ed="X" n="0781b12"/>二門如是因緣在龍<note n="0781001" resp="Xuzangjing" place="foot text" type="orig">明一作樹</note>明菩薩心地品論第三十八卷
+<lb ed="X" n="0781b13"/>摩迦羅論此云如意珠論也&CB02494;提論此云廣攝論也
+<lb ed="X" n="0781b14"/>鄔舍摩論此云本廣釋狹論也闍他論此云本狹釋
+<lb ed="X" n="0781b15"/>廣論也筏那提舍論此云一向義論也阿部帝論此
+<lb ed="X" n="0781b16"/>云<note n="0781002" resp="Xuzangjing" place="foot text" type="orig">宗上一有一字</note>宗廣攝論也&CB02494;磨論此云雜論也呼呵論此云字
+<lb ed="X" n="0781b17"/>輪論也摩僧那論此云神&CB00057;論也鍵婆論此云偈成
+<lb ed="X" n="0781b18"/>論也九十九種文所言九種華文論者一者音韻華
+<lb ed="X" n="0781b19"/>文論二者義林華文論三者圖像華文論四者一字
+<lb ed="X" n="0781b20"/>華文論五者雜說華文論六者阿說共中華文論七
+<lb ed="X" n="0781b21"/>者釋本華文論八者釋釋華文論九者內外具成華
+<lb ed="X" n="0781b22"/>文論婆薩伊伽諾此云精&CB18610;即喻名焉所謂眼中精
+<lb ed="X" n="0781b23"/>&CB18610;甚極微少譬如兔毛塵其量無差而能納受滿十
+<lb ed="X" n="0781b24"/>方中明闇之色斯論大意亦復如是故標多羅唱提
+<pb ed="X" id="X45.0770.0781c" n="0781c"/>
+<lb ed="X" n="0781c01"/>此云氣絲即是龍絲所謂龍王舌中有一氣絲甚極
+<lb ed="X" n="0781c02"/>微細譬如頭髮其量無差而能出生攝納滿十方中
+<lb ed="X" n="0781c03"/>種種密雲斯論大意亦復如是故馬鳴菩薩現六時
+<lb ed="X" n="0781c04"/>中造作論教當何時耶所謂出現一百餘歲時即造
+<lb ed="X" n="0781c05"/>作四部寶&CB04693;論云何為四一者起信論二者玄理論
+<lb ed="X" n="0781c06"/>三者本原論四者清淨論出現<note place="interlinear">變化功德經</note>三百餘歲時中即造
+<lb ed="X" n="0781c07"/>作六部論云何為六一者三昧論二者合一論三者
+<lb ed="X" n="0781c08"/>微妙論四者中藏論五者歸真論六者&CB00642;滿論出現<note place="interlinear">摩訶摩耶經</note>
+<lb ed="X" n="0781c09"/>六百歲時中造作對治邪智入道論等二十部華文
+<lb ed="X" n="0781c10"/>論出現<note place="interlinear">常德三眛經</note>八百歲時中造作大總地論等三十部華文
+<lb ed="X" n="0781c11"/>論出現<note place="interlinear">大乘本法論</note>佛入涅槃時中造作懺悔業障大海論等四
+<lb ed="X" n="0781c12"/>十部華文論出現<note place="interlinear">勝頂王經</note>佛成道第十七日時中都無所造
+<lb ed="X" n="0781c13"/>焉立名因緣在大明<app><lem wit="【CBETA】" resp="CBETA.maha">菩</lem><rdg wit="【卍續】">苦</rdg></app>薩授記譬喻經第八十卷古
+<lb ed="X" n="0781c14"/>名日炎&CB00642;照菩薩於契經中十種第一即是無盡法
+<lb ed="X" n="0781c15"/>界經第七卷文於契經中十種殊勝即是如來藏功
+<lb ed="X" n="0781c16"/>德經第一卷文於契經中十種作用即是上佛經第
+<lb ed="X" n="0781c17"/>十一卷文十種周&CB00642;即是金剛寶智經第四卷文四
+<lb ed="X" n="0781c18"/>種圓滿智即是果圓滿經第二卷文四種解脫智<note place="inline">同上</note>
+<lb ed="X" n="0781c19"/>佛伽陀修梨毗羅反云廣略經則菩薩遮陀尸脩梨
+<lb ed="X" n="0781c20"/>毗羅反云廣略論則憂婆提那眾反云了論僧那反
+<lb ed="X" n="0781c21"/>云誓願阿世耶反云意樂。</p></div1>
+<lb ed="X" n="0781c22"/><div1 type="other"><mulu type="其他" level="1" label="論本第二"/><head>論本第二</head>
+<lb ed="X" n="0781c23"/><p id="pX45p0781c2301">譬如&CB00980;空中飛鳥踰明耀時出十種和聲&CB00980;空輪字
+<lb ed="X" n="0781c24"/>應如是觀言十聲者謂飛鳥一踰明耀時十塵相觸
+<pb ed="X" id="X45.0770.0782a" n="0782a"/>
+<lb ed="X" n="0782a01"/>出微音故於彼一塵各取一音是故言出十種和聲
+<lb ed="X" n="0782a02"/>也。</p></div1>
+<lb ed="X" n="0782a03"/><div1 type="other"><mulu type="其他" level="1" label="論本第三"/><head>論本第三</head>
+<lb ed="X" n="0782a04"/><p id="pX45p0782a0401">譬如眠士夫及與悟士夫俱行俱轉不相離故唯據
+<lb ed="X" n="0782a05"/>一身不取二身以為譬喻摩奢趺娑鏡反云種愛珠
+<lb ed="X" n="0782a06"/>也輪多梨華鏡反云明耀珠也頗梨反云離珠又云
+<lb ed="X" n="0782a07"/>應珠福多伽林反云愕木即是&CB00305;林&CB18616;音造緣反實
+<lb ed="X" n="0782a08"/>郡主焉。</p></div1>
+<lb ed="X" n="0782a09"/><div1 type="other"><mulu type="其他" level="1" label="論本第四"/><head>論本第四</head>
+<lb ed="X" n="0782a10"/><p id="pX45p0782a1001">迦羅鳩奢那反云利鳥又云火鳥又云眼赤鳥。</p></div1>
+<lb ed="X" n="0782a11"/><div1 type="other"><mulu type="其他" level="1" label="論本第五"/><head>論本第五</head>
+<lb ed="X" n="0782a12"/><p id="pX45p0782a1201">班多伽耶娑叉提鄔反云鬼集林會末耶提反云怖
+<lb ed="X" n="0782a13"/>香梵檀尸多那林反云聖居山林陀摩鍵多反云仙
+<lb ed="X" n="0782a14"/>香天殊地別天謂玄也地謂大也阿梨羅多掩尸木
+<lb ed="X" n="0782a15"/>反云龍舌婆羅羅利多提假人此云有巧方便那尸
+<lb ed="X" n="0782a16"/>阿多羅假人此云無巧方便。</p></div1>
+<lb ed="X" n="0782a17"/><div1 type="other"><mulu type="其他" level="1" label="論本第六"/><head>論本第六</head>
+<lb ed="X" n="0782a18"/><p id="pX45p0782a1801">釋六德經如其次第一道清淨經因緣無主經具足
+<lb ed="X" n="0782a19"/>性德經甚深如來藏經大寶無盡經通達法門經譬
+<lb ed="X" n="0782a20"/>如阿只多遮那尸帝樹反云無邊一從樹也阿作阿
+<lb ed="X" n="0782a21"/>故阿謂自然遮伽利娑那提衣反云安樂光耀羅衣
+<lb ed="X" n="0782a22"/>即是帝釋莊嚴衣名也鍵尸多陀摩宮反云安樂反
+<lb ed="X" n="0782a23"/>轉。</p></div1>
+<lb ed="X" n="0782a24"/><div1 type="other"><mulu type="其他" level="1" label="論本第八"/><head>論本第八</head>
+<pb ed="X" id="X45.0770.0782b" n="0782b"/>
+<lb ed="X" n="0782b01"/><p id="pX45p0782b0101">定標陀阿羅觀義言標陀者反云主也言阿羅者反
+<lb ed="X" n="0782b02"/>云伴也即此處中定主觀伴應審觀察伽摩伊陀耶
+<lb ed="X" n="0782b03"/>反云合集婆尼羅反云散離言合集者即是粘食言
+<lb ed="X" n="0782b04"/>散離者即是粳食也俱盧舍量反云淨穢中間謂五
+<lb ed="X" n="0782b05"/>百弓之量而<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>&CB18620;音彼乎反此字在金剛大輪無礙
+<lb ed="X" n="0782b06"/>&CB00980;空總明陀羅尼經第一卷中。</p></div1>
+<lb ed="X" n="0782b07"/><div1 type="other"><mulu type="其他" level="1" label="論本第九"/><head>論本第九</head>
+<lb ed="X" n="0782b08"/><p id="pX45p0782b0801">十鬼名字隨用建立應觀察十五神名亦如是知如
+<lb ed="X" n="0782b09"/>是十十五之名字中各後一種在出現經中各初諸
+<lb ed="X" n="0782b10"/>名在隱藏經中言出現者謂摩訶般若如來正智經
+<lb ed="X" n="0782b11"/>彼隱藏經法不能見此中神&CB00057;外道經&CB00057;謂在十萬
+<lb ed="X" n="0782b12"/>六千偈阿羅羅&CB00499;尸那總明弟子經二百五十七卷
+<lb ed="X" n="0782b13"/>標揭那羅反云心識&CB14569;<note place="inline">音於呼反</note>&CB03094;<note place="inline">音那闇反</note><figure entity="FigX45p0782_01"/><note place="inline">音伊因反</note><figure entity="FigX45p0782_02"/><note place="inline">音毗入反</note>
+<lb ed="X" n="0782b14"/>&CB14591;<note place="inline">音隱天反</note><figure entity="FigX45p0782_03"/><note place="inline">音於阿反</note>&CB14574;<note place="inline">音弗八反</note>&CB18623;<note place="inline">音去言反</note><figure entity="FigX45p0782_04"/><note place="inline">音伊入反</note><figure entity="FigX45p0782_05"/><note place="inline">音阿含反</note><figure entity="FigX45p0782_06"/><note place="inline">音只
+<lb ed="X" n="0782b15"/>因反</note><figure entity="FigX45p0782_07"/><note place="inline">音伊允反</note>。</p></div1>
+<lb ed="X" n="0782b16"/><div1 type="other"><mulu type="其他" level="1" label="論本第十"/><head>論本第十</head>
+<lb ed="X" n="0782b17"/><p id="pX45p0782b1701">&CB01234;鍵訶尸闇室反云氣盛瓦爐阿那毗提人反云風
+<lb ed="X" n="0782b18"/>病婆多訶彌尸人反云無根。</p></div1>
+<lb ed="X" n="0782b19"/>
+<lb ed="X" n="0782b20"/><juan fun="close" n="1"><jhead>釋摩訶衍論記一卷</jhead></juan>
+<lb ed="X" n="0782b21"/>
+<lb ed="X" n="0782b22"/><div1 type="w"><div2 type="note"><entry><form>鈔</form><def><p id="pX45p0782b2202" place="inline" rend="margin-left:1em"><note place="inline">楚教楚交二切。強取也。掠也</note>。</p></def></entry><entry place="inline"><form>回</form><def><p id="pX45p0782b2214" place="inline" rend="margin-left:1em"><note place="inline">戶恢切。違也。轉也。邪也。又回中地名</note>愕<note place="inline">五各反也</note>。</p></def></entry></div2></div1>
+</body></text></TEI.2>

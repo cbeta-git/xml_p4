@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X02n0202.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 202 佛說大如意寶珠輪牛王守護神咒經</title>
+			<author>阿謨伽三藏譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.3 $ (Big5)<date>$Date: 2009/04/22 08:48:36 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:48:36 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 02, No. 202 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/10/03 16:20:55</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X02n0202.xml,v $
+Revision 1.3  2009/04/22 08:48:36  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.2  2007/05/30 10:58:36  eva
+modified: 校注作業
+
+Revision 1.1  2005/10/03 08:40:34  ray
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X02.0202.0878c" n="0878c"/>
+<lb ed="X" n="0878c01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0878c02"/>
+<lb ed="X" n="0878c03"/>
+<lb ed="X" n="0878c04"/>
+<lb ed="X" n="0878c05"/><head type="no">No. 202</head>
+<lb ed="X" n="0878c06"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>佛說大如意寶珠輪牛<note n="0878003" resp="Xuzangjing" place="foot text" type="orig">王異作玉巳下準之</note><note n="0878003" resp="CBETA" type="mod">王異作玉<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>下準之</note>王守護神&CB00057;經</jhead></juan>
+<lb ed="X" n="0878c07"/>
+<lb ed="X" n="0878c08"/><byline type="translator">阿謨伽三藏奉詔譯</byline>
+<lb ed="X" n="0878c09"/><div1><p id="pX02p0878c0901">如是我聞。一時佛在波羅捺鹿野園中。為阿若拘&CB00444;
+<lb ed="X" n="0878c10"/>等五人。轉四諦法輪。時會中有一天子。名曰牛<anchor id="fxX02p0878c02"/>王神。
+<lb ed="X" n="0878c11"/>即從座起。曲躬合掌。頂禮雙足而白佛言。世尊。我有
+<lb ed="X" n="0878c12"/>隨心自在萬事滿足神&CB00057;。及利益諸有情故。唯願世
+<lb ed="X" n="0878c13"/>尊。哀愍聽許我今欲說大神&CB00057;。爾時佛讚言。善哉速
+<lb ed="X" n="0878c14"/>可演說。我欲聞。是時天子即說&CB00057;曰。</p>
+<lb ed="X" n="0878c15"/><p id="pX02p0878c1501" type="dharani">唵悉底嚕悉底嚕<note place="inline">利</note>伴惹伴惹&CB17466;謨履底伽補瑟底
+<lb ed="X" n="0878c16"/>伽阿毗遮阿毗遮真多摩尼莎賀</p>
+<lb ed="X" n="0878c17"/><p id="pX02p0878c1701">時薄伽梵。聞說神&CB00057;。普觀一切。為諸有情利益安樂
+<lb ed="X" n="0878c18"/>故。而說偈言。</p>
+<lb ed="X" n="0878c19"/><lg id="lgX02p0878c1901"><l>世間諸眾生</l><l>逼切諸貧苦</l><l>雖求資有福</l>
+<lb ed="X" n="0878c20"/><l>施與諸眾生</l><l>令得無憂惱</l><l>術力勝諸獸</l>
+<lb ed="X" n="0878c21"/><l>哀愍諸眾生</l><l>施與諸珍寶</l><l>滿足諸希求</l>
+<lb ed="X" n="0878c22"/><l>齊等諸天眾</l><l>福力無等限</l></lg>
+<lb ed="X" n="0878c23"/><p id="pX02p0878c2301">時薄伽仙毗吉那仙以歡喜信樂心。奉獻種種香華
+<lb ed="X" n="0878c24"/>燈明。四事供養等。敬禮牛王神珠天。而說偈言。</p>
+<pb ed="X" id="X02.0202.0879a" n="0879a"/>
+<lb ed="X" n="0879a01"/><lg id="lgX02p0879a0101"><l>塗香華鬘及燒香</l><l>燈明飲食與錢帛</l>
+<lb ed="X" n="0879a02"/><l>奉獻牛<anchor id="fxX02p0879a01"/>王神獸天</l><l>納受悅預增勢力</l>
+<lb ed="X" n="0879a03"/><l>威德神通遍諸色</l><l>成種種色諸財寶</l>
+<lb ed="X" n="0879a04"/><l>施與一切眾生類</l><l>故我供養神獸天</l></lg>
+<lb ed="X" n="0879a05"/><p id="pX02p0879a0501">復次牛<anchor id="fxX02p0879a02"/>王珠天。白佛言世尊。若有諸善男子善女人。
+<lb ed="X" n="0879a06"/>受持此經者。彼獲幾所福德聚。如是說<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。佛告牛<anchor id="fxX02p0879a03"/>王
+<lb ed="X" n="0879a07"/>珠。受持此經典者。從初發心乃至成佛。身所有福德
+<lb ed="X" n="0879a08"/>聚。是善男子善女人福德聚。與彼正等。當如是知。彼
+<lb ed="X" n="0879a09"/>善男子善女人。從如來口生佛心之子。若是善男子
+<lb ed="X" n="0879a10"/>善女人所方所。即為有佛施作佛事。是故若樂摧破
+<lb ed="X" n="0879a11"/>魔軍利樂一切。是故汝等欲得一切如來真實智惠
+<lb ed="X" n="0879a12"/>者。應當一心讀誦此經。能速成就一切福德。又於題
+<lb ed="X" n="0879a13"/>名。有五種靈驗。何等為五。第一受持人。能摧破魔軍
+<lb ed="X" n="0879a14"/>眾。第二讀誦人。今世後世得福德無量。第三書寫供
+<lb ed="X" n="0879a15"/>養人。今世後世得消滅無量億劫之所犯罪。至阿鼻
+<lb ed="X" n="0879a16"/>拔致位。第四消除一切病苦壽命延長。第五得此寶
+<lb ed="X" n="0879a17"/>珠一闕之分。致供養祭讀誦恭敬者。生生世世。轉諸
+<lb ed="X" n="0879a18"/>貧苦報。能令得祕藏無盡果。爾時佛說此神&CB00057;經<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。
+<lb ed="X" n="0879a19"/>一切眾會。皆大歡喜。信受奉行。</p>
+<lb ed="X" n="0879a20"/><juan fun="close" n="1"><jhead>佛說大如意寶珠牛<anchor id="fxX02p0879a04"/>王守護神&CB00057;經</jhead></juan>
+<lb ed="X" n="0879a21"/><div2 type="w"><p id="pX02p0879a2101">元應二年十一月二十八日以快玄得業本寫之
+<lb ed="X" n="0879a22"/>竟</p><p id="pX02p0879a2202" place="inline" rend="margin-left:12em">金剛資賴心</p>
+<lb ed="X" n="0879a23"/><p id="pX02p0879a2301">此書尾城南真福密寺藏祕本東南院任瑜法親
+<lb ed="X" n="0879a24"/>王相傳之古本也。</p></div2></div1>
+</body></text></TEI.2>

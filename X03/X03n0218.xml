@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X03n0218.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 218 華嚴經入法界品十八問答</title>
+			<author>唐 澄觀述</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.3 $ (Big5)<date>$Date: 2009/04/22 08:48:44 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:48:44 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 03, No. 218 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/10/11 10:33:10</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X03n0218.xml,v $
+Revision 1.3  2009/04/22 08:48:44  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.2  2007/05/30 11:15:35  eva
+modified: 校注作業
+
+Revision 1.1  2005/10/11 02:40:54  ray
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X03.0218.0554b" n="0554b"/>
+<lb ed="X" n="0554b01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0554b02"/><head type="no">No. 218</head>
+<lb ed="X" n="0554b03"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>入法界品十八問答</jhead></juan>
+<lb ed="X" n="0554b04"/>
+<lb ed="X" n="0554b05"/><byline type="author">清涼國師述</byline>
+<lb ed="X" n="0554b06"/><div1><dialog type="qa"><sp type="question"><p id="pX03p0554b0601">問佛說此經要入師子嚬<note n="0554002" resp="Xuzangjing" place="foot text" type="orig">申異作伸次下同</note>申三昧者何。</p></sp><sp type="answer"><p id="pX03p0554b0616" place="inline">答嚬<anchor id="fxX03p0554b01"/>申者
+<lb ed="X" n="0554b07"/>即舒展通暢之狀亦是震動縱任自在無畏之相顯
+<lb ed="X" n="0554b08"/>如來定即用之體寂而造極則差別萬殊無非法界
+<lb ed="X" n="0554b09"/>即體之用不為而周故大小相參緣起無盡是曰自
+<lb ed="X" n="0554b10"/>在從喻為名故云是也。</p></sp></dialog>
+<lb ed="X" n="0554b11"/><dialog type="qa"><sp type="question"><p id="pX03p0554b1101">問何故佛入三昧後普賢開顯放光之後文殊述德。</p></sp>
+<lb ed="X" n="0554b12"/><sp type="answer"><p id="pX03p0554b1201">答入定顯理普賢表理故<note n="0554003" resp="Xuzangjing" place="foot text" type="orig">故恐衍文</note>故放光顯能證智文殊
+<lb ed="X" n="0554b13"/>表智故。</p></sp></dialog>
+<lb ed="X" n="0554b14"/><dialog type="qa"><sp type="question"><p id="pX03p0554b1401">問地獄天子尚得頓超何故二乘如聾如盲。</p></sp><sp type="answer"><p id="pX03p0554b1418" place="inline">答機
+<lb ed="X" n="0554b15"/>有勝劣為種別故地獄天子昔聞圓法植金剛種今
+<lb ed="X" n="0554b16"/>得遇光頓超十地二乘小器昔無大因故對如來不
+<lb ed="X" n="0554b17"/>&CB00418;神變其猶雷霆震地聾者不聞日月麗天盲者不
+<lb ed="X" n="0554b18"/>見。</p></sp></dialog>
+<lb ed="X" n="0554b19"/><dialog type="qa"><sp type="question"><p id="pX03p0554b1901">問逝多林佛入三昧作用無方可得稱經文殊從善
+<lb ed="X" n="0554b20"/>住樓閣出遊<note n="0554004" resp="Xuzangjing" place="foot text" type="orig">歷異無</note>歷人間既非佛會何得稱經。</p></sp><sp type="answer"><p id="pX03p0554b2017" place="inline">答文殊
+<lb ed="X" n="0554b21"/>從於本會流故雖遍法界而不離逝多林故末後善
+<lb ed="X" n="0554b22"/>財亦於金剛菩提場見普賢故以本統末故得稱經
+<lb ed="X" n="0554b23"/>展轉相推成&CB00424;鎖故。</p></sp></dialog>
+<lb ed="X" n="0554b24"/><dialog type="qa"><sp type="question"><p id="pX03p0554b2401">問何故要有五十五善友。</p></sp><sp type="answer"><p id="pX03p0554b2411" place="inline">答顯五相故云何五相
+<pb ed="X" id="X03.0218.0554c" n="0554c"/>
+<lb ed="X" n="0554c01"/>也一初四十一人明寄位修行相寄於五位顯修行
+<lb ed="X" n="0554c02"/>故二摩耶下十一人名會緣入實相會差別緣入幻
+<lb ed="X" n="0554c03"/>智故三彌勒一人名攝德成因相攝上二義為補處
+<lb ed="X" n="0554c04"/>因當得成佛故四文殊一人<note n="0554005" resp="Xuzangjing" place="foot text" type="orig">名異無</note>名智照無二相般若照
+<lb ed="X" n="0554c05"/>極反照初心無二相故五普賢一人名顯因廣大相
+<lb ed="X" n="0554c06"/>證入界一一行門皆稱法界無邊涯故。</p></sp></dialog>
+<lb ed="X" n="0554c07"/><dialog type="qa"><sp type="question"><p id="pX03p0554c0701">問何要五相。</p></sp><sp type="answer"><p id="pX03p0554c0706" place="inline">答顯菩薩五行故云何五行第一位
+<lb ed="X" n="0554c08"/>修行相名高行歷位漸行故二會緣入實相名大行
+<lb ed="X" n="0554c09"/>入一實故三攝德成因相名勝行具上差別無差別
+<lb ed="X" n="0554c10"/>故四智照無二相名深行甚深般若難測量故五顯
+<lb ed="X" n="0554c11"/>因廣大相名廣行一一之中含容無外故。</p></sp></dialog>
+<lb ed="X" n="0554c12"/><dialog type="qa"><sp type="question"><p id="pX03p0554c1201">問善財何以最初福城東遇文殊耶。</p></sp><sp type="answer"><p id="pX03p0554c1215" place="inline">答表福德分
+<lb ed="X" n="0554c13"/>善故故在福城東為群方之首故在東表初起智明
+<lb ed="X" n="0554c14"/>故信心創立故。</p></sp></dialog>
+<lb ed="X" n="0554c15"/><dialog type="qa"><sp type="question"><p id="pX03p0554c1501">問會中大機廣沙莫算何故偏舉善財一人。</p></sp><sp type="answer"><p id="pX03p0554c1518" place="inline">答舉
+<lb ed="X" n="0554c16"/>一例餘警未悟此小童子尚能頓超勉乎行人白首
+<lb ed="X" n="0554c17"/>愧故經云信樂堅固力善財成此功若有敬慕心亦
+<lb ed="X" n="0554c18"/>當如是學。</p></sp></dialog>
+<lb ed="X" n="0554c19"/><dialog type="qa"><sp type="question"><p id="pX03p0554c1901">問十方賢聖無處不有何要南方。</p></sp><sp type="answer"><p id="pX03p0554c1914" place="inline">答有所表故然
+<lb ed="X" n="0554c20"/>有多意一西<note n="0554006" resp="Xuzangjing" place="foot text" type="orig">城疑域</note>城人居宅多向東自東向南順日月轉
+<lb ed="X" n="0554c21"/>表於善財順人法故餘如別說。</p></sp></dialog>
+<lb ed="X" n="0554c22"/><dialog type="qa"><sp type="question"><p id="pX03p0554c2201">問何故文殊來就善財諸友善財往何求耶。</p></sp><sp type="answer"><p id="pX03p0554c2218" place="inline">答表
+<lb ed="X" n="0554c23"/>初心尚微故菩薩大悲不待請故後約機就為熏法
+<lb ed="X" n="0554c24"/>故乃至普賢知識不就善財不往而忽得見表法界
+<pb ed="X" id="X03.0218.0555a" n="0555a"/>
+<lb ed="X" n="0555a01"/>位滿無來去故。</p></sp></dialog>
+<lb ed="X" n="0555a02"/><dialog type="qa"><sp type="question"><p id="pX03p0555a0201">問諸善知識皆&CB00642;通達何要謙<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>知一推勝知多。</p></sp>
+<lb ed="X" n="0555a03"/><sp type="answer"><p id="pX03p0555a0301">答顯法界深故乃至多意略舉一二一者為後之軌
+<lb ed="X" n="0555a04"/>令善財求法無倦善友說法無&CB00385;故二顯勝緣須善
+<lb ed="X" n="0555a05"/>友故三破愚執自師心故四破宅慢今無偏執故五
+<lb ed="X" n="0555a06"/>顯佛法無有盡故不應言我<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>窮<note n="0555001" resp="Xuzangjing" place="foot text" type="orig">言疑玄</note>言妙攝他屬<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>不
+<lb ed="X" n="0555a07"/>欲推<note n="0555002" resp="Xuzangjing" place="foot text" type="orig">人異作之</note>人。</p></sp></dialog>
+<lb ed="X" n="0555a08"/><dialog type="qa"><sp type="question"><p id="pX03p0555a0801">問最初令見德雲法門無邊何以先明念佛三昧耶。</p></sp>
+<lb ed="X" n="0555a09"/><sp type="answer"><p id="pX03p0555a0901">答念佛三昧功高易進眾行先故通淺深能普收
+<lb ed="X" n="0555a10"/>攝故雙兼人法消重障故佛為勝緣即心即佛是一
+<lb ed="X" n="0555a11"/>境故。</p></sp></dialog>
+<lb ed="X" n="0555a12"/><dialog type="qa"><sp type="question"><p id="pX03p0555a1201">問第二海雲何故聞法復海中聞法耶。</p></sp><sp type="answer"><p id="pX03p0555a1216" place="inline">答前友見
+<lb ed="X" n="0555a13"/>佛次友聽法入要道故海中聞者表於教法從大悲
+<lb ed="X" n="0555a14"/>中之所<note n="0555003" resp="Xuzangjing" place="foot text" type="orig">&CB01576;與流同</note>&CB01576;故。</p></sp></dialog>
+<lb ed="X" n="0555a15"/><dialog type="qa"><sp type="question"><p id="pX03p0555a1501">問海雲說海中德何故與十地中名不同耶。</p></sp><sp type="answer"><p id="pX03p0555a1518" place="inline">答十
+<lb ed="X" n="0555a16"/>地表佛智海十地所依今辨大悲故不同也。</p></sp></dialog>
+<lb ed="X" n="0555a17"/><dialog type="qa"><sp type="question"><p id="pX03p0555a1701">問後文殊師利善財何故不見身相但見伸手耶。</p></sp>
+<lb ed="X" n="0555a18"/><sp type="answer"><p id="pX03p0555a1801">答表於智照離身相故而見手者表依信心得至此
+<lb ed="X" n="0555a19"/>故經云若離信心功行不具不得成就諸功德故。</p></sp></dialog>
+<lb ed="X" n="0555a20"/><dialog type="qa"><sp type="question"><p id="pX03p0555a2001">問見普賢時何以善財入其身中。</p></sp><sp type="answer"><p id="pX03p0555a2014" place="inline">答普賢表法界
+<lb ed="X" n="0555a21"/>善財證窮法界故。</p></sp></dialog>
+<lb ed="X" n="0555a22"/><dialog type="qa"><sp type="question"><p id="pX03p0555a2201">問普賢何以不令見佛耶。</p></sp><sp type="answer"><p id="pX03p0555a2211" place="inline">答表於果海離言說相
+<lb ed="X" n="0555a23"/>故又表善財今生解行至於後生聞果海故。</p></sp></dialog>
+<lb ed="X" n="0555a24"/><dialog type="qa"><sp type="question"><p id="pX03p0555a2401">問見五十五善知識那過一百一十城耶。</p></sp><sp type="answer"><p id="pX03p0555a2417" place="inline">答一人
+<pb ed="X" id="X03.0218.0555b" n="0555b"/>
+<lb ed="X" n="0555b01"/>當二分故謂自分是一推勝為二以城&CB00424;&CB02083;故又要
+<lb ed="X" n="0555b02"/>一百一十表十地等覺一一具十顯圓融故三賢未
+<lb ed="X" n="0555b03"/>證攝屬<note n="0555004" resp="Xuzangjing" place="foot text" type="orig">他異作地</note>他故。</p></sp></dialog>
+<lb ed="X" n="0555b04"/><juan fun="close" n="1"><jhead>入法界品十八問答<note place="inline">終</note></jhead></juan>
+<lb ed="X" n="0555b05"/>
+<lb ed="X" n="0555b06"/><div2 type="w"><p id="pX03p0555b0601">明治三十四年十一月十六日寫訖原本在於京
+<lb ed="X" n="0555b07"/>都府鳴瀧山藏中後以東大寺本校合。</p>
+<lb ed="X" n="0555b08"/><p id="pX03p0555b0801" rend="margin-left:8em">止舟齋主人慧雲含潤</p></div2></div1>
+</body></text></TEI.2>

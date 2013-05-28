@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X88n1666.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1666 佛祖心燈</title>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.3 $ (Big5)<date>$Date: 2009/04/22 09:07:53 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:07:53 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 88, No. 1666 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/01/10 13:58:02</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X88n1666.xml,v $
+Revision 1.3  2009/04/22 09:07:53  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.2  2005/01/14 08:44:43  eva
+modified: normal 比對修訂
+
+Revision 1.1  2005/01/10 06:24:02  edith
+no message
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X88.1666.0556c" n="0556c"/>
+<lb ed="X" n="0556c01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0556c02"/>
+<lb ed="X" n="0556c03"/>
+<lb ed="X" n="0556c04"/>
+<lb ed="X" n="0556c05"/>
+<lb ed="X" n="0556c06"/><head type="no">No. 1666</head>
+<lb ed="X" n="0556c07"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>佛祖心燈</jhead></juan>
+<lb ed="X" n="0556c08"/>
+<lb ed="X" n="0556c09"/><div1 type="other"><mulu type="其他" level="1" label="七佛偈"/><head>七佛偈</head>
+<lb ed="X" n="0556c10"/><div2 type="other"><mulu type="其他" level="2" label="毗婆尸佛(過去莊嚴劫第九百九十八尊)"/><head>毗婆尸佛<note place="inline">過去莊嚴劫第九百九十八尊</note></head>
+<lb ed="X" n="0556c11"/><lg id="lgX88p0556c1101"><l>身從無相中受生</l><l>猶如幻出諸形像</l>
+<lb ed="X" n="0556c12"/><l>幻人心識本來無</l><l>罪福皆空無所住</l></lg></div2>
+<lb ed="X" n="0556c13"/><div2 type="other"><mulu type="其他" level="2" label="尸棄佛(莊嚴劫第九百九十九尊)"/><head>尸棄佛<note place="inline">莊嚴劫第九百九十九尊</note></head>
+<lb ed="X" n="0556c14"/><lg id="lgX88p0556c1401"><l>起諸善法本是幻</l><l>造諸惡業亦是幻</l>
+<lb ed="X" n="0556c15"/><l>身如聚沫心如風</l><l>幻出無根無實性</l></lg></div2>
+<lb ed="X" n="0556c16"/><div2 type="other"><mulu type="其他" level="2" label="毗舍浮佛(過去莊嚴劫第一千尊)"/><head>毗舍浮佛<note place="inline">過去莊嚴劫第一千尊</note></head>
+<lb ed="X" n="0556c17"/><lg id="lgX88p0556c1701"><l>假借四大以為身</l><l>心本無生因境有</l>
+<lb ed="X" n="0556c18"/><l>前境若無心亦無</l><l>罪福如幻起亦滅</l></lg></div2>
+<lb ed="X" n="0556c19"/><div2 type="other"><mulu type="其他" level="2" label="拘留孫佛(現在賢劫第一尊)"/><head>拘留孫佛<note place="inline">現在賢劫第一尊</note></head>
+<lb ed="X" n="0556c20"/><lg id="lgX88p0556c2001"><l>見身無實是佛身</l><l>了心如幻是佛幻</l>
+<lb ed="X" n="0556c21"/><l>了得身心本性空</l><l>斯人與佛何殊別</l></lg></div2>
+<lb ed="X" n="0556c22"/><div2 type="other"><mulu type="其他" level="2" label="拘那含牟尼佛(賢劫第二尊)"/><head>拘那含牟尼佛<note place="inline">賢劫第二尊</note></head>
+<lb ed="X" n="0556c23"/><lg id="lgX88p0556c2301"><l>佛不見身知是佛</l><l>若是有知別無佛</l>
+<lb ed="X" n="0556c24"/><l>智者能知罪性空</l><l>坦然不怖於生死</l></lg></div2>
+<pb ed="X" id="X88.1666.0557a" n="0557a"/>
+<lb ed="X" n="0557a01"/><div2 type="other"><mulu type="其他" level="2" label="迦葉佛(賢劫第三尊)"/><head>迦葉佛<note place="inline">賢劫第三尊</note></head>
+<lb ed="X" n="0557a02"/><lg id="lgX88p0557a0201"><l>一切眾生心清淨</l><l>從本無生無可滅</l>
+<lb ed="X" n="0557a03"/><l>即此身心是幻生</l><l>幻化之中無罪福</l></lg></div2>
+<lb ed="X" n="0557a04"/><div2 type="other"><mulu type="其他" level="2" label="釋迦牟尼佛(賢劫第四尊)"/><head>釋迦牟尼佛<note place="inline">賢劫第四尊</note></head>
+<lb ed="X" n="0557a05"/><lg id="lgX88p0557a0501"><l>法本法無法</l><l>無法法亦法</l><l>今付無法時</l>
+<lb ed="X" n="0557a06"/><l>法法何曾法</l></lg></div2></div1>
+<lb ed="X" n="0557a07"/><div1 type="other"><mulu type="其他" level="1" label="三十三祖傳法偈"/><head>三十三祖傳法偈</head>
+<lb ed="X" n="0557a08"/><div2 type="other"><mulu type="其他" level="2" label="摩訶迦葉(天竺第一祖)"/><head>摩訶迦葉<note place="inline">天竺第一祖</note></head>
+<lb ed="X" n="0557a09"/><lg id="lgX88p0557a0901"><l>法法本來法</l><l>無法無非法</l><l>何於一法中</l>
+<lb ed="X" n="0557a10"/><l>有法有非法</l></lg></div2>
+<lb ed="X" n="0557a11"/><div2 type="other"><mulu type="其他" level="2" label="阿難(天竺第二祖)"/><head>阿難<note place="inline">天竺第二祖</note></head>
+<lb ed="X" n="0557a12"/><lg id="lgX88p0557a1201"><l>本來付有法</l><l>付了言無法</l><l>各各須自悟</l>
+<lb ed="X" n="0557a13"/><l>悟了無無法</l></lg></div2>
+<lb ed="X" n="0557a14"/><div2 type="other"><mulu type="其他" level="2" label="商那和修(天竺第三祖)"/><head>商那和修<note place="inline">天竺第三祖</note></head>
+<lb ed="X" n="0557a15"/><lg id="lgX88p0557a1501"><l>非法亦非心</l><l>無心亦無法</l><l>說是心法時</l>
+<lb ed="X" n="0557a16"/><l>是法非心法</l></lg></div2>
+<lb ed="X" n="0557a17"/><div2 type="other"><mulu type="其他" level="2" label="優婆＆CB00545；多(天竺第四祖)"/><head>優婆&CB00545;多<note place="inline">天竺第四祖</note></head>
+<lb ed="X" n="0557a18"/><lg id="lgX88p0557a1801"><l>心自本來心</l><l>本心非有法</l><l>有法有本心</l>
+<lb ed="X" n="0557a19"/><l>非心非本法</l></lg></div2>
+<lb ed="X" n="0557a20"/><div2 type="other"><mulu type="其他" level="2" label="提多迦(天竺第五祖)"/><head>提多迦<note place="inline">天竺第五祖</note></head>
+<lb ed="X" n="0557a21"/><lg id="lgX88p0557a2101"><l>通達本心法</l><l>無法無非法</l><l>悟了同未悟</l>
+<lb ed="X" n="0557a22"/><l>無心亦無法</l></lg></div2>
+<lb ed="X" n="0557a23"/><div2 type="other"><mulu type="其他" level="2" label="彌遮迦(天竺第六祖)"/><head>彌遮迦<note place="inline">天竺第六祖</note></head>
+<lb ed="X" n="0557a24"/><lg id="lgX88p0557a2401"><l>無心無可得</l><l>說得不名法</l><l>若了心非心</l>
+<pb ed="X" id="X88.1666.0557b" n="0557b"/>
+<lb ed="X" n="0557b01"/><l>始了心心法</l></lg></div2>
+<lb ed="X" n="0557b02"/><div2 type="other"><mulu type="其他" level="2" label="婆須蜜(天竺第七祖)"/><head>婆須蜜<note place="inline">天竺第七祖</note></head>
+<lb ed="X" n="0557b03"/><lg id="lgX88p0557b0301"><l>心同&CB00980;空界</l><l>示等&CB00980;空法</l><l>證得&CB00980;空時</l>
+<lb ed="X" n="0557b04"/><l>無是無非法</l></lg></div2>
+<lb ed="X" n="0557b05"/><div2 type="other"><mulu type="其他" level="2" label="佛陀難提(天竺第八祖)"/><head>佛陀難提<note place="inline">天竺第八祖</note></head>
+<lb ed="X" n="0557b06"/><lg id="lgX88p0557b0601"><l>&CB00980;空無內外</l><l>心法亦如此</l><l>若了&CB00980;空故</l>
+<lb ed="X" n="0557b07"/><l>是達真如理</l></lg></div2>
+<lb ed="X" n="0557b08"/><div2 type="other"><mulu type="其他" level="2" label="伏＆CB00501；蜜多(天竺第九祖)"/><head>伏&CB00501;蜜多<note place="inline">天竺第九祖</note></head>
+<lb ed="X" n="0557b09"/><lg id="lgX88p0557b0901"><l>真理不無名</l><l>因名顯真理</l><l>受得真實法</l>
+<lb ed="X" n="0557b10"/><l>非真亦非偽</l></lg></div2>
+<lb ed="X" n="0557b11"/><div2 type="other"><mulu type="其他" level="2" label="＆CB00169；尊者(天竺第十祖)"/><head>&CB00169;尊者<note place="inline">天竺第十祖</note></head>
+<lb ed="X" n="0557b12"/><lg id="lgX88p0557b1201"><l>真體自然真</l><l>因真說有理</l><l>領得真真法</l>
+<lb ed="X" n="0557b13"/><l>無行亦無止</l></lg></div2>
+<lb ed="X" n="0557b14"/><div2 type="other"><mulu type="其他" level="2" label="富那夜奢(第十一祖)"/><head>富那夜奢<note place="inline">第十一祖</note></head>
+<lb ed="X" n="0557b15"/><lg id="lgX88p0557b1501"><l>迷悟如隱顯</l><l>明暗不相離</l><l>今付隱顯法</l>
+<lb ed="X" n="0557b16"/><l>非一亦非二</l></lg></div2>
+<lb ed="X" n="0557b17"/><div2 type="other"><mulu type="其他" level="2" label="馬鳴大士(第十二祖)"/><head>馬鳴大士<note place="inline">第十二祖</note></head>
+<lb ed="X" n="0557b18"/><lg id="lgX88p0557b1801"><l>隱顯即本法</l><l>明暗元不二</l><l>今付悟了法</l>
+<lb ed="X" n="0557b19"/><l>非取亦非離</l></lg></div2>
+<lb ed="X" n="0557b20"/><div2 type="other"><mulu type="其他" level="2" label="迦毗摩羅(第十三祖)"/><head>迦毗摩羅<note place="inline">第十三祖</note></head>
+<lb ed="X" n="0557b21"/><lg id="lgX88p0557b2101"><l>非隱非顯法</l><l>說是真實際</l><l>悟此隱顯法</l>
+<lb ed="X" n="0557b22"/><l>非愚亦非智</l></lg></div2>
+<lb ed="X" n="0557b23"/><div2 type="other"><mulu type="其他" level="2" label="龍樹尊者(第十四祖)"/><head>龍樹尊者<note place="inline">第十四祖</note></head>
+<lb ed="X" n="0557b24"/><lg id="lgX88p0557b2401"><l>為明隱顯法</l><l>方說解脫理</l><l>於法心不證</l>
+<pb ed="X" id="X88.1666.0557c" n="0557c"/>
+<lb ed="X" n="0557c01"/><l>無瞋亦無喜</l></lg></div2>
+<lb ed="X" n="0557c02"/><div2 type="other"><mulu type="其他" level="2" label="迦那提婆(第十五祖)"/><head>迦那提婆<note place="inline">第十五祖</note></head>
+<lb ed="X" n="0557c03"/><lg id="lgX88p0557c0301"><l>本對傳法人</l><l>為說解脫理</l><l>於法實無證</l>
+<lb ed="X" n="0557c04"/><l>無終亦無始</l></lg></div2>
+<lb ed="X" n="0557c05"/><div2 type="other"><mulu type="其他" level="2" label="羅＆CB00264；羅多(第十六祖)"/><head>羅&CB00264;羅多<note place="inline">第十六祖</note></head>
+<lb ed="X" n="0557c06"/><lg id="lgX88p0557c0601"><l>於法實無證</l><l>不取亦不離</l><l>法非有無相</l>
+<lb ed="X" n="0557c07"/><l>內外云何起</l></lg></div2>
+<lb ed="X" n="0557c08"/><div2 type="other"><mulu type="其他" level="2" label="僧迦難提(第十七祖)"/><head>僧迦難提<note place="inline">第十七祖</note></head>
+<lb ed="X" n="0557c09"/><lg id="lgX88p0557c0901"><l>心地本無生</l><l>因地從緣起</l><l>緣種不相妨</l>
+<lb ed="X" n="0557c10"/><l>華果亦復爾</l></lg></div2>
+<lb ed="X" n="0557c11"/><div2 type="other"><mulu type="其他" level="2" label="伽耶舍多(第十八祖)"/><head>伽耶舍多<note place="inline">第十八祖</note></head>
+<lb ed="X" n="0557c12"/><lg id="lgX88p0557c1201"><l>有種有心地</l><l>因緣能發萌</l><l>於緣不相礙</l>
+<lb ed="X" n="0557c13"/><l>當生生不生</l></lg></div2>
+<lb ed="X" n="0557c14"/><div2 type="other"><mulu type="其他" level="2" label="鳩摩羅多(第十九祖)"/><head>鳩摩羅多<note place="inline">第十九祖</note></head>
+<lb ed="X" n="0557c15"/><lg id="lgX88p0557c1501"><l>性上本無生</l><l>為對求人說</l><l>於法既無得</l>
+<lb ed="X" n="0557c16"/><l>何懷決不決</l></lg></div2>
+<lb ed="X" n="0557c17"/><div2 type="other"><mulu type="其他" level="2" label="闍夜多(第二十祖)"/><head>闍夜多<note place="inline">第二十祖</note></head>
+<lb ed="X" n="0557c18"/><lg id="lgX88p0557c1801"><l>言下合無生</l><l>同於法界性</l><l>若能如是解</l>
+<lb ed="X" n="0557c19"/><l>通達事理境</l></lg></div2>
+<lb ed="X" n="0557c20"/><div2 type="other"><mulu type="其他" level="2" label="婆修盤頭(第二十一祖)"/><head>婆修盤頭<note place="inline">第二十一祖</note></head>
+<lb ed="X" n="0557c21"/><lg id="lgX88p0557c2101"><l>泡幻同無礙</l><l>如何不了悟</l><l>達法在其中</l>
+<lb ed="X" n="0557c22"/><l>非今亦非古</l></lg></div2>
+<lb ed="X" n="0557c23"/><div2 type="other"><mulu type="其他" level="2" label="摩拏羅(第二十二祖)"/><head>摩拏羅<note place="inline">第二十二祖</note></head>
+<lb ed="X" n="0557c24"/><lg id="lgX88p0557c2401"><l>心隨萬境轉</l><l>轉處實能幽</l><l>隨流認得性</l>
+<pb ed="X" id="X88.1666.0558a" n="0558a"/>
+<lb ed="X" n="0558a01"/><l>無喜復無憂</l></lg></div2>
+<lb ed="X" n="0558a02"/><div2 type="other"><mulu type="其他" level="2" label="＆CB15112；勒那(第二十三祖)"/><head>&CB15112;勒那<note place="inline">第二十三祖</note></head>
+<lb ed="X" n="0558a03"/><lg id="lgX88p0558a0301"><l>認得心性時</l><l>可說不思議</l><l>了了無可得</l>
+<lb ed="X" n="0558a04"/><l>得時不說知</l></lg></div2>
+<lb ed="X" n="0558a05"/><div2 type="other"><mulu type="其他" level="2" label="師子比丘(第二十四祖)"/><head>師子比丘<note place="inline">第二十四祖</note></head>
+<lb ed="X" n="0558a06"/><lg id="lgX88p0558a0601"><l>正說知見時</l><l>知見俱是心</l><l>當心即知見</l>
+<lb ed="X" n="0558a07"/><l>知見即於今</l></lg></div2>
+<lb ed="X" n="0558a08"/><div2 type="other"><mulu type="其他" level="2" label="婆舍斯多(第二十五祖)"/><head>婆舍斯多<note place="inline">第二十五祖</note></head>
+<lb ed="X" n="0558a09"/><lg id="lgX88p0558a0901"><l>聖人說知見</l><l>當境無是非</l><l>我今悟真性</l>
+<lb ed="X" n="0558a10"/><l>無道亦無理</l></lg></div2>
+<lb ed="X" n="0558a11"/><div2 type="other"><mulu type="其他" level="2" label="不如密多(第二十六祖)"/><head>不如密多<note place="inline">第二十六祖</note></head>
+<lb ed="X" n="0558a12"/><lg id="lgX88p0558a1201"><l>真性心地藏</l><l>無頭亦無尾</l><l>應緣而化物</l>
+<lb ed="X" n="0558a13"/><l>方便呼為智</l></lg></div2>
+<lb ed="X" n="0558a14"/><div2 type="other"><mulu type="其他" level="2" label="般若多羅(第二十七祖)"/><head>般若多羅<note place="inline">第二十七祖</note></head>
+<lb ed="X" n="0558a15"/><lg id="lgX88p0558a1501"><l>心地生諸種</l><l>因事復生理</l><l>果滿菩提圓</l>
+<lb ed="X" n="0558a16"/><l>華開世界起</l></lg></div2>
+<lb ed="X" n="0558a17"/><div2 type="other"><mulu type="其他" level="2" label="菩提達磨(西天第二十八祖中華初祖)"/><head>菩提達磨<note place="inline">西天第二十八祖中華初祖</note></head>
+<lb ed="X" n="0558a18"/><lg id="lgX88p0558a1801"><l>吾本來茲土</l><l>傳法救迷情</l><l>一華開五葉</l>
+<lb ed="X" n="0558a19"/><l>結果自然成</l></lg></div2>
+<lb ed="X" n="0558a20"/><div2 type="other"><mulu type="其他" level="2" label="慧可大師(第二十九祖中華二祖)"/><head>慧可大師<note place="inline">第二十九祖中華二祖</note></head>
+<lb ed="X" n="0558a21"/><lg id="lgX88p0558a2101"><l>本來緣有地</l><l>因地種華生</l><l>本來無有種</l>
+<lb ed="X" n="0558a22"/><l>華亦不曾生</l></lg></div2>
+<lb ed="X" n="0558a23"/><div2 type="other"><mulu type="其他" level="2" label="僧璨大師(第三十祖中華三祖)"/><head>僧璨大師<note place="inline">第三十祖中華三祖</note></head>
+<lb ed="X" n="0558a24"/><lg id="lgX88p0558a2401"><l>華種雖因地</l><l>從地種華生</l><l>若無人下種</l>
+<pb ed="X" id="X88.1666.0558b" n="0558b"/>
+<lb ed="X" n="0558b01"/><l>華地盡無生</l></lg></div2>
+<lb ed="X" n="0558b02"/><div2 type="other"><mulu type="其他" level="2" label="道信大師(第三十一祖中華四祖)"/><head>道信大師<note place="inline">第三十一祖中華四祖</note></head>
+<lb ed="X" n="0558b03"/><lg id="lgX88p0558b0301"><l>華種有生性</l><l>因地華生生</l><l>大緣與信合</l>
+<lb ed="X" n="0558b04"/><l>當生生不生</l></lg></div2>
+<lb ed="X" n="0558b05"/><div2 type="other"><mulu type="其他" level="2" label="弘忍大師(第三十二祖中華五祖)"/><head>弘忍大師<note place="inline">第三十二祖中華五祖</note></head>
+<lb ed="X" n="0558b06"/><lg id="lgX88p0558b0601"><l>有情來下種</l><l>因地果還生</l><l>無情既無種</l>
+<lb ed="X" n="0558b07"/><l>無性亦無生</l></lg></div2>
+<lb ed="X" n="0558b08"/><div2 type="other"><mulu type="其他" level="2" label="慧能大師(第三十三祖中華六祖)"/><head>慧能大師<note place="inline">第三十三祖中華六祖</note></head>
+<lb ed="X" n="0558b09"/><lg id="lgX88p0558b0901"><l>心地含諸種</l><l>普雨悉皆生</l><l>頓悟華情<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app></l>
+<lb ed="X" n="0558b10"/><l>菩提果自成</l></lg></div2></div1>
+<lb ed="X" n="0558b11"/>
+<lb ed="X" n="0558b12"/>
+<lb ed="X" n="0558b13"/>
+<lb ed="X" n="0558b14"/><div1 type="other"><mulu type="其他" level="1" label="佛祖源流訣"/><head>佛祖源流訣</head>
+<lb ed="X" n="0558b15"/><lg id="lgX88p0558b1501"><l>迦文迦葉阿難商</l><l>優波&CB00545;多與提多</l>
+<lb ed="X" n="0558b16"/><l>彌迦婆須佛&CB00501;伏</l><l>&CB00169;富馬鳴迦毗摩</l>
+<lb ed="X" n="0558b17"/><l>龍樹迦那於羅&CB00264;</l><l>僧伽伽耶鳩摩羅</l>
+<lb ed="X" n="0558b18"/><l>闍夜婆修摩拏&CB15112;</l><l>師子婆舍不如般</l>
+<lb ed="X" n="0558b19"/><l>達磨傳於東土後</l><l>慧僧道弘慧之他</l></lg></div1>
+<lb ed="X" n="0558b20"/>
+<lb ed="X" n="0558b21"/>
+<lb ed="X" n="0558b22"/>
+<lb ed="X" n="0558b23"/>
+<lb ed="X" n="0558b24"/>
+<pb ed="X" id="X88.1666.0558c" n="0558c"/>
+<lb ed="X" n="0558c01"/><div1 type="other"><mulu type="其他" level="1" label="五宗次序譜"/><head>五宗次序譜</head>
+<lb ed="X" n="0558c02"/><list><item id="itemX88p0558c0201">六祖能<note place="inline">第一</note>
+<lb ed="X" n="0558c03"/><list><item id="itemX88p0558c0301">南嶽讓
+<lb ed="X" n="0558c04"/><list><item id="itemX88p0558c0401">馬祖一
+<lb ed="X" n="0558c05"/><list><item id="itemX88p0558c0501">百丈海
+<lb ed="X" n="0558c06"/><list><item id="itemX88p0558c0601"><note place="inline">五世</note>溈山祐
+<lb ed="X" n="0558c07"/><list><item id="itemX88p0558c0701"><note place="inline">六世</note>仰山寂</item></list></item>
+<lb ed="X" n="0558c08"/><item id="itemX88p0558c0801">黃檗運
+<lb ed="X" n="0558c09"/><list><item id="itemX88p0558c0901"><note place="inline">六世</note>臨濟玄</item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0558c10"/><item id="itemX88p0558c1001">青原思
+<lb ed="X" n="0558c11"/><list><item id="itemX88p0558c1101">石頭遷
+<lb ed="X" n="0558c12"/><list><item id="itemX88p0558c1201">藥山儼
+<lb ed="X" n="0558c13"/><list><item id="itemX88p0558c1301">雲巖晟
+<lb ed="X" n="0558c14"/><list><item id="itemX88p0558c1401"><note place="inline">六世</note>洞山价
+<lb ed="X" n="0558c15"/><list><item id="itemX88p0558c1501">雲居膺</item>
+<lb ed="X" n="0558c16"/><item id="itemX88p0558c1601"><note place="inline">七世</note>曹山寂</item></list></item></list></item></list></item>
+<lb ed="X" n="0558c17"/><item id="itemX88p0558c1701">天皇悟
+<lb ed="X" n="0558c18"/><list><item id="itemX88p0558c1801">龍潭信
+<lb ed="X" n="0558c19"/><list><item id="itemX88p0558c1901">德山鑑
+<lb ed="X" n="0558c20"/><list><item id="itemX88p0558c2001">雪峰存
+<lb ed="X" n="0558c21"/><list><item id="itemX88p0558c2101"><note place="inline">八世</note>雲門偃</item>
+<lb ed="X" n="0558c22"/><item id="itemX88p0558c2201">玄沙備
+<lb ed="X" n="0558c23"/><list><item id="itemX88p0558c2301">地藏琛
+<lb ed="X" n="0558c24"/><list><item id="itemX88p0558c2401"><note place="inline">十世</note>法眼益</item></list></item></list></item></list></item></list></item></list></item></list></item></list></item></list></item></list></item></list></div1>
+</body></text></TEI.2>

@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X74n1491.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1491 禮舍利塔儀式</title>
+			<author>清 弘贊編</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.10 $ (Big5)<date>$Date: 2009/04/22 09:04:28 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:04:28 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 74, No. 1491 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2005/05/19 13:54:21</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X74n1491.xml,v $
+Revision 1.10  2009/04/22 09:04:28  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.9  2005/11/30 06:34:50  amtbgrace
+modified: 執行全部 mulu.py, 取消自訂目錄的全形括號
+
+Revision 1.8  2005/06/21 11:33:02  eva
+modified: 行中Ｉ轉錯修訂
+
+Revision 1.7  2005/06/07 11:21:46  eva
+modified: 目錄檢查修訂
+
+Revision 1.6  2005/06/06 06:23:27  eva
+modified: 依 note.txt 修訂
+
+Revision 1.5  2005/05/19 06:00:02  edith
+全部重轉
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X74.1491.0627a" n="0627a"/>
+<lb ed="X" n="0627a01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0627a02"/>
+<lb ed="X" n="0627a03"/>
+<lb ed="X" n="0627a04"/>
+<lb ed="X" n="0627a05"/><head type="no">No. 1491</head>
+<lb ed="X" n="0627a06"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>禮舍利塔儀式</jhead></juan>
+<lb ed="X" n="0627a07"/>
+<lb ed="X" n="0627a08"/><byline type="collector">&CB15470;東鼎湖山沙門釋　弘贊在&CB16361;　編</byline>
+<lb ed="X" n="0627a09"/><div1 type="other"><mulu type="其他" level="1" label="前文"/><p id="pX74p0627a0901" rend="margin-left:1em">梵語舍利。亦云室利羅。又云設利羅。乃梵音輕重
+<lb ed="X" n="0627a10"/>之詳略。華言靈骨。是釋迦如來遺身。大如麻豆粟
+<lb ed="X" n="0627a11"/>粒。瑩粹絕倫。色具三種。於一色中。能現種種光明。
+<lb ed="X" n="0627a12"/>其骨者色白。髮者色黑。肉者色赤。菩薩羅漢。皆有
+<lb ed="X" n="0627a13"/>三種。若佛舍利。槌擊不破。弟子舍利。槌試即碎。良
+<lb ed="X" n="0627a14"/>由如來於無量劫中。戒定慧熏修所成。甚為難得。
+<lb ed="X" n="0627a15"/>百劫千生。難可值遇。昔者如來示般涅槃。以大悲
+<lb ed="X" n="0627a16"/>力。自湧三昧之火。碎金剛體。為末舍利。施諸眾生
+<lb ed="X" n="0627a17"/>而作最上福田。一瞻一禮。滅無量罪。生無量福。一
+<lb ed="X" n="0627a18"/>香一華。永作三乘道因。但今時禮敬。罔諳教法。多
+<lb ed="X" n="0627a19"/>乖儀則。唯知稱名。不曉讚德。然稱名。但聽其名。寧
+<lb ed="X" n="0627a20"/>識其智之高下。讚歎。即具陳其德。名乃體德之弘
+<lb ed="X" n="0627a21"/>深。德本顯名之所實。本行經云。正使化無數億人。
+<lb ed="X" n="0627a22"/>皆成辟支佛。若人百歲。四事供養。功德甚多。不如
+<lb ed="X" n="0627a23"/>有人。以歡喜心。一四句偈讚歎。功德無量。又善戒
+<lb ed="X" n="0627a24"/>經云。以四天下七寶。供養於佛。復有以欣重心。讚
+<pb ed="X" id="X74.1491.0627b" n="0627b"/>
+<lb ed="X" n="0627b01"/>歎如來。是二福德。等無差別。文殊菩薩說偈歎佛
+<lb ed="X" n="0627b02"/>云。我禮一切佛。調御無等雙。丈六真法身。亦禮於
+<lb ed="X" n="0627b03"/>佛塔。生處得道處。法輪涅槃處。行住坐臥處。一切
+<lb ed="X" n="0627b04"/>皆悉禮。諸佛不思議。妙法亦如是。能信及果報。亦
+<lb ed="X" n="0627b05"/>不可思議。能以此伽陀。讚歎如來者。於千萬億劫。
+<lb ed="X" n="0627b06"/>不墮諸惡趣。是故西天凡所禮敬。盛興讚頌。然經
+<lb ed="X" n="0627b07"/>論中。教用諸佛菩薩。所說之偈。以為讚歎。恐自智
+<lb ed="X" n="0627b08"/>識未充。見聞不廣。詞義失旨。至於事理有違。今此
+<lb ed="X" n="0627b09"/>特及經論中偈頌讚禮。其所未備者。謹述諸經之
+<lb ed="X" n="0627b10"/>義。結而為頌。以伸讚詠也。條列六法。初香讚。二持
+<lb ed="X" n="0627b11"/>&CB00057;。三修供養。四讚禮。五讚歎旋繞。六發願回向。</p></div1>
+<lb ed="X" n="0627b12"/><div1 type="other"><mulu type="其他" level="1" label="香讚"/><head>○香讚</head><p id="pX74p0627b1204" place="inline" rend="margin-left:1em"><note place="inline">如常可知</note>。</p></div1>
+<lb ed="X" n="0627b13"/><div1 type="other"><mulu type="其他" level="1" label="持＆CB00057；"/><head>○持&CB00057;</head><p id="pX74p0627b1304" place="inline" rend="margin-left:1em"><note place="inline">大悲&CB00057;心經。或兼十&CB00057;。若祝延。隨時當作</note>。</p></div1>
+<lb ed="X" n="0627b14"/><div1 type="other"><mulu type="其他" level="1" label="修供養"/><head>○修供養</head><p id="pX74p0627b1405" place="inline" rend="margin-left:1em"><note place="inline">若眾同禮。首者唱言</note>。</p>
+<lb ed="X" n="0627b15"/><p id="pX74p0627b1501" rend="margin-left:1em">一切恭謹<note place="inline">一者普及之詞。切者盡際為語。在身為恭。在心為謹。即束身翹仰。尊賢重德曰
+<lb ed="X" n="0627b16"/>恭。肅心&CB05418;敬信念專注日謹。唱<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。禮三寶。稱云</note>。</p>
+<lb ed="X" n="0627b17"/><list><item id="itemX74p0627b1701">一心頂禮十方常住三寶<note place="inline">如是一禮<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。燒首獻眾名華。首者唱言</note></item></list>
+<lb ed="X" n="0627b18"/><p id="pX74p0627b1801" rend="margin-left:1em">是諸眾等。各各胡跪。嚴持香華。如法供養。</p>
+<lb ed="X" n="0627b19"/><lg id="lgX74p0627b1901"><l>願此香華雲</l><l>&CB00642;滿十方界</l><l>一一諸佛土</l>
+<lb ed="X" n="0627b20"/><l>無量香莊嚴</l><l>具足菩薩道</l><l>成就如來香</l></lg>
+<lb ed="X" n="0627b21"/><p id="pX74p0627b2101" rend="margin-left:1em"><note place="inline">唱<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。能觀想五塵供養大善。若自禮。不誦上香讚&CB00057;。亦得。即從此香偈起。或眾同禮時。誦如常香偈隨意。
+<lb ed="X" n="0627b22"/>但改天仙為諸獨覺仙。或諸持明。皆可也</note>供養<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。一切恭謹。</p></div1>
+<lb ed="X" n="0627b23"/><div1 type="other"><mulu type="其他" level="1" label="讚禮"/><head>○讚禮</head><p id="pX74p0627b2304" place="inline" rend="margin-left:1em"><note place="inline">先申讚歎。次稱德號</note>。</p>
+<lb ed="X" n="0627b24"/><lg id="lgX74p0627b2401"><l>稽首一切出世間</l><l>三界最尊功德海</l>
+<pb ed="X" id="X74.1491.0627c" n="0627c"/>
+<lb ed="X" n="0627c01"/><l>智者能燒煩惱垢</l><l>正覺我今歸命禮</l></lg>
+<lb ed="X" n="0627c02"/><list><item id="itemX74p0627c0201">一心頂禮十方盡&CB00980;空界一切諸佛</item></list>
+<lb ed="X" n="0627c03"/><lg id="lgX74p0627c0301"><l>稽首能&CB15072;生死險</l><l>普竭憂惱貪癡海</l>
+<lb ed="X" n="0627c04"/><l>破彼塵勞罪業山</l><l>我今歸禮妙法寶</l></lg>
+<lb ed="X" n="0627c05"/><list><item id="itemX74p0627c0501">一心頂禮十方盡空&CB00980;界一切尊法</item></list>
+<lb ed="X" n="0627c06"/><lg id="lgX74p0627c0601"><l>稽首一切佛稱讚</l><l>八正萬行作莊嚴</l>
+<lb ed="X" n="0627c07"/><l>無為定慧漸圓明</l><l>我今歸禮聖眾寶</l></lg>
+<lb ed="X" n="0627c08"/><list><item id="itemX74p0627c0801">一心頂禮十方盡&CB00980;空界一切賢聖僧</item></list>
+<lb ed="X" n="0627c09"/><lg id="lgX74p0627c0901"><l>我今稽首法身佛</l><l>無喻難思普&CB00642;智</l>
+<lb ed="X" n="0627c10"/><l>充滿法界無障礙</l><l>湛然寂靜無等等</l>
+<lb ed="X" n="0627c11"/><l>非有非無性真實</l><l>亦非多少離數量</l>
+<lb ed="X" n="0627c12"/><l>平等無相若&CB00980;空</l><l>福利自他亦如是</l></lg>
+<lb ed="X" n="0627c13"/><list><item id="itemX74p0627c1301">一心頂禮清淨法身毗盧遮那佛</item></list>
+<lb ed="X" n="0627c14"/><lg id="lgX74p0627c1401"><l>我今稽首報身佛</l><l>湛然安住大牟尼</l>
+<lb ed="X" n="0627c15"/><l>哀愍化度菩薩眾</l><l>處會如日而普照</l>
+<lb ed="X" n="0627c16"/><l>三祇積集諸功德</l><l>始能圓滿寂靜道</l>
+<lb ed="X" n="0627c17"/><l>以大音聲談妙法</l><l>普令獲得平等果</l></lg>
+<lb ed="X" n="0627c18"/><list><item id="itemX74p0627c1801">一心頂禮圓滿報身盧舍那佛</item></list>
+<lb ed="X" n="0627c19"/><lg id="lgX74p0627c1901"><l>我今稽首化身佛</l><l>菩提樹下成正覺</l>
+<lb ed="X" n="0627c20"/><l>或起變現或寂靜</l><l>或復往化於十方</l>
+<lb ed="X" n="0627c21"/><l>或轉法輪於鹿苑</l><l>或現大光如火聚</l>
+<lb ed="X" n="0627c22"/><l>三途苦果悉能除</l><l>三界無比大牟尼</l></lg>
+<lb ed="X" n="0627c23"/><list><item id="itemX74p0627c2301">一心頂禮千百億化身釋迦牟尼世尊</item></list>
+<lb ed="X" n="0627c24"/><lg id="lgX74p0627c2401"><l>百劫熏修功<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>滿</l><l>三祇樹德體中圓</l>
+<pb ed="X" id="X74.1491.0628a" n="0628a"/>
+<lb ed="X" n="0628a01"/><l>藍毗尼園降聖質</l><l>九龍敬浴吐香泉</l></lg>
+<lb ed="X" n="0628a02"/><list><item id="itemX74p0628a0201">一心頂禮藍毗尼園中示現降生釋迦牟尼世尊</item></list>
+<lb ed="X" n="0628a03"/><lg id="lgX74p0628a0301"><l>菩提樹下跏趺坐</l><l>身意寂然安不動</l>
+<lb ed="X" n="0628a04"/><l>深入那伽金剛定</l><l>忽&CB00418;明星成正覺</l></lg>
+<lb ed="X" n="0628a05"/><list><item id="itemX74p0628a0501">一心頂禮菩提樹下初成正覺釋迦牟尼世尊</item></list>
+<lb ed="X" n="0628a06"/><lg id="lgX74p0628a0601"><l>梵釋諸天三致請</l><l>鹿園初轉頻伽聲</l>
+<lb ed="X" n="0628a07"/><l>陳如首證甘露法</l><l>十千天子悟無生</l></lg>
+<lb ed="X" n="0628a08"/><list><item id="itemX74p0628a0801">一心頂禮鹿野苑中初轉法輪釋迦牟尼世尊</item></list>
+<lb ed="X" n="0628a09"/><lg id="lgX74p0628a0901"><l>毗盧體性非生滅</l><l>為顯真常示涅槃</l>
+<lb ed="X" n="0628a10"/><l>慧日慈光纔罷照</l><l>娑羅雙樹覆金顏</l></lg>
+<lb ed="X" n="0628a11"/><list><item id="itemX74p0628a1101">一心頂禮娑羅雙樹間示大涅槃釋迦牟尼世尊</item></list>
+<lb ed="X" n="0628a12"/><lg id="lgX74p0628a1201"><l>白&CB00626;千重周聖體</l><l>眾香樓上炳金棺</l>
+<lb ed="X" n="0628a13"/><l>寶瓶瀉乳光燦爛</l><l>妙德莊嚴身逾堅</l></lg>
+<lb ed="X" n="0628a14"/><list><item id="itemX74p0628a1401">一心頂禮天冠塔邊闍維金身釋迦牟尼世尊</item></list>
+<lb ed="X" n="0628a15"/><lg id="lgX74p0628a1501"><l>如來悲願碎金體</l><l>舍利流光照大千</l>
+<lb ed="X" n="0628a16"/><l>八斛四斗非數量</l><l>一瞻一禮福慧圓</l></lg>
+<lb ed="X" n="0628a17"/><list><item id="itemX74p0628a1701">一心頂禮分身粟粒舍利釋迦牟尼世尊</item></list>
+<lb ed="X" n="0628a18"/><lg id="lgX74p0628a1801"><l>諸王競集諍舍利</l><l>梵志善為八國分</l>
+<lb ed="X" n="0628a19"/><l>各歸本土建浮圖</l><l>永作三乘出世因</l></lg>
+<lb ed="X" n="0628a20"/><list><item id="itemX74p0628a2001">一心頂禮閻浮提中八國浮圖釋迦牟尼世尊</item></list>
+<lb ed="X" n="0628a21"/><lg id="lgX74p0628a2101"><l>如來滅度百年後</l><l>育王出世悟前緣</l>
+<lb ed="X" n="0628a22"/><l>遍滿閻浮建寶塔</l><l>普與人間作敬田</l></lg>
+<lb ed="X" n="0628a23"/><list><item id="itemX74p0628a2301">一心頂禮阿育王所建八萬四千制底釋迦牟尼世
+<lb ed="X" n="0628a24"/>尊</item></list>
+<pb ed="X" id="X74.1491.0628b" n="0628b"/>
+<lb ed="X" n="0628b01"/><lg id="lgX74p0628b0101"><l>子夜踰城辭愛網</l><l>&CB02494;伽林下斷青螺</l>
+<lb ed="X" n="0628b02"/><l>天帝接歸眾車苑</l><l>寶建千層窣堵波</l></lg>
+<lb ed="X" n="0628b03"/><list><item id="itemX74p0628b0301">一心頂禮忉利天上眾車苑中如來髮舍利釋迦牟
+<lb ed="X" n="0628b04"/>尼世尊</item></list>
+<lb ed="X" n="0628b05"/><lg id="lgX74p0628b0501"><l>歡喜園中妙寶塔</l><l>中供調御世尊牙</l>
+<lb ed="X" n="0628b06"/><l>諸天時共瞻敬仰</l><l>衰相滅時福慧加</l></lg>
+<lb ed="X" n="0628b07"/><list><item id="itemX74p0628b0701">一心頂禮忉利天上歡喜園中如來牙舍利釋迦牟
+<lb ed="X" n="0628b08"/>尼世尊</item></list>
+<lb ed="X" n="0628b09"/><lg id="lgX74p0628b0901"><l>諸佛舍利盈海藏</l><l>釋師子者復難思</l>
+<lb ed="X" n="0628b10"/><l>娑竭龍王集眾寶</l><l>與諸眷屬立支提</l></lg>
+<lb ed="X" n="0628b11"/><list><item id="itemX74p0628b1101">一心頂禮娑竭羅龍王宮中窣堵波釋迦牟尼世尊</item></list>
+<lb ed="X" n="0628b12"/><lg id="lgX74p0628b1201"><l>僧會法師奉吳命</l><l>三七晝夜禮殷誠</l>
+<lb ed="X" n="0628b13"/><l>感佛舍利從空降</l><l>五色祥光湧自瓶</l></lg>
+<lb ed="X" n="0628b14"/><list><item id="itemX74p0628b1401">一心頂禮金陵報恩窣堵波釋迦牟尼世尊</item></list>
+<lb ed="X" n="0628b15"/><lg id="lgX74p0628b1501"><l>耶舍定中見匡嶽</l><l>一峰光湧是金輪</l>
+<lb ed="X" n="0628b16"/><l>親捧舍利來於此</l><l>建立浮圖作寶津</l></lg>
+<lb ed="X" n="0628b17"/><list><item id="itemX74p0628b1701">一心頂禮匡山金輪蜂上窣堵波釋迦牟尼世尊</item></list>
+<lb ed="X" n="0628b18"/><lg id="lgX74p0628b1801"><l>大地眾山奇勝處</l><l>鼎湖秀出寶蓮峰</l>
+<lb ed="X" n="0628b19"/><l>雲駢樹舞浮圖現</l><l>萬古舒光福&CB15470;中</l></lg>
+<lb ed="X" n="0628b20"/><list><item id="itemX74p0628b2001">一心頂禮天湖山中青&CB05033;浮圖釋迦牟尼世尊</item></list>
+<lb ed="X" n="0628b21"/><lg id="lgX74p0628b2101"><l>象林福地銀河繞</l><l>紫氣騰光湧瑞蓮</l>
+<lb ed="X" n="0628b22"/><l>靈石飛來成寶塔</l><l>人天從此建津梁</l></lg>
+<lb ed="X" n="0628b23"/><list><item id="itemX74p0628b2301">一心頂禮寶象林中瑞石浮圖釋迦牟尼世尊</item></list>
+<lb ed="X" n="0628b24"/><p id="pX74p0628b2401" rend="margin-left:1em"><note place="inline">若後有建立如來舍利塔者。當入此間禮拜。惟論建立之前後。勿論塔之優劣勝負。皆同一如來舍利故
+<pb ed="X" id="X74.1491.0628c" n="0628c"/>
+<lb ed="X" n="0628c01"/>也</note></p>
+<lb ed="X" n="0628c02"/><lg id="lgX74p0628c0201"><l>如來大誓運無窮</l><l>德相巍巍寶塔中</l>
+<lb ed="X" n="0628c03"/><l>八面玲瓏光眾色</l><l>法華會上湧&CB00980;空</l></lg>
+<lb ed="X" n="0628c04"/><list><item id="itemX74p0628c0401">一心頂禮過去多寶如來分身諸佛世尊</item></list>
+<lb ed="X" n="0628c05"/><lg id="lgX74p0628c0501"><l>眾德嚴身非數量</l><l>光明遍照過十方</l>
+<lb ed="X" n="0628c06"/><l>三世如來無與等</l><l>恒施眾生大慈航</l></lg>
+<lb ed="X" n="0628c07"/><list><item id="itemX74p0628c0701">一心頂禮西方極樂世界阿彌陀世尊</item></list>
+<lb ed="X" n="0628c08"/><lg id="lgX74p0628c0801"><l>世界猶如淨滿月</l><l>佛身光徹若&CB00222;璃</l>
+<lb ed="X" n="0628c09"/><l>普施甘露息眾苦</l><l>十二大願應&CB00320;機</l></lg>
+<lb ed="X" n="0628c10"/><list><item id="itemX74p0628c1001">一心頂禮東方滿月世界藥師琉璃光世尊</item></list>
+<lb ed="X" n="0628c11"/><lg id="lgX74p0628c1101"><l>大士久成等正覺</l><l>成熟有情居兜率</l>
+<lb ed="X" n="0628c12"/><l>晝夜常轉不退輪</l><l>龍華三會度無極</l></lg>
+<lb ed="X" n="0628c13"/><list><item id="itemX74p0628c1301">一心頂禮當來下生彌勒世尊</item></list>
+<lb ed="X" n="0628c14"/><lg id="lgX74p0628c1401"><l>三世如來之導師</l><l>智願廣大難思議</l>
+<lb ed="X" n="0628c15"/><l>無邊剎海為國土</l><l>當來普現善逝尊</l></lg>
+<lb ed="X" n="0628c16"/><list><item id="itemX74p0628c1601">一心頂禮文殊師利菩薩摩訶薩</item></list>
+<lb ed="X" n="0628c17"/><lg id="lgX74p0628c1701"><l>六牙白象為寶座</l><l>諸度萬行作嚬呻</l>
+<lb ed="X" n="0628c18"/><l>華藏世界稱長子</l><l>十方剎土現全身</l></lg>
+<lb ed="X" n="0628c19"/><list><item id="itemX74p0628c1901">一心頂禮普賢菩薩摩訶薩</item></list>
+<lb ed="X" n="0628c20"/><lg id="lgX74p0628c2001"><l>寶冠頂佛因帶果</l><l>過去法明天人師</l>
+<lb ed="X" n="0628c21"/><l>悲願運為千手眼</l><l>照護&CB00320;生不失時</l></lg>
+<lb ed="X" n="0628c22"/><list><item id="itemX74p0628c2201">一心頂禮觀世音菩薩摩訶薩</item></list>
+<lb ed="X" n="0628c23"/><lg id="lgX74p0628c2301"><l>頂上寶瓶現佛事</l><l>一毛孔中見十方</l>
+<lb ed="X" n="0628c24"/><l>舉足震驚諸國土</l><l>普攝淨人歸樂&CB15131;</l></lg>
+<pb ed="X" id="X74.1491.0629a" n="0629a"/>
+<lb ed="X" n="0629a01"/><list><item id="itemX74p0629a0101">一心頂禮大勢至菩薩摩訶薩</item></list>
+<lb ed="X" n="0629a02"/><lg id="lgX74p0629a0201"><l>悲願初從救親起</l><l>分身&CB00642;度孰能量</l>
+<lb ed="X" n="0629a03"/><l>地獄未空不成佛</l><l>我今稽首大誓王</l></lg>
+<lb ed="X" n="0629a04"/><list><item id="itemX74p0629a0401">一心頂禮地藏菩薩摩訶薩</item></list>
+<lb ed="X" n="0629a05"/><lg id="lgX74p0629a0501"><l>頂上寶珠金光耀</l><l>滅除眾生罪如空</l>
+<lb ed="X" n="0629a06"/><l>我今稽首懺摩主</l><l>三障頓消福慧融</l></lg>
+<lb ed="X" n="0629a07"/><list><item id="itemX74p0629a0701">一心頂禮&CB00980;空藏菩薩摩訶薩</item></list>
+<lb ed="X" n="0629a08"/><lg id="lgX74p0629a0801"><l>六度萬行為瓔珞</l><l>八正四智以瑩儀</l>
+<lb ed="X" n="0629a09"/><l>遊戲如來華藏海</l><l>恒與眾生作導師</l></lg>
+<lb ed="X" n="0629a10"/><list><item id="itemX74p0629a1001">一心頂禮遍法界&CB00980;空界一切海會菩薩摩訶薩</item></list>
+<lb ed="X" n="0629a11"/><lg id="lgX74p0629a1101"><l>德相端嚴如金聚</l><l>頭陀苦行自終身</l>
+<lb ed="X" n="0629a12"/><l>親傳如來正法眼</l><l>雞足山中待慈尊</l></lg>
+<lb ed="X" n="0629a13"/><list><item id="itemX74p0629a1301">一心頂禮大德摩訶迦葉波尊者</item></list>
+<lb ed="X" n="0629a14"/><lg id="lgX74p0629a1401"><l>得度身先八王子</l><l>楞嚴會上證圓通</l>
+<lb ed="X" n="0629a15"/><l>弘揚律教毗尼藏</l><l>佛法由斯住世隆</l></lg>
+<lb ed="X" n="0629a16"/><list><item id="itemX74p0629a1601">一心頂禮大德優波離尊者</item></list>
+<lb ed="X" n="0629a17"/><lg id="lgX74p0629a1701"><l>多聞眾中稱第一</l><l>證道身離四威儀</l>
+<lb ed="X" n="0629a18"/><l>結集如來正法藏</l><l>永作人天度世師</l></lg>
+<lb ed="X" n="0629a19"/><list><item id="itemX74p0629a1901">一心頂禮大德阿難陀尊者廣及十方三世一切聲
+<lb ed="X" n="0629a20"/>聞緣覺聖眾</item></list></div1>
+<lb ed="X" n="0629a21"/><div1 type="other"><mulu type="其他" level="1" label="讚歎旋遶"/><head>○讚歎旋遶</head><p id="pX74p0629a2106" place="inline" rend="margin-left:1em"><note place="inline">偈出大金光明經</note>。</p>
+<lb ed="X" n="0629a22"/><lg id="lgX74p0629a2201"><l>佛面猶如淨滿月</l><l>亦如千日放光明</l>
+<lb ed="X" n="0629a23"/><l>目淨修廣若青蓮</l><l>齒白齊密猶珂雪</l>
+<lb ed="X" n="0629a24"/><l>佛德無邊如大海</l><l>無限妙寶積其中</l>
+<pb ed="X" id="X74.1491.0629b" n="0629b"/>
+<lb ed="X" n="0629b01"/><l>智慧德水鎮恒盈</l><l>百千勝定咸充滿</l>
+<lb ed="X" n="0629b02"/><l>足下輪相皆嚴飾</l><l>轂輞千輻悉齊平</l>
+<lb ed="X" n="0629b03"/><l>手足縵網&CB00642;莊嚴</l><l>猶如鵝王相具足</l>
+<lb ed="X" n="0629b04"/><l>佛身光耀等金山</l><l>清淨殊特無倫匹</l>
+<lb ed="X" n="0629b05"/><l>亦如妙高功德滿</l><l>故我稽首佛山王</l>
+<lb ed="X" n="0629b06"/><l>相好如空不可測</l><l>逾於千月放光明</l>
+<lb ed="X" n="0629b07"/><l>皆如焰幻不思議</l><l>故我稽首心無著</l></lg>
+<lb ed="X" n="0629b08"/><list><item id="itemX74p0629b0801">南無娑娑世界。三界大師。四生慈父。人天教主。千百
+<lb ed="X" n="0629b09"/>億化身。釋迦牟尼佛</item>
+<lb ed="X" n="0629b10"/><item id="itemX74p0629b1001">南無釋迦牟尼佛<note place="inline">念千聲百聲。或遶三&CB00038;七&CB00038;百&CB00038;。隨意多少。念<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。胡跪稱云</note></item>
+<lb ed="X" n="0629b11"/><item id="itemX74p0629b1101">南無文殊師利菩薩</item><item id="itemX74p0629b1109">南無普賢菩薩</item>
+<lb ed="X" n="0629b12"/><item id="itemX74p0629b1201">南無觀世音菩薩</item><item id="itemX74p0629b1208">南無大勢至菩薩</item>
+<lb ed="X" n="0629b13"/><item id="itemX74p0629b1301">南無清淨大海眾菩薩</item></list><p id="pX74p0629b1310" place="inline"><note place="inline">各三稱</note></p></div1>
+<lb ed="X" n="0629b14"/><div1 type="other"><mulu type="其他" level="1" label="發願回向"/><head>○發願回向</head>
+<lb ed="X" n="0629b15"/><p id="pX74p0629b1501" rend="margin-left:1em"><note place="inline">凡修諸善事。皆須發願迴向。若不迴向。所作之善。得少許功德。云何迴向。謂迴自所修善根。向於三處。即
+<lb ed="X" n="0629b16"/>實相。菩提。及與眾生。由此迴向。能除著有。及慳&CB00385;心。以迴向少善。&CB00642;入三際。如滴水投海。猶聲入角。則能
+<lb ed="X" n="0629b17"/>遠遍。云何發願。謂對治無決定心。喜退屈障。若不發願。志無所措。行無所歸。然其迴向發願之文。諸經俱
+<lb ed="X" n="0629b18"/>出。或詳或略。皆不離於五法。所謂禮拜懺悔。隨喜。勸請。發願。迴向。願雖不一。而不出四弘。十大願王。今據
+<lb ed="X" n="0629b19"/>行願品中。頌十大願王。其文詳廣。恐誦者憚繁。茲時流通諸經日誦本。略去第八第九願。於勸請開出二
+<lb ed="X" n="0629b20"/>願。其五法缺彼稱讚。今當依文誦言</note>。</p>
+<lb ed="X" n="0629b21"/><lg id="lgX74p0629b2101"><l>所有十方世界中</l><l>三世一切人師子</l>
+<lb ed="X" n="0629b22"/><l>我以清淨身語意</l><l>一切遍禮盡無餘</l>
+<lb ed="X" n="0629b23"/><l>普賢行願威神力</l><l>普現一切如來前</l>
+<lb ed="X" n="0629b24"/><l>一身復現剎塵身</l><l>一一遍禮剎塵佛</l>
+<pb ed="X" id="X74.1491.0629c" n="0629c"/>
+<lb ed="X" n="0629c01"/><l>於一塵中塵數佛</l><l>各處菩薩眾會中</l>
+<lb ed="X" n="0629c02"/><l>無盡法界塵亦然</l><l>深信諸佛皆充滿</l>
+<lb ed="X" n="0629c03"/><l>各以一切音聲海</l><l>普出無盡妙言詞</l>
+<lb ed="X" n="0629c04"/><l>盡於未來一切劫</l><l>讚佛甚深功德海</l>
+<lb ed="X" n="0629c05"/><l>以諸最勝妙華鬘</l><l>妓樂塗香及傘&CB00582;</l>
+<lb ed="X" n="0629c06"/><l>如是最勝莊嚴具</l><l>我以供養諸如來</l>
+<lb ed="X" n="0629c07"/><l>最勝衣服最勝香</l><l>末香燒香與燈燭</l>
+<lb ed="X" n="0629c08"/><l>一一皆如妙高聚</l><l>我悉供養諸如來</l>
+<lb ed="X" n="0629c09"/><l>我以廣大勝解心</l><l>深信一切三世佛</l>
+<lb ed="X" n="0629c10"/><l>悉以普賢行願力</l><l>普遍供養諸如來</l>
+<lb ed="X" n="0629c11"/><l>我悉所造諸惡業</l><l>皆由無始貪瞋癡</l>
+<lb ed="X" n="0629c12"/><l>從身語意之所生</l><l>一切我今皆懺悔</l>
+<lb ed="X" n="0629c13"/><l>十方一切諸眾生</l><l>二乘有學及無學</l>
+<lb ed="X" n="0629c14"/><l>一切如來與菩薩</l><l>所有功德皆隨喜</l>
+<lb ed="X" n="0629c15"/><l>十方所有世間燈</l><l>最初成就菩提者</l>
+<lb ed="X" n="0629c16"/><l>我今一切皆勸請</l><l>轉於無上妙法輪</l>
+<lb ed="X" n="0629c17"/><l>諸佛若欲示涅槃</l><l>我悉至誠而勸請</l>
+<lb ed="X" n="0629c18"/><l>惟願久住剎塵劫</l><l>利樂一切諸眾生</l>
+<lb ed="X" n="0629c19"/><l>所有禮讚供養福</l><l>請佛住世轉法輪</l>
+<lb ed="X" n="0629c20"/><l>隨喜懺悔諸善根</l><l>迴向眾生及佛道</l>
+<lb ed="X" n="0629c21"/><l>願將以此勝功德</l><l>迴向無上真法界</l>
+<lb ed="X" n="0629c22"/><l>性相佛法及僧伽</l><l>二諦融通三昧印</l>
+<lb ed="X" n="0629c23"/><l>如是無量功德海</l><l>我今皆悉盡迴向</l>
+<lb ed="X" n="0629c24"/><l>所有眾生身口意</l><l>見惑彈謗我法等</l>
+<pb ed="X" id="X74.1491.0630a" n="0630a"/>
+<lb ed="X" n="0630a01"/><l>如是一切諸業障</l><l>悉皆消滅盡無餘</l>
+<lb ed="X" n="0630a02"/><l>念念智周於法界</l><l>廣度眾生皆不退</l>
+<lb ed="X" n="0630a03"/><l>乃至&CB00980;空世界盡</l><l>眾生及業煩惱盡</l>
+<lb ed="X" n="0630a04"/><l>如是四法廣無邊</l><l>願今迴向亦如是</l></lg>
+<lb ed="X" n="0630a05"/><p id="pX74p0630a0501" rend="margin-left:1em"><note place="inline">或誦怡山文亦得。誦訖。禮拜隨意。次當結讚云</note>。</p>
+<lb ed="X" n="0630a06"/><p id="pX74p0630a0601">如來舍利。眾德斯圓。光流剎土遍三千。與世作福田。
+<lb ed="X" n="0630a07"/>瞻禮翹勤。慈濟廣無邊。</p>
+<lb ed="X" n="0630a08"/><p id="pX74p0630a0801">南無本師釋迦牟尼佛<note place="inline">讚<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。三自歸畢</note>。</p></div1>
+<lb ed="X" n="0630a09"/>
+<lb ed="X" n="0630a10"/><juan fun="close" n="1"><jhead>禮舍利塔儀式<note place="inline">終</note></jhead></juan>
+<lb ed="X" n="0630a11"/>
+<lb ed="X" n="0630a12"/>
+<lb ed="X" n="0630a13"/>
+<lb ed="X" n="0630a14"/><div1 type="w"><mulu type="附文" level="1" label="附"/><head>附</head>
+<lb ed="X" n="0630a15"/><p id="pX74p0630a1501">造塔功德經云。爾時世尊告觀世音菩薩言。善男子。
+<lb ed="X" n="0630a16"/>若此現在諸天眾等。及未來世一切眾生。隨所在方。
+<lb ed="X" n="0630a17"/>未有塔處。能於其中建立之者。其狀高妙。出過三界。
+<lb ed="X" n="0630a18"/>乃至至小。如菴羅果。所有表剎。上至梵天。乃至至小
+<lb ed="X" n="0630a19"/>猶如針等。所有輪&CB00582;。覆彼大千。乃至至小猶如棗葉。
+<lb ed="X" n="0630a20"/>於彼塔內。藏掩如來所有舍利。髮。牙。髭。爪。下至一分。
+<lb ed="X" n="0630a21"/>或置如來所有法藏。十二部經。下下至於一四句偈。
+<lb ed="X" n="0630a22"/>其人功德。如彼梵天。命終之後。生於梵世。於彼壽盡。
+<lb ed="X" n="0630a23"/>生五淨居。與彼諸天等無有異。爾時觀世音菩薩。復
+<lb ed="X" n="0630a24"/>白佛言世尊。如向所說安置舍利。及以法藏。我<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>受
+<pb ed="X" id="X74.1491.0630b" n="0630b"/>
+<lb ed="X" n="0630b01"/>持。不審如來四句之義。惟願為我分別演說。爾時世
+<lb ed="X" n="0630b02"/>尊說是偈言。</p>
+<lb ed="X" n="0630b03"/><lg id="lgX74p0630b0301"><l>諸法因緣生</l><l>我說是因緣</l><l>因緣盡故滅</l>
+<lb ed="X" n="0630b04"/><l>我作如是說</l></lg>
+<lb ed="X" n="0630b05"/><p id="pX74p0630b0501">善男子。如是偈義。名佛法身。汝當書寫。置彼塔內。何
+<lb ed="X" n="0630b06"/>以故。一切因緣。及所生法。性空寂故。是故我說名為
+<lb ed="X" n="0630b07"/>法身。若有眾生解了如是因緣之義。當知是人。即為
+<lb ed="X" n="0630b08"/>見佛。甚希有經云。爾時世尊告阿難曰。此南瞻部州。
+<lb ed="X" n="0630b09"/>縱廣七千由旬。東勝身州。縱廣八千由旬。西牛貨州。
+<lb ed="X" n="0630b10"/>縱廣九千由旬。北俱盧州。縱廣十千由旬。如是四州。
+<lb ed="X" n="0630b11"/>所有或甘蔗林。蘆葦林。竹林等。乃至稻田。胡麻田等。
+<lb ed="X" n="0630b12"/>畟塞充滿。無有聞隙。如是假使&CB00642;四大部州。或須陀
+<lb ed="X" n="0630b13"/>果。斯陀含果。阿那含果。阿羅漢果。辟支緣覺。畟塞充
+<lb ed="X" n="0630b14"/>滿。亦無間隙。如甘蔗林等。若有一家。於彼聖眾。盡形
+<lb ed="X" n="0630b15"/>恭敬。承事供養。奉施上妙衣服。飲食。臥具。醫藥。及諸
+<lb ed="X" n="0630b16"/>資緣。於彼一一般涅槃後。如法焚身。收其遺骨。起窣
+<lb ed="X" n="0630b17"/>堵波。高廣嚴飾。塗香末香熏香華鬘。上妙旛&CB00582;。寶幢
+<lb ed="X" n="0630b18"/>音樂。燈炬光明。讚歎供養。汝意云何。由是因緣。彼所
+<lb ed="X" n="0630b19"/>生福。寧為多不。阿難白佛。甚多世尊。甚多善逝。復告
+<lb ed="X" n="0630b20"/>阿難。且置四大部州。天主帝釋。有大層臺。其臺有八
+<lb ed="X" n="0630b21"/>萬四千眾妙寶柱。一一寶柱。籠以種種天青&CB00222;璃妙
+<lb ed="X" n="0630b22"/>寶珠網。布以金沙。灑以香水。此臺復有周&CB00038;八萬四
+<lb ed="X" n="0630b23"/>千眾妙寶&CB00616;牖。一一&CB00616;牖。垂以種種天青&CB00222;璃妙寶
+<lb ed="X" n="0630b24"/>珠簾。布以金沙。灑以香水。此臺復有八萬四千眾妙
+<pb ed="X" id="X74.1491.0630c" n="0630c"/>
+<lb ed="X" n="0630c01"/>寶廠。一一寶廠。覆以種種天青琉璃妙寶珠網。布以
+<lb ed="X" n="0630c02"/>金沙。灑以香水。假使若有諸善男子。或善女人。造妙
+<lb ed="X" n="0630c03"/>層閣。高廣嚴麗。以天帝釋妙寶層臺。奉施四方大德
+<lb ed="X" n="0630c04"/>僧眾。汝意云何。是善男子。或善女人。由此因緣。彼所
+<lb ed="X" n="0630c05"/>生福。寧為多不。阿難白佛。甚多世尊。甚多善逝。爾時
+<lb ed="X" n="0630c06"/>世尊告阿難曰。且置四洲。及天帝釋大寶層臺。假使
+<lb ed="X" n="0630c07"/>若有諸善男子。或善女人。能造百千俱胝層閣。高廣
+<lb ed="X" n="0630c08"/>嚴麗。皆如帝釋妙寶層臺。奉施四方大德僧眾。復有
+<lb ed="X" n="0630c09"/>諸善男子。或善女人。於諸如來。般涅槃後。起窣堵波。
+<lb ed="X" n="0630c10"/>其量下如阿摩洛果。以佛舍利。如芥子許。安置其中。
+<lb ed="X" n="0630c11"/>樹以表剎。量如大針。上安相輪。如小棗葉。或造佛像。
+<lb ed="X" n="0630c12"/>下如&CB00931;麥。以前福聚。比此福聚。於百分中。不及其一。
+<lb ed="X" n="0630c13"/>於千分中。亦不及一。於百千分。數分算分。計分喻分。
+<lb ed="X" n="0630c14"/>亦不及一。何以故。阿難。如前福聚。其量雖多。然不及
+<lb ed="X" n="0630c15"/>者。為諸佛如來。於三大阿僧祇劫。修習無量勝戒定
+<lb ed="X" n="0630c16"/>慧。及以解脫。解脫知見。皆圓滿故。如來無量慈悲喜
+<lb ed="X" n="0630c17"/>捨。十方六趣。教化神通。皆圓滿故。如來無量布施。持
+<lb ed="X" n="0630c18"/>戒。忍辱。精進。靜慮。智慧。及餘功德。皆圓滿故。以是當
+<lb ed="X" n="0630c19"/>知。造佛形像。及窣堵波。所獲福聚。不可思議。不可比
+<lb ed="X" n="0630c20"/>喻。我今欲令諸眾生。於如來所。無倒恭敬。種諸善根。
+<lb ed="X" n="0630c21"/>長夜獲得利益安樂。速成無上佛菩提故。</p>
+<lb ed="X" n="0630c22"/><p id="pX74p0630c2201">昔康國。僧會法師。初至建業。吳主孫權。未信三寶。令
+<lb ed="X" n="0630c23"/>求舍利。有感。當立塔寺。僧會望空禮拜。三七日。遂感
+<lb ed="X" n="0630c24"/>舍利入銅瓶。五色祥光衝天。吳主手執銅瓶。傾銅盤
+<pb ed="X" id="X74.1491.0631a" n="0631a"/>
+<lb ed="X" n="0631a01"/>內。舍利便衝盤即破裂。火燒椎試。俱不能損。遂興佛
+<lb ed="X" n="0631a02"/>法。又多聞長子名那吒。&CB00573;以佛牙贈宣律師。</p>
+<lb ed="X" n="0631a03"/><p id="pX74p0631a0301">太祖皇帝。疑非真牙。以火&CB05178;之。了然不動。遂成願文。
+<lb ed="X" n="0631a04"/>太宗皇帝聖製頌曰。</p>
+<lb ed="X" n="0631a05"/><lg id="lgX74p0631a0501"><l>功成積劫印文端</l><l>不是南山得恐難</l>
+<lb ed="X" n="0631a06"/><l>眼&CB00418;數重金色潤</l><l>手擎一片玉光寒</l>
+<lb ed="X" n="0631a07"/><l>鍊時百火精神透</l><l>藏處千年瑩彩完</l>
+<lb ed="X" n="0631a08"/><l>定果熏修真祕密</l><l>正心莫作等閑看</l></lg>
+<lb ed="X" n="0631a09"/><p id="pX74p0631a0901">真宗皇帝聖製偈曰。</p>
+<lb ed="X" n="0631a10"/><lg id="lgX74p0631a1001"><l>西方有聖號迦文</l><l>接物垂慈世所尊</l>
+<lb ed="X" n="0631a11"/><l>常願進修增妙果</l><l>庶期饒益在黎元</l></lg>
+<lb ed="X" n="0631a12"/><p id="pX74p0631a1201">仁宗皇帝御製贊曰。</p>
+<lb ed="X" n="0631a13"/><lg id="lgX74p0631a1301"><l>三皇掩質皆歸土</l><l>五帝潛形<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>化塵</l>
+<lb ed="X" n="0631a14"/><l>夫子域中誇是聖</l><l>老君世上亦言真</l>
+<lb ed="X" n="0631a15"/><l>埋軀祗見空遺冢</l><l>何處將身示後人</l>
+<lb ed="X" n="0631a16"/><l>惟有吾師金骨在</l><l>曾經百鍊色長新</l></lg>
+<lb ed="X" n="0631a17"/><p id="pX74p0631a1701">徽宗皇帝。崇寧三年重午日。嘗迎請釋迦佛牙。入內
+<lb ed="X" n="0631a18"/>祈求。舍利感應。隔水晶匣。出如雨點。神力如斯。嘉歎
+<lb ed="X" n="0631a19"/>何<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。因以偈贊曰。</p>
+<lb ed="X" n="0631a20"/><lg id="lgX74p0631a2001"><l>大哉釋迦文</l><l>&CB00980;空等一塵</l><l>有求皆赴感</l>
+<lb ed="X" n="0631a21"/><l>無剎不分身</l><l>王瑩千輪在</l><l>金剛百鍊新</l>
+<lb ed="X" n="0631a22"/><l>我今恭敬禮</l><l>普願濟&CB00320;倫</l></lg></div1>
+<lb ed="X" n="0631a23"/>
+<lb ed="X" n="0631a24"/>
+<pb ed="X" id="X74.1491.0631b" n="0631b"/>
+<lb ed="X" n="0631b01"/>
+<lb ed="X" n="0631b02"/>
+<lb ed="X" n="0631b03"/>
+<lb ed="X" n="0631b04"/><div1 type="w"><mulu type="附文" level="1" label="釋義"/><head>釋義</head>
+<lb ed="X" n="0631b05"/><div2 type="note"><entry rend="margin-left:1em"><form>三祇</form><def><p id="pX74p0631b0503" place="inline" rend="margin-left:1em">梵語阿僧祇。此云無數。如來於三大無數
+<lb ed="X" n="0631b06"/>劫。修行六度萬行。功滿方成正覺。</p></def></entry>
+<lb ed="X" n="0631b07"/><entry rend="margin-left:1em"><form>藍毗尼園</form><def><p id="pX74p0631b0705" place="inline" rend="margin-left:1em">在迦毗羅國宮城外不遠。摩耶夫人。
+<lb ed="X" n="0631b08"/>平旦與諸彩女入園遊觀。夫人見無憂華。舉右手
+<lb ed="X" n="0631b09"/>摘之。佛即從右&CB00169;出。墮七寶蓮華上。四天王。以天
+<lb ed="X" n="0631b10"/>妙繒。接太子身。天帝釋捧金盤敬浴。九龍吐妙香
+<lb ed="X" n="0631b11"/>水。亦浴太子。</p></def></entry>
+<lb ed="X" n="0631b12"/><entry rend="margin-left:1em"><form>那伽金剛定</form><def><p id="pX74p0631b1206" place="inline" rend="margin-left:1em">經云。那伽常在定。無有不定時。非
+<lb ed="X" n="0631b13"/>小乘人所入之定。菩薩最後於菩提樹下。入金剛
+<lb ed="X" n="0631b14"/>定。破見思習氣塵沙之惑。而成正覺。</p></def></entry>
+<lb ed="X" n="0631b15"/><entry rend="margin-left:1em"><form>菩提樹</form><def><p id="pX74p0631b1504" place="inline" rend="margin-left:1em">此云道樹。佛坐具下成道。故以名焉。樹
+<lb ed="X" n="0631b16"/>在中天竺。摩竭陀國。尼連禪河側。</p></def></entry>
+<lb ed="X" n="0631b17"/><entry rend="margin-left:1em"><form>梵釋諸天</form><def><p id="pX74p0631b1705" place="inline" rend="margin-left:1em">如來既成正覺。思惟眾生根鈍。不堪
+<lb ed="X" n="0631b18"/>受法。聞法生謗。致墮三塗。故寧不說。即欲入涅槃。
+<lb ed="X" n="0631b19"/>梵王帝釋。及四天王。知佛心念。遂至樹下。慇懃三
+<lb ed="X" n="0631b20"/>勸請如來。轉妙法輪。佛既受請。即往鹿苑。為阿若
+<lb ed="X" n="0631b21"/>憍陳如等五人。三轉四諦十二行法輪。憍陳如首
+<lb ed="X" n="0631b22"/>證道果。十千天子。亦悟菩提。此諸天子。乃如來昔
+<lb ed="X" n="0631b23"/>為流水長者子之時。所放十千魚。盡皆生天。今復
+<lb ed="X" n="0631b24"/>首得聞如來正法。而得道果也。</p></def></entry>
+<pb ed="X" id="X74.1491.0631c" n="0631c"/>
+<lb ed="X" n="0631c01"/><entry rend="margin-left:1em"><form>鹿野苑</form><def><p id="pX74p0631c0104" place="inline" rend="margin-left:1em">古王施以養鹿。因以為名。在波羅奈國。
+<lb ed="X" n="0631c02"/>都城東北十餘里。諸佛皆於此轉法輪故也。</p></def></entry>
+<lb ed="X" n="0631c03"/><entry rend="margin-left:1em"><form>頻伽聲</form><def><p id="pX74p0631c0304" place="inline" rend="margin-left:1em">梵語。伽陵頻伽。此云妙聲鳥。此鳥聲。若
+<lb ed="X" n="0631c04"/>天若人。一切無能及者。唯除如來音聲。故稱佛音。
+<lb ed="X" n="0631c05"/>如此鳥聲也。</p></def></entry>
+<lb ed="X" n="0631c06"/><entry rend="margin-left:1em"><form>涅槃</form><def><p id="pX74p0631c0603" place="inline" rend="margin-left:1em">此云圓寂。謂萬德俱備名圓。諸障永滅名
+<lb ed="X" n="0631c07"/>寂。如來教化眾生緣畢。故入涅槃。復於餘處眾生
+<lb ed="X" n="0631c08"/>有緣者。即現身而為教化利益之。</p></def></entry>
+<lb ed="X" n="0631c09"/><entry rend="margin-left:1em"><form>裟羅雙樹</form><def><p id="pX74p0631c0905" place="inline" rend="margin-left:1em">此云高遠。其樹似槲。林中四雙八隻
+<lb ed="X" n="0631c10"/>特高。如來於其間示般涅槃。此林在拘尸城西北
+<lb ed="X" n="0631c11"/>去三四里。渡河西岸。</p></def></entry>
+<lb ed="X" n="0631c12"/><entry rend="margin-left:1em"><form>白&CB15802;</form><def><p id="pX74p0631c1203" place="inline" rend="margin-left:1em">音牒。細布也。其草實如繭。繭中絲如細纑。
+<lb ed="X" n="0631c13"/>取織為布。甚輕軟白。故名白&CB15802;。如來入涅槃<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>。王
+<lb ed="X" n="0631c14"/>臣以無價白&CB15802;千張。纏如來身。入金棺內。天人持
+<lb ed="X" n="0631c15"/>眾妙香。積為高樓。焚如來身七日。天帝持七寶瓶。
+<lb ed="X" n="0631c16"/>盛乳注火令滅。開棺見&CB15802;。唯留內外一雙。餘皆&CB01926;
+<lb ed="X" n="0631c17"/>燼。得舍利八石四斗。或云八石六斗。天帝先取佛
+<lb ed="X" n="0631c18"/>右畔上一牙。還天起塔。恭敬供養。</p></def></entry>
+<lb ed="X" n="0631c19"/><entry rend="margin-left:1em"><form>天冠塔</form><def><p id="pX74p0631c1904" place="inline" rend="margin-left:1em">乃過去世如來為轉輪聖王。解寶天冠。
+<lb ed="X" n="0631c20"/>安置辟支佛塔處。今如來於塔邊焚身。塔在拘尸
+<lb ed="X" n="0631c21"/>城北渡河三百餘步。是最勝妙地。今若有人至誠
+<lb ed="X" n="0631c22"/>虔心於此地禮拜。常求得舍利。故玄奘義淨法師
+<lb ed="X" n="0631c23"/>等。往天竺。皆有舍利帶回。昔隋文帝時一梵僧進
+<lb ed="X" n="0631c24"/>舍利十三顆。每州縣無塔者即與舍利一顆。敕大
+<pb ed="X" id="X74.1491.0632a" n="0632a"/>
+<lb ed="X" n="0632a01"/>臣同一僧往建塔。每舍利入塔晨。必現祥瑞。天下
+<lb ed="X" n="0632a02"/>州縣建塔<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>畢。其十三顆尚在帝掌中。故曰八斛
+<lb ed="X" n="0632a03"/>四斗非數量也。</p></def></entry>
+<lb ed="X" n="0632a04"/><entry rend="margin-left:1em"><form>闍維</form><def><p id="pX74p0632a0403" place="inline" rend="margin-left:1em">或云荼毗。又云涅疊般那。此云焚燒。</p></def></entry>
+<lb ed="X" n="0632a05"/><entry rend="margin-left:1em"><form>梵志</form><def><p id="pX74p0632a0503" place="inline" rend="margin-left:1em">梵者。淨也。梵語婆羅門。此云淨行。亦云梵
+<lb ed="X" n="0632a06"/>志。乃四姓之一。其種自謂從梵天口生。故以為姓。
+<lb ed="X" n="0632a07"/>時天龍共諍舍利。即作三分。一諸天。二龍眾。三與
+<lb ed="X" n="0632a08"/>人間。七國亦嚴兵至拘尸城諍取舍利。有梵志名
+<lb ed="X" n="0632a09"/>突路拏。持瓶分人間一分為八分與之。各持歸本
+<lb ed="X" n="0632a10"/>處起塔供養。其諍遂息。梵志亦將瓶還本聚落。建
+<lb ed="X" n="0632a11"/>塔供養。</p></def></entry>
+<lb ed="X" n="0632a12"/><entry rend="margin-left:1em"><form>八國</form><def><p id="pX74p0632a1203" place="inline" rend="margin-left:1em">一拘尸。二波波。三遮羅博。四阿羅摩。五吠
+<lb ed="X" n="0632a13"/>率奴。六劫比羅。七毗舍離。八摩揭陀。阿羅摩國。所
+<lb ed="X" n="0632a14"/>得舍利。龍王<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>取還自宮中。各興塔供養矣。</p></def></entry>
+<lb ed="X" n="0632a15"/><entry rend="margin-left:1em"><form>浮圖</form><def><p id="pX74p0632a1503" place="inline" rend="margin-left:1em">或作浮屠。又云窣堵波。又云數斗波。又云
+<lb ed="X" n="0632a16"/>支提。又云制底。又云塔婆。略云塔。此翻為可供養
+<lb ed="X" n="0632a17"/>處。又翻為滅罪生福處。又翻高顯。又翻為聚相。謂
+<lb ed="X" n="0632a18"/>如來福智聚集所成。實表河沙之德。遮酬塵劫之
+<lb ed="X" n="0632a19"/>勞。人天瞻仰敬禮。獲無量福。若無如來遺身舍利。
+<lb ed="X" n="0632a20"/>當安如來緣生偈頌。置中供養。名法身舍利。凡造
+<lb ed="X" n="0632a21"/>佛形像。及塔。安此偈頌。得福弘多。由是諸經中。廣
+<lb ed="X" n="0632a22"/>為讚歎。利益不可思議。或置百千印經。及無垢淨
+<lb ed="X" n="0632a23"/>光陀羅尼。或安餘經&CB00057;等。亦得。</p></def></entry>
+<lb ed="X" n="0632a24"/><entry rend="margin-left:1em"><form>閻浮提</form><def><p id="pX74p0632a2404" place="inline" rend="margin-left:1em">此云勝金洲。新云贍部洲。此洲之北。有
+<pb ed="X" id="X74.1491.0632b" n="0632b"/>
+<lb ed="X" n="0632b01"/>大樹王。名贍部。因樹以名洲。樹下有金沙。色帶紫
+<lb ed="X" n="0632b02"/>焰。故譯為勝金。又其樹果。汁赤如紫金色也。</p></def></entry>
+<lb ed="X" n="0632b03"/><entry rend="margin-left:1em"><form>阿育王</form><def><p id="pX74p0632b0304" place="inline" rend="margin-left:1em">此云無憂王。昔者如來在世。彼為童子。
+<lb ed="X" n="0632b04"/>於路戲沙。遇佛。即以沙為飯。用獻如來。佛摩其頂
+<lb ed="X" n="0632b05"/>記曰。我滅度後百年。此子作鐵輪王。統贍部洲萬
+<lb ed="X" n="0632b06"/>國之地。大興佛事。彼後出世。聞如來記。乃開七塔。
+<lb ed="X" n="0632b07"/>取舍利。使鬼神遍閻浮提。起八萬四千塔。興隆三
+<lb ed="X" n="0632b08"/>寶。大作佛事。此東震旦。有一十九所。寧波者現存
+<lb ed="X" n="0632b09"/>焉。</p></def></entry>
+<lb ed="X" n="0632b10"/><entry rend="margin-left:1em"><form>跋伽林</form><def><p id="pX74p0632b1004" place="inline" rend="margin-left:1em">是諸仙人修苦行處。去城一百餘里。時
+<lb ed="X" n="0632b11"/>淨飯王。知太子七日內必出家。遂率兵馬圍於城
+<lb ed="X" n="0632b12"/>外。太子夜半乘馬。四天王捧馬足。越城至此林。見
+<lb ed="X" n="0632b13"/>林寂靜。心生歡喜。以劍自斷其髮。天帝接歸天上
+<lb ed="X" n="0632b14"/>起塔。</p></def></entry>
+<lb ed="X" n="0632b15"/><entry rend="margin-left:1em"><form>青螺</form><def><p id="pX74p0632b1503" place="inline" rend="margin-left:1em">如來髮紺青色。右旋如螺。</p></def></entry>
+<lb ed="X" n="0632b16"/><entry rend="margin-left:1em"><form>眾車苑</form><def><p id="pX74p0632b1604" place="inline" rend="margin-left:1em">此苑在忉利天善見城外東。諸天入此。
+<lb ed="X" n="0632b17"/>隨天福力。有種種車現故也。</p></def></entry>
+<lb ed="X" n="0632b18"/><entry rend="margin-left:1em"><form>歡喜園</form><def><p id="pX74p0632b1804" place="inline" rend="margin-left:1em">此園在忉利天善見城外北。微妙五欲。
+<lb ed="X" n="0632b19"/>雜類俱臻。觀者無厭。帝釋於園中立佛牙塔。今震
+<lb ed="X" n="0632b20"/>旦有二佛牙。一是那吒太子。送與唐宣律師供養。
+<lb ed="X" n="0632b21"/>一是永樂興丘往南天竺外師子州。請還宮中供
+<lb ed="X" n="0632b22"/>養。</p></def></entry>
+<lb ed="X" n="0632b23"/><entry rend="margin-left:1em"><form>調御</form><def><p id="pX74p0632b2303" place="inline" rend="margin-left:1em">此如來十號之一。名曰調御丈夫。謂如來
+<lb ed="X" n="0632b24"/>具大丈夫力。能調伏善惡諸眾生。以第一義之法。
+<pb ed="X" id="X74.1491.0632c" n="0632c"/>
+<lb ed="X" n="0632c01"/>開示令離垢染。而證得最上涅槃之樂也。</p></def></entry>
+<lb ed="X" n="0632c02"/><entry rend="margin-left:1em"><form>衰相</form><def><p id="pX74p0632c0203" place="inline" rend="margin-left:1em">天人臨終有五哀相現。即自知命當終。一
+<lb ed="X" n="0632c03"/>衣服垢穢。二頭上花萎。三腋下汗流。西身體臭穢。
+<lb ed="X" n="0632c04"/>五不樂本座。若能至心歸命三寶。還增天福。衰相
+<lb ed="X" n="0632c05"/>即滅也。</p></def></entry>
+<lb ed="X" n="0632c06"/><entry rend="margin-left:1em"><form>娑竭羅龍</form><def><p id="pX74p0632c0605" place="inline" rend="margin-left:1em">大海中深萬由旬。城郭宮殿。皆七寶
+<lb ed="X" n="0632c07"/>成。娑竭羅龍王宮。縱廣三千由旬。有種種華池流
+<lb ed="X" n="0632c08"/>水園林瓔珞莊嚴之具。有八十億許諸大龍王宮
+<lb ed="X" n="0632c09"/>殿。各別不同。有過去諸佛舍利寶塔。滿彼宮中供
+<lb ed="X" n="0632c10"/>養。</p></def></entry>
+<lb ed="X" n="0632c11"/><entry rend="margin-left:1em"><form>釋師予</form><def><p id="pX74p0632c1104" place="inline" rend="margin-left:1em">如來說法。萬類歸心。故稱佛為人中師
+<lb ed="X" n="0632c12"/>子。</p></def></entry>
+<lb ed="X" n="0632c13"/><entry rend="margin-left:1em"><form>耶舍</form><def><p id="pX74p0632c1303" place="inline" rend="margin-left:1em">梵語佛&CB00499;耶舍。此云覺名。天竺人。在定中
+<lb ed="X" n="0632c14"/>見此方匡廬金輪峰。放五色光。故特齎如來舍利
+<lb ed="X" n="0632c15"/>至。躬自負鐵。於峰上建塔。以舍利藏中。耶舍本羅
+<lb ed="X" n="0632c16"/>什法師之師。姚秦符堅。請譯經律論畢。復還天竺。
+<lb ed="X" n="0632c17"/>至明天啟年間。禪僧半偈。見塔將朽。欲鑄新者易
+<lb ed="X" n="0632c18"/>之。使工發故塔。人力既疲。不覺破其盛舍利之玻
+<lb ed="X" n="0632c19"/>璃瓶。乃以金瓶拾還著中。其餘土。僧眾誠心向禮
+<lb ed="X" n="0632c20"/>拜求之。見有光明拾之。或得三顆五顆。各持以供
+<lb ed="X" n="0632c21"/>養。然其所修此塔之歲。一山松子盡結為塔。今鼎
+<lb ed="X" n="0632c22"/>湖山及寶象林者。皆彼分出。</p></def></entry>
+<lb ed="X" n="0632c23"/><entry rend="margin-left:1em"><form>鼎湖山</form><def><p id="pX74p0632c2304" place="inline" rend="margin-left:1em">亦名天湖。別出一峰。眾山環遶。猶如蓮
+<lb ed="X" n="0632c24"/>華。故舊名日蓮華洞。開&CB01772;於崇禎癸酉歲。在&CB15470;東
+<pb ed="X" id="X74.1491.0633a" n="0633a"/>
+<lb ed="X" n="0633a01"/>端州之東北。院內建鐵浮圖。高一丈四尺。以如來
+<lb ed="X" n="0633a02"/>舍利藏中。</p></def></entry>
+<lb ed="X" n="0633a03"/><entry rend="margin-left:1em"><form>瑞石浮圖</form><def><p id="pX74p0633a0305" place="inline" rend="margin-left:1em">石出端水星巖。其質瑩潔如白玉。通
+<lb ed="X" n="0633a04"/>身鏤華。六面玲瓏。高一丈八尺。以如來舍利瘞中。
+<lb ed="X" n="0633a05"/>其石始&CB00697;鐫工。是夜石從山頂飛下。眾咸驚歎。故
+<lb ed="X" n="0633a06"/>以瑞石為名。其地河回數十曲環&CB00038;。於未建塔前。
+<lb ed="X" n="0633a07"/>有紫氣祥光衝天如晝。卿人咸訝之。及建寺工竣。
+<lb ed="X" n="0633a08"/>辰旦有紅蓮華現於簷前。大七八尺。光焰四發。緇
+<lb ed="X" n="0633a09"/>素同嘉焉。舍利入塔日。乃驚蟄之前。時值亢陽。感
+<lb ed="X" n="0633a10"/>黃蝦&CB00523;大如碗。蹲內階上。頭朝舍利。竟日不動。緇
+<lb ed="X" n="0633a11"/>素數百往來。任之附捋。莊子所謂蝦&CB00523;龍也。是日
+<lb ed="X" n="0633a12"/>井水變清如泉。嗣後凡營齋供塔之日。其水即清。
+<lb ed="X" n="0633a13"/>識者以為非龍神之力莫能。遂名之曰聖井。塔坐
+<lb ed="X" n="0633a14"/>嶺南。廣州。南海。麻奢聚落。寶象林。瑞塔寺。後殿供
+<lb ed="X" n="0633a15"/>養。</p></def></entry>
+<lb ed="X" n="0633a16"/><entry rend="margin-left:1em"><form>兜率</form><def><p id="pX74p0633a1603" place="inline" rend="margin-left:1em">具云兜率陀。新云&CB00418;史多。此云&CB00540;足。亦云
+<lb ed="X" n="0633a17"/>知足。謂於五欲知止足故。又後身菩薩於中教化。
+<lb ed="X" n="0633a18"/>多修&CB00540;足定故。是欲界第四天也。</p></def></entry>
+<lb ed="X" n="0633a19"/><entry rend="margin-left:1em"><form>嚬呻</form><def><p id="pX74p0633a1903" place="inline" rend="margin-left:1em">上音貧。下音身
+<lb ed="X" n="0633a20"/>文殊師利　此云妙德。又云妙吉祥。乃三世諸佛
+<lb ed="X" n="0633a21"/>之師。<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>過去無量劫成佛。號龍種上尊王如來。今
+<lb ed="X" n="0633a22"/>現居北方常喜世界。號歡喜藏摩尼寶積如來。又
+<lb ed="X" n="0633a23"/>未來成佛。號普現如來。</p></def></entry>
+<lb ed="X" n="0633a24"/><entry rend="margin-left:1em"><form>善逝</form><def><p id="pX74p0633a2403" place="inline" rend="margin-left:1em">是妙往之義。謂如來正智。能斷諸惑。妙出
+<pb ed="X" id="X74.1491.0633b" n="0633b"/>
+<lb ed="X" n="0633b01"/>世間。能往佛果。故號善逝。乃如來十號之一也。</p></def></entry>
+<lb ed="X" n="0633b02"/><entry rend="margin-left:1em"><form>普賢</form><def><p id="pX74p0633b0203" place="inline" rend="margin-left:1em">梵語三曼跋陀。此云普賢。亦云遍吉。德無
+<lb ed="X" n="0633b03"/>不周曰普。調柔善順曰賢。又以行彌法界曰普。位
+<lb ed="X" n="0633b04"/>鄰極聖曰賢。諸佛若不修普賢三密行。得成正覺
+<lb ed="X" n="0633b05"/>者。無有是處。</p></def></entry>
+<lb ed="X" n="0633b06"/><entry rend="margin-left:1em"><form>懺摩</form><def><p id="pX74p0633b0603" place="inline" rend="margin-left:1em">此云悔過。謂容恕我罪也。又懺名修來。悔
+<lb ed="X" n="0633b07"/>名改往。又懺者名慚。悔者名愧。慚者慚於天。愧者
+<lb ed="X" n="0633b08"/>愧於人也。</p></def></entry>
+<lb ed="X" n="0633b09"/><entry rend="margin-left:1em"><form>三障</form><def><p id="pX74p0633b0903" place="inline" rend="margin-left:1em">煩惱障。業障。報障。</p></def></entry>
+<lb ed="X" n="0633b10"/><entry rend="margin-left:1em"><form>八正</form><def><p id="pX74p0633b1003" place="inline" rend="margin-left:1em">此是八正道。一正見。二正思惟。三正語。四
+<lb ed="X" n="0633b11"/>正業。五正命。六正精進。七正念。八正定。謂此八法。
+<lb ed="X" n="0633b12"/>不依偏邪而適至涅槃故也。</p></def></entry>
+<lb ed="X" n="0633b13"/><entry rend="margin-left:1em"><form>四智</form><def><p id="pX74p0633b1303" place="inline" rend="margin-left:1em">成所作智。妙觀察智。平等性智。大圓鏡智。</p></def></entry>
+<lb ed="X" n="0633b14"/><entry rend="margin-left:1em"><form>雞足山</form><def><p id="pX74p0633b1404" place="inline" rend="margin-left:1em">三峰仰向。狀如雞足。尊者捧如來衣入
+<lb ed="X" n="0633b15"/>中寂定。以待慈氏世尊。三峰遂<app><lem wit="【CBETA】" resp="CBETA.maha">斂</lem><rdg wit="【卍續】">歛</rdg></app>。山在中天竺摩
+<lb ed="X" n="0633b16"/>揭陀國。</p></def></entry>
+<lb ed="X" n="0633b17"/><entry rend="margin-left:1em"><form>毗尼藏</form><def><p id="pX74p0633b1704" place="inline" rend="margin-left:1em">即律藏。乃三藏之一也。</p></def></entry>
+<lb ed="X" n="0633b18"/><entry rend="margin-left:1em"><form>珂</form><def><p id="pX74p0633b1802" place="inline" rend="margin-left:1em">音柯。乃瑪瑙潔白如雪者。</p></def></entry>
+<lb ed="X" n="0633b19"/><entry rend="margin-left:1em"><form>輞</form><def><p id="pX74p0633b1902" place="inline" rend="margin-left:1em">音網。是車輪外圍也。</p></def></entry>
+<lb ed="X" n="0633b20"/><entry rend="margin-left:1em"><form>轂輻</form><def><p id="pX74p0633b2003" place="inline" rend="margin-left:1em">上音谷。下音福。乃車轂輻所奏也。三十輻
+<lb ed="X" n="0633b21"/>共為一轂也。</p></def></entry>
+<lb ed="X" n="0633b22"/><entry rend="margin-left:1em"><form>妙高</form><def><p id="pX74p0633b2203" place="inline" rend="margin-left:1em">梵語須彌也。四寶所成曰妙。出眾山上曰
+<lb ed="X" n="0633b23"/>高。</p></def></entry>
+<lb ed="X" n="0633b24"/><entry rend="margin-left:1em"><form>忉利</form><def><p id="pX74p0633b2403" place="inline" rend="margin-left:1em">此云三十三。是欲界第二天。帝釋玉皇所
+<pb ed="X" id="X74.1491.0633c" n="0633c"/>
+<lb ed="X" n="0633c01"/>居也。</p></def></entry>
+<lb ed="X" n="0633c02"/><entry rend="margin-left:1em"><form>瘞</form><def><p id="pX74p0633c0202" place="inline" rend="margin-left:1em">音意。埋也。藏也。</p></def></entry>
+<lb ed="X" n="0633c03"/><entry rend="margin-left:1em"><form>蝦&CB00523;</form><def><p id="pX74p0633c0303" place="inline" rend="margin-left:1em">上音遐。下音麻俗作&CB03157;。一名蛙蛤。小者名
+<lb ed="X" n="0633c04"/>蛙。大者名蛤。元兩種不同。故嶺南俗呼為蛤。色有
+<lb ed="X" n="0633c05"/>青黃黑。乃水族蟲。</p></def></entry>
+<lb ed="X" n="0633c06"/><entry rend="margin-left:1em"><form>纑</form><def><p id="pX74p0633c0602" place="inline" rend="margin-left:1em">音盧。布縷也。</p></def></entry>
+<lb ed="X" n="0633c07"/><entry rend="margin-left:1em"><form>菴羅果</form><def><p id="pX74p0633c0704" place="inline" rend="margin-left:1em">此果多華少實。葉似柳。而長一尺。廣三
+<lb ed="X" n="0633c08"/>指。果似桃而非桃。似奈而非奈。底&CB00424;曲。生熟難辯。
+<lb ed="X" n="0633c09"/>元有兩種。小者生青熟黃。大者始終青色。西國王
+<lb ed="X" n="0633c10"/>園多植。故彼呼為王樹。</p></def></entry>
+<lb ed="X" n="0633c11"/><entry rend="margin-left:1em"><form>由旬</form><def><p id="pX74p0633c1103" place="inline" rend="margin-left:1em">一由旬。四十里。</p></def></entry>
+<lb ed="X" n="0633c12"/><entry rend="margin-left:1em"><form>廠</form><def><p id="pX74p0633c1202" place="inline" rend="margin-left:1em">音敞。屋無壁也。</p></def></entry>
+<lb ed="X" n="0633c13"/><entry rend="margin-left:1em"><form>阿摩洛</form><def><p id="pX74p0633c1304" place="inline" rend="margin-left:1em">亦云阿摩落迦。此云餘甘子。嶺南有之。
+<lb ed="X" n="0633c14"/>大如小奈。□□黃。味類橄欖。食能除風。天竺以為
+<lb ed="X" n="0633c15"/>藥果。</p></def></entry>
+<lb ed="X" n="0633c16"/><entry rend="margin-left:1em"><form>藍毗尼</form><def><p id="pX74p0633c1604" place="inline" rend="margin-left:1em">藍或作嵐或作流彌尼華言解脫或云
+<lb ed="X" n="0633c17"/>斷亦云滅。</p></def></entry></div2></div1>
+<lb ed="X" n="0633c18"/>
+<lb ed="X" n="0633c19"/><div1 type="w"><mulu type="附文" level="1" label="附供齋讚"/><head>○附供齋讚</head>
+<lb ed="X" n="0633c20"/><p id="pX74p0633c2001" rend="margin-left:1em"><note place="inline">若有齋獻供。當在午前。佛不過午食也。供時。或在未繞佛之先供。或在禮畢方供。皆得。其供齋儀。如常可
+<lb ed="X" n="0633c21"/>知。供畢。結讚曰</note>。</p>
+<lb ed="X" n="0633c22"/><p id="pX74p0633c2201">僧祇功就。三德圓彰。慈芳末代作津梁。人天共歸仰。
+<lb ed="X" n="0633c23"/>簋饌斯張。藉此出夢場。</p>
+<lb ed="X" n="0633c24"/><p id="pX74p0633c2401" rend="margin-left:1em">禪悅藏菩薩<note place="inline">云云</note></p></div1>
+</body></text></TEI.2>

@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X60n1114.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1114 毗尼日用錄</title>
+			<author>明 性祇述</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.14 $ (Big5)<date>$Date: 2010/05/26 08:25:21 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2010/05/26 08:25:21 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 60, No. 1114 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<profileDesc>
+		<langUsage>
+			<language id="san-rj">Sanskrit-Ranjana</language>
+			<language id="eng">English</language>
+			<language id="chi">Chinese</language>
+		</langUsage>
+</profileDesc>
+<revisionDesc>
+	<change>
+		<date>2005/06/28 10:04:34</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X60n1114.xml,v $
+Revision 1.14  2010/05/26 08:25:21  amtbgrace
+modified: 按 2010/4/29 maha 來信修訂（主旨為: [經文修訂] 一[搏>摶]、[搏>摶]取……）
+
+Revision 1.13  2009/04/22 09:01:32  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.12  2008/07/29 07:18:39  amtbgrace
+modified:[通用字] 經文修訂 [[冠-寸+文]>[冠-寸+ㄆ]]
+
+Revision 1.11  2007/12/13 06:48:43  amtbgrace
+modified: 經文修訂:  [條>絛]
+
+Revision 1.10  2007/09/03 04:02:30  amtbgrace
+modified: 校注插入 XML 作業
+
+Revision 1.9  2007/06/29 07:23:33  saywhat
+p0148b10 added RJ-C944
+
+Revision 1.8  2006/04/25 06:44:56  amtbgrace
+modified: 夾註偈頌新標記<lg type="note1"> 的修訂, p0154c23
+
+Revision 1.7  2006/03/02 06:54:06  amtbgrace
+modified: 修改標記,原<lg><note><l></l></note></lg>改為<p><note><lg><l></l></lg></note></p>
+
+Revision 1.6  2005/12/01 09:07:42  amtbgrace
+modified: 修訂自訂目錄 lable 的括號
+
+Revision 1.5  2005/11/30 06:34:35  amtbgrace
+modified: 執行全部 mulu.py, 取消自訂目錄的全形括號
+
+Revision 1.4  2005/07/27 08:00:19  eva
+modified: HH目錄修訂
+
+Revision 1.3  2005/07/26 06:28:24  eva
+modified: 依 note.txt 修訂, 目錄檢查修訂
+
+Revision 1.2  2005/07/05 12:03:38  chris
+fixed validity error
+
+Revision 1.1  2005/06/28 02:10:04  ray
+使用 basicx 程式 將 簡單標記版 轉成 XML
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X60.1114.0145a" n="0145a"/>
+<lb ed="X" n="0145a01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0145a02"/><div1 type="xu"><mulu type="序" level="1" label="No. 1114-A 敘"/><head>No. 1114-A
+<lb ed="X" n="0145a03"/> 敘</head>
+<lb ed="X" n="0145a04"/>
+<lb ed="X" n="0145a05"/><p id="pX60p0145a0501">夫欲求無上菩提必也精持禁戒戒律既精定慧自
+<lb ed="X" n="0145a06"/>然現前故欲精戒律不離日用平常日行不忘戒律
+<lb ed="X" n="0145a07"/>自然精瑩故自須行住坐臥喫飯穿衣乃至於屙屎
+<lb ed="X" n="0145a08"/>放尿之間慎勿有暫時偏廢者可也故華嚴淨行品
+<lb ed="X" n="0145a09"/>云若諸菩薩善用其心則獲一切勝妙功德於諸佛
+<lb ed="X" n="0145a10"/>法心無所礙又云菩薩如是用心一切世間諸天魔
+<lb ed="X" n="0145a11"/>梵沙門婆羅門乾闥婆阿修羅等及以一切聲聞緣
+<lb ed="X" n="0145a12"/>覺所不能動繇是觀之精脩戒品妙行兼持諒非小
+<lb ed="X" n="0145a13"/>乘之所比寧敢忽而不學者哉所以持戒比丘當依
+<lb ed="X" n="0145a14"/>淨行品中一一行持庶幾不負出家之志耳然而初
+<lb ed="X" n="0145a15"/>心蒙劣不能盡行者眾故不得<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>而廣中取略復以
+<lb ed="X" n="0145a16"/>古集密部&CB00057;語而贅之以便其初學目為毗尼日用
+<lb ed="X" n="0145a17"/>俾之二六時中即行相以明自心無上菩提因茲而
+<lb ed="X" n="0145a18"/>有入焉欲廣流傳謹以為引。</p><p id="pX60p0145a1812" place="inline" rend="margin-left:1em">力果道人　性祗述</p></div1>
+<lb ed="X" n="0145a19"/>
+<lb ed="X" n="0145a20"/>
+<lb ed="X" n="0145a21"/>
+<lb ed="X" n="0145a22"/>
+<lb ed="X" n="0145a23"/>
+<lb ed="X" n="0145a24"/>
+<pb ed="X" id="X60.1114.0145b" n="0145b"/>
+<lb ed="X" n="0145b01"/>
+<lb ed="X" n="0145b02"/>
+<lb ed="X" n="0145b03"/><head type="no">No. 1114</head>
+<lb ed="X" n="0145b04"/><juan fun="open" n="1"><mulu type="卷" n="1"/><jhead>毗尼日用錄</jhead></juan>
+<lb ed="X" n="0145b05"/>
+<lb ed="X" n="0145b06"/><div1 type="other"><mulu type="其他" level="1" label="毗尼日用錄"/><p id="pX60p0145b0601" rend="margin-left:2em">毗尼日用者舊有戒相流傳其文雖足失於次
+<lb ed="X" n="0145b07"/>序受持者似乎未得其倫今之所錄者與宣城
+<lb ed="X" n="0145b08"/>圭師所集苦海浮囊大約相同然而其中增補
+<lb ed="X" n="0145b09"/>稍有差別學者貴乎持誦為美慎毋彼此疑議
+<lb ed="X" n="0145b10"/>焉。</p>
+<lb ed="X" n="0145b11"/><div2 type="other"><mulu type="其他" level="2" label="行者凡睡眠醒時即當輕輕默誦云"/><head>行者凡睡眠醒時即當輕輕默誦云</head>
+<lb ed="X" n="0145b12"/><lg id="lgX60p0145b1201"><l>睡眠始寤</l><l>當願眾生</l><l>一切智覺</l><l>周顧十方</l></lg>
+<lb ed="X" n="0145b13"/><p id="pX60p0145b1301" type="dharani">唵地利日哩莎訶<note place="inline">七遍</note></p></div2>
+<lb ed="X" n="0145b14"/><div2 type="other"><mulu type="其他" level="2" label="凡聞一應鐘聲或自擊皆誦云"/><head>凡聞一應鐘聲或自擊皆誦云</head>
+<lb ed="X" n="0145b15"/><lg id="lgX60p0145b1501"><l>願此鍾聲超法界</l><l>鐵圍幽闇患皆聞</l>
+<lb ed="X" n="0145b16"/><l>聞塵清淨證圓通</l><l>一切有情成正覺</l></lg>
+<lb ed="X" n="0145b17"/><lg id="lgX60p0145b1701"><l>聞鐘聲</l><l>煩惱輕</l><l>智慧長</l><l>菩提生</l>
+<lb ed="X" n="0145b18"/><l>離地獄</l><l>出火坑</l><l>願成佛</l><l>度眾生</l></lg></div2>
+<lb ed="X" n="0145b19"/><div2 type="other"><mulu type="其他" level="2" label="破地獄＆CB00057；云"/><head>破地獄&CB00057;云</head>
+<lb ed="X" n="0145b20"/><p id="pX60p0145b2001" type="dharani">唵伽羅帝耶莎婆訶<note place="inline">七遍</note></p></div2>
+<lb ed="X" n="0145b21"/><div2 type="other"><mulu type="其他" level="2" label="又行者或睡眠時一聞鐘聲即當起坐慎勿懈怠懶墮自招殃禍"/><head>又行者或睡眠時一聞鐘聲即當起坐慎勿
+<lb ed="X" n="0145b22"/>懈怠懶墮自招殃禍</head>
+<lb ed="X" n="0145b23"/><p id="pX60p0145b2301">古德云。</p>
+<lb ed="X" n="0145b24"/><lg id="lgX60p0145b2401"><l>聞鐘臥不起</l><l>護榻善神瞋</l><l>現世無福慧</l>
+<pb ed="X" id="X60.1114.0145c" n="0145c"/>
+<lb ed="X" n="0145c01"/><l>死後墮蛇身</l><l>有病者當坐</l><l>病重者不論<note place="inline">故</note></l></lg></div2>
+<lb ed="X" n="0145c02"/><div2 type="other"><mulu type="其他" level="2" label="行者侵晨臨下單時著衣偈云"/><head>行者侵晨臨下單時著衣偈云</head>
+<lb ed="X" n="0145c03"/><lg id="lgX60p0145c0301"><l>若著上衣</l><l>當願眾生</l><l>獲勝善根</l><l>至法彼岸</l>
+<lb ed="X" n="0145c04"/><l>著下裙時</l><l>當願眾生</l><l>服諸善根</l><l>具足慚愧</l>
+<lb ed="X" n="0145c05"/><l>整衣束帶</l><l>當願眾生</l><l>檢束善根</l><l>不令散失</l></lg></div2>
+<lb ed="X" n="0145c06"/><div2 type="other"><mulu type="其他" level="2" label="正下單偈＆CB00057；云"/><head>正下單偈&CB00057;云<note place="inline">凡下單時當彈指三下</note></head>
+<lb ed="X" n="0145c07"/><lg id="lgX60p0145c0701"><l>下足住時</l><l>當願眾生</l><l>心得解脫</l><l>安住不動</l>
+<lb ed="X" n="0145c08"/><l>從朝寅旦直至暮</l><l>一切眾生自迴護</l>
+<lb ed="X" n="0145c09"/><l>若於足下喪身形</l><l>願汝即時生淨土</l></lg>
+<lb ed="X" n="0145c10"/><p id="pX60p0145c1001" type="dharani">唵逸地律尼莎訶<note place="inline">七遍</note></p></div2>
+<lb ed="X" n="0145c11"/><div2 type="other"><mulu type="其他" level="2" label="行步不傷蟲偈＆CB00057；云"/><head>行步不傷蟲偈&CB00057;云</head>
+<lb ed="X" n="0145c12"/><lg id="lgX60p0145c1201"><l>若舉於足</l><l>當願眾生</l><l>出生死海</l><l>具眾善法</l></lg>
+<lb ed="X" n="0145c13"/><p id="pX60p0145c1301" type="dharani">唵地利日利娑婆訶<note place="inline">七遍</note></p></div2>
+<lb ed="X" n="0145c14"/><div2 type="other"><mulu type="其他" level="2" label="登廁儀軌"/><head>登廁儀軌</head>
+<lb ed="X" n="0145c15"/><p id="pX60p0145c1501">緇門警訓云登廁之法律制委明&CB02649;欲潔嚴身器親
+<lb ed="X" n="0145c16"/>近聖賢洗淨洗手各有軌度儻未盡諳則反污其手
+<lb ed="X" n="0145c17"/>禮誦燒香合掌執捉動&CB00364;得咎可不慎歟今將古規
+<lb ed="X" n="0145c18"/>稍加增削然其細行固難備舉大抵種種動用之際
+<lb ed="X" n="0145c19"/>皆有方便護人意根處自當觸類而長之書不云乎
+<lb ed="X" n="0145c20"/>不矜細行終累大德況出家者流幸冀高明勸諸後
+<lb ed="X" n="0145c21"/>進經云若登廁不洗淨者不得入大僧類不得坐禪
+<lb ed="X" n="0145c22"/>&CB00646;不得登寶殿等初入廁時先須彈指三下使內人
+<lb ed="X" n="0145c23"/>知不得迫促內人使出<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上復當三彈指以警在穢
+<lb ed="X" n="0145c24"/>之鬼默念&CB00057;云。</p>
+<pb ed="X" id="X60.1114.0146a" n="0146a"/>
+<lb ed="X" n="0146a01"/><p id="pX60p0146a0101" type="dharani">唵狠魯陀耶娑婆訶<note place="inline">七遍</note></p>
+<lb ed="X" n="0146a02"/><p id="pX60p0146a0201">亦不可痰吐入廁中以傷在穢之鬼此二項陰德具
+<lb ed="X" n="0146a03"/>載藏經茲不繁引初蹲身時先須傾少水在槽中一
+<lb ed="X" n="0146a04"/>則解舊糞臭氣二則新糞易下不積槽中復念云。</p>
+<lb ed="X" n="0146a05"/><lg id="lgX60p0146a0501"><l>大小便時</l><l>當願眾生</l><l>棄貪瞋痴</l><l>蠲除罪法</l></lg>
+<lb ed="X" n="0146a06"/><p id="pX60p0146a0601" type="dharani">唵室利曳婆醯莎訶<note place="inline">七遍</note></p>
+<lb ed="X" n="0146a07"/><p id="pX60p0146a0701">亦不得努氣作聲不得低頭視下不得唾壁共人說
+<lb ed="X" n="0146a08"/>話等具如律中亦不繁引便畢洗淨偈云。</p>
+<lb ed="X" n="0146a09"/><lg id="lgX60p0146a0901"><l>事訖就水</l><l>當願眾生</l><l>出世法中</l><l>速疾而往</l></lg>
+<lb ed="X" n="0146a10"/><p id="pX60p0146a1001">又云。</p>
+<lb ed="X" n="0146a11"/><lg id="lgX60p0146a1101"><l>洗滌形穢</l><l>當願眾生</l><l>清淨調柔</l><l>畢竟無垢</l></lg>
+<lb ed="X" n="0146a12"/><p id="pX60p0146a1201" type="dharani">唵賀曩密栗帝莎訶<note place="inline">七遍</note></p>
+<lb ed="X" n="0146a13"/><p id="pX60p0146a1301" rend="margin-left:2em"><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上三&CB00057;各有安置不同<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>隨一法而受持皆
+<lb ed="X" n="0146a14"/>得勝益。</p></div2>
+<lb ed="X" n="0146a15"/><div2 type="other"><mulu type="其他" level="2" label="淨手偈＆CB00057；"/><head>淨手偈&CB00057;</head>
+<lb ed="X" n="0146a16"/><lg id="lgX60p0146a1601"><l>以水盥掌</l><l>當願眾生</l><l>得清淨手</l><l>受持佛法</l></lg>
+<lb ed="X" n="0146a17"/><p id="pX60p0146a1701" type="dharani">唵主迦囉耶莎訶<note place="inline">七遍乃至二十一遍更妙</note></p>
+<lb ed="X" n="0146a18"/><p id="pX60p0146a1801" rend="margin-left:2em">洗手當用&CB01926;泥皂丸或皂角三物次第各洗七
+<lb ed="X" n="0146a19"/>度手背亦然至減必用泥皂二物不可缺也如
+<lb ed="X" n="0146a20"/>或不然終成不淨故緇門警訓云元祐中有蜀
+<lb ed="X" n="0146a21"/>僧智超法師常誦華嚴經<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>三十年偶見一童
+<lb ed="X" n="0146a22"/>子風貌清爽舉手高揖超曰何來曰五臺來超
+<lb ed="X" n="0146a23"/>曰何遠至此曰有少事欲相導故超曰願聞曰
+<lb ed="X" n="0146a24"/>吾師誦經固可嘉矣但失在登廁洗淨時觸水
+<pb ed="X" id="X60.1114.0146b" n="0146b"/>
+<lb ed="X" n="0146b01"/>淋其手背而未&CB00573;用&CB01926;泥洗之所用&CB01926;泥律制
+<lb ed="X" n="0146b02"/>七度今<app><lem wit="【CBETA】" resp="CBETA.maha">但</lem><rdg wit="【卍續】">&CB02029;</rdg></app>二三緣此觸尚存禮佛誦經悉皆得
+<lb ed="X" n="0146b03"/>罪言訖不見超&CB00518;而改過識者或曰此必文殊
+<lb ed="X" n="0146b04"/>化現有警於超也故知洗手必須依法因果經
+<lb ed="X" n="0146b05"/>云觸手請經當獲廁中蟲報更有多種事儀詳
+<lb ed="X" n="0146b06"/>明警訓并律部中不可不知也<note place="inline">經中入廁洗淨各有神&CB00057;倘不
+<lb ed="X" n="0146b07"/>默持此&CB00057;者縱用七恒河水洗之不得身器清淨何以故種子不淨也</note>。</p></div2>
+<lb ed="X" n="0146b08"/><div2 type="other"><mulu type="其他" level="2" label="洗面偈＆CB00057；"/><head>洗面偈&CB00057;</head>
+<lb ed="X" n="0146b09"/><lg id="lgX60p0146b0901"><l>以水洗面</l><l>當願眾生</l><l>得淨法門</l><l>永無垢染</l></lg>
+<lb ed="X" n="0146b10"/><p id="pX60p0146b1001" type="dharani">唵&CB00772;<note place="inline">二十一遍</note>莎訶</p></div2>
+<lb ed="X" n="0146b11"/><div2 type="other"><mulu type="其他" level="2" label="飲水偈＆CB00057；"/><head>飲水偈&CB00057;</head>
+<lb ed="X" n="0146b12"/><lg id="lgX60p0146b1201"><l>佛觀一&CB00425;水</l><l>八萬四千蟲</l><l>若不誦此&CB00057;</l>
+<lb ed="X" n="0146b13"/><l>如食眾生肉</l></lg>
+<lb ed="X" n="0146b14"/><p id="pX60p0146b1401" type="dharani">唵&CB00085;悉波羅摩尼莎訶<note place="inline">七遍如先禮佛後而飲水更妙</note></p></div2>
+<lb ed="X" n="0146b15"/><div2 type="other"><mulu type="其他" level="2" label="搭衣展具偈＆CB00057；"/><head>搭衣展具偈&CB00057;</head>
+<lb ed="X" n="0146b16"/><lg id="lgX60p0146b1601"><l>著袈裟衣</l><l>當願眾生</l><l>心無所染</l><l>具大仙道</l></lg></div2>
+<lb ed="X" n="0146b17"/><div2 type="other"><mulu type="其他" level="2" label="五衣云"/><head>五衣云</head>
+<lb ed="X" n="0146b18"/><lg id="lgX60p0146b1801"><l>善哉解脫服</l><l>無相福田衣</l><l>我今頂戴受</l>
+<lb ed="X" n="0146b19"/><l>世世不捨離</l></lg>
+<lb ed="X" n="0146b20"/><p id="pX60p0146b2001" type="dharani">唵悉陀耶莎訶<note place="inline">七遍</note></p></div2>
+<lb ed="X" n="0146b21"/><div2 type="other"><mulu type="其他" level="2" label="七衣云"/><head>七衣云</head>
+<lb ed="X" n="0146b22"/><lg id="lgX60p0146b2201"><l>善哉解脫服</l><l>無相福田衣</l><l>我今頂戴受</l>
+<lb ed="X" n="0146b23"/><l>世世常得披</l></lg>
+<lb ed="X" n="0146b24"/><p id="pX60p0146b2401" type="dharani">唵度波度波莎訶<note place="inline">七遍</note></p></div2>
+<pb ed="X" id="X60.1114.0146c" n="0146c"/>
+<lb ed="X" n="0146c01"/><div2 type="other"><mulu type="其他" level="2" label="大衣云"/><head>大衣云</head>
+<lb ed="X" n="0146c02"/><lg id="lgX60p0146c0201"><l>著僧伽梨</l><l>當願眾生</l><l>入第一位</l><l>得不動法</l>
+<lb ed="X" n="0146c03"/><l>善哉解脫服</l><l>無相福田衣</l><l>我今頂戴受</l>
+<lb ed="X" n="0146c04"/><l>廣度諸&CB00320;迷</l></lg>
+<lb ed="X" n="0146c05"/><p id="pX60p0146c0501" type="dharani">唵摩訶迦波波吒悉帝莎訶<note place="inline">七遍</note></p></div2>
+<lb ed="X" n="0146c06"/><div2 type="other"><mulu type="其他" level="2" label="或到佛前或登道場未展具先念偈＆CB00057；云"/><head>或到佛前或登道場未展具先念偈&CB00057;云</head>
+<lb ed="X" n="0146c07"/><lg id="lgX60p0146c0701"><l>若得見佛</l><l>當願眾生</l><l>得無礙眼</l><l>見一切佛</l></lg>
+<lb ed="X" n="0146c08"/><p id="pX60p0146c0801" type="dharani">唵阿蜜栗帝吽癹吒<note place="inline">七遍</note></p></div2>
+<lb ed="X" n="0146c09"/><div2 type="other"><mulu type="其他" level="2" label="展具云"/><head>展具云</head>
+<lb ed="X" n="0146c10"/><lg id="lgX60p0146c1001"><l>臥具尼師擅</l><l>長養心苗性</l><l>展開登聖地</l>
+<lb ed="X" n="0146c11"/><l>奉行如來命</l></lg>
+<lb ed="X" n="0146c12"/><p id="pX60p0146c1201" type="dharani">唵檀波檀波莎訶<note place="inline">七遍</note></p></div2>
+<lb ed="X" n="0146c13"/><div2 type="other"><mulu type="其他" level="2" label="或念讚佛偈云"/><head>或念讚佛偈云</head>
+<lb ed="X" n="0146c14"/><lg id="lgX60p0146c1401"><l>法王無上尊</l><l>三界無倫匹</l><l>天人之導師</l>
+<lb ed="X" n="0146c15"/><l>四生之慈父</l><l>我今大歸依</l><l>速滅三祇業</l>
+<lb ed="X" n="0146c16"/><l>稱揚若讚歎</l><l>億劫莫能盡</l></lg></div2>
+<lb ed="X" n="0146c17"/><div2 type="other"><mulu type="其他" level="2" label="文殊菩薩禮佛作觀偈＆CB00057；云"/><head>文殊菩薩禮佛作觀偈&CB00057;云</head>
+<lb ed="X" n="0146c18"/><lg id="lgX60p0146c1801" type="abnormal"><l rend="text-indent:1em">能禮所禮性空寂</l><l rend="text-indent:1em">感應道交難思議</l>
+<lb ed="X" n="0146c19"/><l rend="text-indent:1em">我此道場如帝珠</l><l rend="text-indent:1em">十方諸佛影現中<note place="inline">諸佛二字
+<lb ed="X" n="0146c20"/>或菩薩羅漢等隨改</note></l><l rend="text-indent:1em">我身影現諸佛前<note place="inline">諸佛亦隨
+<lb ed="X" n="0146c21"/>意改</note></l><l rend="text-indent:1em">頭面接足歸命禮</l></lg>
+<lb ed="X" n="0146c22"/><p id="pX60p0146c2201" type="dharani">唵&CB00085;資囉日<note place="inline">七遍日音密有云&CB00085;日囉勿勿亦音密有云伐日囉斛梵音楚夏不同隨持一
+<lb ed="X" n="0146c23"/>法即得</note></p>
+<lb ed="X" n="0146c24"/><lg id="lgX60p0146c2401"><l>真空法性如&CB00980;空</l><l>常住法寶難思議</l>
+<pb ed="X" id="X60.1114.0147a" n="0147a"/>
+<lb ed="X" n="0147a01"/><l>我身影現法寶前</l><l>一心如法歸命禮</l></lg>
+<lb ed="X" n="0147a02"/><p id="pX60p0147a0201"><note place="inline">此即禮法偈真言同上七遍</note>或以三自歸禮拜當隨時便<note place="inline">兼前偈&CB00057;更佳</note>。</p></div2>
+<lb ed="X" n="0147a03"/><div2 type="other"><mulu type="其他" level="2" label="若禮塔繞塔偈云"/><head>若禮塔繞塔偈云</head>
+<lb ed="X" n="0147a04"/><lg id="lgX60p0147a0401"><l>頂禮於塔</l><l>當願眾生</l><l>一切天人</l><l>無能見頂</l>
+<lb ed="X" n="0147a05"/><l>繞塔三&CB00038;</l><l>當願眾生</l><l>勤求佛道</l><l>心無懈歇</l></lg>
+<lb ed="X" n="0147a06"/><p id="pX60p0147a0601" type="dharani">南無三滿多沒&CB00499;喃唵度波度波莎訶<note place="inline">七遍</note></p>
+<lb ed="X" n="0147a07"/><p id="pX60p0147a0701" rend="margin-left:2em">禮拜讚歎<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>然後持誦一一發願回向西方決
+<lb ed="X" n="0147a08"/>生上上品比丘不得通肩著袈裟禮佛塔廟等
+<lb ed="X" n="0147a09"/>死墮鐵甲地獄故除坐禪受食通肩不犯<note place="inline">通肩者通
+<lb ed="X" n="0147a10"/>披兩肩也</note>又比丘不得披禪衣禮佛乃至尊宿以及
+<lb ed="X" n="0147a11"/>佛塔廟前經行死墮龜鱉黿鼉之類故慎之慎
+<lb ed="X" n="0147a12"/>之。</p></div2>
+<lb ed="X" n="0147a13"/><div2 type="other"><mulu type="其他" level="2" label="持錫偈＆CB00057；云"/><head>持錫偈&CB00057;云</head>
+<lb ed="X" n="0147a14"/><lg id="lgX60p0147a1401"><l>執持錫杖</l><l>當願眾生</l><l>設大施會</l><l>示如實道</l></lg>
+<lb ed="X" n="0147a15"/><p id="pX60p0147a1501" type="dharani">唵那&CB00069;&CB07115;那&CB00069;&CB07115;那&CB00069;吒&CB00425;底那&CB00069;帝娜夜&CB00425;寧吽
+<lb ed="X" n="0147a16"/>癹吒<note place="inline">七遍</note></p></div2>
+<lb ed="X" n="0147a17"/><div2 type="other"><mulu type="其他" level="2" label="乞食偈＆CB00057；云"/><head>乞食偈&CB00057;云</head>
+<lb ed="X" n="0147a18"/><lg id="lgX60p0147a1801"><l>入里乞食</l><l>當願眾生</l><l>入深法界</l><l>心無障礙</l></lg>
+<lb ed="X" n="0147a19"/><p id="pX60p0147a1901" type="dharani">唵折隸主&CB12528;准提娑婆訶<note place="inline">七遍</note></p></div2>
+<lb ed="X" n="0147a20"/><div2 type="other"><mulu type="其他" level="2" label="食時展＆CB00425；偈＆CB00057；云"/><head>食時展&CB00425;偈&CB00057;云</head>
+<lb ed="X" n="0147a21"/><lg id="lgX60p0147a2101"><l>如來應量器</l><l>我今得敷展</l><l>願供一切眾</l>
+<lb ed="X" n="0147a22"/><l>等三輪空寂</l></lg>
+<lb ed="X" n="0147a23"/><p id="pX60p0147a2301" type="dharani">唵斯麻摩尼莎訶<note place="inline">七遍</note></p></div2>
+<lb ed="X" n="0147a24"/><div2 type="other"><mulu type="其他" level="2" label="空＆CB00425；滿＆CB00425；偈云"/><head>空&CB00425;滿&CB00425;偈云</head>
+<pb ed="X" id="X60.1114.0147b" n="0147b"/>
+<lb ed="X" n="0147b01"/><lg id="lgX60p0147b0101"><l>若見空&CB00425;</l><l>當願眾生</l><l>其心清淨</l><l>空無煩惱</l>
+<lb ed="X" n="0147b02"/><l>若見滿&CB00425;</l><l>當願眾生</l><l>具足成滿</l><l>一切善法</l></lg>
+<lb ed="X" n="0147b03"/><p id="pX60p0147b0301" type="dharani">唵部&CB01236;<note place="inline">七遍</note></p></div2>
+<lb ed="X" n="0147b04"/><div2 type="other"><mulu type="其他" level="2" label="正受食時或跏趺坐或隨宜坐展巾單於膝上左手捧＆CB00425；右手扶緣念供養準常法可知念畢依供佛利生儀應念＆CB00771；字真言二十一遍更念變食真言二十一遍然後念出生偈＆CB00057；云"/><head>正受食時或跏趺坐或隨宜坐展巾單於膝
+<lb ed="X" n="0147b05"/>上左手捧&CB00425;右手扶緣念供養準常法可知
+<lb ed="X" n="0147b06"/>念畢依供佛利生儀應念&CB00771;字真言二十一
+<lb ed="X" n="0147b07"/>遍更念變食真言二十一遍然後念出生偈
+<lb ed="X" n="0147b08"/>&CB00057;云</head>
+<lb ed="X" n="0147b09"/><lg id="lgX60p0147b0901"><l>法力不思議</l><l>大悲無障礙</l><l>七粒遍十方</l>
+<lb ed="X" n="0147b10"/><l>普施周沙界</l></lg>
+<lb ed="X" n="0147b11"/><p id="pX60p0147b1101" type="dharani">唵度利益莎訶<note place="inline">七遍此早齋出生用</note></p>
+<lb ed="X" n="0147b12"/><lg id="lgX60p0147b1201"><l>大鵬金翅鳥</l><l>曠野鬼神眾</l><l>羅剎鬼子母</l>
+<lb ed="X" n="0147b13"/><l>甘露悉充滿</l></lg>
+<lb ed="X" n="0147b14"/><p id="pX60p0147b1401" type="dharani">唵穆帝莎訶<note place="inline">七遍此午齋出生用然而二時所說似有差別亦可統一偈云</note></p>
+<lb ed="X" n="0147b15"/><lg id="lgX60p0147b1501"><l>法力不思議</l><l>慈悲無障礙</l><l>七粒遍十方</l>
+<lb ed="X" n="0147b16"/><l>普施周沙界</l><l>鬼子母</l><l>曠野神</l></lg>
+<lb ed="X" n="0147b17"/><lg id="lgX60p0147b1701"><l>金翅鳥王</l><l>悉令皆飽滿<note place="inline">真言同上度利益等侍者送食偈&CB00057;云</note></l>
+<lb ed="X" n="0147b18"/><l>汝等鬼神眾</l><l>我今施汝供</l><l>此食遍十方</l>
+<lb ed="X" n="0147b19"/><l>一切鬼神共</l></lg>
+<lb ed="X" n="0147b20"/><p id="pX60p0147b2001" type="dharani">唵穆力陵莎訶</p><p id="pX60p0147b2007" place="inline"><note place="inline">七遍如無侍者自送亦爾出生之後應以二手十指外相&CB01415;以右壓左結
+<lb ed="X" n="0147b21"/>印過頂念唵字真言二十一遍仍念唵縛日囉斛七遍更妙如上諸&CB00057;行者果能如是一一行持承斯神&CB00057;加
+<lb ed="X" n="0147b22"/>持之力同以河沙七寶百昧飲食供養十方諸佛恒沙菩薩及諸羅漢聖僧普能周遍其功其德實不可思議
+<lb ed="X" n="0147b23"/>者也今之學人自既不能依教奉行見人所行反輕笑之何其味之甚矣真可惜哉然後捧&CB00425;喝&CB00057;云</note>。</p>
+<lb ed="X" n="0147b24"/><lg id="lgX60p0147b2401"><l>執持應器</l><l>當願眾生</l><l>成就法器</l><l>受人天供</l></lg>
+<pb ed="X" id="X60.1114.0147c" n="0147c"/>
+<lb ed="X" n="0147c01"/><p id="pX60p0147c0101" type="dharani">唵枳哩枳哩&CB00085;日囉吽癹吒<note place="inline">七遍正受食時當存五觀三匙</note></p>
+<lb ed="X" n="0147c02"/><lg id="lgX60p0147c0201"><l>一計工多少</l><l>量彼來處</l><l>一&CB00425;之飯</l><l>作夫汗流</l>
+<lb ed="X" n="0147c03"/><l>二忖<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>德行</l><l>全缺應供</l><l>缺則不宜</l><l>全可乃受</l>
+<lb ed="X" n="0147c04"/><l>三防心離過</l><l>貪等為宗</l><l>離此三過</l><l>貪瞋癡也</l>
+<lb ed="X" n="0147c05"/><l>四正事良藥</l><l>為療形枯</l><l>饑渴病故</l><l>須食為藥</l>
+<lb ed="X" n="0147c06"/><l>五為成道故</l><l>應受此食</l><l>不食成病</l><l>道業何從</l></lg>
+<lb ed="X" n="0147c07"/><list><item id="itemX60p0147c0701">一願斷一切惡盡</item><item id="itemX60p0147c0708">二願脩一切善滿</item><item id="itemX60p0147c0715">三誓度一
+<lb ed="X" n="0147c08"/>切眾生</item></list>
+<lb ed="X" n="0147c09"/><p id="pX60p0147c0901">有云三所脩善果回施眾生謂皆共成佛亦可。</p><p id="pX60p0147c0919" place="inline"><note place="inline">行者凡二
+<lb ed="X" n="0147c10"/>時受食必須作此五觀之想更作淤爛腐膿不淨等想然後舉三匙之願而食之古云五觀無違三匙有節如
+<lb ed="X" n="0147c11"/>或先舉三匙後作五觀亦得僧跋云佛制比丘食存五觀散心&CB01614;話信施難消聞斯語<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>寧不慎歟結齋先念
+<lb ed="X" n="0147c12"/>準提&CB00057;後偈云</note>。</p>
+<lb ed="X" n="0147c13"/><lg id="lgX60p0147c1301"><l>所謂布施者</l><l>必獲其義利</l><l>若為樂故施</l>
+<lb ed="X" n="0147c14"/><l>後必得安樂</l></lg>
+<lb ed="X" n="0147c15"/><lg id="lgX60p0147c1501"><l>飯食<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>訖</l><l>當願眾生</l><l>所作皆辦</l><l>具諸佛法</l></lg></div2>
+<lb ed="X" n="0147c16"/><div2 type="other"><mulu type="其他" level="2" label="受＆CB01321；偈云"/><head>受&CB01321;偈云</head>
+<lb ed="X" n="0147c17"/><lg id="lgX60p0147c1701"><l>財法二施</l><l>等無差別</l><l>檀波羅蜜</l><l>具足圓滿</l></lg></div2>
+<lb ed="X" n="0147c18"/><div2 type="other"><mulu type="其他" level="2" label="洗＆CB00425；偈＆CB00057；云"/><head>洗&CB00425;偈&CB00057;云</head>
+<lb ed="X" n="0147c19"/><lg id="lgX60p0147c1901"><l>以此洗&CB00425;水</l><l>如天甘露味</l><l>施與諸鬼神</l>
+<lb ed="X" n="0147c20"/><l>悉令獲飽滿</l></lg>
+<lb ed="X" n="0147c21"/><p id="pX60p0147c2101" type="dharani">唵摩休囉悉莎訶</p><p id="pX60p0147c2108" place="inline"><note place="inline">七遍先將淨水蕩過此水或送淨地或生臺或淨河流水等處皆得
+<lb ed="X" n="0147c22"/>利益切莫棄於穢處後以淨水內外洗之方用巾布拭之令燥即得</note>。</p></div2>
+<lb ed="X" n="0147c23"/><div2 type="other"><mulu type="其他" level="2" label="嚼楊枝偈＆CB00057；云"/><head>嚼楊枝偈&CB00057;云</head>
+<lb ed="X" n="0147c24"/><lg id="lgX60p0147c2401"><l>手執楊枝</l><l>當願眾生</l><l>皆得妙法</l><l>究竟清淨</l>
+<pb ed="X" id="X60.1114.0148a" n="0148a"/>
+<lb ed="X" n="0148a01"/><l>嚼楊枝時</l><l>當願眾生</l><l>其心調淨</l><l>噬諸煩惱</l></lg>
+<lb ed="X" n="0148a02"/><p id="pX60p0148a0201" type="dharani">唵&CB00771;唵&CB00771;<note place="inline">二十一遍</note>莎訶<note place="inline">&CB00771;舊即&CB00772;</note></p>
+<lb ed="X" n="0148a03"/><p id="pX60p0148a0301">又&CB00057;曰。</p>
+<lb ed="X" n="0148a04"/><p id="pX60p0148a0401" type="dharani">唵阿暮伽彌摩&CB12528;爾&CB00085;迦囉僧輸&CB00499;禰&CB00425;頭摩俱麼
+<lb ed="X" n="0148a05"/>囉爾&CB00085;僧輸陀耶陀囉陀囉素彌麼&CB02252;娑縛訶</p><p id="pX60p0148a0519" place="inline"><note place="inline">七遍或憚
+<lb ed="X" n="0148a06"/>繁但念前唵&CB00772;真言亦得嚼楊枝有五利益一口不苦二口不臭三除風四除熱五除痰&CB00486;不嚼得五過一口
+<lb ed="X" n="0148a07"/>氣臭二不別味三&CB00486;不消四不引食五眼不明嚼時須在屏處不得對佛塔并諸往來潔淨等處若棄齒木先
+<lb ed="X" n="0148a08"/>以水洗乃於屏處彈指警覺而&CB07148;之若取楊枝當問主化若無主者應與樹神問訊而化教人亦耳又不得取
+<lb ed="X" n="0148a09"/>中枝傍枝則可如不依教而行得越法罪</note>。</p></div2>
+<lb ed="X" n="0148a10"/><div2 type="other"><mulu type="其他" level="2" label="剃頭偈＆CB00057；云"/><head>剃頭偈&CB00057;云</head>
+<lb ed="X" n="0148a11"/><lg id="lgX60p0148a1101"><l>剃除鬚髮</l><l>當願眾生</l><l>遠離煩惱</l><l>究竟寂滅</l></lg>
+<lb ed="X" n="0148a12"/><p id="pX60p0148a1201" type="dharani">唵悉殿都漫多羅跋陀耶娑婆訶</p><p id="pX60p0148a1214" place="inline"><note place="inline">七遍剃頭當依文殊菩薩所選吉日
+<lb ed="X" n="0148a13"/>用之每月初四初六初七初八初九初十十一十四十五十六十九二十二二十三二十四二十五二十六二
+<lb ed="X" n="0148a14"/>十九此出寶積部</note>。</p></div2>
+<lb ed="X" n="0148a15"/><div2 type="other"><mulu type="其他" level="2" label="入浴軌式"/><head>入浴軌式</head>
+<lb ed="X" n="0148a16"/><p id="pX60p0148a1601" rend="margin-left:2em">比丘凡入浴室當著五條衣如或處所不便亦
+<lb ed="X" n="0148a17"/>可隨其所宜當將淨衣掛於淨竿上觸衣掛於
+<lb ed="X" n="0148a18"/>觸竿上脫衣著衣安詳自在浴前先洗淨洗足
+<lb ed="X" n="0148a19"/>須細行不得觸水入浴釜洗足沐浴偈&CB00057;云。</p>
+<lb ed="X" n="0148a20"/><lg id="lgX60p0148a2001"><l>若洗足時</l><l>當願眾生</l><l>具神足力</l><l>所行無礙</l>
+<lb ed="X" n="0148a21"/><l>洗浴身體</l><l>當願眾生</l><l>身心無垢</l><l>內外光潔</l></lg>
+<lb ed="X" n="0148a22"/><p id="pX60p0148a2201" type="dharani">唵跋折囉惱迦吒莎訶</p><p id="pX60p0148a2210" place="inline"><note place="inline">七遍不得浴堂小遺不得共人語笑人天寶鑑云有一沙
+<lb ed="X" n="0148a23"/>彈入浴戲笑遂感沸湯地獄之報痛哉幾微小失而招大過可不戒歟</note>。</p></div2>
+<lb ed="X" n="0148a24"/><div2 type="other"><mulu type="其他" level="2" label="展單敷具坐禪偈＆CB00057；云"/><head>展單敷具坐禪偈&CB00057;云</head>
+<pb ed="X" id="X60.1114.0148b" n="0148b"/>
+<lb ed="X" n="0148b01"/><lg id="lgX60p0148b0101"><l>若敷&CB00646;座</l><l>當願眾生</l><l>開敷善法</l><l>見真實相</l>
+<lb ed="X" n="0148b02"/><l>正身端坐</l><l>當願眾生</l><l>坐菩提座</l><l>心無所著</l></lg>
+<lb ed="X" n="0148b03"/><p id="pX60p0148b0301" type="dharani">唵&CB00085;則囉阿尼&CB00425;囉尼邑多耶莎訶</p><p id="pX60p0148b0315" place="inline"><note place="inline">七遍行者正坐禪時必須勇猛
+<lb ed="X" n="0148b04"/>精進善&CB00230;昏散慎勿懈怠懶墮恣縱昏沉使之善法而有失也故遺教經云初夜後夜亦勿有廢中夜誦經以
+<lb ed="X" n="0148b05"/>自消息無以睡眠因緣令一生空過無所得也當念無常之火燒諸世間早求自度勿睡眠也思之</note>。</p></div2>
+<lb ed="X" n="0148b06"/><div2 type="other"><mulu type="其他" level="2" label="出定偈云"/><head>出定偈云</head>
+<lb ed="X" n="0148b07"/><lg id="lgX60p0148b0701"><l>捨加趺坐</l><l>當願眾生</l><l>觀諸行法</l><l>悉歸散滅</l></lg>
+<lb ed="X" n="0148b08"/><p id="pX60p0148b0801"><note place="inline">臨睡眠時當合掌觀想念佛十聲即誦偈云</note>。</p>
+<lb ed="X" n="0148b09"/><lg id="lgX60p0148b0901"><l>心時寢息</l><l>當願眾生</l><l>身得安隱</l><l>心無動亂</l></lg>
+<lb ed="X" n="0148b10"/><p id="pX60p0148b1001" type="dharani"><term lang="san-rj">&RJ-C944;</term></p><p id="pX60p0148b1002" place="inline"><note place="inline">又當觀想此阿字輪一氣持二十一遍右&CB00169;而臥<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上偈&CB00057;乃日用一周之功課也如是終而復始
+<lb ed="X" n="0148b11"/>始而復終務當綿密毋令有間久而純熟至於身心清淨者戒行功德不求其成就而自然成就也或謂曰一
+<lb ed="X" n="0148b12"/>念緣起無生超彼三乘權學用斯日課何為曰苟能如是斯皆贅語其或未然務當遵此行持慎毋以未得謂
+<lb ed="X" n="0148b13"/>得而忽之反成增上慢之儔也珍重日用偈&CB00057;竟外有種種名相更錄于後以便初學受持</note>。</p></div2>
+<lb ed="X" n="0148b14"/><div2 type="other"><mulu type="其他" level="2" label="在家優婆塞等五戒相"/><head>在家優婆塞等五戒相</head>
+<lb ed="X" n="0148b15"/><list><item id="itemX60p0148b1501">一不殺生</item><item id="itemX60p0148b1505">二不偷盜</item><item id="itemX60p0148b1509">三不邪婬</item>
+<lb ed="X" n="0148b16"/><item id="itemX60p0148b1601">四不妄語</item><item id="itemX60p0148b1605">五不飲酒食肉<note place="inline">食肉古無殺生攝故</note></item></list></div2>
+<lb ed="X" n="0148b17"/><div2 type="other"><mulu type="其他" level="2" label="出家沙彌十戒相"/><head>出家沙彌十戒相</head>
+<lb ed="X" n="0148b18"/><list><item id="itemX60p0148b1801">一曰不殺</item><item id="itemX60p0148b1805">二曰不盜</item>
+<lb ed="X" n="0148b19"/><item id="itemX60p0148b1901">三曰不婬<note place="inline">即不破梵行人</note></item><item id="itemX60p0148b1911">四曰不妄語</item>
+<lb ed="X" n="0148b20"/><item id="itemX60p0148b2001">五曰不飲酒食肉<note place="inline">食肉亦無殺生攝故今為初行者添之</note></item>
+<lb ed="X" n="0148b21"/><item id="itemX60p0148b2101">六曰不著華縵瓔珞及香油塗身</item>
+<lb ed="X" n="0148b22"/><item id="itemX60p0148b2201">七曰不歌舞作倡伎樂及故往觀聽</item>
+<lb ed="X" n="0148b23"/><item id="itemX60p0148b2301">八不坐高廣大&CB00646;</item><item id="itemX60p0148b2308">九不非時食</item>
+<lb ed="X" n="0148b24"/><item id="itemX60p0148b2401">十不捉生像金銀錢寶等物</item></list></div2>
+<pb ed="X" id="X60.1114.0148c" n="0148c"/>
+<lb ed="X" n="0148c01"/><div2 type="other"><mulu type="其他" level="2" label="比丘二百五十戒總相"/><head>比丘二百五十戒總相</head>
+<lb ed="X" n="0148c02"/><list><item id="itemX60p0148c0201">四波羅夷法</item><item id="itemX60p0148c0206">十三僧伽婆尸沙法</item>
+<lb ed="X" n="0148c03"/><item id="itemX60p0148c0301">二不定法</item><item id="itemX60p0148c0305">三十尼薩耆波逸提法</item>
+<lb ed="X" n="0148c04"/><item id="itemX60p0148c0401">九十波逸提法</item><item id="itemX60p0148c0407">四波羅提提舍尼法</item>
+<lb ed="X" n="0148c05"/><item id="itemX60p0148c0501">一百應當學法</item><item id="itemX60p0148c0507">七滅諍法</item></list></div2>
+<lb ed="X" n="0148c06"/><div2 type="other"><mulu type="其他" level="2" label="比丘尼三百四十八戒總相"/><head>比丘尼三百四十八戒總相</head>
+<lb ed="X" n="0148c07"/><list><item id="itemX60p0148c0701">八波羅夷法</item><item id="itemX60p0148c0706">十七僧伽婆尸沙法</item>
+<lb ed="X" n="0148c08"/><item id="itemX60p0148c0801">三十尼薩耆波逸提法</item><item id="itemX60p0148c0810">一百七十八波逸提法</item>
+<lb ed="X" n="0148c09"/><item id="itemX60p0148c0901">八波羅提提舍尼法</item><item id="itemX60p0148c0909">一百應當學法</item>
+<lb ed="X" n="0148c10"/><item id="itemX60p0148c1001">七滅諍法</item></list></div2>
+<lb ed="X" n="0148c11"/><div2 type="other"><mulu type="其他" level="2" label="菩薩十重四十八輕戒相"/><head>菩薩十重四十八輕戒相</head><div3 type="other"><mulu type="其他" level="3" label="先十重"/><head><note place="inline">先十重</note></head>
+<lb ed="X" n="0148c12"/><list><item id="itemX60p0148c1201">第一殺戒</item><item id="itemX60p0148c1205">第二盜戒</item>
+<lb ed="X" n="0148c13"/><item id="itemX60p0148c1301">第三婬戒</item><item id="itemX60p0148c1305">第四妄語戒</item>
+<lb ed="X" n="0148c14"/><item id="itemX60p0148c1401">第五酤酒戒</item><item id="itemX60p0148c1406">第六說四眾過戒</item>
+<lb ed="X" n="0148c15"/><item id="itemX60p0148c1501">第七自讚毀他戒</item><item id="itemX60p0148c1508">第八慳惜加毀戒</item>
+<lb ed="X" n="0148c16"/><item id="itemX60p0148c1601">第九瞋心不受悔戒</item><item id="itemX60p0148c1609">第十謗三寶戒</item></list></div3>
+<lb ed="X" n="0148c17"/><div3 type="other"><mulu type="其他" level="3" label="次四十八輕"/><head><note place="inline">次四十八輕</note></head>
+<lb ed="X" n="0148c18"/><list><item id="itemX60p0148c1801">第一不敬師友戒</item><item id="itemX60p0148c1808">第二飲酒戒</item>
+<lb ed="X" n="0148c19"/><item id="itemX60p0148c1901">第三食肉戒</item><item id="itemX60p0148c1906">第四食五辛戒</item>
+<lb ed="X" n="0148c20"/><item id="itemX60p0148c2001">第五不教悔罪戒</item><item id="itemX60p0148c2008">第六不供給請法戒</item>
+<lb ed="X" n="0148c21"/><item id="itemX60p0148c2101">第七懈怠不聽法戒</item><item id="itemX60p0148c2109">第八背大向小戒</item>
+<lb ed="X" n="0148c22"/><item id="itemX60p0148c2201">第九不看病戒</item><item id="itemX60p0148c2207">第十畜殺具戒</item>
+<lb ed="X" n="0148c23"/><item id="itemX60p0148c2301">第十一國使戒</item><item id="itemX60p0148c2307">第十二販賣戒</item>
+<lb ed="X" n="0148c24"/><item id="itemX60p0148c2401">第十三謗毀戒</item><item id="itemX60p0148c2407">第十四放火焚燒戒</item>
+<pb ed="X" id="X60.1114.0149a" n="0149a"/>
+<lb ed="X" n="0149a01"/><item id="itemX60p0149a0101">第十五僻教戒</item><item id="itemX60p0149a0107">第十六為利倒說戒</item>
+<lb ed="X" n="0149a02"/><item id="itemX60p0149a0201">第十七恃勢乞求戒</item><item id="itemX60p0149a0209"><app><lem wit="【CBETA】" resp="CBETA.maha">第</lem><rdg wit="【卍續】">&CB15081;</rdg></app>十八無解作師戒</item>
+<lb ed="X" n="0149a03"/><item id="itemX60p0149a0301">第十九兩舌戒</item><item id="itemX60p0149a0307">第二十不行放救戒</item>
+<lb ed="X" n="0149a04"/><item id="itemX60p0149a0401">二十一瞋打報仇戒</item><item id="itemX60p0149a0409">二十二憍慢不請法戒</item>
+<lb ed="X" n="0149a05"/><item id="itemX60p0149a0501">二十三憍慢僻說戒</item><item id="itemX60p0149a0509">二十四不習學佛戒</item>
+<lb ed="X" n="0149a06"/><item id="itemX60p0149a0601">二十五不善知眾戒</item><item id="itemX60p0149a0609">二十六獨受利養戒</item>
+<lb ed="X" n="0149a07"/><item id="itemX60p0149a0701">二十七受別請戒</item><item id="itemX60p0149a0708">二十八別請僧戒</item>
+<lb ed="X" n="0149a08"/><item id="itemX60p0149a0801">二十九邪命自活戒</item><item id="itemX60p0149a0809">三十不敬好時戒</item>
+<lb ed="X" n="0149a09"/><item id="itemX60p0149a0901">三十一不行救贖戒</item><item id="itemX60p0149a0909">三十二損害眾生戒</item>
+<lb ed="X" n="0149a10"/><item id="itemX60p0149a1001">三十三邪業覺觀戒</item><item id="itemX60p0149a1009">三十四暫念小乘戒</item>
+<lb ed="X" n="0149a11"/><item id="itemX60p0149a1101">三十五不發願戒</item><item id="itemX60p0149a1108">三十六不發誓戒</item>
+<lb ed="X" n="0149a12"/><item id="itemX60p0149a1201">三十七&CB04393;難遊行戒</item><item id="itemX60p0149a1209">三十八乖尊卑次序戒</item>
+<lb ed="X" n="0149a13"/><item id="itemX60p0149a1301">三十九不修福慧戒</item><item id="itemX60p0149a1309">四十揀擇受戒戒</item>
+<lb ed="X" n="0149a14"/><item id="itemX60p0149a1401">四十一為利作師戒</item><item id="itemX60p0149a1409">四十二為惡人說戒戒</item>
+<lb ed="X" n="0149a15"/><item id="itemX60p0149a1501">四十三無&CB00518;受施戒</item><item id="itemX60p0149a1509">四十四不供養經典戒</item>
+<lb ed="X" n="0149a16"/><item id="itemX60p0149a1601">四十五不化眾生戒</item><item id="itemX60p0149a1609">四十六說法不如法戒</item>
+<lb ed="X" n="0149a17"/><item id="itemX60p0149a1701">四十七非法制限戒</item><item id="itemX60p0149a1709">四十八破法戒</item></list></div3></div2>
+<lb ed="X" n="0149a18"/><div2 type="other"><mulu type="其他" level="2" label="律中三聚淨戒"/><head>律中三聚淨戒</head>
+<lb ed="X" n="0149a19"/><list><item id="itemX60p0149a1901">一攝律儀戒無惡不斷起正道行是斷德因修成法
+<lb ed="X" n="0149a20"/>身</item>
+<lb ed="X" n="0149a21"/><item id="itemX60p0149a2101">二攝善法戒無善不積起助道行是智德因修成報
+<lb ed="X" n="0149a22"/>身</item>
+<lb ed="X" n="0149a23"/><item id="itemX60p0149a2301">三攝眾生戒無生不度起不住道是恩德因修成化
+<lb ed="X" n="0149a24"/>身</item></list>
+<pb ed="X" id="X60.1114.0149b" n="0149b"/>
+<lb ed="X" n="0149b01"/><p id="pX60p0149b0101" rend="margin-left:1em"><note place="inline"><app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>上戒相本經自具今欲初心易記故總書於此行者凡遇晦望二日如有作法羯磨之處四十里
+<lb ed="X" n="0149b02"/>內當&CB01191;羯磨懺悔如無處所自應恭對三寶聖像之前記其所犯戒相自稱<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>名發露披陳求哀懺
+<lb ed="X" n="0149b03"/>悔一切罪業自然消滅也更能每日二六時中恒常謹慎身心撿察<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>躬所犯微細過&CB07703;隨犯隨懺
+<lb ed="X" n="0149b04"/>不敢更作猶為甚妙如或不然懈怠懶墮乃至&CB01614;談戲笑縱恣心情散誕放逸遂至罪業日增轉輕
+<lb ed="X" n="0149b05"/>為重日滋日茂日厚日深尚不能消於信施況能成無上菩提之聖道乎如上苦口叮嚀有益於道
+<lb ed="X" n="0149b06"/>者慎毋以此置之於度外</note>。</p></div2>
+<lb ed="X" n="0149b07"/><div2 type="other"><mulu type="其他" level="2" label="三衣瓶＆CB00425；鍚杖等名義"/><head>三衣瓶&CB00425;鍚杖等名義</head>
+<lb ed="X" n="0149b08"/><p id="pX60p0149b0801">梵語安陀會或云安怛羅婆娑此云中宿衣<note place="inline">即五條衣</note>亦
+<lb ed="X" n="0149b09"/>云下著衣亦云雜作衣一長一短凡寺中執勞服役
+<lb ed="X" n="0149b10"/>路途出入往還當著此衣。</p>
+<lb ed="X" n="0149b11"/><p id="pX60p0149b1101">梵語&CB15106;多羅僧此云上著衣<note place="inline">即七條衣</note>亦云入眾衣兩長
+<lb ed="X" n="0149b12"/>一短凡禮佛修懺誦經坐禪赴齋聽講布薩自恣當
+<lb ed="X" n="0149b13"/>著此衣。</p>
+<lb ed="X" n="0149b14"/><p id="pX60p0149b1401">梵語僧伽黎此云合<note place="inline">即大衣也</note>亦云重亦云&CB01614;碎衣四長
+<lb ed="X" n="0149b15"/>一短凡入王宮升座說法聚落乞食當著此衣復有
+<lb ed="X" n="0149b16"/>三品下品九條十一條十三條中品十五條十七條
+<lb ed="X" n="0149b17"/>十九條上品二十一條二十三條二十五條<note place="inline">下三品兩長一
+<lb ed="X" n="0149b18"/>短中三品三長一短上三品四長一短衣者梵語震越此&CB00549;衣服上曰衣衣依也隱也下曰裳障也謂隱形自
+<lb ed="X" n="0149b19"/>障蔽也</note>。</p>
+<lb ed="X" n="0149b20"/><p id="pX60p0149b2001">阿含云脩四無量者並剃除鬚髮服三衣僧祇云三
+<lb ed="X" n="0149b21"/>衣者賢聖沙門之標幟也四分云三世如來並著如
+<lb ed="X" n="0149b22"/>是衣智論云佛弟子住於中道故著三衣薩婆多論
+<lb ed="X" n="0149b23"/>云欲現未曾有法故九十六種外道無此衣名為異
+<lb ed="X" n="0149b24"/>外道故著三衣華嚴云為捨離三毒故戒壇經云五
+<pb ed="X" id="X60.1114.0149c" n="0149c"/>
+<lb ed="X" n="0149c01"/>條斷貪淨身業也七條斷瞋淨口業也大衣斷痴淨
+<lb ed="X" n="0149c02"/>意業也增輝記問云何不增四減二惟三者何答三
+<lb ed="X" n="0149c03"/>奇數屬陽陽能生萬物今制三衣表生萬善取益物
+<lb ed="X" n="0149c04"/>之義也業疏云如律中說如來因諸比丘畜長不自
+<lb ed="X" n="0149c05"/>節約是以初夜著一衣乃至後夜著第三衣明旦因
+<lb ed="X" n="0149c06"/>制如衣法初<note place="inline">此明緣起<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>竟下章袈裟總名</note>梵語具云迦羅沙曳此
+<lb ed="X" n="0149c07"/>云不正色從色得名章服儀云袈裟之目因於衣色
+<lb ed="X" n="0149c08"/>如經壞色衣也會正云準此草名可染衣故將彼目
+<lb ed="X" n="0149c09"/>此衣號業疏云本作迦沙至葛洪撰字苑下方添衣
+<lb ed="X" n="0149c10"/>言道服也<note place="inline">上明總名竟顯別名</note>。</p>
+<lb ed="X" n="0149c11"/><p id="pX60p0149c1101">真諦雜記云袈裟是外國三衣之名名含多義或名
+<lb ed="X" n="0149c12"/>離塵服由斷六塵故或名消瘦服由割煩惱故或名
+<lb ed="X" n="0149c13"/>蓮華服離染著故或名間色服以三如法色所成故
+<lb ed="X" n="0149c14"/>言三色者律有三種壞色青黑本蘭青謂銅青黑謂
+<lb ed="X" n="0149c15"/>雜泥木蘭即樹皮也又律中五種色衣著所謂思入
+<lb ed="X" n="0149c16"/>玄微究暢幽宗著青色衣出彌沙塞部勤學眾經宣
+<lb ed="X" n="0149c17"/>講真義以處居眾著黃色衣出摩訶僧祇部通達理
+<lb ed="X" n="0149c18"/>味開導利益表發殊勝著赤色衣出曇無德部博通
+<lb ed="X" n="0149c19"/>敏達導以法化著黑色衣<note place="inline">即皂色也</note>出薩婆多部精勤勇
+<lb ed="X" n="0149c20"/>猛快攝眾生著紫色衣<note place="inline">即木蘭色</note>出迦葉遺部梵網經云
+<lb ed="X" n="0149c21"/>一切人天鬼神盡得受戒應教身所著袈裟皆使壞
+<lb ed="X" n="0149c22"/>色與道相應皆染使青黃赤黑紫色一切染衣乃至
+<lb ed="X" n="0149c23"/>臥具盡以壞色身所著衣一切染色若一切國土中
+<lb ed="X" n="0149c24"/>國人所著衣服比丘皆應與其俗服有異業疏云聽
+<pb ed="X" id="X60.1114.0150a" n="0150a"/>
+<lb ed="X" n="0150a01"/>以刀截成沙門衣不為怨賊所剝故章服儀云條堤
+<lb ed="X" n="0150a02"/>之相事等田疇之畦貯水而養嘉苗譬服此衣生功
+<lb ed="X" n="0150a03"/>德也佛令像此義不徒然龍王經云龍王白佛如此
+<lb ed="X" n="0150a04"/>海中無數種龍有四金翅常來食之願佛擁護令得
+<lb ed="X" n="0150a05"/>安隱於是世尊脫身皂衣告龍王曰汝取是衣分與
+<lb ed="X" n="0150a06"/>諸龍皆令周&CB00642;於中有值一縷之者金翅鳥王不能
+<lb ed="X" n="0150a07"/>觸犯五分云衣下數破當倒披之在雨中行水入葉
+<lb ed="X" n="0150a08"/>中應順披之章服儀云比見條葉不附正儀當馬齒
+<lb ed="X" n="0150a09"/>鳥足縫之即須順左右條開明孔不作即同縵衣南
+<lb ed="X" n="0150a10"/>山問比見西域僧來多縫衣葉者何答此佛滅後將
+<lb ed="X" n="0150a11"/>二百年北天竺僧與外道同住外道嫉之密以利刀
+<lb ed="X" n="0150a12"/>內衣葉中同往王所外道告王沙門釋子內藏利刀
+<lb ed="X" n="0150a13"/>欲將害王因告檢獲由此普誅一國比丘時有耶舍
+<lb ed="X" n="0150a14"/>阿羅漢令諸比丘權且縫合為絕命難此乃彼方因
+<lb ed="X" n="0150a15"/>事權制非佛所開故義淨云西國三衣並皆<app><lem wit="【CBETA】" resp="CBETA.maha">刺</lem><rdg wit="【卍續】">剌</rdg></app>合唯
+<lb ed="X" n="0150a16"/>東夏開而不縫依律大衣限五日成七條四日成五
+<lb ed="X" n="0150a17"/>條二日成限日不成尼犯墮比丘突吉羅業疏云若
+<lb ed="X" n="0150a18"/>有衣不受持者突吉羅威儀云行住坐臥出入袈裟
+<lb ed="X" n="0150a19"/>亦須近身不得通肩披不得致&CB00560;後又律中應畜雨
+<lb ed="X" n="0150a20"/>浴衣覆瘡衣又世尊聽畜三囊&CB00425;囊藥囊鞋囊又應
+<lb ed="X" n="0150a21"/>畜四種糞掃衣一者塚間衣二者往還衣三者無主
+<lb ed="X" n="0150a22"/>衣四者弊垢衣如是四種將來淨洗七次染皂色縫
+<lb ed="X" n="0150a23"/>作僧伽黎大衣四層著名為衲衣佛世大迦葉尊者
+<lb ed="X" n="0150a24"/>脩頭陀行日中一食樹下一宿常著此衣故佛稱阿
+<pb ed="X" id="X60.1114.0150b" n="0150b"/>
+<lb ed="X" n="0150b01"/>練若兒也非今平常之破衲此名外道衣&CB15629;律不聽
+<lb ed="X" n="0150b02"/>用故又有五種糞掃不應畜一者火焚衣二者牛嚼
+<lb ed="X" n="0150b03"/>衣三者鼠咬衣四者嫁女不淨衣五者產衣如是五
+<lb ed="X" n="0150b04"/>種俱不淨故不應畜<note place="inline">上詳明袈裟別名<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>竟下明袈裟有五功德</note>。</p>
+<lb ed="X" n="0150b05"/><p id="pX60p0150b0501">悲華經云佛於寶藏佛前發願願成佛時袈裟有五
+<lb ed="X" n="0150b06"/>功德一入我法中犯重邪見等於一念中敬心尊重
+<lb ed="X" n="0150b07"/>必於三乘授記二天龍人鬼若能敬此袈裟少分即
+<lb ed="X" n="0150b08"/>得二乘不退三若有鬼神諸人得袈裟乃至四寸飲
+<lb ed="X" n="0150b09"/>食充足四若眾生共相違背念袈裟力尋生慈心五
+<lb ed="X" n="0150b10"/>若持此少分恭敬尊重常得勝他又藏義經云袈裟
+<lb ed="X" n="0150b11"/>有十種利益一者菩提上首二者眾處人天三者父
+<lb ed="X" n="0150b12"/>母返拜四者龍子捨身五者龍披免難六者國王敬
+<lb ed="X" n="0150b13"/>信七者眾生禮拜八者羅剎恭敬九者天龍護祐十
+<lb ed="X" n="0150b14"/>者得成佛道永明壽禪師戒序儀文云昔蓮華色比
+<lb ed="X" n="0150b15"/>丘尼曾為戲人以披袈裟作戲承此功德無有誠心
+<lb ed="X" n="0150b16"/>而受衣法尚能值釋迦牟尼佛所出家證阿羅漢果
+<lb ed="X" n="0150b17"/>何況信敬受持者乎故經云若有眾生於我法中為
+<lb ed="X" n="0150b18"/>我出家剃除鬚髮披著袈裟雖不受戒及受毀犯者
+<lb ed="X" n="0150b19"/>若有護持供養是人得大果報何況供養具持戒人
+<lb ed="X" n="0150b20"/>若未來世國王大臣及斷事者於我弟子及著袈裟
+<lb ed="X" n="0150b21"/>者罵辱打縛或驅使及奪財物資生之具是人則壞
+<lb ed="X" n="0150b22"/>三世諸佛真正報身則挑一切天人眼目則隱一切
+<lb ed="X" n="0150b23"/>諸佛正法令諸天人墮於地獄<note place="inline">由是觀之一切佛弟子并之袈裟不可不
+<lb ed="X" n="0150b24"/>敬也竊恐世俗有所不知于此反生輕毀之心而自招其過咎故特引此以為誡云</note>。</p></div2>
+<pb ed="X" id="X60.1114.0150c" n="0150c"/>
+<lb ed="X" n="0150c01"/><div2 type="other"><mulu type="其他" level="2" label="僧祇支"/><head>僧祇支</head>
+<lb ed="X" n="0150c02"/><p id="pX60p0150c0201">梵語僧祇支或云僧卻崎唐言掩腋或云覆腋衣用
+<lb ed="X" n="0150c03"/>覆左肩要覽云古僧依律制只有僧祇支此云覆膊
+<lb ed="X" n="0150c04"/>亦名掩腋衣長覆左膊及掩右腋蓋襯三衣故天竺
+<lb ed="X" n="0150c05"/>儀也竺道祖云魏宮人見僧袒一肘不以為善乃作
+<lb ed="X" n="0150c06"/>褊衫縫祗支上相從因名褊衫今開脊接領者蓋違
+<lb ed="X" n="0150c07"/>魏制也<note place="inline">僧祗支竟下明裙</note>梵語泥縛些那<note place="inline">些桑&CB00286;切</note>唐言裙諸律
+<lb ed="X" n="0150c08"/>舊譯名涅槃僧或云泥洹僧此云內衣名義云束帶
+<lb ed="X" n="0150c09"/>以<app><lem wit="【CBETA】" resp="CBETA.maha">絛</lem><rdg wit="【卍續】">條</rdg></app>&CB00526;則諸部各異色乃黃赤不同釋名云裙&CB00320;也
+<lb ed="X" n="0150c10"/>連接群幅也。</p></div2>
+<lb ed="X" n="0150c11"/><div2 type="other"><mulu type="其他" level="2" label="臥具"/><head>臥具</head>
+<lb ed="X" n="0150c12"/><p id="pX60p0150c1201">梵語尼師壇此名坐具或云隨坐衣業疏佛言為身
+<lb ed="X" n="0150c13"/>為衣為臥具故制畜長四廣三更增半&CB00250;手者迦留
+<lb ed="X" n="0150c14"/>陀夷身大坐不容故加之僧祇云若在道行得長疊
+<lb ed="X" n="0150c15"/>中疊安衣囊中至本處當敷而坐律應量作長佛二
+<lb ed="X" n="0150c16"/>&CB00250;手廣一&CB00250;手半<note place="inline">佛一&CB00250;手長二尺四寸</note>更增者即向四邊各
+<lb ed="X" n="0150c17"/>益如今坐具四緣有貼即象也不許單作若新物作
+<lb ed="X" n="0150c18"/>當用故物貼中蓋壞其好也若自無故物又無求處
+<lb ed="X" n="0150c19"/>不貼無過記云佛先許安左肩上鎮衣因有外道問
+<lb ed="X" n="0150c20"/>一比丘曰汝肩上片布何名何用比丘答云名尼師
+<lb ed="X" n="0150c21"/>壇是坐具又問汝所披衣何名有何功德答忍辱衣
+<lb ed="X" n="0150c22"/>三寶之相上制天魔下降外道又問此衣既有是功
+<lb ed="X" n="0150c23"/>德可貴豈得以所坐之布居其上若汝自為師何不
+<lb ed="X" n="0150c24"/>教若師教者此法不足可尊比丘白佛佛因制移安
+<pb ed="X" id="X60.1114.0151a" n="0151a"/>
+<lb ed="X" n="0151a01"/>左臂衣下但不得垂尖角如象鼻羊耳等相戒壇圖
+<lb ed="X" n="0151a02"/>經云尼師壇如塔之有基汝今受戒即身是五分法
+<lb ed="X" n="0151a03"/>身之塔良由五分法身由戒生故。</p></div2>
+<lb ed="X" n="0151a04"/><div2 type="other"><mulu type="其他" level="2" label="＆CB00425；盂"/><head>&CB00425;盂</head>
+<lb ed="X" n="0151a05"/><p id="pX60p0151a0501">梵語&CB00425;多羅此云應量器謂體色量三俱應法故體
+<lb ed="X" n="0151a06"/>用鐵瓦二物色以藥煙熏治量則分上中下要覽云
+<lb ed="X" n="0151a07"/>佛住孫要白土村爾時孫婆天神白佛過去佛皆受
+<lb ed="X" n="0151a08"/>用此處瓦&CB00425;佛乃聽比丘畜瓦&CB00425;佛住王舍城行諸
+<lb ed="X" n="0151a09"/>房見一比丘枕手臥知而問曰汝安樂否答我枕手
+<lb ed="X" n="0151a10"/>失&CB00425;墮地乃破故不樂佛言聽畜鐵&CB00425;名義云色者
+<lb ed="X" n="0151a11"/>熏作黑赤色或孔&CB15179;咽色鴿色量者大受三斗小受
+<lb ed="X" n="0151a12"/>斗半中品可知南山云此姬周之斗也准唐斗<note n="0151001" resp="Xuzangjing" place="foot text" type="orig">一疑上</note>一&CB00425;
+<lb ed="X" n="0151a13"/>一斗下&CB00425;五升<note place="inline">下明鐼鐼音訓</note>。</p>
+<lb ed="X" n="0151a14"/><p id="pX60p0151a1401">鍵&CB01347;母論譯為淺鐵&CB00425;經音疏云&CB00425;中之小&CB00425;今呼
+<lb ed="X" n="0151a15"/>為鐼子十誦云&CB00425;半大鍵&CB01347;小鍵&CB01347;四分云鍵&CB01347;入
+<lb ed="X" n="0151a16"/>小&CB00425;小&CB00425;入次&CB00425;次&CB00425;入大&CB00425;又俱夜羅此云隨&CB00425;
+<lb ed="X" n="0151a17"/>器法寶解云即匙箸鍵&CB01347;等<note place="inline">鍵&CB01347;音&CB05418;咨下明瓶</note>。</p>
+<lb ed="X" n="0151a18"/><p id="pX60p0151a1801">梵語軍遲此云瓶又云桾稚迦此即澡瓶也常貯水
+<lb ed="X" n="0151a19"/>隨身用以淨手寄歸傳云軍持有二若&CB01937;瓦者是淨
+<lb ed="X" n="0151a20"/>用若銅鐵者是觸用<note place="inline">下明漉囊</note>。</p>
+<lb ed="X" n="0151a21"/><p id="pX60p0151a2101">&CB00425;里薩羅伐拏此云濾水羅會正記云西方用上白
+<lb ed="X" n="0151a22"/>&CB01200;東夏宜將密絹若生絹小虫直過可取熟絹為之
+<lb ed="X" n="0151a23"/>增輝記云觀其狀雖輕小察其功用為護生命即慈
+<lb ed="X" n="0151a24"/>悲之意其在此也百一羯磨明五種水羅一方羅用
+<pb ed="X" id="X60.1114.0151b" n="0151b"/>
+<lb ed="X" n="0151b01"/>絹三尺或二尺隨時大小作二法瓶陰陽瓶也三君
+<lb ed="X" n="0151b02"/>遲以絹擊口以繩懸沉於水中待滿引出四酌水羅
+<lb ed="X" n="0151b03"/>五衣角羅但取密絹方一搭手或繫瓶口或安&CB00425;中
+<lb ed="X" n="0151b04"/>濾水用也。</p></div2>
+<lb ed="X" n="0151b05"/><div2 type="other"><mulu type="其他" level="2" label="錫杖"/><head>錫杖</head>
+<lb ed="X" n="0151b06"/><p id="pX60p0151b0601">梵語隙棄羅此云錫杖由振時作錫錫聲故十誦名
+<lb ed="X" n="0151b07"/>聲杖錫杖經云佛告比丘汝等應受持錫杖所以者
+<lb ed="X" n="0151b08"/>何過去未來現在諸佛皆執故又名智杖亦名德杖
+<lb ed="X" n="0151b09"/>彰顯智行功德故聖人之&CB00124;幟賢士之明記道法之
+<lb ed="X" n="0151b10"/>幢依倚是杖除煩惱出三界故根本&CB01614;集云比丘乞
+<lb ed="X" n="0151b11"/>食深入長者之家遂招譏謗比丘白佛佛言可作聲
+<lb ed="X" n="0151b12"/>警覺彼即呵呵作聲諠&CB00436;復招譏毀佛制不聽遂拳
+<lb ed="X" n="0151b13"/>打門家人怪問何故打破我門默爾無對佛言應作
+<lb ed="X" n="0151b14"/>錫杖苾&CB00034;不解佛言杖頭安鐶圓如醆<note place="inline">贊上聲</note>口安小
+<lb ed="X" n="0151b15"/>鐶子搖動作聲而為警覺動可一二無人聞時即須
+<lb ed="X" n="0151b16"/>行去五百問云持錫有多事能警惡蟲毒獸等義淨
+<lb ed="X" n="0151b17"/>云錫杖都有三分上分是錫中木下或牙角也若二
+<lb ed="X" n="0151b18"/>股六鐶是迦葉佛製若四股十二鐶是釋迦佛製本
+<lb ed="X" n="0151b19"/>經又云有杖是同若用不同或有二鈷或有四鈷鐶
+<lb ed="X" n="0151b20"/>數無別但我今日四鈷十二鐶用是之教四鈷者用
+<lb ed="X" n="0151b21"/>斷四生念四諦等十二鐶者用念十二因緣通達無
+<lb ed="X" n="0151b22"/>礙等二鈷者迦葉如來所制立也令諸眾生記念二
+<lb ed="X" n="0151b23"/>諦世諦第一義諦以立其義齊稠禪師在懷州王屋
+<lb ed="X" n="0151b24"/>山聞虎&CB10823;以錫杖解之因成頌曰本自不求名剛被
+<pb ed="X" id="X60.1114.0151c" n="0151c"/>
+<lb ed="X" n="0151c01"/>名求我&CB09924;前解二虎障&CB00230;第三果又鄧隱峰飛錫空
+<lb ed="X" n="0151c02"/>中解於兩陣有是勝功故當受持。</p></div2>
+<lb ed="X" n="0151c03"/><div2 type="other"><mulu type="其他" level="2" label="數珠"/><head>數珠</head>
+<lb ed="X" n="0151c04"/><p id="pX60p0151c0401">梵語&CB00425;塞莫梁云數珠謂引接下根牽課修業之具
+<lb ed="X" n="0151c05"/>木&CB00185;子經云昔有國王名波琉璃白佛言我國邊小
+<lb ed="X" n="0151c06"/>頻年<app><lem wit="【CBETA】" resp="CBETA.maha">&CB04223;</lem><rdg wit="【卍續】">&CB15259;</rdg></app>疫穀貴民困我常不安法藏深廣不得&CB00642;行
+<lb ed="X" n="0151c07"/>惟願垂示法要佛言大王若欲滅煩惱當貫木&CB00185;子
+<lb ed="X" n="0151c08"/>一百八箇常自隨身志心稱南無佛陀南無達摩南
+<lb ed="X" n="0151c09"/>無僧伽名乃過一子如是漸次乃至千萬能滿二十
+<lb ed="X" n="0151c10"/>萬遍身心不亂除諂曲捨命得生炎摩天若滿百萬
+<lb ed="X" n="0151c11"/>遍當除百八結業獲常樂果王言我當奉行曼殊室
+<lb ed="X" n="0151c12"/>利校量數珠經云其數珠體種種不同校量乃至&CB00185;
+<lb ed="X" n="0151c13"/>子掐一遍得福千倍蓮子萬倍至菩提子得福無量
+<lb ed="X" n="0151c14"/>又楞嚴經中憍梵波提有牛&CB00058;病佛為遮謗與之數
+<lb ed="X" n="0151c15"/>珠令其念佛謂之一味清淨法門乃至成就念佛三
+<lb ed="X" n="0151c16"/>昧往生淨土悟無生忍者亦乃數珠無量功德也<note place="inline">百八
+<lb ed="X" n="0151c17"/>數斷百八煩惱</note>。</p></div2>
+<lb ed="X" n="0151c18"/><div2 type="other"><mulu type="其他" level="2" label="禮佛七種"/><head>禮佛七種</head>
+<lb ed="X" n="0151c19"/><p id="pX60p0151c1901">大方廣寶篋經云智燈聲聞問文殊言云何禮佛文
+<lb ed="X" n="0151c20"/>殊言若見法淨名見佛淨若身若心不低不昂正直
+<lb ed="X" n="0151c21"/>而住不動不搖其心寂靜行寂靜行是名禮佛法苑
+<lb ed="X" n="0151c22"/>齊有天竺三藏勒那譯出七種禮法一我慢禮謂依
+<lb ed="X" n="0151c23"/>位次心無恭敬心馳外境五輪不具如碓上下二唱
+<lb ed="X" n="0151c24"/>和禮謂粗正威儀心無靜想見人則身輕急禮人去
+<pb ed="X" id="X60.1114.0152a" n="0152a"/>
+<lb ed="X" n="0152a01"/>則身墮心疲蓋心散而口唱也三身心恭敬禮謂聞
+<lb ed="X" n="0152a02"/>唱佛名便念佛想身心恭敬情無厭怠四發智清淨
+<lb ed="X" n="0152a03"/>禮謂達佛境界隨心現量禮一佛則禮一切佛禮一
+<lb ed="X" n="0152a04"/>拜則禮法界以佛法身融通故五遍入法界禮謂自
+<lb ed="X" n="0152a05"/>觀身心等法從本<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>來不離法界佛我平等今禮一
+<lb ed="X" n="0152a06"/>佛即遍禮法界諸佛六正觀禮謂禮自佛不緣他佛
+<lb ed="X" n="0152a07"/>何以故一切眾生各有佛性平等正覺七實相平等
+<lb ed="X" n="0152a08"/>禮謂前猶有禮有觀自他兩異今此一禮無自無他
+<lb ed="X" n="0152a09"/>凡聖一如體用不二故文殊云能禮所禮性空寂前
+<lb ed="X" n="0152a10"/>三約事後四就理禮佛如是禮塔亦然僧祇云禮佛
+<lb ed="X" n="0152a11"/>不得如&CB00484;羊又禮佛塔應當右旋如日月星繞須彌
+<lb ed="X" n="0152a12"/>山不得左轉旋繞有五事<note place="inline">一低頭視地二不得踏虫三不得左右視四不得睡
+<lb ed="X" n="0152a13"/>地五不與人語又旋繞得五福一後世得端正好色二得好音聲三得生天上四生王&CB05896;五得泥洹道</note>。</p></div2>
+<lb ed="X" n="0152a14"/><div2 type="other"><mulu type="其他" level="2" label="法數名相"/><entry><form>菩薩三名</form><def><p id="pX60p0152a1405" place="inline" rend="margin-left:1em">一大士即大道心眾生二開士開眾生
+<lb ed="X" n="0152a15"/>信心三高士高出凡夫小乘。</p></def></entry>
+<lb ed="X" n="0152a16"/><entry><form>菩薩三大</form><def><p id="pX60p0152a1605" place="inline" rend="margin-left:1em">一願大二行大三利生大。</p></def></entry>
+<lb ed="X" n="0152a17"/><entry><form>持戒三心</form><def><p id="pX60p0152a1705" place="inline" rend="margin-left:1em">一厭有為心二求趣菩提心三悲愍有
+<lb ed="X" n="0152a18"/>情心又有三樂一名譽二利養三死得生天上。</p></def></entry>
+<lb ed="X" n="0152a19"/><entry><form>大比丘三義</form><def><p id="pX60p0152a1906" place="inline" rend="margin-left:1em">一破惡脩戒定慧破見思惑二怖魔
+<lb ed="X" n="0152a20"/>魔王&CB06093;出三界生怖怛三乞士養色身資慧命利
+<lb ed="X" n="0152a21"/>檀那。</p></def></entry>
+<lb ed="X" n="0152a22"/><entry><form>三種羯摩</form><def><p id="pX60p0152a2205" place="inline" rend="margin-left:1em">一對首法二心念法三眾法。</p></def></entry>
+<lb ed="X" n="0152a23"/><entry><form>三衣斷三毒</form><def><p id="pX60p0152a2306" place="inline" rend="margin-left:1em">五條斷貪身七條斷瞋口大衣斷痴
+<lb ed="X" n="0152a24"/>意。</p></def></entry>
+<pb ed="X" id="X60.1114.0152b" n="0152b"/>
+<lb ed="X" n="0152b01"/><entry><form>四分律</form><def><p id="pX60p0152b0104" place="inline" rend="margin-left:1em">初分說比丘戒二分說比丘尼并受戒犍
+<lb ed="X" n="0152b02"/>度三分說安居犍度四分說房舍犍度。</p></def></entry>
+<lb ed="X" n="0152b03"/><entry><form>比丘四法</form><def><p id="pX60p0152b0305" place="inline" rend="margin-left:1em">一晝夜六時說罪懺悔二常憶念佛不
+<lb ed="X" n="0152b04"/>誑眾生三修和合敬心不恚慢四具脩六念如救
+<lb ed="X" n="0152b05"/>頭然。</p></def></entry>
+<lb ed="X" n="0152b06"/><entry><form>羯摩四法</form><def><p id="pX60p0152b0605" place="inline" rend="margin-left:1em">一法二事三人四界。</p></def></entry>
+<lb ed="X" n="0152b07"/><entry><form>四根本煩惱</form><def><p id="pX60p0152b0706" place="inline" rend="margin-left:1em">一貪二嗔三痴四慢。</p></def></entry>
+<lb ed="X" n="0152b08"/><entry><form>脩行四法</form><def><p id="pX60p0152b0805" place="inline" rend="margin-left:1em">一寧失身命不捨菩提心二親近善友
+<lb ed="X" n="0152b09"/>三不捨忍辱四依寂靜處。</p></def></entry>
+<lb ed="X" n="0152b10"/><entry><form>四分優婆塞</form><def><p id="pX60p0152b1006" place="inline" rend="margin-left:1em">無分俱受三歸少分或受一戒多分
+<lb ed="X" n="0152b11"/>或受二三四戒滿分具受五戒。</p></def></entry>
+<lb ed="X" n="0152b12"/><entry><form>戒品四等生處不同</form><def><p id="pX60p0152b1209" place="inline" rend="margin-left:1em">破戒三畜生餓鬼地獄下持
+<lb ed="X" n="0152b13"/>戒人道中持戒六欲天又能兼行四禪四空定生
+<lb ed="X" n="0152b14"/>免無色界上持戒下羅漢中支佛上佛道。</p></def></entry>
+<lb ed="X" n="0152b15"/><entry><form>弟子四心看和尚</form><def><p id="pX60p0152b1508" place="inline" rend="margin-left:1em">一親友師二敬順師三畏難師
+<lb ed="X" n="0152b16"/>四尊重師。</p></def></entry>
+<lb ed="X" n="0152b17"/><entry><form>四種重恩</form><def><p id="pX60p0152b1705" place="inline" rend="margin-left:1em">一父二母生身故須報三如來大師四
+<lb ed="X" n="0152b18"/>說法師。</p></def></entry>
+<lb ed="X" n="0152b19"/><entry><form>佛應四處</form><def><p id="pX60p0152b1905" place="inline" rend="margin-left:1em">降生迦維衛成道摩竭提說法波羅柰
+<lb ed="X" n="0152b20"/>入滅拘尸城。</p></def></entry>
+<lb ed="X" n="0152b21"/><entry><form>四種沙門</form><def><p id="pX60p0152b2105" place="inline" rend="margin-left:1em">一威儀沙門名充像比丘二形服沙門
+<lb ed="X" n="0152b22"/>名幢相比丘三名聞沙門名&CB00980;誑比丘四實行沙
+<lb ed="X" n="0152b23"/>門名如法比丘前三非是沙門自言沙門後一沙
+<lb ed="X" n="0152b24"/>門是真沙門也。</p></def></entry>
+<pb ed="X" id="X60.1114.0152c" n="0152c"/>
+<lb ed="X" n="0152c01"/><entry><form>食有四時</form><def><p id="pX60p0152c0105" place="inline" rend="margin-left:1em">早起諸天食日中三世佛食日西畜生
+<lb ed="X" n="0152c02"/>食日暮鬼神食。</p></def></entry>
+<lb ed="X" n="0152c03"/><entry><form>四利須食</form><def><p id="pX60p0152c0305" place="inline" rend="margin-left:1em">資身為道養身中虫施者福破餓外道
+<lb ed="X" n="0152c04"/>故須食之也。</p></def></entry>
+<lb ed="X" n="0152c05"/><entry><form>乞食四意</form><def><p id="pX60p0152c0505" place="inline" rend="margin-left:1em">一福利群生二折伏憍慢三知身有苦
+<lb ed="X" n="0152c06"/>四除去滯者。</p></def></entry>
+<lb ed="X" n="0152c07"/><entry><form>毗尼四義</form><def><p id="pX60p0152c0705" place="inline" rend="margin-left:1em">一是佛法中平地萬善由之而生二一
+<lb ed="X" n="0152c08"/>切佛子皆依戒而住一切眾生依戒而有三是趣
+<lb ed="X" n="0152c09"/>涅槃之初門四乃佛法瓔珞能莊嚴佛法故。</p></def></entry>
+<lb ed="X" n="0152c10"/><entry><form>謙下獲四種功德</form><def><p id="pX60p0152c1008" place="inline" rend="margin-left:1em">一遠離惡趣不受旁生二不被
+<lb ed="X" n="0152c11"/>輕毀三常為人天恭敬四惡友怨敵不能凌突。</p></def></entry>
+<lb ed="X" n="0152c12"/><entry><form>菩薩脩行四法</form><def><p id="pX60p0152c1207" place="inline" rend="margin-left:1em">一善分別自心現二觀外性非性
+<lb ed="X" n="0152c13"/>三離生住滅見四得自覺聖智善樂。</p></def></entry>
+<lb ed="X" n="0152c14"/><entry><form>乞食四分</form><def><p id="pX60p0152c1405" place="inline" rend="margin-left:1em">一奉同梵行者二與窮乞人三與諸鬼
+<lb ed="X" n="0152c15"/>神四分自食。</p></def></entry>
+<lb ed="X" n="0152c16"/><entry><form>比丘五不應遊</form><def><p id="pX60p0152c1607" place="inline" rend="margin-left:1em">一官家二酒肆三屠兒家四淫女
+<lb ed="X" n="0152c17"/>家五栴荼羅舍。</p></def></entry>
+<lb ed="X" n="0152c18"/><entry><form>比丘五不赴請</form><def><p id="pX60p0152c1807" place="inline" rend="margin-left:1em">一晏然而居二諸天說法三觀察
+<lb ed="X" n="0152c19"/>病人四守護臥具五戒制學處。</p></def></entry>
+<lb ed="X" n="0152c20"/><entry><form>五法助戒</form><def><p id="pX60p0152c2005" place="inline" rend="margin-left:1em">一信二慚三愧四善知識五宗敬戒。</p></def></entry>
+<lb ed="X" n="0152c21"/><entry><form>破戒五衰</form><def><p id="pX60p0152c2105" place="inline" rend="margin-left:1em">一求財不得二設得耗散三眾不受敬
+<lb ed="X" n="0152c22"/>四惡名流布五死入地獄。</p></def></entry>
+<lb ed="X" n="0152c23"/><entry><form>跏趺五利</form><def><p id="pX60p0152c2305" place="inline" rend="margin-left:1em">一最安隱二心不散三魔王怖四異外
+<lb ed="X" n="0152c24"/>道五心易止。</p></def></entry>
+<pb ed="X" id="X60.1114.0153a" n="0153a"/>
+<lb ed="X" n="0153a01"/><entry><form>苾&CB00034;五德喻出家人</form><def><p id="pX60p0153a0109" place="inline" rend="margin-left:1em">一體性柔軟喻能折伏身語
+<lb ed="X" n="0153a02"/>粗獷二引蔓旁布喻&CB00397;法度人連綿不絕三馨香
+<lb ed="X" n="0153a03"/>遠聞喻戒德芬馥為眾所聞四能療疼痛喻能斷
+<lb ed="X" n="0153a04"/>煩惱毒害五不背日光喻常向佛日。</p></def></entry>
+<lb ed="X" n="0153a05"/><entry><form>乞食遮五處</form><def><p id="pX60p0153a0506" place="inline" rend="margin-left:1em">一唱令家三栴陀羅家三沽酒家四
+<lb ed="X" n="0153a06"/>官家五淫女家。</p></def></entry>
+<lb ed="X" n="0153a07"/><entry><form>入俗舍五法</form><def><p id="pX60p0153a0706" place="inline" rend="margin-left:1em">一入門小語二攝身口意三卑躬四
+<lb ed="X" n="0153a08"/>善護諸根五威儀庠序令人生善。</p></def></entry>
+<lb ed="X" n="0153a09"/><entry><form>大比丘五事故經營</form><def><p id="pX60p0153a0909" place="inline" rend="margin-left:1em">一報佛恩故二長養佛法故
+<lb ed="X" n="0153a10"/>三滅凡劣眾自貢高故四將來弟子折伏憍豪故
+<lb ed="X" n="0153a11"/>五發啟將來福業故又律中比丘許自營精舍。</p></def></entry>
+<lb ed="X" n="0153a12"/><entry><form>懺悔五法</form><def><p id="pX60p0153a1205" place="inline" rend="margin-left:1em">一偏袒右肩二右膝&CB00473;地三至心合掌
+<lb ed="X" n="0153a13"/>四頭面禮足五說<app><lem wit="【CBETA】" resp="CBETA.maha">己</lem><rdg wit="【卍續】">巳</rdg></app>罪名。</p></def></entry>
+<lb ed="X" n="0153a14"/><entry><form>五分戒律</form><def><p id="pX60p0153a1405" place="inline" rend="margin-left:1em">一波羅夷法二尼波羅夷法三受戒衣
+<lb ed="X" n="0153a15"/>藥食法等四滅諍法五破僧雜法等。</p></def></entry>
+<lb ed="X" n="0153a16"/><entry><form>五種懺悔</form><def><p id="pX60p0153a1605" place="inline" rend="margin-left:1em">一不必懺悔應常想念第一義空二孝
+<lb ed="X" n="0153a17"/>養父母恭敬師長三正法治國不狂人民四於六
+<lb ed="X" n="0153a18"/>齋日&CB02637;諸境內令行不殺五深信因果知佛不滅。</p></def></entry>
+<lb ed="X" n="0153a19"/><entry><form>比丘五德</form><def><p id="pX60p0153a1905" place="inline" rend="margin-left:1em">一怖魔二乞士三淨戒四淨命五破惡。</p></def></entry>
+<lb ed="X" n="0153a20"/><entry><form>五篇</form><def><p id="pX60p0153a2003" place="inline" rend="margin-left:1em">四波羅夷殺盜淫妄比丘四條比丘尼八條
+<lb ed="X" n="0153a21"/>十三僧殘比丘十三條比丘尼十七條三十尼薩
+<lb ed="X" n="0153a22"/>耆九十波逸提比丘九十條比丘尼一百七十八
+<lb ed="X" n="0153a23"/>條四提舍尼比丘四條比丘尼八條突吉羅即一
+<lb ed="X" n="0153a24"/>百應當學比丘一百條比丘尼一百條比丘二百
+<pb ed="X" id="X60.1114.0153b" n="0153b"/>
+<lb ed="X" n="0153b01"/>五十條尼三百四十八條今止四十一條者更加
+<lb ed="X" n="0153b02"/>二不定法七滅諍俱至五十條。</p></def></entry>
+<lb ed="X" n="0153b03"/><entry><form>五戒生天</form><def><p id="pX60p0153b0305" place="inline" rend="margin-left:1em">一不殺生四王天二不偷盜生忉利天
+<lb ed="X" n="0153b04"/>三不淫生夜摩天四不妄語生兜率天五不飲酒
+<lb ed="X" n="0153b05"/>生化樂他化天。</p></def></entry>
+<lb ed="X" n="0153b06"/><entry><form>五種闍黎</form><def><p id="pX60p0153b0605" place="inline" rend="margin-left:1em">一出家師所依得出家二羯摩師授戒
+<lb ed="X" n="0153b07"/>作羯摩三教授師教典威儀四受經師受經四句
+<lb ed="X" n="0153b08"/>等五依止和尚學戒十夏與人為師。</p></def></entry>
+<lb ed="X" n="0153b09"/><entry><form>五不應答</form><def><p id="pX60p0153b0905" place="inline" rend="margin-left:1em">試故問無疑故問不為悔所犯故問不
+<lb ed="X" n="0153b10"/>受故問詰難故問。</p></def></entry>
+<lb ed="X" n="0153b11"/><entry><form>出家五法</form><def><p id="pX60p0153b1105" place="inline" rend="margin-left:1em">一發心出家懷佩聖道二毀其形好應
+<lb ed="X" n="0153b12"/>披法服三委棄身命遵崇法道四永割親愛毋適
+<lb ed="X" n="0153b13"/>毋莫五志求大乘為度眾生。</p></def></entry>
+<lb ed="X" n="0153b14"/><entry><form>楊枝五利</form><def><p id="pX60p0153b1405" place="inline" rend="margin-left:1em">口不臭又滋味口不苦又除熱能除風
+<lb ed="X" n="0153b15"/>又袪風亦除熱又消食除痰&CB00486;又明目。</p></def></entry>
+<lb ed="X" n="0153b16"/><entry><form>持戒律五功德</form><def><p id="pX60p0153b1607" place="inline" rend="margin-left:1em">戒品牢固善勝語怨於眾中決斷
+<lb ed="X" n="0153b17"/>無畏疑悔有能開解善持戒令正法久住。</p></def></entry>
+<lb ed="X" n="0153b18"/><entry><form>五夏依止法</form><def><p id="pX60p0153b1806" place="inline" rend="margin-left:1em">過五夏知五事知犯輕重知羯摩知
+<lb ed="X" n="0153b19"/>闍黎。</p></def></entry>
+<lb ed="X" n="0153b20"/><entry><form>袈裟五種功德</form><def><p id="pX60p0153b2007" place="inline" rend="margin-left:1em">入我法中犯重邪見等於一念中
+<lb ed="X" n="0153b21"/>敬心尊重必於三乘受記天龍鬼神若能敬此袈
+<lb ed="X" n="0153b22"/>裟少分即得三乘不退若人鬼神得袈裟乃至四
+<lb ed="X" n="0153b23"/>寸飲食充足若有眾生共相違背念袈裟力尋生
+<lb ed="X" n="0153b24"/>慈心若持此少分恭敬尊重常得勝他乃至龍披
+<pb ed="X" id="X60.1114.0153c" n="0153c"/>
+<lb ed="X" n="0153c01"/>一縷皆免金翅鳥難出佛身血。</p></def></entry>
+<lb ed="X" n="0153c02"/><entry><form>五種三歸</form><def><p id="pX60p0153c0205" place="inline" rend="margin-left:1em">番邪五戒八戒十戒具戒。</p></def></entry>
+<lb ed="X" n="0153c03"/><entry><form>五篇罪配五刑五行</form><def><p id="pX60p0153c0309" place="inline" rend="margin-left:1em">波羅夷死土僧殘流水波逸
+<lb ed="X" n="0153c04"/>提徒金提舍尼杖火突吉羅笞木。</p></def></entry>
+<lb ed="X" n="0153c05"/><entry><form>五戒二十五護戒神不殺生</form><def><p id="pX60p0153c0512" place="inline" rend="margin-left:1em">一茶芻毗愈陀泥二
+<lb ed="X" n="0153c06"/>輪陀利輸陀尼三毗樓遮那世波四陀龍摩坻五
+<lb ed="X" n="0153c07"/>娑羅桓尼和婆○不偷盜　一坻摩阿毗婆&CB00501;二
+<lb ed="X" n="0153c08"/>阿須輪婆羅尼三婆羅摩亶雄雌四婆羅門地&CB16014;
+<lb ed="X" n="0153c09"/>多五那摩呼多耶舍○不邪淫　一佛陀仙陀樓
+<lb ed="X" n="0153c10"/>哆二&CB16014;闍耶藪多婆三涅坻&CB01054;陀多耶四阿羅多
+<lb ed="X" n="0153c11"/>賴都耶五波羅那佛曇○不妄語　一阿提梵者
+<lb ed="X" n="0153c12"/>珊即二因臺羅因臺羅三阿伽風陀羅多四佛曇
+<lb ed="X" n="0153c13"/>彌摩多哆五多賴叉三蜜陀○不飲酒　一阿摩
+<lb ed="X" n="0153c14"/>羅斯兜嘻二那羅門闍兜帝三薩&CB16014;尼乾那波四
+<lb ed="X" n="0153c15"/>闍&CB16014;&CB00508;毗舍羅五迦摩毗那闍尼佉此五戒若犯
+<lb ed="X" n="0153c16"/>一戒本五戒神隨即遠離更招罪罹勉受戒之人
+<lb ed="X" n="0153c17"/>慎毋毀損。</p></def></entry>
+<lb ed="X" n="0153c18"/><entry><form>僧具六和</form><def><p id="pX60p0153c1805" place="inline" rend="margin-left:1em">一身和同住二口和無諍三意和同悅
+<lb ed="X" n="0153c19"/>四戒和同修五見和同解六利和同均。</p></def></entry>
+<lb ed="X" n="0153c20"/><entry><form>六度華梵</form><def><p id="pX60p0153c2005" place="inline" rend="margin-left:1em">梵語檀那此云布施治慳貪蔽梵語尸
+<lb ed="X" n="0153c21"/>羅此云持戒治破戒蔽梵語羼提此云忍辱治瞋
+<lb ed="X" n="0153c22"/>恚蔽梵語毗梨耶此云精進治懈怠蔽梵語禪那
+<lb ed="X" n="0153c23"/>此云靜慮治散亂蔽梵語般若此云智慧治愚痴
+<lb ed="X" n="0153c24"/>蔽。</p></def></entry>
+<pb ed="X" id="X60.1114.0154a" n="0154a"/>
+<lb ed="X" n="0154a01"/><entry><form>七遮罪</form><def><p id="pX60p0154a0104" place="inline" rend="margin-left:1em">弒父弒母弒和尚弒阿闍黎破羯摩轉法
+<lb ed="X" n="0154a02"/>輪僧弒聖人。</p></def></entry>
+<lb ed="X" n="0154a03"/><entry><form>七滅諍法應與</form><def><p id="pX60p0154a0307" place="inline" rend="margin-left:1em">現前毗尼當與現前毗尼憶念毗
+<lb ed="X" n="0154a04"/>尼當與憶念毗尼不痴毗尼當與不痴毗尼自言
+<lb ed="X" n="0154a05"/>治當與自言治多&CB00697;罪相當與多&CB00697;罪相&CB00697;罪相
+<lb ed="X" n="0154a06"/>當與&CB00697;罪相如草覆地當與如草覆地諸大德是
+<lb ed="X" n="0154a07"/>七滅諍法半月半月說戒經中來若比丘有諍起
+<lb ed="X" n="0154a08"/>即應除滅。</p></def></entry>
+<lb ed="X" n="0154a09"/><entry><form>七眾</form><def><p id="pX60p0154a0903" place="inline" rend="margin-left:1em">比丘比丘尼尼者女也佛姨母求出家不許
+<lb ed="X" n="0154a10"/>令行八敬乃許式叉摩那此云學戒女十八童女
+<lb ed="X" n="0154a11"/>二歲學戒練身知有胎無胎即三法根本六行法
+<lb ed="X" n="0154a12"/>沙彌沙彌尼優婆塞義翻信士男又云清淨士又
+<lb ed="X" n="0154a13"/>名近事男乃近事比丘之男子也優婆夷翻信士
+<lb ed="X" n="0154a14"/>女在家能持五戒男女各處。</p></def></entry>
+<lb ed="X" n="0154a15"/><entry><form>菩薩八法</form><def><p id="pX60p0154a1505" place="inline" rend="margin-left:1em">一乃至失命因緣不說他過二化人令
+<lb ed="X" n="0154a16"/>歸依三寶三安置一切於菩提心四梵行不染五
+<lb ed="X" n="0154a17"/>造佛像安花座上六能除眾生憂惱七於貢高人
+<lb ed="X" n="0154a18"/>常自謙下八不惱他人大寶積云菩薩成就八法
+<lb ed="X" n="0154a19"/>於諸佛前蓮花化生。</p></def></entry>
+<lb ed="X" n="0154a20"/><entry><form>優婆塞具八支</form><def><p id="pX60p0154a2007" place="inline" rend="margin-left:1em">信戒施聽法受持解義如說脩行。</p></def></entry>
+<lb ed="X" n="0154a21"/><entry><form>尼戒八棄</form><def><p id="pX60p0154a2105" place="inline" rend="margin-left:1em">殺盜淫大妄語與男身相觸於染心男
+<lb ed="X" n="0154a22"/>捉手捉衣入屏處共立共語共行自相倚相期覆
+<lb ed="X" n="0154a23"/>他重罪隨學大僧供給衣食比丘四棄同。</p></def></entry>
+<lb ed="X" n="0154a24"/><entry><form>尼行八敬</form><def><p id="pX60p0154a2405" place="inline" rend="margin-left:1em">事鈔尼眾篇云善見佛初度女人出家
+<pb ed="X" id="X60.1114.0154b" n="0154b"/>
+<lb ed="X" n="0154b01"/>為滅正法五百年後為說八敬聽出家依教行故
+<lb ed="X" n="0154b02"/>還得千年今時不行隨處法滅會正記云佛成道
+<lb ed="X" n="0154b03"/>十四年姨母求出家佛不許度阿難為陳三請佛
+<lb ed="X" n="0154b04"/>令慶喜傳八敬向說若能行者聽汝出家彼云頂
+<lb ed="X" n="0154b05"/>戴持言八敬者一者百歲比丘尼見初受戒比丘
+<lb ed="X" n="0154b06"/>當起迎送禮拜問訊請令坐二者比丘尼不得罵
+<lb ed="X" n="0154b07"/>謗比丘三者不得舉比丘罪說其過失比丘得說
+<lb ed="X" n="0154b08"/>尼過四者式叉摩那<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>學於戒應從眾僧求受大
+<lb ed="X" n="0154b09"/>戒五者尼犯僧殘應半月在二部僧中行摩那埵
+<lb ed="X" n="0154b10"/>六者尼半月內當於僧中求教授人七者不應在
+<lb ed="X" n="0154b11"/>無比丘處夏安居八者夏訖當詣僧中求自恣人
+<lb ed="X" n="0154b12"/>如此八法應尊重恭敬讚歎盡形不應違。</p></def></entry>
+<lb ed="X" n="0154b13"/><entry><form>九等大衣</form><def><p id="pX60p0154b1305" place="inline" rend="margin-left:1em">下三品九條十一條十三條中三品十
+<lb ed="X" n="0154b14"/>五條十七條十九條上三品二十一條二十三條
+<lb ed="X" n="0154b15"/>二十五條。</p></def></entry>
+<lb ed="X" n="0154b16"/><entry><form>十夏依止和尚位</form><def><p id="pX60p0154b1608" place="inline" rend="margin-left:1em">不知律儀盡形依止精通戒藏
+<lb ed="X" n="0154b17"/>與人為師受人戒法若不然者獲罪無量○無解
+<lb ed="X" n="0154b18"/>作師五百問云應求懺悔若不懺悔者罪日增加
+<lb ed="X" n="0154b19"/>受戒之人不得戒也。</p></def></entry>
+<lb ed="X" n="0154b20"/><entry><form>沙彌十二有犯</form><def><p id="pX60p0154b2007" place="inline" rend="margin-left:1em">一不分別衣二離衣宿三觸火四
+<lb ed="X" n="0154b21"/>觸食五害生種六青草上棄不淨七&CB00364;上高樹八
+<lb ed="X" n="0154b22"/>觸寶九食宿殘食十壞地十一不受食十二損生
+<lb ed="X" n="0154b23"/>苗。</p></def></entry>
+<lb ed="X" n="0154b24"/><entry><form>十二種惡律儀</form><def><p id="pX60p0154b2407" place="inline" rend="margin-left:1em">屠兒魁膾養&CB00337;捕魚獵師網鳥捕
+<pb ed="X" id="X60.1114.0154c" n="0154c"/>
+<lb ed="X" n="0154c01"/>蛇養&CB00470;&CB00057;龍作賊捕賊獄吏○淫女家沽酒家壓
+<lb ed="X" n="0154c02"/>油家染家如上四種即名十六種惡律儀智者所
+<lb ed="X" n="0154c03"/>訶。</p></def></entry>
+<lb ed="X" n="0154c04"/><entry><form>受戒法十二科</form><def><p id="pX60p0154c0407" place="inline" rend="margin-left:1em">一開導二請五師得戒釋迦羯摩
+<lb ed="X" n="0154c05"/>師文殊教授師彌勒尊證師諸佛同學侶諸大士
+<lb ed="X" n="0154c06"/>三歸依三寶歸依佛歸依法歸依僧四發十大願
+<lb ed="X" n="0154c07"/>常念佛親近善知識否捨一切惡知識否失命因
+<lb ed="X" n="0154c08"/>緣不捨戒否誦大乘問甚深義否於無上菩提生
+<lb ed="X" n="0154c09"/>信心否見眾生能救護否隨力供養三寶否孝順
+<lb ed="X" n="0154c10"/>父母事善知識否捨懈怠求佛道否五塵上煩惱
+<lb ed="X" n="0154c11"/>制伏否五問難六請三寶七懺悔八發四弘誓眾
+<lb ed="X" n="0154c12"/>生無邊誓願度煩惱無盡誓願斷法門無量誓願
+<lb ed="X" n="0154c13"/>學佛道無上誓願成九羯摩不出佛身血否不殺
+<lb ed="X" n="0154c14"/>父否不殺母否不殺和尚否不殺羅漢否不破和
+<lb ed="X" n="0154c15"/>合僧否不殺聖人否○第一羯摩妙善戒法注於
+<lb ed="X" n="0154c16"/>身心第二羯磨戒法遍空集於頂上第三羯摩戒
+<lb ed="X" n="0154c17"/>法入心內外明潔堪受戒法十受戒十一讚戒十
+<lb ed="X" n="0154c18"/>二迴向。</p></def></entry>
+<lb ed="X" n="0154c19"/><entry><form>菩薩隨身十八種物</form><def><p id="pX60p0154c1909" place="inline" rend="margin-left:1em">楊枝澡豆三衣瓶&CB00425;坐具錫
+<lb ed="X" n="0154c20"/>杖香爐奩漉水囊手巾刀子火燧繩床鑷子經律
+<lb ed="X" n="0154c21"/>佛相菩薩相。</p></def></entry>
+<lb ed="X" n="0154c22"/><p id="pX60p0154c2201">佛住世八十年頌曰。</p>
+<lb ed="X" n="0154c23"/><lg id="lgX60p0154c2301" type="note1"><l>十九逾年六苦行</l><l>五歲遊歷三十成</l>
+<lb ed="X" n="0154c24"/><l>說法度生五十年</l><l>是則共當八十壽</l></lg>
+<pb ed="X" id="X60.1114.0155a" n="0155a"/>
+<lb ed="X" n="0155a01"/><p id="pX60p0155a0101">優婆塞戒經云在家菩薩若不儲畜錫杖&CB00425;盂僧伽
+<lb ed="X" n="0155a02"/>黎供養者犯失意罪。</p>
+<lb ed="X" n="0155a03"/><p id="pX60p0155a0301">昔羅漢比丘於山巖入定時有獼猴將坐具偏袒右
+<lb ed="X" n="0155a04"/>肩合掌右遶三匝跪地比丘出定嘆曰畜生尚有佛
+<lb ed="X" n="0155a05"/>性比丘即與受三歸五戒獼猴歡喜舞跳失足墜岩
+<lb ed="X" n="0155a06"/>而死即生兜率天宮又大緣經云以一日一夜出家
+<lb ed="X" n="0155a07"/>二十劫不墮三惡道又出家功德經云為出家作留
+<lb ed="X" n="0155a08"/>礙破壞抑制此人即斷佛種故諸病集身猶如大海
+<lb ed="X" n="0155a09"/>現得癩病死入黑暗地獄無有出期爾時大王太子
+<lb ed="X" n="0155a10"/>聞出家功德甚深普皆發心出家<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>弟子問世尊四
+<lb ed="X" n="0155a11"/>天下中無一眾生在家者俱出家<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>衣食從何而得
+<lb ed="X" n="0155a12"/>佛言不須種植其地自然生諸&CB00271;米諸樹自然生諸
+<lb ed="X" n="0155a13"/>衣服三品衣袈裟&CB00425;具一切諸人天供侍給使若勸
+<lb ed="X" n="0155a14"/>一人持律勝造八萬四千浮屠寶塔何以故當得阿
+<lb ed="X" n="0155a15"/>耨多羅三藐三菩提故。</p>
+<lb ed="X" n="0155a16"/><p id="pX60p0155a1601">又阿輸迦王為小兒以土施佛後得轉輪王王閻浮
+<lb ed="X" n="0155a17"/>提起八萬塔最後得道施物至賤小兒心薄但佛田
+<lb ed="X" n="0155a18"/>妙故得大果報當知大福從良田生又福田經云有
+<lb ed="X" n="0155a19"/>比丘名阿難白世尊曰我宿命生羅閱祗國為庶民
+<lb ed="X" n="0155a20"/>子身生惡瘡治之不瘥有親友道人來語我言當浴
+<lb ed="X" n="0155a21"/>眾僧取其浴水以用洗瘡便可得愈又可得福田我
+<lb ed="X" n="0155a22"/>即歡喜往到寺中加敬至心更作新井香油塗浴具
+<lb ed="X" n="0155a23"/>洗浴眾僧以汁洗瘡尋蒙除愈從此因緣所生端正
+<lb ed="X" n="0155a24"/>金色晃昱不受塵垢九十一劫常得清淨福佑廣遠
+<pb ed="X" id="X60.1114.0155b" n="0155b"/>
+<lb ed="X" n="0155b01"/>今復值佛心垢消滅逮得應真。</p>
+<lb ed="X" n="0155b02"/><p id="pX60p0155b0201">比丘凡入空門當准律儀若老若少若貴若賤五夏
+<lb ed="X" n="0155b03"/>依止精通戒律入闍梨位十夏依止一切經律盡解
+<lb ed="X" n="0155b04"/>入和尚位當與四眾傳衣受戒不依止者獲罪甚重
+<lb ed="X" n="0155b05"/>速求懺悔可爾。</p>
+<lb ed="X" n="0155b06"/><p id="pX60p0155b0601">比丘白衣沐浴當忌六齋日乃諸神下降察人善惡
+<lb ed="X" n="0155b07"/>宜脩善作好事所謂六齋日者。</p>
+<lb ed="X" n="0155b08"/><p id="pX60p0155b0801" rend="margin-left:1em">初八　十四　十五　二十三　二十九　三十
+<lb ed="X" n="0155b09"/>日是也小月初一補是也。</p>
+<lb ed="X" n="0155b10"/><p id="pX60p0155b1001">如上名相自始至此略取切要數條令易持誦更有
+<lb ed="X" n="0155b11"/>多種具如淨行威儀等處繁不盡述願同志者於此
+<lb ed="X" n="0155b12"/>切意遵行略無違忤莫非與戒相應也果能如是操
+<lb ed="X" n="0155b13"/>守不失自然因戒生定因定發慧定慧圓明乃至直
+<lb ed="X" n="0155b14"/>成無上菩提不越於斯矣。</p></div2>
+<lb ed="X" n="0155b15"/>
+<lb ed="X" n="0155b16"/><juan fun="close" n="1"><jhead>毗尼日用錄<note place="inline">終</note></jhead></juan></div1>
+<lb ed="X" n="0155b17"/>
+<lb ed="X" n="0155b18"/>
+<lb ed="X" n="0155b19"/>
+<lb ed="X" n="0155b20"/>
+<lb ed="X" n="0155b21"/>
+<lb ed="X" n="0155b22"/>
+<lb ed="X" n="0155b23"/>
+<lb ed="X" n="0155b24"/>
+<pb ed="X" id="X60.1114.0155c" n="0155c"/>
+<lb ed="X" n="0155c01"/>
+<lb ed="X" n="0155c02"/><div1 type="w"><mulu type="附文" level="1" label="No. 1114-B (附)千＆CB04033；長禪師示眾"/><head>No. 1114-B
+<lb ed="X" n="0155c03"/> <note place="inline">附</note>千&CB04033;長禪師示眾</head>
+<lb ed="X" n="0155c04"/>
+<lb ed="X" n="0155c05"/>
+<lb ed="X" n="0155c06"/><p id="pX60p0155c0601">參禪為第一持戒為第二作福為第三禮誦為第四
+<lb ed="X" n="0155c07"/>既作出家兒須行四種事不可縱汝心不可恣汝意
+<lb ed="X" n="0155c08"/>不可懶汝身不可昏汝智諦觀苦與樂痛念生與死
+<lb ed="X" n="0155c09"/>莫憂衣與食莫貪名與利時中惺惺著胸中蕩蕩地
+<lb ed="X" n="0155c10"/>行坐合清規動靜依先制常近善知識常遠惡明輩
+<lb ed="X" n="0155c11"/>若能信我言成佛極容易若不信我言出家徒勞耳
+<lb ed="X" n="0155c12"/>是百姓光頭是脩羅聚會是地獄抽芽是畜生&CB00320;隊
+<lb ed="X" n="0155c13"/>快脫袈裟來快出山門去且自做俗人莫與我同住。</p>
+<lb ed="X" n="0155c14"/><div2 type="w"><mulu type="附文" level="2" label="結制小參"/><head>結制小參</head>
+<lb ed="X" n="0155c15"/><p id="pX60p0155c1501">佛祖門風將委地說&CB00473;令人心膽碎扶持全在我兒
+<lb ed="X" n="0155c16"/>孫不料兒孫先作弊紛紛走北向奔南昧&CB00230;正因營
+<lb ed="X" n="0155c17"/>&CB01614;事滿目風埃滿面塵業識茫茫無本據縱饒掛搭
+<lb ed="X" n="0155c18"/>在僧堂直待板鳴歸被位聚頭寮舍&CB00655;是非收足蒲
+<lb ed="X" n="0155c19"/>團便瞌睡癡雲靉靆性天昏石火交煎心鼎沸暫時
+<lb ed="X" n="0155c20"/>寂寂滯輕安一向冥冥墮無記百丈清規不肯行外
+<lb ed="X" n="0155c21"/>道經書勤講議因果分明當等閒罪福昭然渾不懼
+<lb ed="X" n="0155c22"/>或遷一榻一間房放逸總由身口意頭上瓦&CB00560;下磚
+<lb ed="X" n="0155c23"/>身上衣口中味一一皆出信心檀越人家施未成道
+<lb ed="X" n="0155c24"/>業若為消捫心幾箇知慚愧今日三明日四閑處光
+<pb ed="X" id="X60.1114.0156a" n="0156a"/>
+<lb ed="X" n="0156a01"/>陰盡&CB00980;棄一朝老病來相尋閻翁催請死符至從前
+<lb ed="X" n="0156a02"/>所作業不忘三塗七趣從茲墜袈裟失&CB00230;復再難鱗
+<lb ed="X" n="0156a03"/>甲羽毛披則易看它古之學道流直忘人世輕名利
+<lb ed="X" n="0156a04"/>&CB00827;黃精煨紫芋飯一<app><lem wit="【CBETA】" resp="CBETA.maha" cf1="T02n0099_p0340b26" cf2="T25n1510bp0780b01">摶</lem><rdg wit="【卍續】">搏</rdg></app>水一器為療形枯聊接氣石
+<lb ed="X" n="0156a05"/>爛松枯竟不知洗心便作累生計物外清閑一味高
+<lb ed="X" n="0156a06"/>世上黃金何足貴劫空田地佛花開香風觸破娘生
+<lb ed="X" n="0156a07"/>鼻選佛場中及第歸圓覺伽藍恣遊戲茲因結制夜
+<lb ed="X" n="0156a08"/>小參不覺所言成此偈。</p></div2>
+<lb ed="X" n="0156a09"/><div2 type="w"><mulu type="附文" level="2" label="上堂"/><head>上堂</head>
+<lb ed="X" n="0156a10"/><p id="pX60p0156a1001">六月七月天不雨農家曉夜忙車水背皮焦烈&CB00560;底
+<lb ed="X" n="0156a11"/>疼眼花無力欲悶死公人又來逼夏稅稅&CB02133;納了要
+<lb ed="X" n="0156a12"/>盤費大麥小麥盡量還一日三&CB00290;不周備思量我輩
+<lb ed="X" n="0156a13"/>出家兒現成受用都不知進道身心無一點東邊浪
+<lb ed="X" n="0156a14"/>宕西邊嬉三箇五箇聚頭坐開口便說它人過及乎
+<lb ed="X" n="0156a15"/>歸到暗室中背理虧心無不做莫言墮在異類中來
+<lb ed="X" n="0156a16"/>生定作栽田翁前來所說苦如此那時難與今時同
+<lb ed="X" n="0156a17"/>古德訓徒有一語對人天眾拈來舉緇田無一簣之
+<lb ed="X" n="0156a18"/>功鐵圍陷百刑之苦。</p></div2>
+<lb ed="X" n="0156a19"/><div2 type="w"><mulu type="附文" level="2" label="誡間"/><head>誡間</head>
+<lb ed="X" n="0156a20"/><p id="pX60p0156a2001">世人未有不以間散為樂而共趣之逆問其故乃曰
+<lb ed="X" n="0156a21"/>昔&CB00573;以榮辱是非累日與事物相交馳心志勞而形
+<lb ed="X" n="0156a22"/>體&CB05582;以至結於情想接於夢&CB00895;靜而思之人生幾何
+<lb ed="X" n="0156a23"/>不得一日之安雖富貴奚益也由是一切棄之思欲
+<lb ed="X" n="0156a24"/>行歌坐忘觀青天白雲而自放浪於事物之表或有
+<pb ed="X" id="X60.1114.0156b" n="0156b"/>
+<lb ed="X" n="0156b01"/>避父師之訓厭身世之勞望治生如避水火必欲拔
+<lb ed="X" n="0156b02"/>塵遠俗以遂其間余曰忙固勞形役慮也閑則坐消
+<lb ed="X" n="0156b03"/>白日又何益於理哉二者皆欣厭之情妄耳故聖人
+<lb ed="X" n="0156b04"/>有動靜二相了然不生之旨正不必厭此忙而欣彼
+<lb ed="X" n="0156b05"/>之閑也余將直言之夫人欲學入世間之道苟不服
+<lb ed="X" n="0156b06"/>勤勞役則事無貴賤皆無由成然悟世間&CB00980;妄欲究
+<lb ed="X" n="0156b07"/>聖賢出世之道儻不忘&CB00290;廢寢則根無利鈍又何從
+<lb ed="X" n="0156b08"/>而得之故雪山大士捨身命如微塵數事知識如恒
+<lb ed="X" n="0156b09"/>河沙積劫迨今歷試諸難蓋欲示後學者知道之不
+<lb ed="X" n="0156b10"/>易聞也故入世間則忠於君孝於親悉盡其義不可
+<lb ed="X" n="0156b11"/>不忙出世間則親師擇友朝參暮扣以盡其道又不
+<lb ed="X" n="0156b12"/>可不忙既盡其義又盡其道將見體如泰山之不動
+<lb ed="X" n="0156b13"/>心等太&CB00980;之無為豈一間字可與同日語哉或入世
+<lb ed="X" n="0156b14"/>不能盡其義出世不能盡其道惟孜孜以安間不擾
+<lb ed="X" n="0156b15"/>為務而不&CB04393;斯須就勞者故聖人斥之為無慚人凡
+<lb ed="X" n="0156b16"/>有識者安肯負此無慚而復嗜閑於&CB00520;散之域也余
+<lb ed="X" n="0156b17"/>故書此以為投間者之誡。</p></div2>
+<lb ed="X" n="0156b18"/><div2 type="w"><mulu type="附文" level="2" label="桐江瑛法師觀心銘"/><head>桐江瑛法師觀心銘</head>
+<lb ed="X" n="0156b19"/><p id="pX60p0156b1901">心焉心焉本自天然卓爾獨立湛寂孤堅妙中至妙
+<lb ed="X" n="0156b20"/>玄中又玄無來無去不變不遷非迷非悟絕聖絕賢
+<lb ed="X" n="0156b21"/>思不可及強以言詮由體明覺遂生諸緣鏡含萬象
+<lb ed="X" n="0156b22"/>海納百川收之兮神潛方寸舒之兮光充大千變化
+<lb ed="X" n="0156b23"/>自在作用無邊乃生乃佛為實為權迷之則浩浩不
+<lb ed="X" n="0156b24"/>返悟之則了了相傳心焉汝靈心焉汝靈語汝莫忘
+<pb ed="X" id="X60.1114.0156c" n="0156c"/>
+<lb ed="X" n="0156c01"/>誨汝須聽汝具萬法兮本自圓成萬法是汝兮其體
+<lb ed="X" n="0156c02"/>空平境非實境名是假名汝昔不悟兮枉受&CI0002;汝
+<lb ed="X" n="0156c03"/>今自覺兮可保堅貞觸途莫滯念起即惺六塵不染
+<lb ed="X" n="0156c04"/>三毒乃清休更鼓之令濁兮失本明宜自澄之令淨
+<lb ed="X" n="0156c05"/>兮歸元精。</p></div2>
+<lb ed="X" n="0156c06"/><div2 type="w"><mulu type="附文" level="2" label="清涼澄觀大師十事自勵"/><head>清涼澄觀大師十事自勵</head>
+<lb ed="X" n="0156c07"/><p id="pX60p0156c0701">體不捐沙門之表心不違如來之制坐不背法界之
+<lb ed="X" n="0156c08"/>經性不染情礙之境足不履尼寺之塵&CB00169;不觸居士
+<lb ed="X" n="0156c09"/>之榻目不視非儀之綵舌不昧過午之餚手不釋圓
+<lb ed="X" n="0156c10"/>明之珠宿不離衣&CB00425;之惻。</p>
+<lb ed="X" n="0156c11"/>
+<lb ed="X" n="0156c12"/><p id="pX60p0156c1201" rend="margin-left:1em">崇禎癸酉年孟夏黃檗山比丘隆瑞纂集</p></div2></div1>
+</body></text></TEI.2>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="cp950" ?>
+<?xml-stylesheet type="text/xsl" href="../dtd/cbeta.xsl" ?>
+<!DOCTYPE TEI.2 SYSTEM "../dtd/cbetaxml.dtd"
+[<!ENTITY % ENTY  SYSTEM "X69n1348.ent" >
+<!ENTITY % CBENT  SYSTEM "../dtd/cbeta.ent" >
+%ENTY;
+%CBENT;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1348 雪菴從瑾禪師頌古</title>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.6 $ (Big5)<date>$Date: 2009/04/22 09:03:13 $</date></edition>
+	</editionStmt>
+	<extent>1卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:03:13 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 69, No. 1348 &desc;</bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA, OCR by CBETA</p>
+		<p lang="chi" type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+</encodingDesc>
+<revisionDesc>
+	<change>
+		<date>2004/06/17 09:14:32</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
+<!--
+$Log: X69n1348.xml,v $
+Revision 1.6  2009/04/22 09:03:13  amtbgrace
+modified: 檔頭編碼由 big5 改為 cp950。
+
+Revision 1.5  2007/09/06 05:57:04  amtbgrace
+modified: 校注插入 XML 作業完成
+
+Revision 1.4  2004/11/15 11:16:50  amtbgrace
+modified: 跑chk_mcode.pl  將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
+
+Revision 1.3  2004/07/06 10:18:17  eva
+modified: 刪除空的 juan close
+
+Revision 1.2  2004/06/24 10:15:35  eva
+modified: 修訂milestone 及 手動加入 div
+
+Revision 1.1  2004/06/17 01:20:45  ray
+由 basicx 轉自 簡單標記版
+
+-->
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" id="X69.1348.0272b" n="0272b"/>
+<lb ed="X" n="0272b01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0272b02"/>
+<lb ed="X" n="0272b03"/>
+<lb ed="X" n="0272b04"/>
+<lb ed="X" n="0272b05"/>
+<lb ed="X" n="0272b06"/><head type="no">No. 1348</head>
+<lb ed="X" n="0272b07"/><juan fun="open" n="001"><mulu type="卷" n="1"/><jhead>雪庵從瑾禪師頌古集</jhead></juan>
+<lb ed="X" n="0272b08"/>
+<lb ed="X" n="0272b09"/><div1 type="other"><mulu type="其他" level="1" label="女子出定"/><head>女子出定</head>
+<lb ed="X" n="0272b10"/><p id="pX69p0272b1001">誰在&CB00474;樓西。相逢語&CB01170;低。到家春色晚。花落鷓鴣啼。</p></div1>
+<lb ed="X" n="0272b11"/><div1 type="other"><mulu type="其他" level="1" label="舍利弗入城遙見月上女出城"/><head>舍利弗入城。遙見月上女出城</head>
+<lb ed="X" n="0272b12"/><p id="pX69p0272b1201">大地絕纖塵。面南看北斗。嫁雞逐雞飛。嫁狗逐狗走。</p></div1>
+<lb ed="X" n="0272b13"/><div1 type="other"><mulu type="其他" level="1" label="楞嚴經佛謂阿難見見之時見非是見見猶離見見不能及"/><head>楞嚴經。佛謂阿難。見見之時。見非是見。見猶
+<lb ed="X" n="0272b14"/>離見。見不能及</head>
+<lb ed="X" n="0272b15"/><p id="pX69p0272b1501">隔墻見角便騎牛。騎入紅塵&CB00436;市遊。遊&CB00642;歸來欄裏
+<lb ed="X" n="0272b16"/>臥。三更半夜失&CB05114;由。</p></div1>
+<lb ed="X" n="0272b17"/><div1 type="other"><mulu type="其他" level="1" label="迦葉門前剎竿"/><head>迦葉門前剎竿</head>
+<lb ed="X" n="0272b18"/><p id="pX69p0272b1801">家家門口透長安。不見纖毫眼界寬。無法無人誰付
+<lb ed="X" n="0272b19"/>&CB04706;。難兄難弟自相謾。</p></div1>
+<lb ed="X" n="0272b20"/><div1 type="other"><mulu type="其他" level="1" label="師子尊者赴罽賓"/><head>師子尊者赴罽賓</head>
+<lb ed="X" n="0272b21"/><p id="pX69p0272b2101">蘊空誰見法中王。覿體何曾礙劍光。古廟藤蘿穿戶
+<lb ed="X" n="0272b22"/>牖。斷&CB15156;風雨碎文章。</p></div1>
+<lb ed="X" n="0272b23"/><div1 type="other"><mulu type="其他" level="1" label="達磨見梁武帝"/><head>達磨見梁武帝</head>
+<lb ed="X" n="0272b24"/><p id="pX69p0272b2401">踏翻地軸地不動。推倒天關天更高。穩泛鐵船歸少
+<pb ed="X" id="X69.1348.0272c" n="0272c"/>
+<lb ed="X" n="0272c01"/>室。至今天下起風濤。</p></div1>
+<lb ed="X" n="0272c02"/><div1 type="other"><mulu type="其他" level="1" label="達磨隻履西歸"/><head>達磨隻履西歸</head>
+<lb ed="X" n="0272c03"/><p id="pX69p0272c0301">九年冷坐<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>敗闕。隻履西歸更脫空。後代兒孫空妄
+<lb ed="X" n="0272c04"/>想。鷓鴣啼不為春風。</p></div1>
+<lb ed="X" n="0272c05"/><div1 type="other"><mulu type="其他" level="1" label="二祖安心"/><head>二祖安心</head>
+<lb ed="X" n="0272c06"/><p id="pX69p0272c0601">自有覓不得。無端面發紅。翻身喫一&CB06062;。兩手摸&CB00980;空。</p></div1>
+<lb ed="X" n="0272c07"/><div1 type="other"><mulu type="其他" level="1" label="六祖因僧問黃梅衣＆CB00425；是何人得祖云會佛法者得僧曰和尚還得不祖曰不得僧曰因甚不得祖曰我不會佛法"/><head>六祖。因僧問。黃梅衣&CB00425;。是何人得。祖云。會佛
+<lb ed="X" n="0272c08"/>法者得。僧曰。和尚還得不。祖曰不得。僧曰。因
+<lb ed="X" n="0272c09"/>甚不得。祖曰。我不會佛法</head>
+<lb ed="X" n="0272c10"/><p id="pX69p0272c1001">不會黃梅佛法。夢中合眼惺惺。此地無金二兩。俗人
+<lb ed="X" n="0272c11"/>酤酒三升。</p></div1>
+<lb ed="X" n="0272c12"/><div1 type="other"><mulu type="其他" level="1" label="忠國師三喚侍者"/><head>忠國師三喚侍者</head>
+<lb ed="X" n="0272c13"/><p id="pX69p0272c1301">一箭射雙鵰。雙鵰隨手落。波搖岳陽城。月滿滕王閣。</p></div1>
+<lb ed="X" n="0272c14"/><div1 type="other"><mulu type="其他" level="1" label="馬祖云自從胡亂後三十年不曾缺鹽醬喫"/><head>馬祖云。自從胡亂後三十年。不曾缺鹽醬喫</head>
+<lb ed="X" n="0272c15"/><p id="pX69p0272c1501">當年高甲<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>登科。讀盡人間萬卷書。今日一身天地
+<lb ed="X" n="0272c16"/>窄。思量好事不如無。</p></div1>
+<lb ed="X" n="0272c17"/><div1 type="other"><mulu type="其他" level="1" label="百丈曰老僧昔日被馬大師一喝直得三日"/><head>百丈曰。老僧昔日被馬大師一喝。直得三日</head></div1>
+<lb ed="X" n="0272c18"/><div1 type="other"><mulu type="其他" level="1" label="耳聾眼黑"/><head>耳聾眼黑</head>
+<lb ed="X" n="0272c19"/><p id="pX69p0272c1901">一喝當頭雷電奔。人間說亦暗銷魂。看來豈止聾三
+<lb ed="X" n="0272c20"/>日。直至如今海嶽昏。</p></div1>
+<lb ed="X" n="0272c21"/><div1 type="other"><mulu type="其他" level="1" label="南泉曰馬祖說即心即佛王老師不恁麼道不是心不是佛不是物恁麼道還有過麼"/><head>南泉曰。馬祖說即心即佛。王老師不恁麼道。
+<lb ed="X" n="0272c22"/>不是心不是佛不是物。恁麼道。還有過麼</head>
+<lb ed="X" n="0272c23"/><p id="pX69p0272c2301">剃頭頭光生。洗&CB00560;&CB00560;清爽。脫衣上&CB00646;眠。抓著通身痒。</p></div1>
+<lb ed="X" n="0272c24"/><div1 type="other"><mulu type="其他" level="1" label="夾山曰我當初在大梅失＆CB00230；一隻眼"/><head>夾山曰。我當初在大梅。失&CB00230;一隻眼</head>
+<pb ed="X" id="X69.1348.0273a" n="0273a"/>
+<lb ed="X" n="0273a01"/><p id="pX69p0273a0101">竹籬茆舍酒旗斜。一&CB00286;胡&CB15173;敗兩家。酒後不知天與
+<lb ed="X" n="0273a02"/>地。皈來滿地是桃花。</p></div1>
+<lb ed="X" n="0273a03"/><div1 type="other"><mulu type="其他" level="1" label="槃山將順世告眾曰有人邈得我真否將所寫真呈皆不契師意普化出曰某甲邈得師曰何不呈似老僧化乃打筋斗而出師曰這漢向後掣風狂去在"/><head>槃山將順世。告眾曰。有人邈得我真否。將所
+<lb ed="X" n="0273a04"/>寫真呈。皆不契師意。普化出曰。某甲邈得。師
+<lb ed="X" n="0273a05"/>曰。何不呈似老僧。化乃打筋斗而出。師曰。這
+<lb ed="X" n="0273a06"/>漢向後掣風狂去在</head>
+<lb ed="X" n="0273a07"/><p id="pX69p0273a0701">徹底&CB00457;壺無影像。倒翻筋斗摸難成。千&CB00123;雨歇黃梅
+<lb ed="X" n="0273a08"/>後。桂魄還從海上生。</p></div1>
+<lb ed="X" n="0273a09"/><div1 type="other"><mulu type="其他" level="1" label="魯祖面壁"/><head>魯祖面壁</head>
+<lb ed="X" n="0273a10"/><p id="pX69p0273a1001">無目仙人揣骨頭。暗中摸索認王侯。價高畢竟無人
+<lb ed="X" n="0273a11"/>買。冷&CB00230;构欄&CB01333;&CB01334;休。</p></div1>
+<lb ed="X" n="0273a12"/><div1 type="other"><mulu type="其他" level="1" label="藥山造石頭之室"/><head>藥山造石頭之室</head>
+<lb ed="X" n="0273a13"/><p id="pX69p0273a1301">恁麼不得總不得。脫&CB00230;布衫赤骨律。劈頭一搭忽翻
+<lb ed="X" n="0273a14"/>身。便見口開并眼白。</p></div1>
+<lb ed="X" n="0273a15"/><div1 type="other"><mulu type="其他" level="1" label="時人見此一株花如夢相似"/><head>時人見此一株花如夢相似</head>
+<lb ed="X" n="0273a16"/><p id="pX69p0273a1601">同根一體都如夢。夢裏惺惺眼又花。蝴蝶飛來過墻
+<lb ed="X" n="0273a17"/>去。不知春色落誰家。</p></div1>
+<lb ed="X" n="0273a18"/><div1 type="other"><mulu type="其他" level="1" label="甘贄設粥"/><head>甘贄設粥</head>
+<lb ed="X" n="0273a19"/><p id="pX69p0273a1901">甘贄設粥。南泉打鍋。一般病痛。徹底&CB05070;訛。更有些兒
+<lb ed="X" n="0273a20"/>好笑。明朝餓殺禪和。</p></div1>
+<lb ed="X" n="0273a21"/><div1 type="other"><mulu type="其他" level="1" label="南泉平常心是道"/><head>南泉平常心是道</head>
+<lb ed="X" n="0273a22"/><p id="pX69p0273a2201">悟得平常達本鄉。時人多怕落平常。青春只有九十
+<lb ed="X" n="0273a23"/>日。爛醉都無一百場。</p></div1>
+<lb ed="X" n="0273a24"/><div1 type="other"><mulu type="其他" level="1" label="趙州曰老僧使得十二時"/><head>趙州曰老僧使得十二時</head>
+<pb ed="X" id="X69.1348.0273b" n="0273b"/>
+<lb ed="X" n="0273b01"/><p id="pX69p0273b0101">鍾送黃昏雞報曉。趙州何用間煩惱。裂破&CB00980;空作兩
+<lb ed="X" n="0273b02"/>邊。古廟香爐出芝草。</p></div1>
+<lb ed="X" n="0273b03"/><div1 type="other"><mulu type="其他" level="1" label="趙州行＆CB00560；到臨濟"/><head>趙州行&CB00560;到臨濟</head>
+<lb ed="X" n="0273b04"/><p id="pX69p0273b0401">臨濟趙州。禪林宗匝。特地相逢。恰似相撲。撞見今時
+<lb ed="X" n="0273b05"/>行&CB00560;僧。呼為兩箇閒和尚。</p></div1>
+<lb ed="X" n="0273b06"/><div1 type="other"><mulu type="其他" level="1" label="秘魔木杈"/><head>秘魔木杈</head>
+<lb ed="X" n="0273b07"/><p id="pX69p0273b0701">威風凜凜不容攀。跳入懷中便解顏。不是酒腸寬似
+<lb ed="X" n="0273b08"/>海。爭知詩膽大如山。</p></div1>
+<lb ed="X" n="0273b09"/><div1 type="other"><mulu type="其他" level="1" label="祇林降魔"/><head>祇林降魔</head>
+<lb ed="X" n="0273b10"/><p id="pX69p0273b1001">無魔無我<app><lem wit="【CBETA】" resp="CBETA.maha">已</lem><rdg wit="【卍續】">巳</rdg></app>降魔。添得時人眼裏花。今日鏌&CB03456;無用
+<lb ed="X" n="0273b11"/>處。也知賊不打貧家。</p></div1>
+<lb ed="X" n="0273b12"/><div1 type="other"><mulu type="其他" level="1" label="臨濟陞堂有僧出師便喝僧亦喝便禮拜師"/><head>臨濟陞堂。有僧出。師便喝。僧亦喝。便禮拜。師</head></div1>
+<lb ed="X" n="0273b13"/><div1 type="other"><mulu type="其他" level="1" label="便打"/><head>便打</head>
+<lb ed="X" n="0273b14"/><p id="pX69p0273b1401">棒頭有眼。眼裏無筋。多逢濁富。罕遇清貧。自入洞門
+<lb ed="X" n="0273b15"/>&CB00195;&CB02083;斷。不知世上幾經春。</p></div1>
+<lb ed="X" n="0273b16"/><div1 type="other"><mulu type="其他" level="1" label="趙州問大同禪師大死底人＆CB00230；活時如何師曰不許夜行投明須到"/><head>趙州問大同禪師。大死底人&CB00230;活時如何。師
+<lb ed="X" n="0273b17"/>曰。不許夜行。投明須到</head>
+<lb ed="X" n="0273b18"/><p id="pX69p0273b1801">棚前夜半弄傀儡。行動威儀去就全。子細思量無道
+<lb ed="X" n="0273b19"/>理。裏頭畢竟有人牽。</p></div1>
+<lb ed="X" n="0273b20"/><div1 type="other"><mulu type="其他" level="1" label="興化與旻德問答"/><head>興化與旻德問答</head>
+<lb ed="X" n="0273b21"/><p id="pX69p0273b2101">一喝兩喝。全機出沒。賓主歷然。未免俱瞎。半夜摸烏
+<lb ed="X" n="0273b22"/>龜。明月照積雪。</p></div1>
+<lb ed="X" n="0273b23"/><div1 type="other"><mulu type="其他" level="1" label="興化見同參來纔上法堂便喝僧亦喝"/><head>興化見同參來。纔上法堂便喝。僧亦喝</head>
+<lb ed="X" n="0273b24"/><p id="pX69p0273b2401">須彌倒卓。海水逆流。同參相訪。作盡冤讎。休休。明日
+<pb ed="X" id="X69.1348.0273c" n="0273c"/>
+<lb ed="X" n="0273c01"/>黃花蝶也愁。</p></div1>
+<lb ed="X" n="0273c02"/><div1 type="other"><mulu type="其他" level="1" label="巖頭因僧問古帆不掛時如何師曰後園驢喫草"/><head>巖頭。因僧問古帆不掛時如何。師曰。後園驢
+<lb ed="X" n="0273c03"/>喫草</head>
+<lb ed="X" n="0273c04"/><p id="pX69p0273c0401">古帆未掛時。後園驢喫草。日短苦夜長。行人須及早。</p></div1>
+<lb ed="X" n="0273c05"/><div1 type="other"><mulu type="其他" level="1" label="乾＆CB00123；一路涅槃門"/><head>乾&CB00123;一路涅槃門</head>
+<lb ed="X" n="0273c06"/><p id="pX69p0273c0601">當面非暗投。應機皆直說。乾&CB00123;與雲門。兩口同一舌。
+<lb ed="X" n="0273c07"/>若是續貂人。弄巧便成拙。</p></div1>
+<lb ed="X" n="0273c08"/><div1 type="other"><mulu type="其他" level="1" label="雲門上堂聞聲悟道見色明心遂舉起手曰觀世音菩薩將錢買餬餅放下手曰元來祇是饅頭"/><head>雲門上堂。聞聲悟道。見色明心。遂舉起手曰。
+<lb ed="X" n="0273c09"/>觀世音菩薩。將錢買餬餅。放下手曰。元來祇
+<lb ed="X" n="0273c10"/>是饅頭</head>
+<lb ed="X" n="0273c11"/><p id="pX69p0273c1101">頓超見色聞聲句。不涉明心悟道言。花落鳥啼巖下
+<lb ed="X" n="0273c12"/>寺。月明人喚渡<note n="0273001" resp="Xuzangjing" place="foot text" type="orig">船上疑脫頭字</note>船。</p></div1>
+<lb ed="X" n="0273c13"/><div1 type="other"><mulu type="其他" level="1" label="禾山解打鼓"/><head>禾山解打鼓</head>
+<lb ed="X" n="0273c14"/><p id="pX69p0273c1401">當陽打動番南鼓。萬象森羅立地聞。不是大家齊則
+<lb ed="X" n="0273c15"/>劇。難消白日到黃昏。</p></div1>
+<lb ed="X" n="0273c16"/><div1 type="other"><mulu type="其他" level="1" label="法華因僧問生死事大請師相救師曰洞庭湖裏失＆CB00230；船"/><head>法華。因僧問生死事大請師相救。師曰。洞庭
+<lb ed="X" n="0273c17"/>湖裏失&CB00230;船</head>
+<lb ed="X" n="0273c18"/><p id="pX69p0273c1801">洞庭湖裏失&CB00230;船。赤&CB00560;波斯水底眠。盡大地人呼不
+<lb ed="X" n="0273c19"/>起。春風吹入杏花村。</p></div1>
+<lb ed="X" n="0273c20"/><div1 type="other"><mulu type="其他" level="1" label="黃龍三關"/><head>黃龍三關</head>
+<lb ed="X" n="0273c21"/><p id="pX69p0273c2101">我手何似佛手。合掌面南看北斗。兔推明月上千&CB00123;。
+<lb ed="X" n="0273c22"/>引得寒山開笑口。</p>
+<lb ed="X" n="0273c23"/><p id="pX69p0273c2301">我&CB00560;何似驢&CB00560;。急走歸家日將落。自古長安如鏡平。
+<lb ed="X" n="0273c24"/>無端醉倒黃番綽。</p>
+<pb ed="X" id="X69.1348.0274a" n="0274a"/>
+<lb ed="X" n="0274a01"/><p id="pX69p0274a0101">人人有箇生緣。且非東土與西天。擊珊瑚樹枝枝好。
+<lb ed="X" n="0274a02"/>撒水銀珠顆顆圓。</p>
+<lb ed="X" n="0274a03"/><p id="pX69p0274a0301">佛手驢&CB00560;生緣。南海波斯泛鐵船。精金美玉團堆賣。
+<lb ed="X" n="0274a04"/>畢竟何曾直一錢。</p></div1>
+<lb ed="X" n="0274a05"/><div1 type="other"><mulu type="其他" level="1" label="五祖演曰倩女離魂那＆CB00286；是真底"/><head>五祖演曰。倩女離魂。那&CB00286;是真底</head>
+<lb ed="X" n="0274a06"/><p id="pX69p0274a0601">南枝向暖北枝寒。何事春風作兩般。憑仗高樓莫吹
+<lb ed="X" n="0274a07"/>笛。大家留取倚闌看。</p></div1></body></text></TEI.2>
