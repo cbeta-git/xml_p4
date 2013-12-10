@@ -169,7 +169,7 @@ Revision 1.46  2005/11/30 06:33:54  amtbgrace
 modified: 執行全部 mulu.py, 取消自訂目錄的全形括號
 
 Revision 1.45  2005/11/23 04:24:26  saywhat
-p0800c01  <p type="w"> => <div3 type="W"><p>
+p0800c01  <p type="W"> => <div3 type="W"><p>
 
 Revision 1.44  2005/10/26 15:22:04  saywhat
 修訂p0589c12~p0786a16 [室>空] 共21筆
@@ -226,7 +226,7 @@ Revision 1.27  2004/09/19 07:52:03  saywhat
 用字修訂:  [貨>貧], [蜎>蝐], [擯擯>攢攢]
 
 Revision 1.26  2004/06/30 10:16:17  saywhat
-<div type="w"> 改用 <mulu type="附文">
+<div type="W"> 改用 <mulu type="附文">
 修訂 div 位置
 
 Revision 1.25  2004/06/04 03:04:04  saywhat
@@ -12730,8 +12730,8 @@ Added comment  for Emacs
 <lb n="0557c10" ed="T"/>布者，是<note n="0557006" resp="Taisho" type="orig" place="foot text">謂＋（第十三至）【明】</note><app n="0557006"><lem wit="【大】">謂</lem><rdg resp="Taisho" wit="【明】">謂第十三至</rdg></app>第十八德。如是修習念身、如是
 <lb n="0557c11" ed="T"/>廣布者，當知有此十八功德。」</p><p id="pT01p0557c1112" place="inline">佛說如是。彼
 <lb n="0557c12" ed="T"/>諸比丘聞佛所說，歡喜奉行。</p>
-<lb n="0557c13" ed="T"/><p id="pT01p0557c1301"><note n="0557007" resp="Taisho" type="orig" place="foot text">〔念…竟〕－【明】</note><app n="0557007" word-count="6"><lem wit="【大】">念身經第十竟</lem><rdg resp="Taisho" wit="【明】">&lac;</rdg></app><note n="0557008" resp="Taisho" type="orig" place="foot text">〔四…字〕</note><note n="0557008" resp="CBETA" type="mod">〔四千二百二十五字〕<todo/><app><lem resp="CBETA.say">－【宋】【元】【明】</lem><rdg wit="【大】"></rdg></app></note><app n="0557008"><lem wit="【大】"><note place="inline">四千二百二十五字</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】">&lac;</rdg></app></p>
-<lb n="0557c14" ed="T"/><p id="pT01p0557c1401" type="W"><note n="0557009" resp="Taisho" type="orig" place="foot text">〔十八…曉〕－【三】</note><note n="0557009" resp="CBETA" type="mod">〔十八…曉〕－【宋】【元】【明】</note><app n="0557009" word-count="39"><lem wit="【大】">十八德內關六七八并十三至十七
+<lb n="0557c13" ed="T"/><p id="pT01p0557c1301"><note n="0557007" resp="Taisho" type="orig" place="foot text">〔念…竟〕－【明】</note><app n="0557007" word-count="6"><lem wit="【大】">念身經第十竟</lem><rdg resp="Taisho" wit="【明】">&lac;</rdg></app><note n="0557008" resp="Taisho" type="orig" place="foot text">〔四…字〕</note><note n="0557008" resp="CBETA" type="mod">〔四千二百二十五字〕<todo/><app><lem resp="CBETA.say">－【宋】【元】【明】</lem><rdg wit="【大】"></rdg></app></note><app n="0557008"><lem wit="【大】"><note place="inline">四千二百二十五字</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】">&lac;</rdg></app></p></div3>
+<lb n="0557c14" ed="T"/><div3 type="W"><p id="pT01p0557c1401"><note n="0557009" resp="Taisho" type="orig" place="foot text">〔十八…曉〕－【三】</note><note n="0557009" resp="CBETA" type="mod">〔十八…曉〕－【宋】【元】【明】</note><app n="0557009" word-count="39"><lem wit="【大】">十八德內關六七八并十三至十七
 <lb n="0557c15" ed="T"/>者，應在第五、第十八德內也。南本結
 <lb n="0557c16" ed="T"/>在第四、第十二中，理猶難曉</lem><rdg resp="Taisho" wit="【宋】【元】【明】">&lac;</rdg></app>。</p></div3>
 <lb n="0557c17" ed="T"/><div3 type="jing"><mulu level="3" label="82 支離彌梨經" type="經"/><head>（八二）<title><note n="0557010" resp="Taisho" type="orig" place="foot text">〔中阿含〕－【明】</note><app n="0557010"><lem wit="【大】">中阿含</lem><rdg resp="Taisho" wit="【明】">&lac;</rdg></app>長壽王品</title><note n="0557011" resp="Taisho" type="orig" place="foot text">～A. VI. 60. Citta.</note><note n="0557011" place="foot" type="equivalent">～A. VI. 60. Citta.</note>支離彌梨經第十一
