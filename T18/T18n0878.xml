@@ -41,7 +41,7 @@
 </fileDesc>
 <encodingDesc>
 	<projectDesc>
-		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous from USA</p>
 		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供</p>
 	</projectDesc>
 </encodingDesc>
@@ -72,7 +72,7 @@ Revision 1.7  2004/10/17 11:34:27  saywhat
 段落前加入圈點
 
 Revision 1.6  2004/07/04 13:28:29  saywhat
-修訂 div 位置；<p type="W"> 改用 <div type="W"><p>
+修訂 div 位置；<p type="w"> 改用 <div type="w"><p>
 
 Revision 1.5  2004/04/20 08:38:35  maha
 「版本日期」標記修訂
@@ -252,5 +252,5 @@ Added comment  for Emacs
 <lb n="0337a18" ed="T"/><juan n="001" fun="close"><jhead>金剛頂經金剛界大道場毘盧遮那如來自受
 <lb n="0337a19" ed="T"/>用<note n="0337001" resp="Taisho" place="foot text" type="orig">（（身內…丈））二十二字＝（（法身體讚文一卷））七字【甲】</note><note n="0337001" resp="CBETA" type="mod">（（身內…<app><lem resp="CBETA.say">文</lem><rdg wit="【大】">丈</rdg></app>））二十二字＝（（法身體讚文一卷））七字【甲】</note><app word-count="22" n="0337001"><lem wit="【大】">身內證智眷屬法身異名佛最上乘祕密
 <lb n="0337a20" ed="T"/>三摩地禮懺文</lem><rdg resp="Taisho" wit="【甲】">法身體讚文一卷</rdg></app></jhead></juan>
-<lb n="0337a21" ed="T"/><div1 type="W"><p id="pT18p0337a2101"><note n="0337002" resp="Taisho" place="foot text" type="orig">〔亦名…文〕九字－【甲】</note><app word-count="9" n="0337002"><lem wit="【大】">亦名三十七尊禮懺文</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>。</p></div1>
+<lb n="0337a21" ed="T"/><div1 type="w"><p id="pT18p0337a2101"><note n="0337002" resp="Taisho" place="foot text" type="orig">〔亦名…文〕九字－【甲】</note><app word-count="9" n="0337002"><lem wit="【大】">亦名三十七尊禮懺文</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>。</p></div1>
 </body></text></TEI.2>

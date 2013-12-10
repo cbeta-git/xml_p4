@@ -41,7 +41,7 @@
 </fileDesc>
 <encodingDesc>
 	<projectDesc>
-		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Mr. Chang Wen-Ming, Text as provided by Anonymous, USA, Punctuated text as provided by Dhammavassarama</p>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Mr. Chang Wen-Ming, Text as provided by Anonymous from USA, Punctuated text as provided by Dhammavassarama</p>
 		<p lang="chi" type="ly">蕭鎮國大德提供，張文明大德提供，北美某大德提供，法雨道場提供新式標點</p>
 	</projectDesc>
 </encodingDesc>
@@ -169,7 +169,7 @@ Revision 1.46  2005/11/30 06:33:54  amtbgrace
 modified: 執行全部 mulu.py, 取消自訂目錄的全形括號
 
 Revision 1.45  2005/11/23 04:24:26  saywhat
-p0800c01  <p type="W"> => <div3 type="W"><p>
+p0800c01  <p type="w"> => <div3 type="w"><p>
 
 Revision 1.44  2005/10/26 15:22:04  saywhat
 修訂p0589c12~p0786a16 [室>空] 共21筆
@@ -226,7 +226,7 @@ Revision 1.27  2004/09/19 07:52:03  saywhat
 用字修訂:  [貨>貧], [蜎>蝐], [擯擯>攢攢]
 
 Revision 1.26  2004/06/30 10:16:17  saywhat
-<div type="W"> 改用 <mulu type="附文">
+<div type="w"> 改用 <mulu type="附文">
 修訂 div 位置
 
 Revision 1.25  2004/06/04 03:04:04  saywhat
@@ -12731,7 +12731,7 @@ Added comment  for Emacs
 <lb n="0557c11" ed="T"/>廣布者，當知有此十八功德。」</p><p id="pT01p0557c1112" place="inline">佛說如是。彼
 <lb n="0557c12" ed="T"/>諸比丘聞佛所說，歡喜奉行。</p>
 <lb n="0557c13" ed="T"/><p id="pT01p0557c1301"><note n="0557007" resp="Taisho" type="orig" place="foot text">〔念…竟〕－【明】</note><app n="0557007" word-count="6"><lem wit="【大】">念身經第十竟</lem><rdg resp="Taisho" wit="【明】">&lac;</rdg></app><note n="0557008" resp="Taisho" type="orig" place="foot text">〔四…字〕</note><note n="0557008" resp="CBETA" type="mod">〔四千二百二十五字〕<todo/><app><lem resp="CBETA.say">－【宋】【元】【明】</lem><rdg wit="【大】"></rdg></app></note><app n="0557008"><lem wit="【大】"><note place="inline">四千二百二十五字</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】">&lac;</rdg></app></p></div3>
-<lb n="0557c14" ed="T"/><div3 type="W"><p id="pT01p0557c1401"><note n="0557009" resp="Taisho" type="orig" place="foot text">〔十八…曉〕－【三】</note><note n="0557009" resp="CBETA" type="mod">〔十八…曉〕－【宋】【元】【明】</note><app n="0557009" word-count="39"><lem wit="【大】">十八德內關六七八并十三至十七
+<lb n="0557c14" ed="T"/><div3 type="w"><p id="pT01p0557c1401"><note n="0557009" resp="Taisho" type="orig" place="foot text">〔十八…曉〕－【三】</note><note n="0557009" resp="CBETA" type="mod">〔十八…曉〕－【宋】【元】【明】</note><app n="0557009" word-count="39"><lem wit="【大】">十八德內關六七八并十三至十七
 <lb n="0557c15" ed="T"/>者，應在第五、第十八德內也。南本結
 <lb n="0557c16" ed="T"/>在第四、第十二中，理猶難曉</lem><rdg resp="Taisho" wit="【宋】【元】【明】">&lac;</rdg></app>。</p></div3>
 <lb n="0557c17" ed="T"/><div3 type="jing"><mulu level="3" label="82 支離彌梨經" type="經"/><head>（八二）<title><note n="0557010" resp="Taisho" type="orig" place="foot text">〔中阿含〕－【明】</note><app n="0557010"><lem wit="【大】">中阿含</lem><rdg resp="Taisho" wit="【明】">&lac;</rdg></app>長壽王品</title><note n="0557011" resp="Taisho" type="orig" place="foot text">～A. VI. 60. Citta.</note><note n="0557011" place="foot" type="equivalent">～A. VI. 60. Citta.</note>支離彌梨經第十一
@@ -34589,7 +34589,7 @@ Added comment  for Emacs
 <lb n="0800b28" ed="T"/><p id="pT01p0800b2801"><note n="0800010" resp="Taisho" type="orig" place="foot text">〔第一…竟〕－【明】</note><app n="0800010" word-count="7"><lem wit="【大】">第一得經第四竟</lem><rdg resp="Taisho" wit="【明】">&lac;</rdg></app><note n="0800011" resp="Taisho" type="orig" place="foot text">〔一千…字〕－【三】【聖】</note><note n="0800011" resp="CBETA" type="mod">〔一千…字〕－【宋】【元】【明】【聖】</note><app n="0800011" word-count="8"><lem wit="【大】"><note place="inline">一千三百七十一字</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】【聖】">&lac;</rdg></app></p>
 <lb n="0800b29" ed="T"/><juan n="059" fun="close"><jhead><title>中阿含經</title>卷第五十九<note n="0800012" resp="Taisho" type="orig" place="foot text">〔一萬…字〕－【三】</note><note n="0800012" resp="CBETA" type="mod">〔一萬…字〕－【宋】【元】【明】</note><app n="0800012" word-count="8"><lem wit="【大】"><note place="inline">一萬七百七十二字</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】">&lac;</rdg></app><note n="0800013" resp="Taisho" type="orig" place="foot text">〔第五後誦〕－【三】</note><note n="0800013" resp="CBETA" type="mod">〔第五後誦〕－【宋】【元】【明】</note><app n="0800013"><lem wit="【大】"><note place="inline">第五後誦</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】">&lac;</rdg></app><note n="0800014" resp="Taisho" type="orig" place="foot text">＋（光明皇后御願文）【聖】</note></jhead></juan></div3>
 <pb n="0800c" ed="T" id="T01.0026.0800c"/>
-<lb n="0800c01" ed="T"/><div3 type="W"><p id="pT01p0800c0101">「<note n="0800015" resp="Taisho" type="orig" place="foot text">若有以下二百十三字依元本出校合【宋】【元】【明】</note>若有斷樂速者，此斷樂速故，此斷亦說下
+<lb n="0800c01" ed="T"/><div3 type="w"><p id="pT01p0800c0101">「<note n="0800015" resp="Taisho" type="orig" place="foot text">若有以下二百十三字依元本出校合【宋】【元】【明】</note>若有斷樂速者，此斷樂速故，此斷亦說下
 <lb n="0800c02" ed="T"/>賤。於中<app><lem wit="【CBETA】">若</lem><rdg wit="【大】">苦</rdg></app>有斷苦遲者，此斷苦遲故，此斷
 <lb n="0800c03" ed="T"/>亦說下賤。於中若有斷苦速者，此斷苦速
 <lb n="0800c04" ed="T"/>故，此斷非廣布、不流布，乃至天人亦不稱廣
@@ -35369,7 +35369,7 @@ Added comment  for Emacs
 <lb n="0809a27" ed="T"/><juan n="060" fun="close"><jhead><title>中阿<anchor id="fxT01p0809a01"/>含經</title>卷第六十<note n="0809003" resp="Taisho" type="orig" place="foot text">〔一萬…字〕－【三】【聖】</note><note n="0809003" resp="CBETA" type="mod">〔一萬…字〕－【宋】【元】【明】【聖】</note><app n="0809003" word-count="10"><lem wit="【大】"><note place="inline">一萬一千三百七十七字</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】【聖】">&lac;</rdg></app></jhead></juan>
 <lb n="0809a28" ed="T"/><trailer><note n="0809004" resp="Taisho" type="orig" place="foot text">中阿含例品第四竟＝例品第十八竟【明】－【明】</note><note n="0809004" resp="CBETA" type="mod">中阿含例品第四竟＝例品第十八竟【明】<app><lem resp="CBETA.say"></lem><rdg wit="【大】">－【明】</rdg></app></note><app n="0809004"><lem wit="【大】"><app><lem wit="【CBETA】">中</lem><rdg wit="【大】">　</rdg></app>阿<anchor id="fxT01p0809a02"/>含例品第四竟</lem><rdg resp="Taisho" wit="【明】">例品第十八竟</rdg></app><note n="0809005" resp="Taisho" type="orig" place="foot text">〔二萬…字〕－【三】【聖】</note><note n="0809005" resp="CBETA" type="mod">〔二萬…字〕－【宋】【元】【明】【聖】</note><app n="0809005" word-count="10"><lem wit="【大】"><note place="inline">二萬二千一百四十九字</note></lem><rdg resp="Taisho" wit="【宋】【元】【明】【聖】">&lac;</rdg></app><note n="0809006" resp="Taisho" type="orig" place="foot text">卷末題下【宋】【元】品末題下【明】＋（第五後誦訖）五字</note><note n="0809006" resp="CBETA" type="mod"><todo type="a"/>卷末題下【宋】【元】品末題下【明】＋（第五後誦訖）五字</note></trailer></div3></div2></div1>
 <pb n="0809b" ed="T" id="T01.0026.0809b"/>
-<lb n="0809b01" ed="T"/><div1 type="W"><mulu level="1" label="後出中阿含經記" type="附文"/><note n="0809007" resp="Taisho" type="orig" place="foot text">〔後出…從正〕－【三】</note><note n="0809007" resp="CBETA" type="mod">〔後出…從正〕六百一十一字－【宋】【元】【明】</note><app n="0809007" word-count="611"><lem wit="【大】"><head>後出中阿<anchor id="fxT01p0809b01"/>含經記</head>
+<lb n="0809b01" ed="T"/><div1 type="w"><mulu level="1" label="後出中阿含經記" type="附文"/><note n="0809007" resp="Taisho" type="orig" place="foot text">〔後出…從正〕－【三】</note><note n="0809007" resp="CBETA" type="mod">〔後出…從正〕六百一十一字－【宋】【元】【明】</note><app n="0809007" word-count="611"><lem wit="【大】"><head>後出中阿<anchor id="fxT01p0809b01"/>含經記</head>
 <lb n="0809b02" ed="T"/>
 <lb n="0809b03" ed="T"/><p id="pT01p0809b0301">昔釋法師於長安出《中阿含》、《增壹》、《阿
 <lb n="0809b04" ed="T"/>毘曇》、《廣說》、《僧伽羅叉》、《阿毘曇心》、《婆須蜜》、

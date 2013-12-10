@@ -41,7 +41,7 @@
 </fileDesc>
 <encodingDesc>
 	<projectDesc>
-		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous from USA</p>
 		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供</p>
 	</projectDesc>
 </encodingDesc>
@@ -105,8 +105,8 @@ Revision 1.25  2006/04/12 21:58:10  saywhat
 lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
 
 Revision 1.23  2006/01/17 15:40:26  saywhat
-p0264a11 <p type="W">=><p rend="margin-left:1em">,
-p0371c01 <div1 type="W" rend="margin-left:2em"><p> => <div1 type="W"><p rend="margin-left:2em">
+p0264a11 <p type="w">=><p rend="margin-left:1em">,
+p0371c01 <div1 type="w" rend="margin-left:2em"><p> => <div1 type="w"><p rend="margin-left:2em">
 
 Revision 1.22  2005/09/11 04:05:22  saywhat
 p0301a23 [論>輪]
@@ -3243,7 +3243,7 @@ Added comment  for Emacs
 <lb n="0034a18" ed="T"/>中。廣明六十二界體性。如彼論說<note place="inline">阿含經中亦列
 <lb n="0034a19" ed="T"/>六十二界名</note>。</p></div1>
 <lb n="0034a20" ed="T"/><juan n="001b" fun="close"><jhead><note n="0034007" resp="Taisho" place="foot text" type="orig">俱舍論記卷第一末＝論本第一【原】，俱舍論記卷第一之餘【乙】</note><note n="0034007" resp="CBETA" type="mod">俱舍論記卷第一末＝論本第一【原】，＝俱舍論記卷第一之餘【乙】</note><app n="0034007"><lem wit="【大】">俱舍論記卷第一<note place="inline">末</note></lem><rdg resp="Taisho" wit="【原】">論本第一</rdg><rdg resp="Taisho" wit="【乙】">俱舍論記卷第一之餘</rdg></app></jhead></juan>
-<lb n="0034a21" ed="T"/><div1 type="W"><note n="0034008" resp="Taisho" place="foot text" type="orig">〔長承……校了〕二十七字－【甲】【乙】，甲本奧書曰御書也，建久十年正月九日戌時書寫了為滅罪生出離生死也願以此功德普及於一切我等與眾生皆共成佛道沙門貞實一點了傳領永賢，貞譽</note><note n="0034008" resp="CBETA" type="mod">〔長承…校了〕二十七字－【甲】【乙】，甲本奧書曰御書也，建久十年正月九日戌時書寫了為滅罪生出離生死也願以此功德普及於一切我等與眾生皆共成佛道沙門貞實一點了傳領永賢，貞譽</note><app word-count="27" n="0034008"><lem wit="【大】"><p id="pT41p0034a2101">長承三年正月二十九日夜半與兩三門
+<lb n="0034a21" ed="T"/><div1 type="w"><note n="0034008" resp="Taisho" place="foot text" type="orig">〔長承……校了〕二十七字－【甲】【乙】，甲本奧書曰御書也，建久十年正月九日戌時書寫了為滅罪生出離生死也願以此功德普及於一切我等與眾生皆共成佛道沙門貞實一點了傳領永賢，貞譽</note><note n="0034008" resp="CBETA" type="mod">〔長承…校了〕二十七字－【甲】【乙】，甲本奧書曰御書也，建久十年正月九日戌時書寫了為滅罪生出離生死也願以此功德普及於一切我等與眾生皆共成佛道沙門貞實一點了傳領永賢，貞譽</note><app word-count="27" n="0034008"><lem wit="【大】"><p id="pT41p0034a2101">長承三年正月二十九日夜半與兩三門
 <lb n="0034a22" ed="T"/>弟讀并切句了</p>
 <lb n="0034a23" ed="T"/><p id="pT41p0034a2301" rend="margin-left:11em">一交了</p>
 <lb n="0034a24" ed="T"/><p id="pT41p0034a2401" rend="margin-left:11em">校　了</p></lem><rdg resp="Taisho" wit="【甲】【乙】">&lac;</rdg></app><note n="0034008" type="rest" place="foot">甲本奧書曰御書也，建久十年正月九日戌時書寫了為滅罪生出離生死也願以此功德普及於一切我等與眾生皆共成佛道沙門貞實一點了傳領永賢，貞譽</note></div1>
@@ -5181,7 +5181,7 @@ Added comment  for Emacs
 <lb n="0055c10" ed="T"/>&CB00278;是內十二攝。義准所餘色等五界。及法界
 <lb n="0055c11" ed="T"/>一分。皆體非根也。</p></div1>
 <lb n="0055c12" ed="T"/><juan n="002" fun="close"><jhead><note n="0055008" resp="Taisho" place="foot text" type="orig">俱舍論記卷第二＝俱舍論光記第二末【甲】</note><app n="0055008"><lem wit="【大】">俱舍論記卷第二</lem><rdg resp="Taisho" wit="【甲】">俱舍論光記第二末</rdg></app>　<note n="0055009" resp="Taisho" place="foot text" type="orig">〔沙門釋光述〕－【甲】【乙】</note><app n="0055009"><lem wit="【大】">沙門釋光述</lem><rdg resp="Taisho" wit="【甲】【乙】">&lac;</rdg></app></jhead></juan>
-<lb n="0055c13" ed="T"/><div1 type="W"><p id="pT41p0055c1301" rend="margin-left:11em"><note n="0055010" resp="Taisho" place="foot text" type="orig">〔一交了〕－【甲】【乙】，甲本奧書曰天仁二年十一月七日書寫畢僧覺範</note><app n="0055010"><lem wit="【大】">一交了</lem><rdg resp="Taisho" wit="【甲】【乙】">&lac;</rdg></app><note n="0055010" type="rest" place="foot">甲本奧書曰天仁二年十一月七日書寫畢僧覺範</note></p></div1>
+<lb n="0055c13" ed="T"/><div1 type="w"><p id="pT41p0055c1301" rend="margin-left:11em"><note n="0055010" resp="Taisho" place="foot text" type="orig">〔一交了〕－【甲】【乙】，甲本奧書曰天仁二年十一月七日書寫畢僧覺範</note><app n="0055010"><lem wit="【大】">一交了</lem><rdg resp="Taisho" wit="【甲】【乙】">&lac;</rdg></app><note n="0055010" type="rest" place="foot">甲本奧書曰天仁二年十一月七日書寫畢僧覺範</note></p></div1>
 <lb n="0055c14" ed="T"/>
 <milestone n="3" unit="juan"/>
 <lb n="0055c15" ed="T"/>
@@ -8500,7 +8500,7 @@ Added comment  for Emacs
 <pb n="0092c" id="T41.1821.0092c" ed="T"/>
 <lb n="0092c01" ed="T"/>得。虛空不容。況第二<note n="0092020" resp="Taisho" place="foot text" type="orig">念＝等【甲】</note><app n="0092020"><lem wit="【大】">念</lem><rdg resp="Taisho" wit="【甲】">等</rdg></app>。</p></div1>
 <lb n="0092c02" ed="T"/><juan n="004" fun="close"><jhead><note n="0092021" resp="Taisho" place="foot text" type="orig">俱舍論記卷第四＝論記卷四【原】，新俱舍論疏卷第四【甲】</note><note n="0092021" resp="CBETA" type="mod">俱舍論記卷第四＝論記卷四【原】，＝新俱舍論疏卷第四【甲】</note><app n="0092021"><lem wit="【大】">俱舍論記卷第四</lem><rdg resp="Taisho" wit="【原】">論記卷四</rdg><rdg resp="Taisho" wit="【甲】">新俱舍論疏卷第四</rdg></app></jhead></juan>
-<lb n="0092c03" ed="T"/><div1 type="W"><p id="pT41p0092c0301"><note n="0092022" resp="Taisho" place="foot text" type="orig">〔久安…見了〕十七字－【甲】【乙】，甲本奧書曰文永二年乙丑壬四月二十日於興福寺西湯屋於自辨範手傳了求法沙門慶尹，正應六年三月十八日儲畢三論宗沙門宗融之</note><app word-count="17" n="0092022"><lem wit="【大】">久安三年四月八日辰刻於石山寺一
+<lb n="0092c03" ed="T"/><div1 type="w"><p id="pT41p0092c0301"><note n="0092022" resp="Taisho" place="foot text" type="orig">〔久安…見了〕十七字－【甲】【乙】，甲本奧書曰文永二年乙丑壬四月二十日於興福寺西湯屋於自辨範手傳了求法沙門慶尹，正應六年三月十八日儲畢三論宗沙門宗融之</note><app word-count="17" n="0092022"><lem wit="【大】">久安三年四月八日辰刻於石山寺一
 <lb n="0092c04" ed="T"/>見了</lem><rdg resp="Taisho" wit="【甲】【乙】">&lac;</rdg></app><note n="0092022" type="rest" place="foot">甲本奧書曰文永二年乙丑壬四月二十日於興福寺西湯屋於自辨範手傳了求法沙門慶尹，正應六年三月十八日儲畢三論宗沙門宗融之</note></p></div1>
 <lb n="0092c05" ed="T"/>
 <milestone n="5" unit="juan"/>
@@ -10278,7 +10278,7 @@ Added comment  for Emacs
 <lb n="0112b07" ed="T"/>二定俱善。故言餘所未說隨應准知。如前
 <lb n="0112b08" ed="T"/>具釋<note n="0112007" resp="Taisho" place="foot text" type="orig">〔故今〕－【甲】【乙】</note><app n="0112007"><lem wit="【大】">故今</lem><rdg resp="Taisho" wit="【甲】【乙】">&lac;</rdg></app>不辨。</p></div1>
 <lb n="0112b09" ed="T"/><juan n="005" fun="close"><jhead><note n="0112008" resp="Taisho" place="foot text" type="orig">俱舍論記卷第五＝新俱舍論記卷第五【甲】</note><app n="0112008"><lem wit="【大】">俱舍論記卷第五</lem><rdg resp="Taisho" wit="【甲】">新俱舍論記卷第五</rdg></app></jhead></juan>
-<lb n="0112b10" ed="T"/><div1 type="W"><p id="pT41p0112b1001" rend="margin-left:1em"><note n="0112009" resp="Taisho" place="foot text" type="orig">〔久安……見了〕十九字－【甲】【乙】</note><note n="0112009" resp="CBETA" type="mod">〔久安…見了〕十九字－【甲】【乙】</note><app word-count="19" n="0112009"><lem wit="【大】">久安三年四月十五日於石山寺塔本
+<lb n="0112b10" ed="T"/><div1 type="w"><p id="pT41p0112b1001" rend="margin-left:1em"><note n="0112009" resp="Taisho" place="foot text" type="orig">〔久安……見了〕十九字－【甲】【乙】</note><note n="0112009" resp="CBETA" type="mod">〔久安…見了〕十九字－【甲】【乙】</note><app word-count="19" n="0112009"><lem wit="【大】">久安三年四月十五日於石山寺塔本
 <lb n="0112b11" ed="T"/>房一見了</lem><rdg resp="Taisho" wit="【甲】【乙】">&lac;</rdg></app></p></div1>
 <lb n="0112b12" ed="T"/>
 <milestone n="6" unit="juan"/>
@@ -12131,7 +12131,7 @@ Added comment  for Emacs
 <lb n="0133a01" ed="T"/>異熟．遍行．同類三因。及除相應因餘二因
 <lb n="0133a02" ed="T"/>生。一因生法決定無有。</p></div1>
 <lb n="0133a03" ed="T"/><juan n="006" fun="close"><jhead>俱舍論記卷第六</jhead></juan>
-<lb n="0133a04" ed="T"/><div1 type="W">　　　　<note n="0133001" resp="Taisho" place="foot text" type="orig">〔一校了……句了〕十九字－【甲】【乙】，甲本奧書曰建保五年丁丑卯月一日於東大寺西院書寫了非他意趣偏為佛法興隆證大菩提且為當年三十講且為令法久住利益人天也如形執筆三論末葉光慶生年二十四願以書寫力世世開惠眼生生得值遇必證大菩提</note><note n="0133001" resp="CBETA" type="mod">〔一校了…句了〕十九字－【甲】【乙】，甲本奧書曰建保五年丁丑卯月一日於東大寺西院書寫了非他意趣偏為佛法興隆證大菩提且為當年三十講且為令法久住利益人天也如形執筆三論末葉光慶生年二十四願以書寫力世世開惠眼生生得值遇必證大菩提</note><app word-count="19" n="0133001"><lem wit="【大】"><p id="pT41p0133a0401">一校了</p>
+<lb n="0133a04" ed="T"/><div1 type="w">　　　　<note n="0133001" resp="Taisho" place="foot text" type="orig">〔一校了……句了〕十九字－【甲】【乙】，甲本奧書曰建保五年丁丑卯月一日於東大寺西院書寫了非他意趣偏為佛法興隆證大菩提且為當年三十講且為令法久住利益人天也如形執筆三論末葉光慶生年二十四願以書寫力世世開惠眼生生得值遇必證大菩提</note><note n="0133001" resp="CBETA" type="mod">〔一校了…句了〕十九字－【甲】【乙】，甲本奧書曰建保五年丁丑卯月一日於東大寺西院書寫了非他意趣偏為佛法興隆證大菩提且為當年三十講且為令法久住利益人天也如形執筆三論末葉光慶生年二十四願以書寫力世世開惠眼生生得值遇必證大菩提</note><app word-count="19" n="0133001"><lem wit="【大】"><p id="pT41p0133a0401">一校了</p>
 <lb n="0133a05" ed="T"/><p id="pT41p0133a0501">大治三年七月三日朝於光明山切句了</p></lem><rdg resp="Taisho" wit="【甲】【乙】">&lac;</rdg></app><note n="0133001" type="rest" place="foot">甲本奧書曰建保五年丁丑卯月一日於東大寺西院書寫了非他意趣偏為佛法興隆證大菩提且為當年三十講且為令法久住利益人天也如形執筆三論末葉光慶生年二十四願以書寫力世世開惠眼生生得值遇必證大菩提</note></div1>
 <lb n="0133a06" ed="T"/>
 <milestone n="7" unit="juan"/>
@@ -13442,7 +13442,7 @@ Added comment  for Emacs
 <lb n="0147b21" ed="T"/>離染唯是善心。由此五位得心差別如前
 <lb n="0147b22" ed="T"/>具說。此中言得非先所成。今得成故。</p></div1>
 <lb n="0147b23" ed="T"/><juan n="007" fun="close"><jhead><note n="0147006" resp="Taisho" place="foot text" type="orig">俱舍論記卷第七＝俱舍論記卷第五【原】俱舍論記第五餘六始論本第七</note><note n="0147006" resp="CBETA" type="mod">俱舍論記卷第七＝俱舍論記卷第五【原】，俱舍論記第五餘六始論本第七</note><app n="0147006"><lem wit="【大】">俱舍論記卷第七</lem><rdg resp="Taisho" wit="【原】">俱舍論記卷第五</rdg></app><note n="0147006" type="rest" place="foot">俱舍論記第五餘六始論本第七</note></jhead></juan>
-<lb n="0147b24" ed="T"/><div1 type="W"><note n="0147007" resp="Taisho" place="foot text" type="orig">〔於大道…正之〕四十字－【甲】【乙】，甲本奧書曰天永四年二月六日戌時書寫了一校了新禪院經藏本也□銓之，建保四年二月二十二日自備得書傳之永和元年乙卯十月十二日</note><app word-count="40" n="0147007"><lem wit="【大】"><p id="pT41p0147b2401" rend="margin-left:1em">於大道寺與三弟共讀了</p>
+<lb n="0147b24" ed="T"/><div1 type="w"><note n="0147007" resp="Taisho" place="foot text" type="orig">〔於大道…正之〕四十字－【甲】【乙】，甲本奧書曰天永四年二月六日戌時書寫了一校了新禪院經藏本也□銓之，建保四年二月二十二日自備得書傳之永和元年乙卯十月十二日</note><app word-count="40" n="0147007"><lem wit="【大】"><p id="pT41p0147b2401" rend="margin-left:1em">於大道寺與三弟共讀了</p>
 <lb n="0147b25" ed="T"/><p id="pT41p0147b2501" rend="margin-left:1em">長承四年二月二十二日申時讀了</p>
 <lb n="0147b26" ed="T"/><p id="pT41p0147b2601" rend="margin-left:1em">一遍校勘了　本與新互有得失重可正
 <lb n="0147b27" ed="T"/>之</p></lem><rdg resp="Taisho" wit="【甲】【乙】">&lac;</rdg></app><note n="0147007" type="rest" place="foot">甲本奧書曰天永四年二月六日戌時書寫了一校了新禪院經藏本也□銓之，建保四年二月二十二日自備得書傳之永和元年乙卯十月十二日</note></div1>
@@ -17433,7 +17433,7 @@ Added comment  for Emacs
 <lb n="0192a21" ed="T"/>佛出世。即拘盧孫佛至釋迦佛。若彌勒佛
 <lb n="0192a22" ed="T"/>當第二住劫下生。</p></div1>
 <lb n="0192a23" ed="T"/><juan n="011" fun="close"><jhead>俱舍論記卷第<note n="0192005" resp="Taisho" place="foot text" type="orig">十一＝七【原】</note><app n="0192005"><lem wit="【大】">十一</lem><rdg resp="Taisho" wit="【原】">七</rdg></app></jhead></juan>
-<lb n="0192a24" ed="T"/><div1 type="W"><p id="pT41p0192a2401" rend="margin-left:1em"><note n="0192006" resp="Taisho" place="foot text" type="orig">甲本建保已下奧書無之</note>建保六年<note place="inline">戊寅</note>十一月十日午時於東大
+<lb n="0192a24" ed="T"/><div1 type="w"><p id="pT41p0192a2401" rend="margin-left:1em"><note n="0192006" resp="Taisho" place="foot text" type="orig">甲本建保已下奧書無之</note>建保六年<note place="inline">戊寅</note>十一月十日午時於東大
 <lb n="0192a25" ed="T"/>寺西院書了志者為興隆佛法廣作佛事
 <lb n="0192a26" ed="T"/>乃至現生當生悉地圓滿出離生死證大
 <lb n="0192a27" ed="T"/>菩提法界眾生平等利益也。</p>
@@ -18151,7 +18151,7 @@ Added comment  for Emacs
 <lb n="0200a16" ed="T"/>劫故第八八方一風災。如諸有情修定漸勝。
 <lb n="0200a17" ed="T"/>所感異熟身壽漸長。由是所居亦漸久住。</p></div1>
 <lb n="0200a18" ed="T"/><juan n="012" fun="close"><jhead>俱舍論記<note n="0200002" resp="Taisho" place="foot text" type="orig">卷＝論本【原】</note><app n="0200002"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【原】">論本</rdg></app>第十二</jhead></juan>
-<lb n="0200a19" ed="T"/><div1 type="W"><p id="pT41p0200a1901" rend="margin-left:7em">同日以書本加一交了</p>
+<lb n="0200a19" ed="T"/><div1 type="w"><p id="pT41p0200a1901" rend="margin-left:7em">同日以書本加一交了</p>
 <lb n="0200a20" ed="T"/><p id="pT41p0200a2001" rend="margin-left:1em"><note n="0200003" resp="Taisho" place="foot text" type="orig">〔弘安……&CB01398;九〕五十五字－【甲】</note><note n="0200003" resp="CBETA" type="mod"><todo type="a"/>〔弘安…<app><lem resp="CBETA.eva">&CB03746;</lem><rdg wit="【大】">&CB01398;</rdg></app>九〕<app><lem resp="CBETA.eva">四十六</lem><rdg wit="【大】">五十五</rdg></app>字－【甲】</note>弘安九年五月十六日未時許於東大寺
 <lb n="0200a21" ed="T"/>三面僧房北室四聖房如形書寫之了</p>
 <lb n="0200a22" ed="T"/><p id="pT41p0200a2201" rend="margin-left:3em">三論兼<app><lem wit="【CBETA】">密</lem><rdg wit="【大】">蜜</rdg></app>宗叡兼<note place="inline">生年二十三夏&CB03746;九花押</note></p></div1>
@@ -19662,7 +19662,7 @@ Added comment  for Emacs
 <pb n="0217a" id="T41.1821.0217a" ed="T"/>
 <lb n="0217a01" ed="T"/>屬此心而得生故也。</p></div1>
 <lb n="0217a02" ed="T"/><juan n="013" fun="close"><jhead>俱舍論記卷第十三</jhead></juan>
-<lb n="0217a03" ed="T"/><div1 type="W"><note n="0217001" resp="Taisho" place="foot text" type="orig">〔承久……極樂〕六十一字－【甲】</note><note n="0217001" resp="CBETA" type="mod">〔承久…極樂〕六十一字－【甲】</note><app word-count="61" n="0217001"><lem wit="【大】"><p id="pT41p0217a0301" rend="margin-left:1em">承久二年<note place="inline">庚辰</note>四月六日<note place="inline">未</note>時於東大寺
+<lb n="0217a03" ed="T"/><div1 type="w"><note n="0217001" resp="Taisho" place="foot text" type="orig">〔承久……極樂〕六十一字－【甲】</note><note n="0217001" resp="CBETA" type="mod">〔承久…極樂〕六十一字－【甲】</note><app word-count="61" n="0217001"><lem wit="【大】"><p id="pT41p0217a0301" rend="margin-left:1em">承久二年<note place="inline">庚辰</note>四月六日<note place="inline">未</note>時於東大寺
 <lb n="0217a04" ed="T"/>西院書了　　　　　　　　　光慶</p>
 <lb n="0217a05" ed="T"/><p id="pT41p0217a0501" rend="margin-left:1em">意趣無餘所偏是興隆佛法廣作佛事也。</p>
 <lb n="0217a06" ed="T"/><p id="pT41p0217a0601" rend="margin-left:8em">一交畢</p>
@@ -22683,7 +22683,7 @@ Added comment  for Emacs
 <lb n="0250b20" ed="T"/>為濁。正理。及婆沙一百一十四更有多解。
 <lb n="0250b21" ed="T"/>不能具述。</p></div1>
 <lb n="0250b22" ed="T"/><juan n="015" fun="close"><jhead><note n="0250009" resp="Taisho" place="foot text" type="orig">尾題新加</note>俱舍論記<note n="0250010" resp="Taisho" place="foot text" type="orig">卷第十五＝第九上【甲】</note><app n="0250010"><lem wit="【大】">卷第十五</lem><rdg resp="Taisho" wit="【甲】">第九上</rdg></app></jhead></juan>
-<lb n="0250b23" ed="T"/><div1 type="W"><note n="0250011" resp="Taisho" place="foot text" type="orig">〔一校了…記〕五十七字－【甲】【乙】</note><app word-count="57" n="0250011"><lem wit="【大】"><p id="pT41p0250b2301" rend="margin-left:6em">一校了</p>
+<lb n="0250b23" ed="T"/><div1 type="w"><note n="0250011" resp="Taisho" place="foot text" type="orig">〔一校了…記〕五十七字－【甲】【乙】</note><app word-count="57" n="0250011"><lem wit="【大】"><p id="pT41p0250b2301" rend="margin-left:6em">一校了</p>
 <lb n="0250b24" ed="T"/><p id="pT41p0250b2401" rend="margin-left:1em">保延元年六月十七日於大道寺點了</p>
 <lb n="0250b25" ed="T"/><p id="pT41p0250b2501" rend="margin-left:2em">披此業品深思因果破戒之身惡業之
 <lb n="0250b26" ed="T"/>報何為何為可悲可悲唯願大士必垂
@@ -23894,7 +23894,7 @@ Added comment  for Emacs
 <lb n="0264a01" ed="T"/>此謗滅邪見。見滅所斷。正至謂涅槃等。是無
 <lb n="0264a02" ed="T"/>漏道所應至故。廣如彼說。</p></div1>
 <lb n="0264a03" ed="T"/><juan n="016" fun="close"><jhead><note n="0264001" resp="Taisho" place="foot text" type="orig">俱舍論記卷第十六＝俱舍論記卷第九【原】，俱舍論記卷第九論本第十六【甲】</note><note n="0264001" resp="CBETA" type="mod">俱舍論記卷第十六＝俱舍論記卷第九【原】，＝俱舍論記卷第九論本第十六【甲】</note><app n="0264001"><lem wit="【大】">俱舍論記卷第十六</lem><rdg resp="Taisho" wit="【原】">俱舍論記卷第九</rdg><rdg resp="Taisho" wit="【甲】">俱舍論記卷第九論本第十六</rdg></app></jhead></juan>
-<lb n="0264a04" ed="T"/><div1 type="W"><note n="0264002" resp="Taisho" place="foot text" type="orig">〔保延…悟了〕九十九字－【甲】【乙】</note><app word-count="99" n="0264002"><lem wit="【大】"><p id="pT41p0264a0401" rend="margin-left:1em">保延元年六月二十三日於田原里大道
+<lb n="0264a04" ed="T"/><div1 type="w"><note n="0264002" resp="Taisho" place="foot text" type="orig">〔保延…悟了〕九十九字－【甲】【乙】</note><app word-count="99" n="0264002"><lem wit="【大】"><p id="pT41p0264a0401" rend="margin-left:1em">保延元年六月二十三日於田原里大道
 <lb n="0264a05" ed="T"/>寺點了</p>
 <lb n="0264a06" ed="T"/><p id="pT41p0264a0601" rend="margin-left:9em">權少僧都覺樹</p>
 <lb n="0264a07" ed="T"/><p id="pT41p0264a0701" rend="margin-left:2em">今年飢饉古來未有<note place="inline">云云</note>餓死之倫道
@@ -25008,7 +25008,7 @@ Added comment  for Emacs
 <lb n="0276b05" ed="T"/>梵王雖復無容證聖。不障離染故非異
 <lb n="0276b06" ed="T"/>熟障攝。</p></div1>
 <lb n="0276b07" ed="T"/><juan n="017" fun="close"><jhead>俱舍論<note n="0276002" resp="Taisho" place="foot text" type="orig">記＝大【原】</note><app n="0276002"><lem wit="【大】">記</lem><rdg resp="Taisho" wit="【原】">大</rdg></app>卷第十七</jhead></juan>
-<lb n="0276b08" ed="T"/><div1 type="W"><note n="0276003" resp="Taisho" place="foot text" type="orig">〔於尊…了〕三十四字－【甲】</note><app word-count="34" n="0276003"><lem wit="【大】"><p id="pT41p0276b0801" rend="margin-left:1em">於尊勝院之東房書寫了僧定範本也
+<lb n="0276b08" ed="T"/><div1 type="w"><note n="0276003" resp="Taisho" place="foot text" type="orig">〔於尊…了〕三十四字－【甲】</note><app word-count="34" n="0276003"><lem wit="【大】"><p id="pT41p0276b0801" rend="margin-left:1em">於尊勝院之東房書寫了僧定範本也
 <lb n="0276b09" ed="T"/>今年三十講料也　　　　　一交了</p>
 <lb n="0276b10" ed="T"/><p id="pT41p0276b1001" rend="margin-left:4em">六月二十三日句切了</p></lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app></div1>
 <lb n="0276b11" ed="T"/>
@@ -28670,7 +28670,7 @@ Added comment  for Emacs
 <lb n="0318b22" ed="T"/>取當果。</p><p id="pT41p0318b2204" place="inline">若善釋者至說名為取者。述經
 <lb n="0318b23" ed="T"/>部解。</p></div1>
 <lb n="0318b24" ed="T"/><juan n="020" fun="close"><jhead><note n="0318009" resp="Taisho" place="foot text" type="orig">俱舍論記卷第二十＝俱舍論記第二十【原】，新俱舍論記卷第二十【甲】</note><note n="0318009" resp="CBETA" type="mod">俱舍論記卷第二十＝俱舍論記第二十【原】，＝新俱舍論記卷第二十【甲】</note><app n="0318009"><lem wit="【大】">俱舍論記卷第二十</lem><rdg resp="Taisho" wit="【原】">俱舍論記第二十</rdg><rdg resp="Taisho" wit="【甲】">新俱舍論記卷第二十</rdg></app></jhead></juan>
-<lb n="0318b25" ed="T"/><div1 type="W"><p id="pT41p0318b2501" rend="margin-left:11em"><note n="0318010" resp="Taisho" place="foot text" type="orig">〔一挍了〕－【甲】【乙】，甲本奧書曰于時永仁二年四月六日於東大寺正法院書寫之畢志偏為當年俱舍三十講兼又為修學不退也三論未學沙門宗融生年二十三南無八幡大菩薩于時永仁二年五月九日以或人本交點了正法院宗融離起道心也願八幡三所愚身心中所願只此事也早如所願令成辨□□</note><app n="0318010"><lem wit="【大】">一挍了</lem><rdg resp="Taisho" wit="【甲】【乙】">&lac;</rdg></app><note n="0318010" type="rest" place="foot">甲本奧書曰于時永仁二年四月六日於東大寺正法院書寫之畢志偏為當年俱舍三十講兼又為修學不退也三論未學沙門宗融生年二十三南無八幡大菩薩于時永仁二年五月九日以或人本交點了正法院宗融離起道心也願八幡三所愚身心中所願只此事也早如所願令成辨□□</note></p></div1>
+<lb n="0318b25" ed="T"/><div1 type="w"><p id="pT41p0318b2501" rend="margin-left:11em"><note n="0318010" resp="Taisho" place="foot text" type="orig">〔一挍了〕－【甲】【乙】，甲本奧書曰于時永仁二年四月六日於東大寺正法院書寫之畢志偏為當年俱舍三十講兼又為修學不退也三論未學沙門宗融生年二十三南無八幡大菩薩于時永仁二年五月九日以或人本交點了正法院宗融離起道心也願八幡三所愚身心中所願只此事也早如所願令成辨□□</note><app n="0318010"><lem wit="【大】">一挍了</lem><rdg resp="Taisho" wit="【甲】【乙】">&lac;</rdg></app><note n="0318010" type="rest" place="foot">甲本奧書曰于時永仁二年四月六日於東大寺正法院書寫之畢志偏為當年俱舍三十講兼又為修學不退也三論未學沙門宗融生年二十三南無八幡大菩薩于時永仁二年五月九日以或人本交點了正法院宗融離起道心也願八幡三所愚身心中所願只此事也早如所願令成辨□□</note></p></div1>
 <pb n="0318c" id="T41.1821.0318c" ed="T"/>
 <lb n="0318c01" ed="T"/>
 <milestone n="21" unit="juan"/>
@@ -29928,7 +29928,7 @@ Added comment  for Emacs
 <lb n="0332b22" ed="T"/>有過<note place="inline">已上論文</note>　因辨隨眠分別斷竟者。總結
 <lb n="0332b23" ed="T"/><note n="0332008" resp="Taisho" place="foot text" type="orig">〔也〕－【甲】</note><app n="0332008"><lem wit="【大】">也</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>。</p></div1>
 <lb n="0332b24" ed="T"/><juan n="021" fun="close"><jhead>俱舍論記卷第二十一</jhead></juan>
-<lb n="0332b25" ed="T"/><div1 type="W"><note n="0332009" resp="Taisho" place="foot text" type="orig">〔文永…花押〕三十二字－【甲】</note><app word-count="32" n="0332009"><lem wit="【大】"><p id="pT41p0332b2501" rend="margin-left:1em">文永七年五月十七日巳時以東南院小
+<lb n="0332b25" ed="T"/><div1 type="w"><note n="0332009" resp="Taisho" place="foot text" type="orig">〔文永…花押〕三十二字－【甲】</note><app word-count="32" n="0332009"><lem wit="【大】"><p id="pT41p0332b2501" rend="margin-left:1em">文永七年五月十七日巳時以東南院小
 <lb n="0332b26" ed="T"/>經藏御本移點畢</p>
 <lb n="0332b27" ed="T"/><p id="pT41p0332b2701" rend="margin-left:7em">三論宗沙門叡算花押</p></lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app></div1>
 <pb n="0332c" id="T41.1821.0332c" ed="T"/>
@@ -32124,7 +32124,7 @@ Added comment  for Emacs
 <lb n="0357a03" ed="T"/>有極七返生。相續成就得涅槃義。然非決
 <lb n="0357a04" ed="T"/>定。是故不說。</p></div1>
 <lb n="0357a05" ed="T"/><juan n="023" fun="close"><jhead>俱舍論記<note n="0357001" resp="Taisho" place="foot text" type="orig">〔卷〕－【甲】</note><app n="0357001"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app>第<note n="0357002" resp="Taisho" place="foot text" type="orig">二十三＝十二末【原】</note><app n="0357002"><lem wit="【大】">二十三</lem><rdg resp="Taisho" wit="【原】">十二末</rdg></app></jhead></juan>
-<lb n="0357a06" ed="T"/><div1 type="W"><note n="0357003" resp="Taisho" place="foot text" type="orig">〔長承…了〕六十二字－【甲】【乙】，甲本奧書曰正中二年四月二十九日於東大寺西室僧坊大井坊書寫之畢花嚴宗覺顯十九</note><note n="0357003" resp="CBETA" type="mod">〔長承…了〕六十<app><lem resp="CBETA.eva">四</lem><rdg wit="【大】">二</rdg></app>字－【甲】【乙】，甲本奧書曰正中二年四月二十九日於東大寺西室僧坊大井坊書寫之畢花嚴宗覺顯十九</note><app word-count="64" n="0357003"><lem wit="【大】"><p id="pT41p0357a0601" rend="margin-left:1em">長承四年二月二十日午上於山城國田
+<lb n="0357a06" ed="T"/><div1 type="w"><note n="0357003" resp="Taisho" place="foot text" type="orig">〔長承…了〕六十二字－【甲】【乙】，甲本奧書曰正中二年四月二十九日於東大寺西室僧坊大井坊書寫之畢花嚴宗覺顯十九</note><note n="0357003" resp="CBETA" type="mod">〔長承…了〕六十<app><lem resp="CBETA.eva">四</lem><rdg wit="【大】">二</rdg></app>字－【甲】【乙】，甲本奧書曰正中二年四月二十九日於東大寺西室僧坊大井坊書寫之畢花嚴宗覺顯十九</note><app word-count="64" n="0357003"><lem wit="【大】"><p id="pT41p0357a0601" rend="margin-left:1em">長承四年二月二十日午上於山城國田
 <lb n="0357a07" ed="T"/>原里大道寺與三弟共切句了</p>
 <lb n="0357a08" ed="T"/><p id="pT41p0357a0801" rend="margin-left:9em">權少僧都覺樹</p>
 <lb n="0357a09" ed="T"/><p id="pT41p0357a0901" rend="margin-left:4em">病逐日增老眼亦闇為之如何。</p>
@@ -33440,7 +33440,7 @@ Added comment  for Emacs
 <lb n="0371b28" ed="T"/>彼處通達。由此見道上界定無。</p></div1>
 <lb n="0371b29" ed="T"/><juan n="024" fun="close"><jhead><note n="0371009" resp="Taisho" place="foot text" type="orig">（新）＋俱【甲】</note><app n="0371009"><lem wit="【大】">俱</lem><rdg resp="Taisho" wit="【甲】">新俱</rdg></app>舍論記卷第<note n="0371010" resp="Taisho" place="foot text" type="orig">二十四＝十三【原】</note><app n="0371010"><lem wit="【大】">二十四</lem><rdg resp="Taisho" wit="【原】">十三</rdg></app></jhead></juan>
 <pb n="0371c" id="T41.1821.0371c" ed="T"/>
-<lb n="0371c01" ed="T"/><div1 type="W"><note n="0371011" resp="Taisho" place="foot text" type="orig">〔長承…覺樹〕二十四字－【甲】【乙】，甲本奧書曰建仁二季歲次壬戌五月二十三日於大谷寺寫了執筆聞慶</note><app word-count="24" n="0371011"><lem wit="【大】"><p id="pT41p0371c0101" rend="margin-left:2em">長承四年四月十二日於大道寺切句
+<lb n="0371c01" ed="T"/><div1 type="w"><note n="0371011" resp="Taisho" place="foot text" type="orig">〔長承…覺樹〕二十四字－【甲】【乙】，甲本奧書曰建仁二季歲次壬戌五月二十三日於大谷寺寫了執筆聞慶</note><app word-count="24" n="0371011"><lem wit="【大】"><p id="pT41p0371c0101" rend="margin-left:2em">長承四年四月十二日於大道寺切句
 <lb n="0371c02" ed="T"/>了</p>
 <lb n="0371c03" ed="T"/><p id="pT41p0371c0301" rend="margin-left:2em">病中相扶畢功　　　　　　　覺樹</p></lem><rdg resp="Taisho" wit="【甲】【乙】">&lac;</rdg></app><note n="0371011" type="rest" place="foot">甲本奧書曰建仁二季歲次壬戌五月二十三日於大谷寺寫了執筆聞慶</note></div1>
 <lb n="0371c04" ed="T"/>
@@ -34491,7 +34491,7 @@ Added comment  for Emacs
 <lb n="0383a28" ed="T"/>非離。緣欣境故。非斷治故。第四句攝。</p></div1>
 <lb n="0383a29" ed="T"/><juan n="025" fun="close"><jhead>俱舍論記卷第<note n="0383005" resp="Taisho" place="foot text" type="orig">二十五＝十三【原】</note><app n="0383005"><lem wit="【大】">二十五</lem><rdg resp="Taisho" wit="【原】">十三</rdg></app></jhead></juan>
 <pb n="0383b" id="T41.1821.0383b" ed="T"/>
-<lb n="0383b01" ed="T"/><div1 type="W"><note n="0383006" resp="Taisho" place="foot text" type="orig">〔長承…記〕三十一字－【甲】【乙】</note><app word-count="31" n="0383006"><lem wit="【大】"><p id="pT41p0383b0101" rend="margin-left:2em">長承四年四月二十四日
+<lb n="0383b01" ed="T"/><div1 type="w"><note n="0383006" resp="Taisho" place="foot text" type="orig">〔長承…記〕三十一字－【甲】【乙】</note><app word-count="31" n="0383006"><lem wit="【大】"><p id="pT41p0383b0101" rend="margin-left:2em">長承四年四月二十四日
 <lb n="0383b02" ed="T"/>於田原里大道寺指點了</p>
 <lb n="0383b03" ed="T"/><p id="pT41p0383b0301" rend="margin-left:5em">病後暗眼為之如何。</p>
 <lb n="0383b04" ed="T"/><p id="pT41p0383b0401" rend="margin-left:12em">覺樹記</p></lem><rdg resp="Taisho" wit="【甲】【乙】">&lac;</rdg></app></div1>
@@ -36288,7 +36288,7 @@ Added comment  for Emacs
 <lb n="0403a24" ed="T"/>滅無增．減故。謂可修法依下至中。依中至
 <lb n="0403a25" ed="T"/>上。擇滅不爾。於修無用故。</p></div1>
 <lb n="0403a26" ed="T"/><juan n="026" fun="close"><jhead>俱舍論記<note n="0403004" resp="Taisho" place="foot text" type="orig">卷＝本【原】</note><app n="0403004"><lem wit="【大】">卷</lem><rdg resp="Taisho" wit="【原】">本</rdg></app>第<note n="0403005" resp="Taisho" place="foot text" type="orig">二十六＝十三【甲】</note><app n="0403005"><lem wit="【大】">二十六</lem><rdg resp="Taisho" wit="【甲】">十三</rdg></app></jhead></juan>
-<lb n="0403a27" ed="T"/><div1 type="W"><p id="pT41p0403a2701" rend="margin-left:1em"><note n="0403006" resp="Taisho" place="foot text" type="orig">〔保延…了〕十五字－【甲】【乙】，甲本奧書曰長承三年十二月二十二日書寫了以此功德力生生開惠眼世世得總持必證大菩提一交了</note><app word-count="15" n="0403006"><lem wit="【大】">保延元年七月十九日於大道寺點了</lem><rdg resp="Taisho" wit="【甲】【乙】">&lac;</rdg></app><note n="0403006" type="rest" place="foot">甲本奧書曰長承三年十二月二十二日書寫了以此功德力生生開惠眼世世得總持必證大菩提一交了</note></p></div1>
+<lb n="0403a27" ed="T"/><div1 type="w"><p id="pT41p0403a2701" rend="margin-left:1em"><note n="0403006" resp="Taisho" place="foot text" type="orig">〔保延…了〕十五字－【甲】【乙】，甲本奧書曰長承三年十二月二十二日書寫了以此功德力生生開惠眼世世得總持必證大菩提一交了</note><app word-count="15" n="0403006"><lem wit="【大】">保延元年七月十九日於大道寺點了</lem><rdg resp="Taisho" wit="【甲】【乙】">&lac;</rdg></app><note n="0403006" type="rest" place="foot">甲本奧書曰長承三年十二月二十二日書寫了以此功德力生生開惠眼世世得總持必證大菩提一交了</note></p></div1>
 <pb n="0403b" id="T41.1821.0403b" ed="T"/>
 <lb n="0403b01" ed="T"/>
 <milestone n="27" unit="juan"/>
@@ -37534,7 +37534,7 @@ Added comment  for Emacs
 <lb n="0417a12" ed="T"/>又說。天．鬼．傍生．地獄。有生得他心宿住。餘
 <lb n="0417a13" ed="T"/>不別釋。此文與前兩解亦不相違。</p></div1>
 <lb n="0417a14" ed="T"/><juan n="027" fun="close"><jhead>俱舍論記<note n="0417001" resp="Taisho" place="foot text" type="orig">卷＝論本【原】，〔卷第二十七〕－【甲】</note><note n="0417001" resp="CBETA" type="mod">〔卷第二十七〕－【甲】，卷＝論本【原】</note><app n="0417001"><lem wit="【大】">卷第二十七</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg><rdg resp="Taisho" wit="【原】">論本第二十七</rdg></app></jhead></juan>
-<lb n="0417a15" ed="T"/><note n="0417002" resp="Taisho" place="foot text" type="orig">〔一校…樹〕二十六字－【甲】【乙】，甲本奧書曰建曆二年壬申九月十九日為興隆佛法法界眾生平等利益也如形執筆長阿彌陀佛大野□□書了同一交了</note><app word-count="26" n="0417002"><lem wit="【大】"><div1 type="W"><p id="pT41p0417a1501" rend="margin-left:6em">一校畢</p>
+<lb n="0417a15" ed="T"/><note n="0417002" resp="Taisho" place="foot text" type="orig">〔一校…樹〕二十六字－【甲】【乙】，甲本奧書曰建曆二年壬申九月十九日為興隆佛法法界眾生平等利益也如形執筆長阿彌陀佛大野□□書了同一交了</note><app word-count="26" n="0417002"><lem wit="【大】"><div1 type="w"><p id="pT41p0417a1501" rend="margin-left:6em">一校畢</p>
 <lb n="0417a16" ed="T"/><p id="pT41p0417a1601" rend="margin-left:1em">保延元年七月七日黃昏
 <lb n="0417a17" ed="T"/>於田原里大道寺點了</p>
 <lb n="0417a18" ed="T"/><p id="pT41p0417a1801" rend="margin-left:11em">羊僧覺樹</p></div1></lem><rdg resp="Taisho" wit="【甲】【乙】">&lac;</rdg></app><note n="0417002" type="rest" place="foot">甲本奧書曰建曆二年壬申九月十九日為興隆佛法法界眾生平等利益也如形執筆長阿彌陀佛大野□□書了同一交了</note>
@@ -38945,7 +38945,7 @@ Added comment  for Emacs
 <lb n="0432c14" ed="T"/>但說二者。天眼通能觀生死。漏盡通能得
 <lb n="0432c15" ed="T"/>涅<note n="0432011" resp="Taisho" place="foot text" type="orig">槃＋（故）【乙】</note><app n="0432011"><lem wit="【大】">槃</lem><rdg resp="Taisho" wit="【乙】">槃故</rdg></app>經偏<note n="0432012" resp="Taisho" place="foot text" type="orig">說＋（矣之）【甲】，＋（之矣）【乙】</note><app n="0432012"><lem wit="【大】">說</lem><rdg resp="Taisho" wit="【甲】">說矣之</rdg><rdg resp="Taisho" wit="【乙】">說之矣</rdg></app>。</p></div1>
 <lb n="0432c16" ed="T"/><juan n="028" fun="close"><jhead>俱舍論記卷第二十八</jhead></juan>
-<lb n="0432c17" ed="T"/><div1 type="W"><note n="0432013" resp="Taisho" place="foot text" type="orig">〔保延…一校了〕二十三字－【甲】【乙】，甲本奧書曰正安四年五月晦日以□□十卷相博此疏畢忠曉花押，寬元元年五月十九日於東大寺上生院邊馳筆了同二十日加移點了，可志者當年三十講勤仕兼佛法興隆也，願以書寫功必生都率天為上求菩提下化眾生也，執筆沙門覺譽生年二十三歲，今此於黑點者聖禪僧都點寫畢</note><note n="0432013" resp="CBETA" type="mod">〔保延…一挍了〕二十三字－【甲】【乙】，甲本奧書曰正安四年五月晦日以□□十卷相博此疏畢忠曉花押，寬元元年五月十九日於東大寺上生院邊馳筆了同二十日加移點了，可志者當年三十講勤仕兼佛法興隆也，願以書寫功必生都率天為上求菩提下化眾生也，執筆沙門覺譽生年二十三歲，今此於黑點者聖禪僧都點寫畢</note><app word-count="23" n="0432013"><lem wit="【大】"><p id="pT41p0432c1701" rend="margin-left:2em">保延元年七月十九日
+<lb n="0432c17" ed="T"/><div1 type="w"><note n="0432013" resp="Taisho" place="foot text" type="orig">〔保延…一校了〕二十三字－【甲】【乙】，甲本奧書曰正安四年五月晦日以□□十卷相博此疏畢忠曉花押，寬元元年五月十九日於東大寺上生院邊馳筆了同二十日加移點了，可志者當年三十講勤仕兼佛法興隆也，願以書寫功必生都率天為上求菩提下化眾生也，執筆沙門覺譽生年二十三歲，今此於黑點者聖禪僧都點寫畢</note><note n="0432013" resp="CBETA" type="mod">〔保延…一挍了〕二十三字－【甲】【乙】，甲本奧書曰正安四年五月晦日以□□十卷相博此疏畢忠曉花押，寬元元年五月十九日於東大寺上生院邊馳筆了同二十日加移點了，可志者當年三十講勤仕兼佛法興隆也，願以書寫功必生都率天為上求菩提下化眾生也，執筆沙門覺譽生年二十三歲，今此於黑點者聖禪僧都點寫畢</note><app word-count="23" n="0432013"><lem wit="【大】"><p id="pT41p0432c1701" rend="margin-left:2em">保延元年七月十九日
 <lb n="0432c18" ed="T"/>於田原里大道寺點了</p>
 <lb n="0432c19" ed="T"/><p id="pT41p0432c1901" rend="margin-left:13em">覺樹</p>
 <lb n="0432c20" ed="T"/><p id="pT41p0432c2001" rend="margin-left:3em">一挍了</p></lem><rdg resp="Taisho" wit="【甲】【乙】">&lac;</rdg></app><note n="0432013" type="rest" place="foot">甲本奧書曰正安四年五月晦日以□□十卷相博此疏畢忠曉花押，寬元元年五月十九日於東大寺上生院邊馳筆了同二十日加移點了，可志者當年三十講勤仕兼佛法興隆也，願以書寫功必生都率天為上求菩提下化眾生也，執筆沙門覺譽生年二十三歲，今此於黑點者聖禪僧都點寫畢</note></div1>
@@ -39961,7 +39961,7 @@ Added comment  for Emacs
 <lb n="0444a09" ed="T"/>趣。若數取趣。是世尊體。遍知一切。不應說
 <lb n="0444a10" ed="T"/>佛有其三世。</p><note n="0444003" resp="Taisho" place="foot text" type="orig">不分卷【乙】</note><note n="0444003" resp="CBETA" type="mod"><todo type="a"/>不分卷【乙】</note><anchor type="◎"/></div1>
 <lb n="0444a11" ed="T"/><juan n="029" fun="close"><jhead><anchor id="fxT41p0444a01"/><note n="0444004" resp="Taisho" place="foot text" type="orig">尾題新加</note>俱舍論記卷第二十九</jhead></juan>
-<lb n="0444a12" ed="T"/><div1 type="W"><note n="0444005" resp="Taisho" place="foot text" type="orig">〔交了…記〕四十二字－【甲】【乙】</note><app word-count="42" n="0444005"><lem wit="【大】"><p id="pT41p0444a1201" rend="margin-left:4em">交了</p>
+<lb n="0444a12" ed="T"/><div1 type="w"><note n="0444005" resp="Taisho" place="foot text" type="orig">〔交了…記〕四十二字－【甲】【乙】</note><app word-count="42" n="0444005"><lem wit="【大】"><p id="pT41p0444a1201" rend="margin-left:4em">交了</p>
 <lb n="0444a13" ed="T"/><p id="pT41p0444a1301" rend="margin-left:2em">保延元年七月二十八日</p>
 <lb n="0444a14" ed="T"/><p id="pT41p0444a1401" rend="margin-left:2em">京都宿處故入道大相國舊居點了</p>
 <lb n="0444a15" ed="T"/><p id="pT41p0444a1501" rend="margin-left:2em">破我品頗有文字不審。</p>

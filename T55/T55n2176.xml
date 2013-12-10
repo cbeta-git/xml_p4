@@ -41,7 +41,7 @@
 </fileDesc>
 <encodingDesc>
 	<projectDesc>
-		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous from USA</p>
 		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供</p>
 	</projectDesc>
 </encodingDesc>
@@ -78,7 +78,7 @@ Revision 1.17  2005/12/03 16:00:23  saywhat
 delete <mulu label>裡的全形括號
 
 Revision 1.16  2004/12/16 06:29:48  saywhat
-p1132c05行尾的<div1 type="W">移到下一行行首
+p1132c05行尾的<div1 type="w">移到下一行行首
 
 Revision 1.15  2004/11/14 03:18:25  maha
 將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
@@ -1872,5 +1872,5 @@ Added comment  for Emacs
 <lb n="1132c02" ed="T"/><item id="itemT55p1132c0201"><title>九哢十<note n="1132010" resp="Taisho" place="foot text" type="orig">紉＝細【甲】</note><app n="1132010"><lem wit="【大】">紉</lem><rdg resp="Taisho" wit="【甲】">細</rdg></app>圖一張</title><note place="inline">仁</note></item>
 <lb n="1132c03" ed="T"/><item id="itemT55p1132c0301"><title>五藏六府圖一卷</title><note place="inline">運私云聖僧以後傍列而已</note></item></list></div2>
 <lb n="1132c04" ed="T"/><juan n="002" fun="close"><jhead><note n="1132011" resp="Taisho" place="foot text" type="orig">（（真言…終））十字＝（（真言八家目錄））六字【甲】</note><app word-count="10" n="1132011"><lem wit="【大】">真言密教總目錄卷下終</lem><rdg resp="Taisho" wit="【甲】">真言八家目錄</rdg></app></jhead></juan></div1>
-<lb n="1132c05" ed="T"/><div1 type="W"><p id="pT55p1132c0501"><note n="1132012" resp="Taisho" place="foot text" type="orig">〔小本…卷〕十二字－【甲】，甲本奧書曰康保二年歲次乙丑十一月二日日次戊辰於東塔院寫之已了，仁平四年十月二十日未時交已東寺沙門辨智法師之</note><app word-count="12" n="1132012"><lem wit="【大】">小本枇云一千七百五十五卷</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app><note n="1132012" type="rest" place="foot">甲本奧書曰康保二年歲次乙丑十一月二日日次戊辰於東塔院寫之已了，仁平四年十月二十日未時交已東寺沙門辨智法師之</note>。</p></div1>
+<lb n="1132c05" ed="T"/><div1 type="w"><p id="pT55p1132c0501"><note n="1132012" resp="Taisho" place="foot text" type="orig">〔小本…卷〕十二字－【甲】，甲本奧書曰康保二年歲次乙丑十一月二日日次戊辰於東塔院寫之已了，仁平四年十月二十日未時交已東寺沙門辨智法師之</note><app word-count="12" n="1132012"><lem wit="【大】">小本枇云一千七百五十五卷</lem><rdg resp="Taisho" wit="【甲】">&lac;</rdg></app><note n="1132012" type="rest" place="foot">甲本奧書曰康保二年歲次乙丑十一月二日日次戊辰於東塔院寫之已了，仁平四年十月二十日未時交已東寺沙門辨智法師之</note>。</p></div1>
 </body></text></TEI.2>

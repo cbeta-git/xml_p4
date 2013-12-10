@@ -41,7 +41,7 @@
 </fileDesc>
 <encodingDesc>
 	<projectDesc>
-		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA</p>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous from USA</p>
 		<p lang="chi" type="ly">蕭鎮國大德提供，北美某大德提供</p>
 	</projectDesc>
 </encodingDesc>
@@ -66,7 +66,7 @@ Revision 1.10  2006/04/12 21:57:53  saywhat
 lem 加 wit 屬性，p, lg, item 第二次加 id 屬性
 
 Revision 1.8  2004/12/15 04:38:08  saywhat
-p0327a06行尾的<div1 type="W">移到下一行行首
+p0327a06行尾的<div1 type="w">移到下一行行首
 
 Revision 1.7  2004/11/14 03:17:54  maha
 將八個M碼(M024261 M040426 M034294 M005505 M010528 M010527 M026945 M006710) 取代為 Big5 系統字(碁 銹 裏 墻 恒 恒 粧 嫺)
@@ -2278,5 +2278,5 @@ Added comment  for Emacs
 <lb n="0327a04" ed="T"/><p id="pT38p0327a0401">經曰佛說是經已以下。第三大眾喜奉行分
 <lb n="0327a05" ed="T"/>也。</p>
 <lb n="0327a06" ed="T"/><juan n="001" fun="close"><jhead>三彌勒經疏一卷　　　　　　　憬興撰</jhead></juan></div1>
-<lb n="0327a07" ed="T"/><div1 type="W"><p id="pT38p0327a0701">全忠大德送施圓珍　<note place="inline">寬平二年閏九月十一日追記之珍</note></p></div1>
+<lb n="0327a07" ed="T"/><div1 type="w"><p id="pT38p0327a0701">全忠大德送施圓珍　<note place="inline">寬平二年閏九月十一日追記之珍</note></p></div1>
 </body></text></TEI.2>
