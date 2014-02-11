@@ -18,7 +18,7 @@
 			</respStmt>
 		</titleStmt>
 	<editionStmt>
-		<edition>$Revision: 1.6 $ (Big5)<date>$Date: 2009/04/23 08:15:20 $</date></edition>
+		<edition>$Revision: 1.6 $ (Big5)<date>$Date: 2009/04/23 08:15:20 $</date>新式標點版</edition>
 	</editionStmt>
 	<extent>1卷</extent>
 	<publicationStmt>
@@ -39,8 +39,8 @@
 </fileDesc>
 <encodingDesc>
 	<projectDesc>
-		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as inputted by Miss Cai Ning-Jun, Text as provided by Anonymous from USA</p>
-		<p lang="chi" type="ly">蕭鎮國大德提供，蔡寧君大德輸入，北美某大德提供</p>
+		<p lang="eng" type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as inputted by Miss Cai Ning-Jun, Text as provided by Anonymous from USA, Punctuated text as provided by Jasmine</p>
+		<p lang="chi" type="ly">蕭鎮國大德提供，蔡寧君大德輸入，北美某大德提供，Jasmine 大德提供新式標點</p>
 	</projectDesc>
 </encodingDesc>
 <profileDesc>
@@ -123,10 +123,10 @@ Added comment  for Emacs
 <milestone n="1" unit="juan"/>
 <lb n="1390a20" ed="T"/>
 <lb n="1390a21" ed="T"/><head type="no">No. 2884</head>
-<lb n="1390a22" ed="T"/><juan n="001" fun="open"><mulu n="1" type="卷"/><jhead><note n="1390001" resp="Taisho" place="foot text" type="orig">【原】大英博物館藏燉煌本, S. 1032</note>大威儀請問</jhead></juan>
+<lb n="1390a22" ed="T"/><juan n="001" fun="open"><mulu n="1" type="卷"/><jhead><note n="1390001" resp="Taisho" type="orig" place="foot text">【原】大英博物館藏燉煌本, S. 1032</note>大威儀請問</jhead></juan>
 <lb n="1390a23" ed="T"/>
-<lb n="1390a24" ed="T"/><div1 type="other"><p id="pT85p1390a2401">若有善男子善女人。不將澡豆洗手捉經及
-<lb n="1390a25" ed="T"/>前睡眠。伏地三百億歲作廁中蟲。淨手搔癢
-<lb n="1390a26" ed="T"/>對經漫語。八百萬億歲墮黑闇地獄。二億歲
-<lb n="1390a27" ed="T"/>生狐兔中。經前&CB00762;唾口銜帶亦同前罪。</p></div1>
+<lb n="1390a24" ed="T"/><div1 type="other"><p id="pT85p1390a2401">若有善男子、善女人，不將澡豆洗手捉經，及
+<lb n="1390a25" ed="T"/>前睡眠、伏地，三百億歲作廁中蟲；淨手搔癢、
+<lb n="1390a26" ed="T"/>對經漫語，八百萬億歲墮黑闇地獄、二億歲
+<lb n="1390a27" ed="T"/>生狐兔中；經前&CB00762;唾、口銜帶，亦同前罪。</p></div1>
 </body></text></TEI.2>
