@@ -568,7 +568,7 @@ converted to XML form 2.1.99 (CW)
 	word-count CDATA #IMPLIED
 	TEIform CDATA "app"
 >
-<!ELEMENT lem (#PCDATA | anchor | app | div1 | div2 | figure | gaiji | item | lb | milestone | byline | note | l | pb | skgloss | lg | fan | foreign | head | p | juan | title | list | corr | mulu | sic | term | tt | xref | jl_title | jl_juan | jl_byline | jhead | sd | yin | zi | sg)*>
+<!ELEMENT lem (#PCDATA | anchor | app | div1 | div2 | figure | gaiji | item | lb | milestone | byline | note | l | pb | skgloss | lg | fan | foreign | head | p | juan | title | list | corr | mulu | sic | term | tt | xref | jl_title | jl_juan | jl_byline | jhead | sd | yin)*>
 
 
 
