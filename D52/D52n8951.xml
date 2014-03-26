@@ -9,47 +9,47 @@
 <TEI.2>
 <teiHeader>
 <fileDesc>
-                <titleStmt>
-                        <title>Selections from the Taipei National Central Library Buddhist Rare Book Collection, Electronic version, No. 8951 如來香</title>
-                        <author>清 唐時編</author>
-                        <respStmt>
-                                <resp>Electronic Version by</resp>
-                                <name>CBETA</name>
-                        </respStmt>
-                </titleStmt>
-        <editionStmt>
-                <edition>$Revision: 1.2 $ (Big5)<date>$Date: 2012/11/21 03:38:52 $</date></edition>
-        </editionStmt>
-        <extent>14卷</extent>
-        <publicationStmt>
-                <distributor>
-                        <name>中華電子佛典協會 (CBETA)</name>
-                        <address>
-                                <addrLine>service@cbeta.org</addrLine>
-                        </address>
-                </distributor>
-                <availability>
-                        <p>Available for non-commercial use when distributed with this header intact.</p>
-                </availability>
-                <date>$Date: 2012/11/21 03:38:52 $</date>
-        </publicationStmt>
-        <sourceDesc>
-                <bibl>Selections from the Taipei National Central Library Buddhist Rare Book Collection Vol. 52, No. 8951 &desc;</bibl>
-                <p>清康熙間集貲刊本</p>
-        </sourceDesc>
+		<titleStmt>
+			<title>Selections from the Taipei National Central Library Buddhist Rare Book Collection, Electronic version, No. 8951 如來香</title>
+			<author>清 唐時編</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $ (Big5)<date>$Date: 2012/11/21 03:38:52 $</date></edition>
+	</editionStmt>
+	<extent>14卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/11/21 03:38:52 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Selections from the Taipei National Central Library Buddhist Rare Book Collection Vol. 52, No. 8951 &desc;</bibl>
+		<p>清康熙間集貲刊本</p>
+	</sourceDesc>
 </fileDesc>
 <encodingDesc>
-        <projectDesc>
-                <p lang="eng" type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
-                <p lang="chi" type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
-        </projectDesc>
+	<projectDesc>
+		<p lang="eng" type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p lang="chi" type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
 </encodingDesc>
 <revisionDesc>
-        <change>
-                <date>2012/11/19 13:49:11</date>
-                <respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
-                <item>Created initial TEI XML version with BASICX.BAT</item>
-        </change>
+	<change>
+		<date>2012/11/19 13:49:11</date>
+		<respStmt><name>Zhou Bang-Xin</name><resp>ed.</resp></respStmt>
+		<item>Created initial TEI XML version with BASICX.BAT</item>
+	</change>
 <!--
 $Log: D52n8951.xml,v $
 Revision 1.2  2012/11/21 03:38:52  amtbgrace
@@ -20990,7 +20990,7 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="D" n="1130a08"/>
 <lb ed="D" n="1130a09"/>
 <pb ed="D" id="D52.8951.1130b" n="1130b"/>
-<lb ed="D" n="1130b01"/><div3 type="other"><mulu type="其他" level="3" label="蝶夢&CB09136;銘"/><head>蝶夢&CB09136;銘<note place="inline">并序</note></head><byline type="author">釋德洪<note place="inline">宋</note></byline>
+<lb ed="D" n="1130b01"/><div3 type="other"><mulu type="其他" level="3" label="蝶夢＆CB09136；銘"/><head>蝶夢&CB09136;銘<note place="inline">并序</note></head><byline type="author">釋德洪<note place="inline">宋</note></byline>
 <lb ed="D" n="1130b02"/><p id="pD52p1130b0201">龍舒陳顯仁。和粹而喜客。慈祥而樂善。宗族朋友。皆
 <lb ed="D" n="1130b03"/>稱之。余以怡然居士之齋為夢蝶。而為之銘曰。</p>
 <lb ed="D" n="1130b04"/><lg id="lgD52p1130b0401" type="abnormal"><l rend="text-indent:0em">浩蕩之春。萬物&CB07514;飾。淮山花開。麗其風日。蛺蝶何為。
@@ -21303,7 +21303,7 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="D" n="1146a01"/>彌綸十&CB00980;。以雲之卷。&CB30246;入無餘。道人住處。豈同舒卷。
 <lb ed="D" n="1146a02"/>&CB00616;牖不&CB02034;。戶庭深遠。清風徘徊。明月繾綣。雲間僧閑。
 <lb ed="D" n="1146a03"/>水流石轉。萬法不到。柴關自掩。</l></lg></div3>
-<lb ed="D" n="1146a04"/><div3 type="other"><mulu type="其他" level="3" label="&CB01900;禪室銘"/><head>&CB01900;禪室銘<note place="inline">并序</note></head><byline type="author">釋明本</byline>
+<lb ed="D" n="1146a04"/><div3 type="other"><mulu type="其他" level="3" label="＆CB01900；禪室銘"/><head>&CB01900;禪室銘<note place="inline">并序</note></head><byline type="author">釋明本</byline>
 <lb ed="D" n="1146a05"/><p id="pD52p1146a0501">余嘗譏世之尚&CB01900;者。謂處俗必盡其義。入真當盡其
 <lb ed="D" n="1146a06"/>道。盡義。則務四民之役。盡道。乃營六度之勤。聖賢不
 <lb ed="D" n="1146a07"/>能免也。苟尚&CB01900;。則二途俱失。豈道人之所用心哉。或
@@ -21514,7 +21514,7 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="D" n="1157a08"/>投誠。必蒙拯濟。三心圓&CB07514;。一志西馳。盡來際以依承。
 <lb ed="D" n="1157a09"/>歷塵剎而稱讚。</l></lg></div3>
 <pb ed="D" id="D52.8951.1157b" n="1157b"/>
-<lb ed="D" n="1157b01"/><div3 type="other"><mulu type="其他" level="3" label="釋迦出山&CB00474;像贊"/><head>釋迦出山&CB00474;像贊<note place="inline">并序</note></head><byline type="author">釋德洪<note place="inline">宋</note></byline>
+<lb ed="D" n="1157b01"/><div3 type="other"><mulu type="其他" level="3" label="釋迦出山＆CB00474；像贊"/><head>釋迦出山&CB00474;像贊<note place="inline">并序</note></head><byline type="author">釋德洪<note place="inline">宋</note></byline>
 <lb ed="D" n="1157b02"/><p id="pD52p1157b0201">秦越人之于毉。望見知死生。老&CB30220;之于墨。摸索知精
 <lb ed="D" n="1157b03"/>粗。蓋其不傳之妙。無地寄語默耳。歐陽文忠公曰。小
 <lb ed="D" n="1157b04"/>字遺教經。雖不著書者之名。然非羲之莫能作也。予
@@ -21530,7 +21530,7 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="D" n="1158a04"/>此一幅之上。垂手跣足。頂螺含絲。超然靜深。出三界
 <lb ed="D" n="1158a05"/>痴。如浩蕩春寄於纖枝。如清涼月印于盆池。鏤&CB00457;&CB22197;
 <lb ed="D" n="1158a06"/>雪。我作贊詞。關空鎖夢。夫子其牢蓄之。</l></lg></div3>
-<lb ed="D" n="1158a07"/><div3 type="other"><mulu type="其他" level="3" label="漣水觀音&CB00474;像贊"/><head>漣水觀音&CB00474;像贊<note place="inline">并序</note></head><byline type="author">釋德洪</byline>
+<lb ed="D" n="1158a07"/><div3 type="other"><mulu type="其他" level="3" label="漣水觀音＆CB00474；像贊"/><head>漣水觀音&CB00474;像贊<note place="inline">并序</note></head><byline type="author">釋德洪</byline>
 <lb ed="D" n="1158a08"/><p id="pD52p1158a0801">大觀四年春二月。戊子之夕。病比丘德洪。纍然臥縲
 <lb ed="D" n="1158a09"/>絏之中。夢至一處。庭宇&CB02880;然。有僧導入室中。舉燭視
 <pb ed="D" id="D52.8951.1158b" n="1158b"/>
@@ -21557,7 +21557,7 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="D" n="1159b01"/>知見香。願我常披慈忍服。願魔障山速崩裂。願大智
 <lb ed="D" n="1159b02"/>慧常現前。心精遺聞證圓通。自然靜極光通達。我當
 <lb ed="D" n="1159b03"/>定如觀世音。一切眾生願如我。</l></lg></div3>
-<lb ed="D" n="1159b04"/><div3 type="other"><mulu type="其他" level="3" label="&CB32699;檀四十二臂觀音贊"/><head>&CB32699;檀四十二臂觀音贊<note place="inline">并序</note></head><byline type="author">釋德洪</byline>
+<lb ed="D" n="1159b04"/><div3 type="other"><mulu type="其他" level="3" label="＆CB32699；檀四十二臂觀音贊"/><head>&CB32699;檀四十二臂觀音贊<note place="inline">并序</note></head><byline type="author">釋德洪</byline>
 <lb ed="D" n="1159b05"/><p id="pD52p1159b0501">予蓄四十二臂觀音菩薩之像。如護目睛。今以授友
 <lb ed="D" n="1159b06"/>人李天輔。又為之贊曰。</p>
 <lb ed="D" n="1159b07"/><lg id="lgD52p1159b0701" type="abnormal"><l rend="text-indent:0em">汝意有言。枯兀作鬼。我心不生。髑髏則水。乃知妄覺。
@@ -21595,7 +21595,7 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="D" n="1161a09"/>如像現鏡中。非鏡亦非像。願入此三昧。識心自然明。
 <pb ed="D" id="D52.8951.1161b" n="1161b"/>
 <lb ed="D" n="1161b01"/>于十方國土。而作大佛事。稽首大慈尊。證我如是說。</l></lg></div3>
-<lb ed="D" n="1161b02"/><div3 type="other"><mulu type="其他" level="3" label="泗州院&CB32699;檀白衣觀音贊"/><head>泗州院&CB32699;檀白衣觀音贊<note place="inline">并序</note></head><byline type="author">釋德洪</byline>
+<lb ed="D" n="1161b02"/><div3 type="other"><mulu type="其他" level="3" label="泗州院＆CB32699；檀白衣觀音贊"/><head>泗州院&CB32699;檀白衣觀音贊<note place="inline">并序</note></head><byline type="author">釋德洪</byline>
 <lb ed="D" n="1161b03"/><p id="pD52p1161b0301">筠州太平泗州院僧元鑒所蓄觀音菩薩之相。慈嚴
 <lb ed="D" n="1161b04"/>妙麗。靈異殊勝。如上天竺所見者。問何自得之。鑒曰。
 <lb ed="D" n="1161b05"/>始有客舟載歸。象傳數家家輒禍至滅亡者皆畏不
@@ -21725,7 +21725,7 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="D" n="1167b09"/>心清淨。所以致此奇瑞。我作贊辭。非止見聞隨喜。又
 <pb ed="D" id="D52.8951.1168a" n="1168a"/>
 <lb ed="D" n="1168a01"/>以為翰墨之遊戲也。</p></div3>
-<lb ed="D" n="1168a02"/><div3 type="other"><mulu type="其他" level="3" label="東坡&CB15148;應身彌勒贊"/><head>東坡&CB15148;應身彌勒贊<note place="inline">并序</note></head><byline type="author">釋德洪</byline>
+<lb ed="D" n="1168a02"/><div3 type="other"><mulu type="其他" level="3" label="東坡＆CB15148；應身彌勒贊"/><head>東坡&CB15148;應身彌勒贊<note place="inline">并序</note></head><byline type="author">釋德洪</byline>
 <lb ed="D" n="1168a03"/><p id="pD52p1168a0301">東坡居士。游戲翰墨。作大佛事如春形容藻飾萬像。
 <lb ed="D" n="1168a04"/>又為無聲之語。致此大士于幅&CB14390;之間。筆法奇古。遂
 <lb ed="D" n="1168a05"/>妙天下。殆希世之珍。瑞圖之&CB29926;。相傳始作以寄少游。
@@ -21978,7 +21978,7 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="D" n="1180b02"/>是則為滅絕。十方三世佛。願如二大士。持心等&CB18826;無。
 <lb ed="D" n="1180b03"/>太&CB18826;有殞壞。眾生界有盡。我此願不盡。稽首平等慈。
 <lb ed="D" n="1180b04"/>廣大同體悲。于剎剎塵塵。證我作是說</l></lg></div3>
-<lb ed="D" n="1180b05"/><div3 type="other"><mulu type="其他" level="3" label="李伯時&CB15148;彌&CB00442;像贊"/><head>李伯時&CB15148;彌&CB00442;像贊<note place="inline">并序</note></head><byline type="author">釋德洪</byline>
+<lb ed="D" n="1180b05"/><div3 type="other"><mulu type="其他" level="3" label="李伯時＆CB15148；彌＆CB00442；像贊"/><head>李伯時&CB15148;彌&CB00442;像贊<note place="inline">并序</note></head><byline type="author">釋德洪</byline>
 <lb ed="D" n="1180b06"/><p id="pD52p1180b0601">政和八年五月十五日。宜春黃先之。&CB00234;李伯時所&CB15148;
 <lb ed="D" n="1180b07"/>阿彌&CB00442;佛像。來東山為示。余觀伯時&CB15148;多矣。大率顧
 <lb ed="D" n="1180b08"/>陸之意。意不盡態。故不施五色。而伯時知之耳。問其
@@ -22075,7 +22075,7 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="D" n="1185a09"/>為僧中王。如萬星月。見者清涼。尚以眾生。不信為傷。
 <pb ed="D" id="D52.8951.1185b" n="1185b"/>
 <lb ed="D" n="1185b01"/>&CB00582;盲者咎。非光掩藏。</l></lg></div3>
-<lb ed="D" n="1185b02"/><div3 type="other"><mulu type="其他" level="3" label="六世祖師&CB15148;像贊"/><head>六世祖師&CB15148;像贊<note place="inline">并序</note></head><byline type="author">釋德洪</byline>
+<lb ed="D" n="1185b02"/><div3 type="other"><mulu type="其他" level="3" label="六世祖師＆CB15148；像贊"/><head>六世祖師&CB15148;像贊<note place="inline">并序</note></head><byline type="author">釋德洪</byline>
 <lb ed="D" n="1185b03"/><p id="pD52p1185b0301">余竄海上。三年而還。館于筠之石門寺。悲叢林之荒
 <lb ed="D" n="1185b04"/>寒。念祖師之標致。不自知涕流也。作六世祖師贊錄。
 <lb ed="D" n="1185b05"/>以寄昭默禪師。以見其志云。</p>
@@ -22118,7 +22118,7 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="D" n="1187b02"/>&CB29926;。&CB00230;在鷹巢不姓朱。</l></lg>
 <lb ed="D" n="1187b03"/><p id="pD52p1187b0301" rend="margin-left:1em">&CB29926;公姓朱明高帝亦姓朱其葬地後先相同迨龍
 <lb ed="D" n="1187b04"/>興適應其籤謂其是先後身然乎哉。</p></div3>
-<lb ed="D" n="1187b05"/><div3 type="other"><mulu type="其他" level="3" label="棗柏大士&CB15148;像贊"/><head>棗柏大士&CB15148;像贊<note place="inline">并序</note></head><byline type="author">釋德洪</byline>
+<lb ed="D" n="1187b05"/><div3 type="other"><mulu type="其他" level="3" label="棗柏大士＆CB15148；像贊"/><head>棗柏大士&CB15148;像贊<note place="inline">并序</note></head><byline type="author">釋德洪</byline>
 <lb ed="D" n="1187b06"/><p id="pD52p1187b0601">道之深妙。不可以義得。故設彖象以盡其&CB11730;。心之精
 <lb ed="D" n="1187b07"/>微。不可以言傳。故指事法以傳其妙。惟棗柏大士。深
 <lb ed="D" n="1187b08"/>入此三昧。故謹稽首為之贊曰。</p>
@@ -22160,7 +22160,7 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="D" n="1189b04"/>脫略陰界。青黃摸&CB15148;。果因不昧。我有大機。佛無密語。
 <lb ed="D" n="1189b05"/>如師子王。露地方踞。稱性文字。隨分叢林。如以妙指。
 <lb ed="D" n="1189b06"/>&CB07514;和雅音。同世之波。壽九十二。護持心宗。<app><lem wit="【CBETA】" resp="CBETA.maha">諡</lem><rdg wit="【國圖】">謚</rdg></app>曰大智。</l></lg></div3>
-<lb ed="D" n="1189b07"/><div3 type="other"><mulu type="其他" level="3" label="大達國師無業公&CB15148;像贊"/><head>大達國師無業公&CB15148;像贊<note place="inline">并序</note></head><byline type="author">釋德洪</byline>
+<lb ed="D" n="1189b07"/><div3 type="other"><mulu type="其他" level="3" label="大達國師無業公＆CB15148；像贊"/><head>大達國師無業公&CB15148;像贊<note place="inline">并序</note></head><byline type="author">釋德洪</byline>
 <lb ed="D" n="1189b08"/><p id="pD52p1189b0801">余初讀公之語。悚然異之。及考其行事。若尺圍鑰合
 <lb ed="D" n="1189b09"/>然于是自恨不生。公時與之游。又恨公不並生于今
 <pb ed="D" id="D52.8951.1190a" n="1190a"/>
@@ -22177,7 +22177,7 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="D" n="1190b01"/>物莫能嬰。眾生拘囚。如蠅吐污。公如香象。卓立回顧。
 <lb ed="D" n="1190b02"/>擺壞韁鎖。自在而去。公之所養。一至于茲。人英僧傑。
 <lb ed="D" n="1190b03"/>龍章鳳姿。<app><lem wit="【CBETA】" resp="CBETA.maha">諡</lem><rdg wit="【國圖】">謚</rdg></app>曰大達。憲穆之師。</l></lg></div3>
-<lb ed="D" n="1190b04"/><div3 type="other"><mulu type="其他" level="3" label="赤眼禪師&CB15148;像贊"/><head>赤眼禪師&CB15148;像贊<note place="inline">并序</note></head><byline type="author">釋德洪</byline>
+<lb ed="D" n="1190b04"/><div3 type="other"><mulu type="其他" level="3" label="赤眼禪師＆CB15148；像贊"/><head>赤眼禪師&CB15148;像贊<note place="inline">并序</note></head><byline type="author">釋德洪</byline>
 <lb ed="D" n="1190b05"/><p id="pD52p1190b0501">士之學。必有功名之<app><lem wit="【CBETA】" resp="CBETA.maha">羨</lem><rdg wit="【國圖】">羡</rdg></app>。方其銳于立也。平居議論。展
 <lb ed="D" n="1190b06"/>拓所學。若可以唾手而取。及其臨事。能卓然不外其
 <lb ed="D" n="1190b07"/>言者鮮矣。豈天下之事。論之必易。而成之必難也哉。
@@ -22199,7 +22199,7 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="D" n="1191b03"/>嗟余寡助。乃生公後。忍視大法。陵夷末運。奴婢小人。
 <lb ed="D" n="1191b04"/>利欲迫窘。&CB01005;公一吒。腦破膽隕。嗚呼公乎。再見無由。
 <lb ed="D" n="1191b05"/>冗欀方熾。何時云休。願起公死。從之以游。</l></lg></div3>
-<lb ed="D" n="1191b06"/><div3 type="other"><mulu type="其他" level="3" label="破&CB01105;墮和尚贊"/><head>破&CB01105;墮和尚贊<note place="inline">并序</note></head><byline type="author">釋德洪</byline>
+<lb ed="D" n="1191b06"/><div3 type="other"><mulu type="其他" level="3" label="破＆CB01105；墮和尚贊"/><head>破&CB01105;墮和尚贊<note place="inline">并序</note></head><byline type="author">釋德洪</byline>
 <lb ed="D" n="1191b07"/><p id="pD52p1191b0701">余&CB11301;傳燈。愛老安之子。所謂破&CB01105;墮者。深證無生。恨
 <lb ed="D" n="1191b08"/>不與之同時而生也。紹聖中再遊廬山。見其像而贊
 <lb ed="D" n="1191b09"/>曰。</p>
@@ -22222,7 +22222,7 @@ modified: 執行 basicx.bat  將 bm 轉 xml
 <lb ed="D" n="1192b06"/>問荅交馳。摸索大道。心法對峙。破碎真如。異哉此老。
 <lb ed="D" n="1192b07"/>超出兩途。&CB07085;僧面前。波全露水。猛虎須畔。光自照珠。
 <lb ed="D" n="1192b08"/>衲僧不識。如井&CB22121;驢。</l></lg></div3>
-<lb ed="D" n="1192b09"/><div3 type="other"><mulu type="其他" level="3" label="雲門匡真禪師&CB15148;像贊"/><head>雲門匡真禪師&CB15148;像贊<note place="inline">并序</note></head><byline type="author">釋德洪</byline>
+<lb ed="D" n="1192b09"/><div3 type="other"><mulu type="其他" level="3" label="雲門匡真禪師＆CB15148；像贊"/><head>雲門匡真禪師&CB15148;像贊<note place="inline">并序</note></head><byline type="author">釋德洪</byline>
 <pb ed="D" id="D52.8951.1193a" n="1193a"/>
 <lb ed="D" n="1193a01"/><p id="pD52p1193a0101">富鄭公家所蓄雲門匡真禪師像僧元靜移寫其本
 <lb ed="D" n="1193a02"/>藏于鍾山大觀三年六月余獲拜觀稽首贊曰。</p>
